@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Power-change news headlines from 100+ international RSS feeds. Covers elections, coups, uprisings, resignations, and other leadership transitions across 44 tracked countries. Archive window: 14 days. Updated twice daily at 06:00 and 18:00 EST.",
+    "description": "Power-change news headlines from 100+ international RSS feeds. Covers elections, coups, uprisings, resignations, impeachments, and other leadership transitions across 44 tracked countries. Archive window: 14 days. Updated twice daily at 06:00 and 18:00 EST. Each story includes a 'country' field identifying which tracked country the headline pertains to, enabling rapid country-by-country triage.",
     "tracked_countries": [
       "Algeria",
       "Argentina",
@@ -47,14 +47,16 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T03:28:09.834021+00:00",
-    "story_count": 90,
+    "last_updated": "2026-03-31T03:42:38.769545+00:00",
+    "story_count": 95,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
+      "country": "Tracked country this story pertains to",
       "url": "Direct link to the article",
       "published_date": "ISO-8601 UTC publication timestamp"
-    }
+    },
+    "agent_guidance": "To assess significance: group stories by 'country', then look for clusters of multiple independent sources covering the same event (e.g. coup, election result, leader arrest). A single story may be noise; 3+ sources on the same event within 48 hours signals a major change. Key current contexts as of early 2026: Iran — new Supreme Leader Mojtaba Khamenei (appointed March 8, 2026) following assassination of Ali Khamenei; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez; Myanmar — junta chief Min Aung Hlaing transitioning to civilian presidency (March 2026); Canada — PM Mark Carney minority Liberal government (since April 2025 election)."
   },
   "stories": [
     {
@@ -95,7 +97,8 @@
     },
     {
       "title": "64% of those consulted in the survey demand presidential elections in Venezuela this year",
-      "source": "El Nacional (Venezuela)",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/03/encuesta-revela-que-64-de-los-venezolanos-exigen-comicios-presidenciales-en-2026/",
       "published_date": "2026-03-30T23:25:29+00:00"
     },
@@ -126,6 +129,7 @@
     {
       "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
       "source": "Al Jazeera English",
+      "country": "Israel",
       "url": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss",
       "published_date": "2026-03-30T20:50:36+00:00"
     },
@@ -134,6 +138,13 @@
       "source": "Premium Times Nigeria",
       "url": "https://www.premiumtimesng.com/entertainment/nollywood/867993-joseph-dukes-zulu-language-film-earns-amvca-nomination.html",
       "published_date": "2026-03-30T20:48:48+00:00"
+    },
+    {
+      "title": "Israeli Parliament passes law establishing 'death penalty for terrorists'",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/moyen-orient/20260330-le-parlement-isra%C3%A9lien-adopte-une-loi-instaurant-la-peine-de-mort-pour-les-terroristes",
+      "published_date": "2026-03-30T20:19:24+00:00"
     },
     {
       "title": "In Chile, President Kast suspends the regularization of 182,000 migrants planned by his predecessor's administration",
@@ -148,10 +159,25 @@
       "published_date": "2026-03-30T19:55:57+00:00"
     },
     {
+      "title": "Fake images falsely claim Iran captured US marines on Kharg Island",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/fake-images-falsely-claim-iran-captured-us-marines-on-kharg-island",
+      "published_date": "2026-03-30T19:51:28+00:00"
+    },
+    {
       "title": "T.N. Assembly election: candidates to be announced soon, says Selvaperunthagai",
       "source": "The Hindu Politics",
+      "country": "Peru",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-election-candidates-to-be-announced-soon-says-selvaperunthagai/article70803554.ece",
       "published_date": "2026-03-30T19:27:59+00:00"
+    },
+    {
+      "title": "‘I gave up my career to leak this’: UN envoy resigns over claims of planned nuclear strike on Iran",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/un-diplomat-mohamad-safa-resigns-iran-nuclear-weapon-claims-tehran-10610327/",
+      "published_date": "2026-03-30T19:24:09+00:00"
     },
     {
       "title": "Marco Rubio: \"Venezuela needs a democratic government; we are on track to achieve it\"",
@@ -168,12 +194,14 @@
     {
       "title": "Israeli parliament approves death penalty for Palestinians convicted of murdering Israelis",
       "source": "South China Morning Post",
+      "country": "Israel",
       "url": "https://www.scmp.com/news/world/middle-east/article/3348454/israeli-parliament-approves-death-penalty-palestinians-convicted-murdering-israelis?utm_source=rss_feed",
       "published_date": "2026-03-30T18:49:16+00:00"
     },
     {
       "title": "Israeli parliament approves death penalty for Palestinians convicted of murdering Israelis",
       "source": "Indian Express",
+      "country": "Israel",
       "url": "https://indianexpress.com/article/world/israel-death-penalty-law-palestinians-west-bank-ben-gvir-10610303/",
       "published_date": "2026-03-30T18:40:44+00:00"
     },
@@ -185,7 +213,8 @@
     },
     {
       "title": "Europeans protest: Israel's parliament approves expansion of death penalty",
-      "source": "Frankfurter Allgemeine",
+      "source": "FAZ Germany",
+      "country": "Israel",
       "url": "https://www.faz.net/aktuell/politik/ausland/israels-parlament-billigt-erweiterung-der-todesstrafe-200687352.html",
       "published_date": "2026-03-30T18:09:35+00:00"
     },
@@ -204,6 +233,7 @@
     {
       "title": "Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’",
       "source": "The Guardian World",
+      "country": "Canada",
       "url": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
       "published_date": "2026-03-30T17:39:53+00:00"
     },
@@ -227,7 +257,8 @@
     },
     {
       "title": "Trump insists there are serious talks with a new Iranian regime",
-      "source": "El Nacional (Venezuela)",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
       "url": "https://www.elnacional.com/2026/03/trump-insiste-que-hay-conversaciones-serias-con-un-nuevo-regimen-de-iran/",
       "published_date": "2026-03-30T16:33:25+00:00"
     },
@@ -263,7 +294,8 @@
     },
     {
       "title": "Israeli parliament approves the death penalty for Palestinians convicted of murdering Israelis",
-      "source": "CBC News",
+      "source": "CBC News World",
+      "country": "Israel",
       "url": "https://www.cbc.ca/news/world/israel-death-penalty-law-palestinian-9.7147421?cmp=rss",
       "published_date": "2026-03-30T14:52:54+00:00"
     },
@@ -281,7 +313,8 @@
     },
     {
       "title": "Planned Knesset vote: EU states call for repeal of death penalty law in Israel",
-      "source": "Frankfurter Allgemeine",
+      "source": "FAZ Germany",
+      "country": "Israel",
       "url": "https://www.faz.net/aktuell/politik/ausland/israel-europaeische-aussenminister-warnen-vor-ausweitung-der-todesstrafe-200683963.html",
       "published_date": "2026-03-30T14:03:17+00:00"
     },
@@ -310,6 +343,13 @@
       "published_date": "2026-03-30T12:49:53+00:00"
     },
     {
+      "title": "Disneyland Paris inaugurated Disney Adventure World with an unprecedented technological commitment",
+      "source": "El Nacional Venezuela",
+      "country": "France",
+      "url": "https://www.elnacional.com/2026/03/disney-adventure-world-en-paris-tecnologia-sin-precedentes/",
+      "published_date": "2026-03-30T12:45:26+00:00"
+    },
+    {
       "title": "China This Week | Putin may visit China after Trump, new Indian Ambassador appointed, and China’s ocean mapping",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/explained/explained-global/china-this-week-putin-trump-visit-ambassador-maritime-capabilities-10609799/",
@@ -324,6 +364,7 @@
     {
       "title": "Myanmar paves way for junta chief to be civilian president, ruling with ‘iron fist’",
       "source": "South China Morning Post",
+      "country": "Myanmar",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3348416/myanmar-paves-way-junta-chief-be-civilian-president-ruling-iron-fist?utm_source=rss_feed",
       "published_date": "2026-03-30T10:23:09+00:00"
     },
@@ -336,6 +377,7 @@
     {
       "title": "Critic of Myanmar junta denied amnesty, sentenced to hard labour",
       "source": "Myanmar Now",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/critic-of-myanmar-junta-denied-amnesty-sentenced-to-hard-labour/",
       "published_date": "2026-03-30T09:27:02+00:00"
     },
@@ -360,12 +402,14 @@
     {
       "title": "Taiwan opposition leader accepts Xi's invite to visit China",
       "source": "Deutsche Welle English",
+      "country": "China",
       "url": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-03-30T07:33:00+00:00"
     },
     {
       "title": "New army chief installed as Myanmar junta leader moves toward presidency",
       "source": "Myanmar Now",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/new-army-chief-installed-as-myanmar-junta-leader-moves-toward-presidency/",
       "published_date": "2026-03-30T06:15:45+00:00"
     },
@@ -378,6 +422,7 @@
     {
       "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
       "source": "BBC World",
+      "country": "Myanmar",
       "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-30T05:26:09+00:00"
     },
@@ -430,6 +475,13 @@
       "published_date": "2026-03-27T15:48:48+00:00"
     },
     {
+      "title": "Villages west of Mogok evacuated in anticipation of junta assaults",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/villages-west-of-mogok-evacuated-in-anticipation-of-junta-assaults/",
+      "published_date": "2026-03-27T10:34:12+00:00"
+    },
+    {
       "title": "Presidential: a narrow majority of French people in favor of Édouard Philippe participating in a possible right-wing primary",
       "source": "Le Figaro (France)",
       "url": "https://www.lefigaro.fr/politique/presidentielle-une-courte-majorite-de-francais-favorable-a-ce-qu-edouard-philippe-participe-a-une-eventuelle-primaire-de-la-droite-20260326",
@@ -450,12 +502,14 @@
     {
       "title": "Why House Democrats are waiting until mid-April to force an Iran war powers vote",
       "source": "Axios World",
+      "country": "Iran",
       "url": "https://www.axios.com/2026/03/26/iran-trump-war-powers-vote-house-democrats",
       "published_date": "2026-03-26T19:46:22+00:00"
     },
     {
       "title": "Scoop: Nancy Mace eyes break with GOP on Iran war powers vote in blow to Trump",
       "source": "Axios World",
+      "country": "Iran",
       "url": "https://www.axios.com/2026/03/26/nancy-mace-iran-war-powers-trump-johnson",
       "published_date": "2026-03-26T14:45:20+00:00"
     },
@@ -480,6 +534,7 @@
     {
       "title": "\"They'll get mowed down\": Trump rebuffed Netanyahu idea to call for Iran uprising",
       "source": "Axios World",
+      "country": "Iran",
       "url": "https://www.axios.com/2026/03/25/trump-netanyahu-iran-uprising-rejected",
       "published_date": "2026-03-25T19:13:55+00:00"
     },
@@ -504,6 +559,7 @@
     {
       "title": "Kokang army tightens grip on China-Myanmar trade routes amid junta’s political transition",
       "source": "Myanmar Now",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/kokang-army-tightens-grip-on-china-myanmar-trade-routes-amid-juntas-political-transition/",
       "published_date": "2026-03-25T12:55:00+00:00"
     },
@@ -516,8 +572,16 @@
     {
       "title": "House Democrats clamp down on defections ahead of new Iran war powers vote",
       "source": "Axios World",
+      "country": "Iran",
       "url": "https://www.axios.com/2026/03/24/iran-war-powers-vote-house-landsman-cuellar",
       "published_date": "2026-03-24T20:47:04+00:00"
+    },
+    {
+      "title": "Ukraine says it’s weighing protections for captured North Korean soldiers",
+      "source": "NK News",
+      "country": "North Korea",
+      "url": "https://www.nknews.org/2026/03/ukraine-says-its-weighing-protections-for-captured-north-korean-soldiers/",
+      "published_date": "2026-03-24T09:11:23+00:00"
     },
     {
       "title": "Kim Jong Un denounces US as ‘terrorist’ state in apparent reference to Iran war",
@@ -534,6 +598,7 @@
     {
       "title": "North Korean parliament reelects Kim as leader and elevates his top aides",
       "source": "NK News",
+      "country": "North Korea",
       "url": "https://www.nknews.org/2026/03/north-korean-parliament-elevates-kim-aides-set-to-tackle-constitution-revision/",
       "published_date": "2026-03-22T23:20:25+00:00"
     },
@@ -576,6 +641,7 @@
     {
       "title": "‘A long way to go’: As Syrians commemorate the revolution, has it achieved its goals?",
       "source": "Syria Direct",
+      "country": "Syria",
       "url": "https://syriadirect.org/syrians-commemorate-the-revolution-has-it-achieved-its-goals/",
       "published_date": "2026-03-18T19:49:05+00:00"
     },
@@ -590,12 +656,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/peter-ward-inside-north-koreas-expanding-crackdown-on-unsocialist-behavior/",
       "published_date": "2026-03-17T05:48:47+00:00"
-    },
-    {
-      "title": "North Korea’s parliament to convene on short notice to revise constitution",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/north-koreas-parliament-to-convene-on-short-notice-to-revise-constitution/",
-      "published_date": "2026-03-17T03:24:56+00:00"
     }
   ]
 }
