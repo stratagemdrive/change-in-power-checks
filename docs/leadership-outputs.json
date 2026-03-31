@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T04:24:03.573886+00:00",
-    "story_count": 90,
+    "last_updated": "2026-03-31T04:58:18.735734+00:00",
+    "story_count": 97,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,14 @@
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-west-bengal-tamil-nadu-puducherry-2026-live-updates/article70805616.ece",
-      "published_date": "2026-03-31T04:14:51+00:00"
+      "published_date": "2026-03-31T04:34:48+00:00"
+    },
+    {
+      "title": "Kerala Assembly Elections 2026: Jamaat-e-Islami Hind, Welfare Party of India at the centre of political storms",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-jamaat-e-islami-hind-welfare-party-of-india-at-the-centre-of-political-storms/article70803584.ece",
+      "published_date": "2026-03-31T04:32:29+00:00"
     },
     {
       "title": "Gulf States pressure Trump to continue war with Iran until fall of Islamic regime - report",
@@ -79,6 +86,20 @@
       "url": "https://www.lanacion.com.ar/el-mundo/por-que-iran-mantiene-el-control-sobre-el-estrecho-de-ormuz-pese-a-que-el-regimen-fue-decapitado-nid26032026/",
       "published_date": "2026-03-31T02:00:00+00:00",
       "country": "Iran"
+    },
+    {
+      "title": "'Deeply emotional': Leaders lament Nitish Kumar’s exit from Bihar Legislative Council after Rajya Sabha election",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/deeply-emotional-leaders-lament-nitish-kumar-s-exit-from-bihar-legislative-council-after-rajya-sabha-election-101774920308301.html",
+      "published_date": "2026-03-31T01:41:11+00:00"
+    },
+    {
+      "title": "Illegal immigration national security issue, not election slogan: PM Modi in Assam",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/illegal-immigration-national-security-issue-not-election-slogan-pm-modi-in-assam-election-2026-campaign-101774920040203.html",
+      "published_date": "2026-03-31T01:36:55+00:00"
     },
     {
       "title": "Government looks to prorogue Parliament if Liberals sweep April 13 by-elections",
@@ -127,6 +148,13 @@
       "url": "https://www.japantimes.co.jp/news/2026/03/31/world/economic-collapse-iran-dissent/",
       "published_date": "2026-03-30T23:15:00+00:00",
       "country": "Iran"
+    },
+    {
+      "title": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGlGSkFtUGhxdzZqWVpYVkxPMDRTSkJoZnlFNXB1R014TWpPUVFxaGNUejlCQ0hHeEtPNWxUVG9pc1Q1RS0yd25veFM4SUhyek9uMU5OZzQ5dUQ2emxZbW05Yjl6dmZ4RldRTGpGZ2tKMThsUHpJOVU0OE13T2VPMTRfZ3NiSF8tMlBlWGlLaTVYMWxOVlpwM01tSU9GV1JzRjVHSmFHN3NjaE43dGNnMzFlb2Nndw?oc=5",
+      "published_date": "2026-03-30T21:47:00+00:00"
     },
     {
       "title": "'The hypocrisy was so stark' expert says, as US reverses course on Cuba oil blockade",
@@ -182,6 +210,13 @@
       "country": "Iran",
       "url": "https://indianexpress.com/article/world/un-diplomat-mohamad-safa-resigns-iran-nuclear-weapon-claims-tehran-10610327/",
       "published_date": "2026-03-30T19:24:09+00:00"
+    },
+    {
+      "title": "Israeli parliament approves new death penalty law that applies only to Palestinians",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/parlamento-israeli-aprueba-la-nueva-ley-de-pena-de-muerte-que-se-aplica-solo-a-palestinos/",
+      "published_date": "2026-03-30T19:23:08+00:00"
     },
     {
       "title": "Marco Rubio: \"Venezuela needs a democratic government; we are on track to achieve it\"",
@@ -382,7 +417,7 @@
     {
       "title": "Taiwan opposition leader accepts Xi's invite to visit China",
       "source": "Deutsche Welle English",
-      "country": "Taiwan",
+      "country": "China",
       "url": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-03-30T07:33:00+00:00"
     },
@@ -399,6 +434,13 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/new-army-chief-installed-as-myanmar-junta-leader-moves-toward-presidency/",
       "published_date": "2026-03-30T06:15:45+00:00"
+    },
+    {
+      "title": "BJP president Nitin Nabin resigns as Bihar MLC after election to Rajya Sabha",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-resigns-as-bihar-mlc-after-election-to-rajya-sabha-101774850396205.html",
+      "published_date": "2026-03-30T05:59:55+00:00"
     },
     {
       "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
@@ -420,6 +462,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-acirrada-faz-lula-e-flavio-apostarem-em-propaganda-na-tv-e-abre-guerra-por-apoio-do-centrao.shtml",
       "published_date": "2026-03-30T02:00:00+00:00"
+    },
+    {
+      "title": "Nitin Nabin’s resignation from Assembly held up as BJP brainstorms next Bihar CM",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/nitin-nabin-s-resignation-from-assembly-held-up-as-bjp-brainstorms-next-bihar-cm-101774801449649.html",
+      "published_date": "2026-03-29T16:42:27+00:00"
     },
     {
       "title": "Minister of Housing & Construction discusses PPP investment projects with Libyan Egyptian Joint Venture private company",
