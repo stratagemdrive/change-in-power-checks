@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T04:58:18.735734+00:00",
-    "story_count": 97,
+    "last_updated": "2026-03-31T06:04:22.602909+00:00",
+    "story_count": 101,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,32 @@
   },
   "stories": [
     {
-      "title": "Assembly Election LIVE: Nirmala Sitharaman releases BJP manifesto for Assam polls",
+      "title": "Assembly Election LIVE: BJP releases manifesto for Assam polls, promises UCC, steps against 'love jihad'",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-west-bengal-tamil-nadu-puducherry-2026-live-updates/article70805616.ece",
-      "published_date": "2026-03-31T04:34:48+00:00"
+      "published_date": "2026-03-31T05:33:54+00:00"
+    },
+    {
+      "title": "Assam Assembly elections: BJP manifesto promises ₹5 lakh cr. investment, protection of indigenous people",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-polls-2026-bjp-manifesto-nirmala-sitharaman-himanta-biswa-sarma/article70805752.ece",
+      "published_date": "2026-03-31T05:29:02+00:00"
+    },
+    {
+      "title": "Kerala Assembly Elections 2026: At central Travancore rally, Rahul Gandhi promises to raise rubber price to ₹250",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/at-central-travancore-rally-rahul-promises-to-raise-rubber-price-to-250/article70804028.ece",
+      "published_date": "2026-03-31T05:10:52+00:00"
+    },
+    {
+      "title": "Press Club of India issues election reporting advisory to media",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/press-club-of-india-issues-election-reporting-advisory-to-media/article70803183.ece",
+      "published_date": "2026-03-31T04:45:25+00:00"
     },
     {
       "title": "Kerala Assembly Elections 2026: Jamaat-e-Islami Hind, Welfare Party of India at the centre of political storms",
@@ -72,6 +93,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-jamaat-e-islami-hind-welfare-party-of-india-at-the-centre-of-political-storms/article70803584.ece",
       "published_date": "2026-03-31T04:32:29+00:00"
+    },
+    {
+      "title": "The month of March in drawings: war in the Middle East, soaring oil and gas prices, municipal elections in France...",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/la-matinale/article/2026/03/31/le-mois-de-mars-en-dessins-guerre-au-moyen-orient-flambee-des-prix-petro-gaziers-municipales-en-france_6675587_4866763.html",
+      "published_date": "2026-03-31T04:00:40+00:00"
     },
     {
       "title": "Gulf States pressure Trump to continue war with Iran until fall of Islamic regime - report",
@@ -86,6 +114,13 @@
       "url": "https://www.lanacion.com.ar/el-mundo/por-que-iran-mantiene-el-control-sobre-el-estrecho-de-ormuz-pese-a-que-el-regimen-fue-decapitado-nid26032026/",
       "published_date": "2026-03-31T02:00:00+00:00",
       "country": "Iran"
+    },
+    {
+      "title": "Israeli parliament passes budget, allowing Netanyahu to avoid early elections - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnByMm0tYWRKU1Y0eC0xM2pHU1dwRWUySVFTQlVHa0JONjVQMkhoTmlfaFJSTTFqRW5zbmoxb1dxR050U1Q1U3VwcGFjYUx1eUVRNDhUTG5ISURnZzdDeHgycjRFdC1LUGJxbl93ZkZNOW1reDMxb00xeHA1MDZXNldXT1htbVZPTjNCY0RaRkRIekxTS1F1bkhIOFpxZHdzN3N4TA?oc=5",
+      "published_date": "2026-03-31T01:48:00+00:00"
     },
     {
       "title": "'Deeply emotional': Leaders lament Nitish Kumar’s exit from Bihar Legislative Council after Rajya Sabha election",
@@ -417,7 +452,7 @@
     {
       "title": "Taiwan opposition leader accepts Xi's invite to visit China",
       "source": "Deutsche Welle English",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-03-30T07:33:00+00:00"
     },
@@ -727,13 +762,6 @@
       "url": "https://www.theglobeandmail.com/canada/alberta/article-albertas-smith-says-she-took-private-flight-on-behalf-of-saudi/",
       "published_date": "2026-03-18T16:49:22+00:00",
       "country": "Saudi Arabia"
-    },
-    {
-      "title": "Peter Ward: Inside North Korea’s expanding crackdown on ‘unsocialist’ behavior",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/peter-ward-inside-north-koreas-expanding-crackdown-on-unsocialist-behavior/",
-      "published_date": "2026-03-17T05:48:47+00:00",
-      "country": "North Korea"
     }
   ]
 }
