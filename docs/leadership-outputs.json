@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Power-change news headlines from 100+ international RSS feeds. Covers elections, coups, uprisings, resignations, impeachments, and other leadership transitions across 44 tracked countries. Archive window: 14 days. Updated twice daily at 06:00 and 18:00 EST. Each story includes a 'country' field identifying which tracked country the headline pertains to, enabling rapid country-by-country triage.",
+    "description": "Power-change news headlines from 100+ international RSS feeds. Covers elections, coups, uprisings, resignations, impeachments, party switches, and other leadership transitions across 44 tracked countries. Archive window: 14 days. Updated twice daily at 06:00 and 18:00 EST. Country resolution uses 687 aliases covering demonyms, capitals, legislature names, party names, leader names, and political abbreviations.",
     "tracked_countries": [
       "Algeria",
       "Argentina",
@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T03:42:38.769545+00:00",
-    "story_count": 95,
+    "last_updated": "2026-03-31T04:24:03.573886+00:00",
+    "story_count": 90,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -56,20 +56,29 @@
       "url": "Direct link to the article",
       "published_date": "ISO-8601 UTC publication timestamp"
     },
-    "agent_guidance": "To assess significance: group stories by 'country', then look for clusters of multiple independent sources covering the same event (e.g. coup, election result, leader arrest). A single story may be noise; 3+ sources on the same event within 48 hours signals a major change. Key current contexts as of early 2026: Iran — new Supreme Leader Mojtaba Khamenei (appointed March 8, 2026) following assassination of Ali Khamenei; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez; Myanmar — junta chief Min Aung Hlaing transitioning to civilian presidency (March 2026); Canada — PM Mark Carney minority Liberal government (since April 2025 election)."
+    "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Assembly Election LIVE: Nirmala Sitharaman releases BJP manifesto for Assam polls",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-west-bengal-tamil-nadu-puducherry-2026-live-updates/article70805616.ece",
+      "published_date": "2026-03-31T04:14:51+00:00"
+    },
     {
       "title": "Gulf States pressure Trump to continue war with Iran until fall of Islamic regime - report",
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-891722",
-      "published_date": "2026-03-31T02:29:10+00:00"
+      "published_date": "2026-03-31T02:29:10+00:00",
+      "country": "Iran"
     },
     {
       "title": "Why Iran maintains control over the Strait of Hormuz, despite the fact that “the regime was decapitated”",
       "source": "La Nacion (Argentina)",
       "url": "https://www.lanacion.com.ar/el-mundo/por-que-iran-mantiene-el-control-sobre-el-estrecho-de-ormuz-pese-a-que-el-regimen-fue-decapitado-nid26032026/",
-      "published_date": "2026-03-31T02:00:00+00:00"
+      "published_date": "2026-03-31T02:00:00+00:00",
+      "country": "Iran"
     },
     {
       "title": "Government looks to prorogue Parliament if Liberals sweep April 13 by-elections",
@@ -81,19 +90,29 @@
       "title": "Israeli Prime Minister says Iran's war target is 'more than halfway'",
       "source": "Thanh Nien News",
       "url": "https://thanhnien.vn/thu-tuong-israel-noi-muc-tieu-chien-su-iran-vuot-nua-chang-duong-185260331065803483.htm",
-      "published_date": "2026-03-31T00:56:00+00:00"
+      "published_date": "2026-03-31T00:56:00+00:00",
+      "country": "Iran"
+    },
+    {
+      "title": "The ruling party confirmed Lemoine to chair the Impeachment Commission and block the removal attempts against Milei",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/el-oficialismo-confirmo-a-lemoine-para-presidir-la-comision-de-juicio-politico-y-bloquear-los-nid30032026/",
+      "published_date": "2026-03-30T23:52:16+00:00"
     },
     {
       "title": "Jaishankar meets Russian minister, discusses West Asia war",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/india/jaishankar-meets-russian-minister-discusses-west-asia-war-10610416/",
-      "published_date": "2026-03-30T23:33:50+00:00"
+      "published_date": "2026-03-30T23:33:50+00:00",
+      "country": "Russia"
     },
     {
       "title": "“It’s my personal decision”: the president of Mexico gives more than 1,000 dollars to help Cuba",
       "source": "Le Figaro (France)",
       "url": "https://www.lefigaro.fr/international/c-est-ma-decision-personnelle-la-presidente-du-mexique-donne-plus-de-1000-dollars-pour-aider-cuba-20260331",
-      "published_date": "2026-03-30T23:33:49+00:00"
+      "published_date": "2026-03-30T23:33:49+00:00",
+      "country": "Cuba"
     },
     {
       "title": "64% of those consulted in the survey demand presidential elections in Venezuela this year",
@@ -106,25 +125,22 @@
       "title": "Fearing economic collapse after war, Iran cracks down on dissent",
       "source": "Japan Times",
       "url": "https://www.japantimes.co.jp/news/2026/03/31/world/economic-collapse-iran-dissent/",
-      "published_date": "2026-03-30T23:15:00+00:00"
+      "published_date": "2026-03-30T23:15:00+00:00",
+      "country": "Iran"
     },
     {
       "title": "'The hypocrisy was so stark' expert says, as US reverses course on Cuba oil blockade",
       "source": "France 24 English",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260330-the-hypocrisy-was-so-stark-expert-says-as-us-reverses-course-on-cuba-oil-blockade",
-      "published_date": "2026-03-30T21:39:49+00:00"
+      "published_date": "2026-03-30T21:39:49+00:00",
+      "country": "Cuba"
     },
     {
       "title": "Government can’t handle Iran war fallout ‘on its own’, Starmer admits",
       "source": "The Telegraph",
       "url": "https://www.telegraph.co.uk/business/2026/03/30/markets-latest-news-oil-prices-rise-iran-war-middle-east/",
-      "published_date": "2026-03-30T21:33:32+00:00"
-    },
-    {
-      "title": "Politics Insider: Air Canada CEO to step down",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-air-canada-ceo-to-step-down/",
-      "published_date": "2026-03-30T20:58:20+00:00"
+      "published_date": "2026-03-30T21:33:32+00:00",
+      "country": "Iran"
     },
     {
       "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
@@ -132,12 +148,6 @@
       "country": "Israel",
       "url": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss",
       "published_date": "2026-03-30T20:50:36+00:00"
-    },
-    {
-      "title": "Joseph Duke’s Zulu-language film earns AMVCA nomination",
-      "source": "Premium Times Nigeria",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/867993-joseph-dukes-zulu-language-film-earns-amvca-nomination.html",
-      "published_date": "2026-03-30T20:48:48+00:00"
     },
     {
       "title": "Israeli Parliament passes law establishing 'death penalty for terrorists'",
@@ -150,20 +160,14 @@
       "title": "In Chile, President Kast suspends the regularization of 182,000 migrants planned by his predecessor's administration",
       "source": "Le Monde (France)",
       "url": "https://www.lemonde.fr/international/article/2026/03/30/au-chili-le-president-kast-suspend-la-regularisation-de-182-000-migrants-prevue-par-l-administration-de-son-predecesseur_6675498_3210.html",
-      "published_date": "2026-03-30T20:12:15+00:00"
+      "published_date": "2026-03-30T20:12:15+00:00",
+      "country": "Chile"
     },
     {
       "title": "Parliament Budget Session updates: Maoism has been almost eradicated from Bastar, the region is now on the path of development, says Amit Shah",
       "source": "The Hindu Politics",
       "url": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-march-30-2026-lok-sabha-insolvency-bankruptcy-code-capf-bill/article70801775.ece",
       "published_date": "2026-03-30T19:55:57+00:00"
-    },
-    {
-      "title": "Fake images falsely claim Iran captured US marines on Kharg Island",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/fake-images-falsely-claim-iran-captured-us-marines-on-kharg-island",
-      "published_date": "2026-03-30T19:51:28+00:00"
     },
     {
       "title": "T.N. Assembly election: candidates to be announced soon, says Selvaperunthagai",
@@ -183,13 +187,8 @@
       "title": "Marco Rubio: \"Venezuela needs a democratic government; we are on track to achieve it\"",
       "source": "El Nacional (Venezuela)",
       "url": "https://www.elnacional.com/2026/03/marco-rubio-venezuela-necesita-un-gobierno-democratico-estamos-encaminados-para-lograrlo/",
-      "published_date": "2026-03-30T19:07:20+00:00"
-    },
-    {
-      "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss",
-      "published_date": "2026-03-30T18:56:01+00:00"
+      "published_date": "2026-03-30T19:07:20+00:00",
+      "country": "Venezuela"
     },
     {
       "title": "Israeli parliament approves death penalty for Palestinians convicted of murdering Israelis",
@@ -209,7 +208,8 @@
       "title": "Canadian authorities censoring European Parliament member Rima Hassan, Montreal organizations say",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/canada/article-european-parliament-rima-hassan-montreal-palestine/",
-      "published_date": "2026-03-30T18:16:46+00:00"
+      "published_date": "2026-03-30T18:16:46+00:00",
+      "country": "Canada"
     },
     {
       "title": "Europeans protest: Israel's parliament approves expansion of death penalty",
@@ -222,13 +222,8 @@
       "title": "Israel must crawl to the cross after denying access to Catholic leader",
       "source": "Politiken (Denmark)",
       "url": "https://politiken.dk/internationalt/art10788789/Israel-m%C3%A5-krybe-til-korset-efter-at-have-n%C3%A6gtet-adgang-til-katolsk-leder",
-      "published_date": "2026-03-30T17:59:59+00:00"
-    },
-    {
-      "title": "Pope Leo XIV appointed Venezuelan archbishop Edgar Peña apostolic nuncio to Italy and San Marino",
-      "source": "El Nacional (Venezuela)",
-      "url": "https://www.elnacional.com/2026/03/papa-leon-xiv-nombro-al-arzobispo-venezolano-edgar-pena-nuncio-apostolico-en-italia-y-san-marino/",
-      "published_date": "2026-03-30T17:58:28+00:00"
+      "published_date": "2026-03-30T17:59:59+00:00",
+      "country": "Israel"
     },
     {
       "title": "Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’",
@@ -241,11 +236,20 @@
       "title": "Nigeria: Curfew in Jos area after attack near university",
       "source": "Deutsche Welle English",
       "url": "https://www.dw.com/en/nigeria-curfew-in-jos-area-after-attack-near-university/a-76598006?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-03-30T17:37:00+00:00"
+      "published_date": "2026-03-30T17:37:00+00:00",
+      "country": "Nigeria"
+    },
+    {
+      "title": "We will have to solve Bolsonaro family problems to win the elections, says Valdemar",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/vamos-ter-que-resolver-problemas-da-familia-bolsonaro-para-ganhar-as-eleicoes-diz-valdemar.shtml",
+      "published_date": "2026-03-30T17:24:00+00:00"
     },
     {
       "title": "Carlos Silva Amarista is appointed president of the Caracas Metro",
-      "source": "El Nacional (Venezuela)",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/03/designan-a-carlos-silva-amarista-como-nuevo-presidente-del-metro-de-caracas/",
       "published_date": "2026-03-30T16:45:00+00:00"
     },
@@ -253,7 +257,8 @@
       "title": "48-hour curfew imposed after attack on bar in Nigerian city",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T16:44:28+00:00"
+      "published_date": "2026-03-30T16:44:28+00:00",
+      "country": "Nigeria"
     },
     {
       "title": "Trump insists there are serious talks with a new Iranian regime",
@@ -265,6 +270,7 @@
     {
       "title": "Nigerian president's rivals get major boost as political heavyweight joins fold",
       "source": "BBC World",
+      "country": "Nigeria",
       "url": "https://www.bbc.com/news/articles/c2k3vzjp1ylo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-30T16:30:58+00:00"
     },
@@ -272,25 +278,22 @@
       "title": "High official of the Portuguese government will visit Venezuela",
       "source": "El Nacional (Venezuela)",
       "url": "https://www.elnacional.com/2026/03/alto-funcionario-del-gobierno-de-portugal-visitara-venezuela/",
-      "published_date": "2026-03-30T16:08:12+00:00"
-    },
-    {
-      "title": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/mar/30/air-canada-ceo-resignation",
-      "published_date": "2026-03-30T16:06:42+00:00"
+      "published_date": "2026-03-30T16:08:12+00:00",
+      "country": "Venezuela"
     },
     {
       "title": "Protest against Israel: death penalty only for Palestinians?",
       "source": "Frankfurter Allgemeine",
       "url": "https://www.faz.net/aktuell/politik/inland/aufmerken-ist-erlaubt-wenn-israel-die-todesstrafe-wieder-anwenden-will-200686483.html",
-      "published_date": "2026-03-30T15:37:49+00:00"
+      "published_date": "2026-03-30T15:37:49+00:00",
+      "country": "Israel"
     },
     {
       "title": "President Zardari, PM Shehbaz review regional situation, implications for Pakistan",
       "source": "Dawn Pakistan",
       "url": "https://www.dawn.com/news/1986837/president-zardari-pm-shehbaz-review-regional-situation-implications-for-pakistan",
-      "published_date": "2026-03-30T15:19:28+00:00"
+      "published_date": "2026-03-30T15:19:28+00:00",
+      "country": "Pakistan"
     },
     {
       "title": "Israeli parliament approves the death penalty for Palestinians convicted of murdering Israelis",
@@ -300,16 +303,11 @@
       "published_date": "2026-03-30T14:52:54+00:00"
     },
     {
-      "title": "Air Canada CEO to step down after row over English-only crash message",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/world/air-canada-ceo-michael-rousseau-retire-french-language-controversy-ny-crash-10610029/",
-      "published_date": "2026-03-30T14:44:20+00:00"
-    },
-    {
       "title": "If Trump makes good on his threat, he will pull the rug out from under the Iranian government",
       "source": "Politiken (Denmark)",
       "url": "https://politiken.dk/internationalt/art10788694/Hvis-Trump-g%C3%B8r-alvor-af-sin-trussel-tr%C3%A6kker-han-t%C3%A6ppet-v%C3%A6k-under-den-iranske-regering",
-      "published_date": "2026-03-30T14:21:48+00:00"
+      "published_date": "2026-03-30T14:21:48+00:00",
+      "country": "Iran"
     },
     {
       "title": "Planned Knesset vote: EU states call for repeal of death penalty law in Israel",
@@ -322,42 +320,27 @@
       "title": "Japan’s PM will mull top-level talks with Iran  at ‘appropriate’ time",
       "source": "South China Morning Post",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3348442/japans-pm-will-mull-top-level-talks-iran-appropriate-time?utm_source=rss_feed",
-      "published_date": "2026-03-30T13:54:55+00:00"
-    },
-    {
-      "title": "Trump allows Russian oil tanker to reach Cuba, breaking his fuel blockade of island",
-      "source": "Egypt Independent",
-      "url": "https://egyptindependent.com/trump-allows-russian-oil-tanker-to-reach-cuba-breaking-his-fuel-blockade-of-island/",
-      "published_date": "2026-03-30T13:34:17+00:00"
+      "published_date": "2026-03-30T13:54:55+00:00",
+      "country": "Iran"
     },
     {
       "title": "Palm Sunday mass at Jerusalem: Why Israel’s blockade of Latin patriarch provoked outrage",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/explained/explained-culture/jerusalem-church-palm-sunday-patriarch-blocked-israel-10609852/",
-      "published_date": "2026-03-30T12:57:18+00:00"
-    },
-    {
-      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
-      "published_date": "2026-03-30T12:49:53+00:00"
-    },
-    {
-      "title": "Disneyland Paris inaugurated Disney Adventure World with an unprecedented technological commitment",
-      "source": "El Nacional Venezuela",
-      "country": "France",
-      "url": "https://www.elnacional.com/2026/03/disney-adventure-world-en-paris-tecnologia-sin-precedentes/",
-      "published_date": "2026-03-30T12:45:26+00:00"
+      "published_date": "2026-03-30T12:57:18+00:00",
+      "country": "Israel"
     },
     {
       "title": "China This Week | Putin may visit China after Trump, new Indian Ambassador appointed, and China’s ocean mapping",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/explained/explained-global/china-this-week-putin-trump-visit-ambassador-maritime-capabilities-10609799/",
-      "published_date": "2026-03-30T12:16:55+00:00"
+      "published_date": "2026-03-30T12:16:55+00:00",
+      "country": "China"
     },
     {
       "title": "FM holds talks with Pakistani PM in Islamabad on regional crisis",
       "source": "Egypt Independent",
+      "country": "Pakistan",
       "url": "https://egyptindependent.com/fm-holds-talks-with-pakistani-pm-in-islamabad-on-regional-crisis/",
       "published_date": "2026-03-30T10:28:27+00:00"
     },
@@ -372,7 +355,8 @@
       "title": "Finance Minister to visit China on trade-diversification mission",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/politics/article-finance-minister-heads-to-china-on-trade-diversification-mission/",
-      "published_date": "2026-03-30T10:00:00+00:00"
+      "published_date": "2026-03-30T10:00:00+00:00",
+      "country": "China"
     },
     {
       "title": "Critic of Myanmar junta denied amnesty, sentenced to hard labour",
@@ -385,26 +369,29 @@
       "title": "Belarusian leader seeks to mediate between US and North Korea: Minsk",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/belarusian-leader-seeks-to-mediate-between-us-and-north-korea-minsk/",
-      "published_date": "2026-03-30T08:33:24+00:00"
-    },
-    {
-      "title": "Russian Oil Tanker Arrives in Cuba After Trump Shrugs Off His Own Fuel Blockade",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/russian-oil-tanker-arrives-in-cuba-after-trump-shrugs-off-his-own-fuel-blockade-a92366",
-      "published_date": "2026-03-30T08:21:00+00:00"
+      "published_date": "2026-03-30T08:33:24+00:00",
+      "country": "North Korea"
     },
     {
       "title": "PM Shehbaz expresses gratitude to foreign ministers after quad moot, reiterates Pakistan’s commitment to peace",
       "source": "Dawn Pakistan",
       "url": "https://www.dawn.com/news/1986782/pm-shehbaz-expresses-gratitude-to-foreign-ministers-after-quad-moot-reiterates-pakistans-commitment-to-peace",
-      "published_date": "2026-03-30T08:17:37+00:00"
+      "published_date": "2026-03-30T08:17:37+00:00",
+      "country": "Pakistan"
     },
     {
       "title": "Taiwan opposition leader accepts Xi's invite to visit China",
       "source": "Deutsche Welle English",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-03-30T07:33:00+00:00"
+    },
+    {
+      "title": "Annulled election in Alerj served as a test of strength between PL and opposition",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-anulada-na-alerj-serviu-como-teste-de-forca-entre-pl-e-oposicao.shtml",
+      "published_date": "2026-03-30T07:00:00+00:00"
     },
     {
       "title": "New army chief installed as Myanmar junta leader moves toward presidency",
@@ -412,12 +399,6 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/new-army-chief-installed-as-myanmar-junta-leader-moves-toward-presidency/",
       "published_date": "2026-03-30T06:15:45+00:00"
-    },
-    {
-      "title": "Trump says he has 'no problem' with Russian oil tanker bringing relief to Cuba despite blockade",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade",
-      "published_date": "2026-03-30T05:37:21+00:00"
     },
     {
       "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
@@ -430,37 +411,50 @@
       "title": "Myanmar dictator ‘nominated’ president in military-stacked parliament",
       "source": "Myanmar Now",
       "url": "https://myanmar-now.org/en/news/myanmar-dictator-nominated-president-in-military-stacked-parliament/",
-      "published_date": "2026-03-30T04:19:13+00:00"
+      "published_date": "2026-03-30T04:19:13+00:00",
+      "country": "Myanmar"
     },
     {
-      "title": "US lets Russian oil tanker approach Cuba despite blockade",
-      "source": "Deutsche Welle English",
-      "url": "https://www.dw.com/en/us-lets-russian-oil-tanker-approach-cuba-despite-blockade/a-76587296?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-03-30T04:00:00+00:00"
+      "title": "Tough election makes Lula and Flávio bet on TV advertising and opens war for support from the center",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-acirrada-faz-lula-e-flavio-apostarem-em-propaganda-na-tv-e-abre-guerra-por-apoio-do-centrao.shtml",
+      "published_date": "2026-03-30T02:00:00+00:00"
     },
     {
       "title": "Minister of Housing & Construction discusses PPP investment projects with Libyan Egyptian Joint Venture private company",
       "source": "Libya Herald",
       "url": "https://libyaherald.com/2026/03/minister-of-housing-construction-discusses-ppp-investment-projects-with-libyan-egyptian-joint-venture-private-company/",
-      "published_date": "2026-03-29T16:29:55+00:00"
+      "published_date": "2026-03-29T16:29:55+00:00",
+      "country": "Libya"
     },
     {
       "title": "European Parliament member says she was denied entry to Canada due to pro-Palestinian views",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/canada/article-european-parliament-rima-hassan/",
-      "published_date": "2026-03-29T15:56:38+00:00"
+      "published_date": "2026-03-29T15:56:38+00:00",
+      "country": "Canada"
     },
     {
       "title": "Pro-Palestine European Parliament member Rima Hassan says she was denied entry to Canada",
       "source": "CBC News",
       "url": "https://www.cbc.ca/news/canada/montreal/rita-hassan-far-left-politician-refused-entry-canada-9.7146419?cmp=rss",
-      "published_date": "2026-03-29T13:42:43+00:00"
+      "published_date": "2026-03-29T13:42:43+00:00",
+      "country": "Palestine"
+    },
+    {
+      "title": "Election successes in the West: If you want to get the AfD down, you have to allay the fears of the citizens",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/wahlerfolge-im-westen-was-hilft-gegen-die-afd-200678831.html",
+      "published_date": "2026-03-29T08:50:38+00:00"
     },
     {
       "title": "Expectant mothers in Cuba struggle under fuel blockade",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T14:14:46+00:00"
+      "published_date": "2026-03-28T14:14:46+00:00",
+      "country": "Cuba"
     },
     {
       "title": "Opposition parliamentarians present criminal report against Gilmar Mendes for talking about leaks at the CPI",
@@ -472,7 +466,8 @@
       "title": "Russian Government Aims to Reopen Black Sea Beaches by June After Oil Spill Cleanup",
       "source": "Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/27/russian-government-aims-to-reopen-black-sea-beaches-by-june-after-oil-spill-cleanup-a92358",
-      "published_date": "2026-03-27T15:48:48+00:00"
+      "published_date": "2026-03-27T15:48:48+00:00",
+      "country": "Russia"
     },
     {
       "title": "Villages west of Mogok evacuated in anticipation of junta assaults",
@@ -485,19 +480,29 @@
       "title": "Presidential: a narrow majority of French people in favor of Édouard Philippe participating in a possible right-wing primary",
       "source": "Le Figaro (France)",
       "url": "https://www.lefigaro.fr/politique/presidentielle-une-courte-majorite-de-francais-favorable-a-ce-qu-edouard-philippe-participe-a-une-eventuelle-primaire-de-la-droite-20260326",
-      "published_date": "2026-03-27T09:54:35+00:00"
+      "published_date": "2026-03-27T09:54:35+00:00",
+      "country": "France"
     },
     {
       "title": "Opposition pounces on Seoul’s hesitation to condemn North Korean right abuses",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/opposition-pounces-on-seouls-hesitation-to-condemn-north-korean-right-abuses/",
-      "published_date": "2026-03-27T09:44:10+00:00"
+      "published_date": "2026-03-27T09:44:10+00:00",
+      "country": "South Korea"
     },
     {
       "title": "UK steps up crackdown on SE Asia scam network",
       "source": "Myanmar Now",
       "url": "https://myanmar-now.org/en/news/uk-steps-up-crackdown-on-se-asia-scam-network/",
-      "published_date": "2026-03-27T05:12:34+00:00"
+      "published_date": "2026-03-27T05:12:34+00:00",
+      "country": "United Kingdom"
+    },
+    {
+      "title": "Ottawa proposes amendments to Elections Act to counter long-ballot protests",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-proposes-amendments-to-elections-act-to-counter-long-ballot/",
+      "published_date": "2026-03-26T20:31:44+00:00"
     },
     {
       "title": "Why House Democrats are waiting until mid-April to force an Iran war powers vote",
@@ -505,6 +510,13 @@
       "country": "Iran",
       "url": "https://www.axios.com/2026/03/26/iran-trump-war-powers-vote-house-democrats",
       "published_date": "2026-03-26T19:46:22+00:00"
+    },
+    {
+      "title": "Ottawa proposes election bill that takes aim at deepfakes, long ballots",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-election-act-deepfakes-long-ballots-nomination-contests/",
+      "published_date": "2026-03-26T16:24:08+00:00"
     },
     {
       "title": "Scoop: Nancy Mace eyes break with GOP on Iran war powers vote in blow to Trump",
@@ -517,19 +529,22 @@
       "title": "Forget Discounts – Russian Oil Is Now Selling at a Premium, Deputy PM Novak Says",
       "source": "Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/26/forget-discounts-russian-oil-is-now-selling-at-a-premium-deputy-pm-novak-says-a92347",
-      "published_date": "2026-03-26T14:09:33+00:00"
+      "published_date": "2026-03-26T14:09:33+00:00",
+      "country": "Russia"
     },
     {
       "title": "Russian Lawmakers Headed to Washington for Meetings, State Department Says",
       "source": "Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/26/russian-lawmakers-headed-to-washington-for-meetings-state-department-says-a92330",
-      "published_date": "2026-03-26T06:29:00+00:00"
+      "published_date": "2026-03-26T06:29:00+00:00",
+      "country": "Russia"
     },
     {
       "title": "Belarusian leader Lukashenko and Kim Jong Un sign friendship deal in Pyongyang",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/belarusian-leader-lukashenko-kicks-off-talks-with-kim-jong-un-in-pyongyang/",
-      "published_date": "2026-03-26T05:08:40+00:00"
+      "published_date": "2026-03-26T05:08:40+00:00",
+      "country": "North Korea"
     },
     {
       "title": "\"They'll get mowed down\": Trump rebuffed Netanyahu idea to call for Iran uprising",
@@ -542,24 +557,27 @@
       "title": "A mysterious group is calling on Russians to protest the Kremlin’s Internet restrictions. Is it a trap?",
       "source": "Meduza (Russia EN)",
       "url": "https://meduza.io/en/feature/2026/03/25/a-mysterious-group-is-calling-on-russians-to-protest-the-kremlin-s-internet-restrictions-is-it-a-trap",
-      "published_date": "2026-03-25T17:43:34+00:00"
+      "published_date": "2026-03-25T17:43:34+00:00",
+      "country": "Russia"
     },
     {
       "title": "Vietnam’s PM Meets With Putin to Discuss Nuclear Power and Investment",
       "source": "Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/25/vietnams-pm-meets-with-putin-to-discuss-nuclear-power-and-investment-a92335",
-      "published_date": "2026-03-25T16:28:42+00:00"
+      "published_date": "2026-03-25T16:28:42+00:00",
+      "country": "Vietnam"
     },
     {
       "title": "Russian Energy Minister Confirms Oil Shipments to Cuba",
       "source": "Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/25/russian-energy-minister-confirms-oil-shipments-to-cuba-a92333",
-      "published_date": "2026-03-25T13:30:00+00:00"
+      "published_date": "2026-03-25T13:30:00+00:00",
+      "country": "Cuba"
     },
     {
       "title": "Kokang army tightens grip on China-Myanmar trade routes amid junta’s political transition",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/kokang-army-tightens-grip-on-china-myanmar-trade-routes-amid-juntas-political-transition/",
       "published_date": "2026-03-25T12:55:00+00:00"
     },
@@ -567,7 +585,8 @@
       "title": "North Korea expected to strengthen role of rubber-stamp parliament, Seoul says",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/north-korea-expected-to-strengthen-role-of-rubber-stamp-parliament-seoul-says/",
-      "published_date": "2026-03-25T10:23:53+00:00"
+      "published_date": "2026-03-25T10:23:53+00:00",
+      "country": "North Korea"
     },
     {
       "title": "House Democrats clamp down on defections ahead of new Iran war powers vote",
@@ -579,7 +598,7 @@
     {
       "title": "Ukraine says it’s weighing protections for captured North Korean soldiers",
       "source": "NK News",
-      "country": "North Korea",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/03/ukraine-says-its-weighing-protections-for-captured-north-korean-soldiers/",
       "published_date": "2026-03-24T09:11:23+00:00"
     },
@@ -587,13 +606,8 @@
       "title": "Kim Jong Un denounces US as ‘terrorist’ state in apparent reference to Iran war",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/kim-jong-un-calls-us-a-terrorist-state-repeats-anti-south-korea-stance/",
-      "published_date": "2026-03-24T01:02:45+00:00"
-    },
-    {
-      "title": "Canada to deploy patrol aircraft to monitor North Korea sanctions evasion at sea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/canada-to-deploy-patrol-aircraft-to-monitor-north-korea-sanctions-evasion-at-sea/",
-      "published_date": "2026-03-24T00:42:22+00:00"
+      "published_date": "2026-03-24T01:02:45+00:00",
+      "country": "Iran"
     },
     {
       "title": "North Korean parliament reelects Kim as leader and elevates his top aides",
@@ -604,7 +618,8 @@
     },
     {
       "title": "Canadians abroad call for increased voter turnout ahead of by-elections",
-      "source": "Globe and Mail",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
       "url": "https://www.theglobeandmail.com/canada/article-voters-abroad-overseas-byelections/",
       "published_date": "2026-03-22T16:03:13+00:00"
     },
@@ -612,31 +627,43 @@
       "title": "Canadian military personnel left Iraq with NATO allies, Defence Minister says",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/canada/article-canadian-military-nato-iraq-mission-iran-war/",
-      "published_date": "2026-03-20T23:51:48+00:00"
+      "published_date": "2026-03-20T23:51:48+00:00",
+      "country": "Canada"
     },
     {
       "title": "The Kremlin appears to be blocking Telegram. Meduza asked its Russia-based readers how well the crackdown is working.",
       "source": "Meduza (Russia EN)",
       "url": "https://meduza.io/en/feature/2026/03/20/the-kremlin-appears-to-be-blocking-telegram-meduza-asked-its-russia-based-readers-how-well-the-crackdown-is-working",
-      "published_date": "2026-03-20T16:12:28+00:00"
+      "published_date": "2026-03-20T16:12:28+00:00",
+      "country": "Russia"
     },
     {
       "title": "A longtime pro-Putin blogger published a tirade against the Russian president. Now he’s in a psychiatric hospital.",
       "source": "Meduza (Russia EN)",
       "url": "https://meduza.io/en/feature/2026/03/20/days-ago-a-longtime-pro-putin-blogger-published-a-tirade-against-the-russian-president-now-he-s-in-a-psychiatric-hospital",
-      "published_date": "2026-03-20T13:06:01+00:00"
+      "published_date": "2026-03-20T13:06:01+00:00",
+      "country": "Russia"
     },
     {
       "title": "Defence Minister walks back comments on learning about Iranian strike from newspaper report",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/canada/article-defence-minister-mcguinty-iran-air-strike/",
-      "published_date": "2026-03-19T19:12:11+00:00"
+      "published_date": "2026-03-19T19:12:11+00:00",
+      "country": "Iran"
     },
     {
       "title": "Telegram news channels are one of Russia’s few major alternatives to state media. The head of one of the largest says their days may be numbered.",
       "source": "Meduza (Russia EN)",
       "url": "https://meduza.io/en/feature/2026/03/19/telegram-news-channels-are-one-of-russia-s-few-major-alternatives-to-state-media-the-head-of-one-of-the-largest-says-their-days-may-be-numbered",
-      "published_date": "2026-03-19T15:43:58+00:00"
+      "published_date": "2026-03-19T15:43:58+00:00",
+      "country": "Russia"
+    },
+    {
+      "title": "Poilievre to appear on Joe Rogan’s podcast after turning it down during last election",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-pierre-poilievre-joe-rogan-podcast-interview-conservative-leader/",
+      "published_date": "2026-03-19T00:18:59+00:00"
     },
     {
       "title": "‘A long way to go’: As Syrians commemorate the revolution, has it achieved its goals?",
@@ -649,13 +676,15 @@
       "title": "Alberta’s Smith defends taking private flight on behalf of Saudi government last fall",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/canada/alberta/article-albertas-smith-says-she-took-private-flight-on-behalf-of-saudi/",
-      "published_date": "2026-03-18T16:49:22+00:00"
+      "published_date": "2026-03-18T16:49:22+00:00",
+      "country": "Saudi Arabia"
     },
     {
       "title": "Peter Ward: Inside North Korea’s expanding crackdown on ‘unsocialist’ behavior",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/03/peter-ward-inside-north-koreas-expanding-crackdown-on-unsocialist-behavior/",
-      "published_date": "2026-03-17T05:48:47+00:00"
+      "published_date": "2026-03-17T05:48:47+00:00",
+      "country": "North Korea"
     }
   ]
 }
