@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T06:04:22.602909+00:00",
-    "story_count": 101,
+    "last_updated": "2026-03-31T14:59:04.463429+00:00",
+    "story_count": 113,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "LIVE - War in the Middle East: the supreme leader is in Iran, but avoids public appearances, according to a Russian envoy",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-liban-etats-unis-donald-trump-benyamin-netanyahou-emirats-arabes-unis-koweit-qatar-arabie-saoudite-oman-20260331",
+      "published_date": "2026-03-31T14:47:09+00:00"
+    },
+    {
+      "title": "UPSC Essentials | Daily subject-wise quiz: Polity and Governance MCQs on electoral college of the President of India, disqualification from the Legislative Assembly and more (Week 156)",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-subject-wise-quiz-polity-and-governance-week-156-10611934/",
+      "published_date": "2026-03-31T14:01:31+00:00"
+    },
+    {
+      "title": "Modi inaugurates semiconductor manufacturing facility in Gujarat’s Sanand",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-inaugurates-semiconductor-manufacturing-facility-in-gujarat-s-sanand-101774954956858.html",
+      "published_date": "2026-03-31T11:02:36+00:00"
+    },
+    {
+      "title": "Myanmar junta steps up airstrikes even amid fuel shortage",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-steps-up-airstrikes-even-amid-fuel-shortage/",
+      "published_date": "2026-03-31T10:55:11+00:00"
+    },
+    {
+      "title": "Modi inaugurates Jain museum, says previous governments ignored manuscripts",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-inaugurates-jain-museum-says-previous-governments-ignored-manuscripts-101774948833626.html",
+      "published_date": "2026-03-31T09:20:33+00:00"
+    },
+    {
+      "title": "Anti-junta forces in Myanmar launch new unified command structure",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/anti-junta-forces-in-myanmar-launch-new-unified-command-structure/",
+      "published_date": "2026-03-31T09:13:06+00:00"
+    },
+    {
+      "title": "Somali army takes over key city in Southwest as state leader resigns",
+      "source": "Al Jazeera English",
+      "country": "Somalia",
+      "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss",
+      "published_date": "2026-03-31T08:27:34+00:00"
+    },
+    {
+      "title": "West Bengal elections: MP Santanu Thakur’s wife, ex-Congressman Santosh Pathak in BJP’s fourth list; Maynaguri candidate changed",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-elections-mp-santanu-thakurs-wife-ex-congressman-santosh-pathak-in-bjps-fourth-list-maynaguri-candidate-changed-10611027/",
+      "published_date": "2026-03-31T07:23:32+00:00"
+    },
+    {
+      "title": "In Burma, the head of the junta moves closer to the presidency",
+      "source": "France 24 FR",
+      "country": "Myanmar",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260331-birmanie-presidence-chef-junte-min-aung-hlaing-vice-president-coup-etat",
+      "published_date": "2026-03-31T07:17:06+00:00"
+    },
+    {
+      "title": "The KGB’s successor is expanding its power in Putin’s Russia",
+      "source": "Japan Times",
+      "country": "Russia",
+      "url": "https://www.japantimes.co.jp/news/2026/03/31/world/politics/kgb-successor-putin-russia/",
+      "published_date": "2026-03-31T06:19:00+00:00"
+    },
+    {
+      "title": "'Green wave' ebbs in local elections, as French Greens become key allies on left",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260331-green-wave-ebbs-in-local-elections-as-french-greens-become-key-allies-on-left-politics",
+      "published_date": "2026-03-31T06:07:59+00:00"
+    },
     {
       "title": "Assembly Election LIVE: BJP releases manifesto for Assam polls, promises UCC, steps against 'love jihad'",
       "source": "The Hindu Politics",
@@ -286,6 +363,13 @@
       "source": "FAZ Germany",
       "country": "Israel",
       "url": "https://www.faz.net/aktuell/politik/ausland/israels-parlament-billigt-erweiterung-der-todesstrafe-200687352.html",
+      "published_date": "2026-03-30T18:09:35+00:00"
+    },
+    {
+      "title": "Europeans protest: Israel's parliament approves expansion of death penalty",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/parlament-in-israel-billigt-gesetz-zur-todesstrafe-massive-kritik-aus-europa-200687352.html",
       "published_date": "2026-03-30T18:09:35+00:00"
     },
     {
