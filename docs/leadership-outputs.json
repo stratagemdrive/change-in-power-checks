@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-01T00:11:06.509342+00:00",
-    "story_count": 125,
+    "last_updated": "2026-04-01T15:03:38.162909+00:00",
+    "story_count": 140,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran denies Trump claim that Iran's new leader has asked for a ceasefire",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-891907",
+      "published_date": "2026-04-01T16:00:09+00:00"
+    },
+    {
+      "title": "Assembly Election LIVE: Will implement Uniform Civil Code, safeguard tribals to protect Assam’s identity, says PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-assam-kerala-tamil-nadu-west-bengal-puducherry-live-updates-april-1-2026/article70809861.ece",
+      "published_date": "2026-04-01T14:44:50+00:00"
+    },
+    {
+      "title": "Three men on trial over extremist plot to overthrow German government",
+      "source": "RFI English",
+      "country": "Germany",
+      "url": "https://www.rfi.fr/en/international/20260401-three-men-on-trial-over-extremist-plot-to-overthrow-german-government",
+      "published_date": "2026-04-01T13:51:06+00:00"
+    },
+    {
+      "title": "Trump claims Iran's 'new regime president' asked for a ceasefire",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-irans-new-regime-president-asked-ceasefire",
+      "published_date": "2026-04-01T13:21:56+00:00"
+    },
+    {
+      "title": "Venezuela rejected the OAS request for transparency in the election of the attorney general and the defender",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/venezuela-rechazo-opinion-de-la-oea-sobre-fiscal-y-defensor/",
+      "published_date": "2026-04-01T12:56:37+00:00"
+    },
+    {
+      "title": "PM chairs crisis management meeting over latest Iran war developments",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/pm-chairs-crisis-management-meeting-over-latest-iran-war-developments/",
+      "published_date": "2026-04-01T11:19:45+00:00"
+    },
+    {
+      "title": "Myanmar junta set to resume border trade with Thailand",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-set-to-resume-border-trade-with-thailand/",
+      "published_date": "2026-04-01T10:09:17+00:00"
+    },
+    {
+      "title": "Three Reichsbürger backers face trial in Germany over coup and kidnapping plot",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/2026/04/01/three-reichsburger-backers-face-trial-in-germany-over-coup-and-kidnapping-plot",
+      "published_date": "2026-04-01T09:46:26+00:00"
+    },
+    {
+      "title": "Iran's exile opposition: “It's about removing the terrorist regime”",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/irans-exilopposition-will-regime-change-als-kriegsziel-accg-200691453.html",
+      "published_date": "2026-04-01T09:40:20+00:00"
+    },
+    {
+      "title": "Silent coup? IRGC sidelines Pezeshkian for ‘de facto’ control of Iran: Report",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/iran-political-stalemate-irgc-pezeshkian-control-10613347/",
+      "published_date": "2026-04-01T09:30:11+00:00"
+    },
+    {
+      "title": "PM pledges to ‘do everything we can to protect Australia’ amid Iran fuel crisis – as it happened",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
+      "published_date": "2026-04-01T08:54:58+00:00"
+    },
+    {
+      "title": "Chile’s new President José Antonio Kast brings openly religious views to a changing country",
+      "source": "The Independent UK",
+      "country": "Chile",
+      "url": "https://www.independent.co.uk/news/world/europe/chile-santiago-argentina-catholic-latin-american-b2949832.html",
+      "published_date": "2026-04-01T08:17:13+00:00"
+    },
+    {
+      "title": "World doesn't need crisis over Taiwan, opposition leader says before China trip",
+      "source": "Japan Times",
+      "country": "China",
+      "url": "https://www.japantimes.co.jp/news/2026/04/01/asia-pacific/politics/taiwain-opposition-leader-china/",
+      "published_date": "2026-04-01T08:06:00+00:00"
+    },
+    {
+      "title": "Australia PM Albanese to address nation over Iran crisis",
+      "source": "Hindustan Times",
+      "country": "Iran",
+      "url": "https://www.hindustantimes.com/india-news/australia-pm-albanese-to-address-nation-over-iran-crisis-101775019418190.html",
+      "published_date": "2026-04-01T04:56:57+00:00"
+    },
     {
       "title": "Congress like political vulture waiting for gain even amid global crisis: PM Modi",
       "source": "Indian Express",
@@ -386,6 +484,13 @@
       "url": "https://www.lemonde.fr/international/article/2026/03/30/au-chili-le-president-kast-suspend-la-regularisation-de-182-000-migrants-prevue-par-l-administration-de-son-predecesseur_6675498_3210.html",
       "published_date": "2026-03-30T20:12:15+00:00",
       "country": "Chile"
+    },
+    {
+      "title": "Iranian Parliament Approves Tolls for Strait of Hormuz - WSJ",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlV1ekxiN2hZM2hSMlJFa0RXZ0xQMk9WS2JUaWRWa0R3VUlrNk1NbkdLd1JmRW9rVlNBZ2JGX0VhRlF0Nm5ROUJoRnpZVnB4czJzMnhYc2RqOWhfWXNQeXJZWmh3NDBfNzZxbWJhMmNvTkgyQUNGXzBTenpPSzJKTXZuc0E4dDhnV2c5bFdMelNleVpENFlBcmI3SEpxd3p2dWN5R1J3eV91T1NWRGd3dXZ3emxPeWR4d1luQkdYQ2FFM2p3YnpMa0JvNm5GT21t?oc=5",
+      "published_date": "2026-03-30T20:09:00+00:00"
     },
     {
       "title": "Parliament Budget Session updates: Maoism has been almost eradicated from Bastar, the region is now on the path of development, says Amit Shah",
