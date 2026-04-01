@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-03-31T14:59:04.463429+00:00",
-    "story_count": 113,
+    "last_updated": "2026-04-01T00:11:06.509342+00:00",
+    "story_count": 125,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Congress like political vulture waiting for gain even amid global crisis: PM Modi",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/congress-like-political-vulture-waiting-for-gain-even-amid-global-crisis-pm-10612430/",
+      "published_date": "2026-03-31T23:38:53+00:00"
+    },
+    {
+      "title": "PT deputy takes action against Tarcísio for campaigning at the inauguration of a monorail",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/deputado-do-pt-entra-com-acao-contra-tarcisio-por-campanha-na-inauguracao-de-monotrilho.shtml",
+      "published_date": "2026-03-31T23:15:00+00:00"
+    },
+    {
+      "title": "Lemoine took over as president of the Impeachment Commission to block requests for removal against Milei",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/lemoine-asumio-como-presidenta-de-la-comision-de-juicio-politico-para-bloquear-los-pedidos-de-nid31032026/",
+      "published_date": "2026-03-31T23:12:38+00:00"
+    },
+    {
+      "title": "2027: after his defeat in Pau, François Bayrou assures that he does not have “the presidential election in his sights”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/2027-apres-sa-defaite-a-pau-francois-bayrou-assure-ne-pas-avoir-l-election-presidentielle-en-ligne-de-mire-20260331",
+      "published_date": "2026-03-31T22:39:52+00:00"
+    },
+    {
+      "title": "Presidential candidate Sergio Fajardo referred to Colombia's relationship with the United States if he is elected: 'I want that country'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidato-presidencial-sergio-fajardo-se-refirio-a-la-relacion-de-colombia-con-estados-unidos-si-llega-a-ser-electo-yo-quiero-ese-pais-3544507",
+      "published_date": "2026-03-31T22:24:31+00:00"
+    },
+    {
+      "title": "T.N. Assembly election: BJP may try to split the DMK even if it gets a majority, says Thol. Thirumavalavan",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
+      "published_date": "2026-03-31T19:38:49+00:00"
+    },
+    {
+      "title": "US wrong to negotiate, Iranian regime 'not trustworthy,' Iranian opposition leader says",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/my-europe/2026/03/31/us-wrong-to-negotiate-iranian-regime-not-trustworthy-iranian-opposition-leader",
+      "published_date": "2026-03-31T18:42:51+00:00"
+    },
+    {
+      "title": "The OAS calls for transparency in the election process of the attorney general in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/03/la-oea-pide-transparencia-en-el-proceso-de-eleccion-del-fiscal-general-de-venezuela/",
+      "published_date": "2026-03-31T18:39:00+00:00"
+    },
+    {
+      "title": "UNRWA chief steps down, seeks probe into killing of hundreds of staff in Gaza",
+      "source": "RFI English",
+      "country": "Palestine",
+      "url": "https://www.rfi.fr/en/international/20260331-unrwa-chief-steps-down-seeks-probe-into-killing-of-hundreds-of-staff-in-gaza",
+      "published_date": "2026-03-31T17:41:59+00:00"
+    },
+    {
+      "title": "Syrian president discusses Iran war with British PM on first visit to London since fall of al-Assad",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/2026/03/31/syrian-president-discusses-iran-war-with-british-pm-on-first-visit-to-london-since-fall-of",
+      "published_date": "2026-03-31T17:36:41+00:00"
+    },
+    {
+      "title": "Carney commits to not proroguing Parliament after April 13 by-elections",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-prorogue-parliament-april-13-byelections/",
+      "published_date": "2026-03-31T17:01:48+00:00"
+    },
+    {
+      "title": "Lula and Caiado already faced each other in the 1989 presidential election; see video",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/lula-e-caiado-ja-se-enfrentaram-em-eleicao-presidencial-de-1989-veja-video.shtml",
+      "published_date": "2026-03-31T16:00:00+00:00"
+    },
     {
       "title": "LIVE - War in the Middle East: the supreme leader is in Iran, but avoids public appearances, according to a Russian envoy",
       "source": "Le Figaro France",
