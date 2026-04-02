@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-01T15:03:38.162909+00:00",
-    "story_count": 140,
+    "last_updated": "2026-04-02T00:07:28.754403+00:00",
+    "story_count": 147,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lula dismisses ministers who will contest elections; see list",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/lula-exonera-ministros-que-vao-disputar-eleicoes-veja-lista.shtml",
+      "published_date": "2026-04-01T23:48:00+00:00"
+    },
+    {
+      "title": "Venezuela: Washington lifts sanctions against interim president Delcy Rodriguez",
+      "source": "Le Monde France",
+      "country": "Venezuela",
+      "url": "https://www.lemonde.fr/international/article/2026/04/02/venezuela-washington-leve-les-sanctions-contre-la-presidente-par-interim-delcy-rodriguez_6675955_3210.html",
+      "published_date": "2026-04-01T22:42:39+00:00"
+    },
+    {
+      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+      "source": "Al Jazeera English",
+      "country": "Venezuela",
+      "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+      "published_date": "2026-04-01T22:12:46+00:00"
+    },
+    {
+      "title": "Trump administration lifts sanctions on Venezuela’s interim leader",
+      "source": "France 24 English",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez",
+      "published_date": "2026-04-01T20:44:40+00:00"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela's interim president Delcy Rodriguez",
+      "source": "France 24 FR",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260401-%C3%A9tats-unis-l%C3%A8vent-leurs-sanctions-contre-pr%C3%A9sidente-par-int%C3%A9rim-venezuela-delcy-rodriguez",
+      "published_date": "2026-04-01T20:35:47+00:00"
+    },
+    {
+      "title": "In Brazil, the election of a transgender MP to head a parliamentary commission aiming to defend women's rights sparks controversy",
+      "source": "Le Monde France",
+      "country": "Brazil",
+      "url": "https://www.lemonde.fr/international/article/2026/04/01/au-bresil-l-election-d-une-deputee-transgenre-a-la-tete-d-une-commission-parlementaire-visant-a-defendre-les-droits-des-femmes-suscite-la-polemique_6675935_3210.html",
+      "published_date": "2026-04-01T17:30:06+00:00"
+    },
+    {
+      "title": "Assembly Election highlights: PM Modi speaks in Assam, Rajnath Singh holds campaign in Kerala, and more",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-assam-kerala-tamil-nadu-west-bengal-puducherry-highlights-april-1-2026/article70809861.ece",
+      "published_date": "2026-04-01T17:22:35+00:00"
+    },
+    {
+      "title": "PM Modi chairs key security meet amid West Asia crisis; reviews fuel, energy supply",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-chairs-key-security-ccs-meet-amid-west-asia-crisis-reviews-fuel-energy-supply-101775062343806.html",
+      "published_date": "2026-04-01T16:56:44+00:00"
+    },
+    {
+      "title": "Elections in Brazil: Lula's bet amid the emergence of a centrist candidate",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-brasil-la-apuesta-de-lula-en-medio-de-la-irrupcion-de-un-candidato-de-centro/",
+      "published_date": "2026-04-01T16:30:00+00:00"
+    },
     {
       "title": "Iran denies Trump claim that Iran's new leader has asked for a ceasefire",
       "source": "Jerusalem Post",
@@ -88,7 +151,7 @@
       "published_date": "2026-04-01T13:21:56+00:00"
     },
     {
-      "title": "Venezuela rejected the OAS request for transparency in the election of the attorney general and the defender",
+      "title": "Venezuela rejects that the OAS requests transparency in the election of the prosecutor and the ombudsman",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/venezuela-rechazo-opinion-de-la-oea-sobre-fiscal-y-defensor/",
@@ -1021,20 +1084,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/politics/article-pierre-poilievre-joe-rogan-podcast-interview-conservative-leader/",
       "published_date": "2026-03-19T00:18:59+00:00"
-    },
-    {
-      "title": "‘A long way to go’: As Syrians commemorate the revolution, has it achieved its goals?",
-      "source": "Syria Direct",
-      "country": "Syria",
-      "url": "https://syriadirect.org/syrians-commemorate-the-revolution-has-it-achieved-its-goals/",
-      "published_date": "2026-03-18T19:49:05+00:00"
-    },
-    {
-      "title": "Alberta’s Smith defends taking private flight on behalf of Saudi government last fall",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-albertas-smith-says-she-took-private-flight-on-behalf-of-saudi/",
-      "published_date": "2026-03-18T16:49:22+00:00",
-      "country": "Saudi Arabia"
     }
   ]
 }
