@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-02T00:07:28.754403+00:00",
-    "story_count": 147,
+    "last_updated": "2026-04-02T14:47:08.873773+00:00",
+    "story_count": 159,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "source": "BBC World",
+      "country": "Venezuela",
+      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T11:55:37+00:00"
+    },
+    {
+      "title": "Former Armenian President Sargsyan’s Republican Party to sit out elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/former-armenian-president-sargsyans-republican-party-to-sit-out-elections/",
+      "published_date": "2026-04-02T11:02:29+00:00"
+    },
+    {
+      "title": "Putin warns on Armenian elections, EU shift",
+      "source": "Civilnet Armenia",
+      "country": "Russia",
+      "url": "https://www.civilnet.am/en/news/1011232/putin-warns-on-armenian-elections-eu-shift/",
+      "published_date": "2026-04-02T11:01:16+00:00"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela’s acting president Delcy Rodríguez",
+      "source": "The Guardian World",
+      "country": "Venezuela",
+      "url": "https://www.theguardian.com/world/2026/apr/02/us-lifts-sanctions-on-venezuela-acting-president-delcy-rodriguez",
+      "published_date": "2026-04-02T10:53:26+00:00"
+    },
+    {
+      "title": "Opinion | The risks of Pashinyan’s fear-mongering tactics ahead of Armenia’s elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/opinion-the-risks-of-pashinyans-fear-mongering-tactics-ahead-of-armenias-elections/",
+      "published_date": "2026-04-02T10:15:08+00:00"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela's interim President Delcy Rodriguez",
+      "source": "Euronews",
+      "country": "Venezuela",
+      "url": "http://www.euronews.com/2026/04/02/us-lifts-sanctions-on-venezuelas-interim-president-delcy-rodriguez",
+      "published_date": "2026-04-02T09:37:00+00:00"
+    },
+    {
+      "title": "Himachal Assembly passes Bill barring disqualified MLAs under anti-defection law from pension benefits; BJP terms govt’s move ‘ill-motivated’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-vidhan-sabha-passes-amendment-bill-barring-disqualified-legislators-under-anti-defection-law-from-pension-benefits-10615290/",
+      "published_date": "2026-04-02T09:06:18+00:00"
+    },
+    {
+      "title": "U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez",
+      "source": "NPR World",
+      "country": "Venezuela",
+      "url": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
+      "published_date": "2026-04-02T06:44:49+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates: Kerala seeing BJP wave, people fed up with UDF-LDF, says PM Modi",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/elections/bengal-kerala-assam-tamil-nadu-assembly-elections-2026-live-updates-10614919/",
+      "published_date": "2026-04-02T06:17:19+00:00"
+    },
+    {
+      "title": "Edmundo González and elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/edmundo-gonzalez-y-elecciones-en-venezuela/",
+      "published_date": "2026-04-02T05:18:00+00:00"
+    },
+    {
+      "title": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
+      "source": "CBC News World",
+      "country": "Indonesia",
+      "url": "https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss",
+      "published_date": "2026-04-02T04:48:36+00:00"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela's acting President Delcy Rodriguez",
+      "source": "Deutsche Welle English",
+      "country": "Venezuela",
+      "url": "https://www.dw.com/en/us-lifts-sanctions-on-venezuela-s-acting-president-delcy-rodriguez/a-76635151?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-02T03:13:00+00:00"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela’s acting President Rodriguez, who praises Trump",
+      "source": "South China Morning Post",
+      "country": "Venezuela",
+      "url": "https://www.scmp.com/news/world/americas/article/3348729/us-lifts-sanctions-venezuelas-acting-president-rodriguez-who-praises-trump?utm_source=rss_feed",
+      "published_date": "2026-04-02T02:09:16+00:00"
+    },
     {
       "title": "Lula dismisses ministers who will contest elections; see list",
       "source": "Folha de S Paulo",
@@ -1077,13 +1168,6 @@
       "url": "https://meduza.io/en/feature/2026/03/19/telegram-news-channels-are-one-of-russia-s-few-major-alternatives-to-state-media-the-head-of-one-of-the-largest-says-their-days-may-be-numbered",
       "published_date": "2026-03-19T15:43:58+00:00",
       "country": "Russia"
-    },
-    {
-      "title": "Poilievre to appear on Joe Rogan’s podcast after turning it down during last election",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-pierre-poilievre-joe-rogan-podcast-interview-conservative-leader/",
-      "published_date": "2026-03-19T00:18:59+00:00"
     }
   ]
 }
