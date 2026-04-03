@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-02T14:47:08.873773+00:00",
-    "story_count": 159,
+    "last_updated": "2026-04-03T00:09:30.053943+00:00",
+    "story_count": 163,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Myanmar's coup leader who set off a brutal civil war is set to become president",
+      "source": "BBC World",
+      "country": "Myanmar",
+      "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T22:14:00+00:00"
+    },
+    {
+      "title": "Trump ‘controlling’ Modi, claims Rahul Gandhi in Assam election rally",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assam-assembly/himanta-most-corrupt-cm-in-india-modi-shah-sarma-running-land-atm-in-assam-rahul-gandhi/article70815015.ece",
+      "published_date": "2026-04-02T21:18:14+00:00"
+    },
+    {
+      "title": "T.N. Assembly election 2026 | BJP may try to split DMK alliance even if it gets a majority: Thol. Thirumavalavan",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
+      "published_date": "2026-04-02T19:39:41+00:00"
+    },
+    {
+      "title": "T.N. Assembly election: Stalin challenges Prime Minister Modi to repeat Bihar poll jibe during T.N. campaign",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-stalin-challenges-prime-minister-modi-to-repeat-bihar-poll-jibe-during-tn-campaign/article70814552.ece",
+      "published_date": "2026-04-02T19:35:04+00:00"
+    },
+    {
+      "title": "Minister of Social Security gives up running in the elections and says he will stay in office at Lula's request",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/ministro-da-previdencia-desiste-de-concorrer-as-eleicoes-e-diz-que-fica-no-cargo-a-pedido-de-lula.shtml",
+      "published_date": "2026-04-02T19:17:00+00:00"
+    },
+    {
+      "title": "“A new regime” in Iran: has Trump gone too far?",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260402-un-nouveau-r%C3%A9gime-en-iran-trump-s-est-il-trop-avanc%C3%A9",
+      "published_date": "2026-04-02T15:02:16+00:00"
+    },
+    {
+      "title": "French municipal elections hit with foreign interference allegations",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/04/02/french-municipal-elections-hit-with-foreign-interference-allegations",
+      "published_date": "2026-04-02T15:00:26+00:00"
+    },
     {
       "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
       "source": "BBC World",
@@ -345,13 +394,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidato-presidencial-sergio-fajardo-se-refirio-a-la-relacion-de-colombia-con-estados-unidos-si-llega-a-ser-electo-yo-quiero-ese-pais-3544507",
       "published_date": "2026-03-31T22:24:31+00:00"
-    },
-    {
-      "title": "T.N. Assembly election: BJP may try to split the DMK even if it gets a majority, says Thol. Thirumavalavan",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
-      "published_date": "2026-03-31T19:38:49+00:00"
     },
     {
       "title": "US wrong to negotiate, Iranian regime 'not trustworthy,' Iranian opposition leader says",
@@ -1153,20 +1195,6 @@
       "source": "Meduza (Russia EN)",
       "url": "https://meduza.io/en/feature/2026/03/20/days-ago-a-longtime-pro-putin-blogger-published-a-tirade-against-the-russian-president-now-he-s-in-a-psychiatric-hospital",
       "published_date": "2026-03-20T13:06:01+00:00",
-      "country": "Russia"
-    },
-    {
-      "title": "Defence Minister walks back comments on learning about Iranian strike from newspaper report",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/canada/article-defence-minister-mcguinty-iran-air-strike/",
-      "published_date": "2026-03-19T19:12:11+00:00",
-      "country": "Iran"
-    },
-    {
-      "title": "Telegram news channels are one of Russia’s few major alternatives to state media. The head of one of the largest says their days may be numbered.",
-      "source": "Meduza (Russia EN)",
-      "url": "https://meduza.io/en/feature/2026/03/19/telegram-news-channels-are-one-of-russia-s-few-major-alternatives-to-state-media-the-head-of-one-of-the-largest-says-their-days-may-be-numbered",
-      "published_date": "2026-03-19T15:43:58+00:00",
       "country": "Russia"
     }
   ]
