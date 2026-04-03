@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-03T00:09:30.053943+00:00",
-    "story_count": 163,
+    "last_updated": "2026-04-03T12:11:39.619780+00:00",
+    "story_count": 179,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
-      "title": "Myanmar's coup leader who set off a brutal civil war is set to become president",
+      "title": "Myanmar's parliament appoints junta leader as president",
+      "source": "Politiken Denmark",
+      "country": "Myanmar",
+      "url": "https://politiken.dk/internationalt/art10793899/Myanmars-parlament-udpeger-juntaleder-som-pr%C3%A6sident",
+      "published_date": "2026-04-03T11:46:52+00:00"
+    },
+    {
+      "title": "BJP candidates list for Tamil Nadu elections 2026: Find the full list here",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/bjp-candidates-list-tamil-nadu-elections-2026-full-list-here-10617341/",
+      "published_date": "2026-04-03T11:28:38+00:00"
+    },
+    {
+      "title": "Assembly elections LIVE: BJP releases list of 27 candidates for Tamil Nadu Assembly polls",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/election-2026-assembly-polls-kerala-puducherry-tamil-nadu-west-bengal-april-3-2026-live-updates/article70818539.ece",
+      "published_date": "2026-04-03T11:14:44+00:00"
+    },
+    {
+      "title": "Hungary: If Viktor Orban loses in the legislative elections, will his successor be pro-Ukraine?",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260403-hongrie-si-viktor-orban-perd-aux-l%C3%A9gislatives-son-successeur-sera-t-il-pro-ukraine",
+      "published_date": "2026-04-03T10:35:22+00:00"
+    },
+    {
+      "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
+      "source": "The Guardian World",
+      "country": "Myanmar",
+      "url": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile",
+      "published_date": "2026-04-03T10:22:52+00:00"
+    },
+    {
+      "title": "Myanmar junta chief Min Aung Hlaing becomes president",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-min-aung-hlaing-becomes-president/",
+      "published_date": "2026-04-03T10:02:21+00:00"
+    },
+    {
+      "title": "Myanmar's junta leader becomes president",
+      "source": "DR News Denmark",
+      "country": "Myanmar",
+      "url": "https://www.dr.dk/nyheder/seneste/myanmars-juntaleder-bliver-praesident",
+      "published_date": "2026-04-03T07:24:00+00:00"
+    },
+    {
+      "title": "The Folketing must evaluate complaints about recounts after the election",
+      "source": "DR News Denmark",
+      "country": "Denmark",
+      "url": "https://www.dr.dk/nyheder/seneste/folketinget-skal-vurdere-klager-om-omtaelling-efter-valget",
+      "published_date": "2026-04-03T07:17:00+00:00"
+    },
+    {
+      "title": "Myanmar’s parliament elects coup-leading general as civilian president",
+      "source": "France 24 English",
+      "country": "Myanmar",
+      "url": "https://www.france24.com/en/asia-pacific/20260403-myanmar-junta-chief-elected-as-president",
+      "published_date": "2026-04-03T06:59:11+00:00"
+    },
+    {
+      "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
       "source": "BBC World",
       "country": "Myanmar",
       "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T22:14:00+00:00"
+      "published_date": "2026-04-03T06:49:37+00:00"
+    },
+    {
+      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
+      "source": "Sky News World",
+      "country": "Myanmar",
+      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
+      "published_date": "2026-04-03T06:43:00+00:00"
+    },
+    {
+      "title": "Myanmar’s coup leader elected president by pro-military parliament",
+      "source": "Al Jazeera English",
+      "country": "Myanmar",
+      "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+      "published_date": "2026-04-03T06:05:30+00:00"
+    },
+    {
+      "title": "Nadeshiko Japan coach Nils Nielsen steps down after Asian Cup triumph",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/sports/2026/04/03/soccer/nielsen-steps-down-nadeshiko-japan/",
+      "published_date": "2026-04-03T04:44:00+00:00"
+    },
+    {
+      "title": "US Defence Secretary Hegseth asks US Army chief to step down as Iran war grinds on",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/2026/04/03/us-defence-secretary-hegseth-asks-us-army-chief-to-step-down-as-iran-war-grinds-on",
+      "published_date": "2026-04-03T03:33:55+00:00"
+    },
+    {
+      "title": "Bolsonaro prioritizes pro-impeachment majority of the STF in the Senate while Flávio avoids exposing a clash",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/bolsonaro-prioriza-maioria-pro-impeachment-do-stf-no-senado-enquanto-flavio-evita-expor-embate.shtml",
+      "published_date": "2026-04-03T02:00:00+00:00"
+    },
+    {
+      "title": "Hegseth asks US Army’s top uniformed officer to step down amid Iran war",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/pete-hegseth-united-states-army-officer-step-down-iran-war-10616457/",
+      "published_date": "2026-04-03T01:23:59+00:00"
     },
     {
       "title": "Trump ‘controlling’ Modi, claims Rahul Gandhi in Assam election rally",
@@ -72,6 +177,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/elections/assam-assembly/himanta-most-corrupt-cm-in-india-modi-shah-sarma-running-land-atm-in-assam-rahul-gandhi/article70815015.ece",
       "published_date": "2026-04-02T21:18:14+00:00"
+    },
+    {
+      "title": "Gujarat HC upholds BJP MLA election: ‘Voter’s mandate cannot be nullified over minor issues in affidavit’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/hc-rejects-plea-challenging-tankara-bjp-mlas-candidature-10616261/",
+      "published_date": "2026-04-02T20:07:21+00:00"
     },
     {
       "title": "T.N. Assembly election 2026 | BJP may try to split DMK alliance even if it gets a majority: Thol. Thirumavalavan",
