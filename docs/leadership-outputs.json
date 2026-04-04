@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-04T00:07:01.297292+00:00",
-    "story_count": 182,
+    "last_updated": "2026-04-04T12:00:37.536152+00:00",
+    "story_count": 188,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,7 +60,49 @@
   },
   "stories": [
     {
-      "title": "María Elvira Salazar on Delcy Rodríguez: \"It is only a short solution until there are elections in Venezuela\"",
+      "title": "Kerala Assembly elections 2026: allegations of Congress-BJP nexus absurd, says Chennithala",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-allegations-of-congress-bjp-nexus-absurd-says-chennithala/article70823004.ece",
+      "published_date": "2026-04-04T11:47:06+00:00"
+    },
+    {
+      "title": "Assembly Elections LIVE: Kerala BJP workers signal to bid farewell to LDF, says PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-tamil-nadu-west-bengal-assam-kerala-puducherry-polls-live-updates-april-4-2026/article70822272.ece",
+      "published_date": "2026-04-04T11:27:47+00:00"
+    },
+    {
+      "title": "Iran executes two men accused of terrorism and links to anti-regime movement",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/iran-ejecuta-a-dos-hombres-acusados-de-terrorismo-y-vinculos-con-el-mek/",
+      "published_date": "2026-04-04T10:55:48+00:00"
+    },
+    {
+      "title": "Kerala elections: Rahul Gandhi sharpens attack on LDF and NDA, accuses both fronts of striking ‘covert deal’",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-rahul-gandhi-sharpens-attack-on-ldf-and-nda-accuses-both-fronts-of-striking-covert-deal/article70822712.ece",
+      "published_date": "2026-04-04T09:51:11+00:00"
+    },
+    {
+      "title": "Arrests, beatings and an atmosphere of fear: Iranians on life under wartime ‘martial law’",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-israel-martial-law-b2950793.html",
+      "published_date": "2026-04-04T09:50:33+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates:  Modi says ‘countdown begun’ for LDF exit in Kerala, promises NDA govt",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/bengal-kerala-assam-tamil-nadu-assembly-elections-2026-live-updates-10618192/",
+      "published_date": "2026-04-04T02:12:05+00:00"
+    },
+    {
+      "title": "María Elvira Salazar on Delcy Rodríguez: \"It's just a short solution until there are elections in Venezuela\"",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
