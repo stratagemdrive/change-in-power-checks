@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-03T12:11:39.619780+00:00",
-    "story_count": 179,
+    "last_updated": "2026-04-04T00:07:01.297292+00:00",
+    "story_count": 182,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "María Elvira Salazar on Delcy Rodríguez: \"It is only a short solution until there are elections in Venezuela\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
+      "published_date": "2026-04-03T23:27:00+00:00"
+    },
+    {
+      "title": "Peruvian presidential candidate López Aliaga insulted citizens who threw eggs at him",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/candidato-presidencial-peruano-lopez-aliaga-insulto-a-ciudadanos-que-le-tiraron-huevos/",
+      "published_date": "2026-04-03T22:21:22+00:00"
+    },
+    {
+      "title": "Israel, US can’t bomb regime change, only defections and credible alternatives can - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-891899",
+      "published_date": "2026-04-03T21:43:06+00:00"
+    },
+    {
+      "title": "Nigeria’s Minister of State for Labour resigns",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/869154-nigerias-minister-of-state-for-labour-resigns.html",
+      "published_date": "2026-04-03T16:52:23+00:00"
+    },
+    {
+      "title": "Moscow’s Chief Architect Kuznetsov Steps Down After Nearly 14 Years",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/04/03/moscows-chief-architect-kuznetsov-steps-down-after-nearly-14-years-a92422",
+      "published_date": "2026-04-03T16:21:00+00:00"
+    },
+    {
+      "title": "Bengal 2026 polls: BJP Sreerampur candidate resigns from Power Finance Corporation Limited Board, says wanted to avoid ‘conflict of interest’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/bengal-2026-polls-bjp-sreerampur-candidate-resigns-from-power-finance-corporation-limited-board-says-wanted-to-avoid-conflict-of-interest-10617520/",
+      "published_date": "2026-04-03T12:29:03+00:00"
+    },
     {
       "title": "Myanmar's parliament appoints junta leader as president",
       "source": "Politiken Denmark",
@@ -1287,27 +1329,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/canada/article-voters-abroad-overseas-byelections/",
       "published_date": "2026-03-22T16:03:13+00:00"
-    },
-    {
-      "title": "Canadian military personnel left Iraq with NATO allies, Defence Minister says",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/canada/article-canadian-military-nato-iraq-mission-iran-war/",
-      "published_date": "2026-03-20T23:51:48+00:00",
-      "country": "Canada"
-    },
-    {
-      "title": "The Kremlin appears to be blocking Telegram. Meduza asked its Russia-based readers how well the crackdown is working.",
-      "source": "Meduza (Russia EN)",
-      "url": "https://meduza.io/en/feature/2026/03/20/the-kremlin-appears-to-be-blocking-telegram-meduza-asked-its-russia-based-readers-how-well-the-crackdown-is-working",
-      "published_date": "2026-03-20T16:12:28+00:00",
-      "country": "Russia"
-    },
-    {
-      "title": "A longtime pro-Putin blogger published a tirade against the Russian president. Now he’s in a psychiatric hospital.",
-      "source": "Meduza (Russia EN)",
-      "url": "https://meduza.io/en/feature/2026/03/20/days-ago-a-longtime-pro-putin-blogger-published-a-tirade-against-the-russian-president-now-he-s-in-a-psychiatric-hospital",
-      "published_date": "2026-03-20T13:06:01+00:00",
-      "country": "Russia"
     }
   ]
 }
