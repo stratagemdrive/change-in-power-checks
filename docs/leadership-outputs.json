@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-05T00:06:17.645626+00:00",
-    "story_count": 194,
+    "last_updated": "2026-04-05T12:02:38.604818+00:00",
+    "story_count": 200,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "“Jean-Luc Mélenchon is certainly the worst candidate in the second round”: one year before the presidential election, Fabien Roussel refuses the outstretched hand of LFI",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/jean-luc-melenchon-est-certainement-le-pire-candidat-de-second-tour-a-un-an-de-la-presidentielle-fabien-roussel-refuse-la-main-tendue-de-lfi-20260405",
+      "published_date": "2026-04-05T11:56:02+00:00"
+    },
+    {
+      "title": "Fabien Roussel refuses any alliance with LFI for the presidential election, citing a “rupture”",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/05/fabien-roussel-refuse-toute-alliance-avec-lfi-pour-la-presidentielle-evoquant-une-rupture_6676902_823448.html",
+      "published_date": "2026-04-05T11:34:20+00:00"
+    },
+    {
+      "title": "2027: No opposition party will take control of Kano, Nigeria – Gov. Yusuf",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/04/2027-no-opposition-party-will-take-control-of-kano-nigeria-gov-yusuf/",
+      "published_date": "2026-04-05T10:48:40+00:00"
+    },
+    {
+      "title": "2027: Kano people will support Tinubu’s re-election – Gov Yusuf",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/04/2027-kano-people-will-support-tinubus-re-election-gov-yusuf/",
+      "published_date": "2026-04-05T08:44:27+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader to make ‘peace’ visit to China, first in 10 years",
+      "source": "Dawn Pakistan",
+      "country": "China",
+      "url": "https://www.dawn.com/news/1988787/taiwan-opposition-leader-to-make-peace-visit-to-china-first-in-10-years",
+      "published_date": "2026-04-05T06:28:17+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader to make 'peace' visit to China, first in 10 years",
+      "source": "Japan Times",
+      "country": "China",
+      "url": "https://www.japantimes.co.jp/news/2026/04/05/asia-pacific/politics/taiwan-kuomintang-leader-china-focus/",
+      "published_date": "2026-04-05T02:11:00+00:00"
+    },
     {
       "title": "Trump mulls broader cabinet reshuffle as pressure mounts over war with Iran",
       "source": "La Nacion Argentina",
