@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-04T12:00:37.536152+00:00",
-    "story_count": 188,
+    "last_updated": "2026-04-05T00:06:17.645626+00:00",
+    "story_count": 194,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump mulls broader cabinet reshuffle as pressure mounts over war with Iran",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/estados-unidos/trump-evalua-una-reestructuracion-mas-amplia-de-su-gabinete-mientras-crece-la-presion-por-la-guerra-nid04042026/",
+      "published_date": "2026-04-04T22:05:44+00:00"
+    },
+    {
+      "title": "Assam Assembly election: Less than a week before polls, BJP shifts focuses to youth empowerment, floods",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-less-than-a-week-before-polls-bjp-shifts-focuses-to-youth-empowerment-floods/article70823457.ece",
+      "published_date": "2026-04-04T17:37:10+00:00"
+    },
+    {
+      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
+      "published_date": "2026-04-04T14:58:24+00:00"
+    },
+    {
+      "title": "Arrests, beatings and an atmosphere of fear: Iranians on life under wartime ‘martial law’",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-israel-martial-law-b2950793.html",
+      "published_date": "2026-04-04T12:55:15+00:00"
+    },
+    {
+      "title": "‘Conspiracy by central agencies, AAP to weaken SAD’: Veteran Akali Tota Singh’s son Makhan Brar resigns from rebel faction",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/barjinder-singh-makhan-brar-resigns-sad-punar-surjit-giani-harpreet-singh-manpreet-ayali-conspiracy-10619110/",
+      "published_date": "2026-04-04T12:52:50+00:00"
+    },
+    {
+      "title": "West Bengal Assembly elections 2026: PM Modi to kick off campaign from Cooch Behar, 8 mega rallies planned as BJP eyes North Bengal recovery",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-assembly-elections-2026-pm-modi-to-kick-off-campaign-from-cooch-behar-8-mega-rallies-planned-as-bjp-eyes-north-bengal-recovery-10619100/",
+      "published_date": "2026-04-04T12:49:28+00:00"
+    },
     {
       "title": "Kerala Assembly elections 2026: allegations of Congress-BJP nexus absurd, says Chennithala",
       "source": "The Hindu Politics",
@@ -88,13 +130,6 @@
       "published_date": "2026-04-04T09:51:11+00:00"
     },
     {
-      "title": "Arrests, beatings and an atmosphere of fear: Iranians on life under wartime ‘martial law’",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-israel-martial-law-b2950793.html",
-      "published_date": "2026-04-04T09:50:33+00:00"
-    },
-    {
       "title": "Assembly Elections 2026 Live Updates:  Modi says ‘countdown begun’ for LDF exit in Kerala, promises NDA govt",
       "source": "Indian Express",
       "country": "India",
@@ -102,7 +137,7 @@
       "published_date": "2026-04-04T02:12:05+00:00"
     },
     {
-      "title": "María Elvira Salazar on Delcy Rodríguez: \"It's just a short solution until there are elections in Venezuela\"",
+      "title": "María Elvira Salazar on Delcy Rodríguez: \"It is only a short solution until there are elections in Venezuela\"",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
@@ -184,6 +219,13 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-min-aung-hlaing-becomes-president/",
       "published_date": "2026-04-03T10:02:21+00:00"
+    },
+    {
+      "title": "Head of Myanmar's ruling junta who led coup against Nobel Peace Prize winner Aung San Suu Kyi becomes president - Sky News",
+      "source": "Google News World",
+      "country": "Myanmar",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZmo1Z0ZPTlZMbmZRNGRQQU11NmVGa3o1ekI3SnNRbExla2tWUDNhd1NLRjFaVzVxcTF3ejU0UENkZkZWOFRiQWJGbmY2bnBIbnNPRjZ5dU9MN01DRGRSVVhPR3pVekluWktHQU5XWmJOUzV1dEZuMVc0YmEwaFA3bmItdmtKYkMwcmRGQ0hBWHVDOVdRNzVnMG1FZ3FvUzVJVWtkaDBFOTlRXzF6RTQ1b2hXTWM4Tjh4VERuU0V4OFM2cVBmTUdYQnNlLXAxY1Z4a1hQbGlQYTNTR2xaM2tJ?oc=5",
+      "published_date": "2026-04-03T09:56:38+00:00"
     },
     {
       "title": "Myanmar's junta leader becomes president",
