@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-06T00:07:55.847330+00:00",
-    "story_count": 207,
+    "last_updated": "2026-04-06T14:23:28.969286+00:00",
+    "story_count": 224,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Assembly elections LIVE: Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece",
+      "published_date": "2026-04-06T13:58:37+00:00"
+    },
+    {
+      "title": "Iván Cepeda adds the support of President Claudia Sheinbaum on his second strategic visit to Mexico for the 2026 elections",
+      "source": "El Tiempo Colombia",
+      "country": "Mexico",
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-suma-el-respaldo-de-la-presidenta-claudia-sheinbaum-en-su-segunda-visita-estrategica-a-mexico-por-las-elecciones-3545517",
+      "published_date": "2026-04-06T13:35:38+00:00"
+    },
+    {
+      "title": "Positive discussions underway on Uniform Civil Code, 'One Nation, One Election': PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/positive-discussions-underway-on-uniform-civil-code-one-nation-one-election-pm-modi/article70829622.ece",
+      "published_date": "2026-04-06T13:20:32+00:00"
+    },
+    {
+      "title": "Among BJP members seeking tickets for Surat civic elections, 15 couples",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/among-bjp-members-seeking-tickets-for-surat-civic-elections-15-couples-10622128/",
+      "published_date": "2026-04-06T12:02:58+00:00"
+    },
+    {
+      "title": "Myanmar’s new president Min Aung Hlaing faces genocide complaint in Indonesia",
+      "source": "Dawn Pakistan",
+      "country": "Indonesia",
+      "url": "https://www.dawn.com/news/1989131/myanmars-new-president-min-aung-hlaing-faces-genocide-complaint-in-indonesia",
+      "published_date": "2026-04-06T11:49:22+00:00"
+    },
+    {
+      "title": "Egypt, Morocco PMs launch 1st joint coordination committee",
+      "source": "Egypt Independent",
+      "country": "Morocco",
+      "url": "https://www.egyptindependent.com/egypt-morocco-pms-launch-1st-joint-coordination-committee/",
+      "published_date": "2026-04-06T10:29:06+00:00"
+    },
+    {
+      "title": "It’s ‘appropriate to regard’ Kim Jong Un’s daughter as successor: ROK spy agency",
+      "source": "NK News",
+      "country": "North Korea",
+      "url": "https://www.nknews.org/2026/04/its-appropriate-to-regard-kim-jong-uns-daughter-as-successor-rok-spy-agency/",
+      "published_date": "2026-04-06T09:54:18+00:00"
+    },
+    {
+      "title": "Kim Jong Un's teenage daughter 'could be considered his successor'",
+      "source": "Sky News World",
+      "country": "North Korea",
+      "url": "https://news.sky.com/story/kim-jong-uns-teenage-daughter-could-be-considered-his-successor-seouls-spy-agency-reportedly-says-13528430",
+      "published_date": "2026-04-06T09:41:00+00:00"
+    },
+    {
+      "title": "South Korea says ‘credible intelligence’ indicates Kim Jong Un’s daughter is his successor",
+      "source": "Dawn Pakistan",
+      "country": "South Korea",
+      "url": "https://www.dawn.com/news/1989088/south-korea-says-credible-intelligence-indicates-kim-jong-uns-daughter-is-his-successor",
+      "published_date": "2026-04-06T07:54:34+00:00"
+    },
+    {
+      "title": "Russia: Miners captured after Ukrainian attack",
+      "source": "DR News Denmark",
+      "country": "Russia",
+      "url": "https://www.dr.dk/nyheder/seneste/rusland-minearbejdere-fanget-efter-ukrainsk-angreb",
+      "published_date": "2026-04-06T07:32:00+00:00"
+    },
+    {
+      "title": "Sharad Pawar, Ramdas Athawale among 19 leaders sworn in as Rajya Sabha members",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/sharad-pawar-ramdas-athawale-among-19-leaders-sworn-in-as-rajya-sabha-members-101775458416875.html",
+      "published_date": "2026-04-06T07:02:21+00:00"
+    },
+    {
+      "title": "Russians living in exile cope with grief far from home",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-06T05:45:00+00:00"
+    },
+    {
+      "title": "Netanyahu accepts the resignation of his spokesman for racist comments after expressing his continuity in office",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/netanyahu-acepta-la-dimision-de-su-portavoz-por-comentarios-racistas-tras-manifestar-su-continuidad-en-el-cargo/",
+      "published_date": "2026-04-06T04:04:23+00:00"
+    },
+    {
+      "title": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed",
+      "published_date": "2026-04-06T04:00:08+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates: Modi bats for UCC, ‘One Nation, One Election’ as next agenda; says talks ‘positive’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-westbengal-assam-tamilnadu-kerala-10621207/",
+      "published_date": "2026-04-06T03:23:22+00:00"
+    },
+    {
+      "title": "‘EVMs must be checked properly’: Mamata Banerjee slams BJP, ECI ahead of West Bengal elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/evms-must-be-checked-properly-mamata-banerjee-slams-bjp-eci-ahead-of-west-bengal-elections-101775437994234.html",
+      "published_date": "2026-04-06T01:19:34+00:00"
+    },
+    {
+      "title": "Interview | This will be last election in Kerala where 3 coalitions are contesting: BJP’s Rajeev Chandrasekhar",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/this-will-be-last-election-in-kerala-where-3-coalitions-are-contesting-chandrasekhar-101775417340321.html",
+      "published_date": "2026-04-06T01:12:14+00:00"
+    },
     {
       "title": "Ukraine's Zelensky meets Syria’s new leader in Damascus, pushes military deals",
       "source": "France 24 English",
