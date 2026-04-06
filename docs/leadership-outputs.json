@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-05T12:02:38.604818+00:00",
-    "story_count": 200,
+    "last_updated": "2026-04-06T00:07:55.847330+00:00",
+    "story_count": 207,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ukraine's Zelensky meets Syria’s new leader in Damascus, pushes military deals",
+      "source": "France 24 English",
+      "country": "Syria",
+      "url": "https://www.france24.com/en/middle-east/20260405-ukraine-zelensky-meets-syria-new-leader-al-sharaa-in-damascus-pushes-military-deals",
+      "published_date": "2026-04-05T23:50:42+00:00"
+    },
+    {
+      "title": "Keiko Fujimori thanks support in the polls one week before the elections in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/keiko-fujimori-agradece-apoyo-en-los-sondeos-a-una-semana-de-las-elecciones-en-peru/",
+      "published_date": "2026-04-05T22:32:46+00:00"
+    },
+    {
+      "title": "Assembly elections updates: Gherao of judicial officers a reflection of TMC’s ‘maha jungle raj’, says PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
+      "published_date": "2026-04-05T21:56:18+00:00"
+    },
+    {
+      "title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "published_date": "2026-04-05T19:24:04+00:00"
+    },
+    {
+      "title": "Shortly before the election: Orbán suspects Ukraine after explosives found on pipeline",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ausland/sabotage-an-pipeline-ungarn-lenkt-verdacht-auf-ukraine-accg-200703675.html",
+      "published_date": "2026-04-05T19:00:38+00:00"
+    },
+    {
+      "title": "In Ukraine, a wind of rebellion is blowing against Servant of the People, the party of Volodymyr Zelensky",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/article/2026/04/05/en-ukraine-un-vent-de-fronde-souffle-sur-serviteur-du-peuple-le-parti-de-volodymyr-zelensky_6676930_3210.html",
+      "published_date": "2026-04-05T17:00:06+00:00"
+    },
+    {
+      "title": "Keiko Fujimori leads Peru's presidential polls a week before election - Reuters",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzA0eGRfOXpfZVVDYWozclJjUmdvSXN2RFlub09IQTRqaDhwb3REUkYwa2hUOTUwQXRURlV0QUxOdW1TN3haUmZrMlBKaVFNOTBETlU5cXJMa1JqbWd1RU1MX2ZsVWtCMDBJOEs4TXlNTFNlSGs0OU9tVXRMUU1BWTQ1bF8wcl91bk5OZHVlSUFiS1RRQzhJaXZGaUpWbTY3RllWWFp4X2s0LVJzQlk4OWFDSkx1QjBN?oc=5",
+      "published_date": "2026-04-05T16:13:43+00:00"
+    },
+    {
+      "title": "Despite propaganda coup of F-15 crew rescue, downing is reminder to US that Iran can fight back",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/05/propaganda-f-15-crew-rescue-downing-reminder-iran-fight-back-donald-trump",
+      "published_date": "2026-04-05T15:32:58+00:00"
+    },
+    {
+      "title": "False flag operation: Expert tells how Orban could undermine Hungarian election with Russia, Vucic's help",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4109372-false-flag-operation-expert-tells-how-orban-could-undermine-hungarian-election-with-russia-vucics-help.html",
+      "published_date": "2026-04-05T13:02:00+00:00"
+    },
     {
       "title": "“Jean-Luc Mélenchon is certainly the worst candidate in the second round”: one year before the presidential election, Fabien Roussel refuses the outstretched hand of LFI",
       "source": "Le Figaro France",
@@ -90,14 +153,14 @@
     {
       "title": "Taiwan opposition leader to make ‘peace’ visit to China, first in 10 years",
       "source": "Dawn Pakistan",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.dawn.com/news/1988787/taiwan-opposition-leader-to-make-peace-visit-to-china-first-in-10-years",
       "published_date": "2026-04-05T06:28:17+00:00"
     },
     {
       "title": "Taiwan opposition leader to make 'peace' visit to China, first in 10 years",
       "source": "Japan Times",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.japantimes.co.jp/news/2026/04/05/asia-pacific/politics/taiwan-kuomintang-leader-china-focus/",
       "published_date": "2026-04-05T02:11:00+00:00"
     },
@@ -1441,20 +1504,6 @@
       "url": "https://www.nknews.org/2026/03/kim-jong-un-calls-us-a-terrorist-state-repeats-anti-south-korea-stance/",
       "published_date": "2026-03-24T01:02:45+00:00",
       "country": "Iran"
-    },
-    {
-      "title": "North Korean parliament reelects Kim as leader and elevates his top aides",
-      "source": "NK News",
-      "country": "North Korea",
-      "url": "https://www.nknews.org/2026/03/north-korean-parliament-elevates-kim-aides-set-to-tackle-constitution-revision/",
-      "published_date": "2026-03-22T23:20:25+00:00"
-    },
-    {
-      "title": "Canadians abroad call for increased voter turnout ahead of by-elections",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-voters-abroad-overseas-byelections/",
-      "published_date": "2026-03-22T16:03:13+00:00"
     }
   ]
 }
