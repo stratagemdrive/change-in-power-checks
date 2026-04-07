@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-07T00:11:31.312724+00:00",
-    "story_count": 233,
+    "last_updated": "2026-04-07T15:05:48.337506+00:00",
+    "story_count": 247,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Who are the candidates for president in the Peruvian elections 2026",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-presidente-en-las-elecciones-de-peru-2026-nid07042026/",
+      "published_date": "2026-04-07T14:43:59+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader arrives in China on ‘journey of peace’",
+      "source": "France 24 English",
+      "country": "Taiwan",
+      "url": "https://www.france24.com/en/video/20260407-taiwan-opposition-leader-arrives-in-china-on-journey-of-peace",
+      "published_date": "2026-04-07T14:03:43+00:00"
+    },
+    {
+      "title": "Iran's supreme leader is unconscious and receiving treatment in Qom, according to The Times",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-lider-supremo-de-iran-se-encuentra-inconsciente-y-recibiendo-tratamiento-en-qom-segun-the-times-nid07042026/",
+      "published_date": "2026-04-07T12:42:15+00:00"
+    },
+    {
+      "title": "Exiled for a drawing: The Russian father and daughter who stood up to Putin",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/video/20260407-exiled-for-a-drawing-the-russian-father-and-daughter-who-stood-up-to-putin",
+      "published_date": "2026-04-07T12:42:06+00:00"
+    },
+    {
+      "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
+      "source": "Al Jazeera English",
+      "country": "China",
+      "url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
+      "published_date": "2026-04-07T12:06:57+00:00"
+    },
+    {
+      "title": "Kim Jong-un’s Daughter Drives a Tank, and Succession Talk Accelerates - The New York Times",
+      "source": "Google News World",
+      "country": "North Korea",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEdZX3IzTk9jRWw0aERpUlJEbU14VmZIejY4MzNHOFBYNHZYVGFZbFlrdmFJcE5oT18zQkd5XzhJS2JUdWhZT3IwcmFZZUZfd2JXMjA5QnRLYkZEMXRLcG1vTmtZb21JUUJvQV9KNEV3VTZEQUhnenJsOHBzNFQyUno5ekFiYVJCczB0Uko2NHY3Zw?oc=5",
+      "published_date": "2026-04-07T11:32:55+00:00"
+    },
+    {
+      "title": "India kicks off crucial state elections for Modi’s BJP amid Iran war turmoil",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/week-asia/politics/article/3349282/india-kicks-crucial-state-elections-modis-bjp-amid-iran-war-turmoil?utm_source=rss_feed",
+      "published_date": "2026-04-07T11:20:42+00:00"
+    },
+    {
+      "title": "Myanmar junta forces kill seven, destroy village in Myingyan Township",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-forces-kill-seven-destroy-village-in-myingyan-township/",
+      "published_date": "2026-04-07T11:03:45+00:00"
+    },
+    {
+      "title": "Taiwan's opposition leader arrives in China for a 'Journey of Peace'",
+      "source": "NPR World",
+      "country": "Taiwan",
+      "url": "https://www.npr.org/2026/04/07/nx-s1-5776401/taiwan-opposition-arrives-china",
+      "published_date": "2026-04-07T09:49:38+00:00"
+    },
+    {
+      "title": "Vedomosti reports Kremlin is weighing removal of Belgorod region governor ahead of September elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/07/vedomosti-reports-kremlin-is-weighing-removal-of-belgorod-region-governor-ahead-of-september-elections",
+      "published_date": "2026-04-07T07:38:28+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "source": "BBC World",
+      "country": "Taiwan",
+      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T07:29:55+00:00"
+    },
+    {
+      "title": "Taiwanese opposition leader Cheng Li-wun begins ‘journey of peace’ in Shanghai",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3349225/taiwanese-opposition-leader-cheng-li-wun-begins-journey-peace-shanghai?utm_source=rss_feed",
+      "published_date": "2026-04-07T06:59:21+00:00"
+    },
+    {
+      "title": "To Lam emerges as Vietnam’s ‘supreme leader’ after being elected president",
+      "source": "South China Morning Post",
+      "country": "Vietnam",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3349235/lam-emerges-vietnams-supreme-leader-after-being-elected-president?utm_source=rss_feed",
+      "published_date": "2026-04-07T06:35:20+00:00"
+    },
+    {
+      "title": "Why America, not Iran, has a succession problem",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/commentary/2026/04/07/world/americas-succession-problem/",
+      "published_date": "2026-04-07T03:53:00+00:00"
+    },
+    {
+      "title": "Leaders of the Liberal Party meet this Tuesday with elected congressmen to discuss their position for the presidential elections",
+      "source": "El Tiempo Colombia",
+      "country": "Canada",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/directivas-del-partido-liberal-se-reunen-este-martes-con-congresistas-electos-para-discutir-su-postura-para-las-presidenciales-3545773",
+      "published_date": "2026-04-07T02:17:59+00:00"
+    },
+    {
+      "title": "PM Modi says UCC, one nation–one election under serious discussion",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-says-ucc-one-nation-one-election-under-serious-discussion-101775522749746.html",
+      "published_date": "2026-04-07T00:54:31+00:00"
+    },
     {
       "title": "House Democrat announces impeachment push against Pete Hegseth over Iran war",
       "source": "Axios World",
@@ -1672,20 +1784,6 @@
       "country": "Iran",
       "url": "https://www.axios.com/2026/03/24/iran-war-powers-vote-house-landsman-cuellar",
       "published_date": "2026-03-24T20:47:04+00:00"
-    },
-    {
-      "title": "Ukraine says it’s weighing protections for captured North Korean soldiers",
-      "source": "NK News",
-      "country": "Ukraine",
-      "url": "https://www.nknews.org/2026/03/ukraine-says-its-weighing-protections-for-captured-north-korean-soldiers/",
-      "published_date": "2026-03-24T09:11:23+00:00"
-    },
-    {
-      "title": "Kim Jong Un denounces US as ‘terrorist’ state in apparent reference to Iran war",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/kim-jong-un-calls-us-a-terrorist-state-repeats-anti-south-korea-stance/",
-      "published_date": "2026-03-24T01:02:45+00:00",
-      "country": "Iran"
     }
   ]
 }
