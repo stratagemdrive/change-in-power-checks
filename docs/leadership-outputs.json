@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-07T15:05:48.337506+00:00",
-    "story_count": 247,
+    "last_updated": "2026-04-08T05:36:54.521486+00:00",
+    "story_count": 259,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Exclusive: How Iran's supreme leader reached a truce with Trump",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/04/08/exclusive-how-irans-supreme-leader-reached-a-truce-with-trump",
+      "published_date": "2026-04-08T04:42:31+00:00"
+    },
+    {
+      "title": "Vietnam's To Lam plans China visit next week after election as president, sources say",
+      "source": "Japan Times",
+      "country": "Vietnam",
+      "url": "https://www.japantimes.co.jp/news/2026/04/08/asia-pacific/politics/vietnam-to-lam-china-visit/",
+      "published_date": "2026-04-08T02:30:00+00:00"
+    },
+    {
+      "title": "Valdemar says Bolsonaro will be in prison for ten years if Flávio loses the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/valdemar-diz-que-bolsonaro-ficara-dez-anos-preso-se-flavio-perder-a-eleicao.shtml",
+      "published_date": "2026-04-08T02:16:00+00:00"
+    },
+    {
+      "title": "Fidae inaugurated the new edition with acrobatics, the presence of Kast and a greeting from space",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/fidae-inauguro-nueva-edicion-con-acrobacias-la-presencia-de-kast-y-un-saludo-desde-el-espacio/",
+      "published_date": "2026-04-08T01:09:06+00:00"
+    },
+    {
+      "title": "Pre-candidate for re-election in SP, Tarcísio says he supports Flávio Bolsonaro against presidential re-election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/pre-candidato-a-reeleicao-em-sp-tarcisio-diz-apoiar-flavio-bolsonaro-contra-reeleicao-presidencial.shtml",
+      "published_date": "2026-04-07T20:01:00+00:00"
+    },
+    {
+      "title": "The United States and Russia are closely following the elections in Hungary, and this time, in the same direction",
+      "source": "La Tercera Chile",
+      "country": "Russia",
+      "url": "https://www.latercera.com/mundo/noticia/estados-unidos-y-rusia-siguen-de-cerca-las-elecciones-en-hungria-y-esta-vez-en-la-misma-direccion/",
+      "published_date": "2026-04-07T20:00:00+00:00"
+    },
+    {
+      "title": "France's Sarkozy maintains innocence at Libya election funding trial",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/2026/04/07/frances-sarkozy-maintains-innocence-at-libya-election-funding-trial",
+      "published_date": "2026-04-07T17:55:46+00:00"
+    },
+    {
+      "title": "First Nation asks court to block Alberta referendum on seceding from Canada",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada",
+      "published_date": "2026-04-07T16:43:13+00:00"
+    },
+    {
+      "title": "Motta retreats from accelerated election for TCU and weakens strategy that favored PT nominee",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/motta-recua-de-eleicao-acelerada-para-tcu-e-enfraquece-estrategia-que-favorecia-indicado-do-pt.shtml",
+      "published_date": "2026-04-07T16:39:00+00:00"
+    },
+    {
+      "title": "Trump's Iran post causes talk of his impeachment, removal to erupt among Hill Democrats",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/04/07/trump-iran-impeachment-25th-amendment-war-crimes",
+      "published_date": "2026-04-07T16:36:43+00:00"
+    },
+    {
+      "title": "Peru enters the week of its most complex elections, with 35 presidential candidates",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/peru-entra-en-la-semana-de-sus-elecciones-mas-complejas-con-35-candidatos-presidenciales/",
+      "published_date": "2026-04-07T15:44:18+00:00"
+    },
+    {
+      "title": "‘Similar to Covid’: Karnataka travel operators appeal to PM Modi for financial relief amid West Asia crisis",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/bangalore/kstoa-karnataka-travel-operators-relief-pm-modi-west-asia-conflict-impact-10624229/",
+      "published_date": "2026-04-07T15:07:34+00:00"
+    },
+    {
+      "title": "Ukrainian parliament passes law extending military levy for three years after martial law",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4110106-ukrainian-parliament-passes-law-extending-military-levy-for-three-years-after-martial-law.html",
+      "published_date": "2026-04-07T15:00:00+00:00"
+    },
     {
       "title": "Who are the candidates for president in the Peruvian elections 2026",
       "source": "La Nacion Argentina",
@@ -104,7 +195,7 @@
     {
       "title": "India kicks off crucial state elections for Modi’s BJP amid Iran war turmoil",
       "source": "South China Morning Post",
-      "country": "Iran",
+      "country": "India",
       "url": "https://www.scmp.com/week-asia/politics/article/3349282/india-kicks-crucial-state-elections-modis-bjp-amid-iran-war-turmoil?utm_source=rss_feed",
       "published_date": "2026-04-07T11:20:42+00:00"
     },
@@ -1777,13 +1868,6 @@
       "url": "https://www.nknews.org/2026/03/north-korea-expected-to-strengthen-role-of-rubber-stamp-parliament-seoul-says/",
       "published_date": "2026-03-25T10:23:53+00:00",
       "country": "North Korea"
-    },
-    {
-      "title": "House Democrats clamp down on defections ahead of new Iran war powers vote",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/03/24/iran-war-powers-vote-house-landsman-cuellar",
-      "published_date": "2026-03-24T20:47:04+00:00"
     }
   ]
 }
