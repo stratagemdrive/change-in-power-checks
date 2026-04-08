@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-08T05:36:54.521486+00:00",
-    "story_count": 259,
+    "last_updated": "2026-04-08T15:08:09.100503+00:00",
+    "story_count": 275,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump says he will work with Iran for 'very productive regime change, there will be no enrichment'",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-892370",
+      "published_date": "2026-04-08T15:08:01+00:00"
+    },
+    {
+      "title": "Kerala polls: Cash-for-votes row in Palakkad rocks BJP on election eve",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-cash-for-votes-row-in-palakkad-rocks-bjp-on-election-eve/article70838789.ece",
+      "published_date": "2026-04-08T14:58:12+00:00"
+    },
+    {
+      "title": "Hungary: the election that scares Vladimir Putin?",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/europe/20260408-hongrie-l-%C3%A9lection-qui-fait-peur-%C3%A0-vladimir-poutine",
+      "published_date": "2026-04-08T14:49:28+00:00"
+    },
+    {
+      "title": "“Disfigured” Iranian Supreme Leader, Strait of Hormuz, uranium… What to remember from Pete Hegseth’s press conference after the ceasefire",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/guide-supreme-iranien-defigure-detroit-d-ormuz-uranium-ce-qu-il-faut-retenir-de-la-conference-de-presse-de-pete-hegseth-apres-le-cessez-le-feu-20260408",
+      "published_date": "2026-04-08T13:48:20+00:00"
+    },
+    {
+      "title": "Donald Trump: “The United States will work closely with Iran, a country that has experienced regime change”",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/el-mundo/trump-hablo-del-acuerdo-con-iran-y-dijo-que-el-regimen-eliminara-todos-los-restos-nucleares-nid08042026/",
+      "published_date": "2026-04-08T13:32:26+00:00"
+    },
+    {
+      "title": "They reveal how Iran's supreme leader gave in to Trump's ultimatum",
+      "source": "CiberCuba",
+      "country": "Iran",
+      "url": "https://www.cibercuba.com/noticias/2026-04-08-u1-e199370-s27061-nid325292-revelan-lider-supremo-iran-cedio-ultimatum-trump",
+      "published_date": "2026-04-08T13:20:59+00:00"
+    },
+    {
+      "title": "Bangladesh FM in India, most senior visit since 2024 uprising",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/1989882/bangladesh-fm-in-india-most-senior-visit-since-2024-uprising",
+      "published_date": "2026-04-08T12:49:58+00:00"
+    },
+    {
+      "title": "Report: War veteran set to replace Belgorod Region governor as Putin prepares leadership change",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/08/report-war-veteran-set-to-replace-belgorod-region-governor-as-putin-prepares-leadership-change",
+      "published_date": "2026-04-08T12:19:44+00:00"
+    },
+    {
+      "title": "Germany live blog: Rhineland-Palatinate: CDU and SPD start coalition negotiations",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-rheinland-pfalz-cdu-und-spd-beginnen-mit-koalitionsverhandlungen-faz-110093143.html",
+      "published_date": "2026-04-08T11:56:18+00:00"
+    },
+    {
+      "title": "How Trump pushed the US into Israel’s bid for ‘regime change’ in Iran",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/explained/explained-global/trump-iran-strike-decision-netanyahu-regime-change-10625701/",
+      "published_date": "2026-04-08T11:19:23+00:00"
+    },
+    {
+      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T11:07:30+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader Cheng Li-wun makes rare China visit",
+      "source": "Deutsche Welle English",
+      "country": "Taiwan",
+      "url": "https://www.dw.com/en/taiwan-opposition-leader-cheng-li-wun-makes-rare-china-visit/a-76704627?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-08T10:06:00+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader makes rare visit to China in 'journey for peace'",
+      "source": "Euronews",
+      "country": "Taiwan",
+      "url": "http://www.euronews.com/2026/04/08/taiwan-opposition-leader-makes-rare-visit-to-china-in-journey-for-peace",
+      "published_date": "2026-04-08T10:04:43+00:00"
+    },
+    {
+      "title": "5 with Congress, 2 with BJP & several alone: How regional parties fare in Assam election",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/5-with-congress-2-with-bjp-several-alone-how-regional-parties-fare-in-assam-election-101775640801015.html",
+      "published_date": "2026-04-08T09:54:00+00:00"
+    },
+    {
+      "title": "Venezuela and USA: Maduro's successor serves Trump",
+      "source": "FAZ Germany",
+      "country": "Venezuela",
+      "url": "https://www.faz.net/aktuell/politik/ausland/rodriguez-maduros-nachfolgerin-dient-sich-trump-an-accg-200708406.html",
+      "published_date": "2026-04-08T09:33:53+00:00"
+    },
+    {
+      "title": "On rare China visit, Taiwan’s opposition leader calls for reconciliation",
+      "source": "Al Jazeera English",
+      "country": "Taiwan",
+      "url": "https://www.aljazeera.com/news/2026/4/8/on-rare-china-visit-taiwans-opposition-leader-calls-for-reconciliation?traffic_source=rss",
+      "published_date": "2026-04-08T08:00:36+00:00"
+    },
+    {
+      "title": "Russia’s Central Election Commission says candidates can campaign on Telegram",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/08/russia-s-central-election-commission-says-candidates-can-campaign-on-telegram",
+      "published_date": "2026-04-08T07:53:25+00:00"
+    },
+    {
+      "title": "EC issues ultimatum to Trinamool Congress ahead of Bengal polls: 'This time, elections will be...'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/ec-issues-ultimatum-to-mamata-banerjee-trinamool-congress-ahead-of-bengal-polls-this-time-elections-will-be-101775630066206.html",
+      "published_date": "2026-04-08T06:44:33+00:00"
+    },
+    {
+      "title": "‘Direct and unequivocal call to violence’: BJP complains to Election Commission over TMC MP Abhishek Banerjee’s speech",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/direct-and-unequivocal-call-to-violence-bjp-complains-to-election-commission-over-tmc-mp-abhishek-banerjees-speech-10625058/",
+      "published_date": "2026-04-08T06:02:55+00:00"
+    },
     {
       "title": "Exclusive: How Iran's supreme leader reached a truce with Trump",
       "source": "Axios World",
@@ -1847,27 +1980,6 @@
       "url": "https://www.themoscowtimes.com/2026/03/25/vietnams-pm-meets-with-putin-to-discuss-nuclear-power-and-investment-a92335",
       "published_date": "2026-03-25T16:28:42+00:00",
       "country": "Vietnam"
-    },
-    {
-      "title": "Russian Energy Minister Confirms Oil Shipments to Cuba",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/25/russian-energy-minister-confirms-oil-shipments-to-cuba-a92333",
-      "published_date": "2026-03-25T13:30:00+00:00",
-      "country": "Cuba"
-    },
-    {
-      "title": "Kokang army tightens grip on China-Myanmar trade routes amid junta’s political transition",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/kokang-army-tightens-grip-on-china-myanmar-trade-routes-amid-juntas-political-transition/",
-      "published_date": "2026-03-25T12:55:00+00:00"
-    },
-    {
-      "title": "North Korea expected to strengthen role of rubber-stamp parliament, Seoul says",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/north-korea-expected-to-strengthen-role-of-rubber-stamp-parliament-seoul-says/",
-      "published_date": "2026-03-25T10:23:53+00:00",
-      "country": "North Korea"
     }
   ]
 }
