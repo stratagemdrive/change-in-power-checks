@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-08T15:08:09.100503+00:00",
-    "story_count": 275,
+    "last_updated": "2026-04-09T00:10:30.002604+00:00",
+    "story_count": 283,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Tinubu sends goodwill message as Akpabio represents him at Lagos projects inauguration",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/870337-tinubu-sends-goodwill-message-as-akpabio-represents-him-at-lagos-projects-inauguration.html",
+      "published_date": "2026-04-08T22:54:17+00:00"
+    },
+    {
+      "title": "Election Commission-Trinamool Congress meeting ends on an acrimonious note",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-trinamool-congress-tmc-meeting-gyanesh-kumar-west-bengal-elections-april-8-2026/article70837559.ece",
+      "published_date": "2026-04-08T19:58:26+00:00"
+    },
+    {
+      "title": "They demand a change in the CNE as a key step to call elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/exigen-cambio-del-cne-como-paso-clave-para-convocar-elecciones-en-venezuela/",
+      "published_date": "2026-04-08T19:25:09+00:00"
+    },
+    {
+      "title": "Vente Venezuela sees it possible to call elections this year",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/vente-venezuela-ve-posible-convocar-elecciones-este-ano/",
+      "published_date": "2026-04-08T18:45:36+00:00"
+    },
+    {
+      "title": "Chief Minister Siddaramaiah accuses Election Commission of India of being ‘selective and complicit’",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/chief-minister-siddaramaiah-accuses-election-commission-of-india-of-being-selective-and-complicit/article70839570.ece",
+      "published_date": "2026-04-08T18:42:55+00:00"
+    },
+    {
+      "title": "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
+      "published_date": "2026-04-08T18:34:41+00:00"
+    },
+    {
+      "title": "Election Commission of India fine-tunes its strategy to fit in the ground reality",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/election-commission-of-india-fine-tunes-its-strategy-to-fit-in-the-ground-reality/article70839333.ece",
+      "published_date": "2026-04-08T18:21:10+00:00"
+    },
+    {
+      "title": "India to engage new government of Bangladesh constructively, to deepen ties, says Jaishankar",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-to-engage-new-government-of-bangladesh-constructively-to-deepen-ties-says-jaishankar/article70839690.ece",
+      "published_date": "2026-04-08T18:05:16+00:00"
+    },
+    {
+      "title": "Constitutional Block demands to declare the absolute absence of the Presidency and call immediate elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/bloque-constitucional-exige-declarar-la-falta-absoluta-de-la-presidencia-y-convocar-elecciones-inmediatas-en-venezuela/",
+      "published_date": "2026-04-08T17:23:00+00:00"
+    },
+    {
+      "title": "Norway's Telenor faces lawsuit for giving junta data from its customers in Myanmar",
+      "source": "Deutsche Welle English",
+      "country": "Myanmar",
+      "url": "https://www.dw.com/en/norway-s-telenor-faces-lawsuit-for-giving-junta-data-from-its-customers-in-myanmar/a-76710104?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-08T15:48:00+00:00"
+    },
+    {
+      "title": "Assam assembly elections 2026: CM Himanta to contest from Jalukbari as BJP releases candidate list for polls",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assam-assembly-elections-2026-bjp-list-of-candidates-cm-himanta-biswa-sarma-full-list-101775134976494.html",
+      "published_date": "2026-04-08T15:47:50+00:00"
+    },
     {
       "title": "Trump says he will work with Iran for 'very productive regime change, there will be no enrichment'",
       "source": "Jerusalem Post",
@@ -125,7 +202,7 @@
     {
       "title": "How Trump pushed the US into Israel’s bid for ‘regime change’ in Iran",
       "source": "Indian Express",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://indianexpress.com/article/explained/explained-global/trump-iran-strike-decision-netanyahu-regime-change-10625701/",
       "published_date": "2026-04-08T11:19:23+00:00"
     },
@@ -1959,27 +2036,6 @@
       "url": "https://www.nknews.org/2026/03/belarusian-leader-lukashenko-kicks-off-talks-with-kim-jong-un-in-pyongyang/",
       "published_date": "2026-03-26T05:08:40+00:00",
       "country": "North Korea"
-    },
-    {
-      "title": "\"They'll get mowed down\": Trump rebuffed Netanyahu idea to call for Iran uprising",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/03/25/trump-netanyahu-iran-uprising-rejected",
-      "published_date": "2026-03-25T19:13:55+00:00"
-    },
-    {
-      "title": "A mysterious group is calling on Russians to protest the Kremlin’s Internet restrictions. Is it a trap?",
-      "source": "Meduza (Russia EN)",
-      "url": "https://meduza.io/en/feature/2026/03/25/a-mysterious-group-is-calling-on-russians-to-protest-the-kremlin-s-internet-restrictions-is-it-a-trap",
-      "published_date": "2026-03-25T17:43:34+00:00",
-      "country": "Russia"
-    },
-    {
-      "title": "Vietnam’s PM Meets With Putin to Discuss Nuclear Power and Investment",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/25/vietnams-pm-meets-with-putin-to-discuss-nuclear-power-and-investment-a92335",
-      "published_date": "2026-03-25T16:28:42+00:00",
-      "country": "Vietnam"
     }
   ]
 }
