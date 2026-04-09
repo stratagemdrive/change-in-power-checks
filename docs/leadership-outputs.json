@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-09T00:10:30.002604+00:00",
-    "story_count": 283,
+    "last_updated": "2026-04-09T16:15:09.261602+00:00",
+    "story_count": 294,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-09T14:45:00+00:00"
+    },
+    {
+      "title": "Iranians rally to mark 40-day mourning for slain supreme leader Khamenei",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/video/20260409-iranians-rally-to-mark-40-day-mourning-for-slain-supreme-leader-khamenei",
+      "published_date": "2026-04-09T14:15:52+00:00"
+    },
+    {
+      "title": "Universities: controversy after the election of a member of the Muslim Students of France union within the Cnous",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/actualite-france/universites-polemique-apres-l-election-d-un-membre-du-syndicat-des-etudiants-musulmans-de-france-au-sein-du-cnous-20260409",
+      "published_date": "2026-04-09T14:15:52+00:00"
+    },
+    {
+      "title": "Israeli arrested in Iranian plot to assassinate former PM Naftali Bennett",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-892458",
+      "published_date": "2026-04-09T12:55:08+00:00"
+    },
+    {
+      "title": "India election roll overhaul sparks anger as key states vote",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/1990157/india-election-roll-overhaul-sparks-anger-as-key-states-vote",
+      "published_date": "2026-04-09T12:48:25+00:00"
+    },
+    {
+      "title": "Benjamin Netanyahu’s corruption trial resumes as Israel lifts state of emergency",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/benjamin-netanyahu-corruption-trial-israel-iran-war-b2954489.html",
+      "published_date": "2026-04-09T12:18:48+00:00"
+    },
+    {
+      "title": "Increased pre-election spending could erode Nigeria’s reform gains – World Bank",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/870454-increased-pre-election-spending-could-erode-nigerias-reform-gains-world-bank.html",
+      "published_date": "2026-04-09T11:58:41+00:00"
+    },
+    {
+      "title": "Civil society demands that the CNE declare the \"absolute absence\" of Nicolás Maduro and call elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/sociedad-civil-exige-al-cne-declarar-la-falta-absoluta-de-nicolas-maduro-y-convocar-a-elecciones/",
+      "published_date": "2026-04-09T11:58:25+00:00"
+    },
+    {
+      "title": "Thousands of Iranians rally in memory of late supreme leader Khamenei",
+      "source": "The Punch Nigeria",
+      "country": "Iran",
+      "url": "https://punchng.com/thousands-of-iranians-rally-in-memory-of-late-supreme-leader-khamenei/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-09T11:51:19+00:00"
+    },
+    {
+      "title": "With Carney riding high, Liberals meet ahead of crucial by-elections",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-with-carney-riding-high-liberals-meet-ahead-of-crucial-by-elections/",
+      "published_date": "2026-04-09T10:50:57+00:00"
+    },
+    {
+      "title": "'Regime change' vs 'BJP buying votes': PM Modi, Mamata Banerjee trade barbs at poll rallies in Bengal",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/regime-change-vs-bjp-buying-votes-pm-modi-mamata-banerjee-trade-barbs-at-poll-rallies-in-bengal-election-news-101775729559476.html",
+      "published_date": "2026-04-09T10:31:46+00:00"
+    },
+    {
+      "title": "Sasmit Patra steps down as BJD’s Rajya Sabha leader amid internal dissent",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/sasmit-patra-bjd-rajya-sabha-leader-internal-dissent-10627306/",
+      "published_date": "2026-04-09T07:49:15+00:00"
+    },
+    {
+      "title": "Goyal inaugurates north India’s first central pivot irrigation system at PAU",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/goyal-inaugurates-north-india-first-central-pivot-irrigation-system-pau-10626994/",
+      "published_date": "2026-04-09T05:40:43+00:00"
+    },
+    {
+      "title": "Myanmar clients sue Norway’s Telenor for giving data to junta",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-clients-sue-norways-telenor-for-giving-data-to-junta/",
+      "published_date": "2026-04-09T05:12:37+00:00"
+    },
+    {
+      "title": "US Senate to vote on resolution to limit Trump's war powers against Iran",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/senado-de-estados-unidos-votara-una-resolucion-para-limitar-los-poderes-belicos-de-trump-contra-iran/",
+      "published_date": "2026-04-09T00:52:18+00:00"
+    },
     {
       "title": "Tinubu sends goodwill message as Akpabio represents him at Lagos projects inauguration",
       "source": "Premium Times Nigeria",
@@ -2008,34 +2113,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/politics/article-election-act-deepfakes-long-ballots-nomination-contests/",
       "published_date": "2026-03-26T16:24:08+00:00"
-    },
-    {
-      "title": "Scoop: Nancy Mace eyes break with GOP on Iran war powers vote in blow to Trump",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/03/26/nancy-mace-iran-war-powers-trump-johnson",
-      "published_date": "2026-03-26T14:45:20+00:00"
-    },
-    {
-      "title": "Forget Discounts – Russian Oil Is Now Selling at a Premium, Deputy PM Novak Says",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/26/forget-discounts-russian-oil-is-now-selling-at-a-premium-deputy-pm-novak-says-a92347",
-      "published_date": "2026-03-26T14:09:33+00:00",
-      "country": "Russia"
-    },
-    {
-      "title": "Russian Lawmakers Headed to Washington for Meetings, State Department Says",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/26/russian-lawmakers-headed-to-washington-for-meetings-state-department-says-a92330",
-      "published_date": "2026-03-26T06:29:00+00:00",
-      "country": "Russia"
-    },
-    {
-      "title": "Belarusian leader Lukashenko and Kim Jong Un sign friendship deal in Pyongyang",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/belarusian-leader-lukashenko-kicks-off-talks-with-kim-jong-un-in-pyongyang/",
-      "published_date": "2026-03-26T05:08:40+00:00",
-      "country": "North Korea"
     }
   ]
 }
