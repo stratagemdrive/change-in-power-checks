@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-10T14:42:16.023291+00:00",
-    "story_count": 333,
+    "last_updated": "2026-04-10T23:34:12.616880+00:00",
+    "story_count": 339,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "APC prays for Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/apc-prays-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-11T00:01:59+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Nyala healthcare workers on strike | Burhan abolishes deputy, assistant commander-in-chief positions | Sudanese military intelligence head in high-level talks with Tripoli’s chief of staff | Military operation to retake Blue Nile’s Kurmuk underway",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/04/10/news/u/sudan-nashra-nyala-healthcare-workers-on-strike-burhan-abolishes-deputy-assistant-commander-in-chief-positions-sudanese-military-intelligence-head-in-high-level-talks-with-tripolis-chie/",
+      "published_date": "2026-04-10T20:01:23+00:00"
+    },
+    {
+      "title": "What to expect from Peru’s general election on Sunday",
+      "source": "Peru Reports",
+      "country": "Peru",
+      "url": "https://perureports.com/what-to-expect-from-perus-general-election-on-sunday/10736/",
+      "published_date": "2026-04-10T19:49:43+00:00"
+    },
+    {
+      "title": "Don Davies to act as NDP parliamentary lead after new leader Avi Lewis announces critic roles",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-don-davies-to-act-as-ndp-parliamentary-lead-after-new-leader-avi-lewis/",
+      "published_date": "2026-04-10T19:35:54+00:00"
+    },
+    {
+      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
+      "published_date": "2026-04-10T18:04:34+00:00"
+    },
+    {
+      "title": "President Petro once again attacks the decision of the Constitutional Court to overthrow the economic emergency of December and insists on tax reform",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-vuelve-a-rechazar-decision-de-la-corte-constitucional-de-tumbar-la-emergencia-economica-de-diciembre-e-insiste-en-reforma-tributaria-3546850",
+      "published_date": "2026-04-10T17:04:23+00:00"
+    },
+    {
+      "title": "How a Russian propaganda unit is targeting Hungary’s elections",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/04/10/how-a-russian-propaganda-unit-is-targeting-hungarys-elections",
+      "published_date": "2026-04-10T15:19:14+00:00"
+    },
+    {
+      "title": "Taiwan’s Political Crisis Is a Security Nightmare",
+      "source": "Foreign Policy",
+      "country": "Taiwan",
+      "url": "https://foreignpolicy.com/2026/04/10/taiwan-china-budget-constitution-crisis/",
+      "published_date": "2026-04-10T14:51:25+00:00"
+    },
     {
       "title": "DPK far outpaces PPP in nominations for Daegu mayoral election",
       "source": "Korea Times",
@@ -118,7 +174,7 @@
     {
       "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
       "source": "NPR World",
-      "country": "Taiwan",
+      "country": "China",
       "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition",
       "published_date": "2026-04-10T11:29:04+00:00"
     },
@@ -174,7 +230,7 @@
     {
       "title": "China's Xi hosts Taiwan opposition leader in Beijing",
       "source": "Deutsche Welle English",
-      "country": "Taiwan",
+      "country": "China",
       "url": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-04-10T08:58:00+00:00"
     },
@@ -277,7 +333,7 @@
       "published_date": "2026-04-10T04:42:01+00:00"
     },
     {
-      "title": "Election 2026 LIVE: Amit Shah releases BJP's manifesto for Bengal ahead of elections starting April 23",
+      "title": "Election 2026 highlights: Amit Shah releases BJP's manifesto for Bengal ahead of elections starting April 23",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-updates-west-bengal-tamil-nadu-mamata-banerjee-amit-shah-kerala-assam-puducherry-101775792310918.html",
@@ -2373,19 +2429,6 @@
       "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-28T14:14:46+00:00",
       "country": "Cuba"
-    },
-    {
-      "title": "Opposition parliamentarians present criminal report against Gilmar Mendes for talking about leaks at the CPI",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/03/parlamentares-de-oposicao-apresentam-noticia-crime-contra-gilmar-mendes-por-falas-sobre-vazamentos-na-cpi.shtml",
-      "published_date": "2026-03-27T21:03:00+00:00"
-    },
-    {
-      "title": "Russian Government Aims to Reopen Black Sea Beaches by June After Oil Spill Cleanup",
-      "source": "Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/27/russian-government-aims-to-reopen-black-sea-beaches-by-june-after-oil-spill-cleanup-a92358",
-      "published_date": "2026-03-27T15:48:48+00:00",
-      "country": "Russia"
     }
   ]
 }
