@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-10T06:15:30.178134+00:00",
-    "story_count": 312,
+    "last_updated": "2026-04-10T14:42:16.023291+00:00",
+    "story_count": 333,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,147 @@
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20260410/dpk-far-outpaces-ppp-in-nominations-for-daegu-mayoral-election?utm_source=rss",
-      "published_date": "2026-04-10T06:12:02+00:00"
+      "published_date": "2026-04-10T14:37:02+00:00"
+    },
+    {
+      "title": "Why is DPK eager to recruit presidential AI secretary for local elections?",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260410/why-is-dpk-eager-to-recruit-presidential-ai-secretary-for-local-elections?utm_source=rss",
+      "published_date": "2026-04-10T14:37:02+00:00"
+    },
+    {
+      "title": "China will not tolerate independence for Taiwan, Xi Jinping tells island's opposition leader",
+      "source": "Jerusalem Post",
+      "country": "Taiwan",
+      "url": "https://www.jpost.com/international/article-892593",
+      "published_date": "2026-04-10T14:19:52+00:00"
+    },
+    {
+      "title": "Presidential elections in Peru: campaigns close with radical proposals against crime",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/elecciones-presidenciales-en-peru-cierran-campanas-con-propuestas-radicales-contra-el-crimen/",
+      "published_date": "2026-04-10T14:18:00+00:00"
+    },
+    {
+      "title": "Assembly Elections LIVE: DMK has only fulfilled 70 out of 511 poll promises made in 2021, alleges BJP’s K. Annamalai",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-live-updates-tamil-nadu-west-bengal-kerala-assam-puducherry-april-10-2026/article70845819.ece",
+      "published_date": "2026-04-10T14:12:43+00:00"
+    },
+    {
+      "title": "BJP plans outreach before special Parliamentary session on women’s reservation amendments",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/bjp-plans-outreach-before-special-parliamentary-session-on-womens-reservation-amendments/article70847307.ece",
+      "published_date": "2026-04-10T13:38:15+00:00"
+    },
+    {
+      "title": "Cheng Li-wun: Taiwan's opposition leader meets Xi Jinping",
+      "source": "FAZ Germany",
+      "country": "Taiwan",
+      "url": "https://www.faz.net/aktuell/politik/ausland/taiwan-und-china-cheng-li-wun-trifft-xi-jinping-accg-200718615.html",
+      "published_date": "2026-04-10T12:34:22+00:00"
+    },
+    {
+      "title": "LDP's new vision says constitutional revision 'critically needed'",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/04/10/japan/politics/ldp-constitution-revision/",
+      "published_date": "2026-04-10T11:49:00+00:00"
+    },
+    {
+      "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
+      "source": "NPR World",
+      "country": "Taiwan",
+      "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition",
+      "published_date": "2026-04-10T11:29:04+00:00"
+    },
+    {
+      "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
+      "source": "Dawn Pakistan",
+      "country": "Taiwan",
+      "url": "https://www.dawn.com/news/1990508/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader",
+      "published_date": "2026-04-10T11:26:25+00:00"
+    },
+    {
+      "title": "Xi Jinping receives Taiwan's opposition leader in Beijing in an unprecedented meeting in ten years",
+      "source": "La Tercera Chile",
+      "country": "Taiwan",
+      "url": "https://www.latercera.com/mundo/noticia/xi-jinping-recibe-en-beijing-a-la-lider-de-la-oposicion-de-taiwan-en-un-encuentro-sin-precedentes-en-diez-anos/",
+      "published_date": "2026-04-10T11:15:08+00:00"
+    },
+    {
+      "title": "Chinese firms in Hungary face a post-election reckoning – no matter who wins",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/economy/china-economy/article/3349649/chinese-firms-hungary-face-post-election-reckoning-no-matter-who-wins?utm_source=rss_feed",
+      "published_date": "2026-04-10T11:00:08+00:00"
+    },
+    {
+      "title": "Kremlin sources say Russia is no longer ruling out defeat for Orban’s party in Hungary elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/10/kremlin-sources-say-russia-is-no-longer-ruling-out-defeat-for-orban-s-party-in-hungary-elections",
+      "published_date": "2026-04-10T10:59:52+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
+      "source": "Al Jazeera English",
+      "country": "Taiwan",
+      "url": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss",
+      "published_date": "2026-04-10T10:39:17+00:00"
+    },
+    {
+      "title": "Parliamentary elections in Hungary: Russia is banking on Viktor Orban",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20260410-%C3%A9lections-l%C3%A9gislatives-en-hongrie-la-russie-mise-sur-viktor-orban",
+      "published_date": "2026-04-10T10:06:18+00:00"
+    },
+    {
+      "title": "Xi Jinping meets Taiwanese opposition leader in Beijing and touts a “common future”",
+      "source": "France 24 FR",
+      "country": "China",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260410-xi-jinping-rencontre-a-pekin-la-cheffe-de-l-opposition-ta%C3%AFwanaise-et-vante-un-avenir-commun",
+      "published_date": "2026-04-10T09:20:02+00:00"
+    },
+    {
+      "title": "China's Xi hosts Taiwan opposition leader in Beijing",
+      "source": "Deutsche Welle English",
+      "country": "Taiwan",
+      "url": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-10T08:58:00+00:00"
+    },
+    {
+      "title": "Hungary's ruling party accuses Ukraine of sabotage as it readies for crucial election",
+      "source": "NPR World",
+      "country": "Ukraine",
+      "url": "https://www.npr.org/2026/04/10/nx-s1-5776589/hungarys-ruling-party-accuses-ukraine-of-sabotage-as-it-readies-for-crucial-election",
+      "published_date": "2026-04-10T08:44:30+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
+      "source": "BBC World",
+      "country": "Taiwan",
+      "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T07:55:55+00:00"
+    },
+    {
+      "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
+      "source": "Al Jazeera English",
+      "country": "Myanmar",
+      "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss",
+      "published_date": "2026-04-10T07:36:09+00:00"
+    },
+    {
+      "title": "Cheng hopeful to invite Xi Jinping to Taiwan if the KMT wins 2028 election – as it happened",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3349617/taiwans-opposition-leader-cheng-li-wun-speaks-after-historic-meeting-xi-jinping?utm_source=rss_feed",
+      "published_date": "2026-04-10T06:22:29+00:00"
     },
     {
       "title": "Cuban President Miguel Díaz-Canel tells NBC News that he will not step down",
@@ -72,6 +212,13 @@
       "country": "Cuba",
       "url": "https://www.npr.org/2026/04/10/g-s1-116990/cuban-president-miguel-diaz-canel-tells-nbc-news-that-he-will-not-step-down",
       "published_date": "2026-04-10T05:59:47+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates: Amit Shah unveils BJP’s ‘Sankalp Patra’ for Bengal, promises aid for women, farmers",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-record-turnout-in-assam-polls-lifts-stakes-focus-shifts-to-tamil-nadu-bengal-campaigns-10628860/",
+      "published_date": "2026-04-10T05:55:10+00:00"
     },
     {
       "title": "Díaz-Canel rules out resigning from the presidency and remembers that the leaders of Cuba “are not elected” by the US.",
@@ -83,7 +230,7 @@
     {
       "title": "Iran’s Supreme Leader declares victory over US, Israel; announces ‘new phase’ in Strait of Hormuz management",
       "source": "Indian Express",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://indianexpress.com/article/world/iran-supreme-leader-victory-united-states-israel-strait-of-hormuz-phase-10628982/",
       "published_date": "2026-04-10T05:49:57+00:00"
     },
@@ -109,6 +256,13 @@
       "published_date": "2026-04-10T05:16:00+00:00"
     },
     {
+      "title": "Xi tells Taiwan opposition leader people on both sides of strait are Chinese in rare meeting",
+      "source": "The Guardian World",
+      "country": "Taiwan",
+      "url": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing",
+      "published_date": "2026-04-10T05:06:30+00:00"
+    },
+    {
       "title": "Myanmar junta leader sworn in as self-appointed president",
       "source": "Myanmar Now",
       "country": "Myanmar",
@@ -123,6 +277,13 @@
       "published_date": "2026-04-10T04:42:01+00:00"
     },
     {
+      "title": "Election 2026 LIVE: Amit Shah releases BJP's manifesto for Bengal ahead of elections starting April 23",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-updates-west-bengal-tamil-nadu-mamata-banerjee-amit-shah-kerala-assam-puducherry-101775792310918.html",
+      "published_date": "2026-04-10T04:04:20+00:00"
+    },
+    {
       "title": "Pakistani women drive a fifth of Senate agenda: Free and Fair Election Network",
       "source": "Dawn Pakistan",
       "country": "Pakistan",
@@ -130,7 +291,7 @@
       "published_date": "2026-04-10T03:15:50+00:00"
     },
     {
-      "title": "Peace is a common wish, Xi Jinping tells Taiwan’s opposition leader Cheng Li-wun",
+      "title": "Xi Jinping tells Taiwan opposition leader Cheng Li-wun ‘we need peace’",
       "source": "South China Morning Post",
       "country": "Taiwan",
       "url": "https://www.scmp.com/news/china/politics/article/3349597/xi-jinping-meets-taiwan-opposition-leader-cheng-li-wun-beijing?utm_source=rss_feed",
@@ -195,7 +356,7 @@
     {
       "title": "Peru declares a state of emergency on the border with Chile: it will use drones for surveillance",
       "source": "La Tercera Chile",
-      "country": "Peru",
+      "country": "Chile",
       "url": "https://www.latercera.com/nacional/noticia/peru-declara-estado-de-emergencia-en-frontera-con-chile-usara-drones-para-vigilancia/",
       "published_date": "2026-04-09T16:31:57+00:00"
     },
@@ -211,6 +372,13 @@
       "source": "Deutsche Welle English",
       "country": "Ukraine",
       "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-09T14:45:00+00:00"
+    },
+    {
+      "title": "Hungary election: Voters want new EU approach, but tough Ukraine stance, poll shows",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-ukraine-stance-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-04-09T14:45:00+00:00"
     },
     {
@@ -2218,27 +2386,6 @@
       "url": "https://www.themoscowtimes.com/2026/03/27/russian-government-aims-to-reopen-black-sea-beaches-by-june-after-oil-spill-cleanup-a92358",
       "published_date": "2026-03-27T15:48:48+00:00",
       "country": "Russia"
-    },
-    {
-      "title": "Villages west of Mogok evacuated in anticipation of junta assaults",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/villages-west-of-mogok-evacuated-in-anticipation-of-junta-assaults/",
-      "published_date": "2026-03-27T10:34:12+00:00"
-    },
-    {
-      "title": "Presidential: a narrow majority of French people in favor of Édouard Philippe participating in a possible right-wing primary",
-      "source": "Le Figaro (France)",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-une-courte-majorite-de-francais-favorable-a-ce-qu-edouard-philippe-participe-a-une-eventuelle-primaire-de-la-droite-20260326",
-      "published_date": "2026-03-27T09:54:35+00:00",
-      "country": "France"
-    },
-    {
-      "title": "Opposition pounces on Seoul’s hesitation to condemn North Korean right abuses",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/opposition-pounces-on-seouls-hesitation-to-condemn-north-korean-right-abuses/",
-      "published_date": "2026-03-27T09:44:10+00:00",
-      "country": "South Korea"
     }
   ]
 }
