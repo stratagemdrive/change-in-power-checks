@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-09T16:15:09.261602+00:00",
-    "story_count": 294,
+    "last_updated": "2026-04-10T06:15:30.178134+00:00",
+    "story_count": 312,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,153 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "DPK far outpaces PPP in nominations for Daegu mayoral election",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260410/dpk-far-outpaces-ppp-in-nominations-for-daegu-mayoral-election?utm_source=rss",
+      "published_date": "2026-04-10T06:12:02+00:00"
+    },
+    {
+      "title": "Cuban President Miguel Díaz-Canel tells NBC News that he will not step down",
+      "source": "NPR World",
+      "country": "Cuba",
+      "url": "https://www.npr.org/2026/04/10/g-s1-116990/cuban-president-miguel-diaz-canel-tells-nbc-news-that-he-will-not-step-down",
+      "published_date": "2026-04-10T05:59:47+00:00"
+    },
+    {
+      "title": "Díaz-Canel rules out resigning from the presidency and remembers that the leaders of Cuba “are not elected” by the US.",
+      "source": "La Tercera Chile",
+      "country": "Cuba",
+      "url": "https://www.latercera.com/mundo/noticia/diaz-canel-descarta-renunciar-a-la-presidencia-y-recuerda-que-a-los-dirigentes-de-cuba-no-los-elige-eeuu/",
+      "published_date": "2026-04-10T05:50:57+00:00"
+    },
+    {
+      "title": "Iran’s Supreme Leader declares victory over US, Israel; announces ‘new phase’ in Strait of Hormuz management",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/iran-supreme-leader-victory-united-states-israel-strait-of-hormuz-phase-10628982/",
+      "published_date": "2026-04-10T05:49:57+00:00"
+    },
+    {
+      "title": "Burma: junta leader installed as president",
+      "source": "Le Figaro France",
+      "country": "Myanmar",
+      "url": "https://www.lefigaro.fr/international/birmanie-le-chef-de-la-junte-s-installe-comme-president-20260410",
+      "published_date": "2026-04-10T05:42:58+00:00"
+    },
+    {
+      "title": "Xi tells Taiwan opposition leader he has ‘full confidence’ in two sides uniting",
+      "source": "Japan Times",
+      "country": "Taiwan",
+      "url": "https://www.japantimes.co.jp/news/2026/04/10/asia-pacific/politics/china-taiwan-kuomintang-xi-cheng/",
+      "published_date": "2026-04-10T05:34:00+00:00"
+    },
+    {
+      "title": "Venezuela: the architecture of a controlled election",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/venezuela-la-arquitectura-de-una-eleccion-controlada/",
+      "published_date": "2026-04-10T05:16:00+00:00"
+    },
+    {
+      "title": "Myanmar junta leader sworn in as self-appointed president",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-sworn-in-as-self-appointed-president/",
+      "published_date": "2026-04-10T04:42:17+00:00"
+    },
+    {
+      "title": "Myanmar junta chief sworn in as president",
+      "source": "The Punch Nigeria",
+      "country": "Myanmar",
+      "url": "https://punchng.com/myanmar-junta-chief-sworn-in-as-president/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-10T04:42:01+00:00"
+    },
+    {
+      "title": "Pakistani women drive a fifth of Senate agenda: Free and Fair Election Network",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/1990376/pakistani-women-drive-a-fifth-of-senate-agenda-free-and-fair-election-network",
+      "published_date": "2026-04-10T03:15:50+00:00"
+    },
+    {
+      "title": "Peace is a common wish, Xi Jinping tells Taiwan’s opposition leader Cheng Li-wun",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3349597/xi-jinping-meets-taiwan-opposition-leader-cheng-li-wun-beijing?utm_source=rss_feed",
+      "published_date": "2026-04-10T03:03:54+00:00"
+    },
+    {
+      "title": "Díaz-Canel does not accept US demands such as releasing political prisoners or allowing elections",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-10-u1-e135253-s27061-nid325508-diaz-canel-acepta-demandas-ee-uu-liberar-presos",
+      "published_date": "2026-04-10T02:58:36+00:00"
+    },
+    {
+      "title": "Iran's supreme leader assures that he “does not seek war,” but warns that “he will not give up his rights”",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/el-lider-supremo-de-iran-asegura-que-no-busca-la-guerra-pero-advierte-que-no-renunciara-a-sus-derechos/",
+      "published_date": "2026-04-10T00:56:51+00:00"
+    },
+    {
+      "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
+      "published_date": "2026-04-09T23:16:47+00:00"
+    },
+    {
+      "title": "Venezuelan Parliament approves the Mines Law",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/parlamento-venezolano-aprueba-la-ley-de-minas-ante-el-interes-expreso-de-ee-uu-en-el-oro/",
+      "published_date": "2026-04-09T21:20:14+00:00"
+    },
+    {
+      "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights",
+      "published_date": "2026-04-09T20:47:10+00:00"
+    },
+    {
+      "title": "Ex-CENTCOM Chief: IRGC running Iran can make concessions without regime change - interview",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/article-892532",
+      "published_date": "2026-04-09T20:17:54+00:00"
+    },
+    {
+      "title": "Democrats opened the door to a third Trump impeachment over Iran. Here’s what they need to happen next",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/house-democrats-trump-impeachment-iran-b2954767.html",
+      "published_date": "2026-04-09T19:31:13+00:00"
+    },
+    {
+      "title": "Transparency Venezuela proposes a special statute to guarantee free elections in the country",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/las-7-reformas-necesarias-para-ir-a-elecciones-en-venezuela/",
+      "published_date": "2026-04-09T17:26:31+00:00"
+    },
+    {
+      "title": "Peru declares a state of emergency on the border with Chile: it will use drones for surveillance",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/nacional/noticia/peru-declara-estado-de-emergencia-en-frontera-con-chile-usara-drones-para-vigilancia/",
+      "published_date": "2026-04-09T16:31:57+00:00"
+    },
+    {
+      "title": "MEPs raise alarm about possible Russian meddling in Hungary elections",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/apr/09/meps-alarm-possible-russian-interference-hungary-elections",
+      "published_date": "2026-04-09T16:17:47+00:00"
+    },
     {
       "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
       "source": "Deutsche Welle English",
@@ -156,6 +303,13 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-clients-sue-norways-telenor-for-giving-data-to-junta/",
       "published_date": "2026-04-09T05:12:37+00:00"
+    },
+    {
+      "title": "Venezuelan acting President Delcy Rodríguez asks workers for patience and promises May wage increase - AP News",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVUTHlCVW5tOThIc0kzWUpJWFZFWWRJZVBJWGNxQ1dWMmFscDFIeTJ5WW9uTFZyb1c4Y3VZbzhBZEVoQ1Vrc2FpX1RJSjZOTEVsNUZMekFVeFM3RkpxVTBfYmZOY29YY0pHQXB3TGJoSHVhc0xNVEZnc055ajNDNGJsSlRuUUZfZ3FyMlhoYXJIN2l2MTJIXzhaZXdlaGdVbThYblc1ajQwTWpzU2k0d0dpWUEzQmxYREE?oc=5",
+      "published_date": "2026-04-09T01:23:00+00:00"
     },
     {
       "title": "US Senate to vote on resolution to limit Trump's war powers against Iran",
@@ -2085,34 +2239,6 @@
       "url": "https://www.nknews.org/2026/03/opposition-pounces-on-seouls-hesitation-to-condemn-north-korean-right-abuses/",
       "published_date": "2026-03-27T09:44:10+00:00",
       "country": "South Korea"
-    },
-    {
-      "title": "UK steps up crackdown on SE Asia scam network",
-      "source": "Myanmar Now",
-      "url": "https://myanmar-now.org/en/news/uk-steps-up-crackdown-on-se-asia-scam-network/",
-      "published_date": "2026-03-27T05:12:34+00:00",
-      "country": "United Kingdom"
-    },
-    {
-      "title": "Ottawa proposes amendments to Elections Act to counter long-ballot protests",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-proposes-amendments-to-elections-act-to-counter-long-ballot/",
-      "published_date": "2026-03-26T20:31:44+00:00"
-    },
-    {
-      "title": "Why House Democrats are waiting until mid-April to force an Iran war powers vote",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/03/26/iran-trump-war-powers-vote-house-democrats",
-      "published_date": "2026-03-26T19:46:22+00:00"
-    },
-    {
-      "title": "Ottawa proposes election bill that takes aim at deepfakes, long ballots",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-election-act-deepfakes-long-ballots-nomination-contests/",
-      "published_date": "2026-03-26T16:24:08+00:00"
     }
   ]
 }
