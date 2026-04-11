@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-10T23:34:12.616880+00:00",
-    "story_count": 339,
+    "last_updated": "2026-04-11T11:33:40.243865+00:00",
+    "story_count": 356,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,130 @@
   },
   "stories": [
     {
+      "title": "Assembly Elections LIVE: BJP government in West Bengal will speed up CAA implementation, says PM Modi at rally in Katwa",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-elections-live-tamil-nadu-assam-west-bengal-kerala-puducherry-live-updates-april-11-2026/article70850064.ece",
+      "published_date": "2026-04-11T11:15:58+00:00"
+    },
+    {
+      "title": "Elections in Peru: who is authorized to vote in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-quienes-estan-habilitados-para-votar-en-la-argentina-nid11042026/",
+      "published_date": "2026-04-11T10:08:31+00:00"
+    },
+    {
+      "title": "Peru 2026 Elections: what is voted on, who are the candidates and how the electoral system works",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-peru-2026-que-se-vota-quienes-son-los-candidatos-y-como-funciona-el-sistema-electoral-nid11042026/",
+      "published_date": "2026-04-11T10:08:04+00:00"
+    },
+    {
+      "title": "An Orban loss in Hungary’s election could be the turning point Putin fears",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/europe/20260411-hungary-election-magyar-orban-could-mark-turning-point-russia-putin-fears",
+      "published_date": "2026-04-11T09:54:27+00:00"
+    },
+    {
+      "title": "How to vote in Argentina in the Peruvian elections on Sunday, April 12",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/el-mundo/como-votar-en-la-argentina-en-las-elecciones-de-peru-del-domingo-12-de-abril-nid10042026/",
+      "published_date": "2026-04-11T09:51:17+00:00"
+    },
+    {
+      "title": "Iran's new Supreme Leader Mojtaba Khamenei is seriously injured in the face and legs but remains mentally alert, those around him assure",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/le-nouveau-guide-supreme-iranien-mojtaba-khamenei-est-gravement-blesse-au-visage-et-aux-jambes-mais-reste-mentalement-alerte-assure-son-entourage-20260411",
+      "published_date": "2026-04-11T09:19:42+00:00"
+    },
+    {
+      "title": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "source": "NPR World",
+      "country": "Peru",
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption",
+      "published_date": "2026-04-11T09:00:00+00:00"
+    },
+    {
+      "title": "Khamenei assassinated, Maduro captured... Towards a trivialization of the neutralization of heads of state?",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/khamenei-assassine-maduro-capture-vers-une-banalisation-des-neutralisations-de-chefs-d-etat-20260411",
+      "published_date": "2026-04-11T09:00:00+00:00"
+    },
+    {
+      "title": "Mamata Banerjee says BJP misused Election Commission to invalidate her candidature in Bhabanipur",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-says-bjp-misused-election-commission-to-invalidate-her-candidature-in-bhabanipur-101775895681152.html",
+      "published_date": "2026-04-11T08:34:34+00:00"
+    },
+    {
+      "title": "Germany live blog: Demand for the resignation of Economics Minister Reiche from her own party",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-sozialfluegel-fordert-entlassung-von-wirtschaftsministerin-reiche-faz-110093143.html",
+      "published_date": "2026-04-11T08:06:45+00:00"
+    },
+    {
+      "title": "Elections 2026 LIVE: BJP, EC tried to invalidate my candidature in Bhabanipur, says Mamata at poll rally",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-tamil-nadu-kerala-puducherry-assam-assembly-elections-2026-live-updates-bjp-tmc-congress-dmk-cpim-eci-101775883187520.html",
+      "published_date": "2026-04-11T05:36:38+00:00"
+    },
+    {
+      "title": "The Venezuelan opposition asks to call elections in the “absolute absence” of Maduro",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/la-oposicion-venezolana-pide-convocar-elecciones-ante-ausencia-absoluta-de-maduro/",
+      "published_date": "2026-04-11T05:33:33+00:00"
+    },
+    {
+      "title": "Presidential elections in Peru: do politics matter?",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/elecciones-presidenciales-en-peru-importa-la-politica/",
+      "published_date": "2026-04-11T05:16:00+00:00"
+    },
+    {
+      "title": "Who is Vietnam’s new Prime Minister Le Minh Hung?",
+      "source": "South China Morning Post",
+      "country": "Vietnam",
+      "url": "https://www.scmp.com/week-asia/opinion/article/3349678/who-vietnams-new-prime-minister-le-minh-hung?utm_source=rss_feed",
+      "published_date": "2026-04-11T05:00:16+00:00"
+    },
+    {
+      "title": "Taiwan spotted Chinese warplanes as Xi met opposition leader in Beijing - Reuters",
+      "source": "Google News World",
+      "country": "Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRThLNExrTHEtNHEtTUxYRzBoNWRDS1N4UFFhallKbTZoa1hvNE94T2wtcFRFbVplRHFRYjhDTElRTFNkQ01QWVZxLW1YMkxRamtLclhUd1BRcU5OUS1BMXZUcjYxVHhlbUVaSjJMNzRlRzJBSDU0cktWWWdsMkxnUkpBdnlYYkM3R3JXWE84OTJOUGx5UlRYNzhyWERScXdUalBhdE83eDZZMVNoZ1BNcDAzYw?oc=5",
+      "published_date": "2026-04-11T04:32:00+00:00"
+    },
+    {
+      "title": "2024 Rajya Sabha Election: HC says election petition inherently trial-based, rejects Singhvi plea to remove witnesses",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/election-petition-rejects-singhvi-plea-10630652/",
+      "published_date": "2026-04-11T04:26:13+00:00"
+    },
+    {
       "title": "APC prays for Tinubu’s re-election",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/apc-prays-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-04-11T00:01:59+00:00"
+    },
+    {
+      "title": "Petro after Court order not to rule without evidence on electoral fraud: 'A president should never teach his society to kneel'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/petro-tras-orden-de-tribunal-de-no-pronunciarse-sin-pruebas-sobre-fraude-electoral-jamas-un-presidente-le-debe-ensenar-a-su-sociedad-a-arrodillarse-3547003",
+      "published_date": "2026-04-10T23:56:24+00:00"
     },
     {
       "title": "Sudan Nashra: Nyala healthcare workers on strike | Burhan abolishes deputy, assistant commander-in-chief positions | Sudanese military intelligence head in high-level talks with Tripoli’s chief of staff | Military operation to retake Blue Nile’s Kurmuk underway",
@@ -174,7 +293,7 @@
     {
       "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
       "source": "NPR World",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition",
       "published_date": "2026-04-10T11:29:04+00:00"
     },
@@ -230,7 +349,7 @@
     {
       "title": "China's Xi hosts Taiwan opposition leader in Beijing",
       "source": "Deutsche Welle English",
-      "country": "China",
+      "country": "Taiwan",
       "url": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-04-10T08:58:00+00:00"
     },
