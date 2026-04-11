@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-11T11:33:40.243865+00:00",
-    "story_count": 356,
+    "last_updated": "2026-04-11T23:31:47.021666+00:00",
+    "story_count": 365,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Tinubu inaugurates 60-megawatt gas turbine plants in Bayelsa",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/871060-tinubu-inaugurates-60-megawatt-gas-turbine-plants-in-bayelsa.html",
+      "published_date": "2026-04-11T22:03:42+00:00"
+    },
+    {
+      "title": "Ceasefire in the Middle East, Israeli strikes on Lebanon, elections under tension in Hungary",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260411-cessez-le-feu-au-moyen-orient-frappes-isra%C3%A9liennes-sur-le-liban-%C3%A9lections-sous-tension-en-hongrie",
+      "published_date": "2026-04-11T19:41:58+00:00"
+    },
+    {
+      "title": "Tamil Nadu Assembly polls 2026: Election Commission of India fine-tunes its strategy to fit in the ground reality",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/election-commission-of-india-fine-tunes-its-strategy-to-fit-in-the-ground-reality/article70839333.ece",
+      "published_date": "2026-04-11T19:28:29+00:00"
+    },
+    {
+      "title": "In Vadodara, a BJP pick’s name goes ‘missing’; rebellion after Congress surprise",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/vadodara-local-body-polls-bjp-candidate-voter-list-missing-congress-rebellion-10631608/",
+      "published_date": "2026-04-11T16:24:05+00:00"
+    },
+    {
+      "title": "Peru holds presidential election amid a decade of political tumult - Al Jazeera",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdm1hNVp6My1tdDNZQTRQMzFtRHRfRnQydUhxVjVUUDhBXzBiRnlsdnRKbzVtc3NOMGJTeHFubkVrdWlKdmdlaFlZRnlVeE1aRlBIWFAyWVNhdjM1OGRkTm5ZT19qeVZnWnZfc09ubGxqSnYzUXR6bWhRdXJVbHR0UGp2Q1F6T0NzOTFpOWxtVEltNDRIeTEtZ2RzcGNoUkd1QWNsRFhDNm9pX1gtNTR1QU5NTVdUbDjSAbwBQVVfeXFMUEpwdWlUNUZxQ2N0bDRFUGpUaDVqX3prSzFBZFV6NjBtR0JaN0tXYnJWX09IWk9OWFFmX0hLMll2RUJfWGpyQzkydkdYMGROcDBRakFPM0pYVTk0alIxS2Z3X3hWYW4wREJ4SkxSVS0taWZfQmV5ZVpvbTNQa1pBZDF2ZFVJZVZ2VG9uUDVUalJldmNaTmd3WWRacld6Z0hBTXEzMWZVd1c5YUZyR2RrcENHOVlDUDJRZzBVN1M?oc=5",
+      "published_date": "2026-04-11T15:25:49+00:00"
+    },
+    {
+      "title": "Peru holds presidential election amid a decade of political tumult",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
+      "published_date": "2026-04-11T15:22:21+00:00"
+    },
+    {
+      "title": "Fish and vegetarianism major flashpoints in India’s West Bengal election",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3349759/fish-and-vegetarianism-major-flashpoints-indias-west-bengal-election?utm_source=rss_feed",
+      "published_date": "2026-04-11T14:55:41+00:00"
+    },
+    {
+      "title": "Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit",
+      "source": "Sky News World",
+      "country": "Israel",
+      "url": "https://news.sky.com/story/i-was-so-scared-teenage-girl-whose-snapchat-video-captured-chaos-in-beirut-as-israeli-strikes-hit-13530533",
+      "published_date": "2026-04-11T14:27:00+00:00"
+    },
+    {
+      "title": "Peruvian presidential candidate Keiko Fujimori vows to expel migrants",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/peruvian-presidential-candidate-keiko-fujimori-vows-to-expel-migrants",
+      "published_date": "2026-04-11T13:53:03+00:00"
+    },
+    {
+      "title": "Global delegates praise India’s election process after multi-state visits: ‘True festival of democracy’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/global-delegates-praise-india-s-election-process-after-multi-state-visits-true-festival-of-democracy-101775907151363.html",
+      "published_date": "2026-04-11T12:11:43+00:00"
+    },
+    {
+      "title": "Peru: the favorites of a presidential election supposed to bring the country out of instability",
+      "source": "France 24 FR",
+      "country": "Peru",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260411-p%C3%A9rou-les-favoris-d-une-pr%C3%A9sidentielle-cens%C3%A9e-sortir-le-pays-de-l-instabilit%C3%A9",
+      "published_date": "2026-04-11T11:38:29+00:00"
+    },
     {
       "title": "Assembly Elections LIVE: BJP government in West Bengal will speed up CAA implementation, says PM Modi at rally in Katwa",
       "source": "The Hindu Politics",
@@ -130,7 +207,7 @@
       "published_date": "2026-04-11T08:06:45+00:00"
     },
     {
-      "title": "Elections 2026 LIVE: BJP, EC tried to invalidate my candidature in Bhabanipur, says Mamata at poll rally",
+      "title": "Elections 2026 highlights: BJP, EC tried to invalidate my candidature in Bhabanipur, says Mamata at poll rally",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/west-bengal-tamil-nadu-kerala-puducherry-assam-assembly-elections-2026-live-updates-bjp-tmc-congress-dmk-cpim-eci-101775883187520.html",
@@ -702,13 +779,6 @@
       "country": "Ukraine",
       "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
       "published_date": "2026-04-08T18:34:41+00:00"
-    },
-    {
-      "title": "Election Commission of India fine-tunes its strategy to fit in the ground reality",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/election-commission-of-india-fine-tunes-its-strategy-to-fit-in-the-ground-reality/article70839333.ece",
-      "published_date": "2026-04-08T18:21:10+00:00"
     },
     {
       "title": "India to engage new government of Bangladesh constructively, to deepen ties, says Jaishankar",
@@ -2541,13 +2611,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/wahlerfolge-im-westen-was-hilft-gegen-die-afd-200678831.html",
       "published_date": "2026-03-29T08:50:38+00:00"
-    },
-    {
-      "title": "Expectant mothers in Cuba struggle under fuel blockade",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T14:14:46+00:00",
-      "country": "Cuba"
     }
   ]
 }
