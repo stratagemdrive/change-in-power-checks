@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-12T11:38:21.934709+00:00",
-    "story_count": 386,
+    "last_updated": "2026-04-12T23:33:11.254744+00:00",
+    "story_count": 404,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,202 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Right-wing candidate Rafael López Aliaga asked to capture the organizer of the Peruvian elections",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/candidato-de-ultraderecha-de-peru-pidio-capturar-a-organizador-de-las-elecciones/",
+      "published_date": "2026-04-12T23:26:17+00:00"
+    },
+    {
+      "title": "Result in Peru: who is winning the 2026 Elections for president",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/resultado-en-peru-quien-va-ganando-las-elecciones-2026-para-presidente-nid12042026/",
+      "published_date": "2026-04-12T23:18:00+00:00"
+    },
+    {
+      "title": "Bad Bunny left a strong message to Peru on election day: “Loving and respecting them more than ever”",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/bad-bunny-dejo-un-fuerte-mensaje-a-peru-en-el-dia-de-las-elecciones-amandolos-y-respetandolos-mas-nid12042026/",
+      "published_date": "2026-04-12T23:05:42+00:00"
+    },
+    {
+      "title": "Peruvian migrants in the US: live broadcast with the final results of the 2026 elections",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migrantes-peruanos-en-eeuu-transmision-en-vivo-con-los-resultados-finales-de-las-elecciones-2026-nid12042026/",
+      "published_date": "2026-04-12T22:48:57+00:00"
+    },
+    {
+      "title": "María Corina Machado assured that Venezuelans are ready for elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-aseguro-que-los-venezolanos-estan-listos-para-elecciones/",
+      "published_date": "2026-04-12T22:38:30+00:00"
+    },
+    {
+      "title": "Presidential election in Peru: police and prosecutors enter the premises of the electoral body",
+      "source": "Le Figaro France",
+      "country": "Peru",
+      "url": "https://www.lefigaro.fr/international/presidentielle-au-perou-police-et-procureurs-penetrent-dans-les-locaux-de-l-organe-electoral-20260413",
+      "published_date": "2026-04-12T22:02:07+00:00"
+    },
+    {
+      "title": "Peru police and investigators visit election headquarters amid vote delays",
+      "source": "South China Morning Post",
+      "country": "Peru",
+      "url": "https://www.scmp.com/news/world/americas/article/3349823/peru-extends-voting-president-and-congress-amid-delays-polling-sites?utm_source=rss_feed",
+      "published_date": "2026-04-12T21:56:40+00:00"
+    },
+    {
+      "title": "France 3 IDF: a motion of no confidence targeting Ernotte-Cunci voted by 93%",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/medias/france-3-idf-une-motion-de-defiance-visant-ernotte-cunci-votee-a-93-20260412",
+      "published_date": "2026-04-12T21:36:30+00:00"
+    },
+    {
+      "title": "Peru extends the closure of polls in chaotic presidential elections with more than 30 candidates",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/peru-extiende-el-cierre-de-urnas-en-unas-caoticas-elecciones-presidenciales-con-mas-de-30-candidatos-nid12042026/",
+      "published_date": "2026-04-12T21:19:52+00:00"
+    },
+    {
+      "title": "How to vote in Argentina in the Peruvian elections on Sunday, April 12",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/el-mundo/como-votar-en-la-argentina-en-las-elecciones-de-peru-del-domingo-12-de-abril-nid10042026/",
+      "published_date": "2026-04-12T20:09:49+00:00"
+    },
+    {
+      "title": "What is known about the results of the Elections in Peru 2026",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-en-peru-2026-nid12042026/",
+      "published_date": "2026-04-12T20:09:33+00:00"
+    },
+    {
+      "title": "Peru 2026 Elections: what is voted on, who are the candidates and how the electoral system works",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-peru-2026-que-se-vota-quienes-son-los-candidatos-y-como-funciona-el-sistema-electoral-nid11042026/",
+      "published_date": "2026-04-12T20:09:32+00:00"
+    },
+    {
+      "title": "Where to vote in Argentina for the Peru 2026 elections",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-argentina-para-las-elecciones-peru-2026-nid12042026/",
+      "published_date": "2026-04-12T19:52:32+00:00"
+    },
+    {
+      "title": "Elections in Peru: who is authorized to vote in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-quienes-estan-habilitados-para-votar-en-la-argentina-nid11042026/",
+      "published_date": "2026-04-12T19:52:05+00:00"
+    },
+    {
+      "title": "Where do I vote in Buenos Aires for the Peru 2026 elections",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-buenos-aires-para-las-elecciones-peru-2026-nid12042026/",
+      "published_date": "2026-04-12T19:51:30+00:00"
+    },
+    {
+      "title": "Peru general elections: No clear frontrunner, runoff likely",
+      "source": "Deutsche Welle English",
+      "country": "Peru",
+      "url": "https://www.dw.com/en/peru-general-elections-no-clear-frontrunner-runoff-likely/a-76756162?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-12T19:05:00+00:00"
+    },
+    {
+      "title": "María Corina Machado assured that Venezuelans are ready for elections: \"We want to elect everyone\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-aseguro-que-los-venezolanos-estan-listos-para-elecciones-queremos-elegir-a-todo/",
+      "published_date": "2026-04-12T19:02:27+00:00"
+    },
+    {
+      "title": "Roman Gofman approved as new Mossad director, PMO confirms - The Jerusalem Post",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SVy1YdDRxYWxaWHo4b1A1Y3U3S25TczB1Z0JnNjFfNklNTUZzUVF0SVFEQkd0S0dlaHlBazlwRmtia284T09UblBKaXFjdEUtZDdwUzJNenJodEtn?oc=5",
+      "published_date": "2026-04-12T18:22:35+00:00"
+    },
+    {
+      "title": "President of Peru rules out “some type of fraud” after extension of voting hours in general elections",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/presidente-de-peru-descarta-algun-tipo-de-fraude-tras-prorroga-de-horario-para-votar-en-elecciones-generales/",
+      "published_date": "2026-04-12T18:16:53+00:00"
+    },
+    {
+      "title": "Jorge Rodríguez prioritizes the Venezuelan economy over the elections: \"It is necessary to move towards dynamism\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/jorge-rodriguez-prioriza-la-economia-venezolana-sobre-los-comicios-es-necesario-avanzar-hacia-un-dinamismo/",
+      "published_date": "2026-04-12T17:15:41+00:00"
+    },
+    {
+      "title": "Cuba’s president warns US against attacking island or trying to depose him",
+      "source": "South China Morning Post",
+      "country": "Cuba",
+      "url": "https://www.scmp.com/news/world/americas/article/3349817/cubas-president-warns-us-against-attacking-island-or-trying-depose-him?utm_source=rss_feed",
+      "published_date": "2026-04-12T16:47:00+00:00"
+    },
+    {
+      "title": "Keiko Fujimori begins election day with a visit to her father's grave in Lima",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-inicia-jornada-electoral-con-visita-a-la-tumba-de-su-padre-en-lima/",
+      "published_date": "2026-04-12T16:22:42+00:00"
+    },
+    {
+      "title": "One year before the presidential election, a deep desire for change among the French is expressed in a new electoral survey",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/12/a-un-an-de-la-presidentielle-un-profond-desir-de-changement-chez-les-electeurs_6679586_823448.html",
+      "published_date": "2026-04-12T15:00:01+00:00"
+    },
+    {
+      "title": "Exiled cartoonists give a voice to Iran's silenced millions",
+      "source": "RFI English",
+      "country": "Iran",
+      "url": "https://www.rfi.fr/en/international/20260412-exiled-cartoonists-give-voice-to-iran-s-silenced-millions",
+      "published_date": "2026-04-12T14:39:36+00:00"
+    },
+    {
+      "title": "Peru elections 2026: check the voting locations enabled in Chile this Sunday, April 12",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/servicios/noticia/elecciones-de-peru-2026-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-12-de-abril/",
+      "published_date": "2026-04-12T14:16:06+00:00"
+    },
+    {
+      "title": "China offers incentives to Taiwan following opposition leader’s visit",
+      "source": "Dawn Pakistan",
+      "country": "Taiwan",
+      "url": "https://www.dawn.com/news/1991085/china-offers-incentives-to-taiwan-following-opposition-leaders-visit",
+      "published_date": "2026-04-12T12:28:16+00:00"
+    },
+    {
+      "title": "Candidate Ricardo Belmont and Keiko Fujimori lead the final polls of the elections in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/candidato-ricardo-belmont-y-keiko-fujimori-lideran-los-sondeos-finales-de-las-elecciones-en-peru/",
+      "published_date": "2026-04-12T12:24:17+00:00"
+    },
+    {
+      "title": "Explained: The tumultuous history behind China’s Xi Jinping meeting Taiwan’s top opposition leader",
+      "source": "Indian Express",
+      "country": "Taiwan",
+      "url": "https://indianexpress.com/article/explained/explained-global/kmt-china-visit-taiwan-politics-ccp-relations-10632733/",
+      "published_date": "2026-04-12T12:11:20+00:00"
+    },
     {
       "title": "Assembly Elections 2026 LIVE: 'Centre is working to develop the Siliguri Corridor,' says PM Modi from poll rally in Bengal",
       "source": "The Hindu Politics",
@@ -74,13 +270,6 @@
       "published_date": "2026-04-12T11:24:00+00:00"
     },
     {
-      "title": "Where to vote in Argentina for the Peru 2026 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-argentina-para-las-elecciones-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T11:00:00+00:00"
-    },
-    {
       "title": "China’s Xi touts peace – and points to global conflicts – in rare meeting with Taiwan opposition leader",
       "source": "Egypt Independent",
       "country": "Taiwan",
@@ -88,25 +277,11 @@
       "published_date": "2026-04-12T10:31:51+00:00"
     },
     {
-      "title": "Where do I vote in Buenos Aires for the Peru 2026 elections",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-buenos-aires-para-las-elecciones-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T10:31:00+00:00"
-    },
-    {
       "title": "Hungarians vote in landmark election closely watched by EU, Russia, US",
       "source": "Jerusalem Post",
       "country": "Russia",
       "url": "https://www.jpost.com/international/article-892664",
       "published_date": "2026-04-12T10:03:14+00:00"
-    },
-    {
-      "title": "What is known about the results of the Elections in Peru 2026",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-en-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T10:00:00+00:00"
     },
     {
       "title": "The tensions that mark the election of the next rector of the University of Chile",
@@ -132,7 +307,7 @@
     {
       "title": "Who is Nizar Amidi? Iraq’s new president in the fallout of US-Israel and Iran war",
       "source": "Indian Express",
-      "country": "Israel",
+      "country": "Iran",
       "url": "https://indianexpress.com/article/world/who-is-nizar-amidi-iraqs-new-president-in-the-fallout-of-us-israel-and-iran-war-10632292/",
       "published_date": "2026-04-12T08:06:06+00:00"
     },
@@ -151,7 +326,7 @@
       "published_date": "2026-04-12T06:52:02+00:00"
     },
     {
-      "title": "Hungarians vote in landmark election closely watched by EU, Russia, U.S.",
+      "title": "Hungarians vote in landmark election closely watched by EU, Russia and U.S.",
       "source": "Japan Times",
       "country": "Russia",
       "url": "https://www.japantimes.co.jp/news/2026/04/12/world/politics/hungary-election-eu-russia-us/",
@@ -298,32 +473,11 @@
       "published_date": "2026-04-11T11:15:58+00:00"
     },
     {
-      "title": "Elections in Peru: who is authorized to vote in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-quienes-estan-habilitados-para-votar-en-la-argentina-nid11042026/",
-      "published_date": "2026-04-11T10:08:31+00:00"
-    },
-    {
-      "title": "Peru 2026 Elections: what is voted on, who are the candidates and how the electoral system works",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-peru-2026-que-se-vota-quienes-son-los-candidatos-y-como-funciona-el-sistema-electoral-nid11042026/",
-      "published_date": "2026-04-11T10:08:04+00:00"
-    },
-    {
       "title": "An Orban loss in Hungary’s election could be the turning point Putin fears",
       "source": "France 24 English",
       "country": "Russia",
       "url": "https://www.france24.com/en/europe/20260411-hungary-election-magyar-orban-could-mark-turning-point-russia-putin-fears",
       "published_date": "2026-04-11T09:54:27+00:00"
-    },
-    {
-      "title": "How to vote in Argentina in the Peruvian elections on Sunday, April 12",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/como-votar-en-la-argentina-en-las-elecciones-de-peru-del-domingo-12-de-abril-nid10042026/",
-      "published_date": "2026-04-11T09:51:17+00:00"
     },
     {
       "title": "Iran's new Supreme Leader Mojtaba Khamenei is seriously injured in the face and legs but remains mentally alert, those around him assure",
@@ -2730,34 +2884,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-acirrada-faz-lula-e-flavio-apostarem-em-propaganda-na-tv-e-abre-guerra-por-apoio-do-centrao.shtml",
       "published_date": "2026-03-30T02:00:00+00:00"
-    },
-    {
-      "title": "Nitin Nabin’s resignation from Assembly held up as BJP brainstorms next Bihar CM",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/nitin-nabin-s-resignation-from-assembly-held-up-as-bjp-brainstorms-next-bihar-cm-101774801449649.html",
-      "published_date": "2026-03-29T16:42:27+00:00"
-    },
-    {
-      "title": "Minister of Housing & Construction discusses PPP investment projects with Libyan Egyptian Joint Venture private company",
-      "source": "Libya Herald",
-      "url": "https://libyaherald.com/2026/03/minister-of-housing-construction-discusses-ppp-investment-projects-with-libyan-egyptian-joint-venture-private-company/",
-      "published_date": "2026-03-29T16:29:55+00:00",
-      "country": "Libya"
-    },
-    {
-      "title": "European Parliament member says she was denied entry to Canada due to pro-Palestinian views",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/canada/article-european-parliament-rima-hassan/",
-      "published_date": "2026-03-29T15:56:38+00:00",
-      "country": "Canada"
-    },
-    {
-      "title": "Pro-Palestine European Parliament member Rima Hassan says she was denied entry to Canada",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/montreal/rita-hassan-far-left-politician-refused-entry-canada-9.7146419?cmp=rss",
-      "published_date": "2026-03-29T13:42:43+00:00",
-      "country": "Palestine"
     }
   ]
 }
