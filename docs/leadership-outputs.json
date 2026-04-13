@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-12T23:33:11.254744+00:00",
-    "story_count": 404,
+    "last_updated": "2026-04-13T12:06:23.714152+00:00",
+    "story_count": 416,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,193 @@
   },
   "stories": [
     {
+      "title": "Results: who wins the 2026 Elections in Peru",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/resultado-en-peru-quien-va-ganando-las-elecciones-2026-para-presidente-nid12042026/",
+      "published_date": "2026-04-13T12:01:00+00:00"
+    },
+    {
+      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
+      "source": "NPR World",
+      "country": "Iran",
+      "url": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
+      "published_date": "2026-04-13T11:56:36+00:00"
+    },
+    {
+      "title": "Who wins the elections in Peru 2026",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-en-peru-2026-nid13042026/",
+      "published_date": "2026-04-13T11:46:56+00:00"
+    },
+    {
+      "title": "Defeat of Viktor Orban in the Hungarian legislative elections: Moscow hopes for “pragmatic contacts” with Peter Magyar",
+      "source": "Le Figaro France",
+      "country": "Russia",
+      "url": "https://www.lefigaro.fr/international/defaite-de-viktor-orban-aux-legislatives-hongroise-moscou-espere-des-contacts-pragmatiques-avec-peter-magyar-20260413",
+      "published_date": "2026-04-13T11:26:41+00:00"
+    },
+    {
+      "title": "Kremlin says Russia will maintain ‘pragmatic’ ties with Hungary under new government",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/13/kremlin-says-russia-will-maintain-pragmatic-ties-with-hungary-under-new-government",
+      "published_date": "2026-04-13T10:58:22+00:00"
+    },
+    {
+      "title": "Hungary elections live: Merz says Orban’s defeat shows European democracy is ‘resistant to Russian propaganda’",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/hungary-elections-2026-live-results-orban-magyar-b2956329.html",
+      "published_date": "2026-04-13T10:11:45+00:00"
+    },
+    {
+      "title": "Hungary’s New Leader Says He’s Willing to Negotiate With Putin, But Not as a ‘Friend’",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/04/13/hungarys-new-leader-says-hes-willing-to-negotiate-with-putin-but-not-as-a-friend-a92481",
+      "published_date": "2026-04-13T10:04:00+00:00"
+    },
+    {
+      "title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
+      "published_date": "2026-04-13T10:00:38+00:00"
+    },
+    {
+      "title": "Peru general elections: Fujimori leading, runoff likely",
+      "source": "Deutsche Welle English",
+      "country": "Peru",
+      "url": "https://www.dw.com/en/peru-general-elections-fujimori-leading-runoff-likely/a-76756162?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-13T09:48:00+00:00"
+    },
+    {
+      "title": "Who is Manas Ranjan Mangaraj, BJD’s new leader in the Rajya Sabha",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/bjd-rajya-sabha-manas-ranjan-sasmit-patra-naveen-patnaik-odisha-10633955/",
+      "published_date": "2026-04-13T09:36:02+00:00"
+    },
+    {
+      "title": "Peru election results delayed after thousands get a one-day voting extension",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/video/20260413-peru-election-results-delayed-after-thousands-get-a-one-day-voting-extension",
+      "published_date": "2026-04-13T09:29:24+00:00"
+    },
+    {
+      "title": "Merz after the elections in Hungary: 'We are far more resistant to Russian propaganda'",
+      "source": "DR News Denmark",
+      "country": "Germany",
+      "url": "https://www.dr.dk/nyheder/seneste/merz-efter-valget-i-ungarn-vi-er-langt-mere-modstandsdygtige-over-russisk-propaganda",
+      "published_date": "2026-04-13T09:08:00+00:00"
+    },
+    {
+      "title": "Elections and Defections Are Likely to Unshackle Canada’s Liberals - The New York Times",
+      "source": "Google News World",
+      "country": "Canada",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGNUME9aMTh1a3hUZzc0SVNoVWxZR1NIcGJUd2ZnUU9OZTlxM2hXSW1TOVBEU085LUNhbHRLNTVHbHFnRGhKczVWZEJ0UjcwTVNkaWhYNTlrNFZOMHhGSTcwNUlxOGZBdGZEMnZ2THhZbzY4MmM5cjNfVHlxZjczTU1JZ0NNNGhBNXItYlJ5aGxKUHdUR0t3M2NPbDdxN2t1RTBYVUpn?oc=5",
+      "published_date": "2026-04-13T09:00:09+00:00"
+    },
+    {
+      "title": "IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemYtcHNiRDF3T0IzVVNXMkVYZkN5LS1Ea21GajNRR0d4MzRtS3QzUkVvck02VjJpc0d2YVNIT2dWQjdYMnFSanZfQ0w4QlVmeG01dkNYQTdGaHM4VzZpVkZwanEzQS1hNXJ3dTV4LTFsUWdUdW1MWVlLRzRubHgwSW95eFByV0I3QW1uLTdSQlRCSVVNaHVfSEFpUlUtaGwxN0HSAacBQVVfeXFMUDEwdmhDX3dQUTZOV2xHSFZGekdNai11T0RuVk5jX2w5bHBwY0JWTmIwNW5YaUVpeURaRkxZN3lqQ1oxQ19fTUczNGh3WDhiYm9YMG5rZmdTYUc0TWhOUzE2MGRqWG5FcEFFNnprdFBvRXp2a0JpUXBzVjhGZHg4R1JibEhVcnJ2R3VpWUdoOGdxbkhtb3p4WU1mYmlSek80RUNkX1lwMnc?oc=5",
+      "published_date": "2026-04-13T08:47:40+00:00"
+    },
+    {
+      "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
+      "source": "BBC World",
+      "country": "Canada",
+      "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T08:10:53+00:00"
+    },
+    {
+      "title": "German Chancellor Merz the most unpopular head of government in the world, survey shows",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/2026/04/13/german-chancellor-merz-the-most-unpopular-head-of-government-in-the-world-survey-shows",
+      "published_date": "2026-04-13T07:53:10+00:00"
+    },
+    {
+      "title": "Russia's special envoy: EU collapse closer after Hungarian election",
+      "source": "DR News Denmark",
+      "country": "Russia",
+      "url": "https://www.dr.dk/nyheder/seneste/ruslands-saerlige-udsending-eu-s-kollaps-er-taettere-paa-efter-ungarsk-valg",
+      "published_date": "2026-04-13T07:40:00+00:00"
+    },
+    {
+      "title": "Peru faces protests as election delays fuel doubts over vote integrity",
+      "source": "Euronews",
+      "country": "Peru",
+      "url": "http://www.euronews.com/video/2026/04/13/peru-faces-protests-as-election-delays-fuel-doubts-over-vote-integrity",
+      "published_date": "2026-04-13T06:47:33+00:00"
+    },
+    {
+      "title": "Peru election marred by delays as conservatives lead early count",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/04/13/world/politics/peru-election-delays-fujimori-lead/",
+      "published_date": "2026-04-13T06:12:00+00:00"
+    },
+    {
+      "title": "Peru election results delayed after thousands get a one-day voting extension",
+      "source": "NPR World",
+      "country": "Peru",
+      "url": "https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed",
+      "published_date": "2026-04-13T05:08:42+00:00"
+    },
+    {
+      "title": "Peruvian presidential election results delayed as tens of thousands get one-day voting extension",
+      "source": "Euronews",
+      "country": "Peru",
+      "url": "http://www.euronews.com/2026/04/13/peruvian-presidential-election-results-delayed-as-tens-of-thousands-get-one-day-voting-ext",
+      "published_date": "2026-04-13T04:30:58+00:00"
+    },
+    {
+      "title": "Elections in Peru: Peru's only constant is Fujimori",
+      "source": "FAZ Germany",
+      "country": "Peru",
+      "url": "https://www.faz.net/aktuell/politik/ausland/perus-einzige-konstante-heisst-fujimori-accg-200724497.html",
+      "published_date": "2026-04-13T04:21:17+00:00"
+    },
+    {
+      "title": "Zelensky congratulates Magyar on his victory in elections in Hungary",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4111790-zelensky-congratulates-magyar-on-his-victory-in-elections-in-hungary.html",
+      "published_date": "2026-04-13T03:59:00+00:00"
+    },
+    {
+      "title": "Amid reshuffle talks, Vinod Tawde holds back-to-back meetings with BJP leaders",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/lucknow/amid-reshuffle-talks-tawde-holds-back-to-back-meetings-with-bjp-leaders-10633351/",
+      "published_date": "2026-04-13T03:11:54+00:00"
+    },
+    {
+      "title": "Lula faces the tightest 1st round scenario since the 2002 election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-enfrenta-cenario-de-1o-turno-mais-apertado-desde-eleicao-de-2002.shtml",
+      "published_date": "2026-04-13T02:00:00+00:00"
+    },
+    {
+      "title": "Keiko Fujimori leads the exit polls for the presidential election in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/keiko-fujimori-encabeza-los-sondeos-a-boca-de-urna-de-la-eleccion-presidencial-en-peru/",
+      "published_date": "2026-04-13T00:39:54+00:00"
+    },
+    {
       "title": "Right-wing candidate Rafael López Aliaga asked to capture the organizer of the Peruvian elections",
       "source": "El Nacional Venezuela",
       "country": "Peru",
       "url": "https://www.elnacional.com/2026/04/candidato-de-ultraderecha-de-peru-pidio-capturar-a-organizador-de-las-elecciones/",
       "published_date": "2026-04-12T23:26:17+00:00"
-    },
-    {
-      "title": "Result in Peru: who is winning the 2026 Elections for president",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/resultado-en-peru-quien-va-ganando-las-elecciones-2026-para-presidente-nid12042026/",
-      "published_date": "2026-04-12T23:18:00+00:00"
     },
     {
       "title": "Bad Bunny left a strong message to Peru on election day: “Loving and respecting them more than ever”",
@@ -2793,97 +2968,6 @@
       "url": "https://indianexpress.com/article/explained/explained-global/china-this-week-putin-trump-visit-ambassador-maritime-capabilities-10609799/",
       "published_date": "2026-03-30T12:16:55+00:00",
       "country": "China"
-    },
-    {
-      "title": "FM holds talks with Pakistani PM in Islamabad on regional crisis",
-      "source": "Egypt Independent",
-      "country": "Pakistan",
-      "url": "https://egyptindependent.com/fm-holds-talks-with-pakistani-pm-in-islamabad-on-regional-crisis/",
-      "published_date": "2026-03-30T10:28:27+00:00"
-    },
-    {
-      "title": "Myanmar paves way for junta chief to be civilian president, ruling with ‘iron fist’",
-      "source": "South China Morning Post",
-      "country": "Myanmar",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3348416/myanmar-paves-way-junta-chief-be-civilian-president-ruling-iron-fist?utm_source=rss_feed",
-      "published_date": "2026-03-30T10:23:09+00:00"
-    },
-    {
-      "title": "Finance Minister to visit China on trade-diversification mission",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/politics/article-finance-minister-heads-to-china-on-trade-diversification-mission/",
-      "published_date": "2026-03-30T10:00:00+00:00",
-      "country": "China"
-    },
-    {
-      "title": "Critic of Myanmar junta denied amnesty, sentenced to hard labour",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/critic-of-myanmar-junta-denied-amnesty-sentenced-to-hard-labour/",
-      "published_date": "2026-03-30T09:27:02+00:00"
-    },
-    {
-      "title": "Belarusian leader seeks to mediate between US and North Korea: Minsk",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/belarusian-leader-seeks-to-mediate-between-us-and-north-korea-minsk/",
-      "published_date": "2026-03-30T08:33:24+00:00",
-      "country": "North Korea"
-    },
-    {
-      "title": "PM Shehbaz expresses gratitude to foreign ministers after quad moot, reiterates Pakistan’s commitment to peace",
-      "source": "Dawn Pakistan",
-      "url": "https://www.dawn.com/news/1986782/pm-shehbaz-expresses-gratitude-to-foreign-ministers-after-quad-moot-reiterates-pakistans-commitment-to-peace",
-      "published_date": "2026-03-30T08:17:37+00:00",
-      "country": "Pakistan"
-    },
-    {
-      "title": "Taiwan opposition leader accepts Xi's invite to visit China",
-      "source": "Deutsche Welle English",
-      "country": "Taiwan",
-      "url": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-03-30T07:33:00+00:00"
-    },
-    {
-      "title": "Annulled election in Alerj served as a test of strength between PL and opposition",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-anulada-na-alerj-serviu-como-teste-de-forca-entre-pl-e-oposicao.shtml",
-      "published_date": "2026-03-30T07:00:00+00:00"
-    },
-    {
-      "title": "New army chief installed as Myanmar junta leader moves toward presidency",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/new-army-chief-installed-as-myanmar-junta-leader-moves-toward-presidency/",
-      "published_date": "2026-03-30T06:15:45+00:00"
-    },
-    {
-      "title": "BJP president Nitin Nabin resigns as Bihar MLC after election to Rajya Sabha",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-resigns-as-bihar-mlc-after-election-to-rajya-sabha-101774850396205.html",
-      "published_date": "2026-03-30T05:59:55+00:00"
-    },
-    {
-      "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
-      "source": "BBC World",
-      "country": "Myanmar",
-      "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T05:26:09+00:00"
-    },
-    {
-      "title": "Myanmar dictator ‘nominated’ president in military-stacked parliament",
-      "source": "Myanmar Now",
-      "url": "https://myanmar-now.org/en/news/myanmar-dictator-nominated-president-in-military-stacked-parliament/",
-      "published_date": "2026-03-30T04:19:13+00:00",
-      "country": "Myanmar"
-    },
-    {
-      "title": "Tough election makes Lula and Flávio bet on TV advertising and opens war for support from the center",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/eleicao-acirrada-faz-lula-e-flavio-apostarem-em-propaganda-na-tv-e-abre-guerra-por-apoio-do-centrao.shtml",
-      "published_date": "2026-03-30T02:00:00+00:00"
     }
   ]
 }
