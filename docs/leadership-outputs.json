@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-14T12:02:37.112176+00:00",
-    "story_count": 398,
+    "last_updated": "2026-04-14T23:42:27.058737+00:00",
+    "story_count": 403,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Head of Peru's highest electoral body rules out serious irregularities and attributes failures in the elections to “a specific error”",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/jefe-del-maximo-organo-electoral-de-peru-descarta-irregularidades-graves-y-atribuye-fallas-en-comicios-a-error-puntual/",
+      "published_date": "2026-04-14T23:07:41+00:00"
+    },
+    {
+      "title": "Politics Insider: Carney says majority government will move quicker on economic priorities",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-carney-says-majority-government-will-move-quicker-on/",
+      "published_date": "2026-04-14T21:46:08+00:00"
+    },
+    {
+      "title": "Sudan to mark third anniversary of civil war",
+      "source": "France 24 English",
+      "country": "Sudan",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260414-sudan-to-mark-third-anniversary-of-civil-war",
+      "published_date": "2026-04-14T21:08:53+00:00"
+    },
+    {
+      "title": "Carney gets a majority in Canada after another election in which Trump lurked in the background",
+      "source": "Politiken Denmark",
+      "country": "Canada",
+      "url": "https://politiken.dk/internationalt/art10804813/Carney-f%C3%A5r-flertal-i-Canada-efter-endnu-et-valg-hvor-Trump-lurede-i-baggrunden",
+      "published_date": "2026-04-14T20:07:58+00:00"
+    },
+    {
+      "title": "Carney vows focus on affordability after winning Canada’s special election",
+      "source": "Al Jazeera English",
+      "country": "Canada",
+      "url": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss",
+      "published_date": "2026-04-14T18:16:07+00:00"
+    },
+    {
+      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/kremlin-putin-orban-friends-hungary-russia-ukraine-b2957532.html",
+      "published_date": "2026-04-14T17:39:29+00:00"
+    },
+    {
+      "title": "José Guimarães is sworn in by Lula and says that the government cannot work without dialogue with Congress",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/jose-guimaraes-e-empossado-por-lula-e-diz-que-governo-nao-da-certo-sem-dialogo-com-congresso.shtml",
+      "published_date": "2026-04-14T17:32:00+00:00"
+    },
+    {
+      "title": "Sudan civil war: Three babies born every minute amid ongoing conflict, says ReliefWeb",
+      "source": "Indian Express",
+      "country": "Sudan",
+      "url": "https://indianexpress.com/article/world/sudan-civil-war-three-babies-born-every-minute-amid-ongoing-conflict-says-reliefweb-10636470/",
+      "published_date": "2026-04-14T16:50:40+00:00"
+    },
+    {
+      "title": "Lula mocks Trump and says that US intervention in the Brazilian election would help him",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-ironiza-trump-e-diz-que-intervencao-dos-eua-na-eleicao-brasileira-o-ajudaria.shtml",
+      "published_date": "2026-04-14T16:41:00+00:00"
+    },
+    {
+      "title": "Canada PM Mark Carney secures majority after special election win, gains stronger grip on power",
+      "source": "Indian Express",
+      "country": "Canada",
+      "url": "https://indianexpress.com/article/world/canada-pm-mark-carney-majority-special-election-win-stronger-grip-power-10636238/",
+      "published_date": "2026-04-14T16:10:34+00:00"
+    },
+    {
+      "title": "Venezuela: 100 days with acting President Delcy Rodriguez",
+      "source": "Deutsche Welle English",
+      "country": "Venezuela",
+      "url": "https://www.dw.com/en/venezuela-100-days-with-acting-president-delcy-rodriguez/a-76779305?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-14T15:38:00+00:00"
+    },
+    {
+      "title": "Mossad chief Barnea: Iran mission incomplete until it results in regime change",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-892978",
+      "published_date": "2026-04-14T15:12:51+00:00"
+    },
+    {
+      "title": "Machado: Trump has been the only head of state who has risked the lives of his citizens for the freedom of Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/machado-trump-ha-sido-el-unico-jefe-de-estado-que-ha-arriesgado-la-vida-de-sus-ciudadanos-por-la-libertad-de-venezuela/",
+      "published_date": "2026-04-14T13:30:04+00:00"
+    },
+    {
+      "title": "They call for a march towards the US Embassy in Caracas to demand elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/convocan-marcha-hacia-la-embajada-de-ee-uu-en-caracas-para-exigir-elecciones/",
+      "published_date": "2026-04-14T13:30:00+00:00"
+    },
+    {
+      "title": "Hungary’s new prime minister says he will ask Putin to stop the killing in Ukraine",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/magyar-hungary-putin-orban-ukraine-war-b2957185.html",
+      "published_date": "2026-04-14T13:27:05+00:00"
+    },
+    {
+      "title": "Elections and defections unshackle Canada’s liberals under Carney",
+      "source": "Indian Express",
+      "country": "Canada",
+      "url": "https://indianexpress.com/article/world/canada-elections-defections-liberals-mark-carney-10636138/",
+      "published_date": "2026-04-14T12:29:21+00:00"
+    },
+    {
+      "title": "Elections in Peru: right-wingers Keiko Fujimori and Rafael López Aliaga lead the tight fight to advance to the second presidential round",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/elecciones-en-peru-los-derechistas-keiko-fujimori-y-rafael-lopez-aliaga-encabezan-la-ajustada-pugna-para-pasar-a-la-segunda-vuelta-presidencial/",
+      "published_date": "2026-04-14T12:15:58+00:00"
+    },
     {
       "title": "T.N. Assembly election: BJP manifesto is ‘fake’, says Congress leader Girish Chodankar",
       "source": "The Hindu Politics",
@@ -95,13 +214,6 @@
       "published_date": "2026-04-14T10:52:45+00:00"
     },
     {
-      "title": "Hungary’s new prime minister says he will ask Putin to stop the war in Ukraine",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/magyar-hungary-putin-orban-ukraine-war-b2957185.html",
-      "published_date": "2026-04-14T10:41:40+00:00"
-    },
-    {
       "title": "Assam Assembly Elections 2026: Gaurav Gogoi leads Congress push for comeback against BJP",
       "source": "Hindustan Times",
       "country": "India",
@@ -121,6 +233,13 @@
       "country": "Sudan",
       "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
       "published_date": "2026-04-14T09:28:25+00:00"
+    },
+    {
+      "title": "Robots captured Russian army positions for first time in history, Zelenskyy says - politico.eu",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWVwX2xZc3N4NGtyWUFzSE5sZ0FuN3BZTGJ2MExZbVRmSlMtRnYwQV9hdlBOam1fYnE2cU5QYnZrcENISGpZcmFYdkNZMlNZNTVXUVdjeHdPbDdYQTJyM2cxc2c3WDFyamx3a3R5SmwyWVJzS1N2TmdWd0l2OE80Z19IN3d4TjFkZDRHbm9DQzd0eVZ5V1VHUHJuUzlVZ1E?oc=5",
+      "published_date": "2026-04-14T09:26:00+00:00"
     },
     {
       "title": "After resignation: The AfD does not mourn Lucassen",
@@ -2760,90 +2879,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/cities/ahmedabad/congress-like-political-vulture-waiting-for-gain-even-amid-global-crisis-pm-10612430/",
       "published_date": "2026-03-31T23:38:53+00:00"
-    },
-    {
-      "title": "PT deputy takes action against Tarcísio for campaigning at the inauguration of a monorail",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/deputado-do-pt-entra-com-acao-contra-tarcisio-por-campanha-na-inauguracao-de-monotrilho.shtml",
-      "published_date": "2026-03-31T23:15:00+00:00"
-    },
-    {
-      "title": "Lemoine took over as president of the Impeachment Commission to block requests for removal against Milei",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/lemoine-asumio-como-presidenta-de-la-comision-de-juicio-politico-para-bloquear-los-pedidos-de-nid31032026/",
-      "published_date": "2026-03-31T23:12:38+00:00"
-    },
-    {
-      "title": "2027: after his defeat in Pau, François Bayrou assures that he does not have “the presidential election in his sights”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/2027-apres-sa-defaite-a-pau-francois-bayrou-assure-ne-pas-avoir-l-election-presidentielle-en-ligne-de-mire-20260331",
-      "published_date": "2026-03-31T22:39:52+00:00"
-    },
-    {
-      "title": "Presidential candidate Sergio Fajardo referred to Colombia's relationship with the United States if he is elected: 'I want that country'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidato-presidencial-sergio-fajardo-se-refirio-a-la-relacion-de-colombia-con-estados-unidos-si-llega-a-ser-electo-yo-quiero-ese-pais-3544507",
-      "published_date": "2026-03-31T22:24:31+00:00"
-    },
-    {
-      "title": "US wrong to negotiate, Iranian regime 'not trustworthy,' Iranian opposition leader says",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/my-europe/2026/03/31/us-wrong-to-negotiate-iranian-regime-not-trustworthy-iranian-opposition-leader",
-      "published_date": "2026-03-31T18:42:51+00:00"
-    },
-    {
-      "title": "The OAS calls for transparency in the election process of the attorney general in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/03/la-oea-pide-transparencia-en-el-proceso-de-eleccion-del-fiscal-general-de-venezuela/",
-      "published_date": "2026-03-31T18:39:00+00:00"
-    },
-    {
-      "title": "UNRWA chief steps down, seeks probe into killing of hundreds of staff in Gaza",
-      "source": "RFI English",
-      "country": "Palestine",
-      "url": "https://www.rfi.fr/en/international/20260331-unrwa-chief-steps-down-seeks-probe-into-killing-of-hundreds-of-staff-in-gaza",
-      "published_date": "2026-03-31T17:41:59+00:00"
-    },
-    {
-      "title": "Syrian president discusses Iran war with British PM on first visit to London since fall of al-Assad",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/2026/03/31/syrian-president-discusses-iran-war-with-british-pm-on-first-visit-to-london-since-fall-of",
-      "published_date": "2026-03-31T17:36:41+00:00"
-    },
-    {
-      "title": "Carney commits to not proroguing Parliament after April 13 by-elections",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-prorogue-parliament-april-13-byelections/",
-      "published_date": "2026-03-31T17:01:48+00:00"
-    },
-    {
-      "title": "Lula and Caiado already faced each other in the 1989 presidential election; see video",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/lula-e-caiado-ja-se-enfrentaram-em-eleicao-presidencial-de-1989-veja-video.shtml",
-      "published_date": "2026-03-31T16:00:00+00:00"
-    },
-    {
-      "title": "LIVE - War in the Middle East: the supreme leader is in Iran, but avoids public appearances, according to a Russian envoy",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-liban-etats-unis-donald-trump-benyamin-netanyahou-emirats-arabes-unis-koweit-qatar-arabie-saoudite-oman-20260331",
-      "published_date": "2026-03-31T14:47:09+00:00"
-    },
-    {
-      "title": "UPSC Essentials | Daily subject-wise quiz: Polity and Governance MCQs on electoral college of the President of India, disqualification from the Legislative Assembly and more (Week 156)",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-subject-wise-quiz-polity-and-governance-week-156-10611934/",
-      "published_date": "2026-03-31T14:01:31+00:00"
     }
   ]
 }
