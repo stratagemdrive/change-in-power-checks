@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-14T23:42:27.058737+00:00",
-    "story_count": 403,
+    "last_updated": "2026-04-15T12:01:41.109990+00:00",
+    "story_count": 405,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "A battle for female voters is changing India’s elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/a-battle-for-female-voters-is-changing-india-s-elections-101776248777249.html",
+      "published_date": "2026-04-15T10:35:38+00:00"
+    },
+    {
+      "title": "Descemer Bueno anticipates what he thinks Trump's coup against the Cuban regime will be like",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-15-u1-e129488-s27061-nid325979-descemer-bueno-anticipa-cree-sera-golpe-trump-contra",
+      "published_date": "2026-04-15T09:57:24+00:00"
+    },
+    {
+      "title": "Presidential election in Peru: a chaotic election that revives protests",
+      "source": "France 24 FR",
+      "country": "Peru",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260415-pr%C3%A9sidentielle-au-p%C3%A9rou-un-scrutin-chaotique-qui-ravive-les-contestations",
+      "published_date": "2026-04-15T09:49:28+00:00"
+    },
+    {
+      "title": "After three years of war, exiled Sudanese find their place in Kenya",
+      "source": "France 24 English",
+      "country": "Sudan",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260415-after-three-years-of-war-exiled-sudanese-find-their-place-in-kenya",
+      "published_date": "2026-04-15T09:39:00+00:00"
+    },
+    {
+      "title": "S in Copenhagen definitively buries Rosenkrantz-Theil's election promises",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/politik/art10802442/S-i-K%C3%B8benhavn-begraver-endegyldigt-Rosenkrantz-Theils-valgl%C3%B8fter",
+      "published_date": "2026-04-15T07:00:16+00:00"
+    },
+    {
+      "title": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss",
+      "published_date": "2026-04-15T05:24:01+00:00"
+    },
+    {
+      "title": "\"Regime change in Venezuela must come from within\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/el-cambio-de-regimen-en-venezuela-debe-venir-desde-dentro/",
+      "published_date": "2026-04-15T05:17:00+00:00"
+    },
+    {
+      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/putin-orban-hungary-russia-ukraine-kremlin-b2957814.html",
+      "published_date": "2026-04-15T03:26:33+00:00"
+    },
+    {
+      "title": "Despite placing second in the runoff: Rafael López Aliaga asks to annul the presidential elections in Peru",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/pese-a-ubicarse-en-segundo-lugar-hacia-el-balotaje-rafael-lopez-aliaga-pide-anular-las-elecciones-presidenciales-en-peru/",
+      "published_date": "2026-04-15T01:26:04+00:00"
+    },
+    {
+      "title": "Usach in suspense: candidate who was left off the ballot asks the Court of Santiago to suspend elections for rector",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/usach-en-vilo-candidato-que-quedo-fuera-de-la-papeleta-pide-a-la-corte-de-santiago-suspender-elecciones-para-rector/",
+      "published_date": "2026-04-15T00:26:33+00:00"
+    },
+    {
+      "title": "President of the French Senate calls for elections in Venezuela after meeting with María Corina Machado",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/presidente-del-senado-frances-pide-elecciones-en-venezuela-tras-reunirse-con-maria-corina-machado/",
+      "published_date": "2026-04-15T00:08:43+00:00"
+    },
     {
       "title": "Head of Peru's highest electoral body rules out serious irregularities and attributes failures in the elections to “a specific error”",
       "source": "La Tercera Chile",
@@ -242,6 +319,13 @@
       "published_date": "2026-04-14T09:26:00+00:00"
     },
     {
+      "title": "Slovenia’s Parliament Speaker Proposes NATO Exit Referendum, Signals Possible Moscow Visit - Kyiv Post",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11MVEyWHFfaFRKSTh6YjlFTGxZaGIwYW1DNHV4Z3lKcEt1N1VPUWFDLWxmWGx5Z3d1UFBkMkZad3RQUjd0OGw3eDBTWQ?oc=5",
+      "published_date": "2026-04-14T09:02:05+00:00"
+    },
+    {
       "title": "After resignation: The AfD does not mourn Lucassen",
       "source": "FAZ Germany",
       "country": "Germany",
@@ -291,7 +375,7 @@
       "published_date": "2026-04-14T05:36:17+00:00"
     },
     {
-      "title": "Mark Carney secures majority government in Canada after special election win",
+      "title": "Mark Carney secures majority government in Canada after byelection win",
       "source": "The Guardian World",
       "country": "Canada",
       "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
@@ -2809,76 +2893,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/venezuela-rechazo-opinion-de-la-oea-sobre-fiscal-y-defensor/",
       "published_date": "2026-04-01T12:56:37+00:00"
-    },
-    {
-      "title": "PM chairs crisis management meeting over latest Iran war developments",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/pm-chairs-crisis-management-meeting-over-latest-iran-war-developments/",
-      "published_date": "2026-04-01T11:19:45+00:00"
-    },
-    {
-      "title": "Myanmar junta set to resume border trade with Thailand",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-set-to-resume-border-trade-with-thailand/",
-      "published_date": "2026-04-01T10:09:17+00:00"
-    },
-    {
-      "title": "Three Reichsbürger backers face trial in Germany over coup and kidnapping plot",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/2026/04/01/three-reichsburger-backers-face-trial-in-germany-over-coup-and-kidnapping-plot",
-      "published_date": "2026-04-01T09:46:26+00:00"
-    },
-    {
-      "title": "Iran's exile opposition: “It's about removing the terrorist regime”",
-      "source": "FAZ Germany",
-      "country": "Iran",
-      "url": "https://www.faz.net/aktuell/politik/ausland/irans-exilopposition-will-regime-change-als-kriegsziel-accg-200691453.html",
-      "published_date": "2026-04-01T09:40:20+00:00"
-    },
-    {
-      "title": "Silent coup? IRGC sidelines Pezeshkian for ‘de facto’ control of Iran: Report",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/iran-political-stalemate-irgc-pezeshkian-control-10613347/",
-      "published_date": "2026-04-01T09:30:11+00:00"
-    },
-    {
-      "title": "PM pledges to ‘do everything we can to protect Australia’ amid Iran fuel crisis – as it happened",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
-      "published_date": "2026-04-01T08:54:58+00:00"
-    },
-    {
-      "title": "Chile’s new President José Antonio Kast brings openly religious views to a changing country",
-      "source": "The Independent UK",
-      "country": "Chile",
-      "url": "https://www.independent.co.uk/news/world/europe/chile-santiago-argentina-catholic-latin-american-b2949832.html",
-      "published_date": "2026-04-01T08:17:13+00:00"
-    },
-    {
-      "title": "World doesn't need crisis over Taiwan, opposition leader says before China trip",
-      "source": "Japan Times",
-      "country": "China",
-      "url": "https://www.japantimes.co.jp/news/2026/04/01/asia-pacific/politics/taiwain-opposition-leader-china/",
-      "published_date": "2026-04-01T08:06:00+00:00"
-    },
-    {
-      "title": "Australia PM Albanese to address nation over Iran crisis",
-      "source": "Hindustan Times",
-      "country": "Iran",
-      "url": "https://www.hindustantimes.com/india-news/australia-pm-albanese-to-address-nation-over-iran-crisis-101775019418190.html",
-      "published_date": "2026-04-01T04:56:57+00:00"
-    },
-    {
-      "title": "Congress like political vulture waiting for gain even amid global crisis: PM Modi",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/congress-like-political-vulture-waiting-for-gain-even-amid-global-crisis-pm-10612430/",
-      "published_date": "2026-03-31T23:38:53+00:00"
     }
   ]
 }
