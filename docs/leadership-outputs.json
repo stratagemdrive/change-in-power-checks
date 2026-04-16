@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-16T12:03:32.659893+00:00",
-    "story_count": 414,
+    "last_updated": "2026-04-16T23:39:58.565691+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "United States congressmen prepare initiative to promote elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/congresistas-de-estados-unidos-preparan-iniciativa-para-impulsar-elecciones-en-venezuela/",
+      "published_date": "2026-04-16T22:28:26+00:00"
+    },
+    {
+      "title": "The United States hopes that María Corina Machado can freely participate in the Venezuelan elections",
+      "source": "CiberCuba",
+      "country": "Venezuela",
+      "url": "https://www.cibercuba.com/noticias/2026-04-17-u1-e135253-s27061-nid326188-estado-unidos-espera-maria-corina-machado-pueda",
+      "published_date": "2026-04-16T22:05:50+00:00"
+    },
+    {
+      "title": "Election of PT member to TCU increases tucana bench in the Chamber",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/eleicao-de-petista-para-o-tcu-aumenta-bancada-tucana-na-camara.shtml",
+      "published_date": "2026-04-16T22:00:00+00:00"
+    },
+    {
+      "title": "Lula da Silva calls for general elections in Venezuela as a solution to political crisis",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/lula-da-silva-propone-elecciones-generales-venezuela/",
+      "published_date": "2026-04-16T19:04:47+00:00"
+    },
+    {
+      "title": "Presidential election: Emmanuel Macron announces a future bill “against foreign interference”",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/pixels/article/2026/04/16/election-presidentielle-emmanuel-macron-annonce-un-futur-projet-de-loi-contre-les-ingerences-etrangeres_6680588_4408996.html",
+      "published_date": "2026-04-16T18:58:43+00:00"
+    },
+    {
+      "title": "Candidate López Aliaga offers $5,800 for “truthful information” about the alleged electoral fraud in Peru",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/candidato-lopez-aliaga-ofrece-5800-dolares-por-informacion-veraz-sobre-el-supuesto-fraude-electoral-en-peru/",
+      "published_date": "2026-04-16T17:30:13+00:00"
+    },
+    {
+      "title": "“Four years amount to nothing”: Overflowing sincere intention to run for re-election as mayor of Santiago",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/cuatro-anos-se-hacen-nada-desbordes-sincera-intencion-de-ir-a-reeleccion-como-alcalde-de-santiago/",
+      "published_date": "2026-04-16T15:44:45+00:00"
+    },
+    {
+      "title": "Captured Polish citizen who fought for Ukraine sentenced to 13 years in Russian prison camp",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/krzysztof-flaczek-ukraine-luhansk-poland-b2959178.html",
+      "published_date": "2026-04-16T15:43:16+00:00"
+    },
+    {
+      "title": "Another Orban? Here's why you should care about Bulgaria's upcoming elections - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnlLbnNsR0pPZExaRU1tb24xVHA1MWN2NWZJcWJsWHlwcW0xTEtUM0dWbmc5R3Z5eXBtOWpaeTZ4VkVwYld3bHFJbnl6ejVONnIzNktOMTNTMUlDemxfSXZWWS1lMHJlM251VUJqazZEY3RtZzJ3R1N4cFp0eWR2YVRKWGJiSHEySlh2NTBJenlJSlFpY3d5cWtmWmZnWmd6UEtQYTZB?oc=5",
+      "published_date": "2026-04-16T14:55:23+00:00"
+    },
+    {
+      "title": "Mario Desbordes hopes to seek re-election as mayor of Santiago: “Four years amount to nothing”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/mario-desbordes-espera-buscar-la-reeleccion-como-alcalde-de-santiago-cuatro-anos-se-hacen-nada/",
+      "published_date": "2026-04-16T14:17:16+00:00"
+    },
     {
       "title": "Tinubu congratulates Benin Republic’s president-elect Wadagni",
       "source": "The Punch Nigeria",
@@ -125,7 +195,7 @@
     {
       "title": "This video of ‘Iran capturing US pilot’ was filmed in Pakistan",
       "source": "South China Morning Post",
-      "country": "Pakistan",
+      "country": "Iran",
       "url": "https://www.scmp.com/news/world/middle-east/article/3350286/video-iran-capturing-us-pilot-was-filmed-pakistan?utm_source=rss_feed",
       "published_date": "2026-04-16T07:20:07+00:00"
     },
@@ -286,7 +356,7 @@
     {
       "title": "Vietnam’s new leader meets China’s Xi on his first overseas trip - AP News",
       "source": "Google News World",
-      "country": "China",
+      "country": "Vietnam",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1Y1U3pQRlVnZ3AzRFQwc0tNUGg1ZlA5Z19WVzZqNW1kaHRLV3U1YzBBdGNJM3JPc3pVVTdhbnd4WkU1ZFExLVZYcE5Ob2luVjlaTlRJSlNhNnlBZzVuMXJBaGVOQmtVbi1QQ3U1bWpnVmlYWlZ6NEdsSHJxWUtoVlM1MnVFOEhULS1z?oc=5",
       "published_date": "2026-04-15T15:08:00+00:00"
     },
@@ -2907,55 +2977,6 @@
       "country": "Iran",
       "url": "https://indianexpress.com/article/world/pete-hegseth-united-states-army-officer-step-down-iran-war-10616457/",
       "published_date": "2026-04-03T01:23:59+00:00"
-    },
-    {
-      "title": "Trump ‘controlling’ Modi, claims Rahul Gandhi in Assam election rally",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-assembly/himanta-most-corrupt-cm-in-india-modi-shah-sarma-running-land-atm-in-assam-rahul-gandhi/article70815015.ece",
-      "published_date": "2026-04-02T21:18:14+00:00"
-    },
-    {
-      "title": "Gujarat HC upholds BJP MLA election: ‘Voter’s mandate cannot be nullified over minor issues in affidavit’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/hc-rejects-plea-challenging-tankara-bjp-mlas-candidature-10616261/",
-      "published_date": "2026-04-02T20:07:21+00:00"
-    },
-    {
-      "title": "T.N. Assembly election 2026 | BJP may try to split DMK alliance even if it gets a majority: Thol. Thirumavalavan",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
-      "published_date": "2026-04-02T19:39:41+00:00"
-    },
-    {
-      "title": "T.N. Assembly election: Stalin challenges Prime Minister Modi to repeat Bihar poll jibe during T.N. campaign",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-stalin-challenges-prime-minister-modi-to-repeat-bihar-poll-jibe-during-tn-campaign/article70814552.ece",
-      "published_date": "2026-04-02T19:35:04+00:00"
-    },
-    {
-      "title": "Minister of Social Security gives up running in the elections and says he will stay in office at Lula's request",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/ministro-da-previdencia-desiste-de-concorrer-as-eleicoes-e-diz-que-fica-no-cargo-a-pedido-de-lula.shtml",
-      "published_date": "2026-04-02T19:17:00+00:00"
-    },
-    {
-      "title": "“A new regime” in Iran: has Trump gone too far?",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260402-un-nouveau-r%C3%A9gime-en-iran-trump-s-est-il-trop-avanc%C3%A9",
-      "published_date": "2026-04-02T15:02:16+00:00"
-    },
-    {
-      "title": "French municipal elections hit with foreign interference allegations",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/04/02/french-municipal-elections-hit-with-foreign-interference-allegations",
-      "published_date": "2026-04-02T15:00:26+00:00"
     }
   ]
 }
