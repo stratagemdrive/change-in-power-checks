@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-17T11:58:17.023328+00:00",
-    "story_count": 419,
+    "last_updated": "2026-04-17T23:37:56.186381+00:00",
+    "story_count": 423,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump administration offers Starlink to Cuba and demands elections and release of political prisoners",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-18-u1-e208487-s27061-nid326300-gobierno-trump-ofrece-starlink-cuba-exige-elecciones",
+      "published_date": "2026-04-17T22:55:05+00:00"
+    },
+    {
+      "title": "Peru, from the election to the scandal: missing ballots, lost votes, failed systems and crossed complaints",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/peru-de-la-eleccion-al-escandalo-boletas-faltantes-votos-extraviados-sistemas-fallidos-y-denuncias-nid17042026/",
+      "published_date": "2026-04-17T22:52:00+00:00"
+    },
+    {
+      "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
+      "published_date": "2026-04-17T22:47:21+00:00"
+    },
+    {
+      "title": "Prakash Karat praises Stalin, INDIA bloc for defeating Constitutional Amendment Bill",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/prakash-karat-praises-stalin-india-bloc-for-defeating-constitutional-amendment-bill/article70875084.ece",
+      "published_date": "2026-04-17T18:46:53+00:00"
+    },
+    {
+      "title": "Epstein case: new calls for the resignation of Starmer, accused of lying about Mandelson",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/caso-epstein-nuevos-llamados-a-la-dimision-de-starmer-acusado-de-mentir-sobre-mandelson/",
+      "published_date": "2026-04-17T17:38:33+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Dengue outbreak in Khartoum, medical sources say capital still unprepared | Measles outbreak causes daily deaths in North Darfur displacement hubs | Mahamid RSF commander, forces defect to the military | RSF-SPLM-N shelling kills 6 in Dalang, military foils new offensive",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/04/17/news/u/sudan-nashra-dengue-outbreak-in-khartoum-medical-sources-say-capital-still-unprepared-measles-outbreak-causes-daily-deaths-in-north-darfur-displacement-hubs-mahamid-rsf-commander-forces-defect/",
+      "published_date": "2026-04-17T17:12:14+00:00"
+    },
+    {
+      "title": "Lula talks about digital regulation to stop external interference in an election year",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-fala-em-regulacao-digital-para-barrar-interferencia-externa-em-ano-eleitoral.shtml",
+      "published_date": "2026-04-17T16:44:00+00:00"
+    },
+    {
+      "title": "Douglas Ruas (PL) is elected president of Alerj and leaves the Government of RJ under dependence on the STF",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/douglas-ruas-pl-e-eleito-presidente-da-alerj-e-deixa-governo-do-rj-sob-dependencia-do-stf.shtml",
+      "published_date": "2026-04-17T14:43:00+00:00"
+    },
     {
       "title": "Assembly Elections 2026 LIVE: Abhishek Banerjee says BJP supporters abused TMC woman worker",
       "source": "The Hindu Politics",
@@ -116,6 +172,13 @@
       "published_date": "2026-04-17T09:12:56+00:00"
     },
     {
+      "title": "Bulgaria’s pro-Russian former president is seen as strong front-runner in Sunday’s election - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlNWUmpuRXB0Q24zUzFCMTdqbG5zODZuYXhPQVZCaDV0dzFKWnBzTDNWLU03eE1QdVQ0SUs0V0puNGJRdHVoMjNmbHBJMUJUaU01bFN5NkFVNVNIWVNGUVRkWHZYRFVQMkxwUnNzcXBXbDQ0UnNqWWlGTGZuaUVjUXNrdjdCVTJOelhHUXNmdmlyeUc5d2hEdEF3SzdnbHlrbGZJUzRPV0ZMWmRRZFow?oc=5",
+      "published_date": "2026-04-17T09:09:00+00:00"
+    },
+    {
       "title": "UP Opposition leader stopped from meeting Noida workers; Samajwadi Party slams Yogi govt",
       "source": "Indian Express",
       "country": "India",
@@ -156,6 +219,13 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-live-mamata-banerjee-himanta-biswa-sarma-tmc-bjp-assam-west-bengal-tamil-nadu-kerala-dmk-stalin-101776401840885.html",
       "published_date": "2026-04-17T06:56:57+00:00"
+    },
+    {
+      "title": "Israeli election poll: Opposition maintains majority, Benjamin Netanyahu lags behind - The Jerusalem Post",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZRktLbTdUaTdpb212a2lHZ3hIUmZYWmdqNHlweVZVNVd4NkNadXhRY3p0ZnhoWHRnc0hiRTU3Wi1BamtjYTVkMVp6ZzZoWm9KZGVHT0hQVHhJdHJBa0pDV0ZGSE9tZGM0Zlh2alF3V3c4OEdYdTR5MWZlWQ?oc=5",
+      "published_date": "2026-04-17T04:47:46+00:00"
     },
     {
       "title": "Runaway wolf finally captured after nine-day search in South Korea",
@@ -2949,48 +3019,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/india/bengal-kerala-assam-tamil-nadu-assembly-elections-2026-live-updates-10618192/",
       "published_date": "2026-04-04T02:12:05+00:00"
-    },
-    {
-      "title": "María Elvira Salazar on Delcy Rodríguez: \"It is only a short solution until there are elections in Venezuela\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
-      "published_date": "2026-04-03T23:27:00+00:00"
-    },
-    {
-      "title": "Peruvian presidential candidate López Aliaga insulted citizens who threw eggs at him",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/candidato-presidencial-peruano-lopez-aliaga-insulto-a-ciudadanos-que-le-tiraron-huevos/",
-      "published_date": "2026-04-03T22:21:22+00:00"
-    },
-    {
-      "title": "Israel, US can’t bomb regime change, only defections and credible alternatives can - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-891899",
-      "published_date": "2026-04-03T21:43:06+00:00"
-    },
-    {
-      "title": "Nigeria’s Minister of State for Labour resigns",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/869154-nigerias-minister-of-state-for-labour-resigns.html",
-      "published_date": "2026-04-03T16:52:23+00:00"
-    },
-    {
-      "title": "Moscow’s Chief Architect Kuznetsov Steps Down After Nearly 14 Years",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/04/03/moscows-chief-architect-kuznetsov-steps-down-after-nearly-14-years-a92422",
-      "published_date": "2026-04-03T16:21:00+00:00"
-    },
-    {
-      "title": "Bengal 2026 polls: BJP Sreerampur candidate resigns from Power Finance Corporation Limited Board, says wanted to avoid ‘conflict of interest’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/kolkata/bengal-2026-polls-bjp-sreerampur-candidate-resigns-from-power-finance-corporation-limited-board-says-wanted-to-avoid-conflict-of-interest-10617520/",
-      "published_date": "2026-04-03T12:29:03+00:00"
     }
   ]
 }
