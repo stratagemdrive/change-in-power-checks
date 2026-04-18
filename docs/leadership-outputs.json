@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-18T11:40:55.939153+00:00",
-    "story_count": 432,
+    "last_updated": "2026-04-18T23:32:53.190199+00:00",
+    "story_count": 433,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iranian officials ‘afraid’ to bury assassinated Supreme Leader Khamenei: expert - New York Post",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWEzVjEteGkyMHRaOWd0WHNyXzBMd3FXb1pGZzI3Nlk1aVV5cFIxeDZTTEJ0WTlqd2lHeEJtQTlGVXprUW43U0VnTkVsMTlwODJsMWNNb3ZUNEdTOVpwSGhKUklTSmdtNVBkM3FZTVZ4WDM4ODcwUU9TTW1jdTFMOC1ZMWdRcnE4aDdqYW4xNi03S0Z5Nll3Y2dwbG1LeERyQWVTNHk0UGpTUnhjYldmZHVfbFdqSmljLUE?oc=5",
+      "published_date": "2026-04-18T20:22:00+00:00"
+    },
+    {
+      "title": "María Corina Machado warns that there cannot be elections in Venezuela without changing the CNE",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-advierte-que-no-puede-haber-elecciones-en-venezuela-sin-cambiar-al-cne-2/",
+      "published_date": "2026-04-18T20:08:05+00:00"
+    },
+    {
+      "title": "Mounting irregularities cloud Peru’s 2026 general election as runoff remains unclear",
+      "source": "Peru Reports",
+      "country": "Peru",
+      "url": "https://perureports.com/mounting-irregularities-cloud-perus-2026-general-election-as-runoff-remains-unclear/10750/",
+      "published_date": "2026-04-18T18:40:28+00:00"
+    },
+    {
+      "title": "Elections in Peru: only in mid-May would the results of the first round be available",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-recien-a-mediados-de-mayo-se-tendrian-resultados-de-la-primera-vuelta/",
+      "published_date": "2026-04-18T15:14:49+00:00"
+    },
+    {
+      "title": "María Corina Machado warns that there cannot be elections in Venezuela without changing the CNE",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-advierte-que-no-puede-haber-elecciones-en-venezuela-sin-cambiar-al-cne/",
+      "published_date": "2026-04-18T15:07:16+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/tv/news/iran-war-trump-khamenei-supreme-leader-video-b2960333.html",
+      "published_date": "2026-04-18T14:03:50+00:00"
+    },
+    {
+      "title": "National Election Board of Peru accuses “irregularities” in presidential elections",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/junta-nacional-de-elecciones-de-peru-acusa-irregularidades-en-comicios-presidenciales/",
+      "published_date": "2026-04-18T13:26:47+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-supreme-leader-warns-of-new-bitter-defeats-for-us-and-israel?traffic_source=rss",
+      "published_date": "2026-04-18T12:59:53+00:00"
+    },
     {
       "title": "‘Collateral damage’: Exiled Lebanese tells 'Post' refugees back Israel’s fight against Hezbollah",
       "source": "Jerusalem Post",
@@ -3033,55 +3089,6 @@
       "country": "Taiwan",
       "url": "https://www.japantimes.co.jp/news/2026/04/05/asia-pacific/politics/taiwan-kuomintang-leader-china-focus/",
       "published_date": "2026-04-05T02:11:00+00:00"
-    },
-    {
-      "title": "Trump mulls broader cabinet reshuffle as pressure mounts over war with Iran",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/estados-unidos/trump-evalua-una-reestructuracion-mas-amplia-de-su-gabinete-mientras-crece-la-presion-por-la-guerra-nid04042026/",
-      "published_date": "2026-04-04T22:05:44+00:00"
-    },
-    {
-      "title": "Assam Assembly election: Less than a week before polls, BJP shifts focuses to youth empowerment, floods",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-less-than-a-week-before-polls-bjp-shifts-focuses-to-youth-empowerment-floods/article70823457.ece",
-      "published_date": "2026-04-04T17:37:10+00:00"
-    },
-    {
-      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
-      "published_date": "2026-04-04T14:58:24+00:00"
-    },
-    {
-      "title": "Arrests, beatings and an atmosphere of fear: Iranians on life under wartime ‘martial law’",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-israel-martial-law-b2950793.html",
-      "published_date": "2026-04-04T12:55:15+00:00"
-    },
-    {
-      "title": "‘Conspiracy by central agencies, AAP to weaken SAD’: Veteran Akali Tota Singh’s son Makhan Brar resigns from rebel faction",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/barjinder-singh-makhan-brar-resigns-sad-punar-surjit-giani-harpreet-singh-manpreet-ayali-conspiracy-10619110/",
-      "published_date": "2026-04-04T12:52:50+00:00"
-    },
-    {
-      "title": "West Bengal Assembly elections 2026: PM Modi to kick off campaign from Cooch Behar, 8 mega rallies planned as BJP eyes North Bengal recovery",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-assembly-elections-2026-pm-modi-to-kick-off-campaign-from-cooch-behar-8-mega-rallies-planned-as-bjp-eyes-north-bengal-recovery-10619100/",
-      "published_date": "2026-04-04T12:49:28+00:00"
-    },
-    {
-      "title": "Kerala Assembly elections 2026: allegations of Congress-BJP nexus absurd, says Chennithala",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-allegations-of-congress-bjp-nexus-absurd-says-chennithala/article70823004.ece",
-      "published_date": "2026-04-04T11:47:06+00:00"
     }
   ]
 }
