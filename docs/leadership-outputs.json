@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-19T11:38:18.862034+00:00",
-    "story_count": 435,
+    "last_updated": "2026-04-19T23:33:46.394444+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,69 @@
   },
   "stories": [
     {
+      "title": "European Commission believes elections in Hungary serve as warning for allies of Trump and Putin",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4114194-european-commission-believes-elections-in-hungary-serve-as-warning-for-allies-of-trump-and-putin.html",
+      "published_date": "2026-04-19T21:32:00+00:00"
+    },
+    {
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T17:48:41+00:00"
+    },
+    {
+      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-19T17:19:00+00:00"
+    },
+    {
+      "title": "‘Jhalmuri break’: PM Modi makes surprise halt for street food amid Bengal election campaign",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/jhalmuri-break-pm-modi-makes-surprise-halt-for-street-food-amid-bengal-election-campaign-101776609839634.html",
+      "published_date": "2026-04-19T16:01:05+00:00"
+    },
+    {
+      "title": "Head of Patrol Police Zhukov resigns after terrorist attack in Kyiv",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-crime/4114270-head-of-patrol-police-zhukov-resigns-after-terrorist-attack-in-kyiv.html",
+      "published_date": "2026-04-19T14:40:00+00:00"
+    },
+    {
+      "title": "Legislative elections in Bulgaria: former pro-Moscow president, Rumen Radev, given favorite",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260419-l%C3%A9gislatives-en-bulgarie-l-ancien-pr%C3%A9sident-pro-moscou-roumen-radev-donn%C3%A9-favori",
+      "published_date": "2026-04-19T12:40:20+00:00"
+    },
+    {
+      "title": "Elections in Peru: results for the second round will be in May",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/elecciones-peru-resultados-para-la-segunda-vuelta-seran-en-mayo/",
+      "published_date": "2026-04-19T12:33:04+00:00"
+    },
+    {
+      "title": "Peru says presidential election results due by mid-May after delayed count",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss",
+      "published_date": "2026-04-19T12:07:39+00:00"
+    },
+    {
+      "title": "Bulgaria’s pro-Russian former president set for landslide election win, exit polls show",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3350625/corruption-fuels-mistrust-bulgarias-eighth-election-five-years?utm_source=rss_feed",
+      "published_date": "2026-04-19T09:41:00+00:00"
+    },
+    {
       "title": "Trinamool ‘betrayed’ women, will be punished in West Bengal elections, says Modi",
       "source": "The Hindu Politics",
       "country": "India",
@@ -69,7 +132,7 @@
     {
       "title": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
       "source": "France 24 English",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://www.france24.com/en/asia-pacific/20260419-stealing-election-how-armenia-became-next-russia-eu-battlefield",
       "published_date": "2026-04-19T08:59:15+00:00"
     },
@@ -3033,76 +3096,6 @@
       "country": "Syria",
       "url": "https://www.france24.com/en/middle-east/20260405-ukraine-zelensky-meets-syria-new-leader-al-sharaa-in-damascus-pushes-military-deals",
       "published_date": "2026-04-05T23:50:42+00:00"
-    },
-    {
-      "title": "Keiko Fujimori thanks support in the polls one week before the elections in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/keiko-fujimori-agradece-apoyo-en-los-sondeos-a-una-semana-de-las-elecciones-en-peru/",
-      "published_date": "2026-04-05T22:32:46+00:00"
-    },
-    {
-      "title": "Assembly elections updates: Gherao of judicial officers a reflection of TMC’s ‘maha jungle raj’, says PM Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
-      "published_date": "2026-04-05T21:56:18+00:00"
-    },
-    {
-      "title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
-      "published_date": "2026-04-05T19:24:04+00:00"
-    },
-    {
-      "title": "Shortly before the election: Orbán suspects Ukraine after explosives found on pipeline",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/sabotage-an-pipeline-ungarn-lenkt-verdacht-auf-ukraine-accg-200703675.html",
-      "published_date": "2026-04-05T19:00:38+00:00"
-    },
-    {
-      "title": "In Ukraine, a wind of rebellion is blowing against Servant of the People, the party of Volodymyr Zelensky",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/article/2026/04/05/en-ukraine-un-vent-de-fronde-souffle-sur-serviteur-du-peuple-le-parti-de-volodymyr-zelensky_6676930_3210.html",
-      "published_date": "2026-04-05T17:00:06+00:00"
-    },
-    {
-      "title": "Keiko Fujimori leads Peru's presidential polls a week before election - Reuters",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzA0eGRfOXpfZVVDYWozclJjUmdvSXN2RFlub09IQTRqaDhwb3REUkYwa2hUOTUwQXRURlV0QUxOdW1TN3haUmZrMlBKaVFNOTBETlU5cXJMa1JqbWd1RU1MX2ZsVWtCMDBJOEs4TXlNTFNlSGs0OU9tVXRMUU1BWTQ1bF8wcl91bk5OZHVlSUFiS1RRQzhJaXZGaUpWbTY3RllWWFp4X2s0LVJzQlk4OWFDSkx1QjBN?oc=5",
-      "published_date": "2026-04-05T16:13:43+00:00"
-    },
-    {
-      "title": "Despite propaganda coup of F-15 crew rescue, downing is reminder to US that Iran can fight back",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/05/propaganda-f-15-crew-rescue-downing-reminder-iran-fight-back-donald-trump",
-      "published_date": "2026-04-05T15:32:58+00:00"
-    },
-    {
-      "title": "False flag operation: Expert tells how Orban could undermine Hungarian election with Russia, Vucic's help",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4109372-false-flag-operation-expert-tells-how-orban-could-undermine-hungarian-election-with-russia-vucics-help.html",
-      "published_date": "2026-04-05T13:02:00+00:00"
-    },
-    {
-      "title": "“Jean-Luc Mélenchon is certainly the worst candidate in the second round”: one year before the presidential election, Fabien Roussel refuses the outstretched hand of LFI",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/jean-luc-melenchon-est-certainement-le-pire-candidat-de-second-tour-a-un-an-de-la-presidentielle-fabien-roussel-refuse-la-main-tendue-de-lfi-20260405",
-      "published_date": "2026-04-05T11:56:02+00:00"
-    },
-    {
-      "title": "Fabien Roussel refuses any alliance with LFI for the presidential election, citing a “rupture”",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/05/fabien-roussel-refuse-toute-alliance-avec-lfi-pour-la-presidentielle-evoquant-une-rupture_6676902_823448.html",
-      "published_date": "2026-04-05T11:34:20+00:00"
     }
   ]
 }
