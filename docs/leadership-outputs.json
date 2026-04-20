@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-20T12:07:24.090716+00:00",
-    "story_count": 442,
+    "last_updated": "2026-04-20T23:42:20.926603+00:00",
+    "story_count": 441,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
+      "published_date": "2026-04-20T23:08:14+00:00"
+    },
+    {
+      "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
+      "published_date": "2026-04-20T21:30:55+00:00"
+    },
+    {
+      "title": "A day before inauguration by PM Modi, fire breaks out at Rajasthan refinery",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/fire-breaks-out-in-rajasthan-hpcl-refinery-a-day-before-pm-modi-was-to-inaugurate-it/article70884114.ece",
+      "published_date": "2026-04-20T20:38:02+00:00"
+    },
+    {
+      "title": "A new foothold for Moscow in Europe after Bulgaria election - The Washington Post",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTRnU1FzMGdHU19iWXNvOGVnNDloVXJtUkRubWdCZi0xcmMwX05PNFRmZFdycjhYZm45TjRpQzVsNGRpVEZXU2I1dEpHQjJ6d21hazM5ZVRHSXdNVi1OWXpmOVpHaG94TG5UM0NGSVUxcXVYSlR1R1lZY19PUVVKUkpDaEhRc0VSM2FpdTNHLUo?oc=5",
+      "published_date": "2026-04-20T20:05:35+00:00"
+    },
+    {
+      "title": "Faculty of Legal Sciences of the UCV demands elections in Venezuela immediately",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/facultad-de-derecho-de-la-ucv-exige-elecciones-en-venezuela/",
+      "published_date": "2026-04-20T17:07:39+00:00"
+    },
+    {
+      "title": "PM Modi ended election conflicts by introducing development politics: Gujarat CM",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-modi-ended-election-conflicts-by-introducing-development-politics-gujarat-cm-10646959/",
+      "published_date": "2026-04-20T16:38:29+00:00"
+    },
+    {
+      "title": "Expert: It could be an Iranian negotiation ploy - but there is also speculation about a power struggle behind the scenes",
+      "source": "Politiken Denmark",
+      "country": "Iran",
+      "url": "https://politiken.dk/internationalt/art10810649/Ekspert-Det-kan-v%C3%A6re-et-iransk-forhandlingstrick-%E2%80%93-men-der-er-ogs%C3%A5-spekulationer-om-en-magtkamp-i-kulissen",
+      "published_date": "2026-04-20T16:31:18+00:00"
+    },
+    {
+      "title": "French far right courts business community ahead of elections",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260420-french-far-right-courts-business-community-ahead-of-elections",
+      "published_date": "2026-04-20T15:45:35+00:00"
+    },
+    {
+      "title": "Ukraine denies reports of Russian forces capturing Zybyne in Kharkiv region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4114593-ukraine-denies-reports-of-russian-forces-capturing-zybyne-in-kharkiv-region.html",
+      "published_date": "2026-04-20T15:01:00+00:00"
+    },
+    {
+      "title": "After fire at HPCL Rajasthan refinery, Tuesday’s inauguration by PM Modi postponed; probe launched",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/business/hpcl-rajasthan-refinery-fire-tuesday-inauguration-pm-modi-10646785/",
+      "published_date": "2026-04-20T14:21:10+00:00"
+    },
+    {
+      "title": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "published_date": "2026-04-20T13:48:55+00:00"
+    },
+    {
+      "title": "Bulgaria’s pro-Kremlin ex-president wins election, Russia and EU welcome victory",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3350771/bulgarias-pro-kremlin-ex-president-wins-election-russia-and-eu-welcome-victory?utm_source=rss_feed",
+      "published_date": "2026-04-20T13:25:34+00:00"
+    },
+    {
+      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html",
+      "published_date": "2026-04-20T12:27:52+00:00"
+    },
     {
       "title": "Assembly Elections 2026 LIVE: Congress chief Kharge says PM Modi killed bill on women's quota, Opposition fought Delimitation Bill only",
       "source": "The Hindu Politics",
@@ -86,13 +177,6 @@
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW90eGV4OUgxd0VxaHU2cDA3MlBkdzc0QTNHdEFscER3bFktOXR5c0pBRWxvU0lzNUlHeGp1OXdGZWtaNUZ6dUt0Tm5Lc1ctMTBwVERzMXNVdGpxek1jRm1VMG5pbzRZMG1qT3dfZE9EbUpDd2twN0h4NWN1NlNiTG1IRVB2N1cxb0lrR1gyeUo4Ylhx0gGUAUFVX3lxTFBuN0hGd25xcDJiQldoQldBOW5BSmNFS2pmQzhpUFZJUGM5ZWxUSnhubFRTTEcwQXVzeWVuTkZvX2c0ejNBeW1LWVZRV2FHbVZDNS04Um50aHdLMEowWVliMnBfbTdoVXQ4RWdSX1FVQnZjNFEtemRweGZrMDA5aDZaaTViWDRKbjYzNWp4MW5ZT2VvaFI?oc=5",
       "published_date": "2026-04-20T11:03:45+00:00"
-    },
-    {
-      "title": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "published_date": "2026-04-20T11:03:41+00:00"
     },
     {
       "title": "Jobs, ‘bhoy’, ‘outsider’ tag for BJP: What worries Siliguri ahead of Bengal elections? | A ground report",
@@ -130,17 +214,17 @@
       "published_date": "2026-04-20T09:37:32+00:00"
     },
     {
-      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html",
-      "published_date": "2026-04-20T09:30:11+00:00"
-    },
-    {
       "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
       "source": "Deutsche Welle English",
       "country": "Russia",
       "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-20T09:16:00+00:00"
+    },
+    {
+      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-04-20T09:16:00+00:00"
     },
     {
@@ -200,7 +284,7 @@
       "published_date": "2026-04-20T05:31:33+00:00"
     },
     {
-      "title": "Assembly elections 2026 LIVE: Rahul terms BJP-RSS ‘infiltrators’, Kharge says PM Modi neglecting official work",
+      "title": "Assembly elections 2026 highlights: Mamata Banerjee questions PM Modi's jhalmuri stop, says ‘all drama’",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-live-updates-west-bengal-tmc-mamata-banerjee-tamil-nadu-dmk-stalin-pm-modi-amit-shah-news-101776653843853.html",
@@ -3061,97 +3145,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-says-ucc-one-nation-one-election-under-serious-discussion-101775522749746.html",
       "published_date": "2026-04-07T00:54:31+00:00"
-    },
-    {
-      "title": "House Democrat announces impeachment push against Pete Hegseth over Iran war",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/04/06/pete-hegseth-impeach-democrats-iran-war-trump",
-      "published_date": "2026-04-06T23:14:02+00:00"
-    },
-    {
-      "title": "Colombia Justa Libres announces support for Abelardo de la Espriella for the presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-justa-libres-anuncia-respaldo-a-abelardo-de-la-espriella-para-las-elecciones-presidenciales-3545616",
-      "published_date": "2026-04-06T22:16:55+00:00"
-    },
-    {
-      "title": "Motta prepares election for TCU minister and helps PT ally",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/motta-prepara-eleicao-para-ministro-do-tcu-e-ajuda-aliado-petista.shtml",
-      "published_date": "2026-04-06T21:28:00+00:00"
-    },
-    {
-      "title": "'Vladimir Putin absolutely nervous' about Hungary's election, expert says",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/vladimir-putin-absolutely-nervous-about-hungary-s-election-expert-says",
-      "published_date": "2026-04-06T19:36:43+00:00"
-    },
-    {
-      "title": "Several withdrawals and a resignation 72 hours after taking office: the stumbling appointment of the Kast seremis",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/varios-desestimientos-y-una-renuncia-a-72-horas-de-asumir-el-trastabillado-nombramiento-de-los-seremis-de-kast/",
-      "published_date": "2026-04-06T17:31:26+00:00"
-    },
-    {
-      "title": "MoS Kirti Vardhan Singh to represent India at inauguration of Myanmar president",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/mos-kirti-vardhan-singh-to-represent-india-at-inauguration-of-myanmar-president-101775493327007.html",
-      "published_date": "2026-04-06T16:35:26+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro transforms PEC from the end of re-election into a nod to Tarcísio and centrão",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/flavio-bolsonaro-transforma-pec-do-fim-da-reeleicao-em-aceno-para-tarcisio-e-centrao.shtml",
-      "published_date": "2026-04-06T15:07:00+00:00"
-    },
-    {
-      "title": "Baramati by-election: Can’t support BJP ally in a bypoll, says Congress as Akash More files nomination",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/mumbai/congress-akash-more-nomination-baramati-bypoll-sunetra-pawar-10622369/",
-      "published_date": "2026-04-06T14:19:00+00:00"
-    },
-    {
-      "title": "Assembly elections LIVE: Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece",
-      "published_date": "2026-04-06T13:58:37+00:00"
-    },
-    {
-      "title": "Myanmar junta chief elected president — what comes next?",
-      "source": "Deutsche Welle English",
-      "country": "Myanmar",
-      "url": "https://www.dw.com/en/myanmar-junta-chief-elected-president-what-comes-next/a-76679169?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-06T13:49:00+00:00"
-    },
-    {
-      "title": "Iván Cepeda adds the support of President Claudia Sheinbaum on his second strategic visit to Mexico for the 2026 elections",
-      "source": "El Tiempo Colombia",
-      "country": "Mexico",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-suma-el-respaldo-de-la-presidenta-claudia-sheinbaum-en-su-segunda-visita-estrategica-a-mexico-por-las-elecciones-3545517",
-      "published_date": "2026-04-06T13:35:38+00:00"
-    },
-    {
-      "title": "Positive discussions underway on Uniform Civil Code, 'One Nation, One Election': PM Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/positive-discussions-underway-on-uniform-civil-code-one-nation-one-election-pm-modi/article70829622.ece",
-      "published_date": "2026-04-06T13:20:32+00:00"
-    },
-    {
-      "title": "Among BJP members seeking tickets for Surat civic elections, 15 couples",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/among-bjp-members-seeking-tickets-for-surat-civic-elections-15-couples-10622128/",
-      "published_date": "2026-04-06T12:02:58+00:00"
     }
   ]
 }
