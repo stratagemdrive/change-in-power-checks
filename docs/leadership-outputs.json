@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-20T23:42:20.926603+00:00",
+    "last_updated": "2026-04-21T12:03:56.925808+00:00",
     "story_count": 441,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Assembly Elections 2026 LIVE: No one wants BJP to form government, TMC will return to power again, says Mamata",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-april-21-live-updates-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70887085.ece",
+      "published_date": "2026-04-21T11:57:27+00:00"
+    },
+    {
+      "title": "Myanmar resistance groups reject junta chief’s 100-day surrender ultimatum",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-resistance-groups-reject-junta-chiefs-100-day-surrender-ultimatum/",
+      "published_date": "2026-04-21T11:47:13+00:00"
+    },
+    {
+      "title": "In Nigeria, six men indicted for attempted coup against Bola Tinubu",
+      "source": "France 24 FR",
+      "country": "Nigeria",
+      "url": "https://www.france24.com/fr/afrique/20260421-au-nigeria-six-hommes-inculp%C3%A9s-pour-une-tentative-de-coup-d-%C3%A9tat-contre-bola-tinubu",
+      "published_date": "2026-04-21T11:38:29+00:00"
+    },
+    {
+      "title": "Nigeria charges six people with treason for plan to overthrow president",
+      "source": "France 24 English",
+      "country": "Nigeria",
+      "url": "https://www.france24.com/en/africa/20260421-nigeria-charges-six-people-with-treason-for-plan-to-overthrow-president",
+      "published_date": "2026-04-21T11:17:17+00:00"
+    },
+    {
+      "title": "War in the Middle East: displaced Lebanese sheltered by Palestinians in exile",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260421-guerre-au-moyen-orient-des-d%C3%A9plac%C3%A9s-libanais-abrit%C3%A9s-par-des-palestiniens-en-exil",
+      "published_date": "2026-04-21T09:46:46+00:00"
+    },
+    {
+      "title": "Vance to travel to Islamabad, Iranian delegation gets reported approval from supreme leader - Axios",
+      "source": "Jerusalem Post",
+      "country": "Pakistan",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-893665",
+      "published_date": "2026-04-21T04:29:54+00:00"
+    },
+    {
+      "title": "Assembly election 2026 live: Amit Shah says BJP will enforce UCC in Bengal, ban four marriages in 'certain community'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/2026-assembly-election-live-updates-tamil-nadu-west-bengal-kerala-assam-tmc-dmk-bjp-congress-india-election-commission-101776741520937.html",
+      "published_date": "2026-04-21T03:41:45+00:00"
+    },
+    {
+      "title": "April 26 local body elections in Gujarat: Days after withdrawing from corporation polls, Surat Congress leader joins BJP citing ‘groupism’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/congress-leader-sanjay-ramanandi-joins-bjp-surat-municipal-elections-internal-groupism-10647332/",
+      "published_date": "2026-04-21T02:13:46+00:00"
+    },
+    {
+      "title": "TN Elections 2026 – Is this a Battle between Tamil Nadu and New Delhi ?",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tn-assembly-elections-2026-is-this-a-battle-between-tamil-nadu-and-new-delhi-101776714194136.html",
+      "published_date": "2026-04-21T01:06:19+00:00"
+    },
     {
       "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
       "source": "Al Jazeera English",
@@ -81,11 +144,25 @@
       "published_date": "2026-04-20T20:38:02+00:00"
     },
     {
+      "title": "Peru reviews disputed election ballots with final result likely stalled until May - Reuters",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVBCWUVVcUx2VC1wbkhoQVdOS19IdXpFdGp0X3pUd1ZOM3kxSzM2ZmFYQWR0LUtuOW5CUXNicERyQ3dsWjJXSEJRdzQwSXVGeW9QQkxKX1pQd2ROWFpKVDVjZGd6VzV6ZXRfX0phVEpFbENPN3JMWWhQNDBVMkxCNkpQY1VvczdkR2ZrLTY5S1VaQVJud0pTRHowTGpRZW5WcXNtM2F1aGxUNXA1bzcyUkJGVnd3NnZMVjA2dzVLZEVub1BhclRv?oc=5",
+      "published_date": "2026-04-20T20:12:35+00:00"
+    },
+    {
       "title": "A new foothold for Moscow in Europe after Bulgaria election - The Washington Post",
       "source": "Google News World",
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTRnU1FzMGdHU19iWXNvOGVnNDloVXJtUkRubWdCZi0xcmMwX05PNFRmZFdycjhYZm45TjRpQzVsNGRpVEZXU2I1dEpHQjJ6d21hazM5ZVRHSXdNVi1OWXpmOVpHaG94TG5UM0NGSVUxcXVYSlR1R1lZY19PUVVKUkpDaEhRc0VSM2FpdTNHLUo?oc=5",
       "published_date": "2026-04-20T20:05:35+00:00"
+    },
+    {
+      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria - NBC News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTi00bklrLUx4VnNlc3RxZUxxN0ZhTFg2cF9aeV9BVkZraDhUT1NiLUVPTzR2a3BEWmtnMmtOQlNVLWR0bHVJcmZzcU15QWo2V3laVDV6Q1YzRWx5RjJRaGdYYWl0cHBqbmNFMDk4Y1pTU2tNQTdMM2xINEdfSEZtN0d6VG5nRXVjNGMzNVl0amxtTUpCUFplTUxwZXpoajA?oc=5",
+      "published_date": "2026-04-20T19:51:07+00:00"
     },
     {
       "title": "Faculty of Legal Sciences of the UCV demands elections in Venezuela immediately",
@@ -3068,83 +3145,6 @@
       "country": "China",
       "url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
       "published_date": "2026-04-07T12:06:57+00:00"
-    },
-    {
-      "title": "Kim Jong-un’s Daughter Drives a Tank, and Succession Talk Accelerates - The New York Times",
-      "source": "Google News World",
-      "country": "North Korea",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEdZX3IzTk9jRWw0aERpUlJEbU14VmZIejY4MzNHOFBYNHZYVGFZbFlrdmFJcE5oT18zQkd5XzhJS2JUdWhZT3IwcmFZZUZfd2JXMjA5QnRLYkZEMXRLcG1vTmtZb21JUUJvQV9KNEV3VTZEQUhnenJsOHBzNFQyUno5ekFiYVJCczB0Uko2NHY3Zw?oc=5",
-      "published_date": "2026-04-07T11:32:55+00:00"
-    },
-    {
-      "title": "India kicks off crucial state elections for Modi’s BJP amid Iran war turmoil",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/week-asia/politics/article/3349282/india-kicks-crucial-state-elections-modis-bjp-amid-iran-war-turmoil?utm_source=rss_feed",
-      "published_date": "2026-04-07T11:20:42+00:00"
-    },
-    {
-      "title": "Myanmar junta forces kill seven, destroy village in Myingyan Township",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-forces-kill-seven-destroy-village-in-myingyan-township/",
-      "published_date": "2026-04-07T11:03:45+00:00"
-    },
-    {
-      "title": "Taiwan's opposition leader arrives in China for a 'Journey of Peace'",
-      "source": "NPR World",
-      "country": "Taiwan",
-      "url": "https://www.npr.org/2026/04/07/nx-s1-5776401/taiwan-opposition-arrives-china",
-      "published_date": "2026-04-07T09:49:38+00:00"
-    },
-    {
-      "title": "Vedomosti reports Kremlin is weighing removal of Belgorod region governor ahead of September elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/07/vedomosti-reports-kremlin-is-weighing-removal-of-belgorod-region-governor-ahead-of-september-elections",
-      "published_date": "2026-04-07T07:38:28+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-      "source": "BBC World",
-      "country": "Taiwan",
-      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T07:29:55+00:00"
-    },
-    {
-      "title": "Taiwanese opposition leader Cheng Li-wun begins ‘journey of peace’ in Shanghai",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3349225/taiwanese-opposition-leader-cheng-li-wun-begins-journey-peace-shanghai?utm_source=rss_feed",
-      "published_date": "2026-04-07T06:59:21+00:00"
-    },
-    {
-      "title": "To Lam emerges as Vietnam’s ‘supreme leader’ after being elected president",
-      "source": "South China Morning Post",
-      "country": "Vietnam",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3349235/lam-emerges-vietnams-supreme-leader-after-being-elected-president?utm_source=rss_feed",
-      "published_date": "2026-04-07T06:35:20+00:00"
-    },
-    {
-      "title": "Why America, not Iran, has a succession problem",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/commentary/2026/04/07/world/americas-succession-problem/",
-      "published_date": "2026-04-07T03:53:00+00:00"
-    },
-    {
-      "title": "Leaders of the Liberal Party meet this Tuesday with elected congressmen to discuss their position for the presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Canada",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/directivas-del-partido-liberal-se-reunen-este-martes-con-congresistas-electos-para-discutir-su-postura-para-las-presidenciales-3545773",
-      "published_date": "2026-04-07T02:17:59+00:00"
-    },
-    {
-      "title": "PM Modi says UCC, one nation–one election under serious discussion",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-says-ucc-one-nation-one-election-under-serious-discussion-101775522749746.html",
-      "published_date": "2026-04-07T00:54:31+00:00"
     }
   ]
 }
