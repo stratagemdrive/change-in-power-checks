@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-21T12:03:56.925808+00:00",
-    "story_count": 441,
+    "last_updated": "2026-04-21T23:34:52.669075+00:00",
+    "story_count": 439,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Milei will send the electoral reform to Congress tomorrow: eliminates the PASO and includes a clean record",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/milei-mandara-manana-la-reforma-electoral-al-congreso-elimina-las-paso-e-incluye-ficha-limpia-nid21042026/",
+      "published_date": "2026-04-21T22:43:19+00:00"
+    },
+    {
+      "title": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
+      "source": "The Independent UK",
+      "country": "Nigeria",
+      "url": "https://www.independent.co.uk/news/world/africa/nigeria-plot-treason-overthrow-president-tinubu-b2962271.html",
+      "published_date": "2026-04-21T22:42:50+00:00"
+    },
+    {
+      "title": "Peru’s election chief steps down amid frustration over long vote count",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
+      "published_date": "2026-04-21T22:14:40+00:00"
+    },
+    {
+      "title": "Democratic Center denounced to the IACHR lack of guarantees in elections: they point out hate campaigns from the government of Gustavo Petro",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/centro-democratico-denuncio-ante-la-cidh-falta-de-garantias-en-elecciones-senalan-campanas-de-odio-desde-el-gobierno-de-gustavo-petro-3549716",
+      "published_date": "2026-04-21T20:57:23+00:00"
+    },
+    {
+      "title": "Nawaz highlights PML-N’s focus on development ahead of GB elections",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections",
+      "published_date": "2026-04-21T20:01:22+00:00"
+    },
+    {
+      "title": "Velez in the morning | Álvaro Uribe spoke about the current situation of the country under the Petro Government and the outlook for the 2026 presidential elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/velez-por-la-manana-alvaro-uribe-hablo-sobre-la-situacion-actual-del-pais-bajo-el-gobierno-petro-y-el-panorama-de-las-elecciones-presidenciales-3549669",
+      "published_date": "2026-04-21T18:38:37+00:00"
+    },
+    {
+      "title": "“I would have won very quickly in Vietnam”: Donald Trump praises his qualities as commander in chief and recalls having “taken Venezuela in 45 minutes”",
+      "source": "Le Figaro France",
+      "country": "Venezuela",
+      "url": "https://www.lefigaro.fr/international/j-aurais-gagne-tres-rapidement-au-vietnam-donald-trump-vante-ses-qualites-de-commandant-en-chef-et-rappelle-avoir-pris-le-venezuela-en-45-minutes-20260421",
+      "published_date": "2026-04-21T15:19:58+00:00"
+    },
+    {
+      "title": "Netanyahu would be arrested if he came to Hungary, says new PM",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/europe/netanyahu-arrest-hungary-magyar-orban-b2961772.html",
+      "published_date": "2026-04-21T14:46:38+00:00"
+    },
+    {
+      "title": "Senator Tim Kaine urges to guarantee elections in Venezuela this year: \"It is time for a new chapter\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/tim-kaine-insta-a-garantizar-elecciones-en-venezuela-este-ano/",
+      "published_date": "2026-04-21T14:16:10+00:00"
+    },
+    {
+      "title": "Former Hong Kong trade office chief contesting UK local elections for Reform",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3350924/former-hong-kong-trade-office-chief-contesting-uk-local-elections-reform?utm_source=rss_feed",
+      "published_date": "2026-04-21T14:05:40+00:00"
+    },
+    {
+      "title": "US senators appeal to Meta, Google to ‘counter Russian disinformation’ in Armenian election",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/us-senators-appeal-to-meta-google-to-counter-russian-disinformation-in-armenian-election/",
+      "published_date": "2026-04-21T12:16:26+00:00"
+    },
+    {
+      "title": "Russian Businesses Helping Funnel Military Equipment to Wagner Successor Group in Mali – Report",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/04/21/russian-businesses-helping-funnel-military-equipment-to-wagner-successor-group-in-mali-report-a92553",
+      "published_date": "2026-04-21T12:14:40+00:00"
+    },
     {
       "title": "Assembly Elections 2026 LIVE: No one wants BJP to form government, TMC will return to power again, says Mamata",
       "source": "The Hindu Politics",
@@ -3047,104 +3131,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/nacional/noticia/fidae-inauguro-nueva-edicion-con-acrobacias-la-presencia-de-kast-y-un-saludo-desde-el-espacio/",
       "published_date": "2026-04-08T01:09:06+00:00"
-    },
-    {
-      "title": "Pre-candidate for re-election in SP, Tarcísio says he supports Flávio Bolsonaro against presidential re-election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/pre-candidato-a-reeleicao-em-sp-tarcisio-diz-apoiar-flavio-bolsonaro-contra-reeleicao-presidencial.shtml",
-      "published_date": "2026-04-07T20:01:00+00:00"
-    },
-    {
-      "title": "The United States and Russia are closely following the elections in Hungary, and this time, in the same direction",
-      "source": "La Tercera Chile",
-      "country": "Russia",
-      "url": "https://www.latercera.com/mundo/noticia/estados-unidos-y-rusia-siguen-de-cerca-las-elecciones-en-hungria-y-esta-vez-en-la-misma-direccion/",
-      "published_date": "2026-04-07T20:00:00+00:00"
-    },
-    {
-      "title": "France's Sarkozy maintains innocence at Libya election funding trial",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/2026/04/07/frances-sarkozy-maintains-innocence-at-libya-election-funding-trial",
-      "published_date": "2026-04-07T17:55:46+00:00"
-    },
-    {
-      "title": "First Nation asks court to block Alberta referendum on seceding from Canada",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada",
-      "published_date": "2026-04-07T16:43:13+00:00"
-    },
-    {
-      "title": "Motta retreats from accelerated election for TCU and weakens strategy that favored PT nominee",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/motta-recua-de-eleicao-acelerada-para-tcu-e-enfraquece-estrategia-que-favorecia-indicado-do-pt.shtml",
-      "published_date": "2026-04-07T16:39:00+00:00"
-    },
-    {
-      "title": "Trump's Iran post causes talk of his impeachment, removal to erupt among Hill Democrats",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/04/07/trump-iran-impeachment-25th-amendment-war-crimes",
-      "published_date": "2026-04-07T16:36:43+00:00"
-    },
-    {
-      "title": "Peru enters the week of its most complex elections, with 35 presidential candidates",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/peru-entra-en-la-semana-de-sus-elecciones-mas-complejas-con-35-candidatos-presidenciales/",
-      "published_date": "2026-04-07T15:44:18+00:00"
-    },
-    {
-      "title": "‘Similar to Covid’: Karnataka travel operators appeal to PM Modi for financial relief amid West Asia crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/bangalore/kstoa-karnataka-travel-operators-relief-pm-modi-west-asia-conflict-impact-10624229/",
-      "published_date": "2026-04-07T15:07:34+00:00"
-    },
-    {
-      "title": "Ukrainian parliament passes law extending military levy for three years after martial law",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-economy/4110106-ukrainian-parliament-passes-law-extending-military-levy-for-three-years-after-martial-law.html",
-      "published_date": "2026-04-07T15:00:00+00:00"
-    },
-    {
-      "title": "Who are the candidates for president in the Peruvian elections 2026",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-presidente-en-las-elecciones-de-peru-2026-nid07042026/",
-      "published_date": "2026-04-07T14:43:59+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader arrives in China on ‘journey of peace’",
-      "source": "France 24 English",
-      "country": "Taiwan",
-      "url": "https://www.france24.com/en/video/20260407-taiwan-opposition-leader-arrives-in-china-on-journey-of-peace",
-      "published_date": "2026-04-07T14:03:43+00:00"
-    },
-    {
-      "title": "Iran's supreme leader is unconscious and receiving treatment in Qom, according to The Times",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-lider-supremo-de-iran-se-encuentra-inconsciente-y-recibiendo-tratamiento-en-qom-segun-the-times-nid07042026/",
-      "published_date": "2026-04-07T12:42:15+00:00"
-    },
-    {
-      "title": "Exiled for a drawing: The Russian father and daughter who stood up to Putin",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/video/20260407-exiled-for-a-drawing-the-russian-father-and-daughter-who-stood-up-to-putin",
-      "published_date": "2026-04-07T12:42:06+00:00"
-    },
-    {
-      "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
-      "source": "Al Jazeera English",
-      "country": "China",
-      "url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
-      "published_date": "2026-04-07T12:06:57+00:00"
     }
   ]
 }
