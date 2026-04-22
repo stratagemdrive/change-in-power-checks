@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-22T12:03:20.948725+00:00",
-    "story_count": 436,
+    "last_updated": "2026-04-22T23:45:53.290235+00:00",
+    "story_count": 430,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Re-election bid: Why is Tinubu scared of winning fair and square? By Olu Fasan",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/04/re-election-bid-why-is-tinubu-scared-of-winning-fair-and-square-by-olu-fasan/",
+      "published_date": "2026-04-22T23:21:55+00:00"
+    },
+    {
+      "title": "Navy Secretary reportedly ‘ousted’ in latest top military departure from Trump administration as US wages war in Iran",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/navy-secretary-iran-war-phelan-hegseth-b2963131.html",
+      "published_date": "2026-04-22T21:52:21+00:00"
+    },
+    {
+      "title": "Trial opens after Nigeria charges six over 2025 coup plot",
+      "source": "France 24 English",
+      "country": "Nigeria",
+      "url": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
+      "published_date": "2026-04-22T21:34:03+00:00"
+    },
+    {
+      "title": "Inauguration of a lithium mine: Macron defends his strategy in terms of industrial projects",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/france/20260422-france-inauguration-mine-de-lithium-macron-defend-sa-strategie-en-matiere-de-projets-industriels",
+      "published_date": "2026-04-22T18:20:40+00:00"
+    },
+    {
+      "title": "Miguel Mea Vitali, manager of Caracas FC: “Aristeguieta's resignation hurt us”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/miguel-mea-vitali-gerente-del-caracas-fc-nos-dolio-la-renuncia-de-aristeguieta/",
+      "published_date": "2026-04-22T17:54:13+00:00"
+    },
+    {
+      "title": "Nigeria's suspected coup plotters deny treason charges",
+      "source": "BBC World",
+      "country": "Nigeria",
+      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T17:33:30+00:00"
+    },
+    {
+      "title": "Two sisters from Punjab elected to key bodies in German local elections",
+      "source": "Indian Express",
+      "country": "Germany",
+      "url": "https://indianexpress.com/article/cities/chandigarh/two-sisters-punjab-german-local-elections-10650772/",
+      "published_date": "2026-04-22T16:10:55+00:00"
+    },
+    {
+      "title": "US has not given up on engaging North Korea, ROK opposition leader says",
+      "source": "NK News",
+      "country": "North Korea",
+      "url": "https://www.nknews.org/2026/04/us-has-not-given-up-on-engaging-north-korea-rok-opposition-leader-says/",
+      "published_date": "2026-04-22T16:07:06+00:00"
+    },
+    {
+      "title": "Palestinians in Gaza to vote in municipal elections, offering view into support for Hamas",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-893839",
+      "published_date": "2026-04-22T15:35:46+00:00"
+    },
+    {
+      "title": "3rd Army Corps refutes Russia’s claim of capturing Luhansk region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4115415-3rd-army-corps-refutes-russias-claim-of-capturing-luhansk-region.html",
+      "published_date": "2026-04-22T15:34:00+00:00"
+    },
+    {
+      "title": "Keir Starmer defies resignation calls over Mandelson envoy row",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/04/22/keir-starmer-defies-resignation-calls-over-mandelson-envoy-row",
+      "published_date": "2026-04-22T14:15:47+00:00"
+    },
+    {
+      "title": "UK PM insists he won’t resign over Mandelson scandal",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3351046/uk-pm-insists-he-wont-resign-over-mandelson-scandal?utm_source=rss_feed",
+      "published_date": "2026-04-22T13:31:37+00:00"
+    },
     {
       "title": "Yoon's constitutional petition against insurrection tribunal law referred to formal review",
       "source": "Korea Times",
@@ -2984,132 +3068,6 @@
       "country": "Iran",
       "url": "https://www.latercera.com/mundo/noticia/senado-de-estados-unidos-votara-una-resolucion-para-limitar-los-poderes-belicos-de-trump-contra-iran/",
       "published_date": "2026-04-09T00:52:18+00:00"
-    },
-    {
-      "title": "Tinubu sends goodwill message as Akpabio represents him at Lagos projects inauguration",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/870337-tinubu-sends-goodwill-message-as-akpabio-represents-him-at-lagos-projects-inauguration.html",
-      "published_date": "2026-04-08T22:54:17+00:00"
-    },
-    {
-      "title": "Election Commission-Trinamool Congress meeting ends on an acrimonious note",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-trinamool-congress-tmc-meeting-gyanesh-kumar-west-bengal-elections-april-8-2026/article70837559.ece",
-      "published_date": "2026-04-08T19:58:26+00:00"
-    },
-    {
-      "title": "They demand a change in the CNE as a key step to call elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/exigen-cambio-del-cne-como-paso-clave-para-convocar-elecciones-en-venezuela/",
-      "published_date": "2026-04-08T19:25:09+00:00"
-    },
-    {
-      "title": "Vente Venezuela sees it possible to call elections this year",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/vente-venezuela-ve-posible-convocar-elecciones-este-ano/",
-      "published_date": "2026-04-08T18:45:36+00:00"
-    },
-    {
-      "title": "Chief Minister Siddaramaiah accuses Election Commission of India of being ‘selective and complicit’",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/chief-minister-siddaramaiah-accuses-election-commission-of-india-of-being-selective-and-complicit/article70839570.ece",
-      "published_date": "2026-04-08T18:42:55+00:00"
-    },
-    {
-      "title": "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
-      "published_date": "2026-04-08T18:34:41+00:00"
-    },
-    {
-      "title": "India to engage new government of Bangladesh constructively, to deepen ties, says Jaishankar",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/india-to-engage-new-government-of-bangladesh-constructively-to-deepen-ties-says-jaishankar/article70839690.ece",
-      "published_date": "2026-04-08T18:05:16+00:00"
-    },
-    {
-      "title": "Constitutional Block demands to declare the absolute absence of the Presidency and call immediate elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/bloque-constitucional-exige-declarar-la-falta-absoluta-de-la-presidencia-y-convocar-elecciones-inmediatas-en-venezuela/",
-      "published_date": "2026-04-08T17:23:00+00:00"
-    },
-    {
-      "title": "Norway's Telenor faces lawsuit for giving junta data from its customers in Myanmar",
-      "source": "Deutsche Welle English",
-      "country": "Myanmar",
-      "url": "https://www.dw.com/en/norway-s-telenor-faces-lawsuit-for-giving-junta-data-from-its-customers-in-myanmar/a-76710104?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-08T15:48:00+00:00"
-    },
-    {
-      "title": "Assam assembly elections 2026: CM Himanta to contest from Jalukbari as BJP releases candidate list for polls",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assam-assembly-elections-2026-bjp-list-of-candidates-cm-himanta-biswa-sarma-full-list-101775134976494.html",
-      "published_date": "2026-04-08T15:47:50+00:00"
-    },
-    {
-      "title": "Trump says he will work with Iran for 'very productive regime change, there will be no enrichment'",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-892370",
-      "published_date": "2026-04-08T15:08:01+00:00"
-    },
-    {
-      "title": "Kerala polls: Cash-for-votes row in Palakkad rocks BJP on election eve",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-cash-for-votes-row-in-palakkad-rocks-bjp-on-election-eve/article70838789.ece",
-      "published_date": "2026-04-08T14:58:12+00:00"
-    },
-    {
-      "title": "Hungary: the election that scares Vladimir Putin?",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/europe/20260408-hongrie-l-%C3%A9lection-qui-fait-peur-%C3%A0-vladimir-poutine",
-      "published_date": "2026-04-08T14:49:28+00:00"
-    },
-    {
-      "title": "“Disfigured” Iranian Supreme Leader, Strait of Hormuz, uranium… What to remember from Pete Hegseth’s press conference after the ceasefire",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/guide-supreme-iranien-defigure-detroit-d-ormuz-uranium-ce-qu-il-faut-retenir-de-la-conference-de-presse-de-pete-hegseth-apres-le-cessez-le-feu-20260408",
-      "published_date": "2026-04-08T13:48:20+00:00"
-    },
-    {
-      "title": "Donald Trump: “The United States will work closely with Iran, a country that has experienced regime change”",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/el-mundo/trump-hablo-del-acuerdo-con-iran-y-dijo-que-el-regimen-eliminara-todos-los-restos-nucleares-nid08042026/",
-      "published_date": "2026-04-08T13:32:26+00:00"
-    },
-    {
-      "title": "They reveal how Iran's supreme leader gave in to Trump's ultimatum",
-      "source": "CiberCuba",
-      "country": "Iran",
-      "url": "https://www.cibercuba.com/noticias/2026-04-08-u1-e199370-s27061-nid325292-revelan-lider-supremo-iran-cedio-ultimatum-trump",
-      "published_date": "2026-04-08T13:20:59+00:00"
-    },
-    {
-      "title": "Bangladesh FM in India, most senior visit since 2024 uprising",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/1989882/bangladesh-fm-in-india-most-senior-visit-since-2024-uprising",
-      "published_date": "2026-04-08T12:49:58+00:00"
-    },
-    {
-      "title": "Report: War veteran set to replace Belgorod Region governor as Putin prepares leadership change",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/08/report-war-veteran-set-to-replace-belgorod-region-governor-as-putin-prepares-leadership-change",
-      "published_date": "2026-04-08T12:19:44+00:00"
     }
   ]
 }
