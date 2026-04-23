@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-23T12:03:28.326337+00:00",
-    "story_count": 434,
+    "last_updated": "2026-04-23T23:43:13.012000+00:00",
+    "story_count": 428,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Fubara rallies monarchs for Tinubu’s re-election, cites reform continuity",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/fubara-rallies-monarchs-for-tinubus-re-election-cites-reform-continuity/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-24T00:33:28+00:00"
+    },
+    {
+      "title": "Javier Milei said that he will accompany Adorni in Congress and confirmed that he will seek re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-dio-detalles-de-su-reunion-con-el-magnate-tecnologico-peter-thiel-fue-una-reunion-nid23042026/",
+      "published_date": "2026-04-23T22:36:55+00:00"
+    },
+    {
+      "title": "Bernie Moreno, a US senator of Colombian origin, would be one of the US observers in the presidential elections on May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bernie-moreno-senador-estadounidense-de-origen-colombiano-seria-uno-de-los-observadores-en-las-elecciones-presidenciales-del-31-de-mayo-3550396",
+      "published_date": "2026-04-23T21:36:24+00:00"
+    },
+    {
+      "title": "“Seriously injured”, the new Iranian supreme leader would be treated by the Iranian president in person, according to the New York Times",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/gravement-blesse-le-nouveau-guide-supreme-iranien-serait-notamment-soigne-par-le-president-iranien-en-personne-selon-le-new-york-times-20260423",
+      "published_date": "2026-04-23T18:00:50+00:00"
+    },
+    {
+      "title": "Iran’s exiled crown prince splashed with red liquid after railing against ceasefire - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnlmM01lVGFTdkFxMFIxLVdNVFdyV0E0U1hOdVNRSkZGRHY5V2pjajV1TlJvNkdfMG9HSzRBb2hhT0JkTjJMdG93RXRBV0ZpMmh0Q1ZsYXQ4d01GLUF1dUh1c0lzcXpHS2N3cFl2NTRPNHRWaHVwV3ljMWZHeG1VWXhVUTl2VUg4OVl1di1BU1NTZXBBbnJHUzd6bnNIRGNwNk5FMGNqSXFkNXRTZmZkR3JDWdIBuAFBVV95cUxOS3hxVHBVbTAtOWhqMndaUlNwUTVjeVAyNm9wbkpHQXZxX2w3RGo2MkdiQ3FFMEJXaFpZRGpFWThwOGRLUW5XQ0t2bFRpcWVZTjA4R1dMdUd0eUd1V295TWZTU0pBY2IyMUpHaHlXSVE3SDBrNGxEaWM5a2tMdXlKWGtYVzkxbzlkNmhCTV9jT1dYQ19lSl9IT3hwNDVVY24tZEY4b3ZJdG03d2paWlZZUGc1MkpNa01i?oc=5",
+      "published_date": "2026-04-23T17:10:58+00:00"
+    },
+    {
+      "title": "Kast inaugurates Balmaceda Literary Café vandalized during the social outbreak: “The violence that was carried out here must be fought”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-inaugura-cafe-literario-balmaceda-valdalizado-en-estallido-social-la-violencia-que-se-ejercio-aca-debe-ser-combatida/",
+      "published_date": "2026-04-23T16:52:28+00:00"
+    },
+    {
+      "title": "Lula indicates that he will increase attacks in the election and promises to leave 'naked liars' in front of the cameras",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-indica-que-ampliara-ataques-na-eleicao-e-promete-deixar-mentirosos-nus-diante-das-cameras.shtml",
+      "published_date": "2026-04-23T16:34:00+00:00"
+    },
+    {
+      "title": "Video: Exiled Iranian crown prince splattered with red liquid in Berlin after slashing US-Iran truce",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/world-iran-exiled-prince-reza-pahlavi-attacked-berlin-tomato-juice-us-truce-protest-10652426/",
+      "published_date": "2026-04-23T15:48:09+00:00"
+    },
+    {
+      "title": "Iran's exiled crown prince Reza Pahlavi splattered with red liquid in Berlin",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/my-europe/2026/04/23/irans-exiled-crown-prince-reza-pahlavi-splattered-with-red-liquid-in-berlin",
+      "published_date": "2026-04-23T13:39:44+00:00"
+    },
+    {
+      "title": "President Macron inaugurates lithium mine as France, EU seek energy sovereignty",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20260423-president-macron-inaugurates-lithium-mine-as-france-eu-seek-energy-sovereignty",
+      "published_date": "2026-04-23T13:32:07+00:00"
+    },
+    {
+      "title": "Iran’s exiled crown prince Pahlavi splashed with red substance in Berlin",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3351193/irans-exiled-crown-prince-pahlavi-splashed-red-substance-berlin?utm_source=rss_feed",
+      "published_date": "2026-04-23T12:10:52+00:00"
+    },
     {
       "title": "The electoral reform project is in Congress; For the first time a woman will preside over the Buenos Aires Bar Association",
       "source": "La Nacion Argentina",
@@ -2977,125 +3054,6 @@
       "country": "Iran",
       "url": "https://www.latercera.com/mundo/noticia/el-lider-supremo-de-iran-asegura-que-no-busca-la-guerra-pero-advierte-que-no-renunciara-a-sus-derechos/",
       "published_date": "2026-04-10T00:56:51+00:00"
-    },
-    {
-      "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
-      "published_date": "2026-04-09T23:16:47+00:00"
-    },
-    {
-      "title": "Venezuelan Parliament approves the Mines Law",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/parlamento-venezolano-aprueba-la-ley-de-minas-ante-el-interes-expreso-de-ee-uu-en-el-oro/",
-      "published_date": "2026-04-09T21:20:14+00:00"
-    },
-    {
-      "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights",
-      "published_date": "2026-04-09T20:47:10+00:00"
-    },
-    {
-      "title": "Ex-CENTCOM Chief: IRGC running Iran can make concessions without regime change - interview",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/article-892532",
-      "published_date": "2026-04-09T20:17:54+00:00"
-    },
-    {
-      "title": "Democrats opened the door to a third Trump impeachment over Iran. Here’s what they need to happen next",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/house-democrats-trump-impeachment-iran-b2954767.html",
-      "published_date": "2026-04-09T19:31:13+00:00"
-    },
-    {
-      "title": "Transparency Venezuela proposes a special statute to guarantee free elections in the country",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/las-7-reformas-necesarias-para-ir-a-elecciones-en-venezuela/",
-      "published_date": "2026-04-09T17:26:31+00:00"
-    },
-    {
-      "title": "Peru declares a state of emergency on the border with Chile: it will use drones for surveillance",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/peru-declara-estado-de-emergencia-en-frontera-con-chile-usara-drones-para-vigilancia/",
-      "published_date": "2026-04-09T16:31:57+00:00"
-    },
-    {
-      "title": "MEPs raise alarm about possible Russian meddling in Hungary elections",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/apr/09/meps-alarm-possible-russian-interference-hungary-elections",
-      "published_date": "2026-04-09T16:17:47+00:00"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough Ukraine stance, poll shows",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-ukraine-stance-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-09T14:45:00+00:00"
-    },
-    {
-      "title": "Iranians rally to mark 40-day mourning for slain supreme leader Khamenei",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/video/20260409-iranians-rally-to-mark-40-day-mourning-for-slain-supreme-leader-khamenei",
-      "published_date": "2026-04-09T14:15:52+00:00"
-    },
-    {
-      "title": "Universities: controversy after the election of a member of the Muslim Students of France union within the Cnous",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/actualite-france/universites-polemique-apres-l-election-d-un-membre-du-syndicat-des-etudiants-musulmans-de-france-au-sein-du-cnous-20260409",
-      "published_date": "2026-04-09T14:15:52+00:00"
-    },
-    {
-      "title": "Israeli arrested in Iranian plot to assassinate former PM Naftali Bennett",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-892458",
-      "published_date": "2026-04-09T12:55:08+00:00"
-    },
-    {
-      "title": "India election roll overhaul sparks anger as key states vote",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/1990157/india-election-roll-overhaul-sparks-anger-as-key-states-vote",
-      "published_date": "2026-04-09T12:48:25+00:00"
-    },
-    {
-      "title": "Benjamin Netanyahu’s corruption trial resumes as Israel lifts state of emergency",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/benjamin-netanyahu-corruption-trial-israel-iran-war-b2954489.html",
-      "published_date": "2026-04-09T12:18:48+00:00"
-    },
-    {
-      "title": "Increased pre-election spending could erode Nigeria’s reform gains – World Bank",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/870454-increased-pre-election-spending-could-erode-nigerias-reform-gains-world-bank.html",
-      "published_date": "2026-04-09T11:58:41+00:00"
-    },
-    {
-      "title": "Civil society demands that the CNE declare the \"absolute absence\" of Nicolás Maduro and call elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/sociedad-civil-exige-al-cne-declarar-la-falta-absoluta-de-nicolas-maduro-y-convocar-a-elecciones/",
-      "published_date": "2026-04-09T11:58:25+00:00"
     }
   ]
 }
