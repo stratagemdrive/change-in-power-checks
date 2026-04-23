@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-22T23:45:53.290235+00:00",
-    "story_count": 430,
+    "last_updated": "2026-04-23T12:03:28.326337+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "The electoral reform project is in Congress; For the first time a woman will preside over the Buenos Aires Bar Association",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/esta-en-el-congreso-el-proyecto-de-reforma-electoral-por-primera-vez-una-mujer-presidira-el-colegio-nid23042026/",
+      "published_date": "2026-04-23T11:32:35+00:00"
+    },
+    {
+      "title": "How Iran raised Hormuz stakes by capturing ships",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
+      "published_date": "2026-04-23T11:25:44+00:00"
+    },
+    {
+      "title": "Rival party workers fight on election day in India’s West Bengal",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss",
+      "published_date": "2026-04-23T11:09:19+00:00"
+    },
+    {
+      "title": "Ink on lotus symbol, BJP candidate chased: Bengal elections are not for beginners | Phase 1 voting wrapped",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/ink-on-lotus-symbol-bjp-candidate-chased-bengal-elections-are-not-for-beginners-phase-1-voting-101776934214909.html",
+      "published_date": "2026-04-23T09:46:29+00:00"
+    },
+    {
+      "title": "Gaza: municipal elections as a test for Hamas",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260423-gaza-des-%C3%A9lections-municipales-en-forme-de-test-pour-le-hamas",
+      "published_date": "2026-04-23T08:55:33+00:00"
+    },
+    {
+      "title": "2027: Ex-Senate chief whip, others drum support for Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-ex-senate-chief-whip-others-drum-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-23T08:32:02+00:00"
+    },
+    {
+      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss",
+      "published_date": "2026-04-23T07:42:26+00:00"
+    },
+    {
+      "title": "West Bengal elections: BJP files complaint with EC against Mamata Banerjee, seeks 48-hour campaign ban",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-elections-bjp-files-complaint-with-ec-against-mamata-banerjee-seeks-48-hour-campaign-ban-10651638/",
+      "published_date": "2026-04-23T07:28:29+00:00"
+    },
+    {
+      "title": "Can fish hook voters in India’s West Bengal elections?",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections?traffic_source=rss",
+      "published_date": "2026-04-23T05:05:15+00:00"
+    },
+    {
+      "title": "How Southeast Asia’s aviation hubs are capturing traffic amid Iran war",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/week-asia/economics/article/3351081/how-southeast-asias-aviation-hubs-are-capturing-traffic-amid-iran-war?utm_source=rss_feed",
+      "published_date": "2026-04-23T03:55:40+00:00"
+    },
+    {
+      "title": "West Bengal Election 2026 LIVE: 78.77% turnout till 3 pm; BJP candidate assaulted on way to polling booth",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-polling-live-wb-voting-time-nandigram-baharampur-suvendu-adhir-tmc-bjp-election-commission-tmc-101776904515452.html",
+      "published_date": "2026-04-23T00:54:33+00:00"
+    },
+    {
+      "title": "Opposition accuses constitutional defects in Kast's mega-reform and prepares to go to the TC",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/oposicion-acusa-vicios-de-constitucionalidad-en-megarreforma-de-kast-y-se-prepara-para-acudir-al-tc/",
+      "published_date": "2026-04-23T00:26:28+00:00"
+    },
     {
       "title": "Re-election bid: Why is Tinubu scared of winning fair and square? By Olu Fasan",
       "source": "Vanguard Nigeria",
@@ -3012,62 +3096,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/sociedad-civil-exige-al-cne-declarar-la-falta-absoluta-de-nicolas-maduro-y-convocar-a-elecciones/",
       "published_date": "2026-04-09T11:58:25+00:00"
-    },
-    {
-      "title": "Thousands of Iranians rally in memory of late supreme leader Khamenei",
-      "source": "The Punch Nigeria",
-      "country": "Iran",
-      "url": "https://punchng.com/thousands-of-iranians-rally-in-memory-of-late-supreme-leader-khamenei/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-09T11:51:19+00:00"
-    },
-    {
-      "title": "With Carney riding high, Liberals meet ahead of crucial by-elections",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-with-carney-riding-high-liberals-meet-ahead-of-crucial-by-elections/",
-      "published_date": "2026-04-09T10:50:57+00:00"
-    },
-    {
-      "title": "'Regime change' vs 'BJP buying votes': PM Modi, Mamata Banerjee trade barbs at poll rallies in Bengal",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/regime-change-vs-bjp-buying-votes-pm-modi-mamata-banerjee-trade-barbs-at-poll-rallies-in-bengal-election-news-101775729559476.html",
-      "published_date": "2026-04-09T10:31:46+00:00"
-    },
-    {
-      "title": "Sasmit Patra steps down as BJD’s Rajya Sabha leader amid internal dissent",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/sasmit-patra-bjd-rajya-sabha-leader-internal-dissent-10627306/",
-      "published_date": "2026-04-09T07:49:15+00:00"
-    },
-    {
-      "title": "Goyal inaugurates north India’s first central pivot irrigation system at PAU",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/goyal-inaugurates-north-india-first-central-pivot-irrigation-system-pau-10626994/",
-      "published_date": "2026-04-09T05:40:43+00:00"
-    },
-    {
-      "title": "Myanmar clients sue Norway’s Telenor for giving data to junta",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-clients-sue-norways-telenor-for-giving-data-to-junta/",
-      "published_date": "2026-04-09T05:12:37+00:00"
-    },
-    {
-      "title": "Venezuelan acting President Delcy Rodríguez asks workers for patience and promises May wage increase - AP News",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVUTHlCVW5tOThIc0kzWUpJWFZFWWRJZVBJWGNxQ1dWMmFscDFIeTJ5WW9uTFZyb1c4Y3VZbzhBZEVoQ1Vrc2FpX1RJSjZOTEVsNUZMekFVeFM3RkpxVTBfYmZOY29YY0pHQXB3TGJoSHVhc0xNVEZnc055ajNDNGJsSlRuUUZfZ3FyMlhoYXJIN2l2MTJIXzhaZXdlaGdVbThYblc1ajQwTWpzU2k0d0dpWUEzQmxYREE?oc=5",
-      "published_date": "2026-04-09T01:23:00+00:00"
-    },
-    {
-      "title": "US Senate to vote on resolution to limit Trump's war powers against Iran",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/senado-de-estados-unidos-votara-una-resolucion-para-limitar-los-poderes-belicos-de-trump-contra-iran/",
-      "published_date": "2026-04-09T00:52:18+00:00"
     }
   ]
 }
