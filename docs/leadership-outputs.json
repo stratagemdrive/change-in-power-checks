@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-24T12:01:03.818292+00:00",
-    "story_count": 414,
+    "last_updated": "2026-04-24T23:40:28.865326+00:00",
+    "story_count": 418,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Tinubu inaugurates new housing minister",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubu-inaugurates-new-housing-minister/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-25T00:01:56+00:00"
+    },
+    {
+      "title": "How Adelabu resigned against Tinubu’s wish",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/how-adelabu-resigned-against-tinubus-wish/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-25T00:00:37+00:00"
+    },
+    {
+      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
+      "published_date": "2026-04-24T23:22:32+00:00"
+    },
+    {
+      "title": "New election of rector at the University of Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/opinion/noticia/nueva-eleccion-de-rector-en-la-u-de-chile/",
+      "published_date": "2026-04-24T23:04:00+00:00"
+    },
+    {
+      "title": "Peru's electoral authority refuses to call complementary elections in Lima",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/04/la-autoridad-electoral-de-peru-rechaza-convocar-comicios-complementarios-en-lima/",
+      "published_date": "2026-04-24T20:15:18+00:00"
+    },
+    {
+      "title": "National Election Jury of Peru unanimously declares the holding of complementary elections “unviable”",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/jurado-nacional-de-elecciones-de-peru-declara-por-unanimidad-inviable-la-realizacion-de-elecciones-complementarias/",
+      "published_date": "2026-04-24T19:12:25+00:00"
+    },
+    {
+      "title": "Tamil Nadu election 2026: Sri Lankan refugee camp resident casts his first vote as Indian citizen",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
+      "published_date": "2026-04-24T18:00:49+00:00"
+    },
+    {
+      "title": "Devés inaugurates the academic year of the University of Chile with defense of free credit and expectation of a new “fair and sustainable” credit system",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/deves-inaugura-ano-academico-de-u-de-chile-con-defensa-a-la-gratuidad-y-expectativa-de-nuevo-sistema-de-credito-justo-y-sostenible/",
+      "published_date": "2026-04-24T17:41:27+00:00"
+    },
+    {
+      "title": "Starmer pledges to move on banning Iran's IRGC in next parliament session - ایران اینترنشنال",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQNTdxdW1FTGRtUDJISEtfU0ZiZDc0bTU2ZkJpV21lQlYzMUI4Wk15Sl8za3BuMklnV25jbWFoYXk4ZzdQUFN2X3R3RHo1R0E5Rnc?oc=5",
+      "published_date": "2026-04-24T16:05:58+00:00"
+    },
+    {
+      "title": "Why Bulgaria’s New Leader May Not Become Putin’s New Trojan Horse - The Moscow Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblBUZFR4OERmd3JNRnJBb2dNVExaV3ZROUFMa1I4bTY0andwa1pCbzN3UDZMYTY0RmM1SlcxRk9hcFFJNTVtYzE3RDhVRXI4RkhuRlplejA1UXhESF9ONUFfNjNOd2lLd092THZabHZRdldFVkV5N19tQ2NKY1cwQlpqdzJHa0ZwM0twb0Q0alZxeHk2c0lNckdOc0xkRHVWLU04S3hVZl9lSUs0SGFLanVR?oc=5",
+      "published_date": "2026-04-24T15:35:00+00:00"
+    },
+    {
+      "title": "Iran’s new supreme leader is severely wounded and delegating responsibility to army generals, says report",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-severely-injured-mojtaba-khamenei-b2964291.html",
+      "published_date": "2026-04-24T14:48:25+00:00"
+    },
+    {
+      "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
+      "published_date": "2026-04-24T14:12:56+00:00"
+    },
+    {
+      "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+      "source": "BBC World",
+      "country": "Nigeria",
+      "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T13:57:20+00:00"
+    },
+    {
+      "title": "Steinmeier successor: Söder names Aigner – and beats Merz to it",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/markus-soeder-ist-fuer-ilse-aigner-als-bundespraesidentin-accg-200765532.html",
+      "published_date": "2026-04-24T13:30:31+00:00"
+    },
+    {
+      "title": "A month after elections, Danish government talks remain in stalemate",
+      "source": "South China Morning Post",
+      "country": "Denmark",
+      "url": "https://www.scmp.com/news/world/europe/article/3351362/month-after-elections-danish-government-talks-remain-stalemate?utm_source=rss_feed",
+      "published_date": "2026-04-24T13:23:18+00:00"
+    },
     {
       "title": "Deaf brothers shot dead by Myanmar junta troops in Magway’s Natmauk Township",
       "source": "Myanmar Now",
@@ -149,6 +254,13 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-dio-detalles-de-su-reunion-con-el-magnate-tecnologico-peter-thiel-fue-una-reunion-nid23042026/",
       "published_date": "2026-04-24T06:44:26+00:00"
+    },
+    {
+      "title": "West Bengal election 2026 highlights: Amit Shah targets Mamata, says women can step out at 1 am under BJP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-live-wb-assembly-election-result-mamata-banerjee-aitc-bjp-inc-voting-percentage-phase-2-date-101776999861497.html",
+      "published_date": "2026-04-24T04:00:45+00:00"
     },
     {
       "title": "Steinmeier successor: Söder supports CSU politician Aigner as possible Federal President",
@@ -242,11 +354,25 @@
       "published_date": "2026-04-23T12:10:52+00:00"
     },
     {
+      "title": "Iran's Exiled Crown Prince Splattered With Red Liquid - Newser",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnc3Q2VCTUkyU3llODZvWEdIMkRvam45QnlvR0hDZFBldmdxLTY2emJUZGFJWVVLSmpoVlVxVVpCQ2E4c1BjNEZGeEdabkNyeFJEeUNwWVJzQzhBTHY0Z0ZpRFhDdlRuZjFmczlBemdZT25hZmFKSDdvTE05azF4b3VvWnlDbnFoS3MwbWdKYjVfdHV0bVE5NQ?oc=5",
+      "published_date": "2026-04-23T11:44:00+00:00"
+    },
+    {
       "title": "The electoral reform project is in Congress; For the first time a woman will preside over the Buenos Aires Bar Association",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/sociedad/esta-en-el-congreso-el-proyecto-de-reforma-electoral-por-primera-vez-una-mujer-presidira-el-colegio-nid23042026/",
       "published_date": "2026-04-23T11:32:35+00:00"
+    },
+    {
+      "title": "How Iran raised Hormuz stakes by capturing ships - Al Jazeera",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUER2cWp5S3Z5RldCdURNQXF2S2pPemdpTlp2M2p1a2U5X3FIYkNwUTBwM3FIMDhrZTlCN0dfeE1VbTZ4Q2tBTFdsS1hBN3ZlSDZMZHB3M21hT0Q4LTE1Ukt5OFFyNF93Vm1kU0lIR2lLM3lOdG16SThfNXpKWUFRbGJNNDc4QWE1d1pHM1dNa1ZxZUHSAZgBQVVfeXFMUHIzTC1TZktJX2lMZ1M1bWNVVUtZVXpody1JdEVDTUxfdXlTNmN3bENmVjVyblBCTDlZSW9SVlR0ZUM4cnFMRFdENVlDTlpHT0VqRW1Pc1FKNHlBbUg1UVV0QXctTEJ0NEUwNTFiYTZTaXY5T2kyenM4V1VZVXN3RmxiMGFraGNTeGxEdWJDdk5IWE85UGtlQVg?oc=5",
+      "published_date": "2026-04-23T11:28:59+00:00"
     },
     {
       "title": "How Iran raised Hormuz stakes by capturing ships",
@@ -2858,104 +2984,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/gobierno/petro-tras-orden-de-tribunal-de-no-pronunciarse-sin-pruebas-sobre-fraude-electoral-jamas-un-presidente-le-debe-ensenar-a-su-sociedad-a-arrodillarse-3547003",
       "published_date": "2026-04-10T23:56:24+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Nyala healthcare workers on strike | Burhan abolishes deputy, assistant commander-in-chief positions | Sudanese military intelligence head in high-level talks with Tripoli’s chief of staff | Military operation to retake Blue Nile’s Kurmuk underway",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/04/10/news/u/sudan-nashra-nyala-healthcare-workers-on-strike-burhan-abolishes-deputy-assistant-commander-in-chief-positions-sudanese-military-intelligence-head-in-high-level-talks-with-tripolis-chie/",
-      "published_date": "2026-04-10T20:01:23+00:00"
-    },
-    {
-      "title": "What to expect from Peru’s general election on Sunday",
-      "source": "Peru Reports",
-      "country": "Peru",
-      "url": "https://perureports.com/what-to-expect-from-perus-general-election-on-sunday/10736/",
-      "published_date": "2026-04-10T19:49:43+00:00"
-    },
-    {
-      "title": "Don Davies to act as NDP parliamentary lead after new leader Avi Lewis announces critic roles",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-don-davies-to-act-as-ndp-parliamentary-lead-after-new-leader-avi-lewis/",
-      "published_date": "2026-04-10T19:35:54+00:00"
-    },
-    {
-      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
-      "published_date": "2026-04-10T18:04:34+00:00"
-    },
-    {
-      "title": "President Petro once again attacks the decision of the Constitutional Court to overthrow the economic emergency of December and insists on tax reform",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-vuelve-a-rechazar-decision-de-la-corte-constitucional-de-tumbar-la-emergencia-economica-de-diciembre-e-insiste-en-reforma-tributaria-3546850",
-      "published_date": "2026-04-10T17:04:23+00:00"
-    },
-    {
-      "title": "How a Russian propaganda unit is targeting Hungary’s elections",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/my-europe/2026/04/10/how-a-russian-propaganda-unit-is-targeting-hungarys-elections",
-      "published_date": "2026-04-10T15:19:14+00:00"
-    },
-    {
-      "title": "Taiwan’s Political Crisis Is a Security Nightmare",
-      "source": "Foreign Policy",
-      "country": "Taiwan",
-      "url": "https://foreignpolicy.com/2026/04/10/taiwan-china-budget-constitution-crisis/",
-      "published_date": "2026-04-10T14:51:25+00:00"
-    },
-    {
-      "title": "DPK far outpaces PPP in nominations for Daegu mayoral election",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260410/dpk-far-outpaces-ppp-in-nominations-for-daegu-mayoral-election?utm_source=rss",
-      "published_date": "2026-04-10T14:37:02+00:00"
-    },
-    {
-      "title": "Why is DPK eager to recruit presidential AI secretary for local elections?",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260410/why-is-dpk-eager-to-recruit-presidential-ai-secretary-for-local-elections?utm_source=rss",
-      "published_date": "2026-04-10T14:37:02+00:00"
-    },
-    {
-      "title": "China will not tolerate independence for Taiwan, Xi Jinping tells island's opposition leader",
-      "source": "Jerusalem Post",
-      "country": "Taiwan",
-      "url": "https://www.jpost.com/international/article-892593",
-      "published_date": "2026-04-10T14:19:52+00:00"
-    },
-    {
-      "title": "Presidential elections in Peru: campaigns close with radical proposals against crime",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/elecciones-presidenciales-en-peru-cierran-campanas-con-propuestas-radicales-contra-el-crimen/",
-      "published_date": "2026-04-10T14:18:00+00:00"
-    },
-    {
-      "title": "Assembly Elections LIVE: DMK has only fulfilled 70 out of 511 poll promises made in 2021, alleges BJP’s K. Annamalai",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-elections-live-updates-tamil-nadu-west-bengal-kerala-assam-puducherry-april-10-2026/article70845819.ece",
-      "published_date": "2026-04-10T14:12:43+00:00"
-    },
-    {
-      "title": "BJP plans outreach before special Parliamentary session on women’s reservation amendments",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/bjp-plans-outreach-before-special-parliamentary-session-on-womens-reservation-amendments/article70847307.ece",
-      "published_date": "2026-04-10T13:38:15+00:00"
-    },
-    {
-      "title": "Cheng Li-wun: Taiwan's opposition leader meets Xi Jinping",
-      "source": "FAZ Germany",
-      "country": "Taiwan",
-      "url": "https://www.faz.net/aktuell/politik/ausland/taiwan-und-china-cheng-li-wun-trifft-xi-jinping-accg-200718615.html",
-      "published_date": "2026-04-10T12:34:22+00:00"
     }
   ]
 }
