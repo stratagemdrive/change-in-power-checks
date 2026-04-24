@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-23T23:43:13.012000+00:00",
-    "story_count": 428,
+    "last_updated": "2026-04-24T12:01:03.818292+00:00",
+    "story_count": 414,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,104 @@
   },
   "stories": [
     {
+      "title": "Deaf brothers shot dead by Myanmar junta troops in Magway’s Natmauk Township",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/deaf-brothers-shot-dead-by-myanmar-junta-troops-in-magways-natmauk-township/",
+      "published_date": "2026-04-24T11:25:03+00:00"
+    },
+    {
+      "title": "West Bengal election: PM Modi says phase-1 polling signals 'wave of change'; claims TMC destroyed State’s identity",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-phase-1-pm-modi-polling-signals-wave-of-change-bjp-victory/article70901080.ece",
+      "published_date": "2026-04-24T11:01:55+00:00"
+    },
+    {
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "source": "BBC World",
+      "country": "Syria",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T10:41:32+00:00"
+    },
+    {
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested - BBC",
+      "source": "Google News World",
+      "country": "Syria",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Zk8yTXdhUU5PRXlJQ1R1WERPQjdxNXFVVVI5MlFJaHVpNWNmcUczMWNCVDkzN2c3eTRROWxuR3dYbVJXRVhTNDh5U1ZWbXd5Qk1XeWY0bm5oZw?oc=5",
+      "published_date": "2026-04-24T10:41:32+00:00"
+    },
+    {
+      "title": "West Bengal voter turnout makes me certain of BJP’s landslide victory: PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modi-bengal-election-2026-rallies-voting-phase-1-jhalmuri-tmc/article70897099.ece",
+      "published_date": "2026-04-24T10:34:32+00:00"
+    },
+    {
+      "title": "Nigerian military inaugurates General Court-Martial, begins trial of coup suspects",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/874361-nigerian-military-inaugurates-general-court-martial-begins-trial-of-coup-suspects.html",
+      "published_date": "2026-04-24T09:54:53+00:00"
+    },
+    {
+      "title": "Yogi Adityanath to be CM face in next UP assembly election? BJP chief says ‘the faces will…’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-makes-big-claim-on-up-cm-face-ahead-of-2027-assembly-election-yogi-adityanath-101777020499621.html",
+      "published_date": "2026-04-24T09:30:09+00:00"
+    },
+    {
+      "title": "France's Macron says he will leave politics after 2027 election",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260424-france-s-macron-says-he-will-leave-politics-after-2027-election",
+      "published_date": "2026-04-24T09:21:07+00:00"
+    },
+    {
+      "title": "Gaza Set to Hold First Local Election in Two Decades - The New York Times",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0lkNk5ybmE1dmJsVzlsSnlrUHplWXV5QklDQlVPYlF0cXZZajZyRmE1WXNFLTQ3Z0hvTzNuRnI0MDZ3TVFUaEplVUU5blZJVUczaXhyMGlhdXNrRkNMMU41ZEZQa21kY0QtMlJuakllUFl3S3p1MmxqcUtZXzRqT3dqRXB4V3BPaFg1TFBR?oc=5",
+      "published_date": "2026-04-24T09:12:53+00:00"
+    },
+    {
+      "title": "French presidential election to be decisive for future of all of Europe, says Klimkin",
+      "source": "Ukrinform",
+      "country": "France",
+      "url": "https://www.ukrinform.net/rubric-polytics/4116103-french-presidential-election-to-be-decisive-for-future-of-all-of-europe-says-klimkin.html",
+      "published_date": "2026-04-24T08:53:00+00:00"
+    },
+    {
+      "title": "NMA: Lagos faction condemns Abuja meeting amid national leadership crisis",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/health/health-news/874341-nma-lagos-faction-condemns-abuja-meeting-amid-national-leadership-crisis.html",
+      "published_date": "2026-04-24T07:36:14+00:00"
+    },
+    {
+      "title": "36 serving military officers to be arraigned for coup plot against President Tinubu",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/874334-36-serving-military-officers-to-be-arraigned-for-coup-plot-against-president-tinubu.html",
+      "published_date": "2026-04-24T07:10:55+00:00"
+    },
+    {
+      "title": "Javier Milei said that he will accompany Manuel Adorni in Congress and confirmed that he will seek re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-dio-detalles-de-su-reunion-con-el-magnate-tecnologico-peter-thiel-fue-una-reunion-nid23042026/",
+      "published_date": "2026-04-24T06:44:26+00:00"
+    },
+    {
+      "title": "Steinmeier successor: Söder supports CSU politician Aigner as possible Federal President",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/markus-soeder-unterstuetzt-csu-politikerin-aigner-als-moegliche-bundespraesidentin-accg-200763390.html",
+      "published_date": "2026-04-24T02:09:44+00:00"
+    },
+    {
       "title": "Fubara rallies monarchs for Tinubu’s re-election, cites reform continuity",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
@@ -67,11 +165,11 @@
       "published_date": "2026-04-24T00:33:28+00:00"
     },
     {
-      "title": "Javier Milei said that he will accompany Adorni in Congress and confirmed that he will seek re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-dio-detalles-de-su-reunion-con-el-magnate-tecnologico-peter-thiel-fue-una-reunion-nid23042026/",
-      "published_date": "2026-04-23T22:36:55+00:00"
+      "title": "Appointment of Boric's former minister in San Antonio Hospital sparks rebellion and opens a flank for the Minsal",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/designacion-de-exministra-de-boric-en-hospital-de-san-antonio-desata-rebelion-y-abre-flanco-para-el-minsal/",
+      "published_date": "2026-04-24T00:16:25+00:00"
     },
     {
       "title": "Bernie Moreno, a US senator of Colombian origin, would be one of the US observers in the presidential elections on May 31",
@@ -120,6 +218,13 @@
       "source": "Euronews",
       "country": "Iran",
       "url": "http://www.euronews.com/my-europe/2026/04/23/irans-exiled-crown-prince-reza-pahlavi-splattered-with-red-liquid-in-berlin",
+      "published_date": "2026-04-23T13:39:44+00:00"
+    },
+    {
+      "title": "Iran's exiled crown prince Reza Pahlavi splattered with red liquid in Berlin - Euronews.com",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcEJERWpTQVhZVl9lZVlFUE1BVkhRZS1hSmJBcnpFOHp2SWV1cTZ5di1VejlvTXY5TXpHTy1ZM1ZxdC1BbmdXNnRwdlFzbFBfOEo1Tk1TemZYWjFaN1VENUlzRzlqVXpPQ0t3ckR6TURqQmxNUUt2M0NUejRlaTB0VG45cXI0SGxjX2JRaVUxdDlOd29ra3FMUElQNHNfRWN4SjZpMTMzRDJFaWJocGQ2Vm8zTlc4eGtXRjk2dUp3?oc=5",
       "published_date": "2026-04-23T13:39:44+00:00"
     },
     {
@@ -2851,209 +2956,6 @@
       "country": "Taiwan",
       "url": "https://www.faz.net/aktuell/politik/ausland/taiwan-und-china-cheng-li-wun-trifft-xi-jinping-accg-200718615.html",
       "published_date": "2026-04-10T12:34:22+00:00"
-    },
-    {
-      "title": "LDP's new vision says constitutional revision 'critically needed'",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/04/10/japan/politics/ldp-constitution-revision/",
-      "published_date": "2026-04-10T11:49:00+00:00"
-    },
-    {
-      "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
-      "source": "NPR World",
-      "country": "Taiwan",
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition",
-      "published_date": "2026-04-10T11:29:04+00:00"
-    },
-    {
-      "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
-      "source": "Dawn Pakistan",
-      "country": "Taiwan",
-      "url": "https://www.dawn.com/news/1990508/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader",
-      "published_date": "2026-04-10T11:26:25+00:00"
-    },
-    {
-      "title": "Xi Jinping receives Taiwan's opposition leader in Beijing in an unprecedented meeting in ten years",
-      "source": "La Tercera Chile",
-      "country": "Taiwan",
-      "url": "https://www.latercera.com/mundo/noticia/xi-jinping-recibe-en-beijing-a-la-lider-de-la-oposicion-de-taiwan-en-un-encuentro-sin-precedentes-en-diez-anos/",
-      "published_date": "2026-04-10T11:15:08+00:00"
-    },
-    {
-      "title": "Chinese firms in Hungary face a post-election reckoning – no matter who wins",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/economy/china-economy/article/3349649/chinese-firms-hungary-face-post-election-reckoning-no-matter-who-wins?utm_source=rss_feed",
-      "published_date": "2026-04-10T11:00:08+00:00"
-    },
-    {
-      "title": "Kremlin sources say Russia is no longer ruling out defeat for Orban’s party in Hungary elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/10/kremlin-sources-say-russia-is-no-longer-ruling-out-defeat-for-orban-s-party-in-hungary-elections",
-      "published_date": "2026-04-10T10:59:52+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
-      "source": "Al Jazeera English",
-      "country": "Taiwan",
-      "url": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss",
-      "published_date": "2026-04-10T10:39:17+00:00"
-    },
-    {
-      "title": "Parliamentary elections in Hungary: Russia is banking on Viktor Orban",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20260410-%C3%A9lections-l%C3%A9gislatives-en-hongrie-la-russie-mise-sur-viktor-orban",
-      "published_date": "2026-04-10T10:06:18+00:00"
-    },
-    {
-      "title": "Xi Jinping meets Taiwanese opposition leader in Beijing and touts a “common future”",
-      "source": "France 24 FR",
-      "country": "China",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260410-xi-jinping-rencontre-a-pekin-la-cheffe-de-l-opposition-ta%C3%AFwanaise-et-vante-un-avenir-commun",
-      "published_date": "2026-04-10T09:20:02+00:00"
-    },
-    {
-      "title": "China's Xi hosts Taiwan opposition leader in Beijing",
-      "source": "Deutsche Welle English",
-      "country": "Taiwan",
-      "url": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-10T08:58:00+00:00"
-    },
-    {
-      "title": "Hungary's ruling party accuses Ukraine of sabotage as it readies for crucial election",
-      "source": "NPR World",
-      "country": "Ukraine",
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5776589/hungarys-ruling-party-accuses-ukraine-of-sabotage-as-it-readies-for-crucial-election",
-      "published_date": "2026-04-10T08:44:30+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
-      "source": "BBC World",
-      "country": "Taiwan",
-      "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T07:55:55+00:00"
-    },
-    {
-      "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
-      "source": "Al Jazeera English",
-      "country": "Myanmar",
-      "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss",
-      "published_date": "2026-04-10T07:36:09+00:00"
-    },
-    {
-      "title": "Cheng hopeful to invite Xi Jinping to Taiwan if the KMT wins 2028 election – as it happened",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3349617/taiwans-opposition-leader-cheng-li-wun-speaks-after-historic-meeting-xi-jinping?utm_source=rss_feed",
-      "published_date": "2026-04-10T06:22:29+00:00"
-    },
-    {
-      "title": "Cuban President Miguel Díaz-Canel tells NBC News that he will not step down",
-      "source": "NPR World",
-      "country": "Cuba",
-      "url": "https://www.npr.org/2026/04/10/g-s1-116990/cuban-president-miguel-diaz-canel-tells-nbc-news-that-he-will-not-step-down",
-      "published_date": "2026-04-10T05:59:47+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 Live Updates: Amit Shah unveils BJP’s ‘Sankalp Patra’ for Bengal, promises aid for women, farmers",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-record-turnout-in-assam-polls-lifts-stakes-focus-shifts-to-tamil-nadu-bengal-campaigns-10628860/",
-      "published_date": "2026-04-10T05:55:10+00:00"
-    },
-    {
-      "title": "Díaz-Canel rules out resigning from the presidency and remembers that the leaders of Cuba “are not elected” by the US.",
-      "source": "La Tercera Chile",
-      "country": "Cuba",
-      "url": "https://www.latercera.com/mundo/noticia/diaz-canel-descarta-renunciar-a-la-presidencia-y-recuerda-que-a-los-dirigentes-de-cuba-no-los-elige-eeuu/",
-      "published_date": "2026-04-10T05:50:57+00:00"
-    },
-    {
-      "title": "Iran’s Supreme Leader declares victory over US, Israel; announces ‘new phase’ in Strait of Hormuz management",
-      "source": "Indian Express",
-      "country": "Israel",
-      "url": "https://indianexpress.com/article/world/iran-supreme-leader-victory-united-states-israel-strait-of-hormuz-phase-10628982/",
-      "published_date": "2026-04-10T05:49:57+00:00"
-    },
-    {
-      "title": "Burma: junta leader installed as president",
-      "source": "Le Figaro France",
-      "country": "Myanmar",
-      "url": "https://www.lefigaro.fr/international/birmanie-le-chef-de-la-junte-s-installe-comme-president-20260410",
-      "published_date": "2026-04-10T05:42:58+00:00"
-    },
-    {
-      "title": "Xi tells Taiwan opposition leader he has ‘full confidence’ in two sides uniting",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/news/2026/04/10/asia-pacific/politics/china-taiwan-kuomintang-xi-cheng/",
-      "published_date": "2026-04-10T05:34:00+00:00"
-    },
-    {
-      "title": "Venezuela: the architecture of a controlled election",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/venezuela-la-arquitectura-de-una-eleccion-controlada/",
-      "published_date": "2026-04-10T05:16:00+00:00"
-    },
-    {
-      "title": "Xi tells Taiwan opposition leader people on both sides of strait are Chinese in rare meeting",
-      "source": "The Guardian World",
-      "country": "Taiwan",
-      "url": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing",
-      "published_date": "2026-04-10T05:06:30+00:00"
-    },
-    {
-      "title": "Myanmar junta leader sworn in as self-appointed president",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-sworn-in-as-self-appointed-president/",
-      "published_date": "2026-04-10T04:42:17+00:00"
-    },
-    {
-      "title": "Myanmar junta chief sworn in as president",
-      "source": "The Punch Nigeria",
-      "country": "Myanmar",
-      "url": "https://punchng.com/myanmar-junta-chief-sworn-in-as-president/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-10T04:42:01+00:00"
-    },
-    {
-      "title": "Election 2026 highlights: Amit Shah releases BJP's manifesto for Bengal ahead of elections starting April 23",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-updates-west-bengal-tamil-nadu-mamata-banerjee-amit-shah-kerala-assam-puducherry-101775792310918.html",
-      "published_date": "2026-04-10T04:04:20+00:00"
-    },
-    {
-      "title": "Pakistani women drive a fifth of Senate agenda: Free and Fair Election Network",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/1990376/pakistani-women-drive-a-fifth-of-senate-agenda-free-and-fair-election-network",
-      "published_date": "2026-04-10T03:15:50+00:00"
-    },
-    {
-      "title": "Xi Jinping tells Taiwan opposition leader Cheng Li-wun ‘we need peace’",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3349597/xi-jinping-meets-taiwan-opposition-leader-cheng-li-wun-beijing?utm_source=rss_feed",
-      "published_date": "2026-04-10T03:03:54+00:00"
-    },
-    {
-      "title": "Díaz-Canel does not accept US demands such as releasing political prisoners or allowing elections",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-10-u1-e135253-s27061-nid325508-diaz-canel-acepta-demandas-ee-uu-liberar-presos",
-      "published_date": "2026-04-10T02:58:36+00:00"
-    },
-    {
-      "title": "Iran's supreme leader assures that he “does not seek war,” but warns that “he will not give up his rights”",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/el-lider-supremo-de-iran-asegura-que-no-busca-la-guerra-pero-advierte-que-no-renunciara-a-sus-derechos/",
-      "published_date": "2026-04-10T00:56:51+00:00"
     }
   ]
 }
