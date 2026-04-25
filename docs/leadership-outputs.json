@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-25T11:42:02.110756+00:00",
-    "story_count": 430,
+    "last_updated": "2026-04-25T23:36:38.480996+00:00",
+    "story_count": 435,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,153 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "A bomb attack leaves 14 dead and exposes the escalation of violence in the run-up to elections in Colombia",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/un-ataque-bomba-deja-siete-muertos-y-expone-la-escalada-de-violencia-en-la-antesala-electoral-en-nid25042026/",
+      "published_date": "2026-04-25T23:19:50+00:00"
+    },
+    {
+      "title": "Venezuelan airline RUTACA inaugurates direct flight between Valencia and Santiago de Cuba",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-26-u1-e199894-s27061-nid327186-aerolinea-venezolana-rutaca-inaugura-vuelo-directo",
+      "published_date": "2026-04-25T22:28:50+00:00"
+    },
+    {
+      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
+      "source": "Deutsche Welle English",
+      "country": "Palestine",
+      "url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-04-25T22:28:00+00:00"
+    },
+    {
+      "title": "Palestine votes in the first elections since the start of the war in Gaza",
+      "source": "La Nacion Argentina",
+      "country": "Palestine",
+      "url": "https://www.lanacion.com.ar/el-mundo/palestina-vota-en-las-primeras-elecciones-desde-el-inicio-de-la-guerra-en-gaza-nid25042026/",
+      "published_date": "2026-04-25T19:30:05+00:00"
+    },
+    {
+      "title": "T.N. Assembly elections: Over 50 lakh more voters exercise their franchise this time compared to 2024 Lok Sabha polls",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+      "published_date": "2026-04-25T18:53:09+00:00"
+    },
+    {
+      "title": "Palestinians vote in first elections since war, amid ongoing Israeli attacks",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-vote-first-elections-war-amid-ongoing-israeli-attacks",
+      "published_date": "2026-04-25T18:39:10+00:00"
+    },
+    {
+      "title": "Municipal elections in the occupied West Bank and central Gaza",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-elections-municipales-en-cisjordanie-occup%C3%A9e-et-dans-le-centre-de-gaza",
+      "published_date": "2026-04-25T17:56:12+00:00"
+    },
+    {
+      "title": "2027 Election: Opposition parties agree to field one candidate against Tinubu",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/874715-2027-election-opposition-parties-agree-to-field-one-candidate-against-tinubu.html",
+      "published_date": "2026-04-25T17:41:40+00:00"
+    },
+    {
+      "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
+      "published_date": "2026-04-25T17:25:09+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 highlights: Amit Shah says BJP will win 110 seats in first phase of polling, promises CAA in Bengal",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-25-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70904339.ece",
+      "published_date": "2026-04-25T17:13:31+00:00"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source": "BBC World",
+      "country": "Palestine",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T17:01:55+00:00"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections - BBC",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZ19ueDJwRVZIMzBPSEJpSmVNNi1PSTNmdjkwVjlzZlBwVEw5Y3Z5NFZtak1vbS1XSnA5SGZxSk1MNEtpUFhYTlBqMFhDcGxYTjR2V2czQnNZQQ?oc=5",
+      "published_date": "2026-04-25T17:01:55+00:00"
+    },
+    {
+      "title": "Palestinians vote in West Bank and central Gaza municipal elections, the first since war started",
+      "source": "Euronews",
+      "country": "Palestine",
+      "url": "http://www.euronews.com/2026/04/25/palestinians-vote-in-west-bank-and-central-gaza-municipal-elections-the-first-since-war-st",
+      "published_date": "2026-04-25T16:56:44+00:00"
+    },
+    {
+      "title": "Festive mood in West Bank as local elections underway",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/festive-mood-in-west-bank-as-local-elections-underway",
+      "published_date": "2026-04-25T15:36:12+00:00"
+    },
+    {
+      "title": "Low voter turnout in Gaza as West Bank holds local elections",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/low-voter-turnout-in-gaza-as-west-bank-holds-local-elections",
+      "published_date": "2026-04-25T14:46:57+00:00"
+    },
+    {
+      "title": "Elections in Palestine: low participation is recorded in the first hours of the process",
+      "source": "El Nacional Venezuela",
+      "country": "Palestine",
+      "url": "https://www.elnacional.com/2026/04/elecciones-en-palestina-en-primeras-horas-del-proceso-se-registra-baja-participacion/",
+      "published_date": "2026-04-25T14:39:02+00:00"
+    },
+    {
+      "title": "Elections in the West Bank and Gaza: Palestinians vote to choose their mayors and municipal councilors",
+      "source": "Le Monde France",
+      "country": "Palestine",
+      "url": "https://www.lemonde.fr/international/article/2026/04/25/elections-en-cisjordanie-et-a-gaza-les-palestiniens-votent-pour-designer-leurs-maires-et-conseillers-municipaux_6683262_3210.html",
+      "published_date": "2026-04-25T14:27:22+00:00"
+    },
+    {
+      "title": "Municipal elections in the West Bank and Gaza: polling stations have opened",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-municipales-en-cisjordanie-et-%C3%A0-gaza-les-bureaux-de-vote-ont-ouvert",
+      "published_date": "2026-04-25T13:39:49+00:00"
+    },
+    {
+      "title": "Elections in West Bank provide 'credibility to Palestinian sovereignty', expert says",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/elections-in-west-bank-provide-credibility-to-palestinian-sovereignty-expert-says",
+      "published_date": "2026-04-25T12:47:29+00:00"
+    },
+    {
+      "title": "Palestinian local elections give some Gazans first chance to vote in years",
+      "source": "Japan Times",
+      "country": "Palestine",
+      "url": "https://www.japantimes.co.jp/news/2026/04/25/world/politics/palestinian-elections/",
+      "published_date": "2026-04-25T11:45:00+00:00"
+    },
+    {
+      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion",
+      "published_date": "2026-04-25T11:38:05+00:00"
+    },
     {
       "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
       "source": "The Guardian World",
@@ -81,25 +228,11 @@
       "published_date": "2026-04-25T10:57:37+00:00"
     },
     {
-      "title": "Assembly Elections 2026 LIVE: Every Indian has stake in Bengal polls as infiltrators spilling over to other States, says Himanta",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-25-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70904339.ece",
-      "published_date": "2026-04-25T10:57:09+00:00"
-    },
-    {
       "title": "Municipal elections in Gaza and the occupied West Bank: a tense vote",
       "source": "France 24 FR",
       "country": "Palestine",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-elections-municipales-%C3%A0-gaza-et-en-cisjordanie-occup%C3%A9e-un-scrutin-sous-tension",
       "published_date": "2026-04-25T10:56:38+00:00"
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "source": "BBC World",
-      "country": "Palestine",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T10:52:27+00:00"
     },
     {
       "title": "AAP to write to Rajya Sabha chairman for defected MPs’ disqualification",
@@ -158,13 +291,6 @@
       "published_date": "2026-04-25T09:24:56+00:00"
     },
     {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections - BBC",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZ19ueDJwRVZIMzBPSEJpSmVNNi1PSTNmdjkwVjlzZlBwVEw5Y3Z5NFZtak1vbS1XSnA5SGZxSk1MNEtpUFhYTlBqMFhDcGxYTjR2V2czQnNZQQ?oc=5",
-      "published_date": "2026-04-25T08:53:15+00:00"
-    },
-    {
       "title": "Palestinians vote in first elections since Israel's invasion of Gaza",
       "source": "Dawn Pakistan",
       "country": "Israel",
@@ -179,7 +305,7 @@
       "published_date": "2026-04-25T08:37:39+00:00"
     },
     {
-      "title": "Elections 2026 live updates: PM Selling off country, says Rahul Gandhi in Bengal's Hooghly",
+      "title": "Elections 2026 highlights: Modi's cabinet, 19 CMs campaigning in Bengal, Mamata says 'BJP still won’t win'",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/west-bengal-elections-tamil-nadu-assembly-election-2026-live-updates-voting-percentage-phase-2-poll-eci-result-date-101777101980406.html",
@@ -198,13 +324,6 @@
       "country": "Palestine",
       "url": "https://www.lemonde.fr/international/article/2026/04/25/en-cisjordanie-des-elections-municipales-prises-en-etau-entre-l-autorite-palestinienne-et-l-occupation-israelienne_6683229_3210.html",
       "published_date": "2026-04-25T07:16:45+00:00"
-    },
-    {
-      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
-      "source": "Deutsche Welle English",
-      "country": "Palestine",
-      "url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-25T06:36:00+00:00"
     },
     {
       "title": "Elections without sovereignty: What Palestine’s local vote represents",
@@ -2984,90 +3103,6 @@
       "country": "Iran",
       "url": "https://www.japantimes.co.jp/news/2026/04/12/world/politics/iran-new-leader-severe-disfiguring-wounds/",
       "published_date": "2026-04-12T01:02:00+00:00"
-    },
-    {
-      "title": "Tinubu inaugurates 60-megawatt gas turbine plants in Bayelsa",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/871060-tinubu-inaugurates-60-megawatt-gas-turbine-plants-in-bayelsa.html",
-      "published_date": "2026-04-11T22:03:42+00:00"
-    },
-    {
-      "title": "Ceasefire in the Middle East, Israeli strikes on Lebanon, elections under tension in Hungary",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260411-cessez-le-feu-au-moyen-orient-frappes-isra%C3%A9liennes-sur-le-liban-%C3%A9lections-sous-tension-en-hongrie",
-      "published_date": "2026-04-11T19:41:58+00:00"
-    },
-    {
-      "title": "Tamil Nadu Assembly polls 2026: Election Commission of India fine-tunes its strategy to fit in the ground reality",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/election-commission-of-india-fine-tunes-its-strategy-to-fit-in-the-ground-reality/article70839333.ece",
-      "published_date": "2026-04-11T19:28:29+00:00"
-    },
-    {
-      "title": "Ukraine warns of Russian plot to stage pre-election unrest in Budapest - TVP World",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTlfbS0xNFphZ3VnYU4tdkJBdllZa0tTWGhTSjlka0d5V3dRdlF0ZUZuTldhTy1qQlNKbkFXdGx0UjlCOU01elV0WkZWalBQZHZpdDRCMklsYVVSYm9TYmVjdFJiMTR5U1NlM3BQTG8wZmZnSUZ4NU5SMGJaN0RaM3hPTFpXYmZQTzc0alIybnZybUZvVGRoNF9n?oc=5",
-      "published_date": "2026-04-11T19:08:37+00:00"
-    },
-    {
-      "title": "In Vadodara, a BJP pick’s name goes ‘missing’; rebellion after Congress surprise",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/vadodara-local-body-polls-bjp-candidate-voter-list-missing-congress-rebellion-10631608/",
-      "published_date": "2026-04-11T16:24:05+00:00"
-    },
-    {
-      "title": "Peru holds presidential election amid a decade of political tumult - Al Jazeera",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdm1hNVp6My1tdDNZQTRQMzFtRHRfRnQydUhxVjVUUDhBXzBiRnlsdnRKbzVtc3NOMGJTeHFubkVrdWlKdmdlaFlZRnlVeE1aRlBIWFAyWVNhdjM1OGRkTm5ZT19qeVZnWnZfc09ubGxqSnYzUXR6bWhRdXJVbHR0UGp2Q1F6T0NzOTFpOWxtVEltNDRIeTEtZ2RzcGNoUkd1QWNsRFhDNm9pX1gtNTR1QU5NTVdUbDjSAbwBQVVfeXFMUEpwdWlUNUZxQ2N0bDRFUGpUaDVqX3prSzFBZFV6NjBtR0JaN0tXYnJWX09IWk9OWFFmX0hLMll2RUJfWGpyQzkydkdYMGROcDBRakFPM0pYVTk0alIxS2Z3X3hWYW4wREJ4SkxSVS0taWZfQmV5ZVpvbTNQa1pBZDF2ZFVJZVZ2VG9uUDVUalJldmNaTmd3WWRacld6Z0hBTXEzMWZVd1c5YUZyR2RrcENHOVlDUDJRZzBVN1M?oc=5",
-      "published_date": "2026-04-11T15:25:49+00:00"
-    },
-    {
-      "title": "Peru holds presidential election amid a decade of political tumult",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
-      "published_date": "2026-04-11T15:22:21+00:00"
-    },
-    {
-      "title": "Fish and vegetarianism major flashpoints in India’s West Bengal election",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3349759/fish-and-vegetarianism-major-flashpoints-indias-west-bengal-election?utm_source=rss_feed",
-      "published_date": "2026-04-11T14:55:41+00:00"
-    },
-    {
-      "title": "Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit",
-      "source": "Sky News World",
-      "country": "Israel",
-      "url": "https://news.sky.com/story/i-was-so-scared-teenage-girl-whose-snapchat-video-captured-chaos-in-beirut-as-israeli-strikes-hit-13530533",
-      "published_date": "2026-04-11T14:27:00+00:00"
-    },
-    {
-      "title": "Peruvian presidential candidate Keiko Fujimori vows to expel migrants",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/peruvian-presidential-candidate-keiko-fujimori-vows-to-expel-migrants",
-      "published_date": "2026-04-11T13:53:03+00:00"
-    },
-    {
-      "title": "Global delegates praise India’s election process after multi-state visits: ‘True festival of democracy’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/global-delegates-praise-india-s-election-process-after-multi-state-visits-true-festival-of-democracy-101775907151363.html",
-      "published_date": "2026-04-11T12:11:43+00:00"
-    },
-    {
-      "title": "Peru: the favorites of a presidential election supposed to bring the country out of instability",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260411-p%C3%A9rou-les-favoris-d-une-pr%C3%A9sidentielle-cens%C3%A9e-sortir-le-pays-de-l-instabilit%C3%A9",
-      "published_date": "2026-04-11T11:38:29+00:00"
     }
   ]
 }
