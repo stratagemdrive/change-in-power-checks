@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-26T11:43:38.226916+00:00",
-    "story_count": 430,
+    "last_updated": "2026-04-26T23:38:40.912675+00:00",
+    "story_count": 423,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,132 @@
   },
   "stories": [
     {
+      "title": "Cuban federal fugitive captured in Hialeah after two escape attempts faces new criminal charge",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-27-u1-e199854-s27061-nid327290-fugitivo-federal-cubano-capturado-hialeah-tras-dos",
+      "published_date": "2026-04-26T23:05:34+00:00"
+    },
+    {
+      "title": "Two of Netanyahu's rivals are teaming up ahead of the Israeli general election",
+      "source": "DR News Denmark",
+      "country": "Israel",
+      "url": "https://www.dr.dk/nyheder/seneste/af-netanyahus-rivaler-gaar-sammen-forud-det-israelske-parlamentsvalg",
+      "published_date": "2026-04-26T22:44:00+00:00"
+    },
+    {
+      "title": "In Mali, the junta more weakened than ever while the attackers negotiate with Russian forces",
+      "source": "Le Monde France",
+      "country": "Russia",
+      "url": "https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html",
+      "published_date": "2026-04-26T22:06:48+00:00"
+    },
+    {
+      "title": "Russia’s Africa Corps describes Mali attacks as coup attempt, blames West",
+      "source": "Premium Times Nigeria",
+      "country": "Russia",
+      "url": "https://www.premiumtimesng.com/news/headlines/875061-russias-africa-corps-describes-mali-attacks-as-coup-attempt-blames-west.html",
+      "published_date": "2026-04-26T21:04:59+00:00"
+    },
+    {
+      "title": "Technical tie in Peru: Fujimori would tie with Sánchez in the runoff and tension grows over the recount",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/empate-tecnico-en-peru-fujimori-igualaria-con-sanchez-en-el-balotaje-y-crece-la-tension-por-el-nid26042026/",
+      "published_date": "2026-04-26T21:01:31+00:00"
+    },
+    {
+      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-04-26T20:15:29+00:00"
+    },
+    {
+      "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+      "published_date": "2026-04-26T20:05:50+00:00"
+    },
+    {
+      "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWdYWUtTUVoyMUFUN1E0d3dqS3hVTk9CNkI3bjA5UUtDU2JIdm9xQWd4dWZwS2RvMklZNWJqNXFfMVg2bkRPandGa0ZxaFF5aEdQdnliVmM5Tl9HY1A4b3AwMERiTEgtaUVocGMyOGYxUC0tZzRvaGxKa2RUT1lXZWZiOTI2VHk4bjRxN0JTTmQ?oc=5",
+      "published_date": "2026-04-26T19:34:02+00:00"
+    },
+    {
+      "title": "Fatah leading in West Bank municipal elections",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fatah-leading-west-bank-municipal-elections",
+      "published_date": "2026-04-26T19:28:39+00:00"
+    },
+    {
+      "title": "We’re backing only Tinubu’s re-election, not APC aspirants — APGA chieftain",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/were-backing-only-tinubus-re-election-not-apc-aspirants-apga-chieftain/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-26T19:26:09+00:00"
+    },
+    {
+      "title": "In the West Bank, Fatah came first in municipal elections in several cities",
+      "source": "Le Monde France",
+      "country": "Palestine",
+      "url": "https://www.lemonde.fr/international/article/2026/04/26/en-cisjordanie-le-fatah-est-arrive-en-tete-des-elections-municipales-dans-plusieurs-villes_6683487_3210.html",
+      "published_date": "2026-04-26T18:32:34+00:00"
+    },
+    {
+      "title": "Netanyahu's biggest rivals join forces for Israel's next election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-biggest-rivals-join-forces-israels-next-election",
+      "published_date": "2026-04-26T17:33:31+00:00"
+    },
+    {
+      "title": "Palestinian territories: Abbas camp wins local elections",
+      "source": "FAZ Germany",
+      "country": "Palestine",
+      "url": "https://www.faz.net/aktuell/politik/ausland/palaestinensergebiete-abbas-lager-gewinnt-kommunalwahl-200770729.html",
+      "published_date": "2026-04-26T17:32:48+00:00"
+    },
+    {
+      "title": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
+      "published_date": "2026-04-26T16:50:27+00:00"
+    },
+    {
+      "title": "West Bengal assembly election: Modi alleges women suffered most during TMC rule",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-assembly-election-modi-alleges-women-suffered-most-during-tmc-rule-101777220134205.html",
+      "published_date": "2026-04-26T16:15:33+00:00"
+    },
+    {
+      "title": "Former PMs Bennett, Lapid hold press conference, launch unified party for Knesset elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894194",
+      "published_date": "2026-04-26T16:10:06+00:00"
+    },
+    {
+      "title": "PT softens proposals in manifesto to try to attract support from the center for Lula’s re-election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/pt-suaviza-propostas-em-manifesto-para-tentar-atrair-apoio-do-centro-a-reeleicao-de-lula.shtml",
+      "published_date": "2026-04-26T15:44:00+00:00"
+    },
+    {
+      "title": "Palestinian leader's loyalists win local elections, including some seats in Gaza - Reuters",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFdQM1pkWHMxYnVVUmtTODJaaVR6bnNtRWdQZjBHNzhyX0h0Q2ItS1dTM3RydzdTdHhfU1VYZU9Vd2JQS3pxYlg0UmdsRl9RUTlqa0ExQTZ2OE1PR3l4TkFOY3ZJQzd3bUM4VWU3dzlSMWRQeDlvUjR3LU5SbllMcnRBalZIMXk3c19ZM2xDYVJ1SWIyZG5CVFpXOVVGX1BZT0JFTjk0bTRBbUdZVV96T2VLWEx3RVJzWmg1R2FPLTI?oc=5",
+      "published_date": "2026-04-26T13:57:02+00:00"
+    },
+    {
       "title": "Former Israeli ambassador to the UK appointed as head of PMO National Public Diplomacy Directorate",
       "source": "Jerusalem Post",
       "country": "Israel",
@@ -67,11 +193,18 @@
       "published_date": "2026-04-26T13:49:29+00:00"
     },
     {
+      "title": "Gaza holds first elections in 20 years amid stalled ceasefire process – but only in one city",
+      "source": "Egypt Independent",
+      "country": "Palestine",
+      "url": "https://www.egyptindependent.com/gaza-holds-first-elections-in-20-years-amid-stalled-ceasefire-process-but-only-in-one-city/",
+      "published_date": "2026-04-26T12:56:02+00:00"
+    },
+    {
       "title": "Reconciliation between gross and net salary, “simplification”… Jordan Bardella details the RN’s economic program for the 2027 presidential election",
       "source": "Le Figaro France",
       "country": "France",
       "url": "https://www.lefigaro.fr/conjoncture/rapprochement-entre-salaire-brut-et-net-simplification-jordan-bardella-detaille-le-programme-economique-du-rn-pour-la-presidentielle-2027-20260426",
-      "published_date": "2026-04-26T11:15:13+00:00"
+      "published_date": "2026-04-26T12:06:20+00:00"
     },
     {
       "title": "Fatah says it claimed ‘sweeping victory’ in local elections, despite democratic shortcomings",
@@ -93,6 +226,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
       "published_date": "2026-04-26T10:32:41+00:00"
+    },
+    {
+      "title": "‘He told me to consider resigning’: RS member Vikramjit Sahney on meeting with Kejriwal before 7 AAP MPs' big move",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/frustration-was-growing-rs-member-vikramjit-sahney-on-what-he-told-kejriwal-at-meet-before-7-aap-mps-big-move-101777194933935.html",
+      "published_date": "2026-04-26T10:06:48+00:00"
     },
     {
       "title": "Bayly's trial of the elections in Peru",
@@ -2879,195 +3019,6 @@
       "country": "Peru",
       "url": "https://www.elnacional.com/2026/04/keiko-fujimori-encabeza-los-sondeos-a-boca-de-urna-de-la-eleccion-presidencial-en-peru/",
       "published_date": "2026-04-13T00:39:54+00:00"
-    },
-    {
-      "title": "Right-wing candidate Rafael López Aliaga asked to capture the organizer of the Peruvian elections",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/candidato-de-ultraderecha-de-peru-pidio-capturar-a-organizador-de-las-elecciones/",
-      "published_date": "2026-04-12T23:26:17+00:00"
-    },
-    {
-      "title": "Bad Bunny left a strong message to Peru on election day: “Loving and respecting them more than ever”",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/bad-bunny-dejo-un-fuerte-mensaje-a-peru-en-el-dia-de-las-elecciones-amandolos-y-respetandolos-mas-nid12042026/",
-      "published_date": "2026-04-12T23:05:42+00:00"
-    },
-    {
-      "title": "Peruvian migrants in the US: live broadcast with the final results of the 2026 elections",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migrantes-peruanos-en-eeuu-transmision-en-vivo-con-los-resultados-finales-de-las-elecciones-2026-nid12042026/",
-      "published_date": "2026-04-12T22:48:57+00:00"
-    },
-    {
-      "title": "María Corina Machado assured that Venezuelans are ready for elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-aseguro-que-los-venezolanos-estan-listos-para-elecciones/",
-      "published_date": "2026-04-12T22:38:30+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: police and prosecutors enter the premises of the electoral body",
-      "source": "Le Figaro France",
-      "country": "Peru",
-      "url": "https://www.lefigaro.fr/international/presidentielle-au-perou-police-et-procureurs-penetrent-dans-les-locaux-de-l-organe-electoral-20260413",
-      "published_date": "2026-04-12T22:02:07+00:00"
-    },
-    {
-      "title": "Peru police and investigators visit election headquarters amid vote delays",
-      "source": "South China Morning Post",
-      "country": "Peru",
-      "url": "https://www.scmp.com/news/world/americas/article/3349823/peru-extends-voting-president-and-congress-amid-delays-polling-sites?utm_source=rss_feed",
-      "published_date": "2026-04-12T21:56:40+00:00"
-    },
-    {
-      "title": "France 3 IDF: a motion of no confidence targeting Ernotte-Cunci voted by 93%",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/medias/france-3-idf-une-motion-de-defiance-visant-ernotte-cunci-votee-a-93-20260412",
-      "published_date": "2026-04-12T21:36:30+00:00"
-    },
-    {
-      "title": "Peru extends the closure of polls in chaotic presidential elections with more than 30 candidates",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/peru-extiende-el-cierre-de-urnas-en-unas-caoticas-elecciones-presidenciales-con-mas-de-30-candidatos-nid12042026/",
-      "published_date": "2026-04-12T21:19:52+00:00"
-    },
-    {
-      "title": "How to vote in Argentina in the Peruvian elections on Sunday, April 12",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/como-votar-en-la-argentina-en-las-elecciones-de-peru-del-domingo-12-de-abril-nid10042026/",
-      "published_date": "2026-04-12T20:09:49+00:00"
-    },
-    {
-      "title": "What is known about the results of the Elections in Peru 2026",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-en-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T20:09:33+00:00"
-    },
-    {
-      "title": "Peru 2026 Elections: what is voted on, who are the candidates and how the electoral system works",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-peru-2026-que-se-vota-quienes-son-los-candidatos-y-como-funciona-el-sistema-electoral-nid11042026/",
-      "published_date": "2026-04-12T20:09:32+00:00"
-    },
-    {
-      "title": "Where to vote in Argentina for the Peru 2026 elections",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-argentina-para-las-elecciones-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T19:52:32+00:00"
-    },
-    {
-      "title": "Elections in Peru: who is authorized to vote in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-quienes-estan-habilitados-para-votar-en-la-argentina-nid11042026/",
-      "published_date": "2026-04-12T19:52:05+00:00"
-    },
-    {
-      "title": "Where do I vote in Buenos Aires for the Peru 2026 elections",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/donde-voto-en-buenos-aires-para-las-elecciones-peru-2026-nid12042026/",
-      "published_date": "2026-04-12T19:51:30+00:00"
-    },
-    {
-      "title": "Peru general elections: No clear frontrunner, runoff likely",
-      "source": "Deutsche Welle English",
-      "country": "Peru",
-      "url": "https://www.dw.com/en/peru-general-elections-no-clear-frontrunner-runoff-likely/a-76756162?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-12T19:05:00+00:00"
-    },
-    {
-      "title": "María Corina Machado assured that Venezuelans are ready for elections: \"We want to elect everyone\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-aseguro-que-los-venezolanos-estan-listos-para-elecciones-queremos-elegir-a-todo/",
-      "published_date": "2026-04-12T19:02:27+00:00"
-    },
-    {
-      "title": "Roman Gofman approved as new Mossad director, PMO confirms - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SVy1YdDRxYWxaWHo4b1A1Y3U3S25TczB1Z0JnNjFfNklNTUZzUVF0SVFEQkd0S0dlaHlBazlwRmtia284T09UblBKaXFjdEUtZDdwUzJNenJodEtn?oc=5",
-      "published_date": "2026-04-12T18:22:35+00:00"
-    },
-    {
-      "title": "President of Peru rules out “some type of fraud” after extension of voting hours in general elections",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/presidente-de-peru-descarta-algun-tipo-de-fraude-tras-prorroga-de-horario-para-votar-en-elecciones-generales/",
-      "published_date": "2026-04-12T18:16:53+00:00"
-    },
-    {
-      "title": "Jorge Rodríguez prioritizes the Venezuelan economy over the elections: \"It is necessary to move towards dynamism\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/jorge-rodriguez-prioriza-la-economia-venezolana-sobre-los-comicios-es-necesario-avanzar-hacia-un-dinamismo/",
-      "published_date": "2026-04-12T17:15:41+00:00"
-    },
-    {
-      "title": "Cuba’s president warns US against attacking island or trying to depose him",
-      "source": "South China Morning Post",
-      "country": "Cuba",
-      "url": "https://www.scmp.com/news/world/americas/article/3349817/cubas-president-warns-us-against-attacking-island-or-trying-depose-him?utm_source=rss_feed",
-      "published_date": "2026-04-12T16:47:00+00:00"
-    },
-    {
-      "title": "Keiko Fujimori begins election day with a visit to her father's grave in Lima",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-inicia-jornada-electoral-con-visita-a-la-tumba-de-su-padre-en-lima/",
-      "published_date": "2026-04-12T16:22:42+00:00"
-    },
-    {
-      "title": "One year before the presidential election, a deep desire for change among the French is expressed in a new electoral survey",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/12/a-un-an-de-la-presidentielle-un-profond-desir-de-changement-chez-les-electeurs_6679586_823448.html",
-      "published_date": "2026-04-12T15:00:01+00:00"
-    },
-    {
-      "title": "Exiled cartoonists give a voice to Iran's silenced millions",
-      "source": "RFI English",
-      "country": "Iran",
-      "url": "https://www.rfi.fr/en/international/20260412-exiled-cartoonists-give-voice-to-iran-s-silenced-millions",
-      "published_date": "2026-04-12T14:39:36+00:00"
-    },
-    {
-      "title": "Peru elections 2026: check the voting locations enabled in Chile this Sunday, April 12",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/servicios/noticia/elecciones-de-peru-2026-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-12-de-abril/",
-      "published_date": "2026-04-12T14:16:06+00:00"
-    },
-    {
-      "title": "China offers incentives to Taiwan following opposition leader’s visit",
-      "source": "Dawn Pakistan",
-      "country": "Taiwan",
-      "url": "https://www.dawn.com/news/1991085/china-offers-incentives-to-taiwan-following-opposition-leaders-visit",
-      "published_date": "2026-04-12T12:28:16+00:00"
-    },
-    {
-      "title": "Candidate Ricardo Belmont and Keiko Fujimori lead the final polls of the elections in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/candidato-ricardo-belmont-y-keiko-fujimori-lideran-los-sondeos-finales-de-las-elecciones-en-peru/",
-      "published_date": "2026-04-12T12:24:17+00:00"
-    },
-    {
-      "title": "Explained: The tumultuous history behind China’s Xi Jinping meeting Taiwan’s top opposition leader",
-      "source": "Indian Express",
-      "country": "Taiwan",
-      "url": "https://indianexpress.com/article/explained/explained-global/kmt-china-visit-taiwan-politics-ccp-relations-10632733/",
-      "published_date": "2026-04-12T12:11:20+00:00"
     }
   ]
 }
