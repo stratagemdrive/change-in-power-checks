@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-25T23:36:38.480996+00:00",
-    "story_count": 435,
+    "last_updated": "2026-04-26T11:43:38.226916+00:00",
+    "story_count": 430,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Former Israeli ambassador to the UK appointed as head of PMO National Public Diplomacy Directorate",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894172",
+      "published_date": "2026-04-26T13:49:29+00:00"
+    },
+    {
+      "title": "Reconciliation between gross and net salary, “simplification”… Jordan Bardella details the RN’s economic program for the 2027 presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/conjoncture/rapprochement-entre-salaire-brut-et-net-simplification-jordan-bardella-detaille-le-programme-economique-du-rn-pour-la-presidentielle-2027-20260426",
+      "published_date": "2026-04-26T11:15:13+00:00"
+    },
+    {
+      "title": "Fatah says it claimed ‘sweeping victory’ in local elections, despite democratic shortcomings",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-894145",
+      "published_date": "2026-04-26T11:00:28+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 LIVE: Trinamool's defeat is imminent, says PM Modi in West Bengal rally",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
+      "published_date": "2026-04-26T10:58:28+00:00"
+    },
+    {
+      "title": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted this time compared to 2024 Lok Sabha polls",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+      "published_date": "2026-04-26T10:32:41+00:00"
+    },
+    {
+      "title": "Bayly's trial of the elections in Peru",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/el-juicio-de-bayly-a-las-elecciones-en-peru/",
+      "published_date": "2026-04-26T10:00:00+00:00"
+    },
+    {
+      "title": "K Annamalai’s rise in BJP: Ex-IPS officer turned Tamil Nadu party chief after 2021 election debut",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/k-annamalai-s-rise-in-bjp-ex-ips-officer-turned-tamil-nadu-party-chief-after-election-debut-elections-2026-assembly-101776421938965.html",
+      "published_date": "2026-04-26T09:34:26+00:00"
+    },
+    {
+      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
+      "published_date": "2026-04-26T06:08:16+00:00"
+    },
+    {
+      "title": "14 people are reported killed in bomb attacks before elections in Colombia",
+      "source": "Politiken Denmark",
+      "country": "Colombia",
+      "url": "https://politiken.dk/internationalt/art10818118/14-personer-meldes-dr%C3%A6bt-i-bombeangreb-f%C3%B8r-valg-i-Colombia",
+      "published_date": "2026-04-26T05:39:56+00:00"
+    },
+    {
+      "title": "Before presidential election: At least 14 dead in bomb attack in Colombia",
+      "source": "FAZ Germany",
+      "country": "Colombia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kolumbien-mindestens-14-tote-bei-bombenanschlag-accg-200768973.html",
+      "published_date": "2026-04-26T02:29:25+00:00"
+    },
+    {
+      "title": "Bomb attack on Colombia highway kills 14 ahead of election",
+      "source": "Japan Times",
+      "country": "Colombia",
+      "url": "https://www.japantimes.co.jp/news/2026/04/26/world/bomb-colombia-election/",
+      "published_date": "2026-04-26T01:35:00+00:00"
+    },
+    {
+      "title": "Russian Duma chief visits Pyongyang ahead of Kursk memorial inauguration",
+      "source": "NK News",
+      "country": "Russia",
+      "url": "https://www.nknews.org/2026/04/russian-duma-chief-visits-pyongyang-ahead-of-kursk-memorial-inauguration/",
+      "published_date": "2026-04-26T01:22:42+00:00"
+    },
+    {
+      "title": "Amit Shah says BJP will win 110 seats in first phase, form government in West Bengal",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/amit-shah-says-bjp-will-win-110-seats-in-first-phase-form-government-in-west-bengal-101777166018647.html",
+      "published_date": "2026-04-26T01:18:27+00:00"
+    },
+    {
+      "title": "More than half a million Palestinians vote in municipal elections: the first elections in 20 years in the Gaza Strip",
+      "source": "La Tercera Chile",
+      "country": "Palestine",
+      "url": "https://www.latercera.com/mundo/noticia/mas-de-medio-millon-de-palestinos-vota-en-elecciones-municipales-los-primeros-comicios-en-20-anos-en-la-franja-de-gaza/",
+      "published_date": "2026-04-26T00:42:54+00:00"
+    },
     {
       "title": "A bomb attack leaves 14 dead and exposes the escalation of violence in the run-up to elections in Colombia",
       "source": "La Nacion Argentina",
@@ -86,13 +184,6 @@
       "country": "Palestine",
       "url": "https://www.lanacion.com.ar/el-mundo/palestina-vota-en-las-primeras-elecciones-desde-el-inicio-de-la-guerra-en-gaza-nid25042026/",
       "published_date": "2026-04-25T19:30:05+00:00"
-    },
-    {
-      "title": "T.N. Assembly elections: Over 50 lakh more voters exercise their franchise this time compared to 2024 Lok Sabha polls",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
-      "published_date": "2026-04-25T18:53:09+00:00"
     },
     {
       "title": "Palestinians vote in first elections since war, amid ongoing Israeli attacks",
@@ -2977,132 +3068,6 @@
       "country": "Taiwan",
       "url": "https://indianexpress.com/article/explained/explained-global/kmt-china-visit-taiwan-politics-ccp-relations-10632733/",
       "published_date": "2026-04-12T12:11:20+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 LIVE: 'Centre is working to develop the Siliguri Corridor,' says PM Modi from poll rally in Bengal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-elections-2026-west-bengal-assam-kerala-tamil-nadu-puducherry-april-12-2026-live-updates/article70853258.ece",
-      "published_date": "2026-04-12T11:24:30+00:00"
-    },
-    {
-      "title": "Peruvians experience the elections with confusion, uncertainty and fatigue towards politicians",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/los-peruanos-viven-las-elecciones-con-confusion-incertidumbre-y-hartazgo-hacia-politicos/",
-      "published_date": "2026-04-12T11:24:00+00:00"
-    },
-    {
-      "title": "China’s Xi touts peace – and points to global conflicts – in rare meeting with Taiwan opposition leader",
-      "source": "Egypt Independent",
-      "country": "Taiwan",
-      "url": "https://www.egyptindependent.com/chinas-xi-touts-peace-and-points-to-global-conflicts-in-rare-meeting-with-taiwan-opposition-leader/",
-      "published_date": "2026-04-12T10:31:51+00:00"
-    },
-    {
-      "title": "Hungarians vote in landmark election closely watched by EU, Russia, US",
-      "source": "Jerusalem Post",
-      "country": "Russia",
-      "url": "https://www.jpost.com/international/article-892664",
-      "published_date": "2026-04-12T10:03:14+00:00"
-    },
-    {
-      "title": "The tensions that mark the election of the next rector of the University of Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/las-tensiones-que-marcan-la-eleccion-del-proximo-rector-de-la-universidad-de-chile/",
-      "published_date": "2026-04-12T10:00:00+00:00"
-    },
-    {
-      "title": "Peru votes for new president Sunday",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/peru-votes-for-new-president-sunday",
-      "published_date": "2026-04-12T09:24:56+00:00"
-    },
-    {
-      "title": "China boosts ties with Taiwan after opposition leader visits",
-      "source": "Deutsche Welle English",
-      "country": "Taiwan",
-      "url": "https://www.dw.com/en/china-boosts-ties-with-taiwan-after-opposition-leader-visits/a-76752265?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-12T08:27:00+00:00"
-    },
-    {
-      "title": "Who is Nizar Amidi? Iraq’s new president in the fallout of US-Israel and Iran war",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/who-is-nizar-amidi-iraqs-new-president-in-the-fallout-of-us-israel-and-iran-war-10632292/",
-      "published_date": "2026-04-12T08:06:06+00:00"
-    },
-    {
-      "title": "China unveils measures to improve ties with Taiwan after visit by opposition leader",
-      "source": "Sky News World",
-      "country": "Taiwan",
-      "url": "https://news.sky.com/story/china-unveils-measures-to-improve-ties-with-taiwan-after-visit-by-opposition-leader-13530870",
-      "published_date": "2026-04-12T07:54:00+00:00"
-    },
-    {
-      "title": "Elections 2026 live updates: 'TVK is BJP’s B-team,’ says DMK candidate ahead of Tamil Nadu polls",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-puducherry-assam-kerala-news-tmc-mamata-dmk-bjp-congress-101775975507719.html",
-      "published_date": "2026-04-12T06:52:02+00:00"
-    },
-    {
-      "title": "Hungarians vote in landmark election closely watched by EU, Russia and U.S.",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/news/2026/04/12/world/politics/hungary-election-eu-russia-us/",
-      "published_date": "2026-04-12T06:39:00+00:00"
-    },
-    {
-      "title": "Peru prepares for general elections with a call for informed voting and strong security deployment",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/peru-se-prepara-para-elecciones-generales-con-llamado-a-votar-informado-y-fuerte-despliegue-de-seguridad/",
-      "published_date": "2026-04-12T06:22:26+00:00"
-    },
-    {
-      "title": "Kerala Assembly polls: International delegates get a feel of election process in India",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-international-delegates-get-a-feel-of-election-process-in-india/article70851170.ece",
-      "published_date": "2026-04-12T05:53:15+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 Live Updates: Modi accuses TMC of ‘blocking projects’, attacks Mamata in Siliguri",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-tmc-bjp-west-bengal-tamil-nadu-assam-kerala-10632022-10632041/",
-      "published_date": "2026-04-12T05:00:49+00:00"
-    },
-    {
-      "title": "China says to boost Taiwan exchanges as opposition leader ends visit",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/news/2026/04/12/asia-pacific/politics/china-taiwan-exchanges-opposition-leader/",
-      "published_date": "2026-04-12T04:47:00+00:00"
-    },
-    {
-      "title": "Iran’s new supreme leader Mojtaba Khamenei recovering from severe, disfiguring wounds: Report",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/iran-new-supreme-leader-mojtaba-khamenei-severe-disfiguring-wounds-report-10631960/",
-      "published_date": "2026-04-12T04:31:54+00:00"
-    },
-    {
-      "title": "How Hungary's knife-edge election could impact the US and Russia",
-      "source": "BBC World",
-      "country": "Russia",
-      "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T02:52:03+00:00"
-    },
-    {
-      "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/04/12/world/politics/iran-new-leader-severe-disfiguring-wounds/",
-      "published_date": "2026-04-12T01:02:00+00:00"
     }
   ]
 }
