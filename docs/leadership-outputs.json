@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-27T12:24:33.739115+00:00",
-    "story_count": 420,
+    "last_updated": "2026-04-27T23:50:41.055846+00:00",
+    "story_count": 410,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,109 @@
   },
   "stories": [
     {
+      "title": "El Jardinero, alleged new leader of the Jalisco New Generation Cartel, detained in Mexico",
+      "source": "El Nacional Venezuela",
+      "country": "Mexico",
+      "url": "https://www.elnacional.com/2026/04/detenido-en-mexico-el-jardinero-presunto-nuevo-lider-de-cartel-jalisco-nueva-generacion/",
+      "published_date": "2026-04-27T23:32:37+00:00"
+    },
+    {
+      "title": "Court martial over Nigeria coup plot to resume May 8",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/04/court-martial-over-nigeria-coup-plot-to-resume-may-8/",
+      "published_date": "2026-04-27T22:41:50+00:00"
+    },
+    {
+      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
+      "published_date": "2026-04-27T18:26:58+00:00"
+    },
+    {
+      "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
+      "published_date": "2026-04-27T17:23:09+00:00"
+    },
+    {
+      "title": "BJP set for huge victory in West Bengal elections: Nitin Nabin",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-set-for-huge-victory-in-west-bengal-elections-nitin-nabin/article70913026.ece",
+      "published_date": "2026-04-27T17:21:04+00:00"
+    },
+    {
+      "title": "Jnim-FLA alliance, weakened junta, departure of Russian mercenaries: what is happening in Mali?",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/afrique/20260427-mali-alliance-jnim-fla-junte-fragilisee-depart-mercenaires-russes-iafrica-corps-touareg-jihadistes",
+      "published_date": "2026-04-27T16:57:33+00:00"
+    },
+    {
+      "title": "Local elections in Palestine: Fatah does not win everywhere",
+      "source": "FAZ Germany",
+      "country": "Palestine",
+      "url": "https://www.faz.net/aktuell/politik/ausland/fatah-gewinnt-bei-kommunalwahlen-in-palaestina-nicht-ueberall-200773785.html",
+      "published_date": "2026-04-27T16:45:43+00:00"
+    },
+    {
+      "title": "In Gaza, Mahmoud Abbas's allies win historic municipal elections",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/moyen-orient/20260427-gaza-lalli%C3%A9s-de-mahmoud-abbas-remportent-elections-municipales-historiques-fatah-hamas",
+      "published_date": "2026-04-27T16:03:42+00:00"
+    },
+    {
+      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades",
+      "published_date": "2026-04-27T14:56:38+00:00"
+    },
+    {
+      "title": "UK PM Starmer faces vote on possible parliamentary probe over Mandelson",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3351611/uk-pm-starmer-faces-vote-possible-parliamentary-probe-over-mandelson?utm_source=rss_feed",
+      "published_date": "2026-04-27T14:41:24+00:00"
+    },
+    {
+      "title": "British MPs vote on whether to probe PM Starmer over Mandelson hire",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260427-british-mps-vote-on-whether-to-probe-pm-starmer-over-mandelson-hire",
+      "published_date": "2026-04-27T14:17:33+00:00"
+    },
+    {
+      "title": "Russia Summons German Ambassador Over CDU Lawmaker’s Meeting With Exiled Chechen Separatist Leader",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/04/27/russia-summons-german-ambassador-over-cdu-lawmakers-meeting-with-exiled-chechen-separatist-leader-a92612",
+      "published_date": "2026-04-27T12:44:04+00:00"
+    },
+    {
+      "title": "PM Modi invokes Lord Ram, Maa Kali in Bengal vote appeal; Amit Shah warns ‘Didi's goons'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-invokes-lord-ram-maa-kali-temple-visit-as-bengal-campaign-concludes-shah-issues-warning-to-didis-goons-101777291018926.html",
+      "published_date": "2026-04-27T12:33:12+00:00"
+    },
+    {
+      "title": "Elections in Colombia: Iván Cepeda leads the poll and is heading towards the second round",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/04/elecciones-en-colombia-ivan-cepeda-lidera-intencion-de-voto/",
+      "published_date": "2026-04-27T12:29:12+00:00"
+    },
+    {
       "title": "Court set to begin ex-President Yoon's insurrection appeals trial",
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260427/court-set-to-begin-ex-president-yoons-insurrection-appeals-trial?utm_source=rss",
       "published_date": "2026-04-27T12:22:03+00:00"
-    },
-    {
-      "title": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
-      "published_date": "2026-04-27T11:27:37+00:00"
     },
     {
       "title": "Chadha's anti-defection bill that could've stopped his AAP-BJP switch, wanted law against 'nefarious floor-crossing'",
@@ -151,7 +242,7 @@
       "published_date": "2026-04-27T05:09:03+00:00"
     },
     {
-      "title": "Election 2026 LIVE: In letter to Bengal voters, PM Modi cites his Ram Mandir vow, devotion for Maa Kali",
+      "title": "Election 2026 highlights: PM Modi cites devotion for Maa Kali in letter to Bengal voters, Mamata holds roadshow",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/elections-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-assembly-polls-prediction-analysis-results-date-time-101777260574493.html",
@@ -2837,167 +2928,6 @@
       "country": "Ukraine",
       "url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin",
       "published_date": "2026-04-14T01:10:02+00:00"
-    },
-    {
-      "title": "The Mohammed VI Tower finally inaugurated after a decade of tribulations",
-      "source": "Le Desk Morocco",
-      "country": "Morocco",
-      "url": "https://ledesk.ma/2026/04/14/la-tour-mohammed-vi-enfin-inauguree-apres-une-decennie-de-tribulations/",
-      "published_date": "2026-04-13T23:44:20+00:00"
-    },
-    {
-      "title": "US ICE detains Bolsonaro's former intelligence director convicted of coup",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/el-ice-de-eeuu-detiene-al-exdirector-de-la-inteligencia-de-bolsonaro-condenado-por-golpismo/",
-      "published_date": "2026-04-13T23:07:10+00:00"
-    },
-    {
-      "title": "Resilience or resignation?: The \"hand washing machine\" that is made in Cuba with a stick and a plastic knob",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-14-u1-e135253-s27061-nid325821-resiliencia-resignacion-lavadora-mano-hace-cuba-palo",
-      "published_date": "2026-04-13T22:19:13+00:00"
-    },
-    {
-      "title": "Politics Insider: By-elections expected to push Carney Liberals into majority territory",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-by-elections-expected-to-push-carney-liberals-into/",
-      "published_date": "2026-04-13T22:06:49+00:00"
-    },
-    {
-      "title": "They arrest an ONPE official who hired a company that delayed elections in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/detienen-a-funcionario-de-onpe-que-contrato-a-empresa-que-retraso-elecciones-en-peru/",
-      "published_date": "2026-04-13T21:05:25+00:00"
-    },
-    {
-      "title": "Results: who wins the 2026 Elections in Peru",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/resultado-en-peru-quien-va-ganando-las-elecciones-2026-para-presidente-nid12042026/",
-      "published_date": "2026-04-13T20:59:22+00:00"
-    },
-    {
-      "title": "After the opposition victory, they denounce that an Orban official destroys secret documents about his ties with Russia",
-      "source": "La Nacion Argentina",
-      "country": "Russia",
-      "url": "https://www.lanacion.com.ar/el-mundo/tras-la-victoria-opositora-denuncian-que-un-funcionario-de-orban-destruye-documentos-secretos-sobre-nid13042026/",
-      "published_date": "2026-04-13T20:50:32+00:00"
-    },
-    {
-      "title": "BJD nominates Manas Mangaraj as its new leader in Rajya Sabha",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/odisha/bjd-nominates-manas-mangaraj-as-its-new-leader-in-rajya-sabha/article70858363.ece",
-      "published_date": "2026-04-13T20:29:05+00:00"
-    },
-    {
-      "title": "Carney welcomes Magyar’s Hungarian election win that shifts stance on Ukraine, democracy",
-      "source": "Globe and Mail Politics",
-      "country": "Ukraine",
-      "url": "https://www.theglobeandmail.com/canada/article-carney-magyar-hungary-election-orban/",
-      "published_date": "2026-04-13T20:07:08+00:00"
-    },
-    {
-      "title": "Hungary turns page: New PM Magyar’s praise of Trump, openness to talks with Putin after Orban’s exit",
-      "source": "Indian Express",
-      "country": "Russia",
-      "url": "https://indianexpress.com/article/world/peter-magyar-victory-hungary-election-viktor-orban-putin-trump-comments-10634789/",
-      "published_date": "2026-04-13T19:08:15+00:00"
-    },
-    {
-      "title": "Resign as PM if you want to be BJP’s face in West Bengal, CM Mamata tells Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/19-states-centre-have-come-together-to-counter-me-i-am-fighting-alone-for-common-people-mamata/article70857725.ece",
-      "published_date": "2026-04-13T19:01:46+00:00"
-    },
-    {
-      "title": "T.N. Assembly elections: Reach out to voters at grassroots level, Modi tells BJP cadre",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-reach-out-to-voters-at-grassroots-level-modi-tells-bjp-cadre/article70857829.ece",
-      "published_date": "2026-04-13T17:28:29+00:00"
-    },
-    {
-      "title": "Election resumes in Peru for tens of thousands prevented from voting on Sunday",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/se-reanuda-la-eleccion-en-peru-para-decenas-de-miles-impedidos-de-votar-el-domingo/",
-      "published_date": "2026-04-13T16:20:13+00:00"
-    },
-    {
-      "title": "Peru election extended for second day after ballot delivery failure",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260413-peru-election-extended-second-day-after-ballot-delivery-failure",
-      "published_date": "2026-04-13T15:24:33+00:00"
-    },
-    {
-      "title": "New guarantee in Copenhagen: \"We know that it is important to get help as soon as possible if you have these birth defects\"",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/sundhed/art10802942/Ny-garanti-i-K%C3%B8benhavn-%C2%BBVi-ved-at-det-g%C3%A6lder-om-at-f%C3%A5-hj%C3%A6lp-s%C3%A5-hurtigt-som-muligt-hvis-man-har-de-her-f%C3%B8dselsskader%C2%AB",
-      "published_date": "2026-04-13T15:24:14+00:00"
-    },
-    {
-      "title": "Canadian PM Carney on verge of majority government amid special elections",
-      "source": "South China Morning Post",
-      "country": "Canada",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3349948/canadian-pm-carney-verge-majority-government-amid-special-elections?utm_source=rss_feed",
-      "published_date": "2026-04-13T14:24:18+00:00"
-    },
-    {
-      "title": "Washington Post editorial calls for elections in Venezuela to regain economic confidence",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/editorial-del-washington-post-pide-elecciones-en-venezuela-para-recuperar-la-confianza-economica/",
-      "published_date": "2026-04-13T14:24:15+00:00"
-    },
-    {
-      "title": "Kremlin won’t congratulate Hungary’s new opposition leader, citing ‘unfriendly country’ status it ignored when congratulating Orban",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/13/kremlin-won-t-congratulate-hungary-s-new-opposition-leader-citing-unfriendly-country-status-it-ignored-when-congratulating-orban",
-      "published_date": "2026-04-13T14:08:12+00:00"
-    },
-    {
-      "title": "Hungary’s PM-elect Magyar sends warm overture to China, vows fair play for firms",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/economy/article/3349943/hungarys-prime-minister-elect-vows-fair-play-firms-review-orbans-deals?utm_source=rss_feed",
-      "published_date": "2026-04-13T14:05:55+00:00"
-    },
-    {
-      "title": "IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemYtcHNiRDF3T0IzVVNXMkVYZkN5LS1Ea21GajNRR0d4MzRtS3QzUkVvck02VjJpc0d2YVNIT2dWQjdYMnFSanZfQ0w4QlVmeG01dkNYQTdGaHM4VzZpVkZwanEzQS1hNXJ3dTV4LTFsUWdUdW1MWVlLRzRubHgwSW95eFByV0I3QW1uLTdSQlRCSVVNaHVfSEFpUlUtaGwxN0HSAacBQVVfeXFMUDEwdmhDX3dQUTZOV2xHSFZGekdNai11T0RuVk5jX2w5bHBwY0JWTmIwNW5YaUVpeURaRkxZN3lqQ1oxQ19fTUczNGh3WDhiYm9YMG5rZmdTYUc0TWhOUzE2MGRqWG5FcEFFNnprdFBvRXp2a0JpUXBzVjhGZHg4R1JibEhVcnJ2R3VpWUdoOGdxbkhtb3p4WU1mYmlSek80RUNkX1lwMnc?oc=5",
-      "published_date": "2026-04-13T13:42:41+00:00"
-    },
-    {
-      "title": "Hungary’s opposition wins landslide, unseating one of Putin’s closest allies in Europe",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/04/13/hungary-s-opposition-wins-landslide-unseating-one-of-putin-s-closest-allies-in-europe",
-      "published_date": "2026-04-13T13:34:50+00:00"
-    },
-    {
-      "title": "Why Beijing isn’t panicking over Hungarian PM Viktor Orban’s stunning election defeat",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3349941/why-beijing-isnt-panicking-over-hungarian-pm-viktor-orbans-stunning-election-defeat?utm_source=rss_feed",
-      "published_date": "2026-04-13T13:14:12+00:00"
-    },
-    {
-      "title": "Peru election drags into second day after ballot delivery fiasco",
-      "source": "BBC World",
-      "country": "Peru",
-      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T13:07:12+00:00"
     }
   ]
 }
