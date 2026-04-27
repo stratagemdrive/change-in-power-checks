@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-26T23:38:40.912675+00:00",
-    "story_count": 423,
+    "last_updated": "2026-04-27T12:24:33.739115+00:00",
+    "story_count": 420,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Court set to begin ex-President Yoon's insurrection appeals trial",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260427/court-set-to-begin-ex-president-yoons-insurrection-appeals-trial?utm_source=rss",
+      "published_date": "2026-04-27T12:22:03+00:00"
+    },
+    {
+      "title": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
+      "published_date": "2026-04-27T11:27:37+00:00"
+    },
+    {
+      "title": "Chadha's anti-defection bill that could've stopped his AAP-BJP switch, wanted law against 'nefarious floor-crossing'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/chadhas-anti-defection-bill-that-couldve-stopped-his-aap-bjp-switch-wanted-law-against-nefarious-floor-crossing-101777285387474.html",
+      "published_date": "2026-04-27T10:33:13+00:00"
+    },
+    {
+      "title": "Assembly elections 2026 LIVE: Central forces to stay for seven more days after Bengal polls, even if BJP comes to power, says Amit Shah",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-27-2026/article70910634.ece",
+      "published_date": "2026-04-27T10:13:49+00:00"
+    },
+    {
+      "title": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/apr/27/netanyahu-opposition-announce-new-party-naftali-bennett-yair-lapid",
+      "published_date": "2026-04-27T09:58:19+00:00"
+    },
+    {
+      "title": "Assembly elections 2026: 5 facts on K Surendran, leading BJP challenge in key northern Kerala seat",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/kerala-assembly-elections-2026-5-facts-on-k-surendran-leading-bjp-bharatiya-janata-party-manjeshwar-kasaragod-101776426547931.html",
+      "published_date": "2026-04-27T09:44:27+00:00"
+    },
+    {
+      "title": "Journalists barred from covering coup trial in Abuja",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/875111-journalists-barred-from-covering-coup-trial-in-abuja.html",
+      "published_date": "2026-04-27T09:28:26+00:00"
+    },
+    {
+      "title": "Why Israel and the US were so deadly wrong about regime change in Iran",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/opinion/why-israel-and-us-were-so-deadly-wrong-about-regime-change-iran",
+      "published_date": "2026-04-27T08:15:30+00:00"
+    },
+    {
+      "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
+      "source": "Myanmar Now",
+      "country": "Russia",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
+      "published_date": "2026-04-27T08:01:37+00:00"
+    },
+    {
+      "title": "Zelensky submits bills to parliament on extending martial law and mobilization",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4116994-zelensky-submits-bills-to-parliament-on-extending-martial-law-and-mobilization.html",
+      "published_date": "2026-04-27T07:51:00+00:00"
+    },
+    {
+      "title": "‘I’m ending my journey with AAP’: Gujarat party general secretary Sagar Rabari resigns, rules out possibility of joining BJP",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-aap-general-secretary-sagar-rabari-resigns-rules-out-possibility-of-joining-bjp-10657925/",
+      "published_date": "2026-04-27T07:15:15+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates: Yogi Adityanath says inside Bengal’s heart is ‘Kali’, not ‘Kaba’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-mamata-modi-westbengal-tamilnadu-10657875/",
+      "published_date": "2026-04-27T07:07:55+00:00"
+    },
+    {
+      "title": "Palestinian officials hail local elections in a Gaza community and the West Bank",
+      "source": "NPR World",
+      "country": "Palestine",
+      "url": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank",
+      "published_date": "2026-04-27T05:09:03+00:00"
+    },
+    {
+      "title": "Election 2026 LIVE: In letter to Bengal voters, PM Modi cites his Ram Mandir vow, devotion for Maa Kali",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/elections-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-assembly-polls-prediction-analysis-results-date-time-101777260574493.html",
+      "published_date": "2026-04-27T04:22:20+00:00"
+    },
+    {
+      "title": "Netanyahu’s biggest rivals join forces for Israel’s coming election",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3351517/netanyahus-biggest-rivals-join-forces-israels-coming-election?utm_source=rss_feed",
+      "published_date": "2026-04-27T03:55:49+00:00"
+    },
+    {
+      "title": "Two former Israeli PMs unite to unseat Netanyahu",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/1995320/two-former-israeli-pms-unite-to-unseat-netanyahu",
+      "published_date": "2026-04-27T03:41:58+00:00"
+    },
+    {
+      "title": "Raghav Chadha could not have defected or split AAP — if his Bill had passed",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/raghav-chadha-could-not-have-defected-or-split-aap-if-his-bill-had-passed-10657214/",
+      "published_date": "2026-04-27T00:12:59+00:00"
+    },
+    {
+      "title": "Kim inaugurates memorial for North Korean soldiers who fought in Ukraine war",
+      "source": "NK News",
+      "country": "Ukraine",
+      "url": "https://www.nknews.org/2026/04/kim-inaugurates-memorial-for-north-korean-soldiers-who-fought-in-ukraine-war/",
+      "published_date": "2026-04-27T00:06:44+00:00"
+    },
     {
       "title": "Cuban federal fugitive captured in Hialeah after two escape attempts faces new criminal charge",
       "source": "CiberCuba",
@@ -81,6 +207,20 @@
       "published_date": "2026-04-26T22:06:48+00:00"
     },
     {
+      "title": "Syria begins first trial for ousted Assad, allies",
+      "source": "France 24 English",
+      "country": "Syria",
+      "url": "https://www.france24.com/en/middle-east/20260426-syria-first-trial-bashar-al-assad-allies-ouster",
+      "published_date": "2026-04-26T21:52:07+00:00"
+    },
+    {
+      "title": "Syria begins first trial for ousted Assad, allies - France 24",
+      "source": "Google News World",
+      "country": "Syria",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWE0VEIwN1B3akdDaG5QQy02QmU1QnlFS0RHR1NXQzhabXRMcTNRNFU1Nlkyd0VyV05KTHd3TFFSU25kaGV4QTRWSjVoa1EyYnlobFUwUUNoV0ctbGlIQ29kMTFHdy1CS1Rwd2dBUDFsQmZkNnZSc2hSUHVhX0swZXZhUEpIV1BWaHYxb2ZJcDZOSlVDamZVQlJwVVE?oc=5",
+      "published_date": "2026-04-26T21:52:07+00:00"
+    },
+    {
       "title": "Russia’s Africa Corps describes Mali attacks as coup attempt, blames West",
       "source": "Premium Times Nigeria",
       "country": "Russia",
@@ -93,6 +233,13 @@
       "country": "Peru",
       "url": "https://www.lanacion.com.ar/el-mundo/empate-tecnico-en-peru-fujimori-igualaria-con-sanchez-en-el-balotaje-y-crece-la-tension-por-el-nid26042026/",
       "published_date": "2026-04-26T21:01:31+00:00"
+    },
+    {
+      "title": "Palestinian authorities call local elections in a Gaza community and the West Bank a success - AP News",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1cybjlfM1EtcU5ZUjIzSjVMaExOTzdPNWF3cS1VdnZNeGo2T2RrREtJVW9MUXRaY3RDQmQtQ3dBc1I4UjdEVmJzaGloOUFra3FUNXA1ZTRrc0lLMmphMTVoYTZ5U2x3SkFFaUlvU0V6UzEzX0RxY2UyTDFMLWNqbjdIVUtDQ3J3c0xLV1FzZTRpMS1rVUpkbHpTR215YS1EOE1OeUJHeXVwdw?oc=5",
+      "published_date": "2026-04-26T20:21:00+00:00"
     },
     {
       "title": "Bomb attack on Colombia highway kills 19 ahead of election",
@@ -135,6 +282,13 @@
       "country": "Palestine",
       "url": "https://www.lemonde.fr/international/article/2026/04/26/en-cisjordanie-le-fatah-est-arrive-en-tete-des-elections-municipales-dans-plusieurs-villes_6683487_3210.html",
       "published_date": "2026-04-26T18:32:34+00:00"
+    },
+    {
+      "title": "Two former Israeli prime ministers join forces against Netanyahu in upcoming elections - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2MtTW5nQWFXN3ZwbkNmTElGVDF1VWllc1FSamE0THRaNVBGNTBzNFdfVXE2Nzl2MV91bXhBVzJFMWJTOEl4d1FxakZaNmVrZ2lGdEtLNVF6R2F0Zy1abnFGX0otVGktYkdlS1RFbHpsVDlpWmhsdmZLc2xxczFnZmxCMUU5OW1RNkFDa09NWlBzZ2ZLRHcxRklaYlFEdDhS?oc=5",
+      "published_date": "2026-04-26T18:25:00+00:00"
     },
     {
       "title": "Netanyahu's biggest rivals join forces for Israel's next election",
@@ -2844,181 +2998,6 @@
       "country": "Peru",
       "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-13T13:07:12+00:00"
-    },
-    {
-      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
-      "source": "NPR World",
-      "country": "Iran",
-      "url": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
-      "published_date": "2026-04-13T11:56:36+00:00"
-    },
-    {
-      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election - NPR",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDU0NU5tZlB1dWxrVlZXeHFWR0cwVnFJTDl3Sk9MbmZmenJ2Q1Q2Ym92X0o0M3VIS3dxclk0X2VrVW5QVUhUd05aRUpRS3kwTFBvRlpCeVZQT0xQSEppUGhPVG0tNWwxYm5yZl9LVHhYMmNmcE0wc0dFOTZqMnVmQ1ZmdnpJSE9OREowdkF5SjRVUDd1VklaeEJveGRGLTBTOGp5eUtOS25UVkpfVTdSWmxkVEc1M0NzXzVNcQ?oc=5",
-      "published_date": "2026-04-13T11:56:36+00:00"
-    },
-    {
-      "title": "Who wins the elections in Peru 2026",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-en-peru-2026-nid13042026/",
-      "published_date": "2026-04-13T11:46:56+00:00"
-    },
-    {
-      "title": "Defeat of Viktor Orban in the Hungarian legislative elections: Moscow hopes for “pragmatic contacts” with Peter Magyar",
-      "source": "Le Figaro France",
-      "country": "Russia",
-      "url": "https://www.lefigaro.fr/international/defaite-de-viktor-orban-aux-legislatives-hongroise-moscou-espere-des-contacts-pragmatiques-avec-peter-magyar-20260413",
-      "published_date": "2026-04-13T11:26:41+00:00"
-    },
-    {
-      "title": "Kremlin says Russia will maintain ‘pragmatic’ ties with Hungary under new government",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/13/kremlin-says-russia-will-maintain-pragmatic-ties-with-hungary-under-new-government",
-      "published_date": "2026-04-13T10:58:22+00:00"
-    },
-    {
-      "title": "Hungary elections live: Merz says Orban’s defeat shows European democracy is ‘resistant to Russian propaganda’",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/hungary-elections-2026-live-results-orban-magyar-b2956329.html",
-      "published_date": "2026-04-13T10:11:45+00:00"
-    },
-    {
-      "title": "Hungary’s New Leader Says He’s Willing to Negotiate With Putin, But Not as a ‘Friend’",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/04/13/hungarys-new-leader-says-hes-willing-to-negotiate-with-putin-but-not-as-a-friend-a92481",
-      "published_date": "2026-04-13T10:04:00+00:00"
-    },
-    {
-      "title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
-      "published_date": "2026-04-13T10:00:38+00:00"
-    },
-    {
-      "title": "Peru general elections: Fujimori leading, runoff likely",
-      "source": "Deutsche Welle English",
-      "country": "Peru",
-      "url": "https://www.dw.com/en/peru-general-elections-fujimori-leading-runoff-likely/a-76756162?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-13T09:48:00+00:00"
-    },
-    {
-      "title": "Who is Manas Ranjan Mangaraj, BJD’s new leader in the Rajya Sabha",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/bjd-rajya-sabha-manas-ranjan-sasmit-patra-naveen-patnaik-odisha-10633955/",
-      "published_date": "2026-04-13T09:36:02+00:00"
-    },
-    {
-      "title": "Peru election results delayed after thousands get a one-day voting extension",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/video/20260413-peru-election-results-delayed-after-thousands-get-a-one-day-voting-extension",
-      "published_date": "2026-04-13T09:29:24+00:00"
-    },
-    {
-      "title": "Merz after the elections in Hungary: 'We are far more resistant to Russian propaganda'",
-      "source": "DR News Denmark",
-      "country": "Germany",
-      "url": "https://www.dr.dk/nyheder/seneste/merz-efter-valget-i-ungarn-vi-er-langt-mere-modstandsdygtige-over-russisk-propaganda",
-      "published_date": "2026-04-13T09:08:00+00:00"
-    },
-    {
-      "title": "Elections and Defections Are Likely to Unshackle Canada’s Liberals - The New York Times",
-      "source": "Google News World",
-      "country": "Canada",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGNUME9aMTh1a3hUZzc0SVNoVWxZR1NIcGJUd2ZnUU9OZTlxM2hXSW1TOVBEU085LUNhbHRLNTVHbHFnRGhKczVWZEJ0UjcwTVNkaWhYNTlrNFZOMHhGSTcwNUlxOGZBdGZEMnZ2THhZbzY4MmM5cjNfVHlxZjczTU1JZ0NNNGhBNXItYlJ5aGxKUHdUR0t3M2NPbDdxN2t1RTBYVUpn?oc=5",
-      "published_date": "2026-04-13T09:00:09+00:00"
-    },
-    {
-      "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
-      "source": "BBC World",
-      "country": "Canada",
-      "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T08:10:53+00:00"
-    },
-    {
-      "title": "German Chancellor Merz the most unpopular head of government in the world, survey shows",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/2026/04/13/german-chancellor-merz-the-most-unpopular-head-of-government-in-the-world-survey-shows",
-      "published_date": "2026-04-13T07:53:10+00:00"
-    },
-    {
-      "title": "Russia's special envoy: EU collapse closer after Hungarian election",
-      "source": "DR News Denmark",
-      "country": "Russia",
-      "url": "https://www.dr.dk/nyheder/seneste/ruslands-saerlige-udsending-eu-s-kollaps-er-taettere-paa-efter-ungarsk-valg",
-      "published_date": "2026-04-13T07:40:00+00:00"
-    },
-    {
-      "title": "Peru faces protests as election delays fuel doubts over vote integrity",
-      "source": "Euronews",
-      "country": "Peru",
-      "url": "http://www.euronews.com/video/2026/04/13/peru-faces-protests-as-election-delays-fuel-doubts-over-vote-integrity",
-      "published_date": "2026-04-13T06:47:33+00:00"
-    },
-    {
-      "title": "Peru election marred by delays as conservatives lead early count",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/04/13/world/politics/peru-election-delays-fujimori-lead/",
-      "published_date": "2026-04-13T06:12:00+00:00"
-    },
-    {
-      "title": "Peru election results delayed after thousands get a one-day voting extension",
-      "source": "NPR World",
-      "country": "Peru",
-      "url": "https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed",
-      "published_date": "2026-04-13T05:08:42+00:00"
-    },
-    {
-      "title": "Peruvian presidential election results delayed as tens of thousands get one-day voting extension",
-      "source": "Euronews",
-      "country": "Peru",
-      "url": "http://www.euronews.com/2026/04/13/peruvian-presidential-election-results-delayed-as-tens-of-thousands-get-one-day-voting-ext",
-      "published_date": "2026-04-13T04:30:58+00:00"
-    },
-    {
-      "title": "Elections in Peru: Peru's only constant is Fujimori",
-      "source": "FAZ Germany",
-      "country": "Peru",
-      "url": "https://www.faz.net/aktuell/politik/ausland/perus-einzige-konstante-heisst-fujimori-accg-200724497.html",
-      "published_date": "2026-04-13T04:21:17+00:00"
-    },
-    {
-      "title": "Zelensky congratulates Magyar on his victory in elections in Hungary",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111790-zelensky-congratulates-magyar-on-his-victory-in-elections-in-hungary.html",
-      "published_date": "2026-04-13T03:59:00+00:00"
-    },
-    {
-      "title": "Amid reshuffle talks, Vinod Tawde holds back-to-back meetings with BJP leaders",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/lucknow/amid-reshuffle-talks-tawde-holds-back-to-back-meetings-with-bjp-leaders-10633351/",
-      "published_date": "2026-04-13T03:11:54+00:00"
-    },
-    {
-      "title": "Lula faces the tightest 1st round scenario since the 2002 election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-enfrenta-cenario-de-1o-turno-mais-apertado-desde-eleicao-de-2002.shtml",
-      "published_date": "2026-04-13T02:00:00+00:00"
-    },
-    {
-      "title": "Keiko Fujimori leads the exit polls for the presidential election in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/keiko-fujimori-encabeza-los-sondeos-a-boca-de-urna-de-la-eleccion-presidencial-en-peru/",
-      "published_date": "2026-04-13T00:39:54+00:00"
     }
   ]
 }
