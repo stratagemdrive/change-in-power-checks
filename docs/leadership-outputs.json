@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-28T12:28:08.314211+00:00",
-    "story_count": 399,
+    "last_updated": "2026-04-28T23:53:57.365647+00:00",
+    "story_count": 402,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "2027 election: Tinubu, APC bigwigs pick forms, GAC backs Hamzat",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-election-tinubu-apc-bigwigs-pick-forms-gac-backs-hamzat/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-04-29T00:18:35+00:00"
+    },
+    {
+      "title": "Provea demands renewal of the CNE and guarantees for elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/provea-exige-renovacion-del-cne-y-garantias-para-elecciones-en-venezuela/",
+      "published_date": "2026-04-28T23:13:37+00:00"
+    },
+    {
+      "title": "Trump’s Ukraine envoy stepping down amid stalled peace talks with Russia",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3351766/trumps-ukraine-envoy-stepping-down-amid-stalled-peace-talks-russia?utm_source=rss_feed",
+      "published_date": "2026-04-28T22:49:39+00:00"
+    },
+    {
+      "title": "PT sees uncertainty in three states for 2026 election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/pt-ve-indefinicao-em-tres-estados-para-eleicao-de-2026.shtml",
+      "published_date": "2026-04-28T22:46:00+00:00"
+    },
+    {
+      "title": "Starmer sees off major Labour rebellion over call for Mandelson inquiry",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
+      "published_date": "2026-04-28T22:40:01+00:00"
+    },
+    {
+      "title": "After landslide victory in Surat, BJP says there won’t be Opp Leader in city body",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/after-landslide-victory-in-surat-bjp-says-there-wont-be-opp-leader-in-city-body-10661243/",
+      "published_date": "2026-04-28T22:18:39+00:00"
+    },
+    {
+      "title": "A pin worn by Venezuela’s acting President has sparked an international row",
+      "source": "The Independent UK",
+      "country": "Venezuela",
+      "url": "https://www.independent.co.uk/news/world/americas/venezuela-guyana-delcy-rodriguez-pin-b2966764.html",
+      "published_date": "2026-04-28T21:20:23+00:00"
+    },
+    {
+      "title": "Ukrainian strikes on Russian oil refinery send smoke across Black Sea coast as state of emergency is declared",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/04/29/ukrainian-strikes-on-russian-oil-refinery-send-smoke-across-black-sea-coast-as-state-of-emergency-is-declared",
+      "published_date": "2026-04-28T21:14:44+00:00"
+    },
+    {
+      "title": "Pérez Vivas calls on the international community to increase pressure on the Venezuelan government to achieve transparent elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/perez-vivas-llama-a-la-comunidad-internacional-a-aumentar-presion-sobre-el-gobierno-venezolano-para-lograr-elecciones-transparentes/",
+      "published_date": "2026-04-28T19:59:42+00:00"
+    },
+    {
+      "title": "Mali military leader Goita emerges as Russia declares it halted coup",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss",
+      "published_date": "2026-04-28T18:48:24+00:00"
+    },
+    {
+      "title": "From exile to judge: Symbolism in Syria’s trial of Assad, former officials",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
+      "published_date": "2026-04-28T17:49:59+00:00"
+    },
+    {
+      "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
+      "published_date": "2026-04-28T17:07:27+00:00"
+    },
+    {
+      "title": "Israeli elections: Two heavyweights unite to bring down Netanyahu",
+      "source": "Le Figaro France",
+      "country": "Israel",
+      "url": "https://www.lefigaro.fr/international/elections-israeliennes-deux-poids-lourds-s-unissent-pour-faire-tomber-netanyahou-20260428",
+      "published_date": "2026-04-28T17:00:00+00:00"
+    },
+    {
+      "title": "South Korean court extends prison sentence for wife of ousted president",
+      "source": "NPR World",
+      "country": "South Korea",
+      "url": "https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president",
+      "published_date": "2026-04-28T15:24:09+00:00"
+    },
+    {
+      "title": "South Korean court extends prison sentence for wife of ousted president - NPR",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEVvM0VITXJyR2xtakkwZm0wa3hmT2RxWU5UZjJfTGpUMGVYMHVlZWY5ZVlkajF6V3g0OU5YczZBU0xaMVdYOFpxclB2Qm5FbGdMS1ZLSjBUQzNsUUVaeUFYUXB0TUxDYVVvandtZE9iTGQzSjJWTGFiSVJxWDgtU1hWOVpPZ3JrREJncmQ3MlJLd2Y2UTJuU1QzVDRBcmpZOVlfa01neTB5cWRpYmlqaFFVSW4?oc=5",
+      "published_date": "2026-04-28T15:24:09+00:00"
+    },
+    {
+      "title": "Colombian presidential candidate Paloma Valencia denounces FARC plan to assassinate her",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/04/paloma-valencia-denuncia-plan-de-las-farc-para-asesinarla/",
+      "published_date": "2026-04-28T14:36:28+00:00"
+    },
+    {
+      "title": "Lula brings together Dilma and former ministers at Alvorada to pay tribute to the former president 10 years after impeachment",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/lula-reune-dilma-e-ex-ministros-no-alvorada-para-homenagear-ex-presidente-10-anos-apos-impeachment.shtml",
+      "published_date": "2026-04-28T14:28:00+00:00"
+    },
+    {
+      "title": "AWACS successor: NATO will rely on Sweden and Canada in the future",
+      "source": "FAZ Germany",
+      "country": "Canada",
+      "url": "https://www.faz.net/aktuell/politik/ausland/awacs-flugzeuge-die-nato-loest-sich-von-den-usa-200777246.html",
+      "published_date": "2026-04-28T14:09:05+00:00"
+    },
     {
       "title": "Korea's top AI official quits for Assembly by-election, raising doubts over DPK candidate strategy",
       "source": "Korea Times",
@@ -79,6 +205,13 @@
       "country": "Russia",
       "url": "https://www.latercera.com/mundo/noticia/el-kremlin-condena-el-ataque-contra-trump-como-cualquier-accion-violenta-contra-otro-jefe-de-estado/",
       "published_date": "2026-04-28T11:08:30+00:00"
+    },
+    {
+      "title": "Ex-Mossad chief: Settler violence an existential threat, curbing it could spark civil war - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3IxSmtZZkdETkF5QXRiNU1rNTA1TU1rdWUyZkxSNEtaYkFHeWtTTGFOQ1ZSaXQ2UTRhYTFaNUhWeG9XSFE5SVBSUDFlZGxrNUZkY3hQVzJrQlhBMnRCeG1IeG1QX2lXanpMWTVLZ0lCaVhnXzVFRWluNUtvalJOd3JXMHI2cmJBUE9YNWJHNFNySElyak01MF9vSzN4UkU5YTdlRHd6N2E4TnliaGtzcmlrN3NmaFVWRnfSAb8BQVVfeXFMT2JnNUIxNF83NzJPT1c5VEZBSGxjRWtYOEg0YWRNNGNJeEVuVUg2XzVHREp1VlZ5Q3QzZVR1d1kwSGVvNjBGSHhqUU1DLTltMU9mZUNZeUVzLTlrYXpfWDBOc0tvRXVOLWI3M1Exc01HZExsT3RNMHFOZG9nMzloV0hEUHZWY3BxM09ySVhaTWdDM0w4QUE2WDhFRUdrRFB5VFREYXRhaEtFU2YwektBNkx6U3E3a1F2ajJnc0xTdFk?oc=5",
+      "published_date": "2026-04-28T09:41:51+00:00"
     },
     {
       "title": "Surat Municipal Corporation Election Result 2026: Congress opens account after 5 years, AAP faces setback",
@@ -286,7 +419,7 @@
     {
       "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "Russia",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
       "published_date": "2026-04-27T08:01:37+00:00"
     },
@@ -2739,118 +2872,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/04/presidente-del-senado-frances-pide-elecciones-en-venezuela-tras-reunirse-con-maria-corina-machado/",
       "published_date": "2026-04-15T00:08:43+00:00"
-    },
-    {
-      "title": "Head of Peru's highest electoral body rules out serious irregularities and attributes failures in the elections to “a specific error”",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/jefe-del-maximo-organo-electoral-de-peru-descarta-irregularidades-graves-y-atribuye-fallas-en-comicios-a-error-puntual/",
-      "published_date": "2026-04-14T23:07:41+00:00"
-    },
-    {
-      "title": "Politics Insider: Carney says majority government will move quicker on economic priorities",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-carney-says-majority-government-will-move-quicker-on/",
-      "published_date": "2026-04-14T21:46:08+00:00"
-    },
-    {
-      "title": "Sudan to mark third anniversary of civil war",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260414-sudan-to-mark-third-anniversary-of-civil-war",
-      "published_date": "2026-04-14T21:08:53+00:00"
-    },
-    {
-      "title": "Carney gets a majority in Canada after another election in which Trump lurked in the background",
-      "source": "Politiken Denmark",
-      "country": "Canada",
-      "url": "https://politiken.dk/internationalt/art10804813/Carney-f%C3%A5r-flertal-i-Canada-efter-endnu-et-valg-hvor-Trump-lurede-i-baggrunden",
-      "published_date": "2026-04-14T20:07:58+00:00"
-    },
-    {
-      "title": "Carney vows focus on affordability after winning Canada’s special election",
-      "source": "Al Jazeera English",
-      "country": "Canada",
-      "url": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss",
-      "published_date": "2026-04-14T18:16:07+00:00"
-    },
-    {
-      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/kremlin-putin-orban-friends-hungary-russia-ukraine-b2957532.html",
-      "published_date": "2026-04-14T17:39:29+00:00"
-    },
-    {
-      "title": "José Guimarães is sworn in by Lula and says that the government cannot work without dialogue with Congress",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/jose-guimaraes-e-empossado-por-lula-e-diz-que-governo-nao-da-certo-sem-dialogo-com-congresso.shtml",
-      "published_date": "2026-04-14T17:32:00+00:00"
-    },
-    {
-      "title": "Sudan civil war: Three babies born every minute amid ongoing conflict, says ReliefWeb",
-      "source": "Indian Express",
-      "country": "Sudan",
-      "url": "https://indianexpress.com/article/world/sudan-civil-war-three-babies-born-every-minute-amid-ongoing-conflict-says-reliefweb-10636470/",
-      "published_date": "2026-04-14T16:50:40+00:00"
-    },
-    {
-      "title": "Lula mocks Trump and says that US intervention in the Brazilian election would help him",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-ironiza-trump-e-diz-que-intervencao-dos-eua-na-eleicao-brasileira-o-ajudaria.shtml",
-      "published_date": "2026-04-14T16:41:00+00:00"
-    },
-    {
-      "title": "Canada PM Mark Carney secures majority after special election win, gains stronger grip on power",
-      "source": "Indian Express",
-      "country": "Canada",
-      "url": "https://indianexpress.com/article/world/canada-pm-mark-carney-majority-special-election-win-stronger-grip-power-10636238/",
-      "published_date": "2026-04-14T16:10:34+00:00"
-    },
-    {
-      "title": "Venezuela: 100 days with acting President Delcy Rodriguez",
-      "source": "Deutsche Welle English",
-      "country": "Venezuela",
-      "url": "https://www.dw.com/en/venezuela-100-days-with-acting-president-delcy-rodriguez/a-76779305?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-14T15:38:00+00:00"
-    },
-    {
-      "title": "Mossad chief Barnea: Iran mission incomplete until it results in regime change",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-892978",
-      "published_date": "2026-04-14T15:12:51+00:00"
-    },
-    {
-      "title": "Machado: Trump has been the only head of state who has risked the lives of his citizens for the freedom of Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/machado-trump-ha-sido-el-unico-jefe-de-estado-que-ha-arriesgado-la-vida-de-sus-ciudadanos-por-la-libertad-de-venezuela/",
-      "published_date": "2026-04-14T13:30:04+00:00"
-    },
-    {
-      "title": "They call for a march towards the US Embassy in Caracas to demand elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/convocan-marcha-hacia-la-embajada-de-ee-uu-en-caracas-para-exigir-elecciones/",
-      "published_date": "2026-04-14T13:30:00+00:00"
-    },
-    {
-      "title": "Hungary’s new prime minister says he will ask Putin to stop the killing in Ukraine",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/magyar-hungary-putin-orban-ukraine-war-b2957185.html",
-      "published_date": "2026-04-14T13:27:05+00:00"
-    },
-    {
-      "title": "Elections and defections unshackle Canada’s liberals under Carney",
-      "source": "Indian Express",
-      "country": "Canada",
-      "url": "https://indianexpress.com/article/world/canada-elections-defections-liberals-mark-carney-10636138/",
-      "published_date": "2026-04-14T12:29:21+00:00"
     }
   ]
 }
