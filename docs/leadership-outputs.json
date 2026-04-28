@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-27T23:50:41.055846+00:00",
-    "story_count": 410,
+    "last_updated": "2026-04-28T12:28:08.314211+00:00",
+    "story_count": 399,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Korea's top AI official quits for Assembly by-election, raising doubts over DPK candidate strategy",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260428/koreas-top-ai-official-quits-for-assembly-by-election-raising-doubts-over-dpk-candidate-strategy?utm_source=rss",
+      "published_date": "2026-04-28T12:22:02+00:00"
+    },
+    {
+      "title": "After resignation: CDU politician Heilmann could become Berlin's new Senator for Culture",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-politiker-heilmann-koennte-neuer-kultursenator-berlins-werden-200776782.html",
+      "published_date": "2026-04-28T12:07:54+00:00"
+    },
+    {
+      "title": "The Kremlin condemns the attack against Trump as “any violent action” against another head of state",
+      "source": "La Tercera Chile",
+      "country": "Russia",
+      "url": "https://www.latercera.com/mundo/noticia/el-kremlin-condena-el-ataque-contra-trump-como-cualquier-accion-violenta-contra-otro-jefe-de-estado/",
+      "published_date": "2026-04-28T11:08:30+00:00"
+    },
+    {
+      "title": "Surat Municipal Corporation Election Result 2026: Congress opens account after 5 years, AAP faces setback",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/surat-municipal-corporation-election-result-2026-ward-wise-winners-list-gujarat-10659990/",
+      "published_date": "2026-04-28T09:40:29+00:00"
+    },
+    {
+      "title": "After Rajya Sabha exodus, AAP summons 94 Punjab MLAs to Jalandhar amid defection buzz",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/aap-punjab-mlas-meeting-defection-crisis-doaba-10660058/",
+      "published_date": "2026-04-28T09:08:28+00:00"
+    },
+    {
+      "title": "Vadodara election shock: Congress loses bastion in Ward 1 as rebel, BJP candidates script upset",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/vadodara-election-shock-congress-loses-bastion-in-ward-1-as-rebel-bjp-candidates-script-upset-10660032/",
+      "published_date": "2026-04-28T09:03:38+00:00"
+    },
+    {
+      "title": "Ahmedabad Municipal Corporation Election Result 2026: BJP wins all seats in nine wards",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-local-body-election-results-bjp-ward-winners-amc-10659602/",
+      "published_date": "2026-04-28T06:20:15+00:00"
+    },
+    {
+      "title": "Tripura ADC members sworn in amid BJP-Tipra Motha tensions",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/north-east-india/tripura/tripura-adc-members-sworn-in-amid-bjp-tipra-motha-tensions-10659450/",
+      "published_date": "2026-04-28T04:26:37+00:00"
+    },
+    {
+      "title": "Gujarat local body election results LIVE: BJP sweeps polls, wins across all 15 municipal corporations",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/gujarat-election-results-live-updates-gujarat-local-body-elections-result-2026-ward-wise-rajkot-ahmedabad-news-101777349101469.html",
+      "published_date": "2026-04-28T04:13:08+00:00"
+    },
+    {
+      "title": "Gujarat Local Body Election Results 2026 Live Updates: BJP sweeps 9 out of 15 municipal corporations; gains Bhuj in Kutch, Mandvi, Mundra",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-municipal-election-results-2026-live-updates-counting-bjp-congress-aap-10659276/",
+      "published_date": "2026-04-28T02:14:00+00:00"
+    },
     {
       "title": "El Jardinero, alleged new leader of the Jalisco New Generation Cartel, detained in Mexico",
       "source": "El Nacional Venezuela",
@@ -72,6 +142,13 @@
       "country": "Nigeria",
       "url": "https://www.vanguardngr.com/2026/04/court-martial-over-nigeria-coup-plot-to-resume-may-8/",
       "published_date": "2026-04-27T22:41:50+00:00"
+    },
+    {
+      "title": "French FM says Iran must make 'major concessions' to end crisis",
+      "source": "RFI English",
+      "country": "Iran",
+      "url": "https://www.rfi.fr/en/international/20260427-french-fm-says-iran-must-make-major-concessions-to-end-crisis",
+      "published_date": "2026-04-27T21:38:12+00:00"
     },
     {
       "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
@@ -209,7 +286,7 @@
     {
       "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
       "source": "Myanmar Now",
-      "country": "Russia",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
       "published_date": "2026-04-27T08:01:37+00:00"
     },
@@ -239,6 +316,13 @@
       "source": "NPR World",
       "country": "Palestine",
       "url": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank",
+      "published_date": "2026-04-27T05:09:03+00:00"
+    },
+    {
+      "title": "Palestinian officials hail local elections in a Gaza community and the West Bank - NPR",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnplTU5wa2c5NWRDakpjdndZR3ZLNXVZYzJNTXphVmg3TlE1QzVHZTVlTXpDMzVuR3ptTVR4QjQ4dDdRVTRnT0lMaC12WjZUcmQzRGN0QkVWdWJGWmRsUXhpSVBkRmtNZHotakZqbUtvZnJGUEI4eTh4QTEwUXhuX0hxTUZCWTFpMVQyYQ?oc=5",
       "published_date": "2026-04-27T05:09:03+00:00"
     },
     {
@@ -2767,167 +2851,6 @@
       "country": "Canada",
       "url": "https://indianexpress.com/article/world/canada-elections-defections-liberals-mark-carney-10636138/",
       "published_date": "2026-04-14T12:29:21+00:00"
-    },
-    {
-      "title": "Elections in Peru: right-wingers Keiko Fujimori and Rafael López Aliaga lead the tight fight to advance to the second presidential round",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/elecciones-en-peru-los-derechistas-keiko-fujimori-y-rafael-lopez-aliaga-encabezan-la-ajustada-pugna-para-pasar-a-la-segunda-vuelta-presidencial/",
-      "published_date": "2026-04-14T12:15:58+00:00"
-    },
-    {
-      "title": "T.N. Assembly election: BJP manifesto is ‘fake’, says Congress leader Girish Chodankar",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-manifesto-is-fake-says-congress-leader-girish-chodankar/article70860695.ece",
-      "published_date": "2026-04-14T11:42:39+00:00"
-    },
-    {
-      "title": "Spanish head of government: That's why the red carpet is being rolled out for Sánchez in Beijing",
-      "source": "FAZ Germany",
-      "country": "China",
-      "url": "https://www.faz.net/aktuell/politik/ausland/sanchez-bei-xi-spaniens-regierungschef-wirbt-um-china-accg-200729290.html",
-      "published_date": "2026-04-14T11:39:10+00:00"
-    },
-    {
-      "title": "The Danish Parliament postpones approval of the election due to housing issues",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/folketinget-udskyder-godkendelse-af-valget-paa-grund-af-boligsag",
-      "published_date": "2026-04-14T11:29:00+00:00"
-    },
-    {
-      "title": "Modi inaugurates Delhi-Dehradun economic corridor, speaks about balanced development",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/modi-inaugurates-delhi-dehradun-economic-corridor-speaks-about-balanced-development-101776164252490.html",
-      "published_date": "2026-04-14T10:57:32+00:00"
-    },
-    {
-      "title": "T.N. election: J.P. Nadda releases BJP manifesto, says DMK rule has turned State into crime capital",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-jp-nadda-releases-bjp-manifesto-says-dmk-rule-has-turned-state-into-crime-capital/article70860709.ece",
-      "published_date": "2026-04-14T10:52:45+00:00"
-    },
-    {
-      "title": "Assam Assembly Elections 2026: Gaurav Gogoi leads Congress push for comeback against BJP",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assam-assembly-elections-2026-gaurav-gogoi-leads-congress-push-for-comeback-against-bjp-101775999806084.html",
-      "published_date": "2026-04-14T10:15:32+00:00"
-    },
-    {
-      "title": "Fujimori leads chaotic Peru vote as election officials arrested over delays",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/video/20260414-fujimori-leads-chaotic-peru-vote-as-election-officials-arrested-over-delays",
-      "published_date": "2026-04-14T09:36:21+00:00"
-    },
-    {
-      "title": "Sudan drone strikes kill nearly 700 in three months as civil war reaches grim milestone",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
-      "published_date": "2026-04-14T09:28:25+00:00"
-    },
-    {
-      "title": "Robots captured Russian army positions for first time in history, Zelenskyy says - politico.eu",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWVwX2xZc3N4NGtyWUFzSE5sZ0FuN3BZTGJ2MExZbVRmSlMtRnYwQV9hdlBOam1fYnE2cU5QYnZrcENISGpZcmFYdkNZMlNZNTVXUVdjeHdPbDdYQTJyM2cxc2c3WDFyamx3a3R5SmwyWVJzS1N2TmdWd0l2OE80Z19IN3d4TjFkZDRHbm9DQzd0eVZ5V1VHUHJuUzlVZ1E?oc=5",
-      "published_date": "2026-04-14T09:26:00+00:00"
-    },
-    {
-      "title": "Slovenia’s Parliament Speaker Proposes NATO Exit Referendum, Signals Possible Moscow Visit - Kyiv Post",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11MVEyWHFfaFRKSTh6YjlFTGxZaGIwYW1DNHV4Z3lKcEt1N1VPUWFDLWxmWGx5Z3d1UFBkMkZad3RQUjd0OGw3eDBTWQ?oc=5",
-      "published_date": "2026-04-14T09:02:05+00:00"
-    },
-    {
-      "title": "After resignation: The AfD does not mourn Lucassen",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-baumann-glaettet-wogen-nach-rueckzug-von-lucassen-accg-200729077.html",
-      "published_date": "2026-04-14T09:00:31+00:00"
-    },
-    {
-      "title": "Ukraine hopes for more cooperation after Hungary elects new prime minister",
-      "source": "NPR World",
-      "country": "Ukraine",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister",
-      "published_date": "2026-04-14T08:42:37+00:00"
-    },
-    {
-      "title": "Junta assaults displace thousands during Myanmar’s Thingyan New Year’s festival",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/junta-assaults-displace-thousands-during-myanmars-thingyan-new-years-festival/",
-      "published_date": "2026-04-14T08:25:53+00:00"
-    },
-    {
-      "title": "Russia’s parliament approves bill imposing fines for depicting churches without crosses",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/14/russia-s-parliament-approves-bill-imposing-fines-for-depicting-churches-without-crosses",
-      "published_date": "2026-04-14T08:21:54+00:00"
-    },
-    {
-      "title": "Mark Carney’s party secures majority government after sweeping to victory in three special elections",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/canada-special-election-mark-carney-liberals-majority-b2957055.html",
-      "published_date": "2026-04-14T07:18:27+00:00"
-    },
-    {
-      "title": "Canada: Carney secures majority after special election",
-      "source": "Deutsche Welle English",
-      "country": "Canada",
-      "url": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-14T06:23:00+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 Live Updates: Rahul Gandhi says BJP, RSS trying to weaken Constitution",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-tmc-bjp-west-bengal-tamil-nadu-assam-kerala-pm-modi-rahul-gandhi-10635261/",
-      "published_date": "2026-04-14T05:36:17+00:00"
-    },
-    {
-      "title": "Mark Carney secures majority government in Canada after byelection win",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
-      "published_date": "2026-04-14T05:09:26+00:00"
-    },
-    {
-      "title": "Canada’s Carney secures majority government with special election wins",
-      "source": "South China Morning Post",
-      "country": "Canada",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3349976/canadas-carney-secures-majority-government-special-election-wins?utm_source=rss_feed",
-      "published_date": "2026-04-14T03:03:43+00:00"
-    },
-    {
-      "title": "By-elections start Phase 2 of the Carney government",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-byelection-results-liberal-majority-government-carney-phase-2/",
-      "published_date": "2026-04-14T02:48:36+00:00"
-    },
-    {
-      "title": "Carney clinches majority government to push energy and trade ambitions",
-      "source": "Japan Times",
-      "country": "Canada",
-      "url": "https://www.japantimes.co.jp/news/2026/04/14/world/politics/canada-carney-majority-energy-trade/",
-      "published_date": "2026-04-14T02:44:00+00:00"
-    },
-    {
-      "title": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin",
-      "published_date": "2026-04-14T01:10:02+00:00"
     }
   ]
 }
