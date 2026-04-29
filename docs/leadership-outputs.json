@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-29T12:23:13.068746+00:00",
+    "last_updated": "2026-04-29T23:52:26.285073+00:00",
     "story_count": 401,
     "fields": {
       "title": "Headline in English",
@@ -60,11 +60,123 @@
   },
   "stories": [
     {
+      "title": "History of the Cuban exile: \"I am deported\"",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-30-u1-e192519-s27061-nid327635-historico-exilio-cubano-estoy-deportado",
+      "published_date": "2026-04-29T22:19:08+00:00"
+    },
+    {
+      "title": "Exiled Santiago Álvarez believes that Marco Rubio's statements about espionage in Cuba indicate stagnation in negotiations",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-04-30-u1-e192519-s27061-nid327632-exiliado-santiago-alvarez-cree-declaraciones-marco",
+      "published_date": "2026-04-29T22:03:12+00:00"
+    },
+    {
+      "title": "Assad regime trials are 'integral for Syria to move on' from civil war, atrocities",
+      "source": "France 24 English",
+      "country": "Syria",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260429-assad-regime-trials-are-integral-for-syria-to-move-on-from-civil-war-atrocities",
+      "published_date": "2026-04-29T21:08:47+00:00"
+    },
+    {
+      "title": "How alleged coup attempt against Tinubu was planned, uncovered – Witness",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/875915-how-alleged-coup-attempt-against-tinubu-was-planned-uncovered-witness.html",
+      "published_date": "2026-04-29T20:12:20+00:00"
+    },
+    {
+      "title": "2027: elected president, Jordan Bardella would remove the European flag from the steps of the Élysée",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/2027-elu-president-jordan-bardella-enleverait-le-drapeau-europeen-du-perron-de-l-elysee-20260429",
+      "published_date": "2026-04-29T19:20:33+00:00"
+    },
+    {
+      "title": "How we uncovered plot to overthrow Tinubu, Army tells court",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/04/how-we-uncovered-plot-to-overthrow-tinubu-army-tells-court/",
+      "published_date": "2026-04-29T19:01:04+00:00"
+    },
+    {
+      "title": "Porsche inaugurates the Green Corridor in southern Chile and expands its electromobility network",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/mtonline/noticia/porsche-inaugura-corredor-verde-en-el-sur-de-chile-y-expande-su-red-de-electromovilidad/",
+      "published_date": "2026-04-29T18:29:00+00:00"
+    },
+    {
+      "title": "Kerala assembly elections 2026: CPI(M)'s Sivankutty's bid to retain Nemom seat after 2016 loss to BJP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/kerala-assembly-elections-2026-cpi-m-s-sivankuttys-bid-to-retain-nemom-seat-after-2016-loss-to-bjp-101777105177108.html",
+      "published_date": "2026-04-29T17:57:49+00:00"
+    },
+    {
+      "title": "Exit polls 2026 highlights: Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
+      "published_date": "2026-04-29T17:22:12+00:00"
+    },
+    {
+      "title": "Second US ambassador to Ukraine steps down in less than one year",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/04/29/second-us-ambassador-to-ukraine-steps-down-within-less-than-one-year",
+      "published_date": "2026-04-29T15:38:46+00:00"
+    },
+    {
+      "title": "In Mali, a weakened partnership between Russia and the junta in the face of the jihadist offensive",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/afrique/20260429-mali-un-partenariat-fragilise-entre-la-russie-et-la-junte-face-offensive-jihadiste-africa-corps-wagner",
+      "published_date": "2026-04-29T15:25:08+00:00"
+    },
+    {
+      "title": "Successor to Wedl-Wilson: Berlin's Finance Senator steps in temporarily",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/berlin-finanzsenator-evers-uebernimmt-kulturverwaltung-200782200.html",
+      "published_date": "2026-04-29T14:39:09+00:00"
+    },
+    {
+      "title": "Axis My India exit poll: What projections for Bengal, Tamil Nadu, Kerala and Assam election results show",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/axis-my-india-exit-poll-result-what-projections-for-bengal-tamil-nadu-kerala-and-assam-election-results-show-101777470531784.html",
+      "published_date": "2026-04-29T14:10:16+00:00"
+    },
+    {
+      "title": "Assam exit poll show a massive lead for BJP, Himanta Biswa Sarma govt headed for another term",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assam-exit-poll-show-a-massive-lead-for-bjp-himanta-biswa-sarma-govt-headed-for-another-term-101777463125283.html",
+      "published_date": "2026-04-29T13:05:28+00:00"
+    },
+    {
+      "title": "Narrow win for BJP in Bengal, Mamata's 15-year reign to end: First exit poll prediction",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/narrow-win-for-bjp-in-bengal-mamatas-15-year-reign-to-end-first-exit-poll-prediction-101777466870714.html",
+      "published_date": "2026-04-29T13:04:26+00:00"
+    },
+    {
       "title": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted compared to 2024 Lok Sabha polls",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
       "published_date": "2026-04-29T12:11:40+00:00"
+    },
+    {
+      "title": "Exit poll results highlights: BJP debut in Bengal, return in Assam, UDF's comeback in Kerala projected",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/election-exit-poll-results-2026-live-west-bengal-tamil-nadu-kerala-assam-ec-news-chanakya-satta-bazar-axis-my-india-101777459534748.html",
+      "published_date": "2026-04-29T11:09:08+00:00"
     },
     {
       "title": "Kim Jong-un praises North Korean soldiers who take their own lives to avoid being captured in Ukraine",
@@ -74,7 +186,7 @@
       "published_date": "2026-04-29T10:30:00+00:00"
     },
     {
-      "title": "West Bengal Exit Poll Results Live: Will TMC retain power or BJP make inroads? Exit poll results to be out shortly",
+      "title": "West Bengal Election Exit Poll Results 2026 Live Updates: BJP will form government comfortably, says Suvendu Adhikari as exit polls give edge to saffron party",
       "source": "Indian Express",
       "country": "India",
       "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-exit-poll-results-live-tmc-bjp-mamata-banerjee-suvendu-10660965/",
@@ -100,6 +212,13 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/news/headlines/875756-2027-trader-joins-apc-presidential-race-purchases-%e2%82%a6100m-forms-to-challenge-tinubu.html",
       "published_date": "2026-04-29T09:54:50+00:00"
+    },
+    {
+      "title": "Assam Election Exit Polls 2026 LIVE Updates: Surveys predict clean sweep for BJP in Assam",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assam-election-exit-poll-result-2026-live-updates-himanta-biswa-sarma-bjp-congress-10660865/",
+      "published_date": "2026-04-29T09:26:37+00:00"
     },
     {
       "title": "France urges its citizens to quit Mali as junta faces major rebel threat",
@@ -2746,125 +2865,6 @@
       "country": "Japan",
       "url": "https://www.scmp.com/week-asia/politics/article/3350203/japanese-public-backs-female-emperor-while-takaichi-pushes-conservative-succession-plan?utm_source=rss_feed",
       "published_date": "2026-04-16T00:00:18+00:00"
-    },
-    {
-      "title": "Sanchez in position to face Fujimori in the second round of the presidential election in Peru",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260415-presidentielle-perou-election-roberto-sanchez-gauche-keiko-fujimori-conservatrice-second-tour",
-      "published_date": "2026-04-15T23:46:15+00:00"
-    },
-    {
-      "title": "Milei's biographer attacked Manuel Adorni and asked for his resignation: “A scoundrel who clings to power”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/el-biografo-de-milei-embistio-contra-manuel-adorni-y-pidio-su-renuncia-nid15042026/",
-      "published_date": "2026-04-15T23:35:27+00:00"
-    },
-    {
-      "title": "Peru’s ballot count drags on amid frustration with presidential election",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
-      "published_date": "2026-04-15T23:06:31+00:00"
-    },
-    {
-      "title": "Peru’s Sanchez to face Fujimori in runoff as rival signals protests over fraud",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260415-peru-sanchez-fujimori-runoff-rival-protests-fraud",
-      "published_date": "2026-04-15T22:34:34+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro says that Moraes will unbalance elections from the STF",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/flavio-bolsonaro-diz-que-moraes-vai-desequilibrar-eleicoes-a-partir-do-stf.shtml",
-      "published_date": "2026-04-15T22:10:00+00:00"
-    },
-    {
-      "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
-      "published_date": "2026-04-15T21:45:31+00:00"
-    },
-    {
-      "title": "Lagos 2027: Tinubu’s close ally, Olusi reveals possible successor to Sanwo-Olu",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/04/lagos-2027-tinubus-close-ally-olusi-reveals-possible-successor-to-sanwo-olu/",
-      "published_date": "2026-04-15T18:23:28+00:00"
-    },
-    {
-      "title": "Hungary's new leader has vowed to wean his country off Russian energy. It will be a painful transition. - CBS News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSktZc1lEX2s4cEI0NDNSaEFPRFpFb3ZSUDk1bnlQUzV3YXFtLWpJYWpNNW9mcWtITFpqaEVqM2dYQWZ5eFR4QjhGNUlCQ3pESUtyU3ZkTlVKUUZ2MEU4bkZ4NnhtM19HVERSLUVHLWxvZ9IBd0FVX3lxTFBEendoNVNoZjZvM1NBcXBVS0cxc0tCM19LQ2p1b1ZWSUoyT1RKLU9xLV82cGI0VlIxRUtzRW1pV2NVOW9BeTBXTzJIWjRsTEFKWmEyQTh4V0FkbWJ3eE13NFNqUlZid2c5X0x0NkhEbUNDMUphcUpj?oc=5",
-      "published_date": "2026-04-15T17:08:27+00:00"
-    },
-    {
-      "title": "Samrat Choudhary sworn in as Bihar’s first BJP CM",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-chief-minister-samrat-choudhary-two-new-deputy-chief-ministers-oath-taking-ceremony-updates/article70863872.ece",
-      "published_date": "2026-04-15T17:08:01+00:00"
-    },
-    {
-      "title": "Andrés Allamand resigns from RN after 39 years of activism",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/politica/noticia/andres-allamand-renuncia-a-rn-tras-39-anos-de-militancia/",
-      "published_date": "2026-04-15T16:51:43+00:00"
-    },
-    {
-      "title": "The RN is already planning for the post-Marine Le Pen era, a year before the presidential election",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/15/le-rn-se-projette-deja-dans-l-apres-marine-le-pen-un-an-avant-la-presidentielle_6680318_823448.html",
-      "published_date": "2026-04-15T16:32:37+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 highlights: PM Modi holds roadshow in Tamil Nadu, says DMK losing 'for sure'",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-elections-2026-west-bengal-tamil-nadu-kerala-assam-puducherry-april-15-2026-live-updates/article70863665.ece",
-      "published_date": "2026-04-15T16:14:37+00:00"
-    },
-    {
-      "title": "Germany live blog: Jan van Aken resigns from office",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-jan-van-aken-gibt-sein-amt-ab-faz-110093143.html",
-      "published_date": "2026-04-15T16:09:43+00:00"
-    },
-    {
-      "title": "Allies of Flávio Bolsonaro assess that Caiado's entry into the election will take the dispute to the 2nd round",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/aliados-de-flavio-bolsonaro-avaliam-que-entrada-de-caiado-na-eleicao-leva-disputa-ao-2o-turno.shtml",
-      "published_date": "2026-04-15T16:00:00+00:00"
-    },
-    {
-      "title": "Vietnam’s new leader meets China’s Xi on his first overseas trip - AP News",
-      "source": "Google News World",
-      "country": "Vietnam",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1Y1U3pQRlVnZ3AzRFQwc0tNUGg1ZlA5Z19WVzZqNW1kaHRLV3U1YzBBdGNJM3JPc3pVVTdhbnd4WkU1ZFExLVZYcE5Ob2luVjlaTlRJSlNhNnlBZzVuMXJBaGVOQmtVbi1QQ3U1bWpnVmlYWlZ6NEdsSHJxWUtoVlM1MnVFOEhULS1z?oc=5",
-      "published_date": "2026-04-15T15:08:00+00:00"
-    },
-    {
-      "title": "'War on women and girls' : Sexual violence the 'blueprint and strategy' of Sudan's brutal civil war",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/war-on-women-and-girls-sexual-violence-the-blueprint-and-strategy-of-sudan-s-brutal-civil-war",
-      "published_date": "2026-04-15T15:06:00+00:00"
-    },
-    {
-      "title": "Armenia investigates two of Karapetyan’s affiliates for pre-election bribery",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-investigates-two-of-karapetyans-affiliates-for-pre-election-bribery/",
-      "published_date": "2026-04-15T13:27:29+00:00"
     }
   ]
 }
