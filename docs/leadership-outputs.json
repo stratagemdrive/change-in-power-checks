@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-28T23:53:57.365647+00:00",
-    "story_count": 402,
+    "last_updated": "2026-04-29T12:23:13.068746+00:00",
+    "story_count": 401,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,88 @@
   },
   "stories": [
     {
+      "title": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted compared to 2024 Lok Sabha polls",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+      "published_date": "2026-04-29T12:11:40+00:00"
+    },
+    {
+      "title": "Kim Jong-un praises North Korean soldiers who take their own lives to avoid being captured in Ukraine",
+      "source": "El Nacional Venezuela",
+      "country": "Ukraine",
+      "url": "https://www.elnacional.com/2026/04/kim-jong-un-alaba-a-soldados-norcoreanos-que-se-quitan-la-vida-para-no-ser-capturados-en-ucrania/",
+      "published_date": "2026-04-29T10:30:00+00:00"
+    },
+    {
+      "title": "West Bengal Exit Poll Results Live: Will TMC retain power or BJP make inroads? Exit poll results to be out shortly",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-exit-poll-results-live-tmc-bjp-mamata-banerjee-suvendu-10660965/",
+      "published_date": "2026-04-29T10:19:06+00:00"
+    },
+    {
+      "title": "US ambassador to Ukraine steps down after ‘differences of opinion with Trump’",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/us-ambassador-ukraine-resigns-trump-b2966995.html",
+      "published_date": "2026-04-29T10:11:27+00:00"
+    },
+    {
+      "title": "West Bengal polls: PM Modi must resign when TMC wins, Derek O'Brien says",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-polls-pm-modi-must-resign-when-tmc-wins-derek-obrien-says/article70919665.ece",
+      "published_date": "2026-04-29T09:59:34+00:00"
+    },
+    {
+      "title": "2027: Trader joins APC presidential race, purchases ₦100m forms to challenge Tinubu",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/875756-2027-trader-joins-apc-presidential-race-purchases-%e2%82%a6100m-forms-to-challenge-tinubu.html",
+      "published_date": "2026-04-29T09:54:50+00:00"
+    },
+    {
+      "title": "France urges its citizens to quit Mali as junta faces major rebel threat",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/africa/20260429-mali-s-junta-chief-says-situation-under-control-urges-citizens-not-to-panic",
+      "published_date": "2026-04-29T07:26:33+00:00"
+    },
+    {
       "title": "2027 election: Tinubu, APC bigwigs pick forms, GAC backs Hamzat",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/2027-election-tinubu-apc-bigwigs-pick-forms-gac-backs-hamzat/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-29T00:18:35+00:00"
+      "published_date": "2026-04-29T07:18:35+00:00"
+    },
+    {
+      "title": "'They want to rig elections': Mamata Banerjee accuses BJP of ‘hooliganism', ‘terrorism’ in West Bengal",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/they-want-to-rig-elections-mamata-banerjee-accuses-bjp-of-hooliganism-terrorism-in-west-bengal-101777438160826.html",
+      "published_date": "2026-04-29T05:19:38+00:00"
+    },
+    {
+      "title": "Heir apparent? What to look for in North Korea’s possible successor",
+      "source": "NK News",
+      "country": "North Korea",
+      "url": "https://www.nknews.org/2026/04/heir-apparent-what-to-look-for-in-north-koreas-possible-successor/",
+      "published_date": "2026-04-29T05:14:04+00:00"
+    },
+    {
+      "title": "Colombia hit by wave of attacks ahead of presidential election, in photos - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlEwVV80WGF4VDc0SnlEaWJtYVNWQzUzUU5FVl9FSGg0OHpQTmxSUnBmOWI4MUVlcTlwZHMzS0diOUhRcUVpcmoweFlNNGxPYlRpdVpyLThycUpSZW5tM0xPMExwa0JNblVKTU82VzJSVFB4NndRUDVyTUZRU1NHN29OMVRWYTI4enpGaDczYkVWQmkxcGdUWFZfMTJWRmRtUy1iV3dxci1FQUk?oc=5",
+      "published_date": "2026-04-29T02:42:00+00:00"
+    },
+    {
+      "title": "Iran’s Revolutionary Guard seizes wartime power, blunts supreme leader's role",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/04/29/world/politics/iran-revolutionary-guard-supreme-leader/",
+      "published_date": "2026-04-29T01:42:00+00:00"
     },
     {
       "title": "Provea demands renewal of the CNE and guarantees for elections in Venezuela",
@@ -106,6 +183,13 @@
       "source": "The Independent UK",
       "country": "Venezuela",
       "url": "https://www.independent.co.uk/news/world/americas/venezuela-guyana-delcy-rodriguez-pin-b2966764.html",
+      "published_date": "2026-04-28T21:20:23+00:00"
+    },
+    {
+      "title": "A pin worn by Venezuela’s acting President has sparked an international row - AOL.com",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ZVc4R25KUnc3a1FUckNnZVMyQThqOUZCamtHSEVtZ1hPaEN2R1lLQTVtWHdhUDB0bXRsb0NUdFo1RkVLRFcxalJnVzZ4YmxpUEIzY3BjVUV2OFNoX2dCR2hDcWNyWXo3bmJPUjJBd3kyNDlJSGlrVGR3?oc=5",
       "published_date": "2026-04-28T21:20:23+00:00"
     },
     {
@@ -207,18 +291,18 @@
       "published_date": "2026-04-28T11:08:30+00:00"
     },
     {
-      "title": "Ex-Mossad chief: Settler violence an existential threat, curbing it could spark civil war - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3IxSmtZZkdETkF5QXRiNU1rNTA1TU1rdWUyZkxSNEtaYkFHeWtTTGFOQ1ZSaXQ2UTRhYTFaNUhWeG9XSFE5SVBSUDFlZGxrNUZkY3hQVzJrQlhBMnRCeG1IeG1QX2lXanpMWTVLZ0lCaVhnXzVFRWluNUtvalJOd3JXMHI2cmJBUE9YNWJHNFNySElyak01MF9vSzN4UkU5YTdlRHd6N2E4TnliaGtzcmlrN3NmaFVWRnfSAb8BQVVfeXFMT2JnNUIxNF83NzJPT1c5VEZBSGxjRWtYOEg0YWRNNGNJeEVuVUg2XzVHREp1VlZ5Q3QzZVR1d1kwSGVvNjBGSHhqUU1DLTltMU9mZUNZeUVzLTlrYXpfWDBOc0tvRXVOLWI3M1Exc01HZExsT3RNMHFOZG9nMzloV0hEUHZWY3BxM09ySVhaTWdDM0w4QUE2WDhFRUdrRFB5VFREYXRhaEtFU2YwektBNkx6U3E3a1F2ajJnc0xTdFk?oc=5",
-      "published_date": "2026-04-28T09:41:51+00:00"
-    },
-    {
       "title": "Surat Municipal Corporation Election Result 2026: Congress opens account after 5 years, AAP faces setback",
       "source": "Indian Express",
       "country": "India",
       "url": "https://indianexpress.com/article/cities/ahmedabad/surat-municipal-corporation-election-result-2026-ward-wise-winners-list-gujarat-10659990/",
       "published_date": "2026-04-28T09:40:29+00:00"
+    },
+    {
+      "title": "Ex-Mossad chief: Settler violence an existential threat, curbing it could spark civil war - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3IxSmtZZkdETkF5QXRiNU1rNTA1TU1rdWUyZkxSNEtaYkFHeWtTTGFOQ1ZSaXQ2UTRhYTFaNUhWeG9XSFE5SVBSUDFlZGxrNUZkY3hQVzJrQlhBMnRCeG1IeG1QX2lXanpMWTVLZ0lCaVhnXzVFRWluNUtvalJOd3JXMHI2cmJBUE9YNWJHNFNySElyak01MF9vSzN4UkU5YTdlRHd6N2E4TnliaGtzcmlrN3NmaFVWRnfSAb8BQVVfeXFMT2JnNUIxNF83NzJPT1c5VEZBSGxjRWtYOEg0YWRNNGNJeEVuVUg2XzVHREp1VlZ5Q3QzZVR1d1kwSGVvNjBGSHhqUU1DLTltMU9mZUNZeUVzLTlrYXpfWDBOc0tvRXVOLWI3M1Exc01HZExsT3RNMHFOZG9nMzloV0hEUHZWY3BxM09ySVhaTWdDM0w4QUE2WDhFRUdrRFB5VFREYXRhaEtFU2YwektBNkx6U3E3a1F2ajJnc0xTdFk?oc=5",
+      "published_date": "2026-04-28T09:26:00+00:00"
     },
     {
       "title": "After Rajya Sabha exodus, AAP summons 94 Punjab MLAs to Jalandhar amid defection buzz",
@@ -419,7 +503,7 @@
     {
       "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
       "source": "Myanmar Now",
-      "country": "Russia",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
       "published_date": "2026-04-27T08:01:37+00:00"
     },
@@ -681,13 +765,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
       "published_date": "2026-04-26T10:58:28+00:00"
-    },
-    {
-      "title": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted this time compared to 2024 Lok Sabha polls",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
-      "published_date": "2026-04-26T10:32:41+00:00"
     },
     {
       "title": "‘He told me to consider resigning’: RS member Vikramjit Sahney on meeting with Kejriwal before 7 AAP MPs' big move",
@@ -2788,90 +2865,6 @@
       "country": "Armenia",
       "url": "https://oc-media.org/armenia-investigates-two-of-karapetyans-affiliates-for-pre-election-bribery/",
       "published_date": "2026-04-15T13:27:29+00:00"
-    },
-    {
-      "title": "'We were a normal family … but then everything changed': Refugees recount brutal toll of Sudan's civil war",
-      "source": "CBC News World",
-      "country": "Sudan",
-      "url": "https://www.cbc.ca/news/world/sudan-civil-war-three-years-9.7164178?cmp=rss",
-      "published_date": "2026-04-15T11:13:56+00:00"
-    },
-    {
-      "title": "A battle for female voters is changing India’s elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/a-battle-for-female-voters-is-changing-india-s-elections-101776248777249.html",
-      "published_date": "2026-04-15T10:35:38+00:00"
-    },
-    {
-      "title": "Descemer Bueno anticipates what he thinks Trump's coup against the Cuban regime will be like",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-15-u1-e129488-s27061-nid325979-descemer-bueno-anticipa-cree-sera-golpe-trump-contra",
-      "published_date": "2026-04-15T09:57:24+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: a chaotic election that revives protests",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260415-pr%C3%A9sidentielle-au-p%C3%A9rou-un-scrutin-chaotique-qui-ravive-les-contestations",
-      "published_date": "2026-04-15T09:49:28+00:00"
-    },
-    {
-      "title": "After three years of war, exiled Sudanese find their place in Kenya",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260415-after-three-years-of-war-exiled-sudanese-find-their-place-in-kenya",
-      "published_date": "2026-04-15T09:39:00+00:00"
-    },
-    {
-      "title": "S in Copenhagen definitively buries Rosenkrantz-Theil's election promises",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/politik/art10802442/S-i-K%C3%B8benhavn-begraver-endegyldigt-Rosenkrantz-Theils-valgl%C3%B8fter",
-      "published_date": "2026-04-15T07:00:16+00:00"
-    },
-    {
-      "title": "Candidate calls for new election in Peru, claiming fraud without evidence",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss",
-      "published_date": "2026-04-15T05:24:01+00:00"
-    },
-    {
-      "title": "\"Regime change in Venezuela must come from within\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/el-cambio-de-regimen-en-venezuela-debe-venir-desde-dentro/",
-      "published_date": "2026-04-15T05:17:00+00:00"
-    },
-    {
-      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/putin-orban-hungary-russia-ukraine-kremlin-b2957814.html",
-      "published_date": "2026-04-15T03:26:33+00:00"
-    },
-    {
-      "title": "Despite placing second in the runoff: Rafael López Aliaga asks to annul the presidential elections in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/pese-a-ubicarse-en-segundo-lugar-hacia-el-balotaje-rafael-lopez-aliaga-pide-anular-las-elecciones-presidenciales-en-peru/",
-      "published_date": "2026-04-15T01:26:04+00:00"
-    },
-    {
-      "title": "Usach in suspense: candidate who was left off the ballot asks the Court of Santiago to suspend elections for rector",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/usach-en-vilo-candidato-que-quedo-fuera-de-la-papeleta-pide-a-la-corte-de-santiago-suspender-elecciones-para-rector/",
-      "published_date": "2026-04-15T00:26:33+00:00"
-    },
-    {
-      "title": "President of the French Senate calls for elections in Venezuela after meeting with María Corina Machado",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/presidente-del-senado-frances-pide-elecciones-en-venezuela-tras-reunirse-con-maria-corina-machado/",
-      "published_date": "2026-04-15T00:08:43+00:00"
     }
   ]
 }
