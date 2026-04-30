@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-30T12:20:46.448445+00:00",
-    "story_count": 396,
+    "last_updated": "2026-04-30T23:49:46.902305+00:00",
+    "story_count": 408,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,172 @@
   },
   "stories": [
     {
+      "title": "Elections Committee head Orly Ades steps down after 16 years, half a year before Knesset elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894800",
+      "published_date": "2026-04-30T22:47:25+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
+      "published_date": "2026-04-30T20:32:07+00:00"
+    },
+    {
+      "title": "Jury of Italy's Venice Biennale resigns over Russia row",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/jury-of-italy-s-venice-biennale-resigns-over-russia-row",
+      "published_date": "2026-04-30T19:44:02+00:00"
+    },
+    {
+      "title": "New Details: How the Mossad Wanted to Overthrow the Iranian Regime",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-wie-der-mossad-das-iranische-regime-stuerzen-wollte-200786303.html",
+      "published_date": "2026-04-30T19:08:43+00:00"
+    },
+    {
+      "title": "Venice Biennale's international jury resigns as Italy's government opposes Russia's participation",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa",
+      "published_date": "2026-04-30T18:53:54+00:00"
+    },
+    {
+      "title": "Vedomosti reports Russia’s former deputy natural resources minister left for US after resigning",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/04/30/vedomosti-reports-russia-s-former-deputy-natural-resources-minister-left-for-us-after-resigning",
+      "published_date": "2026-04-30T18:31:04+00:00"
+    },
+    {
+      "title": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
+      "source": "NPR World",
+      "country": "Myanmar",
+      "url": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger",
+      "published_date": "2026-04-30T17:26:23+00:00"
+    },
+    {
+      "title": "Key pollster skips, most predict BJP win, Mamata says guard EVMs: The Bengal exit poll knot",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/key-pollster-skips-most-predict-bjp-win-mamata-banerjee-says-guard-evms-bengal-exit-poll-knot-tmc-101777566509152.html",
+      "published_date": "2026-04-30T17:01:28+00:00"
+    },
+    {
+      "title": "Venice Biennale: the jury resigns, after the controversy over Russia's participation",
+      "source": "Le Monde France",
+      "country": "Russia",
+      "url": "https://www.lemonde.fr/culture/article/2026/04/30/biennale-de-venise-le-jury-demissionne-apres-la-polemique-sur-la-participation-de-la-russie_6684643_3246.html",
+      "published_date": "2026-04-30T16:53:35+00:00"
+    },
+    {
+      "title": "Iran targets long-standing exiled opposition as war deepens repression",
+      "source": "RFI English",
+      "country": "Iran",
+      "url": "https://www.rfi.fr/en/international/20260430-iran-executions-target-old-exiled-opposition-as-war-deepens-repression-mek",
+      "published_date": "2026-04-30T16:11:26+00:00"
+    },
+    {
+      "title": "'Damage control mode': Reputations of Mali junta & Russian mercenaries 'hang in balance'",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/damage-control-mode-reputations-of-mali-junta-russian-mercenaries-hang-in-balance",
+      "published_date": "2026-04-30T15:59:10+00:00"
+    },
+    {
+      "title": "Mali’s junta asked Russians to bring order. Militants just stormed in. - The Washington Post",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZWtROVBxYXhpUnlCWkpHVmlfMlJpaWJ3NllLOHM4WDdrZThNdmNDaTZBRmczS2oyQmt2UWt5NGRJZlhkalJrY29QM0NaVDYtY19tYWZST0lhMXB3NFY4dzlORHFqaWlra01DMFAyQTZnYzhPZFJQejZR?oc=5",
+      "published_date": "2026-04-30T15:56:49+00:00"
+    },
+    {
+      "title": "Dagestan Head Sergei Melikov Will Step Down in September, Putin Says",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/04/30/dagestan-head-sergei-melikov-will-step-down-in-september-putin-says-a92653",
+      "published_date": "2026-04-30T15:56:00+00:00"
+    },
+    {
+      "title": "Damascus makes global history in Zulia: inaugurates the largest store in the world and celebrates mothers with a mega concert",
+      "source": "El Nacional Venezuela",
+      "country": "Syria",
+      "url": "https://www.elnacional.com/2026/04/damasco-hace-historia-global-en-el-zulia-inaugura-la-tienda-mas-grande-del-mundo-y-celebra-a-las-madres-con-un-mega-concierto/",
+      "published_date": "2026-04-30T14:35:07+00:00"
+    },
+    {
+      "title": "Why Axis My India won't release Bengal exit poll results: ‘Respondent hesitancy, high refusal'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/why-axis-my-india-wont-release-bengal-exit-poll-results-respondent-hesitancy-high-refusal-101777553596374.html",
+      "published_date": "2026-04-30T13:48:28+00:00"
+    },
+    {
+      "title": "Iran supreme leader issues defiant statement on strait of Hormuz",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/30/iran-supreme-leader-issues-defiant-statement-on-strait-of-hormuz",
+      "published_date": "2026-04-30T13:34:21+00:00"
+    },
+    {
+      "title": "Alcolumbre aims for re-election by rejecting Messias and reacts to what he says he sees as the ingratitude of the Lula government",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/alcolumbre-mira-reeleicao-ao-rejeitar-messias-e-reage-ao-que-diz-ver-como-ingratidao-do-governo-lula.shtml",
+      "published_date": "2026-04-30T13:31:00+00:00"
+    },
+    {
+      "title": "In fresh message, Iran's Supreme Leader Ayatollah Mojtaba Khamenei defies US naval blockade",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade",
+      "published_date": "2026-04-30T13:10:56+00:00"
+    },
+    {
+      "title": "Iran Supreme Leader says foreigners with greed belong at ‘bottom of its waters’",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/mojtaba-khamenei-persian-gulf-day-statement-strait-of-hormuz-us-defeat-trump-10664317/",
+      "published_date": "2026-04-30T12:52:10+00:00"
+    },
+    {
+      "title": "Zelensky signs laws extending martial law and general mobilization in Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4118293-zelensky-signs-laws-extending-martial-law-and-general-mobilization-in-ukraine.html",
+      "published_date": "2026-04-30T12:33:00+00:00"
+    },
+    {
+      "title": "European Parliament approves resolution to maintain sanctions on Venezuela if there is no progress towards democracy",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/parlamento-europeo-aprueba-resolucion-para-mantener-sanciones-a-venezuela-si-no-hay-avances-hacia-la-democracia/",
+      "published_date": "2026-04-30T12:19:57+00:00"
+    },
+    {
       "title": "Top court upholds guilty verdicts for 18 people in courthouse riot related to Yoon's martial law bid",
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/20260430/top-court-upholds-guilty-verdicts-for-18-people-in-courthouse-riot-related-to-yoons-martial-law-bid?utm_source=rss",
       "published_date": "2026-04-30T12:17:02+00:00"
+    },
+    {
+      "title": "Cooperstown inaugurates exhibition on Venezuela's victory in the World Classic",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/04/cooperstown-inaugura-exhibicion-sobre-el-triunfo-de-venezuela/",
+      "published_date": "2026-04-30T12:13:44+00:00"
+    },
+    {
+      "title": "Supreme leader vows Iran won’t give up nuclear technologies",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/04/30/world/iran-vow-nuclear-tech/",
+      "published_date": "2026-04-30T12:09:00+00:00"
     },
     {
       "title": "Assembly election 2026 LIVE: Central forces working as BJP agents during West Bengal polls, says Mamata Banerjee",
@@ -149,6 +310,13 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-exit-polls-when-will-axis-my-india-release-exit-poll-predictions-101777516138537.html",
       "published_date": "2026-04-30T03:19:35+00:00"
+    },
+    {
+      "title": "Exit Poll results 2026 highlights: TMC, BJP workers clash at Kolkata strongroom, EC rubbishes claims",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assembly-elections-exit-poll-results-2026-live-updates-axis-my-india-chanakya-west-bengal-tamil-nadu-kerala-assam-101777511122555.html",
+      "published_date": "2026-04-30T01:44:29+00:00"
     },
     {
       "title": "Exit poll results 2026: Close fight in Bengal, BJP sweep in Assam; Kerala could see UDF comeback",
@@ -720,7 +888,7 @@
     {
       "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
       "source": "Myanmar Now",
-      "country": "Russia",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
       "published_date": "2026-04-27T08:01:37+00:00"
     },
@@ -2746,90 +2914,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/leonardo-cubillos-renuncia-al-pr-extimonel-acusa-una-transaccion-tacita-de-colaboracion-de-la-nueva-mesa-con-el-gobierno-de-kast/",
       "published_date": "2026-04-17T00:08:40+00:00"
-    },
-    {
-      "title": "The University of Florida FIU builds a study center dedicated to the Cuban exile",
-      "source": "El Nacional Venezuela",
-      "country": "Cuba",
-      "url": "https://www.elnacional.com/2026/04/la-universidad-de-florida-fiu-construye-un-centro-de-estudios-dedicado-al-exilio-cubano/",
-      "published_date": "2026-04-16T23:40:22+00:00"
-    },
-    {
-      "title": "‘Security first condition of good governance’: Yogi Adityanath inaugurates Rs 9.18-cr security complex at Gorakhnath Temple",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/lucknow/security-first-condition-of-good-governance-yogi-adityanath-inaugurates-rs-9-18-cr-security-complex-at-gorakhnath-temple-10640649/",
-      "published_date": "2026-04-16T23:34:38+00:00"
-    },
-    {
-      "title": "United States parliamentarians prepare initiative to promote elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/congresistas-de-estados-unidos-preparan-iniciativa-para-impulsar-elecciones-en-venezuela/",
-      "published_date": "2026-04-16T22:28:26+00:00"
-    },
-    {
-      "title": "The United States hopes that María Corina Machado can freely participate in the Venezuelan elections",
-      "source": "CiberCuba",
-      "country": "Venezuela",
-      "url": "https://www.cibercuba.com/noticias/2026-04-17-u1-e135253-s27061-nid326188-estado-unidos-espera-maria-corina-machado-pueda",
-      "published_date": "2026-04-16T22:05:50+00:00"
-    },
-    {
-      "title": "Election of PT member to TCU increases tucana bench in the Chamber",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/eleicao-de-petista-para-o-tcu-aumenta-bancada-tucana-na-camara.shtml",
-      "published_date": "2026-04-16T22:00:00+00:00"
-    },
-    {
-      "title": "Lula da Silva calls for general elections in Venezuela as a solution to political crisis",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/lula-da-silva-propone-elecciones-generales-venezuela/",
-      "published_date": "2026-04-16T19:04:47+00:00"
-    },
-    {
-      "title": "Presidential election: Emmanuel Macron announces a future bill “against foreign interference”",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/16/election-presidentielle-emmanuel-macron-annonce-un-futur-projet-de-loi-contre-les-ingerences-etrangeres_6680588_4408996.html",
-      "published_date": "2026-04-16T18:58:43+00:00"
-    },
-    {
-      "title": "Candidate López Aliaga offers $5,800 for “truthful information” about the alleged electoral fraud in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/candidato-lopez-aliaga-ofrece-5800-dolares-por-informacion-veraz-sobre-el-supuesto-fraude-electoral-en-peru/",
-      "published_date": "2026-04-16T17:30:13+00:00"
-    },
-    {
-      "title": "“Four years amount to nothing”: Overflowing sincere intention to run for re-election as mayor of Santiago",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/cuatro-anos-se-hacen-nada-desbordes-sincera-intencion-de-ir-a-reeleccion-como-alcalde-de-santiago/",
-      "published_date": "2026-04-16T15:44:45+00:00"
-    },
-    {
-      "title": "Captured Polish citizen who fought for Ukraine sentenced to 13 years in Russian prison camp",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/krzysztof-flaczek-ukraine-luhansk-poland-b2959178.html",
-      "published_date": "2026-04-16T15:43:16+00:00"
-    },
-    {
-      "title": "Another Orban? Here's why you should care about Bulgaria's upcoming elections - The Kyiv Independent",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnlLbnNsR0pPZExaRU1tb24xVHA1MWN2NWZJcWJsWHlwcW0xTEtUM0dWbmc5R3Z5eXBtOWpaeTZ4VkVwYld3bHFJbnl6ejVONnIzNktOMTNTMUlDemxfSXZWWS1lMHJlM251VUJqazZEY3RtZzJ3R1N4cFp0eWR2YVRKWGJiSHEySlh2NTBJenlJSlFpY3d5cWtmWmZnWmd6UEtQYTZB?oc=5",
-      "published_date": "2026-04-16T14:55:23+00:00"
-    },
-    {
-      "title": "Mario Desbordes hopes to seek re-election as mayor of Santiago: “Four years amount to nothing”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/mario-desbordes-espera-buscar-la-reeleccion-como-alcalde-de-santiago-cuatro-anos-se-hacen-nada/",
-      "published_date": "2026-04-16T14:17:16+00:00"
     }
   ]
 }
