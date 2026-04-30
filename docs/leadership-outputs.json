@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-29T23:52:26.285073+00:00",
-    "story_count": 401,
+    "last_updated": "2026-04-30T12:20:46.448445+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Top court upholds guilty verdicts for 18 people in courthouse riot related to Yoon's martial law bid",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260430/top-court-upholds-guilty-verdicts-for-18-people-in-courthouse-riot-related-to-yoons-martial-law-bid?utm_source=rss",
+      "published_date": "2026-04-30T12:17:02+00:00"
+    },
+    {
+      "title": "Assembly election 2026 LIVE: Central forces working as BJP agents during West Bengal polls, says Mamata Banerjee",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
+      "published_date": "2026-04-30T12:07:12+00:00"
+    },
+    {
+      "title": "LIVE – War in the Middle East: the United States suffered a “shameful defeat”, tackles Iranian supreme leader",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-etats-unis-donald-trump-vladimir-poutine-israel-liban-20260430",
+      "published_date": "2026-04-30T12:05:03+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader says US suffered ‘disgraceful defeat’",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/04/irans-supreme-leader-says-us-suffered-disgraceful-defeat/",
+      "published_date": "2026-04-30T11:55:04+00:00"
+    },
+    {
+      "title": "‘Exit poll from BJP office’: Mamata Banerjee's first reaction on Bengal projections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/exit-poll-from-bjp-office-mamata-banerjees-first-reaction-on-bengal-projections-101777549284119.html",
+      "published_date": "2026-04-30T11:49:55+00:00"
+    },
+    {
+      "title": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats – US politics live",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
+      "published_date": "2026-04-30T11:47:08+00:00"
+    },
+    {
+      "title": "Iran's supreme leader: Americans belong 'at the bottom of the sea'",
+      "source": "DR News Denmark",
+      "country": "Iran",
+      "url": "https://www.dr.dk/nyheder/seneste/irans-oeverste-leder-amerikanere-hoerer-til-paa-bunden-af-havet",
+      "published_date": "2026-04-30T11:43:00+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Tehran threatens US in defiant new supreme leader statement as Trump ‘considers new strikes’",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-blockade-oil-strait-hormuz-b2967791.html",
+      "published_date": "2026-04-30T11:20:29+00:00"
+    },
+    {
+      "title": "LIVE, war in the Middle East: Supreme Leader Mojtaba Khamenei assures that Iran will “protect” its “nuclear and ballistic capabilities”",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-le-guide-supreme-mojtaba-khamenei-assure-que-l-iran-protegera-ses-capacites-nucleaires-et-balistiques_6684072_3210.html",
+      "published_date": "2026-04-30T11:10:34+00:00"
+    },
+    {
+      "title": "BJP's continuity in Assam, debut in Bengal, Vijay magic in Tamil Nadu: Full list of exit poll results",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-continuity-in-assam-debut-in-bengal-vijay-magic-in-tamil-nadu-full-list-of-exit-poll-results-101777541848174.html",
+      "published_date": "2026-04-30T10:39:27+00:00"
+    },
+    {
+      "title": "Eight killed in Myanmar junta airstrike on bridge in Chin State’s Kanpetlet Township",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/eight-killed-in-myanmar-junta-airstrike-on-bridge-in-chin-states-kanpetlet-township/",
+      "published_date": "2026-04-30T09:32:19+00:00"
+    },
+    {
+      "title": "Axis My India won't release exit poll results for West Bengal elections, says Pradeep Gupta",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/axis-my-india-wont-release-exit-poll-results-for-west-bengal-elections-says-pradeep-gupta-101777538909927.html",
+      "published_date": "2026-04-30T08:58:45+00:00"
+    },
+    {
+      "title": "Why Axis My India still hasn't released exit poll predictions for West Bengal",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-exit-polls-when-will-axis-my-india-release-exit-poll-predictions-101777516138537.html",
+      "published_date": "2026-04-30T03:19:35+00:00"
+    },
+    {
+      "title": "Exit poll results 2026: Close fight in Bengal, BJP sweep in Assam; Kerala could see UDF comeback",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/exit-poll-results-close-fight-in-bengal-bjp-sweep-in-assam-kerala-could-see-udf-comeback-dmk-firm-in-tn-101777509568659.html",
+      "published_date": "2026-04-30T00:48:48+00:00"
+    },
     {
       "title": "History of the Cuban exile: \"I am deported\"",
       "source": "CiberCuba",
@@ -622,7 +720,7 @@
     {
       "title": "Myanmar junta troops sweep villages near Russia-backed Dawei port",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "Russia",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-troops-sweep-villages-near-russia-backed-dawei-port/",
       "published_date": "2026-04-27T08:01:37+00:00"
     },
@@ -2732,139 +2830,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/mario-desbordes-espera-buscar-la-reeleccion-como-alcalde-de-santiago-cuatro-anos-se-hacen-nada/",
       "published_date": "2026-04-16T14:17:16+00:00"
-    },
-    {
-      "title": "Tinubu congratulates Benin Republic’s president-elect Wadagni",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubu-congratulates-benin-republics-president-elect-wadagni/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-16T12:00:13+00:00"
-    },
-    {
-      "title": "Armenia arrests 14 affiliates of Karapetyan for alleged election bribery",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-arrests-14-affiliates-of-karapetyan-for-alleged-election-bribery/",
-      "published_date": "2026-04-16T11:38:47+00:00"
-    },
-    {
-      "title": "Sudan civil war: Civilians caught in the deadly crossfire of a ruthless army-RSF power struggle",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260416-sudan-civil-war-civilians-caught-in-the-deadly-crossfire-of-a-ruthless-army-rsf-power-struggle",
-      "published_date": "2026-04-16T11:28:39+00:00"
-    },
-    {
-      "title": "Three monks dead as junta bombs monasteries during Myanmar’s Buddhist New Year",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/three-monks-dead-as-junta-bombs-monasteries-during-myanmars-buddhist-new-year/",
-      "published_date": "2026-04-16T10:12:31+00:00"
-    },
-    {
-      "title": "Chatbots at the ballot box: AI skirts Brazil election rules",
-      "source": "VN Express International",
-      "country": "Brazil",
-      "url": "https://e.vnexpress.net/news/world/chatbots-at-the-ballot-box-ai-skirts-brazil-election-rules-5063303.html",
-      "published_date": "2026-04-16T09:52:25+00:00"
-    },
-    {
-      "title": "Anti-France influencer Kemi Seba arrested in South Africa for inciting rebellion in Benin",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/africa/20260416-anti-france-influencer-kemi-seba-arrested-in-south-africa-for-inciting-rebellion-in-benin",
-      "published_date": "2026-04-16T09:46:00+00:00"
-    },
-    {
-      "title": "South Korean sentenced to prison for fraudulent North Korea defection scheme",
-      "source": "NK News",
-      "country": "North Korea",
-      "url": "https://www.nknews.org/2026/04/south-korean-sentenced-to-prison-for-fraudulent-north-korea-defection-scheme/",
-      "published_date": "2026-04-16T09:13:20+00:00"
-    },
-    {
-      "title": "BJP president Nitin Nabin, 15 others sworn in as Rajya Sabha members",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-15-others-sworn-in-as-rajya-sabha-members-101776330461894.html",
-      "published_date": "2026-04-16T09:12:29+00:00"
-    },
-    {
-      "title": "Xi Jinping stresses ‘patience’ on Taiwan reunification in talks with opposition leader",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3350271/xi-jinping-stressed-patience-taiwan-reunification-talks-opposition-leader?utm_source=rss_feed",
-      "published_date": "2026-04-16T08:00:09+00:00"
-    },
-    {
-      "title": "This video of ‘Iran capturing US pilot’ was filmed in Pakistan",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3350286/video-iran-capturing-us-pilot-was-filmed-pakistan?utm_source=rss_feed",
-      "published_date": "2026-04-16T07:20:07+00:00"
-    },
-    {
-      "title": "Poland Urges EU to Quickly Release €90bn Ukraine Loan after Orbán Ousted - Kyiv Post",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaY3hRSW5oanc3RDdWcmI1TzBTRUp6WUZSd0JaeVFYZ2pqWHIzb3VMbzlvbWlSbGpGUHVTaG9falQ1d0hIRkxVQnlaZw?oc=5",
-      "published_date": "2026-04-16T06:17:46+00:00"
-    },
-    {
-      "title": "“Your ships will be sunk by our first missiles”: Advisor to Iranian Supreme Leader Mojtaba Khamenei threatens US Navy",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/vos-navires-seront-coules-par-nos-premiers-missiles-un-conseiller-du-guide-supreme-iranien-mojtaba-khamenei-menace-la-marine-americaine-20260416",
-      "published_date": "2026-04-16T05:55:51+00:00"
-    },
-    {
-      "title": "The 15 seremis of the Kast government who resigned or did not take office",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/los-15-seremis-del-gobierno-de-kast-que-renunciaron-o-no-asumieron-su-cargo/",
-      "published_date": "2026-04-16T03:12:08+00:00"
-    },
-    {
-      "title": "Lokesh elevated to TDP working president amid politburo reshuffle",
-      "source": "Hindustan Times",
-      "country": "China",
-      "url": "https://www.hindustantimes.com/india-news/lokesh-elevated-to-tdp-working-president-amid-politburo-reshuffle-101776282915934.html",
-      "published_date": "2026-04-16T02:12:07+00:00"
-    },
-    {
-      "title": "Ten years after impeachment, PT maintains a coup narrative against Dilma and links the process to January 8",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/dez-anos-apos-impeachment-pt-mantem-narrativa-de-golpe-contra-dilma-e-liga-processo-ao-8-de-janeiro.shtml",
-      "published_date": "2026-04-16T02:00:00+00:00"
-    },
-    {
-      "title": "In Bengal elections, Trinamool Congress leads parties in women candidates",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tmc-leads-parties-in-women-candidates-101776282374486.html",
-      "published_date": "2026-04-16T01:05:14+00:00"
-    },
-    {
-      "title": "Chamber accelerates project that could grant amnesty to Bolsonaro supporters who blocked roads after 2022 elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/camara-acelera-projeto-que-pode-anistiar-bolsonaristas-que-bloquearam-estradas-apos-eleicoes-de-2022.shtml",
-      "published_date": "2026-04-16T00:50:00+00:00"
-    },
-    {
-      "title": "The attorney general of Peru affirms that he has not noticed signs of fraud in elections",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/el-fiscal-general-de-peru-afirma-que-no-ha-advertido-indicios-de-fraude-en-elecciones/",
-      "published_date": "2026-04-16T00:13:34+00:00"
-    },
-    {
-      "title": "Japanese public backs a female emperor while Takaichi pushes conservative succession plan",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/week-asia/politics/article/3350203/japanese-public-backs-female-emperor-while-takaichi-pushes-conservative-succession-plan?utm_source=rss_feed",
-      "published_date": "2026-04-16T00:00:18+00:00"
     }
   ]
 }
