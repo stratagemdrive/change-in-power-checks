@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-04-30T23:49:46.902305+00:00",
-    "story_count": 408,
+    "last_updated": "2026-05-01T12:03:19.774649+00:00",
+    "story_count": 399,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran’s supreme leader “completely well” and “overseeing negotiations,” adviser insists",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-supreme-leader-completely-well-and-overseeing-negotiations-adviser-insists/",
+      "published_date": "2026-05-01T11:57:32+00:00"
+    },
+    {
+      "title": "Ex-presidential candidate challenges Tinubu, Atiku, Obi to debate",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/ex-presidential-candidate-challenges-tinubu-atiku-obi-to-debate/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-01T11:47:10+00:00"
+    },
+    {
+      "title": "‘Election bill’: Rahul Gandhi leads Opposition fire on commercial LPG rate hike",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/lpg-price-hike-rahul-gandhi-opposition-election-bill-petrol-diesel-10666107/",
+      "published_date": "2026-05-01T11:25:07+00:00"
+    },
+    {
+      "title": "Is Myanmar's military winning the civil war?",
+      "source": "Deutsche Welle English",
+      "country": "Myanmar",
+      "url": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-01T10:56:00+00:00"
+    },
+    {
+      "title": "Venice Biennale jury resigns after controversy over Russian participation",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260501-le-jury-de-la-biennale-de-venise-d%C3%A9missionne-apr%C3%A8s-une-pol%C3%A9mique-sur-la-participation-de-la-russie",
+      "published_date": "2026-05-01T09:12:13+00:00"
+    },
+    {
+      "title": "Venice Biennale jury resigns against participation of Russia and Israel",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/venice-biennale-jury-resigns-against-participation-of-russia-and-israel",
+      "published_date": "2026-05-01T07:52:50+00:00"
+    },
+    {
+      "title": "Brazil's Congress reduces ex-President Bolsonaro's coup prison sentence",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "http://www.euronews.com/2026/05/01/brazils-congress-passes-bill-to-reduce-former-president-jair-bolsonaros-27-year-prison-sen",
+      "published_date": "2026-05-01T07:13:51+00:00"
+    },
+    {
+      "title": "Myanmar junta plays Suu Kyi card, in return to old playbook",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-plays-suu-kyi-card-in-return-to-old-playbook/",
+      "published_date": "2026-05-01T06:13:20+00:00"
+    },
+    {
+      "title": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
+      "source": "NPR World",
+      "country": "Russia",
+      "url": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
+      "published_date": "2026-05-01T05:19:17+00:00"
+    },
     {
       "title": "Elections Committee head Orly Ades steps down after 16 years, half a year before Knesset elections",
       "source": "Jerusalem Post",
@@ -2788,132 +2851,6 @@
       "country": "Myanmar",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGlQdU5TRVprS2ZKTmFfVm1ocXo3SVRvdDhqcGk5Y3I0MFNiU1htNmZtTk9XLXlyZXg3c1lsYk92U3hCQ09JVGsydkFVX2ZzeDBLY1BFYTVIeWpWc2txajZqNC0ycmFXOUszYjc4dkV6NThQM19IRmVVV0tNZjJEc3RR?oc=5",
       "published_date": "2026-04-17T14:22:04+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 LIVE: Abhishek Banerjee says BJP supporters abused TMC woman worker",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-west-bengal-tamil-nadu-kerala-assam-puducherry-april-17-2026-highlights/article70872100.ece",
-      "published_date": "2026-04-17T11:44:41+00:00"
-    },
-    {
-      "title": "Ahead 2027, Jigawa Assembly passes vote of confidence on Tinubu, Namadi",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/promoted/872542-ahead-2027-jigawa-assembly-passes-vote-of-confidence-on-tinubu-namadi.html",
-      "published_date": "2026-04-17T11:33:24+00:00"
-    },
-    {
-      "title": "Bulgaria: the former pro-Russian president favorite in the elections",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260417-bulgarie-l-ex-pr%C3%A9sident-prorusse-favori-des-%C3%A9lections",
-      "published_date": "2026-04-17T11:26:52+00:00"
-    },
-    {
-      "title": "Stalin, Rahul Gandhi unlikely to share stage for Tamil Nadu election campaign: R.S. Bharathi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-rahul-gandhi-unlikely-to-share-stage-for-election-campaign-in-tn-rs-bharathi/article70872776.ece",
-      "published_date": "2026-04-17T11:05:57+00:00"
-    },
-    {
-      "title": "The US increases pressure to achieve electoral conditions in Venezuela without setting a date for the elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/ee-uu-aumenta-presion-para-lograr-condiciones-electorales-en-venezuela-sin-fijar-fecha-para-comicios/",
-      "published_date": "2026-04-17T10:38:00+00:00"
-    },
-    {
-      "title": "British PM under pressure to resign over ex-envoy to US appointment",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/04/british-pm-under-pressure-to-resign-over-ex-envoy-to-us-appointment/",
-      "published_date": "2026-04-17T10:12:42+00:00"
-    },
-    {
-      "title": "Tamil Nadu Assembly election: BJP will divide the State if AIADMK alliance is given a chance, says Stalin",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-will-divide-tamil-nadu-if-aiadmk-alliance-is-given-a-chance-says-stalin/article70870737.ece",
-      "published_date": "2026-04-17T09:23:14+00:00"
-    },
-    {
-      "title": "Win Myint, Myanmar’s ousted president, released by regime",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/win-myint-myanmars-ousted-president-released-by-regime/",
-      "published_date": "2026-04-17T09:12:56+00:00"
-    },
-    {
-      "title": "Bulgaria’s pro-Russian former president is seen as strong front-runner in Sunday’s election - AP News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlNWUmpuRXB0Q24zUzFCMTdqbG5zODZuYXhPQVZCaDV0dzFKWnBzTDNWLU03eE1QdVQ0SUs0V0puNGJRdHVoMjNmbHBJMUJUaU01bFN5NkFVNVNIWVNGUVRkWHZYRFVQMkxwUnNzcXBXbDQ0UnNqWWlGTGZuaUVjUXNrdjdCVTJOelhHUXNmdmlyeUc5d2hEdEF3SzdnbHlrbGZJUzRPV0ZMWmRRZFow?oc=5",
-      "published_date": "2026-04-17T09:09:00+00:00"
-    },
-    {
-      "title": "UP Opposition leader stopped from meeting Noida workers; Samajwadi Party slams Yogi govt",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/delhi/up-opposition-leader-meeting-noida-workers-samajwadi-10641487/",
-      "published_date": "2026-04-17T09:05:31+00:00"
-    },
-    {
-      "title": "Escaped wolf Neukgu captured after nine-day search in South Korea",
-      "source": "Euronews",
-      "country": "South Korea",
-      "url": "http://www.euronews.com/video/2026/04/17/escaped-wolf-neukgu-captured-after-9-day-search-in-south-korea",
-      "published_date": "2026-04-17T08:41:33+00:00"
-    },
-    {
-      "title": "India: Parliament votes on women's quota, delimitation amid opposition row",
-      "source": "Deutsche Welle English",
-      "country": "India",
-      "url": "https://www.dw.com/en/india-parliament-votes-on-women-s-quota-delimitation-amid-opposition-row/a-76818089?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-17T08:16:00+00:00"
-    },
-    {
-      "title": "Myanmar pardons over 4,000 prisoners, including deposed president",
-      "source": "Al Jazeera English",
-      "country": "Myanmar",
-      "url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president?traffic_source=rss",
-      "published_date": "2026-04-17T07:47:39+00:00"
-    },
-    {
-      "title": "Two more civilians killed as Myanmar junta continues airstrikes during Buddhist New Year",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/two-more-civilians-killed-as-myanmar-junta-continues-airstrikes-during-buddhist-new-year/",
-      "published_date": "2026-04-17T07:19:38+00:00"
-    },
-    {
-      "title": "Assembly elections 2026 LIVE: Devendra Fadnavis predicts BJP win in Bengal; ‘Darr ke aage jeet hai’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-live-mamata-banerjee-himanta-biswa-sarma-tmc-bjp-assam-west-bengal-tamil-nadu-kerala-dmk-stalin-101776401840885.html",
-      "published_date": "2026-04-17T06:56:57+00:00"
-    },
-    {
-      "title": "Israeli election poll: Opposition maintains majority, Benjamin Netanyahu lags behind - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZRktLbTdUaTdpb212a2lHZ3hIUmZYWmdqNHlweVZVNVd4NkNadXhRY3p0ZnhoWHRnc0hiRTU3Wi1BamtjYTVkMVp6ZzZoWm9KZGVHT0hQVHhJdHJBa0pDV0ZGSE9tZGM0Zlh2alF3V3c4OEdYdTR5MWZlWQ?oc=5",
-      "published_date": "2026-04-17T04:47:46+00:00"
-    },
-    {
-      "title": "Runaway wolf finally captured after nine-day search in South Korea",
-      "source": "BBC World",
-      "country": "South Korea",
-      "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T03:22:09+00:00"
-    },
-    {
-      "title": "Leonardo Cubillos resigns from the Radical Party: he accuses a “tacit transaction of collaboration” of the new table with the Kast government",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/leonardo-cubillos-renuncia-al-pr-extimonel-acusa-una-transaccion-tacita-de-colaboracion-de-la-nueva-mesa-con-el-gobierno-de-kast/",
-      "published_date": "2026-04-17T00:08:40+00:00"
     }
   ]
 }
