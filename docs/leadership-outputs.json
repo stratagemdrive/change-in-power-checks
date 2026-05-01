@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-01T12:03:19.774649+00:00",
-    "story_count": 399,
+    "last_updated": "2026-05-01T23:49:24.871242+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Congressman Mario Díaz-Balart on transition in Venezuela: “The only option is for the process to end in elections”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/congresista-mario-diaz-balart-sobre-transicion-en-venezuela/",
+      "published_date": "2026-05-01T20:37:11+00:00"
+    },
+    {
+      "title": "May 1: in Paris, the left denounces “the breakdown of the social system” one year before the presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/1er-mai-a-paris-la-gauche-denonce-la-casse-du-systeme-social-a-un-an-de-la-presidentielle-20260501",
+      "published_date": "2026-05-01T20:34:15+00:00"
+    },
+    {
+      "title": "Seremi resignation of National Assets in Tarapacá: it is the nineteenth departure in the Kast government",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/renuncia-seremi-de-bienes-nacionales-en-tarapaca-es-la-decimo-novena-salida-en-gobierno-de-kast/",
+      "published_date": "2026-05-01T19:04:14+00:00"
+    },
+    {
+      "title": "In Mâcon, the traditional RN meeting turns to the presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/a-macon-le-traditionnel-meeting-du-rn-se-tourne-vers-la-presidentielle-20260501",
+      "published_date": "2026-05-01T17:25:21+00:00"
+    },
+    {
+      "title": "‘Election bill’, says Rahul Gandhi on commercial LPG price hike; Kharge slams ‘anti-labour’ government",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/business/Economy/election-bill-rahul-slams-government-on-commercial-lpg-price-hike/article70928083.ece",
+      "published_date": "2026-05-01T17:17:15+00:00"
+    },
+    {
+      "title": "IDF shifts focus to Iranian nuclear threat as ballistic missiles, regime change fall by the wayside",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-894835",
+      "published_date": "2026-05-01T17:00:08+00:00"
+    },
+    {
+      "title": "US Hormuz coalition 'not in competition' with France-UK proposal, FM says",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/05/01/us-hormuz-coalition-not-in-competition-with-france-uk-proposal-fm-says",
+      "published_date": "2026-05-01T13:07:29+00:00"
+    },
+    {
+      "title": "Mali rebels seize key military camp as junta forces and Russians retreat",
+      "source": "RFI English",
+      "country": "Russia",
+      "url": "https://www.rfi.fr/en/africa/20260501-rebels-take-key-military-camp-in-mali-s-north",
+      "published_date": "2026-05-01T12:42:17+00:00"
+    },
     {
       "title": "Iran’s supreme leader “completely well” and “overseeing negotiations,” adviser insists",
       "source": "Egypt Independent",
@@ -121,6 +177,13 @@
       "country": "Russia",
       "url": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
       "published_date": "2026-05-01T05:19:17+00:00"
+    },
+    {
+      "title": "Election 2026 LIVE: BJP alleges ‘wrongful’ strongroom opening day after TMC's sit-in",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/election-2026-live-updates-eci-bengal-tamil-nadu-tvk-vijay-mamata-tmc-bjp-kerala-assam-exit-poll-evm-tampering-results-101777596124838.html",
+      "published_date": "2026-05-01T01:05:48+00:00"
     },
     {
       "title": "Elections Committee head Orly Ades steps down after 16 years, half a year before Knesset elections",
@@ -2781,76 +2844,6 @@
       "country": "Peru",
       "url": "https://www.elnacional.com/2026/04/jurado-nacional-de-elecciones-de-peru-reconoce-irregularidades-en-comicios/",
       "published_date": "2026-04-18T01:41:37+00:00"
-    },
-    {
-      "title": "Trump administration offers Starlink to Cuba and demands elections and release of political prisoners",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-18-u1-e208487-s27061-nid326300-gobierno-trump-ofrece-starlink-cuba-exige-elecciones",
-      "published_date": "2026-04-17T22:55:05+00:00"
-    },
-    {
-      "title": "Peru, from the election to the scandal: missing ballots, lost votes, failed systems and crossed complaints",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/peru-de-la-eleccion-al-escandalo-boletas-faltantes-votos-extraviados-sistemas-fallidos-y-denuncias-nid17042026/",
-      "published_date": "2026-04-17T22:52:00+00:00"
-    },
-    {
-      "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
-      "published_date": "2026-04-17T22:47:21+00:00"
-    },
-    {
-      "title": "Prakash Karat praises Stalin, INDIA bloc for defeating Constitutional Amendment Bill",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/prakash-karat-praises-stalin-india-bloc-for-defeating-constitutional-amendment-bill/article70875084.ece",
-      "published_date": "2026-04-17T18:46:53+00:00"
-    },
-    {
-      "title": "Epstein case: new calls for the resignation of Starmer, accused of lying about Mandelson",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/caso-epstein-nuevos-llamados-a-la-dimision-de-starmer-acusado-de-mentir-sobre-mandelson/",
-      "published_date": "2026-04-17T17:38:33+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Dengue outbreak in Khartoum, medical sources say capital still unprepared | Measles outbreak causes daily deaths in North Darfur displacement hubs | Mahamid RSF commander, forces defect to the military | RSF-SPLM-N shelling kills 6 in Dalang, military foils new offensive",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/04/17/news/u/sudan-nashra-dengue-outbreak-in-khartoum-medical-sources-say-capital-still-unprepared-measles-outbreak-causes-daily-deaths-in-north-darfur-displacement-hubs-mahamid-rsf-commander-forces-defect/",
-      "published_date": "2026-04-17T17:12:14+00:00"
-    },
-    {
-      "title": "Lula talks about digital regulation to stop external interference in an election year",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-fala-em-regulacao-digital-para-barrar-interferencia-externa-em-ano-eleitoral.shtml",
-      "published_date": "2026-04-17T16:44:00+00:00"
-    },
-    {
-      "title": "Robots just captured a Russian position in Ukraine – but don’t worry about real-life Terminators just yet - The Conversation",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWFZrUkFVdEh3Mm95T3JQNFRYRVNzcWhKdG9ETXpNX1kydFhBeFZkN0U0T3FvaDFHNkhYRUhCV1VxNm5nZVFiZThMYXZhTDJCdmZBWnhubXRTS201MkMyTmJRTktCQ0NodGQycjkzQVM0T0RHMTM0VUh6RFhlYUxJUjFxeXhYc3FaR2R0NzQ0MkVNNUVaQmdkU2hYNGxfcVNGZWpTbXNCM1dVeVFkV1ptSHZTWUJSSEMyTVhrVWI5MGczNGkzcW10ZmVSYlR4aDNmMHlJ?oc=5",
-      "published_date": "2026-04-17T16:11:00+00:00"
-    },
-    {
-      "title": "Douglas Ruas (PL) is elected president of Alerj and leaves the Government of RJ under dependence on the STF",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/douglas-ruas-pl-e-eleito-presidente-da-alerj-e-deixa-governo-do-rj-sob-dependencia-do-stf.shtml",
-      "published_date": "2026-04-17T14:43:00+00:00"
-    },
-    {
-      "title": "Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi - The New York Times",
-      "source": "Google News World",
-      "country": "Myanmar",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGlQdU5TRVprS2ZKTmFfVm1ocXo3SVRvdDhqcGk5Y3I0MFNiU1htNmZtTk9XLXlyZXg3c1lsYk92U3hCQ09JVGsydkFVX2ZzeDBLY1BFYTVIeWpWc2txajZqNC0ycmFXOUszYjc4dkV6NThQM19IRmVVV0tNZjJEc3RR?oc=5",
-      "published_date": "2026-04-17T14:22:04+00:00"
     }
   ]
 }
