@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-01T23:49:24.871242+00:00",
-    "story_count": 398,
+    "last_updated": "2026-05-02T11:49:42.643635+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Libyan Development & Reconstruction Fund inaugurates Derna’s 2,000 housing project",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/05/libyan-development-reconstruction-fund-inaugurates-dernas-2000-housing-project/",
+      "published_date": "2026-05-02T10:50:58+00:00"
+    },
+    {
+      "title": "Kejriwal resorting to ‘vendetta politics’, says BJP after Punjab Police books defected MP",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kejriwal-resorting-to-vendetta-politics-says-bjp-after-defected-mp-gets-booked-in-punjab/article70931380.ece",
+      "published_date": "2026-05-02T10:35:30+00:00"
+    },
+    {
+      "title": "APC chieftain predicts landslide victory for Tinubu in Kano",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/apc-chieftain-predicts-landslide-victory-for-tinubu-in-kano/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-02T08:17:24+00:00"
+    },
+    {
+      "title": "“They are stealing the elections”: in Armenia, a new Russia-EU duel",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260502-armenie-voler-%C3%A9lections-legislatives-pachinian-nouveau-duel-russie-ue",
+      "published_date": "2026-05-02T07:01:11+00:00"
+    },
+    {
+      "title": "Assembly Elections 2026 Live Updates: BJP, TMC supporters clash in South 24 Parganas; heavy security deployed",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assembly-election-2026-live-updates-wb-repoll-exit-poll-result-date-assam-tamil-nadu-kerala-west-bengal-10667165/",
+      "published_date": "2026-05-02T06:18:53+00:00"
+    },
+    {
+      "title": "Counting gains from Beijing, Taiwanese opposition leader Cheng Li-wun eyes US trip in June",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june?utm_source=rss_feed",
+      "published_date": "2026-05-02T05:00:12+00:00"
+    },
+    {
+      "title": "Bengal election 2026 LIVE: Protests in Falta over TMC ‘threats’, BJP, TMC supporters clash",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bengal-election-2026-live-updates-voting-percentage-magrahat-paschim-diamond-harbour-falta-tmc-mamata-bjp-eci-evm-booths-101777682455033.html",
+      "published_date": "2026-05-02T01:17:32+00:00"
+    },
     {
       "title": "Congressman Mario Díaz-Balart on transition in Venezuela: “The only option is for the process to end in elections”",
       "source": "El Nacional Venezuela",
@@ -176,6 +225,13 @@
       "source": "NPR World",
       "country": "Russia",
       "url": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
+      "published_date": "2026-05-01T05:19:17+00:00"
+    },
+    {
+      "title": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation - NPR",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWZ1MkZjR2NvV3hTbGVISUpaM3NCSEVJRXdjOWFDYUgwMEJ4RFNsSlZkYWdET2R0X0RKQWYyOXNlUnYwaDNlQU1DMlNqQkJCSVNMQnZ3TGVFZW1wMjdmUUlFNlZtY0gxRV9TZlFQQVB3RE9Fc0NQczJWbTdRNGFHSA?oc=5",
       "published_date": "2026-05-01T05:19:17+00:00"
     },
     {
@@ -2774,76 +2830,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/middle-east/article-893304",
       "published_date": "2026-04-18T12:15:49+00:00"
-    },
-    {
-      "title": "Peruvian Prosecutor's Office intervenes warehouse of presidential election minutes",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/fiscalia-de-peru-interviene-almacen-de-actas-de-las-presidenciales/",
-      "published_date": "2026-04-18T11:23:59+00:00"
-    },
-    {
-      "title": "Iran-US war latest: Tehran gunboats ‘fire at tanker’ after Strait of Hormuz closed again as supreme leader mocks Trump",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-hormuz-israel-lebanon-ceasefire-b2960246.html",
-      "published_date": "2026-04-18T11:09:44+00:00"
-    },
-    {
-      "title": "My Vote Matters’ campaign launched to help Indian students in UK register for local elections",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/education/study-abroad/my-vote-matters-campaign-launched-to-help-indian-students-in-uk-register-for-local-elections-10643155/",
-      "published_date": "2026-04-18T09:28:24+00:00"
-    },
-    {
-      "title": "Louis Aliot, RN mayor of Perpignan, elected president of the urban community, the largest now led by the far-right party",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/18/louis-aliot-maire-rn-de-perpignan-elu-president-de-la-communaute-urbaine-la-plus-importante-dirigee-desormais-par-le-parti-d-extreme-droite_6681136_823448.html",
-      "published_date": "2026-04-18T09:17:19+00:00"
-    },
-    {
-      "title": "T.N. Assembly election: AIADMK is just a mask for BJP, says Rahul Gandhi at Ponneri",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-is-just-a-mask-for-bjp-says-rahul-gandhi-at-ponneri/article70876945.ece",
-      "published_date": "2026-04-18T09:03:04+00:00"
-    },
-    {
-      "title": "French right divided over primary vote one year from presidential election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/french-right-divided-over-primary-vote-one-year-from-presidential-election",
-      "published_date": "2026-04-18T09:01:55+00:00"
-    },
-    {
-      "title": "Starmer faces calls to step down after appointing Epstein associate",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/2026/04/18/starmer-faces-calls-to-step-down-after-appointing-epstein-associate",
-      "published_date": "2026-04-18T07:29:10+00:00"
-    },
-    {
-      "title": "More 'sings' to Fidel while Cuba collapses: Lesbia Vent inaugurates exhibition in the presence of Díaz-Canel",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-18-u1-e209395-s27061-nid326315-cantos-fidel-mientras-cuba-derrumba-lesbia-vent",
-      "published_date": "2026-04-18T03:26:31+00:00"
-    },
-    {
-      "title": "Most of Lula's allies who were in favor of Dilma's impeachment avoid the issue 10 years later",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/maioria-dos-aliados-de-lula-que-foi-a-favor-do-impeachment-de-dilma-evita-o-tema-10-anos-depois.shtml",
-      "published_date": "2026-04-18T02:00:00+00:00"
-    },
-    {
-      "title": "National Election Jury of Peru recognizes irregularities in elections",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/jurado-nacional-de-elecciones-de-peru-reconoce-irregularidades-en-comicios/",
-      "published_date": "2026-04-18T01:41:37+00:00"
     }
   ]
 }
