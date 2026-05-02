@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-02T11:49:42.643635+00:00",
-    "story_count": 396,
+    "last_updated": "2026-05-02T23:40:45.861556+00:00",
+    "story_count": 395,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "A new wave of guerrilla violence shakes Colombia in the run-up to the elections",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/una-nueva-ola-de-violencia-guerrillera-sacude-a-colombia-en-la-antesala-de-las-elecciones-nid02052026/",
+      "published_date": "2026-05-02T18:01:28+00:00"
+    },
+    {
+      "title": "Ukrainian military debunks Russian claim of capturing Myropillia in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4119025-ukrainian-military-debunks-russian-claim-of-capturing-myropillia-in-sumy-region.html",
+      "published_date": "2026-05-02T17:38:00+00:00"
+    },
+    {
+      "title": "Mexican governor indicted by US steps down",
+      "source": "Deutsche Welle English",
+      "country": "Mexico",
+      "url": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-02T16:40:00+00:00"
+    },
+    {
+      "title": "Zelensky announces upcoming government reshuffle, decisions expected next week",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4119009-zelensky-announces-upcoming-government-reshuffle-decisions-expected-next-week.html",
+      "published_date": "2026-05-02T16:07:00+00:00"
+    },
+    {
+      "title": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
+      "source": "Al Jazeera English",
+      "country": "Mexico",
+      "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss",
+      "published_date": "2026-05-02T15:52:31+00:00"
+    },
+    {
+      "title": "Mexican governor resigns from role days after US accuses him of Sinaloa Cartel ties",
+      "source": "The Independent UK",
+      "country": "Mexico",
+      "url": "https://www.independent.co.uk/news/world/americas/ruben-rocha-sinaloa-cartel-governor-resignation-b2969475.html",
+      "published_date": "2026-05-02T14:59:29+00:00"
+    },
+    {
+      "title": "Mali: Russia, allied at all costs to the military junta",
+      "source": "Le Monde France",
+      "country": "Russia",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/02/la-russie-alliee-coute-que-coute-du-mali_6684871_3212.html",
+      "published_date": "2026-05-02T12:00:11+00:00"
+    },
     {
       "title": "Libyan Development & Reconstruction Fund inaugurates Derna’s 2,000 housing project",
       "source": "Libya Herald",
@@ -156,6 +205,13 @@
       "country": "France",
       "url": "http://www.euronews.com/my-europe/2026/05/01/us-hormuz-coalition-not-in-competition-with-france-uk-proposal-fm-says",
       "published_date": "2026-05-01T13:07:29+00:00"
+    },
+    {
+      "title": "NASA Radar Just Captured Mexico City Sinking Into the Ground After a Century of Unstoppable Collapse - The Daily Galaxy",
+      "source": "Google News World",
+      "country": "Mexico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGhUOVNLeGJJdG9DSHhOWFNjRks1WFpBRm0tczZaLTRtbXFXUVFaaUdUNWxYYmNUanlIVC1IVVVCeGUwcV9yclVTMktJYlZoNjNfMXR1VkNWM2tUR1UwSWd0VU5ybTVvZXhzR3ZVSjJYLUlXMV9ISlota3ZIVm5NYlJ2eEx4dw?oc=5",
+      "published_date": "2026-05-01T12:45:00+00:00"
     },
     {
       "title": "Mali rebels seize key military camp as junta forces and Russians retreat",
@@ -2767,69 +2823,6 @@
       "country": "Russia",
       "url": "https://www.france24.com/fr/europe/20260419-les-bulgares-votent-pour-des-l%C3%A9gislatives-d%C3%A9cisives-un-ancien-pr%C3%A9sident-pro-russe-donn%C3%A9-favori",
       "published_date": "2026-04-19T03:17:14+00:00"
-    },
-    {
-      "title": "Iranian officials ‘afraid’ to bury assassinated Supreme Leader Khamenei: expert - New York Post",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWEzVjEteGkyMHRaOWd0WHNyXzBMd3FXb1pGZzI3Nlk1aVV5cFIxeDZTTEJ0WTlqd2lHeEJtQTlGVXprUW43U0VnTkVsMTlwODJsMWNNb3ZUNEdTOVpwSGhKUklTSmdtNVBkM3FZTVZ4WDM4ODcwUU9TTW1jdTFMOC1ZMWdRcnE4aDdqYW4xNi03S0Z5Nll3Y2dwbG1LeERyQWVTNHk0UGpTUnhjYldmZHVfbFdqSmljLUE?oc=5",
-      "published_date": "2026-04-18T20:22:00+00:00"
-    },
-    {
-      "title": "María Corina Machado warns that there cannot be elections in Venezuela without changing the CNE",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-advierte-que-no-puede-haber-elecciones-en-venezuela-sin-cambiar-al-cne-2/",
-      "published_date": "2026-04-18T20:08:05+00:00"
-    },
-    {
-      "title": "Mounting irregularities cloud Peru’s 2026 general election as runoff remains unclear",
-      "source": "Peru Reports",
-      "country": "Peru",
-      "url": "https://perureports.com/mounting-irregularities-cloud-perus-2026-general-election-as-runoff-remains-unclear/10750/",
-      "published_date": "2026-04-18T18:40:28+00:00"
-    },
-    {
-      "title": "Elections in Peru: only in mid-May would the results of the first round be available",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-recien-a-mediados-de-mayo-se-tendrian-resultados-de-la-primera-vuelta/",
-      "published_date": "2026-04-18T15:14:49+00:00"
-    },
-    {
-      "title": "María Corina Machado warns that there cannot be elections in Venezuela without changing the CNE",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-advierte-que-no-puede-haber-elecciones-en-venezuela-sin-cambiar-al-cne/",
-      "published_date": "2026-04-18T15:07:16+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/tv/news/iran-war-trump-khamenei-supreme-leader-video-b2960333.html",
-      "published_date": "2026-04-18T14:03:50+00:00"
-    },
-    {
-      "title": "National Election Board of Peru accuses “irregularities” in presidential elections",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/junta-nacional-de-elecciones-de-peru-acusa-irregularidades-en-comicios-presidenciales/",
-      "published_date": "2026-04-18T13:26:47+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-supreme-leader-warns-of-new-bitter-defeats-for-us-and-israel?traffic_source=rss",
-      "published_date": "2026-04-18T12:59:53+00:00"
-    },
-    {
-      "title": "‘Collateral damage’: Exiled Lebanese tells 'Post' refugees back Israel’s fight against Hezbollah",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/middle-east/article-893304",
-      "published_date": "2026-04-18T12:15:49+00:00"
     }
   ]
 }
