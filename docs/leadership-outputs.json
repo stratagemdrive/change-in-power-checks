@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-02T23:40:45.861556+00:00",
-    "story_count": 395,
+    "last_updated": "2026-05-03T11:46:44.368784+00:00",
+    "story_count": 394,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Tinubu will lose only if election is held on social media – Gov  Uba Sani",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubu-will-lose-only-if-election-is-held-on-social-media-gov-uba-sani/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-03T11:54:24+00:00"
+    },
+    {
+      "title": "Lula is exposed after two historic defeats and enters his most vulnerable moment in the run-up to the elections",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-queda-expuesto-tras-dos-derrotas-historicas-y-entra-en-su-momento-mas-vulnerable-en-la-antesala-nid03052026/",
+      "published_date": "2026-05-03T06:00:00+00:00"
+    },
+    {
+      "title": "Election 2026 LIVE: TMC claims BJP-flagged vehicle entered Kolkata strong room without checks, stages protest",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-results-eci-west-bengal-falta-tamil-nadu-kerala-assam-puducherry-eci-results-news-101777782086681.html",
+      "published_date": "2026-05-03T04:50:02+00:00"
+    },
+    {
+      "title": "“We have received many good letters in Argentina to play the game,” says the new president of ACDE",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/hemos-recibido-muchas-cartas-buenas-en-la-argentina-para-jugar-el-juego-afirma-el-nuevo-presidente-nid03052026/",
+      "published_date": "2026-05-03T03:01:00+00:00"
+    },
+    {
+      "title": "Lula tests motto for re-election while accumulating setbacks in Congress",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-testa-mote-para-reeleicao-enquanto-acumula-tropecos-no-congresso.shtml",
+      "published_date": "2026-05-03T02:00:00+00:00"
+    },
+    {
+      "title": "18 governors in Japan see need for constitutional revision",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/05/03/japan/politics/governors-constitutional-survey/",
+      "published_date": "2026-05-03T01:41:00+00:00"
+    },
     {
       "title": "A new wave of guerrilla violence shakes Colombia in the run-up to the elections",
       "source": "La Nacion Argentina",
@@ -2774,55 +2816,6 @@
       "country": "Peru",
       "url": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss",
       "published_date": "2026-04-19T12:07:39+00:00"
-    },
-    {
-      "title": "Bulgaria’s pro-Russian former president set for landslide election win, exit polls show",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/europe/article/3350625/corruption-fuels-mistrust-bulgarias-eighth-election-five-years?utm_source=rss_feed",
-      "published_date": "2026-04-19T09:41:00+00:00"
-    },
-    {
-      "title": "Trinamool ‘betrayed’ women, will be punished in West Bengal elections, says Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-pm-modi-rally-in-bankura-bishnupur/article70880253.ece",
-      "published_date": "2026-04-19T09:14:38+00:00"
-    },
-    {
-      "title": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/asia-pacific/20260419-stealing-election-how-armenia-became-next-russia-eu-battlefield",
-      "published_date": "2026-04-19T08:59:15+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 Live Updates: PM Modi accuses TMC of ‘betraying’ women over reservation bill",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-narendra-modi-mcc-10644564/",
-      "published_date": "2026-04-19T06:55:53+00:00"
-    },
-    {
-      "title": "Gujarat local polls: Seats won uncontested triple since 2021 election to 733, majority won by BJP",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/seats-uncontested-triple-2021-election-bjp-10644617/",
-      "published_date": "2026-04-19T06:38:52+00:00"
-    },
-    {
-      "title": "Parliamentary election: Will Bulgaria soon be governed by pro-Russian governments?",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/rumen-radew-wird-bulgarien-bald-prorussisch-regiert-accg-200742511.html",
-      "published_date": "2026-04-19T06:04:13+00:00"
-    },
-    {
-      "title": "Bulgarians vote for legislative elections, pro-Russian ex-president given favorite",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/europe/20260419-les-bulgares-votent-pour-des-l%C3%A9gislatives-d%C3%A9cisives-un-ancien-pr%C3%A9sident-pro-russe-donn%C3%A9-favori",
-      "published_date": "2026-04-19T03:17:14+00:00"
     }
   ]
 }
