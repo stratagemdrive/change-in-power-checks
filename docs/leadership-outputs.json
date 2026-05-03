@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-03T11:46:44.368784+00:00",
-    "story_count": 394,
+    "last_updated": "2026-05-03T23:42:04.534960+00:00",
+    "story_count": 400,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Table tennis worlds: the Blues overthrow Japan thanks to a comeback inspired by Flavien Coton",
+      "source": "Le Monde France",
+      "country": "Japan",
+      "url": "https://www.lemonde.fr/sport/article/2026/05/04/mondiaux-de-tennis-de-table-les-bleus-renversent-le-japon-grace-a-une-remontee-insufflee-par-flavien-coton_6685258_3242.html",
+      "published_date": "2026-05-03T23:09:15+00:00"
+    },
+    {
+      "title": "Nsukka district endorses Tinubu, Mbah for 2027 election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/promoted/876726-nsukka-district-endorses-tinubu-mbah-for-2027-election.html",
+      "published_date": "2026-05-03T23:07:51+00:00"
+    },
+    {
+      "title": "French hard-left politician Mélenchon to stand in 2027 presidential election",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260503-french-hard-left-politician-m%C3%A9lenchon-to-stand-in-2027-presidential-election",
+      "published_date": "2026-05-03T22:22:15+00:00"
+    },
+    {
+      "title": "Electoral reform: in the negotiations of the Casa Rosada with the governors, they begin to carve the candidacies for 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/reforma-electoral-en-las-negociaciones-de-la-casa-rosada-con-los-gobernadores-empiezan-a-tallar-las-nid03052026/",
+      "published_date": "2026-05-03T20:58:15+00:00"
+    },
+    {
+      "title": "French hard-left politician Melenchon to stand in 2027 presidential election",
+      "source": "South China Morning Post",
+      "country": "France",
+      "url": "https://www.scmp.com/news/world/europe/article/3352293/french-hard-left-politician-melenchon-stand-2027-presidential-election?utm_source=rss_feed",
+      "published_date": "2026-05-03T19:38:38+00:00"
+    },
+    {
+      "title": "LFI's Mélenchon to stand in 2027 French presidential election",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260503-lfi-s-m%C3%A9lenchon-to-stand-in-2027-french-presidential-election",
+      "published_date": "2026-05-03T18:59:50+00:00"
+    },
+    {
+      "title": "Jean-Luc Mélenchon (LFI) formalizes his candidacy for the 2027 presidential election",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/france/20260503-jean-luc-m%C3%A9lenchon-lfi-officialise-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027",
+      "published_date": "2026-05-03T18:33:24+00:00"
+    },
+    {
+      "title": "Jean-Luc Mélenchon announces that he is a candidate for the presidential election for the fourth time, on an increasingly “anti-system” line.",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/03/jean-luc-melenchon-annonce-etre-candidat-a-l-election-presidentielle-pour-la-quatrieme-fois-sur-une-ligne-toujours-plus-antisysteme_6685247_823448.html",
+      "published_date": "2026-05-03T18:33:11+00:00"
+    },
+    {
+      "title": "Assam election verdict: Congress hopes to stop BJP run",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-elections-results-bjp-congress-counting-on-may-4/article70934538.ece",
+      "published_date": "2026-05-03T17:54:19+00:00"
+    },
+    {
+      "title": "President Gustavo Petro links passport contract with guarantees for the 2026 elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/el-presidente-gustavo-petro-vincula-contrato-de-pasaportes-con-garantias-para-las-elecciones-de-3552713",
+      "published_date": "2026-05-03T17:03:15+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro seals rapprochement with Silas Malafaia and supports the election at a cult in Rio",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-sela-reaproximacao-com-silas-malafaia-e-apoio-na-eleicao-em-culto-no-rio.shtml",
+      "published_date": "2026-05-03T16:31:00+00:00"
+    },
+    {
+      "title": "Crisis with Iran places Trump before a key decision before the midterm elections",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/05/crisis-con-iran-coloca-a-trump-ante-una-decision-clave/",
+      "published_date": "2026-05-03T14:49:19+00:00"
+    },
+    {
+      "title": "Colombia's electoral body is considering withdrawing the registration of the right-wing candidate De la Espriella for the May presidential elections",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/organismo-electoral-de-colombia-baraja-retirar-la-inscripcion-del-candidato-derechista-de-la-espriella-a-las-presidenciales-de-mayo/",
+      "published_date": "2026-05-03T13:55:12+00:00"
+    },
+    {
+      "title": "Two captured Gaza aid flotilla activists appear in Israeli court",
+      "source": "La Tercera Chile",
+      "country": "Palestine",
+      "url": "https://www.latercera.com/mundo/noticia/dos-activistas-de-la-flotilla-de-ayuda-a-gaza-capturados-comparecen-ante-un-tribunal-israeli/",
+      "published_date": "2026-05-03T13:38:12+00:00"
+    },
     {
       "title": "Tinubu will lose only if election is held on social media – Gov  Uba Sani",
       "source": "The Punch Nigeria",
@@ -74,7 +172,7 @@
       "published_date": "2026-05-03T06:00:00+00:00"
     },
     {
-      "title": "Election 2026 LIVE: TMC claims BJP-flagged vehicle entered Kolkata strong room without checks, stages protest",
+      "title": "Election 2026 highlights: ‘Phone found in envelope’ in Asansol sparks TMC-BJP row ahead of counting",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-results-eci-west-bengal-falta-tamil-nadu-kerala-assam-puducherry-eci-results-news-101777782086681.html",
@@ -2760,62 +2858,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/moe-alerta-por-aumento-de-violencia-contra-lideres-politicos-en-colombia-en-las-elecciones-de-3548765",
       "published_date": "2026-04-20T03:39:48+00:00"
-    },
-    {
-      "title": "European Commission believes elections in Hungary serve as warning for allies of Trump and Putin",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4114194-european-commission-believes-elections-in-hungary-serve-as-warning-for-allies-of-trump-and-putin.html",
-      "published_date": "2026-04-19T21:32:00+00:00"
-    },
-    {
-      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T17:48:41+00:00"
-    },
-    {
-      "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-19T17:19:00+00:00"
-    },
-    {
-      "title": "‘Jhalmuri break’: PM Modi makes surprise halt for street food amid Bengal election campaign",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/jhalmuri-break-pm-modi-makes-surprise-halt-for-street-food-amid-bengal-election-campaign-101776609839634.html",
-      "published_date": "2026-04-19T16:01:05+00:00"
-    },
-    {
-      "title": "Head of Patrol Police Zhukov resigns after terrorist attack in Kyiv",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-crime/4114270-head-of-patrol-police-zhukov-resigns-after-terrorist-attack-in-kyiv.html",
-      "published_date": "2026-04-19T14:40:00+00:00"
-    },
-    {
-      "title": "Legislative elections in Bulgaria: former pro-Moscow president, Rumen Radev, given favorite",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260419-l%C3%A9gislatives-en-bulgarie-l-ancien-pr%C3%A9sident-pro-moscou-roumen-radev-donn%C3%A9-favori",
-      "published_date": "2026-04-19T12:40:20+00:00"
-    },
-    {
-      "title": "Elections in Peru: results for the second round will be in May",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/elecciones-peru-resultados-para-la-segunda-vuelta-seran-en-mayo/",
-      "published_date": "2026-04-19T12:33:04+00:00"
-    },
-    {
-      "title": "Peru says presidential election results due by mid-May after delayed count",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss",
-      "published_date": "2026-04-19T12:07:39+00:00"
     }
   ]
 }
