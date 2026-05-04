@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-03T23:42:04.534960+00:00",
-    "story_count": 400,
+    "last_updated": "2026-05-04T12:25:10.828186+00:00",
+    "story_count": 409,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,216 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "June 3 elections take shape: DPK’s presidential aides vs. PPP's incumbents",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents?utm_source=rss",
+      "published_date": "2026-05-04T12:22:03+00:00"
+    },
+    {
+      "title": "Kerala Election Results 2026 LIVE: UDF wave sweeps Kerala; BJP wins 3 seats; CPI(M) says will 'make corrections'",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-election-results-live-updates-4-may-2026/article70935144.ece",
+      "published_date": "2026-05-04T12:13:51+00:00"
+    },
+    {
+      "title": "West Bengal election results LIVE: BJP, TMC record initial wins, as vote counting progresses",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-live-updates-may-4-2026/article70934929.ece",
+      "published_date": "2026-05-04T12:06:09+00:00"
+    },
+    {
+      "title": "Yan Huichang to step down as head of Hong Kong Chinese Orchestra after 30-year run",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3352386/yan-huichang-step-down-head-hong-kong-chinese-orchestra-after-30-year-run?utm_source=rss_feed",
+      "published_date": "2026-05-04T11:10:58+00:00"
+    },
+    {
+      "title": "Money, power, exile: Inside an Iranian exile’s war on regime-linked wealth in Canada",
+      "source": "Jerusalem Post",
+      "country": "Canada",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-895047",
+      "published_date": "2026-05-04T11:05:20+00:00"
+    },
+    {
+      "title": "Assam Assembly election results 2026: BJP wins three seats, leads in 78",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-election-results-bjp-congress-early-trends-key-candidates-status/article70937597.ece",
+      "published_date": "2026-05-04T10:57:50+00:00"
+    },
+    {
+      "title": "Election 2027 in France: A candidate who wants to score points with hatred of Israel",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/melenchon-kandidiert-fuer-praesidentschaftswahl-in-frankreich-accg-200795235.html",
+      "published_date": "2026-05-04T10:35:38+00:00"
+    },
+    {
+      "title": "Dagestan Leader Steps Down, Putin Names High Court Judge as Successor",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/05/04/dagestan-leader-steps-down-putin-names-high-court-judge-as-successor-a92673",
+      "published_date": "2026-05-04T10:21:17+00:00"
+    },
+    {
+      "title": "BJP eyes historic win in Mamata turf: Full list of winners in West Bengal elections 2026",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-eyes-historic-win-in-mamata-turf-full-list-of-winners-in-west-bengal-elections-2026-101777888911403.html",
+      "published_date": "2026-05-04T10:18:48+00:00"
+    },
+    {
+      "title": "Bypoll election results 2026: BJP wins northeast; Congress takes Karnataka's Bagalkot | Full list of winners",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assembly-bypoll-election-2026-results-full-list-of-winners-bjp-congress-ncp-baramati-davanagere-south-101777888434136.html",
+      "published_date": "2026-05-04T10:16:57+00:00"
+    },
+    {
+      "title": "Myanmar junta looks to use trade deals to re-engage with US",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-looks-to-use-trade-deals-to-re-engage-with-us/",
+      "published_date": "2026-05-04T09:40:08+00:00"
+    },
+    {
+      "title": "Do you think that Jean-Luc Mélenchon will be in the second round of the presidential election?",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/pensez-vous-que-jean-luc-melenchon-sera-au-second-tour-de-l-election-presidentielle-20260504",
+      "published_date": "2026-05-04T08:51:15+00:00"
+    },
+    {
+      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says",
+      "source": "Egypt Independent",
+      "country": "Russia",
+      "url": "https://www.egyptindependent.com/unsettled-kremlin-tightens-security-around-putin-amid-assassinations-and-coup-fears-intel-report-says/",
+      "published_date": "2026-05-04T08:26:16+00:00"
+    },
+    {
+      "title": "Vijay's win in Tamil Nadu; Kerala likely to oust LDF, but voters want Pinarayi Vijayan as CM: Axis My India exit poll",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/vijays-win-in-tamil-nadu-kerala-likely-to-oust-ldf-but-voters-want-pinarayi-vijayan-as-cm-axis-my-india-exit-poll-101777879159610.html",
+      "published_date": "2026-05-04T08:22:35+00:00"
+    },
+    {
+      "title": "Azerbaijan’s jailed opposition leader urges West to find ‘courage’ and stand up to regime amid political crackdown",
+      "source": "The Independent UK",
+      "country": "Azerbaijan",
+      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-ali-karimli-uk-oil-gas-exports-b2969967.html",
+      "published_date": "2026-05-04T08:09:28+00:00"
+    },
+    {
+      "title": "Stay at counting centres: Mamata Banerjee's SOS message as BJP leads in Bengal elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/stay-at-counting-centres-mamata-banerjees-sos-message-as-bjp-leads-in-bengal-election-results-101777879079509.html",
+      "published_date": "2026-05-04T07:20:08+00:00"
+    },
+    {
+      "title": "West Bengal election results: Prominent TMC leaders trailing; celebrations start at BJP's Kolkata office",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/prominent-tmc-leaders-trailing-celebrations-start-at-bjp-office-in-kolkata-101777879150191.html",
+      "published_date": "2026-05-04T07:19:09+00:00"
+    },
+    {
+      "title": "Why A. Namassivayam’s Mannadipet re-election is crucial for BJP in Puducherry",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/why-a-namassivayam-s-mannadipet-re-election-is-crucial-for-bjp-in-puducherry-101777446030404.html",
+      "published_date": "2026-05-04T06:50:42+00:00"
+    },
+    {
+      "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+      "source": "Al Jazeera English",
+      "country": "Japan",
+      "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
+      "published_date": "2026-05-04T06:45:13+00:00"
+    },
+    {
+      "title": "Former DGP R Sreelekha nearing big loss from Vattiyoorkavu as BJP candidate in 2026 Kerala elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/former-dgp-r-sreelekha-contests-from-vattiyoorkavu-as-bjp-candidate-in-2026-kerala-elections-101777616352498.html",
+      "published_date": "2026-05-04T06:39:10+00:00"
+    },
+    {
+      "title": "Kerala elections 2026: Pinarayi Vijayan leads against BJP, Congress rivals in Dharmadam. Hat-trick third win likely?",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/kerala-elections-2026-pinarayi-vijayan-trails-behind-bjp-congress-rivals-in-dharmadam-hat-trick-third-win-unlikely-101776680807967.html",
+      "published_date": "2026-05-04T06:16:08+00:00"
+    },
+    {
+      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says - CNN",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXZEdGluRl9UcDR2OHAyUmFXektYTG9kN015cm1sX3cyMGluODRwQ19oYnpLYUNCYzdFUnAxT2ZpbXo5UkE2ZDFJQVBLdWVhbWlHX3Q4eUJGVTJldkZINmJVNFFxWkk3bTBoYllWZFN0UjFvRDFDXzBfMGZtNk95cUtDQQ?oc=5",
+      "published_date": "2026-05-04T04:01:51+00:00"
+    },
+    {
+      "title": "West Bengal Election Results 2026 Winners List: In BJP-vs-TMC fight, Mamata Banerjee leads in her bastion but loses state",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
+      "published_date": "2026-05-04T03:45:44+00:00"
+    },
+    {
+      "title": "Presidential elections stop projects in Congress: criticism from President Petro of low legislative pace",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-frenan-proyectos-en-el-congreso-criticas-del-presidente-petro-a-bajo-ritmo-legislativo-3552786",
+      "published_date": "2026-05-04T03:04:07+00:00"
+    },
+    {
+      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
+      "published_date": "2026-05-04T02:46:41+00:00"
+    },
+    {
+      "title": "Assam Assembly Election Results 2026 Winners: BJP leads with 78 seats, INC in 21— check constituency-wise",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/assam-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10663920/",
+      "published_date": "2026-05-04T02:44:20+00:00"
+    },
+    {
+      "title": "Spanish PM Pedro Sanchez’s plane makes emergency landing in Turkey",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey",
+      "published_date": "2026-05-04T01:24:54+00:00"
+    },
+    {
+      "title": "France: Left-wing populist Mélenchon declares candidacy in the 2027 presidential election",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-linkspopulist-melenchon-erklaert-kandidatur-bei-praesidentschaftswahl-2027-accg-200794395.html",
+      "published_date": "2026-05-04T01:20:52+00:00"
+    },
+    {
+      "title": "Jean-Luc Mélenchon again presidential candidate",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260504-jean-luc-m%C3%A9lenchon-%C3%A0-nouveau-candidat-%C3%A0-la-pr%C3%A9sidentielle",
+      "published_date": "2026-05-04T01:15:17+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/editorial/noticia/elecciones-presidenciales-en-colombia/",
+      "published_date": "2026-05-04T00:30:00+00:00"
+    },
     {
       "title": "Table tennis worlds: the Blues overthrow Japan thanks to a comeback inspired by Flavien Coton",
       "source": "Le Monde France",
@@ -2711,153 +2921,6 @@
       "country": "Russia",
       "url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html",
       "published_date": "2026-04-20T12:27:52+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 LIVE: Congress chief Kharge says PM Modi killed bill on women's quota, Opposition fought Delimitation Bill only",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-narendra-modi-mk-stalin-mamata-banerjee-april-20-2026/article70883064.ece",
-      "published_date": "2026-04-20T11:47:08+00:00"
-    },
-    {
-      "title": "West Bengal elections, politics and diplomacy: Why India’s foreign policy needs a federal front",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/west-bengal-elections-federal-mamata-banerjee-10646540/",
-      "published_date": "2026-04-20T11:38:50+00:00"
-    },
-    {
-      "title": "Starmer expected to lead Labour into next election, says minister, but warns there are ‘no certainties’ amid Mandelson scandal – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
-      "published_date": "2026-04-20T11:35:48+00:00"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election - dw.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW90eGV4OUgxd0VxaHU2cDA3MlBkdzc0QTNHdEFscER3bFktOXR5c0pBRWxvU0lzNUlHeGp1OXdGZWtaNUZ6dUt0Tm5Lc1ctMTBwVERzMXNVdGpxek1jRm1VMG5pbzRZMG1qT3dfZE9EbUpDd2twN0h4NWN1NlNiTG1IRVB2N1cxb0lrR1gyeUo4Ylhx0gGUAUFVX3lxTFBuN0hGd25xcDJiQldoQldBOW5BSmNFS2pmQzhpUFZJUGM5ZWxUSnhubFRTTEcwQXVzeWVuTkZvX2c0ejNBeW1LWVZRV2FHbVZDNS04Um50aHdLMEowWVliMnBfbTdoVXQ4RWdSX1FVQnZjNFEtemRweGZrMDA5aDZaaTViWDRKbjYzNWp4MW5ZT2VvaFI?oc=5",
-      "published_date": "2026-04-20T11:03:45+00:00"
-    },
-    {
-      "title": "Jobs, ‘bhoy’, ‘outsider’ tag for BJP: What worries Siliguri ahead of Bengal elections? | A ground report",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/will-modi-wave-dent-didi-storm-a-ground-report-from-siliguri-west-bengal-election-2026-mamata-banerjee-tmc-bjp-101776677661741.html",
-      "published_date": "2026-04-20T10:53:27+00:00"
-    },
-    {
-      "title": "NMA election crisis: Over 200 delegates converge on Abuja Wednesday",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/nma-election-crisis-over-200-delegates-converge-on-abuja-wednesday/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-20T10:46:41+00:00"
-    },
-    {
-      "title": "Bulgaria's Kremlin-friendly ex-president wins sweeping election victory",
-      "source": "RFI English",
-      "country": "Russia",
-      "url": "https://www.rfi.fr/en/international/20260420-bulgaria-kremlin-friendly-ex-president-rumen-radev-wins-sweeping-election-victory",
-      "published_date": "2026-04-20T10:46:36+00:00"
-    },
-    {
-      "title": "Zelensky to discuss return of Oschadbank funds with Hungary's PM-elect Magyar",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4114484-zelensky-to-discuss-return-of-oschadbank-funds-with-hungarys-pmelect-magyar.html",
-      "published_date": "2026-04-20T10:30:00+00:00"
-    },
-    {
-      "title": "T.N. elections: RSS trying to rule Tamil Nadu by proxy, says Rahul Gandhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-rss-trying-to-rule-tamil-nadu-by-proxy-says-rahul-gandhi/article70883800.ece",
-      "published_date": "2026-04-20T09:37:32+00:00"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00"
-    },
-    {
-      "title": "Bulgaria: Pro-Russia Rumen Radev wins ‌election",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-‌election/a-76846189?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-04-20T09:16:00+00:00"
-    },
-    {
-      "title": "Opposition demands minister’s resignation after North Korea nuclear disclosure",
-      "source": "NK News",
-      "country": "North Korea",
-      "url": "https://www.nknews.org/2026/04/opposition-demands-ministers-resignation-after-north-korea-nuclear-disclosure/",
-      "published_date": "2026-04-20T08:57:26+00:00"
-    },
-    {
-      "title": "Ukraine police chief resigns after officers reportedly fled Kyiv shooting",
-      "source": "Sky News World",
-      "country": "Ukraine",
-      "url": "https://news.sky.com/story/ukraine-police-chief-resigns-after-officers-reportedly-fled-kyiv-shooting-13534041",
-      "published_date": "2026-04-20T08:57:00+00:00"
-    },
-    {
-      "title": "Bulgaria's Kremlin-friendly former president Radev wins parliamentary election",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/europe/20260420-bulgaria-s-kremlin-friendly-former-president-radev-wins-parliamentary-election",
-      "published_date": "2026-04-20T07:46:35+00:00"
-    },
-    {
-      "title": "Bulgaria: former pro-Russian president Rumen Radev wins the legislative elections",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/europe/20260420-bulgarie-l-ex-pr%C3%A9sident-prorusse-roumen-radev-remporte-les-l%C3%A9gislatives",
-      "published_date": "2026-04-20T07:45:48+00:00"
-    },
-    {
-      "title": "More than half of Conservative voters want Poilievre to lead the party into next election",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-more-than-half-of-conservative-voters-want-poilievre-to-lead-the-party/",
-      "published_date": "2026-04-20T07:01:00+00:00"
-    },
-    {
-      "title": "Milei and Trump’s lessons for the Brazilian election",
-      "source": "Folha de S Paulo",
-      "country": "Argentina",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/04/as-licoes-de-milei-e-trump-para-a-eleicao-brasileira.shtml",
-      "published_date": "2026-04-20T07:00:00+00:00"
-    },
-    {
-      "title": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
-      "source": "CBC News World",
-      "country": "Russia",
-      "url": "https://www.cbc.ca/news/world/bulgaria-election-9.7169987?cmp=rss",
-      "published_date": "2026-04-20T06:13:44+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Ukrainian police chief resigns after officers ‘disgracefully’ flee Kyiv shooting",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-kyiv-shooting-soldiers-putin-zelensky-b2960808.html",
-      "published_date": "2026-04-20T05:31:33+00:00"
-    },
-    {
-      "title": "Assembly elections 2026 highlights: Mamata Banerjee questions PM Modi's jhalmuri stop, says ‘all drama’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-live-updates-west-bengal-tmc-mamata-banerjee-tamil-nadu-dmk-stalin-pm-modi-amit-shah-news-101776653843853.html",
-      "published_date": "2026-04-20T03:41:03+00:00"
-    },
-    {
-      "title": "MOE warns of increased violence against political leaders in Colombia in the 2026 elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/moe-alerta-por-aumento-de-violencia-contra-lideres-politicos-en-colombia-en-las-elecciones-de-3548765",
-      "published_date": "2026-04-20T03:39:48+00:00"
     }
   ]
 }
