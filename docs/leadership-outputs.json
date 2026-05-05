@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-04T23:50:59.112974+00:00",
-    "story_count": 409,
+    "last_updated": "2026-05-05T12:04:28.134656+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "South Korea removes four army officers for their role in former President Yoon's martial law",
+      "source": "La Tercera Chile",
+      "country": "South Korea",
+      "url": "https://www.latercera.com/mundo/noticia/corea-del-sur-aparta-a-cuatro-oficiales-del-ejercito-por-su-papel-en-la-ley-marcial-del-expresidente-yoon/",
+      "published_date": "2026-05-05T12:00:41+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: key dates to verify if you will be a voting jury and how to consult it",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-fechas-clave-para-verificar-si-sera-jurado-de-votacion-y-como-consultarlo-3553128",
+      "published_date": "2026-05-05T11:46:54+00:00"
+    },
+    {
+      "title": "The BJP wins big in West Bengal Assembly Elections 2026: Results at a glance",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-wins-big-in-west-bengal-assembly-elections-2026-results-at-a-glance/article70942045.ece",
+      "published_date": "2026-05-05T11:08:45+00:00"
+    },
+    {
+      "title": "‘Starmer’s referendum’: How local elections could expose a fractured UK",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/5/5/starmers-referendum-how-local-elections-could-expose-a-fractured-uk?traffic_source=rss",
+      "published_date": "2026-05-05T11:04:41+00:00"
+    },
+    {
+      "title": "Putin appoints Fyodor Shchukin as acting Head of Daghestan",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/putin-appoints-fyodor-shchukin-as-acting-head-of-daghestan/",
+      "published_date": "2026-05-05T11:04:39+00:00"
+    },
+    {
+      "title": "While rumors of Putin's fear of a coup are growing, there is now open speculation about the next leader",
+      "source": "Politiken Denmark",
+      "country": "Russia",
+      "url": "https://politiken.dk/internationalt/art10829186/Mens-rygterne-om-Putins-frygt-for-et-kup-tager-til-spekuleres-der-nu-%C3%A5bent-om-den-n%C3%A6ste-leder",
+      "published_date": "2026-05-05T10:31:09+00:00"
+    },
+    {
+      "title": "Maw Luu falls to Myanmar junta forces after days of heavy fighting",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/maw-luu-falls-to-myanmar-junta-forces-after-days-of-heavy-fighting/",
+      "published_date": "2026-05-05T09:58:15+00:00"
+    },
+    {
+      "title": "Indian prime minister's party wins controversial and contentious state election",
+      "source": "Sky News World",
+      "country": "India",
+      "url": "https://news.sky.com/story/indian-prime-ministers-party-wins-controversial-and-contentious-state-election-13540335",
+      "published_date": "2026-05-05T09:24:00+00:00"
+    },
+    {
+      "title": "Separatist group tries to trigger referendum on province leaving Canada",
+      "source": "Sky News World",
+      "country": "Canada",
+      "url": "https://news.sky.com/story/separatist-group-tries-to-trigger-referendum-on-province-leaving-canada-13540307",
+      "published_date": "2026-05-05T08:28:00+00:00"
+    },
+    {
+      "title": "“No military solution to a political crisis”: Iran minister warns US and UAE over “quagmire”",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/no-military-solution-to-a-political-crisis-iran-minister-warns-us-and-uae-over-quagmire/",
+      "published_date": "2026-05-05T08:23:25+00:00"
+    },
+    {
+      "title": "Mamata Banerjee among 22 TMC ministers defeated in BJP's West Bengal election win",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-among-22-tmc-ministers-defeated-in-bjp-west-bengal-election-win-101777960909533.html",
+      "published_date": "2026-05-05T06:18:05+00:00"
+    },
+    {
+      "title": "West Bengal election results: Full list of winners from BJP, TMC and Congress",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-results-full-list-of-winners-from-bjp-tmc-and-congress-101777953742165.html",
+      "published_date": "2026-05-05T04:36:55+00:00"
+    },
+    {
+      "title": "Modi’s party wins control of India’s West Bengal in a key state election - AP News",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTBwSFM1VGdCUWlqbWplVFlSaW04UEw3RlptdGxLZjlrZTdtTXBUbGpkeVBQdURvTzdXUE5rYkVCNDdWclFLa1VIOExOU3FNdzhYc0hESmE4X0FITDBRMzV3VldONVUzS2R5bm5SRzk0Y0VUamFLY09BZGZ2NjZLR2hFVUdOVHA1cEFnWWZlX0VxMTNPVW5Cb0Z2NTUxX2RYVVZEUUxfckQ?oc=5",
+      "published_date": "2026-05-05T03:47:00+00:00"
+    },
+    {
+      "title": "Tamil Nadu election results: Full list of winners from Vijay's TVK, AIADMK, DMK, BJP and Congress",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-election-results-full-list-of-winners-from-vijays-tvk-aiadmk-dmk-bjp-and-congress-101777946804875.html",
+      "published_date": "2026-05-05T03:41:03+00:00"
+    },
+    {
+      "title": "The LDP is losing local elections. Should Takaichi be worried?",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/05/05/japan/politics/takaichi-popularity-ldp-local-struggles/",
+      "published_date": "2026-05-05T02:33:00+00:00"
+    },
+    {
+      "title": "Assembly elections news LIVE: Women are threatened with rape, says Mamata in big charge against BJP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/election-results-2026-live-west-bengal-mamata-tamil-nadu-tvk-vijay-winners-kerala-udf-congress-stalin-assam-puducherry-101777944928831.html",
+      "published_date": "2026-05-05T02:28:44+00:00"
+    },
+    {
+      "title": "Rejection of Messiah signals Lula's isolation in the election and restricted alliance with the left",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/rejeicao-a-messias-sinaliza-isolamento-de-lula-na-eleicao-e-alianca-restrita-a-esquerda.shtml",
+      "published_date": "2026-05-05T02:00:00+00:00"
+    },
+    {
+      "title": "How election results in states will change Rajya Sabha math",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/how-election-results-in-assam-bengal-tamil-nadu-kerala-puducherry-will-change-rajya-sabha-math-101777944874218.html",
+      "published_date": "2026-05-05T01:42:30+00:00"
+    },
     {
       "title": "Exile historian talks about secret plan with the US for transition in Cuba",
       "source": "CiberCuba",
@@ -163,13 +289,6 @@
       "country": "India",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3352407/india-pm-modis-party-takes-control-west-bengal-key-state-election?utm_source=rss_feed",
       "published_date": "2026-05-04T15:22:27+00:00"
-    },
-    {
-      "title": "Modi’s party takes control of India’s West Bengal in key state election - AP News",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTBwSFM1VGdCUWlqbWplVFlSaW04UEw3RlptdGxLZjlrZTdtTXBUbGpkeVBQdURvTzdXUE5rYkVCNDdWclFLa1VIOExOU3FNdzhYc0hESmE4X0FITDBRMzV3VldONVUzS2R5bm5SRzk0Y0VUamFLY09BZGZ2NjZLR2hFVUdOVHA1cEFnWWZlX0VxMTNPVW5Cb0Z2NTUxX2RYVVZEUUxfckQ?oc=5",
-      "published_date": "2026-05-04T15:06:00+00:00"
     },
     {
       "title": "June 3 elections take shape: DPK’s presidential aides vs. PPP's incumbents",
@@ -2858,69 +2977,6 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/04/21/russian-businesses-helping-funnel-military-equipment-to-wagner-successor-group-in-mali-report-a92553",
       "published_date": "2026-04-21T12:14:40+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 LIVE: No one wants BJP to form government, TMC will return to power again, says Mamata",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-april-21-live-updates-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70887085.ece",
-      "published_date": "2026-04-21T11:57:27+00:00"
-    },
-    {
-      "title": "Myanmar resistance groups reject junta chief’s 100-day surrender ultimatum",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-resistance-groups-reject-junta-chiefs-100-day-surrender-ultimatum/",
-      "published_date": "2026-04-21T11:47:13+00:00"
-    },
-    {
-      "title": "In Nigeria, six men indicted for attempted coup against Bola Tinubu",
-      "source": "France 24 FR",
-      "country": "Nigeria",
-      "url": "https://www.france24.com/fr/afrique/20260421-au-nigeria-six-hommes-inculp%C3%A9s-pour-une-tentative-de-coup-d-%C3%A9tat-contre-bola-tinubu",
-      "published_date": "2026-04-21T11:38:29+00:00"
-    },
-    {
-      "title": "Nigeria charges six people with treason for plan to overthrow president",
-      "source": "France 24 English",
-      "country": "Nigeria",
-      "url": "https://www.france24.com/en/africa/20260421-nigeria-charges-six-people-with-treason-for-plan-to-overthrow-president",
-      "published_date": "2026-04-21T11:17:17+00:00"
-    },
-    {
-      "title": "War in the Middle East: displaced Lebanese sheltered by Palestinians in exile",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260421-guerre-au-moyen-orient-des-d%C3%A9plac%C3%A9s-libanais-abrit%C3%A9s-par-des-palestiniens-en-exil",
-      "published_date": "2026-04-21T09:46:46+00:00"
-    },
-    {
-      "title": "Vance to travel to Islamabad, Iranian delegation gets reported approval from supreme leader - Axios",
-      "source": "Jerusalem Post",
-      "country": "Pakistan",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-893665",
-      "published_date": "2026-04-21T04:29:54+00:00"
-    },
-    {
-      "title": "Assembly election 2026 live: Amit Shah says BJP will enforce UCC in Bengal, ban four marriages in 'certain community'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/2026-assembly-election-live-updates-tamil-nadu-west-bengal-kerala-assam-tmc-dmk-bjp-congress-india-election-commission-101776741520937.html",
-      "published_date": "2026-04-21T03:41:45+00:00"
-    },
-    {
-      "title": "April 26 local body elections in Gujarat: Days after withdrawing from corporation polls, Surat Congress leader joins BJP citing ‘groupism’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/congress-leader-sanjay-ramanandi-joins-bjp-surat-municipal-elections-internal-groupism-10647332/",
-      "published_date": "2026-04-21T02:13:46+00:00"
-    },
-    {
-      "title": "TN Elections 2026 – Is this a Battle between Tamil Nadu and New Delhi ?",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tn-assembly-elections-2026-is-this-a-battle-between-tamil-nadu-and-new-delhi-101776714194136.html",
-      "published_date": "2026-04-21T01:06:19+00:00"
     }
   ]
 }
