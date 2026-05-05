@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-05T12:04:28.134656+00:00",
-    "story_count": 417,
+    "last_updated": "2026-05-05T23:48:43.985411+00:00",
+    "story_count": 420,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "'Witnessing Gwangju' author compares 5.18 to Yoon's martial law",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260506/witnessing-gwangju-author-compares-518-to-yoons-martial-law?utm_source=rss",
+      "published_date": "2026-05-05T23:42:04+00:00"
+    },
+    {
+      "title": "The tangled situation to replace Mauricio Gómez Amín in the Senate after his resignation from his seat and the Liberal Party",
+      "source": "El Tiempo Colombia",
+      "country": "Canada",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-enredada-situacion-para-reemplazar-en-el-senado-a-mauricio-gomez-amin-tras-su-renuncia-a-su-curul-y-al-partido-liberal-3553384",
+      "published_date": "2026-05-05T23:37:05+00:00"
+    },
+    {
+      "title": "Former President Iván Duque calls for free elections and the rule of law for Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/expresidente-ivan-duque-pide-elecciones-libres-y-estado-de-derecho-para-venezuela/",
+      "published_date": "2026-05-05T23:20:57+00:00"
+    },
+    {
+      "title": "Mauricio Gómez Amín resigns from the Liberal Party and his seat as senator: he fully commits to Abelardo de la Espriella's campaign",
+      "source": "El Tiempo Colombia",
+      "country": "Canada",
+      "url": "https://www.eltiempo.com/politica/congreso/mauricio-gomez-amin-renuncia-al-partido-liberal-y-a-su-curul-como-senador-se-compromete-a-totalidad-con-la-campana-de-abelardo-de-la-espriella-3553338",
+      "published_date": "2026-05-05T21:47:08+00:00"
+    },
+    {
+      "title": "Vente Venezuela announces a tour of activities around the country to organize for a possible election",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/vente-venezuela-anuncia-una-gira-de-actividades-por-el-pais-para-organizarse-ante-una-eventual-eleccion/",
+      "published_date": "2026-05-05T20:58:31+00:00"
+    },
+    {
+      "title": "Pulitzer Prize awarded to Palestinian photographer who captured ‘starvation in Gaza'",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-895216",
+      "published_date": "2026-05-05T18:41:59+00:00"
+    },
+    {
+      "title": "Alberta referendum must follow rules for separation laid out in federal law, Carney says",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-alberta-referendum-carney-separation-rules-clarity-act/",
+      "published_date": "2026-05-05T18:12:26+00:00"
+    },
+    {
+      "title": "The Registrar's Office called on the Petro government to guarantee security for the presidential elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-hizo-llamado-al-gobierno-petro-para-que-se-garantice-la-seguridad-para-las-elecciones-presidenciales-3553234",
+      "published_date": "2026-05-05T18:08:30+00:00"
+    },
+    {
+      "title": "Son of Myanmar's ousted leader appeals to Macron for help in securing proof of life",
+      "source": "Euronews",
+      "country": "Myanmar",
+      "url": "http://www.euronews.com/my-europe/2026/05/05/son-of-myanmars-ousted-leader-appeals-to-macron-for-help-in-securing-proof-of-life",
+      "published_date": "2026-05-05T17:25:32+00:00"
+    },
+    {
+      "title": "India: West Bengal election win boosts Modi's BJP",
+      "source": "Deutsche Welle English",
+      "country": "India",
+      "url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-05T16:46:00+00:00"
+    },
+    {
+      "title": "French banks float state role in election campaign funding to reassure lenders",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260505-french-banks-float-state-role-in-election-campaign-funding-to-reassure-lenders",
+      "published_date": "2026-05-05T13:16:35+00:00"
+    },
+    {
+      "title": "Bengal’s Advocate General Kishore Datta resigns following BJP’s historic win in Assembly polls",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-advocate-general-kishore-datta-resignation-bjp-victory-2026-10674266/",
+      "published_date": "2026-05-05T12:43:28+00:00"
+    },
+    {
+      "title": "Russia plans monument to soldier killed in Ukraine war at site of demolished memorial to exiled Poles",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/05/05/russia-plans-monument-to-soldier-killed-in-ukraine-war-at-site-of-demolished-memorial-to-exiled-poles",
+      "published_date": "2026-05-05T12:05:30+00:00"
+    },
     {
       "title": "South Korea removes four army officers for their role in former President Yoon's martial law",
       "source": "La Tercera Chile",
@@ -186,6 +277,13 @@
       "published_date": "2026-05-05T01:42:30+00:00"
     },
     {
+      "title": "Alberta separatist group says it has enough signatures to trigger referendum vote on leaving Canada - Politico",
+      "source": "Google News World",
+      "country": "Canada",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVElpQV8zaUtTWnRfa3BJcTdrSTFKaUc1Ym0tMks2YjVWZU9QNW51QWNnUy1VWkJWcDN5RnpQZzVfOUwxYm90dTBaaEd0Q1lyc3QwbVZNeVd5NXFNanpvaWlmUGNnZDRTS2tQam5OdTc5RG10U2x2VU9iX1dlQWJWZG5NcGFYeFozSlg5MGF0WDVTR2hRNHE2T1NxajVaeTBrZjRIR0llTER1XzNWWXUzRjBCSHRDNlBkcW1YLUkzcjFFbWpkRHBueF9aRWEtM2NoZk9wSmVtVlNXeW83NS1KcVlLZw?oc=5",
+      "published_date": "2026-05-05T00:12:32+00:00"
+    },
+    {
       "title": "Exile historian talks about secret plan with the US for transition in Cuba",
       "source": "CiberCuba",
       "country": "Cuba",
@@ -251,7 +349,7 @@
     {
       "title": "China’s Ambassador to Libya visits Benghazi on the inauguration of China’s COSCO direct shipping line to the city",
       "source": "Libya Herald",
-      "country": "Libya",
+      "country": "China",
       "url": "https://libyaherald.com/2026/05/chinas-ambassador-to-libya-visits-benghazi-on-the-inauguration-of-chinas-cosco-direct-shipping-line-to-the-city/",
       "published_date": "2026-05-04T18:25:01+00:00"
     },
@@ -261,6 +359,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-results-live-updates-may-4-2026/article70934562.ece",
       "published_date": "2026-05-04T18:07:27+00:00"
+    },
+    {
+      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time - The New York Times",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0dGUHNqenRiY0dFYkhmRUNjdnZoMWFlX1NObEhnVzRLdDFSU2d1YXVlS0JwNDV5Rkd6ck1MR1k0MVpfMkY3eGF2S25RV3Z2cV93eUJuT19ZNzlOOEdSWWtMbjFUNTh0aWRDZVpRdklEZklBWjFOZ0ZqRFZGVjVkWmY0SWRaS1Vua3l3?oc=5",
+      "published_date": "2026-05-04T17:46:12+00:00"
     },
     {
       "title": "Narendra Modi’s BJP wins election in West Bengal for the first time",
@@ -2893,90 +2998,6 @@
       "country": "Cuba",
       "url": "https://www.independent.co.uk/news/world/europe/donald-trump-cuba-fidel-castro-havana-cuban-americans-b2962356.html",
       "published_date": "2026-04-22T04:08:56+00:00"
-    },
-    {
-      "title": "Milei will send the electoral reform to Congress tomorrow: eliminates the PASO and includes a clean record",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/milei-mandara-manana-la-reforma-electoral-al-congreso-elimina-las-paso-e-incluye-ficha-limpia-nid21042026/",
-      "published_date": "2026-04-21T22:43:19+00:00"
-    },
-    {
-      "title": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
-      "source": "The Independent UK",
-      "country": "Nigeria",
-      "url": "https://www.independent.co.uk/news/world/africa/nigeria-plot-treason-overthrow-president-tinubu-b2962271.html",
-      "published_date": "2026-04-21T22:42:50+00:00"
-    },
-    {
-      "title": "Peru’s election chief steps down amid frustration over long vote count",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
-      "published_date": "2026-04-21T22:14:40+00:00"
-    },
-    {
-      "title": "Democratic Center denounced to the IACHR lack of guarantees in elections: they point out hate campaigns from the government of Gustavo Petro",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/centro-democratico-denuncio-ante-la-cidh-falta-de-garantias-en-elecciones-senalan-campanas-de-odio-desde-el-gobierno-de-gustavo-petro-3549716",
-      "published_date": "2026-04-21T20:57:23+00:00"
-    },
-    {
-      "title": "Nawaz highlights PML-N’s focus on development ahead of GB elections",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections",
-      "published_date": "2026-04-21T20:01:22+00:00"
-    },
-    {
-      "title": "Velez in the morning | Álvaro Uribe spoke about the current situation of the country under the Petro Government and the outlook for the 2026 presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/velez-por-la-manana-alvaro-uribe-hablo-sobre-la-situacion-actual-del-pais-bajo-el-gobierno-petro-y-el-panorama-de-las-elecciones-presidenciales-3549669",
-      "published_date": "2026-04-21T18:38:37+00:00"
-    },
-    {
-      "title": "“I would have won very quickly in Vietnam”: Donald Trump praises his qualities as commander in chief and recalls having “taken Venezuela in 45 minutes”",
-      "source": "Le Figaro France",
-      "country": "Venezuela",
-      "url": "https://www.lefigaro.fr/international/j-aurais-gagne-tres-rapidement-au-vietnam-donald-trump-vante-ses-qualites-de-commandant-en-chef-et-rappelle-avoir-pris-le-venezuela-en-45-minutes-20260421",
-      "published_date": "2026-04-21T15:19:58+00:00"
-    },
-    {
-      "title": "Netanyahu would be arrested if he came to Hungary, says new PM",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/europe/netanyahu-arrest-hungary-magyar-orban-b2961772.html",
-      "published_date": "2026-04-21T14:46:38+00:00"
-    },
-    {
-      "title": "Senator Tim Kaine urges to guarantee elections in Venezuela this year: \"It is time for a new chapter\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/tim-kaine-insta-a-garantizar-elecciones-en-venezuela-este-ano/",
-      "published_date": "2026-04-21T14:16:10+00:00"
-    },
-    {
-      "title": "Former Hong Kong trade office chief contesting UK local elections for Reform",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3350924/former-hong-kong-trade-office-chief-contesting-uk-local-elections-reform?utm_source=rss_feed",
-      "published_date": "2026-04-21T14:05:40+00:00"
-    },
-    {
-      "title": "US senators appeal to Meta, Google to ‘counter Russian disinformation’ in Armenian election",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/us-senators-appeal-to-meta-google-to-counter-russian-disinformation-in-armenian-election/",
-      "published_date": "2026-04-21T12:16:26+00:00"
-    },
-    {
-      "title": "Russian Businesses Helping Funnel Military Equipment to Wagner Successor Group in Mali – Report",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/04/21/russian-businesses-helping-funnel-military-equipment-to-wagner-successor-group-in-mali-report-a92553",
-      "published_date": "2026-04-21T12:14:40+00:00"
     }
   ]
 }
