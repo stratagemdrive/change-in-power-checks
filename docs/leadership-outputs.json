@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-05T23:48:43.985411+00:00",
-    "story_count": 420,
+    "last_updated": "2026-05-06T12:31:38.490785+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu spars with prosecution over 2015 Walla interview, Election Day video, in trial hearing",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-895302",
+      "published_date": "2026-05-06T13:33:54+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-06T12:15:30+00:00"
+    },
+    {
+      "title": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260506-looking-ahead-to-the-uk-s-local-elections-with-british-politics-expert-colm-murphy",
+      "published_date": "2026-05-06T11:59:10+00:00"
+    },
+    {
+      "title": "Saffron skies over the Hooghly: How the BJP finally captured the liberal bastion",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/opinion/columns/saffron-tmc-bjp-liberal-mamata-banerjee-modi-10675765/",
+      "published_date": "2026-05-06T09:16:07+00:00"
+    },
+    {
+      "title": "Nigerian newspapers review: [2027] Citing crises, 19 NASS members defect to NDC",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/05/nigerian-newspapers-review-2027-citing-crises-19-nass-members-defect-to-ndc/",
+      "published_date": "2026-05-06T09:13:33+00:00"
+    },
+    {
+      "title": "Muslim candidates threaten Labor in British local elections",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10828328/Muslimske-kandidater-truer-Labour-ved-britiske-lokalvalg",
+      "published_date": "2026-05-06T04:44:34+00:00"
+    },
+    {
+      "title": "Donald Trump congratulates PM Modi on BJP’s ‘historic’ election victory in Bengal, Assam",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/world/donald-trump-congratulates-pm-modi-on-historic-election-victory-10675042/",
+      "published_date": "2026-05-06T02:42:15+00:00"
+    },
     {
       "title": "'Witnessing Gwangju' author compares 5.18 to Yoon's martial law",
       "source": "Korea Times",
@@ -74,11 +123,18 @@
       "published_date": "2026-05-05T23:37:05+00:00"
     },
     {
-      "title": "Former President Iván Duque calls for free elections and the rule of law for Venezuela",
+      "title": "Former President Iván Duque calls for free elections and rule of law for Venezuela",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/expresidente-ivan-duque-pide-elecciones-libres-y-estado-de-derecho-para-venezuela/",
       "published_date": "2026-05-05T23:20:57+00:00"
+    },
+    {
+      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+      "source": "BBC World",
+      "country": "North Korea",
+      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T22:44:35+00:00"
     },
     {
       "title": "Mauricio Gómez Amín resigns from the Liberal Party and his seat as senator: he fully commits to Abelardo de la Espriella's campaign",
@@ -128,6 +184,13 @@
       "country": "India",
       "url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-05-05T16:46:00+00:00"
+    },
+    {
+      "title": "Coup in Russia, Kremlin in Lockdown: Western Intel Claims Putin Under Fire; Real Threat or Disinfo Campaign? - EurAsian Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRXMDVFZTRTMk9seUJpZTNNamZOWXZXQUZnSWNRc2dWTVVLQ3VPc1R0WHRMam1USnpSTXVERUFueXVvX1JZTVZickJxdkV6c1hWWVlSUjJFUkVwdWpSeTY1QmhFYUFtZ19CMTNNTGQ3QU9vLWZ0N0RVZHhfY1NCU0pKYUs0bEnSAYcBQVVfeXFMTlFUVzA1RWU0UzJPbHlCaWUzTWpmTll2V0FGZ0ljUXNnVk1VS0N1T3NUdFh0TGptVEp6Uk11REVBbnl1b19SWU1WYnJCcXZFenNYVllZUlIyRVJFcHVqUnk2NUJoRWFBbWdfQjEzTUxkN0FPby1mdDdEVWR4X2NTQlNKSmFLNGxJ?oc=5",
+      "published_date": "2026-05-05T14:56:49+00:00"
     },
     {
       "title": "French banks float state role in election campaign funding to reassure lenders",
@@ -2914,90 +2977,6 @@
       "country": "United Kingdom",
       "url": "https://www.scmp.com/news/world/europe/article/3351046/uk-pm-insists-he-wont-resign-over-mandelson-scandal?utm_source=rss_feed",
       "published_date": "2026-04-22T13:31:37+00:00"
-    },
-    {
-      "title": "Yoon's constitutional petition against insurrection tribunal law referred to formal review",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260422/yoons-constitutional-petition-against-insurrection-tribunal-law-referred-to-formal-review?utm_source=rss",
-      "published_date": "2026-04-22T11:57:03+00:00"
-    },
-    {
-      "title": "Peru's electoral commission chief resigns over chaotic vote",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/video/20260422-peru-s-electoral-commission-chief-resigns-over-chaotic-vote",
-      "published_date": "2026-04-22T11:44:27+00:00"
-    },
-    {
-      "title": "Nigeria charges retired general and five others over alleged coup plot",
-      "source": "RFI English",
-      "country": "Nigeria",
-      "url": "https://www.rfi.fr/en/africa/20260422-nigeria-charges-retired-general-and-five-others-over-alleged-coup-plot",
-      "published_date": "2026-04-22T10:37:31+00:00"
-    },
-    {
-      "title": "Lebanon's direct talks with Israel will lead to civil war not peace",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/opinion/how-lebanon-direct-talks-israel-will-lead-internal-strife-not-peace",
-      "published_date": "2026-04-22T10:25:30+00:00"
-    },
-    {
-      "title": "Peru’s election chief steps down amid chaotic general election",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss",
-      "published_date": "2026-04-22T10:15:43+00:00"
-    },
-    {
-      "title": "Drone strikes hit Iranian Kurdish rebels in Iraq, says exiled group",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-strikes-hit-iranian-kurdish-rebels-iraq-says-exiled-group",
-      "published_date": "2026-04-22T09:58:20+00:00"
-    },
-    {
-      "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
-      "published_date": "2026-04-22T09:02:55+00:00"
-    },
-    {
-      "title": "Why the Junta Released Myanmar’s President",
-      "source": "Foreign Policy",
-      "country": "Myanmar",
-      "url": "https://foreignpolicy.com/2026/04/22/aung-san-suu-kyi-myanmar-president-release-junta/",
-      "published_date": "2026-04-22T05:00:30+00:00"
-    },
-    {
-      "title": "Electoral crisis in Peru: National Election Jury accuses delay of almost half of the minutes",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/crisis-electoral-en-peru-junta-nacional-de-elecciones-acusa-demora-de-casi-30-mil-actas/",
-      "published_date": "2026-04-22T04:46:58+00:00"
-    },
-    {
-      "title": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
-      "source": "The Guardian World",
-      "country": "India",
-      "url": "https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote",
-      "published_date": "2026-04-22T04:13:05+00:00"
-    },
-    {
-      "title": "Trump gives Iran days to end power struggle, return to peace talks",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/04/22/trump-iran-war-power-struggle-ceasefire",
-      "published_date": "2026-04-22T04:12:56+00:00"
-    },
-    {
-      "title": "Trump’s Cuba threats revive exile hopes, fears over property claims",
-      "source": "The Independent UK",
-      "country": "Cuba",
-      "url": "https://www.independent.co.uk/news/world/europe/donald-trump-cuba-fidel-castro-havana-cuban-americans-b2962356.html",
-      "published_date": "2026-04-22T04:08:56+00:00"
     }
   ]
 }
