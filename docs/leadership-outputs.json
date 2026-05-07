@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-07T12:32:52.043381+00:00",
-    "story_count": 422,
+    "last_updated": "2026-05-07T23:51:55.358232+00:00",
+    "story_count": 427,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Most Cubans support US military intervention and overthrow of the regime",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-05-08-u1-e135253-s27061-nid328496-mayoria-cubanos-apoya-intervencion-militar-eeuu",
+      "published_date": "2026-05-07T22:55:12+00:00"
+    },
+    {
+      "title": "Starmer Braces for Upsets in U.K. Local Elections",
+      "source": "Foreign Policy",
+      "country": "United Kingdom",
+      "url": "https://foreignpolicy.com/2026/05/07/uk-local-elections-labour-starmer-reform-uk-farage-greens/",
+      "published_date": "2026-05-07T20:51:21+00:00"
+    },
+    {
+      "title": "Zehut party leader to run in elections on joint list with ex-Otzma Yehudit chair",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-895516",
+      "published_date": "2026-05-07T20:12:58+00:00"
+    },
+    {
+      "title": "US Secretary of Energy: \"We want to have free and fair elections in Venezuela with a stabilized economy\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/secretario-de-energia-de-ee-uu-se-quiere-llegar-a-elecciones-libres-y-justas-en-venezuela-con-una-economia-estabilizada/",
+      "published_date": "2026-05-07T20:11:36+00:00"
+    },
+    {
+      "title": "Presidential elections 2026 in Colombia: so you can check if you were selected as a voting jury",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-puede-consultar-si-fue-seleccionado-como-jurado-de-votacion-3553858",
+      "published_date": "2026-05-07T19:23:23+00:00"
+    },
+    {
+      "title": "Iran foreign ministry says supreme leader overseeing decisions",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-supreme-leader-overseeing-decisions-says-iranian-foreign",
+      "published_date": "2026-05-07T19:13:33+00:00"
+    },
+    {
+      "title": "UK elections: Conservatives are stuck between a rock and a hard place",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/video/20260507-uk-elections-conservatives-are-stuck-between-a-rock-and-a-hard-place",
+      "published_date": "2026-05-07T16:48:47+00:00"
+    },
+    {
+      "title": "Planalto spares Ciro, but the government does not rule out using an arsenal against the senator in the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/planalto-poupa-ciro-mas-governo-nao-descarta-usar-arsenal-contra-senador-nas-eleicoes.shtml",
+      "published_date": "2026-05-07T16:36:00+00:00"
+    },
+    {
+      "title": "Local elections in the United Kingdom: Keir Starmer faces the rise of Nigel Farage",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-au-royaume%E2%80%91uni-keir-starmer-face-%C3%A0-la-mont%C3%A9e-de-nigel-farage",
+      "published_date": "2026-05-07T16:19:23+00:00"
+    },
+    {
+      "title": "In a difficult election year, Lula visits Trump in Washington",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/05/en-un-ano-electoral-dificil-lula-visita-a-trump-en-washington/",
+      "published_date": "2026-05-07T14:24:22+00:00"
+    },
+    {
+      "title": "Keiko Fujimori promises to be president of Peru for only five years in office if she wins elections",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/05/keiko-fujimori-promete-ser-presidenta-de-peru-solo-los-cinco-anos-de-mandato-si-gana-elecciones/",
+      "published_date": "2026-05-07T12:55:56+00:00"
+    },
+    {
+      "title": "Iran’s president says he met with new supreme leader in person",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-president-says-he-met-with-new-supreme-leader-in-person/",
+      "published_date": "2026-05-07T12:53:54+00:00"
+    },
+    {
+      "title": "British voters cast ballots in local elections seen as a verdict on Keir Starmer’s leadership - NBC News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDgwYzBmS1B4NVQySVpXRlBGQXVDblE0bVdZLTNCOHZhc0lmdHdxdmo4aUtOUmtvMnJQdXdYeC1JSTU0UjRhaU9JUWRBaWdTeFN2cHF5cXJwNnNuYWFEQzhUM3FQWkhmTm53cG5WLXViRFVCQ3NpX3BiUmpCOHZBSndUWGFzRVVNajBZNFNrY2hjZmZDYm5UaVBrYmRJLWNFbnAxZ1VWRVJsZW9TSVBhRU5YZThYUkRwNTQycnpWQU1Hb01m?oc=5",
+      "published_date": "2026-05-07T12:10:53+00:00"
+    },
+    {
+      "title": "British Election: Will antisemitism push U.K. Jews to the arms of the far right? - Haaretz",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSmhUSXNGNDVacUpacGctQ2VTSm0zU1c0cTZkUVhJZkdXckVjVEtsLXVXZzVJbFRVWmxOWndNRTZxVHdVOGczcE16RnlRZEZNNjJkR0lSNGRIVnQ3SERuSjNTVmdGRTlGLVhoSk1lRmxkcHRJcnpMU0p6U0R0enhhWEw1aThsM3NWdXlBTjlwcDJxUXVVUFdsOGlCTlpCNHlXQnhtdDQtZE9Pb3RPdUlYMjlJSElmX2w1YWhlNWRFai1qS1VjSzVlbTRMNllSYnYxanVkMkVYakRsOURaZWJjWjctRDlvTjVQaG83cEpJMTExSnhtaGY3VzZzUVk1bnpiM1YwME0wSTNOczhyalRhcE5kQQ?oc=5",
+      "published_date": "2026-05-07T12:02:00+00:00"
+    },
     {
       "title": "Iranians at home divided between hope for regime change and war fears",
       "source": "Euronews",
@@ -2949,69 +3047,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/nacional/noticia/designacion-de-exministra-de-boric-en-hospital-de-san-antonio-desata-rebelion-y-abre-flanco-para-el-minsal/",
       "published_date": "2026-04-24T00:16:25+00:00"
-    },
-    {
-      "title": "Bernie Moreno, a US senator of Colombian origin, would be one of the US observers in the presidential elections on May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bernie-moreno-senador-estadounidense-de-origen-colombiano-seria-uno-de-los-observadores-en-las-elecciones-presidenciales-del-31-de-mayo-3550396",
-      "published_date": "2026-04-23T21:36:24+00:00"
-    },
-    {
-      "title": "“Seriously injured”, the new Iranian supreme leader would be treated by the Iranian president in person, according to the New York Times",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/gravement-blesse-le-nouveau-guide-supreme-iranien-serait-notamment-soigne-par-le-president-iranien-en-personne-selon-le-new-york-times-20260423",
-      "published_date": "2026-04-23T18:00:50+00:00"
-    },
-    {
-      "title": "Iran’s exiled crown prince splashed with red liquid after railing against ceasefire - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnlmM01lVGFTdkFxMFIxLVdNVFdyV0E0U1hOdVNRSkZGRHY5V2pjajV1TlJvNkdfMG9HSzRBb2hhT0JkTjJMdG93RXRBV0ZpMmh0Q1ZsYXQ4d01GLUF1dUh1c0lzcXpHS2N3cFl2NTRPNHRWaHVwV3ljMWZHeG1VWXhVUTl2VUg4OVl1di1BU1NTZXBBbnJHUzd6bnNIRGNwNk5FMGNqSXFkNXRTZmZkR3JDWdIBuAFBVV95cUxOS3hxVHBVbTAtOWhqMndaUlNwUTVjeVAyNm9wbkpHQXZxX2w3RGo2MkdiQ3FFMEJXaFpZRGpFWThwOGRLUW5XQ0t2bFRpcWVZTjA4R1dMdUd0eUd1V295TWZTU0pBY2IyMUpHaHlXSVE3SDBrNGxEaWM5a2tMdXlKWGtYVzkxbzlkNmhCTV9jT1dYQ19lSl9IT3hwNDVVY24tZEY4b3ZJdG03d2paWlZZUGc1MkpNa01i?oc=5",
-      "published_date": "2026-04-23T17:10:58+00:00"
-    },
-    {
-      "title": "Kast inaugurates Balmaceda Literary Café vandalized during the social outbreak: “The violence that was carried out here must be fought”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-inaugura-cafe-literario-balmaceda-valdalizado-en-estallido-social-la-violencia-que-se-ejercio-aca-debe-ser-combatida/",
-      "published_date": "2026-04-23T16:52:28+00:00"
-    },
-    {
-      "title": "Lula indicates that he will increase attacks in the election and promises to leave 'naked liars' in front of the cameras",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/lula-indica-que-ampliara-ataques-na-eleicao-e-promete-deixar-mentirosos-nus-diante-das-cameras.shtml",
-      "published_date": "2026-04-23T16:34:00+00:00"
-    },
-    {
-      "title": "Video: Exiled Iranian crown prince splattered with red liquid in Berlin after slashing US-Iran truce",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/world-iran-exiled-prince-reza-pahlavi-attacked-berlin-tomato-juice-us-truce-protest-10652426/",
-      "published_date": "2026-04-23T15:48:09+00:00"
-    },
-    {
-      "title": "Iran's exiled crown prince Reza Pahlavi splattered with red liquid in Berlin",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/my-europe/2026/04/23/irans-exiled-crown-prince-reza-pahlavi-splattered-with-red-liquid-in-berlin",
-      "published_date": "2026-04-23T13:39:44+00:00"
-    },
-    {
-      "title": "Iran's exiled crown prince Reza Pahlavi splattered with red liquid in Berlin - Euronews.com",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcEJERWpTQVhZVl9lZVlFUE1BVkhRZS1hSmJBcnpFOHp2SWV1cTZ5di1VejlvTXY5TXpHTy1ZM1ZxdC1BbmdXNnRwdlFzbFBfOEo1Tk1TemZYWjFaN1VENUlzRzlqVXpPQ0t3ckR6TURqQmxNUUt2M0NUejRlaTB0VG45cXI0SGxjX2JRaVUxdDlOd29ra3FMUElQNHNfRWN4SjZpMTMzRDJFaWJocGQ2Vm8zTlc4eGtXRjk2dUp3?oc=5",
-      "published_date": "2026-04-23T13:39:44+00:00"
-    },
-    {
-      "title": "President Macron inaugurates lithium mine as France, EU seek energy sovereignty",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20260423-president-macron-inaugurates-lithium-mine-as-france-eu-seek-energy-sovereignty",
-      "published_date": "2026-04-23T13:32:07+00:00"
     }
   ]
 }
