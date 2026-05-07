@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-06T23:48:30.387905+00:00",
-    "story_count": 418,
+    "last_updated": "2026-05-07T12:32:52.043381+00:00",
+    "story_count": 422,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iranians at home divided between hope for regime change and war fears",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/2026/05/07/iranians-at-home-divided-between-hope-for-regime-change-and-war-fears",
+      "published_date": "2026-05-07T11:32:41+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-07T11:29:31+00:00"
+    },
+    {
+      "title": "Local elections across UK test Starmer as Reform UK eyes major gains",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/video/2026/05/07/local-elections-across-uk-test-starmer-as-reform-uk-eyes-major-gains",
+      "published_date": "2026-05-07T11:06:11+00:00"
+    },
+    {
+      "title": "Local elections in Great Britain, Keir Starmer threatened with sanction vote",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-en-grande-bretagne-keir-starmer-menac%C3%A9-d-un-vote-sanction",
+      "published_date": "2026-05-07T11:02:37+00:00"
+    },
+    {
+      "title": "Iran's president says he recently met with the supreme leader",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-says-he-recently-met-supreme-leader",
+      "published_date": "2026-05-07T10:40:56+00:00"
+    },
+    {
+      "title": "Watch: potholes or Europe? Decoding Britain’s local elections",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/05/07/watch-potholes-or-europe-decoding-britains-local-elections",
+      "published_date": "2026-05-07T10:27:17+00:00"
+    },
+    {
+      "title": "UK voters cast ballots in elections expected to deal blow to Starmer - Reuters",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXJFb19VOHFkcWlBTVFvQmdkX0haVV9EZTctcVMzZktqWTJsUDNSUGstOVdza2xJZnNheWhJdjNwUGgwY0NnSjB0OFFrVThBT3hvRU1kSFJMVUFxS29nYUxjSUwxNEYzbzB6a3dVRFl5T1Z6Vy1vRzhibU1kUEQtUjhySU5IbHp5RFJmenhEVlpMVTktUUhZRzYxZGZOaUthZTVPbUQzRQ?oc=5",
+      "published_date": "2026-05-07T09:52:57+00:00"
+    },
+    {
+      "title": "Local elections in the United Kingdom, Starmer and Labor under threat",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-au-royaume-uni-starmer-et-les-travaillistes-menac%C3%A9s",
+      "published_date": "2026-05-07T09:50:04+00:00"
+    },
+    {
+      "title": "UK voters cast ballots in elections expected to deal blow to Starmer",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/video/20260507-uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer",
+      "published_date": "2026-05-07T09:41:23+00:00"
+    },
+    {
+      "title": "Former FMs, UN experts urge recognition of Myanmar’s ousted president",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/former-fms-un-experts-urge-recognition-of-myanmars-ousted-president/",
+      "published_date": "2026-05-07T08:53:08+00:00"
+    },
+    {
+      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T08:03:55+00:00"
+    },
+    {
+      "title": "Voting under way in UK local elections seen as a verdict on Keir Starmer's leadership",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/05/07/voting-under-way-in-uk-local-elections-seen-as-a-verdict-on-keir-starmers-leadership",
+      "published_date": "2026-05-07T07:36:48+00:00"
+    },
+    {
+      "title": "UK votes in key local and regional elections",
+      "source": "Deutsche Welle English",
+      "country": "United Kingdom",
+      "url": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-07T07:16:00+00:00"
+    },
+    {
+      "title": "In the United Kingdom, local elections at high risk for Labor",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/europe/20260507-royaume-uni-elections-locales-haut-risque-pour-travaillistes-starmer-farage-reform-uk",
+      "published_date": "2026-05-07T06:23:16+00:00"
+    },
+    {
+      "title": "Two hostages, including elderly disabled woman, killed by Myanmar junta troops in Magway",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/two-hostages-including-elderly-disabled-woman-killed-by-myanmar-junta-troops-in-magway/",
+      "published_date": "2026-05-07T05:51:40+00:00"
+    },
+    {
+      "title": "BJP aide shot dead in India’s West Bengal days after historic election win",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3352707/bjp-aide-shot-dead-indias-west-bengal-days-after-historic-election-win?utm_source=rss_feed",
+      "published_date": "2026-05-07T05:47:06+00:00"
+    },
+    {
+      "title": "Before the election: Britain's political map is becoming colourful",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wahlen-in-grossbritannien-chancen-fuer-reform-und-gruene-accg-200797488.html",
+      "published_date": "2026-05-07T04:32:35+00:00"
+    },
+    {
+      "title": "Ex-minister gets reduced sentence in case of state of emergency in South Korea",
+      "source": "Politiken Denmark",
+      "country": "South Korea",
+      "url": "https://politiken.dk/internationalt/art10832768/Eksminister-f%C3%A5r-s%C3%A6nket-straf-i-sag-om-undtagelsestilstand-i-Sydkorea",
+      "published_date": "2026-05-07T04:26:21+00:00"
+    },
+    {
+      "title": "Lula gets angry with PT, misses events and demands pre-election strategy",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-se-irrita-com-pt-falta-a-eventos-e-cobra-estrategia-pre-eleitoral.shtml",
+      "published_date": "2026-05-07T02:00:00+00:00"
+    },
+    {
+      "title": "Jury training in Bogotá will begin this May 11: these are some keys for the delegates of the 2026 presidential elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-capacitacion-de-jurados-en-bogota-iniciara-este-11-de-mayo-estas-son-algunas-claves-para-los-delegados-de-las-elecciones-presidenciales-de-3553573",
+      "published_date": "2026-05-07T01:36:24+00:00"
+    },
     {
       "title": "The narrative of electoral fraud in Peru confronts the country's business leaders",
       "source": "El Nacional Venezuela",
@@ -135,13 +275,6 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260506-uk-local-elections-what-does-it-mean-to-be-scottish-today",
       "published_date": "2026-05-06T13:30:55+00:00"
-    },
-    {
-      "title": "When are the presidential elections in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
-      "published_date": "2026-05-06T12:15:30+00:00"
     },
     {
       "title": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
@@ -2879,111 +3012,6 @@
       "country": "France",
       "url": "https://www.france24.com/en/video/20260423-president-macron-inaugurates-lithium-mine-as-france-eu-seek-energy-sovereignty",
       "published_date": "2026-04-23T13:32:07+00:00"
-    },
-    {
-      "title": "Iran’s exiled crown prince Pahlavi splashed with red substance in Berlin",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3351193/irans-exiled-crown-prince-pahlavi-splashed-red-substance-berlin?utm_source=rss_feed",
-      "published_date": "2026-04-23T12:10:52+00:00"
-    },
-    {
-      "title": "Iran's Exiled Crown Prince Splattered With Red Liquid - Newser",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnc3Q2VCTUkyU3llODZvWEdIMkRvam45QnlvR0hDZFBldmdxLTY2emJUZGFJWVVLSmpoVlVxVVpCQ2E4c1BjNEZGeEdabkNyeFJEeUNwWVJzQzhBTHY0Z0ZpRFhDdlRuZjFmczlBemdZT25hZmFKSDdvTE05azF4b3VvWnlDbnFoS3MwbWdKYjVfdHV0bVE5NQ?oc=5",
-      "published_date": "2026-04-23T11:44:00+00:00"
-    },
-    {
-      "title": "The electoral reform project is in Congress; For the first time a woman will preside over the Buenos Aires Bar Association",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/sociedad/esta-en-el-congreso-el-proyecto-de-reforma-electoral-por-primera-vez-una-mujer-presidira-el-colegio-nid23042026/",
-      "published_date": "2026-04-23T11:32:35+00:00"
-    },
-    {
-      "title": "How Iran raised Hormuz stakes by capturing ships - Al Jazeera",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUER2cWp5S3Z5RldCdURNQXF2S2pPemdpTlp2M2p1a2U5X3FIYkNwUTBwM3FIMDhrZTlCN0dfeE1VbTZ4Q2tBTFdsS1hBN3ZlSDZMZHB3M21hT0Q4LTE1Ukt5OFFyNF93Vm1kU0lIR2lLM3lOdG16SThfNXpKWUFRbGJNNDc4QWE1d1pHM1dNa1ZxZUHSAZgBQVVfeXFMUHIzTC1TZktJX2lMZ1M1bWNVVUtZVXpody1JdEVDTUxfdXlTNmN3bENmVjVyblBCTDlZSW9SVlR0ZUM4cnFMRFdENVlDTlpHT0VqRW1Pc1FKNHlBbUg1UVV0QXctTEJ0NEUwNTFiYTZTaXY5T2kyenM4V1VZVXN3RmxiMGFraGNTeGxEdWJDdk5IWE85UGtlQVg?oc=5",
-      "published_date": "2026-04-23T11:28:59+00:00"
-    },
-    {
-      "title": "How Iran raised Hormuz stakes by capturing ships",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
-      "published_date": "2026-04-23T11:25:44+00:00"
-    },
-    {
-      "title": "Rival party workers fight on election day in India’s West Bengal",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss",
-      "published_date": "2026-04-23T11:09:19+00:00"
-    },
-    {
-      "title": "Ink on lotus symbol, BJP candidate chased: Bengal elections are not for beginners | Phase 1 voting wrapped",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/ink-on-lotus-symbol-bjp-candidate-chased-bengal-elections-are-not-for-beginners-phase-1-voting-101776934214909.html",
-      "published_date": "2026-04-23T09:46:29+00:00"
-    },
-    {
-      "title": "Gaza: municipal elections as a test for Hamas",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260423-gaza-des-%C3%A9lections-municipales-en-forme-de-test-pour-le-hamas",
-      "published_date": "2026-04-23T08:55:33+00:00"
-    },
-    {
-      "title": "2027: Ex-Senate chief whip, others drum support for Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-ex-senate-chief-whip-others-drum-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-23T08:32:02+00:00"
-    },
-    {
-      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss",
-      "published_date": "2026-04-23T07:42:26+00:00"
-    },
-    {
-      "title": "West Bengal elections: BJP files complaint with EC against Mamata Banerjee, seeks 48-hour campaign ban",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-elections-bjp-files-complaint-with-ec-against-mamata-banerjee-seeks-48-hour-campaign-ban-10651638/",
-      "published_date": "2026-04-23T07:28:29+00:00"
-    },
-    {
-      "title": "Can fish hook voters in India’s West Bengal elections?",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections?traffic_source=rss",
-      "published_date": "2026-04-23T05:05:15+00:00"
-    },
-    {
-      "title": "How Southeast Asia’s aviation hubs are capturing traffic amid Iran war",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/week-asia/economics/article/3351081/how-southeast-asias-aviation-hubs-are-capturing-traffic-amid-iran-war?utm_source=rss_feed",
-      "published_date": "2026-04-23T03:55:40+00:00"
-    },
-    {
-      "title": "West Bengal Election 2026 LIVE: 78.77% turnout till 3 pm; BJP candidate assaulted on way to polling booth",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-polling-live-wb-voting-time-nandigram-baharampur-suvendu-adhir-tmc-bjp-election-commission-tmc-101776904515452.html",
-      "published_date": "2026-04-23T00:54:33+00:00"
-    },
-    {
-      "title": "Opposition accuses constitutional defects in Kast's mega-reform and prepares to go to the TC",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/oposicion-acusa-vicios-de-constitucionalidad-en-megarreforma-de-kast-y-se-prepara-para-acudir-al-tc/",
-      "published_date": "2026-04-23T00:26:28+00:00"
     }
   ]
 }
