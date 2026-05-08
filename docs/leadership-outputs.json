@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-08T12:12:22.436085+00:00",
+    "last_updated": "2026-05-08T23:55:12.610118+00:00",
     "story_count": 430,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "“Get over it, forgive us and leave”: Chavismo seeks reconciliation with Venezuelans in exile, but its call for forgiveness reignites debate about impunity",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/superalo-perdonanos-y-vente-el-chavismo-busca-reconciliacion-con-venezolanos-en-el-exilio-pero-su-llamado-al-perdon-reaviva-debate-sobre-impunidad/",
+      "published_date": "2026-05-08T23:11:17+00:00"
+    },
+    {
+      "title": "Bolsonaro's defense asks Fachin, president of the STF, to annul the coup plot case",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/defesa-de-bolsonaro-pede-a-fachin-presidente-do-stf-anulacao-do-caso-da-trama-golpista.shtml",
+      "published_date": "2026-05-08T23:06:00+00:00"
+    },
+    {
+      "title": "Live Updates: U.K. Local Election Results Point to Big Losses for Starmer’s Party - The New York Times",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPLWdHQWZ0U1Bzd0Z5aEFHdHo3MmlJZERBNjRMM040V3ZuMTF0R1JCVU5Mb0hnZGVyMDNkSHMxbzFHZkRVU21idkpWdkZ2MUlySHJ1MlZZRTFydTJ3cjJYMmM2T3RtUk9PS2FmU215dUVqWVlNUzJfOGZobjE?oc=5",
+      "published_date": "2026-05-08T22:19:24+00:00"
+    },
+    {
+      "title": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-reform-uk-election-gains-essex-sunderland",
+      "published_date": "2026-05-08T21:47:21+00:00"
+    },
+    {
+      "title": "In Niger, the ruling junta suspends around ten French media, including RFI, AFP and France 24, accused of “seriously endangering public order”.",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/08/au-niger-la-junte-au-pouvoir-suspend-une-dizaine-de-medias-francais-dont-rfi-l-afp-et-france-24-accuses-de-mettre-gravement-en-peril-l-ordre-public_6687112_3212.html",
+      "published_date": "2026-05-08T21:43:07+00:00"
+    },
+    {
+      "title": "Keir Starmer under pressure to agree exit plan after election mauling",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
+      "published_date": "2026-05-08T21:35:23+00:00"
+    },
+    {
+      "title": "Electoral debacle for Starmer's Labor party: nationalisms sweep local elections in Great Britain",
+      "source": "La Nacion Argentina",
+      "country": "United Kingdom",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-ultraderecha-arrasa-en-las-elecciones-locales-del-reino-unido-y-acelera-la-crisis-de-starmer-nid08052026/",
+      "published_date": "2026-05-08T21:29:57+00:00"
+    },
+    {
+      "title": "Local elections in the United Kingdom: historic breakthrough of the radical right, collapse of Labor and end of two-partyism",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/05/08/elections-locales-au-royaume-uni-percee-historique-de-la-droite-radicale-effondrement-des-travaillistes-et-fin-du-bipartisme_6687097_3210.html",
+      "published_date": "2026-05-08T17:16:23+00:00"
+    },
+    {
+      "title": "How real is a coup threat against Russia's president? - DW.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3FDM3VDSmdxbnd3Z0lOMGZQWXJJVGZuUVJLWVNhMXlhc3ltRVREYlhwbDJjSEpZcm90U3Q4VVNjYTZTOEdTTkdEb25GaGtMLXltUDFHYU9CZTJsa2ZTYjNlN2dRTFpzYW9Sa3QtRGRRZExxZ3lYSFRuWXhXclpxUGlzVEE5cEJtQmgzYtIBjAFBVV95cUxNM1V2YmlCMGMtaXBSUFY5TklzMkFXektQdFJQOFFtVENLYU52cGtRNEJyVmdzU3pOYlVPNkxzeTRCZ2pjdzFlb29TeEpiaGpyTzYzQzJtM0Nab3pKRVZHZ2hDLS02MVpBdUh2TlZjNUsyMmdWdk02dTl3SmFTaUpodWdkblNOdTkzOTgycQ?oc=5",
+      "published_date": "2026-05-08T16:26:18+00:00"
+    },
+    {
+      "title": "How real is a coup threat against Russia's president?",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-08T15:57:00+00:00"
+    },
+    {
+      "title": "Elections in Great Britain: Starmer defends himself against calls for his resignation",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/england-labour-partei-stuerzt-bei-kommunalwahlen-ab-accg-200811671.html",
+      "published_date": "2026-05-08T15:47:36+00:00"
+    },
+    {
+      "title": "Substantial win for Nigel Farage's Reform UK in local elections",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections",
+      "published_date": "2026-05-08T15:40:48+00:00"
+    },
+    {
+      "title": "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains?traffic_source=rss",
+      "published_date": "2026-05-08T15:35:20+00:00"
+    },
+    {
+      "title": "Elections in Israel: the hawk Bennett and the centrist Lapid, “Together” to dethrone Netanyahu",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/moyen-orient/20260508-%C3%A9lections-en-isra%C3%ABl-le-faucon-bennett-et-le-centriste-lapid-ensemble-pour-d%C3%A9tr%C3%B4ner-netanyahu",
+      "published_date": "2026-05-08T14:22:09+00:00"
+    },
     {
       "title": "Keir Starmer vows to fight on despite Labour’s heavy losses in local elections",
       "source": "Jerusalem Post",
@@ -123,14 +221,7 @@
       "published_date": "2026-05-08T09:43:35+00:00"
     },
     {
-      "title": "Elections in Great Britain: Starmer defends himself against calls for his resignation",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/england-labour-partei-stuerzt-bei-kommunalwahlen-ab-accg-200811671.html",
-      "published_date": "2026-05-08T09:14:36+00:00"
-    },
-    {
-      "title": "Venezuela arrives at Cannes Lions 2026 with proof of the electoral fraud of 28J",
+      "title": "Venezuela arrives at Cannes Lions 2026 with proof of the 28J electoral fraud",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/venezuela-llega-a-cannes-lions-2026-con-la-prueba-del-fraude-electoral-del-28j/",
@@ -2977,97 +3068,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/how-adelabu-resigned-against-tinubus-wish/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-04-25T00:00:37+00:00"
-    },
-    {
-      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
-      "published_date": "2026-04-24T23:22:32+00:00"
-    },
-    {
-      "title": "New election of rector at the University of Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/opinion/noticia/nueva-eleccion-de-rector-en-la-u-de-chile/",
-      "published_date": "2026-04-24T23:04:00+00:00"
-    },
-    {
-      "title": "Peru's electoral authority refuses to call complementary elections in Lima",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/04/la-autoridad-electoral-de-peru-rechaza-convocar-comicios-complementarios-en-lima/",
-      "published_date": "2026-04-24T20:15:18+00:00"
-    },
-    {
-      "title": "National Election Jury of Peru unanimously declares the holding of complementary elections “unviable”",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/jurado-nacional-de-elecciones-de-peru-declara-por-unanimidad-inviable-la-realizacion-de-elecciones-complementarias/",
-      "published_date": "2026-04-24T19:12:25+00:00"
-    },
-    {
-      "title": "Tamil Nadu election 2026: Sri Lankan refugee camp resident casts his first vote as Indian citizen",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
-      "published_date": "2026-04-24T18:00:49+00:00"
-    },
-    {
-      "title": "Devés inaugurates the academic year of the University of Chile with defense of free credit and expectation of a new “fair and sustainable” credit system",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/deves-inaugura-ano-academico-de-u-de-chile-con-defensa-a-la-gratuidad-y-expectativa-de-nuevo-sistema-de-credito-justo-y-sostenible/",
-      "published_date": "2026-04-24T17:41:27+00:00"
-    },
-    {
-      "title": "Starmer pledges to move on banning Iran's IRGC in next parliament session - ایران اینترنشنال",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQNTdxdW1FTGRtUDJISEtfU0ZiZDc0bTU2ZkJpV21lQlYzMUI4Wk15Sl8za3BuMklnV25jbWFoYXk4ZzdQUFN2X3R3RHo1R0E5Rnc?oc=5",
-      "published_date": "2026-04-24T16:05:58+00:00"
-    },
-    {
-      "title": "Why Bulgaria’s New Leader May Not Become Putin’s New Trojan Horse - The Moscow Times",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblBUZFR4OERmd3JNRnJBb2dNVExaV3ZROUFMa1I4bTY0andwa1pCbzN3UDZMYTY0RmM1SlcxRk9hcFFJNTVtYzE3RDhVRXI4RkhuRlplejA1UXhESF9ONUFfNjNOd2lLd092THZabHZRdldFVkV5N19tQ2NKY1cwQlpqdzJHa0ZwM0twb0Q0alZxeHk2c0lNckdOc0xkRHVWLU04S3hVZl9lSUs0SGFLanVR?oc=5",
-      "published_date": "2026-04-24T15:35:00+00:00"
-    },
-    {
-      "title": "Iran’s new supreme leader is severely wounded and delegating responsibility to army generals, says report",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-severely-injured-mojtaba-khamenei-b2964291.html",
-      "published_date": "2026-04-24T14:48:25+00:00"
-    },
-    {
-      "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
-      "published_date": "2026-04-24T14:12:56+00:00"
-    },
-    {
-      "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
-      "source": "BBC World",
-      "country": "Nigeria",
-      "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T13:57:20+00:00"
-    },
-    {
-      "title": "Steinmeier successor: Söder names Aigner – and beats Merz to it",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/markus-soeder-ist-fuer-ilse-aigner-als-bundespraesidentin-accg-200765532.html",
-      "published_date": "2026-04-24T13:30:31+00:00"
-    },
-    {
-      "title": "A month after elections, Danish government talks remain in stalemate",
-      "source": "South China Morning Post",
-      "country": "Denmark",
-      "url": "https://www.scmp.com/news/world/europe/article/3351362/month-after-elections-danish-government-talks-remain-stalemate?utm_source=rss_feed",
-      "published_date": "2026-04-24T13:23:18+00:00"
     }
   ]
 }
