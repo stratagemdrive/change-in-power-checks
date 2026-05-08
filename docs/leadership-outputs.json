@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-07T23:51:55.358232+00:00",
-    "story_count": 427,
+    "last_updated": "2026-05-08T12:12:22.436085+00:00",
+    "story_count": 430,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,160 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Keir Starmer vows to fight on despite Labour’s heavy losses in local elections",
+      "source": "Jerusalem Post",
+      "country": "United Kingdom",
+      "url": "https://www.jpost.com/international/article-895573",
+      "published_date": "2026-05-08T13:32:54+00:00"
+    },
+    {
+      "title": "Against the rebels, the Burmese junta bans hygienic protection…",
+      "source": "France 24 FR",
+      "country": "Myanmar",
+      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20260508-contre-les-rebelles-la-junte-birmane-interdit-les-protections-hygi%C3%A9niques",
+      "published_date": "2026-05-08T11:56:38+00:00"
+    },
+    {
+      "title": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+      "published_date": "2026-05-08T11:54:16+00:00"
+    },
+    {
+      "title": "Farage's right-wing populist party is the big winner of the UK election",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10828331/Farages-h%C3%B8jrepopulistiske-parti-bliver-valgets-store-vinder-i-Storbritannien",
+      "published_date": "2026-05-08T10:44:21+00:00"
+    },
+    {
+      "title": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWF3dW5GcHh6WUJDQ1JnTnFhZzdqRlBpd0tvS3M3bmFLd3V4MFRwMWI5T3VsTktjZmcwRlYtcVhBVHBXQ3Y1N0k4TVBJcHM4a19pVGFtQVhWdlUtd08wTWFWbmZmU1FNcmt4My1TRDRPYmluaUFPaUdrNnZmNHBwdVVEM0F6Wm9ZanpUR2N4NjhrSmoyeWJJWlloeEFPUHdVajFjUzFmZzZsZw?oc=5",
+      "published_date": "2026-05-08T10:29:00+00:00"
+    },
+    {
+      "title": "Nigeria's security ‘has never been worse’ as coup trial opens",
+      "source": "RFI English",
+      "country": "Nigeria",
+      "url": "https://www.rfi.fr/en/africa/20260508-nigeria-security-has-never-been-worse-as-coup-trial-opens-jibrin-ibrahim",
+      "published_date": "2026-05-08T10:26:07+00:00"
+    },
+    {
+      "title": "Starmer rules out resigning after early results show Labor defeats in local elections as Reform UK gains ground",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/primeros-resultados-muestran-derrotas-de-laboristas-britanicos-en-las-elecciones-locales-mientras-reform-uk-gana-terreno/",
+      "published_date": "2026-05-08T10:19:07+00:00"
+    },
+    {
+      "title": "Defiant Starmer digs in after UK Labour’s local election drubbing",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3352908/defiant-starmer-digs-after-uk-labours-local-election-drubbing?utm_source=rss_feed",
+      "published_date": "2026-05-08T09:55:15+00:00"
+    },
+    {
+      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections",
+      "published_date": "2026-05-08T09:43:35+00:00"
+    },
+    {
+      "title": "Elections in Great Britain: Starmer defends himself against calls for his resignation",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/england-labour-partei-stuerzt-bei-kommunalwahlen-ab-accg-200811671.html",
+      "published_date": "2026-05-08T09:14:36+00:00"
+    },
+    {
+      "title": "Venezuela arrives at Cannes Lions 2026 with proof of the electoral fraud of 28J",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/venezuela-llega-a-cannes-lions-2026-con-la-prueba-del-fraude-electoral-del-28j/",
+      "published_date": "2026-05-08T08:59:00+00:00"
+    },
+    {
+      "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
+      "published_date": "2026-05-08T08:28:19+00:00"
+    },
+    {
+      "title": "UK elections – early results and takeaways; will Starmer have to resign?",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
+      "published_date": "2026-05-08T08:18:50+00:00"
+    },
+    {
+      "title": "Keir Starmer acknowledges 'painful results' after far-right Reform UK party's breakthrough, partial results in Britain's local elections show",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/05/08/keir-starmer-reconnait-des-resultats-douloureux-apres-la-percee-du-parti-d-extreme-droite-reform-uk-selon-des-resultats-partiels-aux-elections-locales-en-grande-bretagne_6687034_3210.html",
+      "published_date": "2026-05-08T08:08:51+00:00"
+    },
+    {
+      "title": "Local elections in Great Britain: Keir Starmer recognizes a difficult vote for the Labor Party",
+      "source": "Le Figaro France",
+      "country": "United Kingdom",
+      "url": "https://www.lefigaro.fr/international/elections-locales-en-grande-bretagne-keir-starmer-reconnait-un-scrutin-difficile-pour-le-parti-travailliste-20260508",
+      "published_date": "2026-05-08T07:57:36+00:00"
+    },
+    {
+      "title": "Adorni ruled out running as a candidate for head of the Buenos Aires government in the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/adorni-descarto-presentarse-como-jefe-de-gobierno-porteno-en-las-elecciones-de-2027-no-tiene-razon-nid08052026/",
+      "published_date": "2026-05-08T07:00:47+00:00"
+    },
+    {
+      "title": "Southeast Asian nations see possible opening for thaw with Myanmar years after coup",
+      "source": "Japan Times",
+      "country": "Myanmar",
+      "url": "https://www.japantimes.co.jp/news/2026/05/08/asia-pacific/politics/myanmar-isolation-warming/",
+      "published_date": "2026-05-08T02:41:00+00:00"
+    },
+    {
+      "title": "Japan’s Prince Hisahito steps into spotlight as succession debate heats up",
+      "source": "South China Morning Post",
+      "country": "Japan",
+      "url": "https://www.scmp.com/week-asia/people/article/3352789/japans-prince-hisahito-steps-spotlight-succession-debate-heats?utm_source=rss_feed",
+      "published_date": "2026-05-08T01:30:08+00:00"
+    },
+    {
+      "title": "Nazi-era guns and Iranian weapons: captured Hezbollah arsenal exposes rearmament push - ynetnews",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PSGk5c1NhTHYzM2xKUlVOaHBhRVZUNmJLNEJZd0J4MTRhMmY2STY0Uld4UE9yb0JOYkhEekRTdFFmODlfVFU0bTJjNklvZUM1SWVFdjZ3?oc=5",
+      "published_date": "2026-05-08T01:17:44+00:00"
+    },
+    {
+      "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
+      "source": "The Guardian World",
+      "country": "Myanmar",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
+      "published_date": "2026-05-08T00:57:43+00:00"
+    },
+    {
+      "title": "Kast meets with the elected president of Costa Rica and emphasizes that he will not support Grynspan for the UN",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/kast-se-reune-con-presidenta-electa-de-costa-rica-y-recalca-que-no-apoyara-a-grynspan-para-la-onu/",
+      "published_date": "2026-05-08T00:04:36+00:00"
+    },
+    {
+      "title": "UK votes in local elections that test Keir Starmer's leadership",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/reino-unido-vota-en-elecciones-locales-que-ponen-a-prueba-el-liderazgo-de-keir-starmer/",
+      "published_date": "2026-05-07T23:59:09+00:00"
+    },
     {
       "title": "Most Cubans support US military intervention and overthrow of the regime",
       "source": "CiberCuba",
@@ -2914,139 +3068,6 @@
       "country": "Denmark",
       "url": "https://www.scmp.com/news/world/europe/article/3351362/month-after-elections-danish-government-talks-remain-stalemate?utm_source=rss_feed",
       "published_date": "2026-04-24T13:23:18+00:00"
-    },
-    {
-      "title": "Deaf brothers shot dead by Myanmar junta troops in Magway’s Natmauk Township",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/deaf-brothers-shot-dead-by-myanmar-junta-troops-in-magways-natmauk-township/",
-      "published_date": "2026-04-24T11:25:03+00:00"
-    },
-    {
-      "title": "West Bengal election: PM Modi says phase-1 polling signals 'wave of change'; claims TMC destroyed State’s identity",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-phase-1-pm-modi-polling-signals-wave-of-change-bjp-victory/article70901080.ece",
-      "published_date": "2026-04-24T11:01:55+00:00"
-    },
-    {
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "source": "BBC World",
-      "country": "Syria",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T10:41:32+00:00"
-    },
-    {
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested - BBC",
-      "source": "Google News World",
-      "country": "Syria",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Zk8yTXdhUU5PRXlJQ1R1WERPQjdxNXFVVVI5MlFJaHVpNWNmcUczMWNCVDkzN2c3eTRROWxuR3dYbVJXRVhTNDh5U1ZWbXd5Qk1XeWY0bm5oZw?oc=5",
-      "published_date": "2026-04-24T10:41:32+00:00"
-    },
-    {
-      "title": "Raghav Chadha news highlights: Bharadwaj’s ‘big netas, deep pockets’ jibe after 7 AAP MPs defect",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/raghav-chadha-quits-aap-merges-with-bjp-live-updates-merger-ashok-mittal-harbhajan-singh-punjab-rajya-sabha-mps-news-101777027049608.html",
-      "published_date": "2026-04-24T10:39:21+00:00"
-    },
-    {
-      "title": "West Bengal voter turnout makes me certain of BJP’s landslide victory: PM Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modi-bengal-election-2026-rallies-voting-phase-1-jhalmuri-tmc/article70897099.ece",
-      "published_date": "2026-04-24T10:34:32+00:00"
-    },
-    {
-      "title": "Nigerian military inaugurates General Court-Martial, begins trial of coup suspects",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/874361-nigerian-military-inaugurates-general-court-martial-begins-trial-of-coup-suspects.html",
-      "published_date": "2026-04-24T09:54:53+00:00"
-    },
-    {
-      "title": "Yogi Adityanath to be CM face in next UP assembly election? BJP chief says ‘the faces will…’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-makes-big-claim-on-up-cm-face-ahead-of-2027-assembly-election-yogi-adityanath-101777020499621.html",
-      "published_date": "2026-04-24T09:30:09+00:00"
-    },
-    {
-      "title": "France's Macron says he will leave politics after 2027 election",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260424-france-s-macron-says-he-will-leave-politics-after-2027-election",
-      "published_date": "2026-04-24T09:21:07+00:00"
-    },
-    {
-      "title": "Gaza Set to Hold First Local Election in Two Decades - The New York Times",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0lkNk5ybmE1dmJsVzlsSnlrUHplWXV5QklDQlVPYlF0cXZZajZyRmE1WXNFLTQ3Z0hvTzNuRnI0MDZ3TVFUaEplVUU5blZJVUczaXhyMGlhdXNrRkNMMU41ZEZQa21kY0QtMlJuakllUFl3S3p1MmxqcUtZXzRqT3dqRXB4V3BPaFg1TFBR?oc=5",
-      "published_date": "2026-04-24T09:12:53+00:00"
-    },
-    {
-      "title": "French presidential election to be decisive for future of all of Europe, says Klimkin",
-      "source": "Ukrinform",
-      "country": "France",
-      "url": "https://www.ukrinform.net/rubric-polytics/4116103-french-presidential-election-to-be-decisive-for-future-of-all-of-europe-says-klimkin.html",
-      "published_date": "2026-04-24T08:53:00+00:00"
-    },
-    {
-      "title": "Likud no longer the largest party in Knesset in latest election poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894051",
-      "published_date": "2026-04-24T07:39:41+00:00"
-    },
-    {
-      "title": "NMA: Lagos faction condemns Abuja meeting amid national leadership crisis",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/health/health-news/874341-nma-lagos-faction-condemns-abuja-meeting-amid-national-leadership-crisis.html",
-      "published_date": "2026-04-24T07:36:14+00:00"
-    },
-    {
-      "title": "36 serving military officers to be arraigned for coup plot against President Tinubu",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/874334-36-serving-military-officers-to-be-arraigned-for-coup-plot-against-president-tinubu.html",
-      "published_date": "2026-04-24T07:10:55+00:00"
-    },
-    {
-      "title": "Javier Milei said that he will accompany Manuel Adorni in Congress and confirmed that he will seek re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-dio-detalles-de-su-reunion-con-el-magnate-tecnologico-peter-thiel-fue-una-reunion-nid23042026/",
-      "published_date": "2026-04-24T06:44:26+00:00"
-    },
-    {
-      "title": "West Bengal election 2026 highlights: Amit Shah targets Mamata, says women can step out at 1 am under BJP",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-live-wb-assembly-election-result-mamata-banerjee-aitc-bjp-inc-voting-percentage-phase-2-date-101776999861497.html",
-      "published_date": "2026-04-24T04:00:45+00:00"
-    },
-    {
-      "title": "Steinmeier successor: Söder supports CSU politician Aigner as possible Federal President",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/markus-soeder-unterstuetzt-csu-politikerin-aigner-als-moegliche-bundespraesidentin-accg-200763390.html",
-      "published_date": "2026-04-24T02:09:44+00:00"
-    },
-    {
-      "title": "Fubara rallies monarchs for Tinubu’s re-election, cites reform continuity",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/fubara-rallies-monarchs-for-tinubus-re-election-cites-reform-continuity/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-24T00:33:28+00:00"
-    },
-    {
-      "title": "Appointment of Boric's former minister in San Antonio Hospital sparks rebellion and opens a flank for the Minsal",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/designacion-de-exministra-de-boric-en-hospital-de-san-antonio-desata-rebelion-y-abre-flanco-para-el-minsal/",
-      "published_date": "2026-04-24T00:16:25+00:00"
     }
   ]
 }
