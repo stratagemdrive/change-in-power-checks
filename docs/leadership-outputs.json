@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-08T23:55:12.610118+00:00",
-    "story_count": 430,
+    "last_updated": "2026-05-09T11:54:52.141119+00:00",
+    "story_count": 420,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
+      "title": "Starmer gives Brown and Harman new roles as pressure grows over election mauling – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
+      "published_date": "2026-05-09T11:40:02+00:00"
+    },
+    {
+      "title": "Suvendu Adhikari takes oath as first BJP CM of West Bengal; five others sworn in as Ministers",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-becomes-west-bengals-first-bjp-chief-minister/article70958299.ece",
+      "published_date": "2026-05-09T11:28:05+00:00"
+    },
+    {
+      "title": "UK local elections: \"Starmer must address voters' frustration over change\"",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change",
+      "published_date": "2026-05-09T11:19:20+00:00"
+    },
+    {
+      "title": "Maharashtra CM Devendra Fadnavis calls Suvendu Adhikari’s swearing-in a ‘victory for India’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-cm-devendra-fadnavis-calls-suvendu-adhikari-s-swearing-in-a-victory-for-india-101778322737190.html",
+      "published_date": "2026-05-09T10:43:06+00:00"
+    },
+    {
+      "title": "British leader Keir Starmer under pressure after heavy election losses",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses",
+      "published_date": "2026-05-09T10:15:16+00:00"
+    },
+    {
+      "title": "After election defeat: Starmer wants to swing “neither to the right nor to the left”.",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nach-wahlniederlage-in-grossbritannien-starmer-will-kurs-beibehalten-accg-200815784.html",
+      "published_date": "2026-05-09T09:48:29+00:00"
+    },
+    {
+      "title": "In the UK, Keir Starmer promises to 'listen to voters' after Labor defeat in local elections",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/05/09/au-royaume-uni-keir-starmer-promet-d-ecouter-les-electeurs-au-lendemain-de-la-defaite-des-travaillistes-aux-elections-locales_6687418_3210.html",
+      "published_date": "2026-05-09T09:26:36+00:00"
+    },
+    {
+      "title": "“Either it’s us or it’s them”: LFI mayor Bally Bagayoko speaks of a “popular insurrection” in the event of the RN’s victory in the presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/soit-c-est-nous-soit-c-est-eux-le-maire-lfi-bally-bagayoko-evoque-une-insurrection-populaire-en-cas-de-victoire-du-rn-a-la-presidentielle-20260509",
+      "published_date": "2026-05-09T09:17:50+00:00"
+    },
+    {
+      "title": "United Kingdom: “end of two-partyism” after Labor’s failure in local elections",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260509-royaume-uni-fin-du-bipartisme-apr%C3%A8s-l-%C3%A9chec-des-travaillistes-aux-%C3%A9lections-locales",
+      "published_date": "2026-05-09T08:52:37+00:00"
+    },
+    {
+      "title": "Iran’s injured supreme leader out of public view but still shaping strategy, US intel assesses",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-injured-supreme-leader-out-of-public-view-but-still-shaping-strategy-us-intel-assesses/",
+      "published_date": "2026-05-09T08:49:04+00:00"
+    },
+    {
+      "title": "West Bengal oath-taking updates: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+      "published_date": "2026-05-09T08:36:55+00:00"
+    },
+    {
+      "title": "Live blog Iran war: Qatar's head of government calls for revival of negotiations",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-qatars-regierungschef-fordert-wiederbelebung-von-verhandlungen-faz-200583539.html",
+      "published_date": "2026-05-09T03:19:00+00:00"
+    },
+    {
+      "title": "West Bengal CM oath ceremony LIVE: Suvendu takes oath as first BJP CM of Bengal, 5 MLAs sworn in as ministers",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-cm-oath-taking-ceremony-live-bjp-suvendu-adhikari-swearing-in-pm-modi-brigade-parade-ground-kolkata-101778287127035.html",
+      "published_date": "2026-05-09T01:32:07+00:00"
+    },
+    {
+      "title": "After Frederiksen Falls Short in Denmark, Right-Leaning Politician Is Asked to Form Government - The New York Times",
+      "source": "Google News World",
+      "country": "Denmark",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVZTZkxhVFFOZlItX2xHSmR6blo0Sldjb2NHWGJxT2tDTjhBNW9IYUJLV2tsNk83MlI0U3F1OU1JaFNIUmp3cm1RLWVXbnRXY3l1d2NadHdYb1ZDTnU4aFd4cEM2eEt6MGszVkhndXFZYlEwU1Ryc0JIZWtQdnFfMHF1Yzlob1FIVXk4NnpYZXpsOHhnSTlQVDd3?oc=5",
+      "published_date": "2026-05-08T23:15:44+00:00"
+    },
+    {
       "title": "“Get over it, forgive us and leave”: Chavismo seeks reconciliation with Venezuelans in exile, but its call for forgiveness reignites debate about impunity",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/superalo-perdonanos-y-vente-el-chavismo-busca-reconciliacion-con-venezolanos-en-el-exilio-pero-su-llamado-al-perdon-reaviva-debate-sobre-impunidad/",
       "published_date": "2026-05-08T23:11:17+00:00"
+    },
+    {
+      "title": "Starmer vows to fight on as PM despite heavy local election losses for Labour - The Guardian",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUd4MkdlQmhnd3FqUThueVpSN0w5UXUtSFEzdkVyZGJTZzg5VnNKWnVSVHRNN1dCekZKZXFtY0tBVFl5XzBLUWVXTS1ycXVPb01SekN6Q0dNNFUza21TcS1kNW05NVI1Qm9RbEJ2LS1XaW50UGRvVzZGUlZrdFV5TnktVzBHRzNWT1NmclJBbW5oclZ6?oc=5",
+      "published_date": "2026-05-08T23:11:00+00:00"
     },
     {
       "title": "Bolsonaro's defense asks Fachin, president of the STF, to annul the coup plot case",
@@ -109,18 +214,18 @@
       "published_date": "2026-05-08T21:29:57+00:00"
     },
     {
+      "title": "How real is a coup threat against Russia's president? - DW.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3FDM3VDSmdxbnd3Z0lOMGZQWXJJVGZuUVJLWVNhMXlhc3ltRVREYlhwbDJjSEpZcm90U3Q4VVNjYTZTOEdTTkdEb25GaGtMLXltUDFHYU9CZTJsa2ZTYjNlN2dRTFpzYW9Sa3QtRGRRZExxZ3lYSFRuWXhXclpxUGlzVEE5cEJtQmgzYtIBjAFBVV95cUxNM1V2YmlCMGMtaXBSUFY5TklzMkFXektQdFJQOFFtVENLYU52cGtRNEJyVmdzU3pOYlVPNkxzeTRCZ2pjdzFlb29TeEpiaGpyTzYzQzJtM0Nab3pKRVZHZ2hDLS02MVpBdUh2TlZjNUsyMmdWdk02dTl3SmFTaUpodWdkblNOdTkzOTgycQ?oc=5",
+      "published_date": "2026-05-08T20:57:04+00:00"
+    },
+    {
       "title": "Local elections in the United Kingdom: historic breakthrough of the radical right, collapse of Labor and end of two-partyism",
       "source": "Le Monde France",
       "country": "United Kingdom",
       "url": "https://www.lemonde.fr/international/article/2026/05/08/elections-locales-au-royaume-uni-percee-historique-de-la-droite-radicale-effondrement-des-travaillistes-et-fin-du-bipartisme_6687097_3210.html",
       "published_date": "2026-05-08T17:16:23+00:00"
-    },
-    {
-      "title": "How real is a coup threat against Russia's president? - DW.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3FDM3VDSmdxbnd3Z0lOMGZQWXJJVGZuUVJLWVNhMXlhc3ltRVREYlhwbDJjSEpZcm90U3Q4VVNjYTZTOEdTTkdEb25GaGtMLXltUDFHYU9CZTJsa2ZTYjNlN2dRTFpzYW9Sa3QtRGRRZExxZ3lYSFRuWXhXclpxUGlzVEE5cEJtQmgzYtIBjAFBVV95cUxNM1V2YmlCMGMtaXBSUFY5TklzMkFXektQdFJQOFFtVENLYU52cGtRNEJyVmdzU3pOYlVPNkxzeTRCZ2pjdzFlb29TeEpiaGpyTzYzQzJtM0Nab3pKRVZHZ2hDLS02MVpBdUh2TlZjNUsyMmdWdk02dTl3SmFTaUpodWdkblNOdTkzOTgycQ?oc=5",
-      "published_date": "2026-05-08T16:26:18+00:00"
     },
     {
       "title": "How real is a coup threat against Russia's president?",
@@ -2893,181 +2998,6 @@
       "country": "Palestine",
       "url": "https://www.france24.com/en/elections-in-west-bank-provide-credibility-to-palestinian-sovereignty-expert-says",
       "published_date": "2026-04-25T12:47:29+00:00"
-    },
-    {
-      "title": "Palestinian local elections give some Gazans first chance to vote in years",
-      "source": "Japan Times",
-      "country": "Palestine",
-      "url": "https://www.japantimes.co.jp/news/2026/04/25/world/politics/palestinian-elections/",
-      "published_date": "2026-04-25T11:45:00+00:00"
-    },
-    {
-      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion",
-      "published_date": "2026-04-25T11:38:05+00:00"
-    },
-    {
-      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
-      "published_date": "2026-04-25T11:15:04+00:00"
-    },
-    {
-      "title": "After US-Israeli strikes, it’s time for regime change in Iran - opinion",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/opinion/article-893987",
-      "published_date": "2026-04-25T11:00:30+00:00"
-    },
-    {
-      "title": "Day after MPs’ defection, Bhagwant Mann inducts Pala Jalalpuria, ‘Salman Khan of kabaddi’, into AAP",
-      "source": "Indian Express",
-      "country": "Saudi Arabia",
-      "url": "https://indianexpress.com/article/cities/chandigarh/day-after-mps-defection-bhagwant-mann-inducts-pala-jalalpuria-salman-khan-of-kabaddi-into-aap-10655563/",
-      "published_date": "2026-04-25T10:57:37+00:00"
-    },
-    {
-      "title": "Municipal elections in Gaza and the occupied West Bank: a tense vote",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-elections-municipales-%C3%A0-gaza-et-en-cisjordanie-occup%C3%A9e-un-scrutin-sous-tension",
-      "published_date": "2026-04-25T10:56:38+00:00"
-    },
-    {
-      "title": "AAP to write to Rajya Sabha chairman for defected MPs’ disqualification",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/aap-to-write-to-rajya-sabha-chairman-for-defected-mps-disqualification/article70904911.ece",
-      "published_date": "2026-04-25T10:05:24+00:00"
-    },
-    {
-      "title": "Endless Peruvian elections",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/opinion/noticia/interminables-elecciones-peruanas/",
-      "published_date": "2026-04-25T10:00:01+00:00"
-    },
-    {
-      "title": "Richard Lapper: “This seems to be one of Lula's most complex and uncertain elections”",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/richard-lapper-esta-parece-ser-una-de-las-elecciones-mas-complejas-e-inciertas-de-lula/",
-      "published_date": "2026-04-25T10:00:00+00:00"
-    },
-    {
-      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
-      "published_date": "2026-04-25T09:55:08+00:00"
-    },
-    {
-      "title": "Peru police raid ex-election chief’s home amid widening probe",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe",
-      "published_date": "2026-04-25T09:33:55+00:00"
-    },
-    {
-      "title": "Rare Pablo Neruda book on Spanish Civil War to go on display in Chile for first time",
-      "source": "Euronews",
-      "country": "Chile",
-      "url": "http://www.euronews.com/video/2026/04/25/rare-pablo-neruda-book-on-spanish-civil-war-to-go-on-display-in-chile-for-first-time",
-      "published_date": "2026-04-25T09:30:11+00:00"
-    },
-    {
-      "title": "West Bank and part of Gaza vote in first municipal elections since war",
-      "source": "Euronews",
-      "country": "Palestine",
-      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
-      "published_date": "2026-04-25T09:28:09+00:00"
-    },
-    {
-      "title": "Bhagwant Mann to knock on President Murmu’s doors, seek recall of 7 AAP MPs who defected to BJP",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-to-knock-on-president-murmus-doors-seek-recall-of-7-aap-mps-who-defected-to-bjp-10655412/",
-      "published_date": "2026-04-25T09:24:56+00:00"
-    },
-    {
-      "title": "Palestinians vote in first elections since Israel's invasion of Gaza",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/1994964/palestinians-vote-in-first-elections-since-israels-invasion-of-gaza",
-      "published_date": "2026-04-25T08:38:32+00:00"
-    },
-    {
-      "title": "Polls open in Gaza area in first municipal election in 20 years",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
-      "published_date": "2026-04-25T08:37:39+00:00"
-    },
-    {
-      "title": "Elections 2026 highlights: Modi's cabinet, 19 CMs campaigning in Bengal, Mamata says 'BJP still won’t win'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-elections-tamil-nadu-assembly-election-2026-live-updates-voting-percentage-phase-2-poll-eci-result-date-101777101980406.html",
-      "published_date": "2026-04-25T08:07:42+00:00"
-    },
-    {
-      "title": "West Bank scepticism as Palestinians doubt local elections will change much",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
-      "published_date": "2026-04-25T07:16:54+00:00"
-    },
-    {
-      "title": "In the West Bank, municipal elections caught between the Palestinian Authority and the Israeli occupation",
-      "source": "Le Monde France",
-      "country": "Palestine",
-      "url": "https://www.lemonde.fr/international/article/2026/04/25/en-cisjordanie-des-elections-municipales-prises-en-etau-entre-l-autorite-palestinienne-et-l-occupation-israelienne_6683229_3210.html",
-      "published_date": "2026-04-25T07:16:45+00:00"
-    },
-    {
-      "title": "Elections without sovereignty: What Palestine’s local vote represents",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss",
-      "published_date": "2026-04-25T05:50:25+00:00"
-    },
-    {
-      "title": "The occupied West Bank and part of the Gaza Strip vote for municipal elections",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/moyen-orient/20260425-des-palestiniens-appel%C3%A9s-%C3%A0-voter-aux-municipales-pour-le-premier-scrutin-depuis-la-guerre-%C3%A0-gaza",
-      "published_date": "2026-04-25T05:43:03+00:00"
-    },
-    {
-      "title": "Shocking... but not surprising: What led to AAP exit of Raghav Chadha, 6 other MPs | Tale of a rebellion foretold",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/shocking-but-not-surprising-the-tale-of-a-rebellion-foretold-101777084006772.html",
-      "published_date": "2026-04-25T02:26:46+00:00"
-    },
-    {
-      "title": "Palestinians vote in local elections as polls open for first time since Gaza war",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/middle-east/20260425-palestinians-vote-in-local-elections-as-polls-open-for-the-first-time-since-gaza-war",
-      "published_date": "2026-04-25T01:25:14+00:00"
-    },
-    {
-      "title": "Tinubu inaugurates new housing minister",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubu-inaugurates-new-housing-minister/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-25T00:01:56+00:00"
-    },
-    {
-      "title": "How Adelabu resigned against Tinubu’s wish",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/how-adelabu-resigned-against-tinubus-wish/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-25T00:00:37+00:00"
     }
   ]
 }
