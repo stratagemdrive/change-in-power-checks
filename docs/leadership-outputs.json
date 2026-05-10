@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-09T23:44:40.385942+00:00",
+    "last_updated": "2026-05-10T11:55:57.294544+00:00",
     "story_count": 409,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
+      "published_date": "2026-05-10T11:18:30+00:00"
+    },
+    {
+      "title": "United Kingdom: political crisis and calls for the resignation of Keir Starmer",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-royaume-uni-crise-politique-et-appels-%C3%A0-la-d%C3%A9mission-de-keir-starmer",
+      "published_date": "2026-05-10T10:47:33+00:00"
+    },
+    {
+      "title": "Inauguration of Dhyan Mandir at Art of Living: PM Modi stresses on mental wellbeing",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/inauguration-of-dhyan-mandir-at-art-of-living-pm-modi-stresses-on-mental-wellbeing/article70962019.ece",
+      "published_date": "2026-05-10T10:30:09+00:00"
+    },
+    {
+      "title": "New government speaks less about supporting Ukraine, but support continues, says Czech ambassador",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121682-new-government-speaks-less-about-supporting-ukraine-but-support-continues-says-czech-ambassador.html",
+      "published_date": "2026-05-10T10:28:00+00:00"
+    },
+    {
+      "title": "Starmer vows to stay on after local elections deliver losses for Labour",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour",
+      "published_date": "2026-05-10T09:02:04+00:00"
+    },
+    {
+      "title": "A ‘just and noble revolt’: The British rebel who backed the 1857 rebellion",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/opinion/columns/ernest-charles-jones-chartist-dissent-1857-indian-revolt-history-10682329/",
+      "published_date": "2026-05-10T09:00:32+00:00"
+    },
+    {
+      "title": "Syria sees first government reshuffle since al-Assad’s ouster",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
+      "published_date": "2026-05-10T08:55:12+00:00"
+    },
+    {
+      "title": "Expert Explains: On May 10, 1857, how Mangal Pandey inspired a rebellion that rattled the British",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/explained/explained-history/revolt-of-1857-mangal-pandey-british-rule-india-expert-explains-10682228/",
+      "published_date": "2026-05-10T07:59:27+00:00"
+    },
+    {
+      "title": "“A real criminal”: Atef Najib, this cousin of Bashar al-Assad tried in Syria for his abuses during the civil war",
+      "source": "Le Figaro France",
+      "country": "Syria",
+      "url": "https://www.lefigaro.fr/international/un-vrai-criminel-atef-najib-ce-cousin-de-bachar-el-assad-juge-en-syrie-pour-ses-exactions-durant-la-guerre-civile-20260510",
+      "published_date": "2026-05-10T07:00:00+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Jean-Luc Mélenchon calls on left-wing parties to avoid “anti-LFI suicide”",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/05/10/presidentielle-2027-jean-luc-melenchon-appelle-les-partis-de-gauche-a-eviter-le-suicide-anti-lfi_6687689_6205049.html",
+      "published_date": "2026-05-10T06:59:17+00:00"
+    },
+    {
+      "title": "Brazilian Supreme Court stops law that could reduce sentences for Bolsonaro and those accused of attempted coup",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/tribunal-supremo-de-brasil-frena-ley-que-podia-rebajar-condenas-a-bolsonaro-y-acusados-por-intento-de-golpe/",
+      "published_date": "2026-05-10T02:12:16+00:00"
+    },
+    {
+      "title": "Suvendu Adhikari sworn in as Bengal’s first BJP CM",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/suvendu-adhikari-sworn-in-as-bengal-s-first-bjp-cm-101778374723679.html",
+      "published_date": "2026-05-10T01:05:42+00:00"
+    },
     {
       "title": "The Buenos Aires UCR agreed on a unity list and a grandson of Balbín will take over as president to close the internal elections",
       "source": "La Nacion Argentina",
@@ -2837,90 +2921,6 @@
       "country": "France",
       "url": "https://www.lefigaro.fr/conjoncture/rapprochement-entre-salaire-brut-et-net-simplification-jordan-bardella-detaille-le-programme-economique-du-rn-pour-la-presidentielle-2027-20260426",
       "published_date": "2026-04-26T12:06:20+00:00"
-    },
-    {
-      "title": "Fatah says it claimed ‘sweeping victory’ in local elections, despite democratic shortcomings",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-894145",
-      "published_date": "2026-04-26T11:00:28+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 LIVE: Trinamool's defeat is imminent, says PM Modi in West Bengal rally",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
-      "published_date": "2026-04-26T10:58:28+00:00"
-    },
-    {
-      "title": "‘He told me to consider resigning’: RS member Vikramjit Sahney on meeting with Kejriwal before 7 AAP MPs' big move",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/frustration-was-growing-rs-member-vikramjit-sahney-on-what-he-told-kejriwal-at-meet-before-7-aap-mps-big-move-101777194933935.html",
-      "published_date": "2026-04-26T10:06:48+00:00"
-    },
-    {
-      "title": "Bayly's trial of the elections in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/el-juicio-de-bayly-a-las-elecciones-en-peru/",
-      "published_date": "2026-04-26T10:00:00+00:00"
-    },
-    {
-      "title": "K Annamalai’s rise in BJP: Ex-IPS officer turned Tamil Nadu party chief after 2021 election debut",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/k-annamalai-s-rise-in-bjp-ex-ips-officer-turned-tamil-nadu-party-chief-after-election-debut-elections-2026-assembly-101776421938965.html",
-      "published_date": "2026-04-26T09:34:26+00:00"
-    },
-    {
-      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
-      "published_date": "2026-04-26T06:08:16+00:00"
-    },
-    {
-      "title": "14 people are reported killed in bomb attacks before elections in Colombia",
-      "source": "Politiken Denmark",
-      "country": "Colombia",
-      "url": "https://politiken.dk/internationalt/art10818118/14-personer-meldes-dr%C3%A6bt-i-bombeangreb-f%C3%B8r-valg-i-Colombia",
-      "published_date": "2026-04-26T05:39:56+00:00"
-    },
-    {
-      "title": "Before presidential election: At least 14 dead in bomb attack in Colombia",
-      "source": "FAZ Germany",
-      "country": "Colombia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kolumbien-mindestens-14-tote-bei-bombenanschlag-accg-200768973.html",
-      "published_date": "2026-04-26T02:29:25+00:00"
-    },
-    {
-      "title": "Bomb attack on Colombia highway kills 14 ahead of election",
-      "source": "Japan Times",
-      "country": "Colombia",
-      "url": "https://www.japantimes.co.jp/news/2026/04/26/world/bomb-colombia-election/",
-      "published_date": "2026-04-26T01:35:00+00:00"
-    },
-    {
-      "title": "Russian Duma chief visits Pyongyang ahead of Kursk memorial inauguration",
-      "source": "NK News",
-      "country": "Russia",
-      "url": "https://www.nknews.org/2026/04/russian-duma-chief-visits-pyongyang-ahead-of-kursk-memorial-inauguration/",
-      "published_date": "2026-04-26T01:22:42+00:00"
-    },
-    {
-      "title": "Amit Shah says BJP will win 110 seats in first phase, form government in West Bengal",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/amit-shah-says-bjp-will-win-110-seats-in-first-phase-form-government-in-west-bengal-101777166018647.html",
-      "published_date": "2026-04-26T01:18:27+00:00"
-    },
-    {
-      "title": "More than half a million Palestinians vote in municipal elections: the first elections in 20 years in the Gaza Strip",
-      "source": "La Tercera Chile",
-      "country": "Palestine",
-      "url": "https://www.latercera.com/mundo/noticia/mas-de-medio-millon-de-palestinos-vota-en-elecciones-municipales-los-primeros-comicios-en-20-anos-en-la-franja-de-gaza/",
-      "published_date": "2026-04-26T00:42:54+00:00"
     }
   ]
 }
