@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-10T11:55:57.294544+00:00",
-    "story_count": 409,
+    "last_updated": "2026-05-10T23:48:08.477709+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "They captured alias La Tía accused of the murder of a Venezuelan teenager in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/capturaron-a-alias-la-tia-senalada-del-homicidio-de-un-adolescente-venezolano-en-colombia/",
+      "published_date": "2026-05-10T20:34:00+00:00"
+    },
+    {
+      "title": "The Labor rebellion against Starmer grows and names are already emerging to replace him",
+      "source": "La Nacion Argentina",
+      "country": "United Kingdom",
+      "url": "https://www.lanacion.com.ar/el-mundo/crece-la-rebelion-laborista-contra-starmer-y-ya-surgen-nombres-para-reemplazarlo-nid10052026/",
+      "published_date": "2026-05-10T19:29:53+00:00"
+    },
+    {
+      "title": "In Reims, Edouard Philippe projects Horizons towards the presidential election and poses as a candidate unifying a “free France”",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/10/a-reims-edouard-philippe-projette-horizons-vers-la-presidentielle-et-se-pose-en-candidat-rassembleur-d-une-france-libre_6687730_823448.html",
+      "published_date": "2026-05-10T18:21:36+00:00"
+    },
+    {
+      "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks - Reuters",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmdGeXh4WTJrbWZIdWJpYWRIQXE4Si1JSk9vNU5CRWdBb1NNVHhrQk82WlJ1ZGZYcTBnMUhoYTJIUi10SUtmTUxLVTQ2TTRsVUN6NWMzNldDejFKZTNMY09kR3BIX1ZQZG1ER0ZwNlZOcGNtN19RRndhVHhPTndOY2dKNk5PZnZwbnUwYWZaMlRwNjIxS3RaSzRtaDB5U0Z1azZoSlRpWE5CSktsa3hQdA?oc=5",
+      "published_date": "2026-05-10T18:16:09+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Latvian Defense Minister resigns",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lettischer-verteidigungsminister-tritt-zurueck-faz-110683325.html",
+      "published_date": "2026-05-10T17:22:07+00:00"
+    },
+    {
+      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
+      "source": "Deutsche Welle English",
+      "country": "Syria",
+      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-10T17:04:00+00:00"
+    },
+    {
+      "title": "Britain’s Starmer fights for his job as calls for his ouster grow after local election losses - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVU16TjVhYlBXNWdJMllHWmNkaVBaZ1JXOFpBSUpnaEVCRUpnU3R2X2xjdnN0QjVVcTNrT2UtZWtWZjVNRWgyNlhkQjJfY1l3TG9HY2ZER1czTU1kaXZVU0pJeGZKdGg0SmlHUHlVZHE1OEdpZ2phTmtqY3l1a0NlTkEzVm9KTHdRZ3ViMXZGUjB0dEplLVhXY0EyZ1hzNjg?oc=5",
+      "published_date": "2026-05-10T16:38:00+00:00"
+    },
+    {
+      "title": "Revive Covid-time WFH methods, avoid foreign travel for a year: PM Modi’s appeal to people amid West Asia crisis",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/pm-modi-hyderabad-speech-west-asia-crisis-petrol-diesel-gold-reduction-10682817/",
+      "published_date": "2026-05-10T15:48:50+00:00"
+    },
+    {
+      "title": "PM Modi calls on Indians to use petrol, diesel with ‘great restraint’ amid West Asia crisis",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/pm-modi-petrol-diesel-iran-war-west-asia-crisis-restraint-10682740/",
+      "published_date": "2026-05-10T13:48:11+00:00"
+    },
+    {
+      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
+      "source": "NPR World",
+      "country": "United Kingdom",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
+      "published_date": "2026-05-10T12:27:36+00:00"
+    },
+    {
+      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
+      "published_date": "2026-05-10T12:00:25+00:00"
+    },
     {
       "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
       "source": "The Guardian World",
@@ -72,6 +149,13 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-royaume-uni-crise-politique-et-appels-%C3%A0-la-d%C3%A9mission-de-keir-starmer",
       "published_date": "2026-05-10T10:47:33+00:00"
+    },
+    {
+      "title": "Iran's Supreme Leader briefs military chief on 'new guiding measures', Fars agency says - Reuters",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWlHeDZWa2hYMWN4b29IUEx4dXlqbEZHc0tCZ2JmcWVKMl9nVTU4N0JKVXg2MklOZ0ZIYndIMkNIU2gzSGpPbVJMRHFqdVE0cG9IX0tlclpnNnFhX2RFa0FxR1o3QWJYX1o4SjdKNFdNT0hmMWJ5Q1JiMnhoUlBTUnh1bC1JcDVmSUhOVU5mOU9FRHhRUW42SVVuc0NoX1RlczYtT2FOU3BIaWRZYU4zcUdtSVRmZ2JDN1lIb1JjM3kxdHlYQnMyazA0ODFKZEE?oc=5",
+      "published_date": "2026-05-10T10:33:59+00:00"
     },
     {
       "title": "Inauguration of Dhyan Mandir at Art of Living: PM Modi stresses on mental wellbeing",
@@ -2746,181 +2830,6 @@
       "country": "Ukraine",
       "url": "https://www.nknews.org/2026/04/kim-inaugurates-memorial-for-north-korean-soldiers-who-fought-in-ukraine-war/",
       "published_date": "2026-04-27T00:06:44+00:00"
-    },
-    {
-      "title": "Cuban federal fugitive captured in Hialeah after two escape attempts faces new criminal charge",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-27-u1-e199854-s27061-nid327290-fugitivo-federal-cubano-capturado-hialeah-tras-dos",
-      "published_date": "2026-04-26T23:05:34+00:00"
-    },
-    {
-      "title": "Two of Netanyahu's rivals are teaming up ahead of the Israeli general election",
-      "source": "DR News Denmark",
-      "country": "Israel",
-      "url": "https://www.dr.dk/nyheder/seneste/af-netanyahus-rivaler-gaar-sammen-forud-det-israelske-parlamentsvalg",
-      "published_date": "2026-04-26T22:44:00+00:00"
-    },
-    {
-      "title": "In Mali, the junta more weakened than ever while the attackers negotiate with Russian forces",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html",
-      "published_date": "2026-04-26T22:06:48+00:00"
-    },
-    {
-      "title": "Syria begins first trial for ousted Assad, allies",
-      "source": "France 24 English",
-      "country": "Syria",
-      "url": "https://www.france24.com/en/middle-east/20260426-syria-first-trial-bashar-al-assad-allies-ouster",
-      "published_date": "2026-04-26T21:52:07+00:00"
-    },
-    {
-      "title": "Syria begins first trial for ousted Assad, allies - France 24",
-      "source": "Google News World",
-      "country": "Syria",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWE0VEIwN1B3akdDaG5QQy02QmU1QnlFS0RHR1NXQzhabXRMcTNRNFU1Nlkyd0VyV05KTHd3TFFSU25kaGV4QTRWSjVoa1EyYnlobFUwUUNoV0ctbGlIQ29kMTFHdy1CS1Rwd2dBUDFsQmZkNnZSc2hSUHVhX0swZXZhUEpIV1BWaHYxb2ZJcDZOSlVDamZVQlJwVVE?oc=5",
-      "published_date": "2026-04-26T21:52:07+00:00"
-    },
-    {
-      "title": "Russia’s Africa Corps describes Mali attacks as coup attempt, blames West",
-      "source": "Premium Times Nigeria",
-      "country": "Russia",
-      "url": "https://www.premiumtimesng.com/news/headlines/875061-russias-africa-corps-describes-mali-attacks-as-coup-attempt-blames-west.html",
-      "published_date": "2026-04-26T21:04:59+00:00"
-    },
-    {
-      "title": "Technical tie in Peru: Fujimori would tie with Sánchez in the runoff and tension grows over the recount",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/empate-tecnico-en-peru-fujimori-igualaria-con-sanchez-en-el-balotaje-y-crece-la-tension-por-el-nid26042026/",
-      "published_date": "2026-04-26T21:01:31+00:00"
-    },
-    {
-      "title": "Palestinian authorities call local elections in a Gaza community and the West Bank a success - AP News",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1cybjlfM1EtcU5ZUjIzSjVMaExOTzdPNWF3cS1VdnZNeGo2T2RrREtJVW9MUXRaY3RDQmQtQ3dBc1I4UjdEVmJzaGloOUFra3FUNXA1ZTRrc0lLMmphMTVoYTZ5U2x3SkFFaUlvU0V6UzEzX0RxY2UyTDFMLWNqbjdIVUtDQ3J3c0xLV1FzZTRpMS1rVUpkbHpTR215YS1EOE1OeUJHeXVwdw?oc=5",
-      "published_date": "2026-04-26T20:21:00+00:00"
-    },
-    {
-      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-04-26T20:15:29+00:00"
-    },
-    {
-      "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
-      "published_date": "2026-04-26T20:05:50+00:00"
-    },
-    {
-      "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWdYWUtTUVoyMUFUN1E0d3dqS3hVTk9CNkI3bjA5UUtDU2JIdm9xQWd4dWZwS2RvMklZNWJqNXFfMVg2bkRPandGa0ZxaFF5aEdQdnliVmM5Tl9HY1A4b3AwMERiTEgtaUVocGMyOGYxUC0tZzRvaGxKa2RUT1lXZWZiOTI2VHk4bjRxN0JTTmQ?oc=5",
-      "published_date": "2026-04-26T19:34:02+00:00"
-    },
-    {
-      "title": "Fatah leading in West Bank municipal elections",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fatah-leading-west-bank-municipal-elections",
-      "published_date": "2026-04-26T19:28:39+00:00"
-    },
-    {
-      "title": "We’re backing only Tinubu’s re-election, not APC aspirants — APGA chieftain",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/were-backing-only-tinubus-re-election-not-apc-aspirants-apga-chieftain/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-26T19:26:09+00:00"
-    },
-    {
-      "title": "In the West Bank, Fatah came first in municipal elections in several cities",
-      "source": "Le Monde France",
-      "country": "Palestine",
-      "url": "https://www.lemonde.fr/international/article/2026/04/26/en-cisjordanie-le-fatah-est-arrive-en-tete-des-elections-municipales-dans-plusieurs-villes_6683487_3210.html",
-      "published_date": "2026-04-26T18:32:34+00:00"
-    },
-    {
-      "title": "Two former Israeli prime ministers join forces against Netanyahu in upcoming elections - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2MtTW5nQWFXN3ZwbkNmTElGVDF1VWllc1FSamE0THRaNVBGNTBzNFdfVXE2Nzl2MV91bXhBVzJFMWJTOEl4d1FxakZaNmVrZ2lGdEtLNVF6R2F0Zy1abnFGX0otVGktYkdlS1RFbHpsVDlpWmhsdmZLc2xxczFnZmxCMUU5OW1RNkFDa09NWlBzZ2ZLRHcxRklaYlFEdDhS?oc=5",
-      "published_date": "2026-04-26T18:25:00+00:00"
-    },
-    {
-      "title": "Netanyahu's biggest rivals join forces for Israel's next election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-biggest-rivals-join-forces-israels-next-election",
-      "published_date": "2026-04-26T17:33:31+00:00"
-    },
-    {
-      "title": "Palestinian territories: Abbas camp wins local elections",
-      "source": "FAZ Germany",
-      "country": "Palestine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/palaestinensergebiete-abbas-lager-gewinnt-kommunalwahl-200770729.html",
-      "published_date": "2026-04-26T17:32:48+00:00"
-    },
-    {
-      "title": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
-      "published_date": "2026-04-26T16:50:27+00:00"
-    },
-    {
-      "title": "West Bengal assembly election: Modi alleges women suffered most during TMC rule",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-assembly-election-modi-alleges-women-suffered-most-during-tmc-rule-101777220134205.html",
-      "published_date": "2026-04-26T16:15:33+00:00"
-    },
-    {
-      "title": "Former PMs Bennett, Lapid hold press conference, launch unified party for Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894194",
-      "published_date": "2026-04-26T16:10:06+00:00"
-    },
-    {
-      "title": "PT softens proposals in manifesto to try to attract support from the center for Lula’s re-election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/pt-suaviza-propostas-em-manifesto-para-tentar-atrair-apoio-do-centro-a-reeleicao-de-lula.shtml",
-      "published_date": "2026-04-26T15:44:00+00:00"
-    },
-    {
-      "title": "Palestinian leader's loyalists win local elections, including some seats in Gaza - Reuters",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFdQM1pkWHMxYnVVUmtTODJaaVR6bnNtRWdQZjBHNzhyX0h0Q2ItS1dTM3RydzdTdHhfU1VYZU9Vd2JQS3pxYlg0UmdsRl9RUTlqa0ExQTZ2OE1PR3l4TkFOY3ZJQzd3bUM4VWU3dzlSMWRQeDlvUjR3LU5SbllMcnRBalZIMXk3c19ZM2xDYVJ1SWIyZG5CVFpXOVVGX1BZT0JFTjk0bTRBbUdZVV96T2VLWEx3RVJzWmg1R2FPLTI?oc=5",
-      "published_date": "2026-04-26T13:57:02+00:00"
-    },
-    {
-      "title": "Former Israeli ambassador to the UK appointed as head of PMO National Public Diplomacy Directorate",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894172",
-      "published_date": "2026-04-26T13:49:29+00:00"
-    },
-    {
-      "title": "Gaza holds first elections in 20 years amid stalled ceasefire process – but only in one city",
-      "source": "Egypt Independent",
-      "country": "Palestine",
-      "url": "https://www.egyptindependent.com/gaza-holds-first-elections-in-20-years-amid-stalled-ceasefire-process-but-only-in-one-city/",
-      "published_date": "2026-04-26T12:56:02+00:00"
-    },
-    {
-      "title": "Reconciliation between gross and net salary, “simplification”… Jordan Bardella details the RN’s economic program for the 2027 presidential election",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/conjoncture/rapprochement-entre-salaire-brut-et-net-simplification-jordan-bardella-detaille-le-programme-economique-du-rn-pour-la-presidentielle-2027-20260426",
-      "published_date": "2026-04-26T12:06:20+00:00"
     }
   ]
 }
