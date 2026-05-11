@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-11T13:53:42.296352+00:00",
-    "story_count": 396,
+    "last_updated": "2026-05-11T23:58:21.697601+00:00",
+    "story_count": 400,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
+      "title": "Venezuela’s acting president pushes back on Trump’s 51st state remarks",
+      "source": "The Independent UK",
+      "country": "Venezuela",
+      "url": "https://www.independent.co.uk/news/world/americas/venezuela-51st-state-trump-delcy-rodriguez-b2974642.html",
+      "published_date": "2026-05-11T23:19:47+00:00"
+    },
+    {
+      "title": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260511-pressure-mounts-on-british-pm-starmer-to-quit-after-crushing-labour-election-losses",
+      "published_date": "2026-05-11T23:13:16+00:00"
+    },
+    {
+      "title": "Cabinet split as Home Secretary Shabana Mahmood among ministers calling for Starmer to set out timetable for resignation - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjTU96RXNfUklwY01ibHRwRG5oQ3ZaSkdrZ0pxdWY4M214N3VpTHFhdWliYjAzYWRtNU1yTTZZRzhPZFRzajVmcHVxRk5RaDBBZ2lYNQ?oc=5",
+      "published_date": "2026-05-11T22:46:58+00:00"
+    },
+    {
+      "title": "Senior cabinet ministers and more than 70 MPs call for Keir Starmer’s resignation as speech fails to quell rebellion – as it happened",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
+      "published_date": "2026-05-11T22:16:57+00:00"
+    },
+    {
+      "title": "Several MPs are calling for Starmer to step down",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10839172/Flere-parlamentsmedlemmer-opfordrer-Starmer-til-at-g%C3%A5-af",
+      "published_date": "2026-05-11T21:40:07+00:00"
+    },
+    {
+      "title": "Lapid says more party mergers to come soon ahead of elections, as Liberman calls for constitution",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-895832",
+      "published_date": "2026-05-11T21:12:59+00:00"
+    },
+    {
+      "title": "Venezuelan opposition will begin a national tour to demand transparent elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/oposicion-venezolana-iniciara-gira-nacional-para-exigir-elecciones-transparentes/",
+      "published_date": "2026-05-11T20:03:49+00:00"
+    },
+    {
+      "title": "Two government advisers resign and demand Keir Starmer's resignation",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/regeringsraadgivere-gaar-af-og-kraever-keir-starmers-afgang",
+      "published_date": "2026-05-11T17:52:00+00:00"
+    },
+    {
+      "title": "From the Editorial Team: Undersecretary of Justice defends the expansion of Santiago 1 and invites Desbordes to the inauguration",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/desde-la-redaccion-subsecretario-de-justicia-defiende-ampliacion-de-santiago-1-e-invita-a-desbordes-a-inauguracion/",
+      "published_date": "2026-05-11T16:21:12+00:00"
+    },
+    {
+      "title": "Starmer pledges to bring Britain closer to the EU as he faces calls to step down",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/video/20260511-starmer-pledges-to-bring-britain-closer-to-the-eu-as-he-faces-calls-to-step-down",
+      "published_date": "2026-05-11T15:24:48+00:00"
+    },
+    {
+      "title": "After British elections: Farage smiles across the abyss",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahlen-in-grossbritannien-ueber-den-graben-hinweg-laechelt-farage-200821410.html",
+      "published_date": "2026-05-11T15:10:40+00:00"
+    },
+    {
+      "title": "Denmark: The “Royal Round” says: This man should form a government",
+      "source": "FAZ Germany",
+      "country": "Denmark",
+      "url": "https://www.faz.net/aktuell/politik/ausland/regierungsbildung-in-daenemark-poulsen-wird-verhandlungsfuehrer-200819811.html",
+      "published_date": "2026-05-11T15:06:36+00:00"
+    },
+    {
+      "title": "RSF commander ‘El Safana’ announces defection ‘to the Sudanese people’",
+      "source": "Radio Dabanga Sudan",
+      "country": "Sudan",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-commander-el-safana-announces-defection-to-the-sudanese-people",
+      "published_date": "2026-05-11T15:01:00+00:00"
+    },
+    {
       "title": "Relatives of suspected coup plotters stage peaceful protest in Abuja",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/relatives-of-suspected-coup-plotters-stage-peaceful-protest-in-abuja/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-11T14:44:23+00:00"
+    },
+    {
+      "title": "Armenia’s election season kicks off with Armenian lessons and heated foreign relations accusations",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenias-election-season-kicks-off-with-armenian-lessons-and-heated-foreign-relations-accusations/",
+      "published_date": "2026-05-11T13:59:14+00:00"
+    },
+    {
+      "title": "Voloshyn explains how false Russian reports about captured territories affect further assaults",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4122067-voloshyn-explains-how-false-russian-reports-about-captured-territories-affect-further-assaults.html",
+      "published_date": "2026-05-11T13:59:00+00:00"
     },
     {
       "title": "Iran says seizes assets of ex-football captain turned exiled critic",
@@ -79,13 +184,6 @@
       "country": "China",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3353179/will-starmers-election-woes-force-shake-uks-ties-china?utm_source=rss_feed",
       "published_date": "2026-05-11T13:12:06+00:00"
-    },
-    {
-      "title": "Starmer’s speech fails to stop more Labour MPs calling for his resignation – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-      "published_date": "2026-05-11T13:09:34+00:00"
     },
     {
       "title": "Starmer pledges to bring Britain closer to the EU as he faces calls to step down - AP News",
@@ -151,6 +249,13 @@
       "published_date": "2026-05-11T10:41:09+00:00"
     },
     {
+      "title": "Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation – in Latvia - Defense News",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2lxNHZMMS15S0lOZjVPV0hObWF0T1dwWXJES0s1U1NFY2Q0dmlFN1RlaERCRlNyR1gtekY5MmI3bWFuMGxCVjIzZjRlMXRVWWxZOWVxM2xQdlJsMS14TENleWU1Q0VwMDB4YVBWOGE1a0YtU3FjaUE2NUVtV1Q3Y3B3amc3dzByUkRkRDlvWF9fbUFESGJFVGs0dGJVU0RLLUk5YmthSGI4NWdPZmlzakNFV29MSjJpeTRQbnRRT0lLSXZwTVBMUXZ6Si1EeW40WXhQWDRtUTAtN2M?oc=5",
+      "published_date": "2026-05-11T10:32:34+00:00"
+    },
+    {
       "title": "Keir Starmer rules out resigning despite local election results, vows to prove 'those who doubt him' in UK wrong",
       "source": "Le Monde France",
       "country": "United Kingdom",
@@ -184,6 +289,13 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260511-royaume-uni-keir-starmer-sous-pression-des-voix-travaillistes-r%C3%A9clament-sa-d%C3%A9mission",
       "published_date": "2026-05-11T09:27:58+00:00"
+    },
+    {
+      "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
+      "published_date": "2026-05-11T09:18:02+00:00"
     },
     {
       "title": "Ahead of US-China summit, Taiwan’s opposition leader says island can embrace both powers",
@@ -2746,90 +2858,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-municipal-election-results-2026-live-updates-counting-bjp-congress-aap-10659276/",
       "published_date": "2026-04-28T02:14:00+00:00"
-    },
-    {
-      "title": "El Jardinero, alleged new leader of the Jalisco New Generation Cartel, detained in Mexico",
-      "source": "El Nacional Venezuela",
-      "country": "Mexico",
-      "url": "https://www.elnacional.com/2026/04/detenido-en-mexico-el-jardinero-presunto-nuevo-lider-de-cartel-jalisco-nueva-generacion/",
-      "published_date": "2026-04-27T23:32:37+00:00"
-    },
-    {
-      "title": "Court martial over Nigeria coup plot to resume May 8",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/04/court-martial-over-nigeria-coup-plot-to-resume-may-8/",
-      "published_date": "2026-04-27T22:41:50+00:00"
-    },
-    {
-      "title": "French FM says Iran must make 'major concessions' to end crisis",
-      "source": "RFI English",
-      "country": "Iran",
-      "url": "https://www.rfi.fr/en/international/20260427-french-fm-says-iran-must-make-major-concessions-to-end-crisis",
-      "published_date": "2026-04-27T21:38:12+00:00"
-    },
-    {
-      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
-      "published_date": "2026-04-27T18:26:58+00:00"
-    },
-    {
-      "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
-      "published_date": "2026-04-27T17:23:09+00:00"
-    },
-    {
-      "title": "BJP set for huge victory in West Bengal elections: Nitin Nabin",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-set-for-huge-victory-in-west-bengal-elections-nitin-nabin/article70913026.ece",
-      "published_date": "2026-04-27T17:21:04+00:00"
-    },
-    {
-      "title": "Jnim-FLA alliance, weakened junta, departure of Russian mercenaries: what is happening in Mali?",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/afrique/20260427-mali-alliance-jnim-fla-junte-fragilisee-depart-mercenaires-russes-iafrica-corps-touareg-jihadistes",
-      "published_date": "2026-04-27T16:57:33+00:00"
-    },
-    {
-      "title": "Local elections in Palestine: Fatah does not win everywhere",
-      "source": "FAZ Germany",
-      "country": "Palestine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/fatah-gewinnt-bei-kommunalwahlen-in-palaestina-nicht-ueberall-200773785.html",
-      "published_date": "2026-04-27T16:45:43+00:00"
-    },
-    {
-      "title": "In Gaza, Mahmoud Abbas's allies win historic municipal elections",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/moyen-orient/20260427-gaza-lalli%C3%A9s-de-mahmoud-abbas-remportent-elections-municipales-historiques-fatah-hamas",
-      "published_date": "2026-04-27T16:03:42+00:00"
-    },
-    {
-      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades",
-      "published_date": "2026-04-27T14:56:38+00:00"
-    },
-    {
-      "title": "UK PM Starmer faces vote on possible parliamentary probe over Mandelson",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3351611/uk-pm-starmer-faces-vote-possible-parliamentary-probe-over-mandelson?utm_source=rss_feed",
-      "published_date": "2026-04-27T14:41:24+00:00"
-    },
-    {
-      "title": "British MPs vote on whether to probe PM Starmer over Mandelson hire",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260427-british-mps-vote-on-whether-to-probe-pm-starmer-over-mandelson-hire",
-      "published_date": "2026-04-27T14:17:33+00:00"
     }
   ]
 }
