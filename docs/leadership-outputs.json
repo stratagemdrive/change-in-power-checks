@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-11T23:58:21.697601+00:00",
-    "story_count": 400,
+    "last_updated": "2026-05-12T13:09:33.903286+00:00",
+    "story_count": 411,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Mossad chief opposes Netanyahu’s successor pick: Israeli press review",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/mossad-chief-opposes-netanyahus-successor-pick-israeli-press-review",
+      "published_date": "2026-05-12T12:51:09+00:00"
+    },
+    {
+      "title": "Another minister resigns in protest against Starmer",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/endnu-en-minister-traekker-sig-i-protest-mod-starmer",
+      "published_date": "2026-05-12T12:36:00+00:00"
+    },
+    {
+      "title": "Jess Phillips resigns as minister after Keir Starmer tells cabinet he is not stepping down – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
+      "published_date": "2026-05-12T12:24:36+00:00"
+    },
+    {
+      "title": "Starmer reiterates to his cabinet his decision to remain in office despite the resignation of three ministers",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/starmer-reitera-a-su-gabinete-su-decision-de-seguir-en-el-cargo-pese-a-renuncia-de-dos-ministros/",
+      "published_date": "2026-05-12T12:23:43+00:00"
+    },
+    {
+      "title": "WIC to Nigerians: Register now for 2027 elections or lose your voice",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/05/wic-to-nigerians-register-now-for-2027-elections-or-lose-your-voice/",
+      "published_date": "2026-05-12T11:47:05+00:00"
+    },
+    {
+      "title": "Azerbaijani opposition leader Karimli denied permission to attend father’s funeral",
+      "source": "OC Media Caucasus",
+      "country": "Azerbaijan",
+      "url": "https://oc-media.org/azerbaijani-opposition-leader-karimli-denied-permission-to-attend-fathers-funeral/",
+      "published_date": "2026-05-12T11:46:12+00:00"
+    },
+    {
+      "title": "Starmer faces endgame as Wes Streeting launches 'coup' to beat rivals to the top job",
+      "source": "Middle East Eye",
+      "country": "United Kingdom",
+      "url": "https://www.middleeasteye.net/news/starmer-faces-endgame-wes-streeting-launches-coup-beat-rivals-top-job",
+      "published_date": "2026-05-12T11:11:18+00:00"
+    },
+    {
+      "title": "What day are the presidential elections in Colombia 2026?",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
+      "published_date": "2026-05-12T11:04:17+00:00"
+    },
+    {
+      "title": "UK elections: “Reform UK becomes a serious contender for power in the next general election”",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/12/elections-au-royaume-uni-reform-uk-devient-un-pretendant-serieux-au-pouvoir-lors-des-prochaines-elections-legislatives_6688239_3232.html",
+      "published_date": "2026-05-12T11:00:15+00:00"
+    },
+    {
+      "title": "'There is a big rejection of Starmer' from Labour voters as PM faces calls to resign",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/there-is-a-big-rejection-of-starmer-from-labour-voters-as-pm-faces-calls-to-resign",
+      "published_date": "2026-05-12T10:54:58+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-12T10:50:23+00:00"
+    },
+    {
+      "title": "EU agrees to sanctions on Israeli settlers after Hungary’s new government lifts veto",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/eu-agrees-sanctions-israeli-settlers-after-hungarys-new-government-lifts-veto",
+      "published_date": "2026-05-12T10:13:31+00:00"
+    },
+    {
+      "title": "First Minister resigns in protest against Starmer",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-minister-traekker-sig-i-protest-mod-starmer",
+      "published_date": "2026-05-12T09:06:00+00:00"
+    },
+    {
+      "title": "An insider’s account: How Sri Sri Ravi Shankar helped end Colombia’s civil war",
+      "source": "Indian Express",
+      "country": "Colombia",
+      "url": "https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-colombia-civil-war-10685255/",
+      "published_date": "2026-05-12T08:24:34+00:00"
+    },
+    {
+      "title": "One arrested, probe underway, says Karnataka minister after gelatin sticks found on PM Modi's convoy route",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/one-arrested-probe-underway-says-karnataka-minister-after-gelatin-sticks-found-on-pm-modis-convoy-route-101778571163086.html",
+      "published_date": "2026-05-12T07:49:03+00:00"
+    },
+    {
+      "title": "Will Keir Starmer resign? UK PM faces mutiny after Labour loses 1,400 seats",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/keir-starmer-resign-uk-pm-mutiny-labour-loses-seats-10684943/",
+      "published_date": "2026-05-12T07:10:32+00:00"
+    },
+    {
+      "title": "British PM Starmer tells cabinet meeting he intends to remain leader despite calls to resign",
+      "source": "CBC News World",
+      "country": "United Kingdom",
+      "url": "https://www.cbc.ca/news/world/starmer-uk-resign-cabinet-9.7196157?cmp=rss",
+      "published_date": "2026-05-12T04:55:33+00:00"
+    },
+    {
+      "title": "Daily Briefing: PM Modi renews austerity call amid forex concern, calls it ‘biggest crisis of this decade’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/live-news/daily-briefing-pm-modi-renews-austerity-call-amid-forex-concern-10684784/",
+      "published_date": "2026-05-12T03:23:47+00:00"
+    },
+    {
+      "title": "PM Modi reiterates call for work from home, avoid buying gold 'in time of global crisis'",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-reiterates-call-for-wfh-work-from-home-avoid-buying-gold-in-time-of-global-crisis-amid-us-iran-war-101778549149909.html",
+      "published_date": "2026-05-12T01:34:55+00:00"
+    },
+    {
+      "title": "California mayor resigns, will plead guilty to acting as a China agent",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government?utm_source=rss_feed",
+      "published_date": "2026-05-11T23:59:37+00:00"
+    },
     {
       "title": "Venezuela’s acting president pushes back on Trump’s 51st state remarks",
       "source": "The Independent UK",
@@ -88,6 +228,13 @@
       "published_date": "2026-05-11T22:16:57+00:00"
     },
     {
+      "title": "Why welfare isn't winning elections in India like it used to",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T22:12:16+00:00"
+    },
+    {
       "title": "Several MPs are calling for Starmer to step down",
       "source": "Politiken Denmark",
       "country": "United Kingdom",
@@ -107,6 +254,13 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/oposicion-venezolana-iniciara-gira-nacional-para-exigir-elecciones-transparentes/",
       "published_date": "2026-05-11T20:03:49+00:00"
+    },
+    {
+      "title": "As Hungary’s new PM, Magyar’s hunt for Orban’s protégés has already begun - France 24",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlNlOC10NDZNMWFmdmJ4alA1QmtndG9IVjMzYjl6Z2s1OVJuLW9BMW41VnotWXUyVzMtV1B5TEpPWXFySGt2c3g5dmxLRGZ2RnpKYlhxWjhaaWRpWkpTSnRsVWtzRzh2M3NSQVZ0Vkh0aG0xejZXbFZ3VUc3X25SVGszOWxKVUxxaFlnWkNyYWdmYnhOaVg4b2t4cEJ3UmhndlVOYnNfbDJGNFFFeE8xWDZfcUlzbnEySVNxNQ?oc=5",
+      "published_date": "2026-05-11T19:34:36+00:00"
     },
     {
       "title": "Two government advisers resign and demand Keir Starmer's resignation",
@@ -172,6 +326,13 @@
       "published_date": "2026-05-11T13:59:00+00:00"
     },
     {
+      "title": "Sudan civil war enters 'deadlier' phase due to use of drones, says UN",
+      "source": "RFI English",
+      "country": "Sudan",
+      "url": "https://www.rfi.fr/en/africa/20260511-sudan-conflict-enters-deadlier-phase-due-to-drones-un-civilan-deaths",
+      "published_date": "2026-05-11T13:31:16+00:00"
+    },
+    {
       "title": "Iran says seizes assets of ex-football captain turned exiled critic",
       "source": "Vanguard Nigeria",
       "country": "Iran",
@@ -226,13 +387,6 @@
       "country": "Colombia",
       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
       "published_date": "2026-05-11T11:06:04+00:00"
-    },
-    {
-      "title": "When are the presidential elections in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
-      "published_date": "2026-05-11T11:05:56+00:00"
     },
     {
       "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
@@ -293,7 +447,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2781,83 +2935,6 @@
       "country": "Canada",
       "url": "https://www.faz.net/aktuell/politik/ausland/awacs-flugzeuge-die-nato-loest-sich-von-den-usa-200777246.html",
       "published_date": "2026-04-28T14:09:05+00:00"
-    },
-    {
-      "title": "Korea's top AI official quits for Assembly by-election, raising doubts over DPK candidate strategy",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/20260428/koreas-top-ai-official-quits-for-assembly-by-election-raising-doubts-over-dpk-candidate-strategy?utm_source=rss",
-      "published_date": "2026-04-28T12:22:02+00:00"
-    },
-    {
-      "title": "After resignation: CDU politician Heilmann could become Berlin's new Senator for Culture",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/cdu-politiker-heilmann-koennte-neuer-kultursenator-berlins-werden-200776782.html",
-      "published_date": "2026-04-28T12:07:54+00:00"
-    },
-    {
-      "title": "The Kremlin condemns the attack against Trump as “any violent action” against another head of state",
-      "source": "La Tercera Chile",
-      "country": "Russia",
-      "url": "https://www.latercera.com/mundo/noticia/el-kremlin-condena-el-ataque-contra-trump-como-cualquier-accion-violenta-contra-otro-jefe-de-estado/",
-      "published_date": "2026-04-28T11:08:30+00:00"
-    },
-    {
-      "title": "Surat Municipal Corporation Election Result 2026: Congress opens account after 5 years, AAP faces setback",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/surat-municipal-corporation-election-result-2026-ward-wise-winners-list-gujarat-10659990/",
-      "published_date": "2026-04-28T09:40:29+00:00"
-    },
-    {
-      "title": "Ex-Mossad chief: Settler violence an existential threat, curbing it could spark civil war - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3IxSmtZZkdETkF5QXRiNU1rNTA1TU1rdWUyZkxSNEtaYkFHeWtTTGFOQ1ZSaXQ2UTRhYTFaNUhWeG9XSFE5SVBSUDFlZGxrNUZkY3hQVzJrQlhBMnRCeG1IeG1QX2lXanpMWTVLZ0lCaVhnXzVFRWluNUtvalJOd3JXMHI2cmJBUE9YNWJHNFNySElyak01MF9vSzN4UkU5YTdlRHd6N2E4TnliaGtzcmlrN3NmaFVWRnfSAb8BQVVfeXFMT2JnNUIxNF83NzJPT1c5VEZBSGxjRWtYOEg0YWRNNGNJeEVuVUg2XzVHREp1VlZ5Q3QzZVR1d1kwSGVvNjBGSHhqUU1DLTltMU9mZUNZeUVzLTlrYXpfWDBOc0tvRXVOLWI3M1Exc01HZExsT3RNMHFOZG9nMzloV0hEUHZWY3BxM09ySVhaTWdDM0w4QUE2WDhFRUdrRFB5VFREYXRhaEtFU2YwektBNkx6U3E3a1F2ajJnc0xTdFk?oc=5",
-      "published_date": "2026-04-28T09:26:00+00:00"
-    },
-    {
-      "title": "After Rajya Sabha exodus, AAP summons 94 Punjab MLAs to Jalandhar amid defection buzz",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/aap-punjab-mlas-meeting-defection-crisis-doaba-10660058/",
-      "published_date": "2026-04-28T09:08:28+00:00"
-    },
-    {
-      "title": "Vadodara election shock: Congress loses bastion in Ward 1 as rebel, BJP candidates script upset",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/vadodara-election-shock-congress-loses-bastion-in-ward-1-as-rebel-bjp-candidates-script-upset-10660032/",
-      "published_date": "2026-04-28T09:03:38+00:00"
-    },
-    {
-      "title": "Ahmedabad Municipal Corporation Election Result 2026: BJP wins all seats in nine wards",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-local-body-election-results-bjp-ward-winners-amc-10659602/",
-      "published_date": "2026-04-28T06:20:15+00:00"
-    },
-    {
-      "title": "Tripura ADC members sworn in amid BJP-Tipra Motha tensions",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/north-east-india/tripura/tripura-adc-members-sworn-in-amid-bjp-tipra-motha-tensions-10659450/",
-      "published_date": "2026-04-28T04:26:37+00:00"
-    },
-    {
-      "title": "Gujarat local body election results LIVE: BJP sweeps polls, wins across all 15 municipal corporations",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/gujarat-election-results-live-updates-gujarat-local-body-elections-result-2026-ward-wise-rajkot-ahmedabad-news-101777349101469.html",
-      "published_date": "2026-04-28T04:13:08+00:00"
-    },
-    {
-      "title": "Gujarat Local Body Election Results 2026 Live Updates: BJP sweeps 9 out of 15 municipal corporations; gains Bhuj in Kutch, Mandvi, Mundra",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-municipal-election-results-2026-live-updates-counting-bjp-congress-aap-10659276/",
-      "published_date": "2026-04-28T02:14:00+00:00"
     }
   ]
 }
