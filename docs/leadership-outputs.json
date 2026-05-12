@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-12T13:09:33.903286+00:00",
-    "story_count": 411,
+    "last_updated": "2026-05-12T23:58:04.887500+00:00",
+    "story_count": 408,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Luis Emilio Rondón considers it unrealistic to hold presidential elections in Venezuela in 2026",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/luis-emilio-rondon-considera-irreal-celebrar-elecciones-presidenciales-en-venezuela-en-2026/",
+      "published_date": "2026-05-12T23:00:40+00:00"
+    },
+    {
+      "title": "Alejandra Mizala and Francisco Martínez go to the second round in elections for the rectory of the U. of Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/alejandra-mizala-y-francisco-martinez-pasan-a-segunda-vuelta-en-elecciones-para-la-rectoria-de-la-u-de-chile/",
+      "published_date": "2026-05-12T21:57:29+00:00"
+    },
+    {
+      "title": "Global stocks fall under the weight of inflation, oil and the political crisis in the United Kingdom",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/pulso/noticia/acciones-mundiales-caen-bajo-el-peso-de-la-inflacion-el-petroleo-y-la-crisis-politica-en-el-reino-unido/",
+      "published_date": "2026-05-12T21:54:22+00:00"
+    },
+    {
+      "title": "‘You cannot have it both ways’: Crown Prince Reza Pahlavi urges US to back regime change in Iran",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-895964",
+      "published_date": "2026-05-12T21:47:33+00:00"
+    },
+    {
+      "title": "The fear of the French film industry regarding an eventual victory of the extreme in the 2027 presidential elections",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/mundo/noticia/el-temor-de-la-industria-cinematografica-francesa-ante-una-eventual-victoria-de-la-extrema-en-las-presidenciales-de-2027/",
+      "published_date": "2026-05-12T20:00:00+00:00"
+    },
+    {
+      "title": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns",
+      "published_date": "2026-05-12T19:41:01+00:00"
+    },
+    {
+      "title": "British govt seeks credible elections in Nigeria – Envoy",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/879044-british-govt-seeks-credible-elections-in-nigeria-envoy.html",
+      "published_date": "2026-05-12T18:36:21+00:00"
+    },
+    {
+      "title": "Carter Center announced mission with a team of experts to 'evaluate' Colombia's presidential elections: there is support from Spain, the US and more countries",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/centro-carter-anuncio-mision-con-equipo-de-expertos-para-evaluar-elecciones-presidenciales-de-colombia-hay-apoyo-de-espana-ee-uu-y-mas-paises-3555129",
+      "published_date": "2026-05-12T18:18:53+00:00"
+    },
+    {
+      "title": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss",
+      "published_date": "2026-05-12T17:28:14+00:00"
+    },
+    {
+      "title": "BJP MLA Tapas Roy sworn in as Pro-tem Speaker of West Bengal Assembly",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-mla-tapas-roy-sworn-in-as-pro-tem-speaker-of-west-bengal-assembly/article70970887.ece",
+      "published_date": "2026-05-12T17:25:49+00:00"
+    },
+    {
+      "title": "Russian exile opposition: dispute in Navalnyj's organization",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/alexej-nawalnyj-streit-in-seiner-organisation-200823854.html",
+      "published_date": "2026-05-12T16:49:37+00:00"
+    },
+    {
+      "title": "Head of Microsoft’s Israel branch to step down after inquiry into dealings with Israeli military",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/technology/2026/may/12/microsoft-head-israel-step-down",
+      "published_date": "2026-05-12T16:24:59+00:00"
+    },
+    {
+      "title": "Fujimori and Sanchez lead Peru's presidential runoff as count enters final stretch",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/americas/20260512-conservative-fujimori-and-leftist-sanchez-lead-first-round-of-peru-disrupted-presidential-poll",
+      "published_date": "2026-05-12T15:35:41+00:00"
+    },
+    {
+      "title": "Leadership crisis in London: Starmer challenges his opponents",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/london-starmer-fordert-seine-gegner-heraus-200824340.html",
+      "published_date": "2026-05-12T15:05:06+00:00"
+    },
+    {
+      "title": "Pressure grows for stubborn Starmer to step down: 'I think it's inevitable'",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10840377/%C2%BBJeg-tror-det-er-uundg%C3%A5eligt%C2%AB",
+      "published_date": "2026-05-12T15:02:57+00:00"
+    },
     {
       "title": "Mossad chief opposes Netanyahu’s successor pick: Israeli press review",
       "source": "Middle East Eye",
@@ -447,7 +552,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2809,132 +2914,6 @@
       "country": "Iran",
       "url": "https://www.japantimes.co.jp/news/2026/04/29/world/politics/iran-revolutionary-guard-supreme-leader/",
       "published_date": "2026-04-29T01:42:00+00:00"
-    },
-    {
-      "title": "Provea demands renewal of the CNE and guarantees for elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/provea-exige-renovacion-del-cne-y-garantias-para-elecciones-en-venezuela/",
-      "published_date": "2026-04-28T23:13:37+00:00"
-    },
-    {
-      "title": "Trump’s Ukraine envoy stepping down amid stalled peace talks with Russia",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3351766/trumps-ukraine-envoy-stepping-down-amid-stalled-peace-talks-russia?utm_source=rss_feed",
-      "published_date": "2026-04-28T22:49:39+00:00"
-    },
-    {
-      "title": "PT sees uncertainty in three states for 2026 election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/pt-ve-indefinicao-em-tres-estados-para-eleicao-de-2026.shtml",
-      "published_date": "2026-04-28T22:46:00+00:00"
-    },
-    {
-      "title": "Starmer sees off major Labour rebellion over call for Mandelson inquiry",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
-      "published_date": "2026-04-28T22:40:01+00:00"
-    },
-    {
-      "title": "After landslide victory in Surat, BJP says there won’t be Opp Leader in city body",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/after-landslide-victory-in-surat-bjp-says-there-wont-be-opp-leader-in-city-body-10661243/",
-      "published_date": "2026-04-28T22:18:39+00:00"
-    },
-    {
-      "title": "A pin worn by Venezuela’s acting President has sparked an international row",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/venezuela-guyana-delcy-rodriguez-pin-b2966764.html",
-      "published_date": "2026-04-28T21:20:23+00:00"
-    },
-    {
-      "title": "A pin worn by Venezuela’s acting President has sparked an international row - AOL.com",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ZVc4R25KUnc3a1FUckNnZVMyQThqOUZCamtHSEVtZ1hPaEN2R1lLQTVtWHdhUDB0bXRsb0NUdFo1RkVLRFcxalJnVzZ4YmxpUEIzY3BjVUV2OFNoX2dCR2hDcWNyWXo3bmJPUjJBd3kyNDlJSGlrVGR3?oc=5",
-      "published_date": "2026-04-28T21:20:23+00:00"
-    },
-    {
-      "title": "Ukrainian strikes on Russian oil refinery send smoke across Black Sea coast as state of emergency is declared",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/04/29/ukrainian-strikes-on-russian-oil-refinery-send-smoke-across-black-sea-coast-as-state-of-emergency-is-declared",
-      "published_date": "2026-04-28T21:14:44+00:00"
-    },
-    {
-      "title": "Pérez Vivas calls on the international community to increase pressure on the Venezuelan government to achieve transparent elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/perez-vivas-llama-a-la-comunidad-internacional-a-aumentar-presion-sobre-el-gobierno-venezolano-para-lograr-elecciones-transparentes/",
-      "published_date": "2026-04-28T19:59:42+00:00"
-    },
-    {
-      "title": "Mali military leader Goita emerges as Russia declares it halted coup",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss",
-      "published_date": "2026-04-28T18:48:24+00:00"
-    },
-    {
-      "title": "From exile to judge: Symbolism in Syria’s trial of Assad, former officials",
-      "source": "Al Jazeera English",
-      "country": "Syria",
-      "url": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
-      "published_date": "2026-04-28T17:49:59+00:00"
-    },
-    {
-      "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-      "published_date": "2026-04-28T17:07:27+00:00"
-    },
-    {
-      "title": "Israeli elections: Two heavyweights unite to bring down Netanyahu",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/elections-israeliennes-deux-poids-lourds-s-unissent-pour-faire-tomber-netanyahou-20260428",
-      "published_date": "2026-04-28T17:00:00+00:00"
-    },
-    {
-      "title": "South Korean court extends prison sentence for wife of ousted president",
-      "source": "NPR World",
-      "country": "South Korea",
-      "url": "https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president",
-      "published_date": "2026-04-28T15:24:09+00:00"
-    },
-    {
-      "title": "South Korean court extends prison sentence for wife of ousted president - NPR",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEVvM0VITXJyR2xtakkwZm0wa3hmT2RxWU5UZjJfTGpUMGVYMHVlZWY5ZVlkajF6V3g0OU5YczZBU0xaMVdYOFpxclB2Qm5FbGdMS1ZLSjBUQzNsUUVaeUFYUXB0TUxDYVVvandtZE9iTGQzSjJWTGFiSVJxWDgtU1hWOVpPZ3JrREJncmQ3MlJLd2Y2UTJuU1QzVDRBcmpZOVlfa01neTB5cWRpYmlqaFFVSW4?oc=5",
-      "published_date": "2026-04-28T15:24:09+00:00"
-    },
-    {
-      "title": "Colombian presidential candidate Paloma Valencia denounces FARC plan to assassinate her",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/04/paloma-valencia-denuncia-plan-de-las-farc-para-asesinarla/",
-      "published_date": "2026-04-28T14:36:28+00:00"
-    },
-    {
-      "title": "Lula brings together Dilma and former ministers at Alvorada to pay tribute to the former president 10 years after impeachment",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/lula-reune-dilma-e-ex-ministros-no-alvorada-para-homenagear-ex-presidente-10-anos-apos-impeachment.shtml",
-      "published_date": "2026-04-28T14:28:00+00:00"
-    },
-    {
-      "title": "AWACS successor: NATO will rely on Sweden and Canada in the future",
-      "source": "FAZ Germany",
-      "country": "Canada",
-      "url": "https://www.faz.net/aktuell/politik/ausland/awacs-flugzeuge-die-nato-loest-sich-von-den-usa-200777246.html",
-      "published_date": "2026-04-28T14:09:05+00:00"
     }
   ]
 }
