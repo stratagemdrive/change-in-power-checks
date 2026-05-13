@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-13T13:16:07.302457+00:00",
-    "story_count": 405,
+    "last_updated": "2026-05-13T23:56:15.052123+00:00",
+    "story_count": 407,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
+      "title": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu",
+      "published_date": "2026-05-13T22:48:04+00:00"
+    },
+    {
+      "title": "Netanyahu prepares for elections",
+      "source": "Politiken Denmark",
+      "country": "Israel",
+      "url": "https://politiken.dk/internationalt/art10842965/Netanyahu-g%C3%B8r-klar-til-valg",
+      "published_date": "2026-05-13T22:34:47+00:00"
+    },
+    {
+      "title": "In Peru, Roberto Sanchez qualified for the second round of the presidential election against Keiko Fujimori",
+      "source": "France 24 FR",
+      "country": "Peru",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260513-au-p%C3%A9rou-roberto-sanchez-qualifi%C3%A9-pour-le-second-tour-de-la-pr%C3%A9sidentielle-face-%C3%A0-keiko-fujimori",
+      "published_date": "2026-05-13T22:31:13+00:00"
+    },
+    {
+      "title": "Israel is heading towards early elections, at the earliest by the end of August",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/moyen-orient/20260513-israel-vers-elections-anticipees-aout-benjamin-netanyahu-likoud-knesset-yair-lapid-naftali-bennet",
+      "published_date": "2026-05-13T21:50:39+00:00"
+    },
+    {
+      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
+      "source": "Al Jazeera English",
+      "country": "Canada",
+      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
+      "published_date": "2026-05-13T21:07:45+00:00"
+    },
+    {
+      "title": "Netanyahu met with UAE president at start of Operation Roaring Lion, PMO announces",
+      "source": "Jerusalem Post",
+      "country": "UAE",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-896096",
+      "published_date": "2026-05-13T20:12:48+00:00"
+    },
+    {
+      "title": "Tuto Quiroga criticized Trump's strategy towards Venezuela and demanded presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/turo-quiroga-critico-la-estrategia-de-trump-hacia-venezuela-y-exigio-elecciones-presidenciales/",
+      "published_date": "2026-05-13T19:21:10+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro seeks out Fachin, talks about respect for the Powers and demands exemption from the STF in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-procura-fachin-fala-em-respeito-aos-poderes-e-cobra-isencao-do-stf-na-eleicao.shtml",
+      "published_date": "2026-05-13T18:33:00+00:00"
+    },
+    {
+      "title": "France 2027: a presidential election in the face of crises?",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260513-france-2027-une-pr%C3%A9sidentielle-face-aux-crises",
+      "published_date": "2026-05-13T18:15:27+00:00"
+    },
+    {
+      "title": "Donald Trump's visit to China: Marco Rubio photographed with the same tracksuit as Nicolas Maduro when he was captured",
+      "source": "Le Figaro France",
+      "country": "China",
+      "url": "https://www.lefigaro.fr/international/visite-de-donald-trump-en-chine-marco-rubio-photographie-avec-meme-survetement-que-nicolas-maduro-lors-de-sa-capture-20260513",
+      "published_date": "2026-05-13T17:38:53+00:00"
+    },
+    {
+      "title": "Two Russian governors near Ukraine border step down in Kremlin shake-up",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/05/13/two-russian-governors-near-ukraine-border-step-down-in-kremlin-shake-up",
+      "published_date": "2026-05-13T16:40:11+00:00"
+    },
+    {
+      "title": "1953: The CIA led coup that still shapes Iran | Turning Point",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/video/1953-cia-led-coup-still-shapes-iran-turning-point",
+      "published_date": "2026-05-13T16:19:51+00:00"
+    },
+    {
+      "title": "France investigates whether Israeli firm BlackCore interfered in local elections",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/france-elections-israel-blackcore-unbowed-b2975940.html",
+      "published_date": "2026-05-13T16:00:59+00:00"
+    },
+    {
       "title": "Haredi parties may push elections as Netanyahu loses leverage - analysis",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896062",
       "published_date": "2026-05-13T15:50:06+00:00"
+    },
+    {
+      "title": "PT praises Nunes Marques' speech at the TSE and bets on a smooth election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/pt-elogia-discurso-de-nunes-marques-no-tse-e-aposta-em-eleicao-sem-sobressaltos.shtml",
+      "published_date": "2026-05-13T15:00:00+00:00"
+    },
+    {
+      "title": "Carter Center deploys a team to evaluate the presidential elections in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/centro-carter-despliega-un-equipo-para-evaluar-las-elecciones-presidenciales-en-colombia/",
+      "published_date": "2026-05-13T14:33:21+00:00"
     },
     {
       "title": "Streeting’s allies say he’s preparing to resign and launch leadership challenge as early as tomorrow – UK politics live",
@@ -95,7 +200,7 @@
       "published_date": "2026-05-13T12:29:51+00:00"
     },
     {
-      "title": "UK PM Political Crisis Live Updates: King Charles III lays out UK government agenda as Starmer fights to retain power",
+      "title": "UK PM Political Crisis Live Updates | ‘In office, but not in power’: Kemi Badenoch’s jibe at Keir Starmer",
       "source": "Indian Express",
       "country": "United Kingdom",
       "url": "https://indianexpress.com/article/world/uk-keir-starmer-resignation-labour-ministers-quit-king-speech-live-updates-10687523/",
@@ -2802,97 +2907,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/exit-poll-results-close-fight-in-bengal-bjp-sweep-in-assam-kerala-could-see-udf-comeback-dmk-firm-in-tn-101777509568659.html",
       "published_date": "2026-04-30T00:48:48+00:00"
-    },
-    {
-      "title": "History of the Cuban exile: \"I am deported\"",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-30-u1-e192519-s27061-nid327635-historico-exilio-cubano-estoy-deportado",
-      "published_date": "2026-04-29T22:19:08+00:00"
-    },
-    {
-      "title": "Exiled Santiago Álvarez believes that Marco Rubio's statements about espionage in Cuba indicate stagnation in negotiations",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-04-30-u1-e192519-s27061-nid327632-exiliado-santiago-alvarez-cree-declaraciones-marco",
-      "published_date": "2026-04-29T22:03:12+00:00"
-    },
-    {
-      "title": "Assad regime trials are 'integral for Syria to move on' from civil war, atrocities",
-      "source": "France 24 English",
-      "country": "Syria",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260429-assad-regime-trials-are-integral-for-syria-to-move-on-from-civil-war-atrocities",
-      "published_date": "2026-04-29T21:08:47+00:00"
-    },
-    {
-      "title": "How alleged coup attempt against Tinubu was planned, uncovered – Witness",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/875915-how-alleged-coup-attempt-against-tinubu-was-planned-uncovered-witness.html",
-      "published_date": "2026-04-29T20:12:20+00:00"
-    },
-    {
-      "title": "2027: elected president, Jordan Bardella would remove the European flag from the steps of the Élysée",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/2027-elu-president-jordan-bardella-enleverait-le-drapeau-europeen-du-perron-de-l-elysee-20260429",
-      "published_date": "2026-04-29T19:20:33+00:00"
-    },
-    {
-      "title": "How we uncovered plot to overthrow Tinubu, Army tells court",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/04/how-we-uncovered-plot-to-overthrow-tinubu-army-tells-court/",
-      "published_date": "2026-04-29T19:01:04+00:00"
-    },
-    {
-      "title": "Porsche inaugurates the Green Corridor in southern Chile and expands its electromobility network",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/mtonline/noticia/porsche-inaugura-corredor-verde-en-el-sur-de-chile-y-expande-su-red-de-electromovilidad/",
-      "published_date": "2026-04-29T18:29:00+00:00"
-    },
-    {
-      "title": "Kerala assembly elections 2026: CPI(M)'s Sivankutty's bid to retain Nemom seat after 2016 loss to BJP",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/kerala-assembly-elections-2026-cpi-m-s-sivankuttys-bid-to-retain-nemom-seat-after-2016-loss-to-bjp-101777105177108.html",
-      "published_date": "2026-04-29T17:57:49+00:00"
-    },
-    {
-      "title": "Exit polls 2026 highlights: Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
-      "published_date": "2026-04-29T17:22:12+00:00"
-    },
-    {
-      "title": "Second US ambassador to Ukraine steps down in less than one year",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/04/29/second-us-ambassador-to-ukraine-steps-down-within-less-than-one-year",
-      "published_date": "2026-04-29T15:38:46+00:00"
-    },
-    {
-      "title": "In Mali, a weakened partnership between Russia and the junta in the face of the jihadist offensive",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/afrique/20260429-mali-un-partenariat-fragilise-entre-la-russie-et-la-junte-face-offensive-jihadiste-africa-corps-wagner",
-      "published_date": "2026-04-29T15:25:08+00:00"
-    },
-    {
-      "title": "Successor to Wedl-Wilson: Berlin's Finance Senator steps in temporarily",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/berlin-finanzsenator-evers-uebernimmt-kulturverwaltung-200782200.html",
-      "published_date": "2026-04-29T14:39:09+00:00"
-    },
-    {
-      "title": "Axis My India exit poll: What projections for Bengal, Tamil Nadu, Kerala and Assam election results show",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/axis-my-india-exit-poll-result-what-projections-for-bengal-tamil-nadu-kerala-and-assam-election-results-show-101777470531784.html",
-      "published_date": "2026-04-29T14:10:16+00:00"
     }
   ]
 }
