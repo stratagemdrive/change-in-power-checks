@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-12T23:58:04.887500+00:00",
-    "story_count": 408,
+    "last_updated": "2026-05-13T13:16:07.302457+00:00",
+    "story_count": 405,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Haredi parties may push elections as Netanyahu loses leverage - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896062",
+      "published_date": "2026-05-13T15:50:06+00:00"
+    },
+    {
+      "title": "Streeting’s allies say he’s preparing to resign and launch leadership challenge as early as tomorrow – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
+      "published_date": "2026-05-13T13:04:00+00:00"
+    },
+    {
+      "title": "Rubio cosplays as deposed Venezuelan leader Maduro in Air Force One picture",
+      "source": "The Independent UK",
+      "country": "Venezuela",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-nicolas-maduro-air-force-one-b2975711.html",
+      "published_date": "2026-05-13T12:52:45+00:00"
+    },
+    {
+      "title": "Kylian Mbappe in public row with far-right leader ahead of French election",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/kylian-mbappe-jordan-bardella-far-right-france-election-b2975785.html",
+      "published_date": "2026-05-13T12:37:35+00:00"
+    },
+    {
+      "title": "White House energy advisor: The priority in Venezuela is to stabilize the economy before the elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/ee-uu-prioriza-economia-antes-de-elecciones-en-venezuela/",
+      "published_date": "2026-05-13T12:29:51+00:00"
+    },
+    {
+      "title": "UK PM Political Crisis Live Updates: King Charles III lays out UK government agenda as Starmer fights to retain power",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/uk-keir-starmer-resignation-labour-ministers-quit-king-speech-live-updates-10687523/",
+      "published_date": "2026-05-13T11:51:06+00:00"
+    },
+    {
+      "title": "Germany live blog: Özdemir new Prime Minister of Baden-Württemberg",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-oezdemir-neuer-ministerpraesident-von-baden-wuerttemberg-faz-110093143.html",
+      "published_date": "2026-05-13T11:05:24+00:00"
+    },
+    {
+      "title": "Chin resistance braces for Myanmar junta offensive as Mindat hit by airstrikes",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/chin-resistance-braces-for-myanmar-junta-offensive-as-mindat-hit-by-airstrikes/",
+      "published_date": "2026-05-13T09:57:21+00:00"
+    },
+    {
+      "title": "UK political crisis explained: Why is Prime Minister Keir Starmer’s leadership under threat?",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/uk-political-crisis-keir-starmer-labour-party-local-elections-king-speech-10687036/",
+      "published_date": "2026-05-13T09:16:54+00:00"
+    },
+    {
+      "title": "UK’s Starmer faces challenge as resignation calls overshadow King’s speech",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss",
+      "published_date": "2026-05-13T07:12:05+00:00"
+    },
+    {
+      "title": "PM Modi shrinks convoy, pushes EV use after call to save fuel amid Iran war energy crisis",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/india/pm-modi-convoy-size-reduction-spg-ev-austerity-fuel-crisis-10686677/",
+      "published_date": "2026-05-13T03:44:01+00:00"
+    },
+    {
+      "title": "Inside the RSS machine that built the ground for BJP’s Bengal triumph, toppled Mamata Banerjee",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/inside-the-rss-machine-that-built-the-ground-for-bjps-bengal-triumph-10686425/",
+      "published_date": "2026-05-13T02:30:55+00:00"
+    },
+    {
+      "title": "Keir Starmer and Labour's rebellion: Will his Gordon Brown and Harriet Harman tribute strategy save him from resignation?",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/keir-starmer-y-la-rebelion-del-laborismo-su-estrategia-de-tributo-a-gordon-brown-y-harriet-harman-lo-salvara-de-la-dimision/",
+      "published_date": "2026-05-13T00:21:49+00:00"
+    },
     {
       "title": "Luis Emilio Rondón considers it unrealistic to hold presidential elections in Venezuela in 2026",
       "source": "El Nacional Venezuela",
@@ -552,7 +643,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2802,118 +2893,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/axis-my-india-exit-poll-result-what-projections-for-bengal-tamil-nadu-kerala-and-assam-election-results-show-101777470531784.html",
       "published_date": "2026-04-29T14:10:16+00:00"
-    },
-    {
-      "title": "Assam exit poll show a massive lead for BJP, Himanta Biswa Sarma govt headed for another term",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assam-exit-poll-show-a-massive-lead-for-bjp-himanta-biswa-sarma-govt-headed-for-another-term-101777463125283.html",
-      "published_date": "2026-04-29T13:05:28+00:00"
-    },
-    {
-      "title": "Narrow win for BJP in Bengal, Mamata's 15-year reign to end: First exit poll prediction",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/narrow-win-for-bjp-in-bengal-mamatas-15-year-reign-to-end-first-exit-poll-prediction-101777466870714.html",
-      "published_date": "2026-04-29T13:04:26+00:00"
-    },
-    {
-      "title": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted compared to 2024 Lok Sabha polls",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
-      "published_date": "2026-04-29T12:11:40+00:00"
-    },
-    {
-      "title": "Exit poll results highlights: BJP debut in Bengal, return in Assam, UDF's comeback in Kerala projected",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/election-exit-poll-results-2026-live-west-bengal-tamil-nadu-kerala-assam-ec-news-chanakya-satta-bazar-axis-my-india-101777459534748.html",
-      "published_date": "2026-04-29T11:09:08+00:00"
-    },
-    {
-      "title": "Kim Jong-un praises North Korean soldiers who take their own lives to avoid being captured in Ukraine",
-      "source": "El Nacional Venezuela",
-      "country": "Ukraine",
-      "url": "https://www.elnacional.com/2026/04/kim-jong-un-alaba-a-soldados-norcoreanos-que-se-quitan-la-vida-para-no-ser-capturados-en-ucrania/",
-      "published_date": "2026-04-29T10:30:00+00:00"
-    },
-    {
-      "title": "West Bengal Election Exit Poll Results 2026 Live Updates: BJP will form government comfortably, says Suvendu Adhikari as exit polls give edge to saffron party",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-exit-poll-results-live-tmc-bjp-mamata-banerjee-suvendu-10660965/",
-      "published_date": "2026-04-29T10:19:06+00:00"
-    },
-    {
-      "title": "US ambassador to Ukraine steps down after ‘differences of opinion with Trump’",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/us-ambassador-ukraine-resigns-trump-b2966995.html",
-      "published_date": "2026-04-29T10:11:27+00:00"
-    },
-    {
-      "title": "West Bengal polls: PM Modi must resign when TMC wins, Derek O'Brien says",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-polls-pm-modi-must-resign-when-tmc-wins-derek-obrien-says/article70919665.ece",
-      "published_date": "2026-04-29T09:59:34+00:00"
-    },
-    {
-      "title": "2027: Trader joins APC presidential race, purchases ₦100m forms to challenge Tinubu",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/875756-2027-trader-joins-apc-presidential-race-purchases-%e2%82%a6100m-forms-to-challenge-tinubu.html",
-      "published_date": "2026-04-29T09:54:50+00:00"
-    },
-    {
-      "title": "Assam Election Exit Polls 2026 LIVE Updates: Surveys predict clean sweep for BJP in Assam",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assam-election-exit-poll-result-2026-live-updates-himanta-biswa-sarma-bjp-congress-10660865/",
-      "published_date": "2026-04-29T09:26:37+00:00"
-    },
-    {
-      "title": "France urges its citizens to quit Mali as junta faces major rebel threat",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/africa/20260429-mali-s-junta-chief-says-situation-under-control-urges-citizens-not-to-panic",
-      "published_date": "2026-04-29T07:26:33+00:00"
-    },
-    {
-      "title": "2027 election: Tinubu, APC bigwigs pick forms, GAC backs Hamzat",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-election-tinubu-apc-bigwigs-pick-forms-gac-backs-hamzat/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-04-29T07:18:35+00:00"
-    },
-    {
-      "title": "'They want to rig elections': Mamata Banerjee accuses BJP of ‘hooliganism', ‘terrorism’ in West Bengal",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/they-want-to-rig-elections-mamata-banerjee-accuses-bjp-of-hooliganism-terrorism-in-west-bengal-101777438160826.html",
-      "published_date": "2026-04-29T05:19:38+00:00"
-    },
-    {
-      "title": "Heir apparent? What to look for in North Korea’s possible successor",
-      "source": "NK News",
-      "country": "North Korea",
-      "url": "https://www.nknews.org/2026/04/heir-apparent-what-to-look-for-in-north-koreas-possible-successor/",
-      "published_date": "2026-04-29T05:14:04+00:00"
-    },
-    {
-      "title": "Colombia hit by wave of attacks ahead of presidential election, in photos - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlEwVV80WGF4VDc0SnlEaWJtYVNWQzUzUU5FVl9FSGg0OHpQTmxSUnBmOWI4MUVlcTlwZHMzS0diOUhRcUVpcmoweFlNNGxPYlRpdVpyLThycUpSZW5tM0xPMExwa0JNblVKTU82VzJSVFB4NndRUDVyTUZRU1NHN29OMVRWYTI4enpGaDczYkVWQmkxcGdUWFZfMTJWRmRtUy1iV3dxci1FQUk?oc=5",
-      "published_date": "2026-04-29T02:42:00+00:00"
-    },
-    {
-      "title": "Iran’s Revolutionary Guard seizes wartime power, blunts supreme leader's role",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/04/29/world/politics/iran-revolutionary-guard-supreme-leader/",
-      "published_date": "2026-04-29T01:42:00+00:00"
     }
   ]
 }
