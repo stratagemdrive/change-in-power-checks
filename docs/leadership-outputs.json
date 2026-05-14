@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-13T23:56:15.052123+00:00",
-    "story_count": 407,
+    "last_updated": "2026-05-14T12:28:59.710839+00:00",
+    "story_count": 412,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,160 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Without regime change in Tehran, this war is not over - opinion",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/opinion/article-896203",
+      "published_date": "2026-05-14T13:00:00+00:00"
+    },
+    {
+      "title": "Appeals court halts ex-President Yoon's insurrection trial after recusal request",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260514/appeals-court-halts-ex-president-yoons-insurrection-trial-after-recusal-request?utm_source=rss",
+      "published_date": "2026-05-14T12:22:03+00:00"
+    },
+    {
+      "title": "Resignation of British health minister Wes Streeting, one of Keir Starmer's main rivals",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/05/14/demission-du-ministre-de-la-sante-britannique-wes-streeting-l-un-des-principaux-rivaux-de-keir-starmer_6689081_3210.html",
+      "published_date": "2026-05-14T12:21:00+00:00"
+    },
+    {
+      "title": "UK health minister Wes Streeting resigns in another blow to PM Starmer",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/british-health-minister-wes-streeting-resigns-keir-starmer-leadership-crisis-10689626/",
+      "published_date": "2026-05-14T12:15:01+00:00"
+    },
+    {
+      "title": "Streeting resigns as health secretary and says he has lost confidence in Starmer’s leadership - UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
+      "published_date": "2026-05-14T12:01:48+00:00"
+    },
+    {
+      "title": "Former Bryansk Region governor becomes a State Duma deputy — the day after resigning as governor.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/05/14/former-bryansk-region-governor-becomes-a-state-duma-deputy-the-day-after-resigning-as-governor",
+      "published_date": "2026-05-14T11:25:29+00:00"
+    },
+    {
+      "title": "Resigned Russian regional governor posts video address. He thanked Putin and wished everyone ‘the most important thing — Victory’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/05/14/resigned-russian-regional-governor-posts-video-address-he-thanked-putin-and-wished-everyone-the-most-important-thing-victory",
+      "published_date": "2026-05-14T11:06:54+00:00"
+    },
+    {
+      "title": "In Israel, early legislative elections at the end of August at the earliest",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/05/14/en-israel-des-elections-legislatives-anticipees-au-plus-tot-fin-aout_6689069_3210.html",
+      "published_date": "2026-05-14T10:59:43+00:00"
+    },
+    {
+      "title": "Netanyahu's coalition seeks to dissolve parliament and trigger early election in Israel",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/netanyahu-s-coalition-seeks-to-dissolve-parliament-and-trigger-early-election-in-israel",
+      "published_date": "2026-05-14T09:47:28+00:00"
+    },
+    {
+      "title": "Latvia’s Prime Minister resigns over Ukraine-Russia drone incidents",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/latvia-evika-silina-resign-ukraine-b2976386.html",
+      "published_date": "2026-05-14T09:34:57+00:00"
+    },
+    {
+      "title": "‘Divide and rule’: Mahmoud Abbas keeps Fatah 'divided', ensuring no potential successor can emerge",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/video/20260514-who-will-rule-over-palestine-after-mahmoud-abbas-his-son-elevated-to-top-leadership",
+      "published_date": "2026-05-14T08:58:21+00:00"
+    },
+    {
+      "title": "Vyacheslav Gladkov resigns as governor of Russia’s Belgorod region",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/05/14/vyacheslav-gladkov-resigns-as-governor-of-russia-s-belgorod-region",
+      "published_date": "2026-05-14T08:57:20+00:00"
+    },
+    {
+      "title": "LIVE, war in Ukraine: Latvian Prime Minister announces her resignation after the intrusion of Ukrainian drones; five dead in kyiv in large-scale Russian night attack",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-en-ukraine-la-premiere-ministre-lettone-annonce-sa-demission-apres-l-intrusion-de-drones-ukrainiens-trois-morts-a-kiev-apres-une-attaque-nocturne-russe-de-grande-ampleur_6687661_3210.html",
+      "published_date": "2026-05-14T08:53:19+00:00"
+    },
+    {
+      "title": "Latvian Prime Minister Silina resigns over handling of Ukraine drone incidents - Reuters",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEhfVXlTRjJXa09zTElKLTZZeThnUUJZUldnT1FUX2djdFZKYkxLbFd4V1Q4VG1OOWdxMWxMYjNtN2tQelFINWNtRGVlazVuc3RobW0tRnV1REd4dnB3UURWQkIwdmY2YUptR0hEYkFJZ1BpMDF3YVhic05Iby04MDlvcHU5Z1lzRjdPcXJQNkdRNmZfMl9YUg?oc=5",
+      "published_date": "2026-05-14T08:21:04+00:00"
+    },
+    {
+      "title": "Rubio’s Air Force One tracksuit sparks deposed Venezuelan leader Maduro comparisons",
+      "source": "The Independent UK",
+      "country": "Venezuela",
+      "url": "https://www.independent.co.uk/tv/news/marco-rubio-maduro-nike-tracksuit-video-b2976354.html",
+      "published_date": "2026-05-14T08:19:37+00:00"
+    },
+    {
+      "title": "News Today Live Updates, 14 May | UK health minister Wes Streeting resigns saying ‘no confidence’ in  PM Starmer",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-05-14-2026-news-headlines-10688440/",
+      "published_date": "2026-05-14T07:05:31+00:00"
+    },
+    {
+      "title": "BJP clinches mayoral seat, 17 of 20 wards in Panchkula Municipal Corporation elections",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/bjp-clinches-mayoral-seat-17-of-20-wards-in-panchkula-municipal-corporation-elections-10688552/",
+      "published_date": "2026-05-14T04:25:10+00:00"
+    },
+    {
+      "title": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
+      "source": "CBC News World",
+      "country": "Armenia",
+      "url": "https://www.cbc.ca/news/politics/cbc-ca-politics-armenia-elections-canada-9.7198559?cmp=rss",
+      "published_date": "2026-05-14T04:00:00+00:00"
+    },
+    {
+      "title": "Dissolution of the Knesset: Israeli government seeks new elections",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israelische-regierung-strebt-neuwahl-an-accg-200830854.html",
+      "published_date": "2026-05-14T03:31:38+00:00"
+    },
+    {
+      "title": "Is Modi ‘coup-proofing’ India’s military?",
+      "source": "Japan Times",
+      "country": "India",
+      "url": "https://www.japantimes.co.jp/commentary/2026/05/14/world/modi-coup-proofs-indias-military/",
+      "published_date": "2026-05-14T02:29:00+00:00"
+    },
+    {
+      "title": "The keys to the millionaire plan against organized crime that Lula launched five months before the elections",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/las-claves-del-millonario-plan-contra-el-crimen-organizado-que-lula-lanzo-a-cinco-meses-de-las-elecciones/",
+      "published_date": "2026-05-14T00:48:18+00:00"
+    },
+    {
+      "title": "Israel's governing coalition presents bill to dissolve Knesset and call elections",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/la-coalicion-de-gobierno-de-israel-presenta-un-proyecto-de-ley-para-disolver-la-knesset-y-convocar-elecciones/",
+      "published_date": "2026-05-14T00:11:31+00:00"
+    },
     {
       "title": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu",
       "source": "The Guardian World",
@@ -121,6 +275,13 @@
       "country": "France",
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260513-france-2027-une-pr%C3%A9sidentielle-face-aux-crises",
       "published_date": "2026-05-13T18:15:27+00:00"
+    },
+    {
+      "title": "Russian parliament passes bill allowing Putin to invade foreign countries - politico.eu",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUxNUWluandndmVNampZbEExTlVCZTNmV1UtTGhEcERoTFJZNmpLVUxmWUZRQjg5aTB0SmtLdkp2QndvTTVLZWUwTGE5NDdJTzB2N013STlWMkxBMFZmTmo0N3JITlVkVHoxbDFoa20tMzIwSzVYZW1mWnZEUHJyWFhNRzhZd0gyUVBtam1CTzAwbmxYWFBGUVZmMEhpcUdiTG14cnJWZktmdmdxbXFtaA?oc=5",
+      "published_date": "2026-05-13T18:11:00+00:00"
     },
     {
       "title": "Donald Trump's visit to China: Marco Rubio photographed with the same tracksuit as Nicolas Maduro when he was captured",
@@ -748,7 +909,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2781,132 +2942,6 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-polytics/4118293-zelensky-signs-laws-extending-martial-law-and-general-mobilization-in-ukraine.html",
       "published_date": "2026-04-30T12:33:00+00:00"
-    },
-    {
-      "title": "European Parliament approves resolution to maintain sanctions on Venezuela if there is no progress towards democracy",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/parlamento-europeo-aprueba-resolucion-para-mantener-sanciones-a-venezuela-si-no-hay-avances-hacia-la-democracia/",
-      "published_date": "2026-04-30T12:19:57+00:00"
-    },
-    {
-      "title": "Top court upholds guilty verdicts for 18 people in courthouse riot related to Yoon's martial law bid",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/20260430/top-court-upholds-guilty-verdicts-for-18-people-in-courthouse-riot-related-to-yoons-martial-law-bid?utm_source=rss",
-      "published_date": "2026-04-30T12:17:02+00:00"
-    },
-    {
-      "title": "Cooperstown inaugurates exhibition on Venezuela's victory in the World Classic",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/04/cooperstown-inaugura-exhibicion-sobre-el-triunfo-de-venezuela/",
-      "published_date": "2026-04-30T12:13:44+00:00"
-    },
-    {
-      "title": "Supreme leader vows Iran won’t give up nuclear technologies",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/04/30/world/iran-vow-nuclear-tech/",
-      "published_date": "2026-04-30T12:09:00+00:00"
-    },
-    {
-      "title": "Assembly election 2026 LIVE: Central forces working as BJP agents during West Bengal polls, says Mamata Banerjee",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
-      "published_date": "2026-04-30T12:07:12+00:00"
-    },
-    {
-      "title": "LIVE – War in the Middle East: the United States suffered a “shameful defeat”, tackles Iranian supreme leader",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-etats-unis-donald-trump-vladimir-poutine-israel-liban-20260430",
-      "published_date": "2026-04-30T12:05:03+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader says US suffered ‘disgraceful defeat’",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/04/irans-supreme-leader-says-us-suffered-disgraceful-defeat/",
-      "published_date": "2026-04-30T11:55:04+00:00"
-    },
-    {
-      "title": "‘Exit poll from BJP office’: Mamata Banerjee's first reaction on Bengal projections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/exit-poll-from-bjp-office-mamata-banerjees-first-reaction-on-bengal-projections-101777549284119.html",
-      "published_date": "2026-04-30T11:49:55+00:00"
-    },
-    {
-      "title": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats – US politics live",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
-      "published_date": "2026-04-30T11:47:08+00:00"
-    },
-    {
-      "title": "Iran's supreme leader: Americans belong 'at the bottom of the sea'",
-      "source": "DR News Denmark",
-      "country": "Iran",
-      "url": "https://www.dr.dk/nyheder/seneste/irans-oeverste-leder-amerikanere-hoerer-til-paa-bunden-af-havet",
-      "published_date": "2026-04-30T11:43:00+00:00"
-    },
-    {
-      "title": "Iran-US war latest: Tehran threatens US in defiant new supreme leader statement as Trump ‘considers new strikes’",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-blockade-oil-strait-hormuz-b2967791.html",
-      "published_date": "2026-04-30T11:20:29+00:00"
-    },
-    {
-      "title": "LIVE, war in the Middle East: Supreme Leader Mojtaba Khamenei assures that Iran will “protect” its “nuclear and ballistic capabilities”",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-le-guide-supreme-mojtaba-khamenei-assure-que-l-iran-protegera-ses-capacites-nucleaires-et-balistiques_6684072_3210.html",
-      "published_date": "2026-04-30T11:10:34+00:00"
-    },
-    {
-      "title": "BJP's continuity in Assam, debut in Bengal, Vijay magic in Tamil Nadu: Full list of exit poll results",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-continuity-in-assam-debut-in-bengal-vijay-magic-in-tamil-nadu-full-list-of-exit-poll-results-101777541848174.html",
-      "published_date": "2026-04-30T10:39:27+00:00"
-    },
-    {
-      "title": "Eight killed in Myanmar junta airstrike on bridge in Chin State’s Kanpetlet Township",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/eight-killed-in-myanmar-junta-airstrike-on-bridge-in-chin-states-kanpetlet-township/",
-      "published_date": "2026-04-30T09:32:19+00:00"
-    },
-    {
-      "title": "Axis My India won't release exit poll results for West Bengal elections, says Pradeep Gupta",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/axis-my-india-wont-release-exit-poll-results-for-west-bengal-elections-says-pradeep-gupta-101777538909927.html",
-      "published_date": "2026-04-30T08:58:45+00:00"
-    },
-    {
-      "title": "Why Axis My India still hasn't released exit poll predictions for West Bengal",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-2026-exit-polls-when-will-axis-my-india-release-exit-poll-predictions-101777516138537.html",
-      "published_date": "2026-04-30T03:19:35+00:00"
-    },
-    {
-      "title": "Exit Poll results 2026 highlights: TMC, BJP workers clash at Kolkata strongroom, EC rubbishes claims",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-elections-exit-poll-results-2026-live-updates-axis-my-india-chanakya-west-bengal-tamil-nadu-kerala-assam-101777511122555.html",
-      "published_date": "2026-04-30T01:44:29+00:00"
-    },
-    {
-      "title": "Exit poll results 2026: Close fight in Bengal, BJP sweep in Assam; Kerala could see UDF comeback",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/exit-poll-results-close-fight-in-bengal-bjp-sweep-in-assam-kerala-could-see-udf-comeback-dmk-firm-in-tn-101777509568659.html",
-      "published_date": "2026-04-30T00:48:48+00:00"
     }
   ]
 }
