@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-14T12:28:59.710839+00:00",
-    "story_count": 412,
+    "last_updated": "2026-05-14T23:54:39.963815+00:00",
+    "story_count": 416,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,172 @@
   },
   "stories": [
     {
+      "title": "Ex-Ondo gov Mimiko joins APC, backs Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/ex-ondo-gov-mimiko-joins-apc-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-15T00:29:30+00:00"
+    },
+    {
+      "title": "The BCRA revealed how much Argentina paid in interest for using the swap with the US before the elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/el-bcra-revelo-cuanto-pago-la-argentina-en-intereses-por-usar-el-swap-con-eeuu-antes-de-las-nid14052026/",
+      "published_date": "2026-05-14T23:10:07+00:00"
+    },
+    {
+      "title": "Eyes on 2027 UP Assembly polls: Yogi in Delhi amid talks of wider Cabinet reshuffle",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/lucknow/eyes-on-2027-up-assembly-polls-yogi-in-delhi-amid-talks-of-wider-cabinet-reshuffle-10690219/",
+      "published_date": "2026-05-14T23:06:07+00:00"
+    },
+    {
+      "title": "Peru will proclaim results of the presidential elections this Sunday, May 17",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/05/peru-proclamara-resultados-de-las-elecciones-presidenciales-este-domingo-17-de-mayo/",
+      "published_date": "2026-05-14T22:01:48+00:00"
+    },
+    {
+      "title": "Manuel Rosales demands elections in Venezuela and supports the United States plan",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/manuel-rosales-exige-elecciones-en-venezuela-y-respalda-el-plan-de-estados-unidos/",
+      "published_date": "2026-05-14T21:35:13+00:00"
+    },
+    {
+      "title": "Kast appoints Bernardo Fontaine as the new president of Codelco, amid government criticism of the firm's management",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/gobierno-designa-a-bernardo-fontaine-luz-granier-y-alejandro-canut-como-nuevos-directores-de-codelco/",
+      "published_date": "2026-05-14T21:33:58+00:00"
+    },
+    {
+      "title": "President Gustavo Petro summoned the Registrar's Office and the National Electoral Council to the Casa de Nariño to talk about the presidential elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-cito-en-la-casa-de-narino-a-la-registraduria-y-al-consejo-nacional-electoral-para-hablar-de-las-presidenciales-3555698",
+      "published_date": "2026-05-14T21:00:53+00:00"
+    },
+    {
+      "title": "Manuel Rosales demands elections and asks to follow the United States strategic plan for Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/manuel-rosales-exige-elecciones-y-pide-seguir-el-plan-estrategico-de-estados-unidos-para-venezuela/",
+      "published_date": "2026-05-14T20:10:55+00:00"
+    },
+    {
+      "title": "Palestinian President Abbas pledges elections, reform at Fatah conference",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss",
+      "published_date": "2026-05-14T20:07:21+00:00"
+    },
+    {
+      "title": "British politician resigns to make way for Starmer challenger",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10843397/Britisk-politiker-tr%C3%A6kker-sig-for-at-g%C3%B8re-plads-til-Starmer-udfordrer",
+      "published_date": "2026-05-14T18:22:09+00:00"
+    },
+    {
+      "title": "Marco Rubio assures that the transition in Venezuela must culminate with elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/rubio-transicion-en-venezuela-debe-culminar-en-elecciones/",
+      "published_date": "2026-05-14T18:11:54+00:00"
+    },
+    {
+      "title": "Lula defends restrictions on the use of AI during the election period",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/lula-defende-restricao-ao-uso-de-ia-no-periodo-das-eleicoes",
+      "published_date": "2026-05-14T17:58:00+00:00"
+    },
+    {
+      "title": "Lula suggests vetoing AI in the election and, without citing Flávio Bolsonaro, says that 'truth never fails'",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-sugere-veto-a-ia-na-eleicao-e-sem-citar-flavio-bolsonaro-diz-que-verdade-nao-falha.shtml",
+      "published_date": "2026-05-14T17:28:00+00:00"
+    },
+    {
+      "title": "Palestinian President Abbas re-elected to lead Fatah movement",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-abbas-re-elected-lead-fatah-movement",
+      "published_date": "2026-05-14T17:22:06+00:00"
+    },
+    {
+      "title": "British politician resigns to make way for Starmer challenger",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-traekker-sig-goere-plads-til-starmer-udfordrer",
+      "published_date": "2026-05-14T17:15:00+00:00"
+    },
+    {
+      "title": "Resignation of Wes Streeting, British Health Minister",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260514-d%C3%A9mission-de-wes-streeting-ministre-britannique-de-la-sant%C3%A9",
+      "published_date": "2026-05-14T15:50:34+00:00"
+    },
+    {
+      "title": "Governor Reshuffle in Border Regions Shows How Kremlin Is Militarizing Russia’s Elites, Experts Say",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/05/14/governor-reshuffle-in-border-regions-shows-how-kremlin-is-militarizing-russias-elites-experts-say-a92752",
+      "published_date": "2026-05-14T15:49:00+00:00"
+    },
+    {
+      "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
+      "source": "Deutsche Welle English",
+      "country": "United Kingdom",
+      "url": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-14T15:06:00+00:00"
+    },
+    {
+      "title": "U.K. health secretary resigns in scathing letter, setting up challenge to Starmer's leadership - CBS News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMV9IdV9fV3A1YXB0RFl4cXZIRFNES2FuRHRIVF8xRDRZZlEzSENRREFkSHpzdTRDMWIwT1cyRzhjcW5qdXp2dUpNc0lwM0dOX2JuSEU1dnMxX1ozMm9XUG9CaE1qMEUyWWl0bzl4Qy1uUF9BZGFDcm1FeDktQlUyNnlkUk45QU5hMlRxZ0d5Tm5hNi1yREdnVzd4SdIBoAFBVV95cUxNS1lWS2VrOHhBNzE3elRrcWVicmhCRlVCT0xXb053RjZjLTROU0p5MEhONkNNOWFza2lhYW1ZTEFUdHRnQ2RfbFVlVmVERWxOemlGTkdBTldSak5xc25LZ0I1UHZxNHJfUk95ekFEZUxqbE11MWRjMEtvRDBUYngwTmo3TVp6ZDgydklOYXphYlFJaVJtUVNBRUJrNEZlMFVw?oc=5",
+      "published_date": "2026-05-14T14:14:46+00:00"
+    },
+    {
+      "title": "Russian parliament approves law allowing Putin to invade other countries",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/05/14/russian-parliament-approves-law-allowing-putin-to-invade-other-countries",
+      "published_date": "2026-05-14T13:27:03+00:00"
+    },
+    {
       "title": "Without regime change in Tehran, this war is not over - opinion",
       "source": "Jerusalem Post",
       "country": "Iran",
       "url": "https://www.jpost.com/opinion/article-896203",
       "published_date": "2026-05-14T13:00:00+00:00"
+    },
+    {
+      "title": "A bombshell leak threatens Flávio Bolsonaro’s election bid - The Economist",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3VBVEVfQTJMMG1KRWY4dU5DbXR4YzdqVzJrOG1jTlZHV0hON1lzcnNxZHF1cHQwOWdJU0pVckZjVFd5T1JLS0hCdkZwUUFzZmVucnlGVnJXdjkxTjdxTEIyYU9QOGpkNWF0VnBuak9xVDVxdGRIemxQRHRXUU9FS1NWVzRXMGZiZkRhdkRiRnNhOXJqZGQ2cjk5NkpIaDhldnNlakI1OG5DWEU?oc=5",
+      "published_date": "2026-05-14T12:55:15+00:00"
+    },
+    {
+      "title": "UK health minister quits, calls for leadership contest to oust PM Starmer",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3353599/uk-health-minister-quits-calls-leadership-contest-oust-pm-starmer?utm_source=rss_feed",
+      "published_date": "2026-05-14T12:49:31+00:00"
+    },
+    {
+      "title": "UK health minister Wes Streeting resigns, saying he has lost confidence in Starmer",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/05/14/uk-health-minister-wes-streeting-resigns-saying-he-has-lost-confidence-in-starmer",
+      "published_date": "2026-05-14T12:30:26+00:00"
     },
     {
       "title": "Appeals court halts ex-President Yoon's insurrection trial after recusal request",
@@ -93,6 +254,13 @@
       "country": "United Kingdom",
       "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
       "published_date": "2026-05-14T12:01:48+00:00"
+    },
+    {
+      "title": "How the RN lost Villers-Cotterêts, the only town not retained in the 2026 municipal elections",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/14/comment-le-rn-a-perdu-villers-cotterets-seule-ville-non-conservee-par-le-parti-d-extreme-droite-lors-des-municipales-2026_6689074_823448.html",
+      "published_date": "2026-05-14T12:00:00+00:00"
     },
     {
       "title": "Former Bryansk Region governor becomes a State Duma deputy — the day after resigning as governor.",
@@ -125,7 +293,7 @@
     {
       "title": "Latvia’s Prime Minister resigns over Ukraine-Russia drone incidents",
       "source": "The Independent UK",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.independent.co.uk/news/world/europe/latvia-evika-silina-resign-ukraine-b2976386.html",
       "published_date": "2026-05-14T09:34:57+00:00"
     },
@@ -181,7 +349,7 @@
     {
       "title": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
       "source": "CBC News World",
-      "country": "Armenia",
+      "country": "Canada",
       "url": "https://www.cbc.ca/news/politics/cbc-ca-politics-armenia-elections-canada-9.7198559?cmp=rss",
       "published_date": "2026-05-14T04:00:00+00:00"
     },
@@ -2802,146 +2970,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/election-2026-live-updates-eci-bengal-tamil-nadu-tvk-vijay-mamata-tmc-bjp-kerala-assam-exit-poll-evm-tampering-results-101777596124838.html",
       "published_date": "2026-05-01T01:05:48+00:00"
-    },
-    {
-      "title": "Elections Committee head Orly Ades steps down after 16 years, half a year before Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-894800",
-      "published_date": "2026-04-30T22:47:25+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
-      "published_date": "2026-04-30T20:32:07+00:00"
-    },
-    {
-      "title": "Jury of Italy's Venice Biennale resigns over Russia row",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/jury-of-italy-s-venice-biennale-resigns-over-russia-row",
-      "published_date": "2026-04-30T19:44:02+00:00"
-    },
-    {
-      "title": "New Details: How the Mossad Wanted to Overthrow the Iranian Regime",
-      "source": "FAZ Germany",
-      "country": "Iran",
-      "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-wie-der-mossad-das-iranische-regime-stuerzen-wollte-200786303.html",
-      "published_date": "2026-04-30T19:08:43+00:00"
-    },
-    {
-      "title": "Venice Biennale's international jury resigns as Italy's government opposes Russia's participation",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa",
-      "published_date": "2026-04-30T18:53:54+00:00"
-    },
-    {
-      "title": "Vedomosti reports Russia’s former deputy natural resources minister left for US after resigning",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/04/30/vedomosti-reports-russia-s-former-deputy-natural-resources-minister-left-for-us-after-resigning",
-      "published_date": "2026-04-30T18:31:04+00:00"
-    },
-    {
-      "title": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
-      "source": "NPR World",
-      "country": "Myanmar",
-      "url": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger",
-      "published_date": "2026-04-30T17:26:23+00:00"
-    },
-    {
-      "title": "Key pollster skips, most predict BJP win, Mamata says guard EVMs: The Bengal exit poll knot",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/key-pollster-skips-most-predict-bjp-win-mamata-banerjee-says-guard-evms-bengal-exit-poll-knot-tmc-101777566509152.html",
-      "published_date": "2026-04-30T17:01:28+00:00"
-    },
-    {
-      "title": "Venice Biennale: the jury resigns, after the controversy over Russia's participation",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/30/biennale-de-venise-le-jury-demissionne-apres-la-polemique-sur-la-participation-de-la-russie_6684643_3246.html",
-      "published_date": "2026-04-30T16:53:35+00:00"
-    },
-    {
-      "title": "Iran targets long-standing exiled opposition as war deepens repression",
-      "source": "RFI English",
-      "country": "Iran",
-      "url": "https://www.rfi.fr/en/international/20260430-iran-executions-target-old-exiled-opposition-as-war-deepens-repression-mek",
-      "published_date": "2026-04-30T16:11:26+00:00"
-    },
-    {
-      "title": "'Damage control mode': Reputations of Mali junta & Russian mercenaries 'hang in balance'",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/damage-control-mode-reputations-of-mali-junta-russian-mercenaries-hang-in-balance",
-      "published_date": "2026-04-30T15:59:10+00:00"
-    },
-    {
-      "title": "Mali’s junta asked Russians to bring order. Militants just stormed in. - The Washington Post",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZWtROVBxYXhpUnlCWkpHVmlfMlJpaWJ3NllLOHM4WDdrZThNdmNDaTZBRmczS2oyQmt2UWt5NGRJZlhkalJrY29QM0NaVDYtY19tYWZST0lhMXB3NFY4dzlORHFqaWlra01DMFAyQTZnYzhPZFJQejZR?oc=5",
-      "published_date": "2026-04-30T15:56:49+00:00"
-    },
-    {
-      "title": "Dagestan Head Sergei Melikov Will Step Down in September, Putin Says",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/04/30/dagestan-head-sergei-melikov-will-step-down-in-september-putin-says-a92653",
-      "published_date": "2026-04-30T15:56:00+00:00"
-    },
-    {
-      "title": "Damascus makes global history in Zulia: inaugurates the largest store in the world and celebrates mothers with a mega concert",
-      "source": "El Nacional Venezuela",
-      "country": "Syria",
-      "url": "https://www.elnacional.com/2026/04/damasco-hace-historia-global-en-el-zulia-inaugura-la-tienda-mas-grande-del-mundo-y-celebra-a-las-madres-con-un-mega-concierto/",
-      "published_date": "2026-04-30T14:35:07+00:00"
-    },
-    {
-      "title": "Why Axis My India won't release Bengal exit poll results: ‘Respondent hesitancy, high refusal'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/why-axis-my-india-wont-release-bengal-exit-poll-results-respondent-hesitancy-high-refusal-101777553596374.html",
-      "published_date": "2026-04-30T13:48:28+00:00"
-    },
-    {
-      "title": "Iran supreme leader issues defiant statement on strait of Hormuz",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/30/iran-supreme-leader-issues-defiant-statement-on-strait-of-hormuz",
-      "published_date": "2026-04-30T13:34:21+00:00"
-    },
-    {
-      "title": "Alcolumbre aims for re-election by rejecting Messias and reacts to what he says he sees as the ingratitude of the Lula government",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/alcolumbre-mira-reeleicao-ao-rejeitar-messias-e-reage-ao-que-diz-ver-como-ingratidao-do-governo-lula.shtml",
-      "published_date": "2026-04-30T13:31:00+00:00"
-    },
-    {
-      "title": "In fresh message, Iran's Supreme Leader Ayatollah Mojtaba Khamenei defies US naval blockade",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade",
-      "published_date": "2026-04-30T13:10:56+00:00"
-    },
-    {
-      "title": "Iran Supreme Leader says foreigners with greed belong at ‘bottom of its waters’",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/mojtaba-khamenei-persian-gulf-day-statement-strait-of-hormuz-us-defeat-trump-10664317/",
-      "published_date": "2026-04-30T12:52:10+00:00"
-    },
-    {
-      "title": "Zelensky signs laws extending martial law and general mobilization in Ukraine",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4118293-zelensky-signs-laws-extending-martial-law-and-general-mobilization-in-ukraine.html",
-      "published_date": "2026-04-30T12:33:00+00:00"
     }
   ]
 }
