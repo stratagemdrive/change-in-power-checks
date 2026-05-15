@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-15T12:58:04.085609+00:00",
-    "story_count": 415,
+    "last_updated": "2026-05-15T23:52:35.410882+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "They confirm that the leftist candidate Roberto Sánchez will be Keiko Fujimori's rival in the runoff in Peru",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/confirman-que-el-candidato-de-izquierda-roberto-sanchez-sera-el-rival-de-keiko-fujimori-en-el-nid15052026/",
+      "published_date": "2026-05-15T20:59:30+00:00"
+    },
+    {
+      "title": "Registrar would not have been invited to the meeting that President Gustavo Petro held in Casa de Nariño to talk about elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registrador-no-habria-sido-invitado-a-la-reunion-que-hizo-el-presidente-gustavo-petro-en-casa-de-narino-para-hablar-de-elecciones-3555881",
+      "published_date": "2026-05-15T18:01:24+00:00"
+    },
+    {
+      "title": "Peru’s leftist Sanchez to face Fujimori in presidential run-off",
+      "source": "South China Morning Post",
+      "country": "Peru",
+      "url": "https://www.scmp.com/news/world/americas/article/3353775/perus-leftist-sanchez-face-fujimori-presidential-run?utm_source=rss_feed",
+      "published_date": "2026-05-15T17:15:27+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Ethiopia revokes Sudanese ambassador-designate’s credentials | Juba asks Cairo to evacuate military base near Ethiopian border as preemptive move | Another Mahamid field commander defects from RSF | RSF aid coordination authority orders agencies to register, Khartoum warns against compliance",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/05/15/news/u/sudan-nashra-ethiopia-revokes-sudanese-ambassador-designates-credentials-juba-asks-cairo-to-evacuate-military-base-near-ethiopian-border-as-preemptive-move-another-mahamid-field-commander-defec/",
+      "published_date": "2026-05-15T16:51:50+00:00"
+    },
+    {
+      "title": "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-will-be-india-blocs-pm-candidate-revanth-reddy/article70984564.ece",
+      "published_date": "2026-05-15T16:44:15+00:00"
+    },
+    {
+      "title": "Peru's electoral body completes the vote count a month after the first round and is getting ready to announce the candidates who will go to the runoff",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/organismo-electoral-de-peru-finaliza-el-conteo-de-votos-un-mes-despues-la-primera-vuelta-y-se-alista-para-la-proclamacion-de-los-candidatos-que-iran-al-balotaje/",
+      "published_date": "2026-05-15T16:41:12+00:00"
+    },
+    {
+      "title": "What next for Starmer? Five scenarios in Labour leadership crisis - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3b1pobGd3SDA2TEx4bHowTEhEOTZqek1WcGpYNTRWcU9GTFNLVjRFWVZVdUNGaDFjV2wzYUpnTkY4enEwR2QyaGwtVkhjZzRTUEIxZEx5SHZ6QQ?oc=5",
+      "published_date": "2026-05-15T14:40:11+00:00"
+    },
+    {
+      "title": "World Bank representatives will visit Caracas to meet with the interim government, according to Bloomberg",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/economia/representantes-del-banco-mundial-visitaran-caracas-para-reunirse-con-el-gobierno-interino-segun-bloomberg/",
+      "published_date": "2026-05-15T13:50:26+00:00"
+    },
+    {
+      "title": "Labor power struggle: The King of the North marches on London",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/grossbritannien-wie-andy-burnham-keir-starmer-beerben-will-200834975.html",
+      "published_date": "2026-05-15T13:02:04+00:00"
+    },
     {
       "title": "Possible contenders in UK Labour Party leadership race",
       "source": "The Punch Nigeria",
@@ -1161,7 +1224,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2914,55 +2977,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bengal-election-2026-live-updates-voting-percentage-magrahat-paschim-diamond-harbour-falta-tmc-mamata-bjp-eci-evm-booths-101777682455033.html",
       "published_date": "2026-05-02T01:17:32+00:00"
-    },
-    {
-      "title": "Congressman Mario Díaz-Balart on transition in Venezuela: “The only option is for the process to end in elections”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/congresista-mario-diaz-balart-sobre-transicion-en-venezuela/",
-      "published_date": "2026-05-01T20:37:11+00:00"
-    },
-    {
-      "title": "May 1: in Paris, the left denounces “the breakdown of the social system” one year before the presidential election",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/1er-mai-a-paris-la-gauche-denonce-la-casse-du-systeme-social-a-un-an-de-la-presidentielle-20260501",
-      "published_date": "2026-05-01T20:34:15+00:00"
-    },
-    {
-      "title": "Seremi resignation of National Assets in Tarapacá: it is the nineteenth departure in the Kast government",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/renuncia-seremi-de-bienes-nacionales-en-tarapaca-es-la-decimo-novena-salida-en-gobierno-de-kast/",
-      "published_date": "2026-05-01T19:04:14+00:00"
-    },
-    {
-      "title": "In Mâcon, the traditional RN meeting turns to the presidential election",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/a-macon-le-traditionnel-meeting-du-rn-se-tourne-vers-la-presidentielle-20260501",
-      "published_date": "2026-05-01T17:25:21+00:00"
-    },
-    {
-      "title": "‘Election bill’, says Rahul Gandhi on commercial LPG price hike; Kharge slams ‘anti-labour’ government",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/business/Economy/election-bill-rahul-slams-government-on-commercial-lpg-price-hike/article70928083.ece",
-      "published_date": "2026-05-01T17:17:15+00:00"
-    },
-    {
-      "title": "IDF shifts focus to Iranian nuclear threat as ballistic missiles, regime change fall by the wayside",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-894835",
-      "published_date": "2026-05-01T17:00:08+00:00"
-    },
-    {
-      "title": "US Hormuz coalition 'not in competition' with France-UK proposal, FM says",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/05/01/us-hormuz-coalition-not-in-competition-with-france-uk-proposal-fm-says",
-      "published_date": "2026-05-01T13:07:29+00:00"
     }
   ]
 }
