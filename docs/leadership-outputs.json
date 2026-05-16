@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-15T23:52:35.410882+00:00",
-    "story_count": 417,
+    "last_updated": "2026-05-16T11:53:08.180179+00:00",
+    "story_count": 415,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "In Peru, the left-wing candidate advances to the second round of the presidential election and will face the populist right of Keiko Fujimori",
+      "source": "Le Monde France",
+      "country": "Peru",
+      "url": "https://www.lemonde.fr/international/article/2026/05/16/au-perou-le-candidat-de-gauche-se-hisse-au-second-tour-de-l-election-presidentielle-et-affrontera-la-droite-populiste-de-keiko-fujimori_6689876_3210.html",
+      "published_date": "2026-05-16T10:40:09+00:00"
+    },
+    {
+      "title": "Venezuela does not need another election",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/opinion/venezuela-no-necesita-otra-eleccion/",
+      "published_date": "2026-05-16T10:00:00+00:00"
+    },
+    {
+      "title": "UK leadership crisis deepens: Starmer faces growing calls to step down",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/uk-leadership-crisis-deepens-starmer-faces-growing-calls-to-step-down",
+      "published_date": "2026-05-16T08:45:01+00:00"
+    },
+    {
+      "title": "Renho suffers upset loss in CDP Tokyo chapter leadership race",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/05/16/japan/politics/renho-loss-tokyo-leadership-race/",
+      "published_date": "2026-05-16T07:55:00+00:00"
+    },
+    {
+      "title": "PM Modi’s call amid West Asia crisis | Online meetings, simple functions & curbs in government vehicle usage: Gujarat issues austerity guidelines",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-government-austerity-guidelines-west-asia-crisis-jitu-vaghani-fuel-curbs-10692124/",
+      "published_date": "2026-05-16T03:23:18+00:00"
+    },
     {
       "title": "They confirm that the leftist candidate Roberto Sánchez will be Keiko Fujimori's rival in the runoff in Peru",
       "source": "La Nacion Argentina",
@@ -2928,55 +2963,6 @@
       "country": "Russia",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/02/la-russie-alliee-coute-que-coute-du-mali_6684871_3212.html",
       "published_date": "2026-05-02T12:00:11+00:00"
-    },
-    {
-      "title": "Libyan Development & Reconstruction Fund inaugurates Derna’s 2,000 housing project",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/05/libyan-development-reconstruction-fund-inaugurates-dernas-2000-housing-project/",
-      "published_date": "2026-05-02T10:50:58+00:00"
-    },
-    {
-      "title": "Kejriwal resorting to ‘vendetta politics’, says BJP after Punjab Police books defected MP",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kejriwal-resorting-to-vendetta-politics-says-bjp-after-defected-mp-gets-booked-in-punjab/article70931380.ece",
-      "published_date": "2026-05-02T10:35:30+00:00"
-    },
-    {
-      "title": "APC chieftain predicts landslide victory for Tinubu in Kano",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/apc-chieftain-predicts-landslide-victory-for-tinubu-in-kano/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-02T08:17:24+00:00"
-    },
-    {
-      "title": "“They are stealing the elections”: in Armenia, a new Russia-EU duel",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260502-armenie-voler-%C3%A9lections-legislatives-pachinian-nouveau-duel-russie-ue",
-      "published_date": "2026-05-02T07:01:11+00:00"
-    },
-    {
-      "title": "Assembly Elections 2026 Live Updates: BJP, TMC supporters clash in South 24 Parganas; heavy security deployed",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assembly-election-2026-live-updates-wb-repoll-exit-poll-result-date-assam-tamil-nadu-kerala-west-bengal-10667165/",
-      "published_date": "2026-05-02T06:18:53+00:00"
-    },
-    {
-      "title": "Counting gains from Beijing, Taiwanese opposition leader Cheng Li-wun eyes US trip in June",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june?utm_source=rss_feed",
-      "published_date": "2026-05-02T05:00:12+00:00"
-    },
-    {
-      "title": "Bengal election 2026 LIVE: Protests in Falta over TMC ‘threats’, BJP, TMC supporters clash",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bengal-election-2026-live-updates-voting-percentage-magrahat-paschim-diamond-harbour-falta-tmc-mamata-bjp-eci-evm-booths-101777682455033.html",
-      "published_date": "2026-05-02T01:17:32+00:00"
     }
   ]
 }
