@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-16T11:53:08.180179+00:00",
-    "story_count": 415,
+    "last_updated": "2026-05-16T23:49:30.053264+00:00",
+    "story_count": 419,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Two presidential campaign staffers killed in Colombia as elections near",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+      "published_date": "2026-05-16T21:42:04+00:00"
+    },
+    {
+      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election - Al Jazeera",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVdfbDNlNXNHSnZXZ09rM01mRkVHeGFlSzUyRzZ2U2FBR3FlOG9pWWhXbFZTeE9FN2ZRSHRNYWpieFZBd1FseHcxLWhYMmFRNEllaVVXUEx0LXh3Tzl4cFoyblBwbUpocFNjRlZmYldjckNYSV9ZMEowNnVtRV94c2tyLTNHYndaTThqQVNtNjlMT3c1V1FtZDBoNWZ1WWRnUm1PclhrR19iaXAwRlRZbnhn0gG3AUFVX3lxTE53aXpPdjB4eGZwbnpLYmxJd3VuWk1qVzdBb3BINlY5Qmk5V09xS21oWHc4QWhFTG44T18xb0xoRFEzR19UeE5FWHc3TDBrSTBCblZtRFZYdlFtNGdFQ19VT3p5NHpWVzh5TTR1aWlWZmtpWVpqOWlYTUVXZ25XZ2s1dUtvM19xd2xsS1BFNFJ3Wk1TQnB2SFA1R2psWEZOOXJuQ1QyN2VmWkZBRW1TZlVFaEc5UlN4bw?oc=5",
+      "published_date": "2026-05-16T21:07:35+00:00"
+    },
+    {
+      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-16T21:05:10+00:00"
+    },
+    {
+      "title": "The little shop on Jaffa Street that captured old Jerusalem - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-896247",
+      "published_date": "2026-05-16T20:00:30+00:00"
+    },
+    {
+      "title": "Palestinian President Abbas casts vote in decisive Fatah elections",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss",
+      "published_date": "2026-05-16T18:03:38+00:00"
+    },
+    {
+      "title": "Wes Streeting, resigning British health minister, wants to “run” to succeed Keir Starmer",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/05/16/wes-streeting-ministre-de-la-sante-demissionnaire-veut-se-presenter-a-la-succession-de-keir-starmer_6689899_3210.html",
+      "published_date": "2026-05-16T15:49:30+00:00"
+    },
+    {
+      "title": "'Has jhalmuri reached here?': PM Modi's Bengal election quip in Netherlands | Watch",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-bengal-election-quip-in-netherlands-has-jhalmuri-reached-here-101778939285078.html",
+      "published_date": "2026-05-16T15:03:15+00:00"
+    },
+    {
+      "title": "Flávio-Vorcaro case and Lula's arsenal mark the end of the election's warm-up phase",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/caso-flavio-vorcaro-e-arsenal-de-lula-marcam-fim-da-fase-de-aquecimento-da-eleicao.shtml",
+      "published_date": "2026-05-16T15:03:00+00:00"
+    },
+    {
+      "title": "PM Modi warns of ‘return of massive poverty’, flags ‘disaster decade’ of Covid, wars, fuel crisis",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-warns-of-return-of-poverty-lists-covid-wars-energy-crisis-as-global-dangers-101778942352877.html",
+      "published_date": "2026-05-16T14:51:19+00:00"
+    },
+    {
+      "title": "Bengal’s 93.71% turnout highest in any Assembly, Lok Sabha polls: Election Commission data",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-record-turnout-independence-election-commission-sir-voter-deletions-supreme-court-10693092/",
+      "published_date": "2026-05-16T14:36:55+00:00"
+    },
+    {
+      "title": "Rahul Gandhi demands education minister’s resignation over NEET paper leak",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-demands-education-minister-s-resignation-over-neet-paper-leak-101778942129100.html",
+      "published_date": "2026-05-16T14:35:28+00:00"
+    },
     {
       "title": "In Peru, the left-wing candidate advances to the second round of the presidential election and will face the populist right of Keiko Fujimori",
       "source": "Le Monde France",
@@ -2914,55 +2991,6 @@
       "country": "Japan",
       "url": "https://www.japantimes.co.jp/news/2026/05/03/japan/politics/governors-constitutional-survey/",
       "published_date": "2026-05-03T01:41:00+00:00"
-    },
-    {
-      "title": "A new wave of guerrilla violence shakes Colombia in the run-up to the elections",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/una-nueva-ola-de-violencia-guerrillera-sacude-a-colombia-en-la-antesala-de-las-elecciones-nid02052026/",
-      "published_date": "2026-05-02T18:01:28+00:00"
-    },
-    {
-      "title": "Ukrainian military debunks Russian claim of capturing Myropillia in Sumy region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4119025-ukrainian-military-debunks-russian-claim-of-capturing-myropillia-in-sumy-region.html",
-      "published_date": "2026-05-02T17:38:00+00:00"
-    },
-    {
-      "title": "Mexican governor indicted by US steps down",
-      "source": "Deutsche Welle English",
-      "country": "Mexico",
-      "url": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-02T16:40:00+00:00"
-    },
-    {
-      "title": "Zelensky announces upcoming government reshuffle, decisions expected next week",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4119009-zelensky-announces-upcoming-government-reshuffle-decisions-expected-next-week.html",
-      "published_date": "2026-05-02T16:07:00+00:00"
-    },
-    {
-      "title": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
-      "source": "Al Jazeera English",
-      "country": "Mexico",
-      "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss",
-      "published_date": "2026-05-02T15:52:31+00:00"
-    },
-    {
-      "title": "Mexican governor resigns from role days after US accuses him of Sinaloa Cartel ties",
-      "source": "The Independent UK",
-      "country": "Mexico",
-      "url": "https://www.independent.co.uk/news/world/americas/ruben-rocha-sinaloa-cartel-governor-resignation-b2969475.html",
-      "published_date": "2026-05-02T14:59:29+00:00"
-    },
-    {
-      "title": "Mali: Russia, allied at all costs to the military junta",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/02/la-russie-alliee-coute-que-coute-du-mali_6684871_3212.html",
-      "published_date": "2026-05-02T12:00:11+00:00"
     }
   ]
 }
