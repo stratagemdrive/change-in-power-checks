@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-17T12:03:32.837301+00:00",
-    "story_count": 422,
+    "last_updated": "2026-05-17T23:57:37.453532+00:00",
+    "story_count": 420,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei defended Espert, the deputy who resigned his candidacy due to his links with Machado",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-defendio-a-espert-el-diputado-que-renuncio-a-su-candidatura-por-sus-vinculos-con-nid17052026/",
+      "published_date": "2026-05-17T23:51:47+00:00"
+    },
+    {
+      "title": "What motivated Chinese-born Uyghers to fight in Syria's civil war",
+      "source": "NPR World",
+      "country": "Syria",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5550919/what-motivated-chinese-born-uyghers-to-fight-in-syrias-civil-war",
+      "published_date": "2026-05-17T21:45:01+00:00"
+    },
+    {
+      "title": "The Labor parties that are emerging as Starmer's successors in the event of the British premier's resignation",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/los-laboristas-que-se-perfilan-como-sucesores-de-starmer-ante-eventual-dimision-del-premier-britanico/",
+      "published_date": "2026-05-17T21:27:36+00:00"
+    },
+    {
+      "title": "‘Lack of understanding’: MEA rejects Dutch PM’s remarks on press freedom, minority rights in India",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/lack-of-understanding-mea-rejects-dutch-pms-remarks-on-press-freedom-minority-rights-in-india-10694790/",
+      "published_date": "2026-05-17T21:26:01+00:00"
+    },
+    {
+      "title": "Runoff between Fujimori and Sánchez is made official in Peru: former candidate López will seek annulment of the results",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/se-oficializa-balotaje-entre-fujimori-y-sanchez-excandidato-lopez-buscara-nulidad-de-los-resultados/",
+      "published_date": "2026-05-17T18:38:15+00:00"
+    },
+    {
+      "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss",
+      "published_date": "2026-05-17T18:29:29+00:00"
+    },
+    {
+      "title": "Guillaume Tabard: “The RN and the LFI threat of an insurrection”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/guillaume-tabard-le-rn-et-la-menace-lfi-d-une-insurrection-20260517",
+      "published_date": "2026-05-17T18:26:37+00:00"
+    },
+    {
+      "title": "Peru: Electoral authority finally makes the runoff between Keiko Fujimori and Roberto Sánchez official",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/peru-autoridad-electoral-oficializa-finalmente-el-balotaje-entre-keiko-fujimori-y-roberto-sanchez/",
+      "published_date": "2026-05-17T17:51:32+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: The AfD's dishonest game",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-ein-unredliches-spiel-200840347.html",
+      "published_date": "2026-05-17T17:35:33+00:00"
+    },
+    {
+      "title": "As coalition collapses around him, Netanyahu revives Haredi draft exemption bill - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDhUVVItLUplVmlvaEhnblRXWFVLTFR6RHYwVHRrQXc3dVFPSkFwNnpfaUxuQmgwUXBaLTVGV21IczVTM0xsSER6SkFKY0JLNlduQXMzMmVCQmVjc3pqVng1ZDVzTUVESS1vSnZETkxGNTVQOE8wUE5yWUxEc2JVMEpJUkllZjM1eWJkT3JQX0V2M294VHpkZ1Z2YnN0ZHJoNDZyMURZd0pEc2gzd0Ew0gG0AUFVX3lxTE9sd0xNcEdPY2dMRXFxMk5taVRESmR2QmRxVzNtTEl2N291Y21DMncxbS1KNDhfT2pIZS1XemZucVA3bW5fR2MyMmx0cVdkRXpnRjlCdmZ0Z2pjU3BFZHd1dHpZaFh5RTNscHdEQ3BUNWYzeDdRR0dLYVVYcXdUQ1dkbTN1RXJrQXpLSGI5QVhMRGxCdGFzd3llcXhfZFJpZk1nV0VyZ3FYSktjZG1IeE9SR0d3dw?oc=5",
+      "published_date": "2026-05-17T13:54:46+00:00"
+    },
+    {
+      "title": "UK leadership crisis: ‘Keir Starmer is a lame duck Prime Minister’ says former Labour adviser",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser",
+      "published_date": "2026-05-17T13:22:01+00:00"
+    },
     {
       "title": "The Palestinian Fatah party held elections, is a ‘new’ leadership emerging? - analysis",
       "source": "Jerusalem Post",
@@ -72,6 +149,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896436",
       "published_date": "2026-05-17T13:05:44+00:00"
+    },
+    {
+      "title": "Saxony-Anhalt: Minister warns of “coup” by the AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/ausland/afd-in-sachsen-anhalt-minister-warnt-vor-staatsstreich-accg-200839793.html",
+      "published_date": "2026-05-17T12:16:00+00:00"
     },
     {
       "title": "Hamas leadership elections end without political leader selection, promises future vote",
@@ -2914,104 +2998,6 @@
       "country": "Colombia",
       "url": "https://www.latercera.com/editorial/noticia/elecciones-presidenciales-en-colombia/",
       "published_date": "2026-05-04T00:30:00+00:00"
-    },
-    {
-      "title": "Table tennis worlds: the Blues overthrow Japan thanks to a comeback inspired by Flavien Coton",
-      "source": "Le Monde France",
-      "country": "Japan",
-      "url": "https://www.lemonde.fr/sport/article/2026/05/04/mondiaux-de-tennis-de-table-les-bleus-renversent-le-japon-grace-a-une-remontee-insufflee-par-flavien-coton_6685258_3242.html",
-      "published_date": "2026-05-03T23:09:15+00:00"
-    },
-    {
-      "title": "Nsukka district endorses Tinubu, Mbah for 2027 election",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/promoted/876726-nsukka-district-endorses-tinubu-mbah-for-2027-election.html",
-      "published_date": "2026-05-03T23:07:51+00:00"
-    },
-    {
-      "title": "French hard-left politician Mélenchon to stand in 2027 presidential election",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260503-french-hard-left-politician-m%C3%A9lenchon-to-stand-in-2027-presidential-election",
-      "published_date": "2026-05-03T22:22:15+00:00"
-    },
-    {
-      "title": "Electoral reform: in the negotiations of the Casa Rosada with the governors, they begin to carve the candidacies for 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/reforma-electoral-en-las-negociaciones-de-la-casa-rosada-con-los-gobernadores-empiezan-a-tallar-las-nid03052026/",
-      "published_date": "2026-05-03T20:58:15+00:00"
-    },
-    {
-      "title": "French hard-left politician Melenchon to stand in 2027 presidential election",
-      "source": "South China Morning Post",
-      "country": "France",
-      "url": "https://www.scmp.com/news/world/europe/article/3352293/french-hard-left-politician-melenchon-stand-2027-presidential-election?utm_source=rss_feed",
-      "published_date": "2026-05-03T19:38:38+00:00"
-    },
-    {
-      "title": "LFI's Mélenchon to stand in 2027 French presidential election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260503-lfi-s-m%C3%A9lenchon-to-stand-in-2027-french-presidential-election",
-      "published_date": "2026-05-03T18:59:50+00:00"
-    },
-    {
-      "title": "Jean-Luc Mélenchon (LFI) formalizes his candidacy for the 2027 presidential election",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/france/20260503-jean-luc-m%C3%A9lenchon-lfi-officialise-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027",
-      "published_date": "2026-05-03T18:33:24+00:00"
-    },
-    {
-      "title": "Jean-Luc Mélenchon announces that he is a candidate for the presidential election for the fourth time, on an increasingly “anti-system” line.",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/03/jean-luc-melenchon-annonce-etre-candidat-a-l-election-presidentielle-pour-la-quatrieme-fois-sur-une-ligne-toujours-plus-antisysteme_6685247_823448.html",
-      "published_date": "2026-05-03T18:33:11+00:00"
-    },
-    {
-      "title": "Assam election verdict: Congress hopes to stop BJP run",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-elections-results-bjp-congress-counting-on-may-4/article70934538.ece",
-      "published_date": "2026-05-03T17:54:19+00:00"
-    },
-    {
-      "title": "President Gustavo Petro links passport contract with guarantees for the 2026 elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/el-presidente-gustavo-petro-vincula-contrato-de-pasaportes-con-garantias-para-las-elecciones-de-3552713",
-      "published_date": "2026-05-03T17:03:15+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro seals rapprochement with Silas Malafaia and supports the election at a cult in Rio",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-sela-reaproximacao-com-silas-malafaia-e-apoio-na-eleicao-em-culto-no-rio.shtml",
-      "published_date": "2026-05-03T16:31:00+00:00"
-    },
-    {
-      "title": "Crisis with Iran places Trump before a key decision before the midterm elections",
-      "source": "El Nacional Venezuela",
-      "country": "Iran",
-      "url": "https://www.elnacional.com/2026/05/crisis-con-iran-coloca-a-trump-ante-una-decision-clave/",
-      "published_date": "2026-05-03T14:49:19+00:00"
-    },
-    {
-      "title": "Colombia's electoral body is considering withdrawing the registration of the right-wing candidate De la Espriella for the May presidential elections",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/organismo-electoral-de-colombia-baraja-retirar-la-inscripcion-del-candidato-derechista-de-la-espriella-a-las-presidenciales-de-mayo/",
-      "published_date": "2026-05-03T13:55:12+00:00"
-    },
-    {
-      "title": "Two captured Gaza aid flotilla activists appear in Israeli court",
-      "source": "La Tercera Chile",
-      "country": "Palestine",
-      "url": "https://www.latercera.com/mundo/noticia/dos-activistas-de-la-flotilla-de-ayuda-a-gaza-capturados-comparecen-ante-un-tribunal-israeli/",
-      "published_date": "2026-05-03T13:38:12+00:00"
     }
   ]
 }
