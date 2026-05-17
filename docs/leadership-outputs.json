@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-16T23:49:30.053264+00:00",
-    "story_count": 419,
+    "last_updated": "2026-05-17T12:03:32.837301+00:00",
+    "story_count": 422,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "The Palestinian Fatah party held elections, is a ‘new’ leadership emerging? - analysis",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-896439",
+      "published_date": "2026-05-17T13:19:34+00:00"
+    },
+    {
+      "title": "Former interior minister Moshe Arbel announces his resignation from Knesset",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896436",
+      "published_date": "2026-05-17T13:05:44+00:00"
+    },
+    {
+      "title": "Hamas leadership elections end without political leader selection, promises future vote",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-896418",
+      "published_date": "2026-05-17T11:12:07+00:00"
+    },
+    {
+      "title": "India pushes back on minority rights question during PM Modi's Netherlands trip: ‘Lack of understanding’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-pushes-back-on-minority-rights-question-during-pm-modis-netherlands-trip-lack-of-understanding-101779006434581.html",
+      "published_date": "2026-05-17T08:42:41+00:00"
+    },
+    {
+      "title": "First Phase projects in Benghazi’s Julyana district inaugurated – including five bridges",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/05/first-phase-projects-in-benghazis-julyana-district-inaugurated-including-five-bridges/",
+      "published_date": "2026-05-17T08:00:11+00:00"
+    },
+    {
+      "title": "Could a leadership change undo Israel’s international isolation?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss",
+      "published_date": "2026-05-17T07:20:07+00:00"
+    },
+    {
+      "title": "Men on motorcycles shoot Colombian presidential candidate's staff",
+      "source": "DR News Denmark",
+      "country": "Colombia",
+      "url": "https://www.dr.dk/nyheder/seneste/maend-paa-motorcykler-skyder-colombiansk-praesidentkandidats-medarbejdere",
+      "published_date": "2026-05-17T03:34:00+00:00"
+    },
+    {
+      "title": "Lula reacts in his search for re-election with a package of benefits and sees if Master corners his opponents",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-reage-na-busca-por-reeleicao-com-pacote-de-benesses-e-ve-caso-master-acuar-adversarios.shtml",
+      "published_date": "2026-05-17T02:00:00+00:00"
+    },
+    {
+      "title": "Keir Starmer could resign soon, report says UK PM 'ready to step down' amid growing turmoil | World News - Hindustan Times",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVlA3N25PMEp0Q0o2NUh5aHNjNHR3Y1MzNzRxeG5qaV83ZFdyckZmb0xOR1dSSEhGdDVOb3E5Q3dfRVFrN01SanhETTJjS1hpblc1cnNNWHB5NDNfZGVJbUlPQk9RYkQxVUZ6TTZHdHFyOWs0SUhRd2lWSmRLTEw0SVJDREhlVGNINXY5T3NiSFFfaUp2ajExa1JSS0x5SWhLMmRXenk5WUcySXZnbHpQZ3ppMFQyclNia2RSMkpUTHY1T2pWdEtuMXZhcmV3cTJsZXAwOUIxUUY0MmluQVFfck5GWjFLTmZtR09XbmJUeHFMVU4zWUpUTGVJVkY4d9IBgwJBVV95cUxPdUkzQ1l6LW5POU5MMUdWOXdYdTNWelVNSzRCYmRneTVvNUVNTjBSMEhrUk5YaEtKR1I2VGpuRVh1SDNzREJ1TmN5NnM3N1B4endJdFV5c2ZOZ0k0RllBbzd0SG9KNkRISTZjWlp4ZERMNjkwTVZ6NmRGVWxHcHNmMTYyck56c1JGblVJRWU0UlJjdjYwSlQwRlJkY29NNlFkcHo0OExzYU82VkZwSnpQM2dzZ01TMW5pOEFocDQ1amN5bnJJZFd2anRTT1BqYngtUWpBTEJMd0tTNVpDT2s2dkZDdTVhOWRoYkk4YTFqb2wybTBuaHhDTk9vT3JOX005RnBR?oc=5",
+      "published_date": "2026-05-16T22:02:51+00:00"
+    },
     {
       "title": "Two presidential campaign staffers killed in Colombia as elections near",
       "source": "Al Jazeera English",
@@ -1336,7 +1399,7 @@
     {
       "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
       "published_date": "2026-05-11T09:18:02+00:00"
     },
@@ -2949,48 +3012,6 @@
       "country": "Palestine",
       "url": "https://www.latercera.com/mundo/noticia/dos-activistas-de-la-flotilla-de-ayuda-a-gaza-capturados-comparecen-ante-un-tribunal-israeli/",
       "published_date": "2026-05-03T13:38:12+00:00"
-    },
-    {
-      "title": "Tinubu will lose only if election is held on social media – Gov  Uba Sani",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubu-will-lose-only-if-election-is-held-on-social-media-gov-uba-sani/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-03T11:54:24+00:00"
-    },
-    {
-      "title": "Lula is exposed after two historic defeats and enters his most vulnerable moment in the run-up to the elections",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/lula-queda-expuesto-tras-dos-derrotas-historicas-y-entra-en-su-momento-mas-vulnerable-en-la-antesala-nid03052026/",
-      "published_date": "2026-05-03T06:00:00+00:00"
-    },
-    {
-      "title": "Election 2026 highlights: ‘Phone found in envelope’ in Asansol sparks TMC-BJP row ahead of counting",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-election-2026-live-results-eci-west-bengal-falta-tamil-nadu-kerala-assam-puducherry-eci-results-news-101777782086681.html",
-      "published_date": "2026-05-03T04:50:02+00:00"
-    },
-    {
-      "title": "“We have received many good letters in Argentina to play the game,” says the new president of ACDE",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/hemos-recibido-muchas-cartas-buenas-en-la-argentina-para-jugar-el-juego-afirma-el-nuevo-presidente-nid03052026/",
-      "published_date": "2026-05-03T03:01:00+00:00"
-    },
-    {
-      "title": "Lula tests motto for re-election while accumulating setbacks in Congress",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-testa-mote-para-reeleicao-enquanto-acumula-tropecos-no-congresso.shtml",
-      "published_date": "2026-05-03T02:00:00+00:00"
-    },
-    {
-      "title": "18 governors in Japan see need for constitutional revision",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/05/03/japan/politics/governors-constitutional-survey/",
-      "published_date": "2026-05-03T01:41:00+00:00"
     }
   ]
 }
