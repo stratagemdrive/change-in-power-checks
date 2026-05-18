@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-17T23:57:37.453532+00:00",
-    "story_count": 420,
+    "last_updated": "2026-05-18T14:33:56.802345+00:00",
+    "story_count": 397,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,53 @@
   },
   "stories": [
     {
+      "title": "Brexit slides into Labor crisis as potential Starmer successor suggests return to bloc",
+      "source": "La Nacion Argentina",
+      "country": "United Kingdom",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-brexit-se-mete-en-la-crisis-del-partido-laborista-mientras-un-posible-sucesor-de-starmer-sugiere-nid18052026/",
+      "published_date": "2026-05-18T14:16:58+00:00"
+    },
+    {
+      "title": "Gunba focuses on economy and Russian relations in first major press conference since 2025 election",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/gunba-focuses-on-economy-and-russian-relations-in-first-major-press-conference-since-2025-election/",
+      "published_date": "2026-05-18T13:25:04+00:00"
+    },
+    {
       "title": "Javier Milei defended Espert, the deputy who resigned his candidacy due to his links with Machado",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-defendio-a-espert-el-diputado-que-renuncio-a-su-candidatura-por-sus-vinculos-con-nid17052026/",
-      "published_date": "2026-05-17T23:51:47+00:00"
+      "published_date": "2026-05-18T12:41:31+00:00"
+    },
+    {
+      "title": "What did Dutch PM Rob Jetten say on minority rights in India",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/modi-netherlands-visit-minority-rights-press-freedom-remarks-10695945/",
+      "published_date": "2026-05-18T11:28:27+00:00"
+    },
+    {
+      "title": "Peru's electoral board confirms June 7 presidential runoff",
+      "source": "NPR World",
+      "country": "Peru",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122536/peru-presidential-runoff",
+      "published_date": "2026-05-18T05:50:23+00:00"
+    },
+    {
+      "title": "Peru's electoral board confirms June 7 presidential runoff - NPR",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oUWVWQUxSVmpWX2FDZmtrVFExazdxSDhOa0M2dHZqRy1xc3BQNmo1U2MzUGFKYUw0ay13WXFxNmpMckdkb01sRWZ2UC1VVU55Q2JfN1BFSkR5TTZnQ3UzeVhDcTQzd19zUEotWmRiMWgtZ2l4V0E?oc=5",
+      "published_date": "2026-05-18T05:50:23+00:00"
+    },
+    {
+      "title": "Fujimori and Sanchez officially declared Peru’s runoff candidates",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/05/18/world/politics/fujimori-sanchez-peru-runoff/",
+      "published_date": "2026-05-18T02:20:00+00:00"
     },
     {
       "title": "What motivated Chinese-born Uyghers to fight in Syria's civil war",
@@ -2795,209 +2837,6 @@
       "country": "India",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3352407/india-pm-modis-party-takes-control-west-bengal-key-state-election?utm_source=rss_feed",
       "published_date": "2026-05-04T15:22:27+00:00"
-    },
-    {
-      "title": "June 3 elections take shape: DPK’s presidential aides vs. PPP's incumbents",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents?utm_source=rss",
-      "published_date": "2026-05-04T12:22:03+00:00"
-    },
-    {
-      "title": "Kerala Election Results 2026 LIVE: UDF wave sweeps Kerala; BJP wins 3 seats; CPI(M) says will 'make corrections'",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-election-results-live-updates-4-may-2026/article70935144.ece",
-      "published_date": "2026-05-04T12:13:51+00:00"
-    },
-    {
-      "title": "Yan Huichang to step down as head of Hong Kong Chinese Orchestra after 30-year run",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3352386/yan-huichang-step-down-head-hong-kong-chinese-orchestra-after-30-year-run?utm_source=rss_feed",
-      "published_date": "2026-05-04T11:10:58+00:00"
-    },
-    {
-      "title": "Money, power, exile: Inside an Iranian exile’s war on regime-linked wealth in Canada",
-      "source": "Jerusalem Post",
-      "country": "Canada",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-895047",
-      "published_date": "2026-05-04T11:05:20+00:00"
-    },
-    {
-      "title": "Assam Assembly election results 2026: BJP wins three seats, leads in 78",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-election-results-bjp-congress-early-trends-key-candidates-status/article70937597.ece",
-      "published_date": "2026-05-04T10:57:50+00:00"
-    },
-    {
-      "title": "Election 2027 in France: A candidate who wants to score points with hatred of Israel",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/melenchon-kandidiert-fuer-praesidentschaftswahl-in-frankreich-accg-200795235.html",
-      "published_date": "2026-05-04T10:35:38+00:00"
-    },
-    {
-      "title": "Dagestan Leader Steps Down, Putin Names High Court Judge as Successor",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/05/04/dagestan-leader-steps-down-putin-names-high-court-judge-as-successor-a92673",
-      "published_date": "2026-05-04T10:21:00+00:00"
-    },
-    {
-      "title": "BJP eyes historic win in Mamata turf: Full list of winners in West Bengal elections 2026",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-eyes-historic-win-in-mamata-turf-full-list-of-winners-in-west-bengal-elections-2026-101777888911403.html",
-      "published_date": "2026-05-04T10:18:48+00:00"
-    },
-    {
-      "title": "Bypoll election results 2026: BJP wins northeast; Congress takes Karnataka | Full list of winners",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assembly-bypoll-election-2026-results-full-list-of-winners-bjp-congress-ncp-baramati-davanagere-south-101777888434136.html",
-      "published_date": "2026-05-04T10:16:57+00:00"
-    },
-    {
-      "title": "Myanmar junta looks to use trade deals to re-engage with US",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-looks-to-use-trade-deals-to-re-engage-with-us/",
-      "published_date": "2026-05-04T09:40:08+00:00"
-    },
-    {
-      "title": "Do you think that Jean-Luc Mélenchon will be in the second round of the presidential election?",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/pensez-vous-que-jean-luc-melenchon-sera-au-second-tour-de-l-election-presidentielle-20260504",
-      "published_date": "2026-05-04T08:51:15+00:00"
-    },
-    {
-      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says",
-      "source": "Egypt Independent",
-      "country": "Russia",
-      "url": "https://www.egyptindependent.com/unsettled-kremlin-tightens-security-around-putin-amid-assassinations-and-coup-fears-intel-report-says/",
-      "published_date": "2026-05-04T08:26:16+00:00"
-    },
-    {
-      "title": "Vijay's win in Tamil Nadu; Kerala likely to oust LDF, but voters want Pinarayi Vijayan as CM: Axis My India exit poll",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/vijays-win-in-tamil-nadu-kerala-likely-to-oust-ldf-but-voters-want-pinarayi-vijayan-as-cm-axis-my-india-exit-poll-101777879159610.html",
-      "published_date": "2026-05-04T08:22:35+00:00"
-    },
-    {
-      "title": "Azerbaijan’s jailed opposition leader urges West to find ‘courage’ and stand up to regime amid political crackdown",
-      "source": "The Independent UK",
-      "country": "Azerbaijan",
-      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-ali-karimli-uk-oil-gas-exports-b2969967.html",
-      "published_date": "2026-05-04T08:09:28+00:00"
-    },
-    {
-      "title": "Stay at counting centres: Mamata Banerjee's SOS message as BJP leads in Bengal elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/stay-at-counting-centres-mamata-banerjees-sos-message-as-bjp-leads-in-bengal-election-results-101777879079509.html",
-      "published_date": "2026-05-04T07:20:08+00:00"
-    },
-    {
-      "title": "West Bengal election results: Prominent TMC leaders trailing; celebrations start at BJP's Kolkata office",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/prominent-tmc-leaders-trailing-celebrations-start-at-bjp-office-in-kolkata-101777879150191.html",
-      "published_date": "2026-05-04T07:19:09+00:00"
-    },
-    {
-      "title": "Why A. Namassivayam’s Mannadipet re-election is crucial for BJP in Puducherry",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/why-a-namassivayam-s-mannadipet-re-election-is-crucial-for-bjp-in-puducherry-101777446030404.html",
-      "published_date": "2026-05-04T06:50:42+00:00"
-    },
-    {
-      "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-      "source": "Al Jazeera English",
-      "country": "Japan",
-      "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
-      "published_date": "2026-05-04T06:45:13+00:00"
-    },
-    {
-      "title": "Former DGP R Sreelekha nearing big loss from Vattiyoorkavu as BJP candidate in 2026 Kerala elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/former-dgp-r-sreelekha-contests-from-vattiyoorkavu-as-bjp-candidate-in-2026-kerala-elections-101777616352498.html",
-      "published_date": "2026-05-04T06:39:10+00:00"
-    },
-    {
-      "title": "Kerala elections 2026: Pinarayi Vijayan leads against BJP, Congress rivals in Dharmadam. Hat-trick third win likely?",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/kerala-elections-2026-pinarayi-vijayan-trails-behind-bjp-congress-rivals-in-dharmadam-hat-trick-third-win-unlikely-101776680807967.html",
-      "published_date": "2026-05-04T06:16:08+00:00"
-    },
-    {
-      "title": "Unsettled Kremlin tightens security around Putin amid assassinations and coup fears, intel report says - CNN",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXZEdGluRl9UcDR2OHAyUmFXektYTG9kN015cm1sX3cyMGluODRwQ19oYnpLYUNCYzdFUnAxT2ZpbXo5UkE2ZDFJQVBLdWVhbWlHX3Q4eUJGVTJldkZINmJVNFFxWkk3bTBoYllWZFN0UjFvRDFDXzBfMGZtNk95cUtDQQ?oc=5",
-      "published_date": "2026-05-04T04:01:51+00:00"
-    },
-    {
-      "title": "West Bengal Election Results 2026 Winners List: In BJP-vs-TMC fight, Mamata Banerjee leads in her bastion but loses state",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
-      "published_date": "2026-05-04T03:45:44+00:00"
-    },
-    {
-      "title": "Presidential elections stop projects in Congress: criticism from President Petro of low legislative pace",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-frenan-proyectos-en-el-congreso-criticas-del-presidente-petro-a-bajo-ritmo-legislativo-3552786",
-      "published_date": "2026-05-04T03:04:07+00:00"
-    },
-    {
-      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
-      "published_date": "2026-05-04T02:46:41+00:00"
-    },
-    {
-      "title": "Assam Assembly Election Results 2026 Winners: BJP leads with 78 seats, INC in 21— check constituency-wise",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/assam-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10663920/",
-      "published_date": "2026-05-04T02:44:20+00:00"
-    },
-    {
-      "title": "Spanish PM Pedro Sanchez’s plane makes emergency landing in Turkey",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey",
-      "published_date": "2026-05-04T01:24:54+00:00"
-    },
-    {
-      "title": "France: Left-wing populist Mélenchon declares candidacy in the 2027 presidential election",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-linkspopulist-melenchon-erklaert-kandidatur-bei-praesidentschaftswahl-2027-accg-200794395.html",
-      "published_date": "2026-05-04T01:20:52+00:00"
-    },
-    {
-      "title": "Jean-Luc Mélenchon again presidential candidate",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260504-jean-luc-m%C3%A9lenchon-%C3%A0-nouveau-candidat-%C3%A0-la-pr%C3%A9sidentielle",
-      "published_date": "2026-05-04T01:15:17+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/editorial/noticia/elecciones-presidenciales-en-colombia/",
-      "published_date": "2026-05-04T00:30:00+00:00"
     }
   ]
 }
