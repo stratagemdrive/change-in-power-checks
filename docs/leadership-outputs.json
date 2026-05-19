@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-18T14:33:56.802345+00:00",
-    "story_count": 397,
+    "last_updated": "2026-05-19T00:04:59.589264+00:00",
+    "story_count": 390,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "NTK will go it alone in the next Lok Sabha elections: Seeman",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ntk-will-go-it-alone-in-the-next-lok-sabha-elections-seeman/article70995161.ece",
+      "published_date": "2026-05-18T23:22:51+00:00"
+    },
+    {
+      "title": "Is the US trying to force regime change in Cuba?",
+      "source": "Al Jazeera English",
+      "country": "Cuba",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
+      "published_date": "2026-05-18T21:57:08+00:00"
+    },
+    {
+      "title": "In an election year, the Lula government is racing against time to approve adjustments for teachers",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/em-ano-eleitoral-governo-lula-corre-contra-o-tempo-para-aprovar-reajuste-aos-professores.shtml",
+      "published_date": "2026-05-18T20:25:00+00:00"
+    },
+    {
+      "title": "Hamas names former intelligence head Mohammed Ouda as new leader of military wing - report",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-896600",
+      "published_date": "2026-05-18T20:19:53+00:00"
+    },
+    {
+      "title": "Some change, but much more of the same in Palestinian Fatah elections",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/features/2026/5/18/some-change-but-much-more-of-the-same-in-palestinian-fatah-elections?traffic_source=rss",
+      "published_date": "2026-05-18T19:33:52+00:00"
+    },
+    {
+      "title": "Even in Exile, Russia’s Political Opposition Struggles to Rise Above Its Divisions",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/05/18/even-in-exile-russias-political-opposition-struggles-to-rise-above-its-divisions-a92780",
+      "published_date": "2026-05-18T16:28:29+00:00"
+    },
+    {
+      "title": "In an election without party symbols, both BJP & Congress claim victory in Himachal local polls",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-ulb-election-results-bjp-congress-claim-victory-10696348/",
+      "published_date": "2026-05-18T16:17:18+00:00"
+    },
     {
       "title": "Brexit slides into Labor crisis as potential Starmer successor suggests return to bloc",
       "source": "La Nacion Argentina",
@@ -86,6 +135,13 @@
       "country": "India",
       "url": "https://indianexpress.com/article/india/modi-netherlands-visit-minority-rights-press-freedom-remarks-10695945/",
       "published_date": "2026-05-18T11:28:27+00:00"
+    },
+    {
+      "title": "Podcast discusses how Brazilians perceive corruption and the weight of the issue in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/05/podcast-discute-como-brasileiros-percebem-corrupcao-e-peso-do-tema-na-eleicao.shtml",
+      "published_date": "2026-05-18T08:00:00+00:00"
     },
     {
       "title": "Peru's electoral board confirms June 7 presidential runoff",
@@ -1024,6 +1080,13 @@
       "country": "India",
       "url": "https://indianexpress.com/article/political-pulse/inside-the-rss-machine-that-built-the-ground-for-bjps-bengal-triumph-10686425/",
       "published_date": "2026-05-13T02:30:55+00:00"
+    },
+    {
+      "title": "Argentine deputies extend impeachment trial against Milei for risk of joining the intervention in Cuba",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-05-13-u1-e208933-s27061-nid329040-diputados-argentinos-amplian-juicio-politico-contra",
+      "published_date": "2026-05-13T00:52:07+00:00"
     },
     {
       "title": "Keir Starmer and Labour's rebellion: Will his Gordon Brown and Harriet Harman tribute strategy save him from resignation?",
@@ -2725,118 +2788,6 @@
       "country": "Canada",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVElpQV8zaUtTWnRfa3BJcTdrSTFKaUc1Ym0tMks2YjVWZU9QNW51QWNnUy1VWkJWcDN5RnpQZzVfOUwxYm90dTBaaEd0Q1lyc3QwbVZNeVd5NXFNanpvaWlmUGNnZDRTS2tQam5OdTc5RG10U2x2VU9iX1dlQWJWZG5NcGFYeFozSlg5MGF0WDVTR2hRNHE2T1NxajVaeTBrZjRIR0llTER1XzNWWXUzRjBCSHRDNlBkcW1YLUkzcjFFbWpkRHBueF9aRWEtM2NoZk9wSmVtVlNXeW83NS1KcVlLZw?oc=5",
       "published_date": "2026-05-05T00:12:32+00:00"
-    },
-    {
-      "title": "Exile historian talks about secret plan with the US for transition in Cuba",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-05-05-u1-e192519-s27061-nid328090-historico-exilio-habla-plan-secreto-eeuu-transicion",
-      "published_date": "2026-05-04T22:41:07+00:00"
-    },
-    {
-      "title": "Tripura BJP celebrates win in Assembly bye-election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tripura/tripura-bjp-celebrates-win-in-assembly-bye-election/article70938963.ece",
-      "published_date": "2026-05-04T22:20:23+00:00"
-    },
-    {
-      "title": "Assembly elections: Results in four States, U.T. triumph of democracy and Constitution, says Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/pm-modi-bjp-election-results-bengal-assam-puducherry-may-4-2026/article70939219.ece",
-      "published_date": "2026-05-04T22:03:22+00:00"
-    },
-    {
-      "title": "Two defendants admit knowledge of coup attempt against Tinubu in video recordings",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/876965-two-defendants-admit-knowledge-of-coup-attempt-against-tinubu-in-video-recordings.html",
-      "published_date": "2026-05-04T20:27:42+00:00"
-    },
-    {
-      "title": "Modi's party takes control of India's West Bengal in key state election",
-      "source": "NPR World",
-      "country": "India",
-      "url": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election",
-      "published_date": "2026-05-04T20:18:30+00:00"
-    },
-    {
-      "title": "West Bengal election results: Split in Muslim votes spells doom for Trinamool Congress",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-split-in-muslim-votespaves-doom-for-trinamool-congress/article70939839.ece",
-      "published_date": "2026-05-04T19:29:33+00:00"
-    },
-    {
-      "title": "West Bengal election results LIVE: Suvendu defeats Mamata in Bhabanipur; BJP crosses majority mark",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-live-updates-may-4-2026/article70934929.ece",
-      "published_date": "2026-05-04T19:26:20+00:00"
-    },
-    {
-      "title": "Trinamool ousted as BJP sweeps West Bengal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-trinamool-ousted-as-bjp-sweeps-west-bengal/article70939323.ece",
-      "published_date": "2026-05-04T19:15:34+00:00"
-    },
-    {
-      "title": "Elections in Scotland: in Falkirk, Reform UK takes advantage of anti-migrant mobilizations",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/05/04/elections-en-ecosse-a-falkirk-reform-uk-tire-profit-des-mobilisations-antimigrants_6685409_3210.html",
-      "published_date": "2026-05-04T18:30:07+00:00"
-    },
-    {
-      "title": "China’s Ambassador to Libya visits Benghazi on the inauguration of China’s COSCO direct shipping line to the city",
-      "source": "Libya Herald",
-      "country": "China",
-      "url": "https://libyaherald.com/2026/05/chinas-ambassador-to-libya-visits-benghazi-on-the-inauguration-of-chinas-cosco-direct-shipping-line-to-the-city/",
-      "published_date": "2026-05-04T18:25:01+00:00"
-    },
-    {
-      "title": "Assam election results updates: BJP-led NDA secures third straight term",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-results-live-updates-may-4-2026/article70934562.ece",
-      "published_date": "2026-05-04T18:07:27+00:00"
-    },
-    {
-      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time - The New York Times",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0dGUHNqenRiY0dFYkhmRUNjdnZoMWFlX1NObEhnVzRLdDFSU2d1YXVlS0JwNDV5Rkd6ck1MR1k0MVpfMkY3eGF2S25RV3Z2cV93eUJuT19ZNzlOOEdSWWtMbjFUNTh0aWRDZVpRdklEZklBWjFOZ0ZqRFZGVjVkWmY0SWRaS1Vua3l3?oc=5",
-      "published_date": "2026-05-04T17:46:12+00:00"
-    },
-    {
-      "title": "Narendra Modi’s BJP wins election in West Bengal for the first time",
-      "source": "The Guardian World",
-      "country": "India",
-      "url": "https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time",
-      "published_date": "2026-05-04T17:34:24+00:00"
-    },
-    {
-      "title": "Assam, Bengal clear cases of elections being stolen by BJP, claims Rahul Gandhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/assam-bengal-clear-cases-of-elections-being-stolen-by-bjp-claims-rahul-gandhi/article70940214.ece",
-      "published_date": "2026-05-04T17:21:22+00:00"
-    },
-    {
-      "title": "Before the election in France: The danger from the left",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/in-frankreich-laeuft-sich-der-volkstribun-jean-luc-melenchon-warm-200796086.html",
-      "published_date": "2026-05-04T15:37:21+00:00"
-    },
-    {
-      "title": "India PM Modi’s party takes control of West Bengal in key state election",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3352407/india-pm-modis-party-takes-control-west-bengal-key-state-election?utm_source=rss_feed",
-      "published_date": "2026-05-04T15:22:27+00:00"
     }
   ]
 }
