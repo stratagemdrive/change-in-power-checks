@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-19T00:04:59.589264+00:00",
-    "story_count": 390,
+    "last_updated": "2026-05-19T14:00:44.527225+00:00",
+    "story_count": 375,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US, UK arms ban forced Nigeria to buy from Soviets during civil war — Gowon",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/us-uk-arms-ban-forced-nigeria-to-buy-from-soviets-during-civil-war-gowon/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-19T12:21:10+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: how to vote for president from Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-como-votar-para-presidente-desde-la-argentina-nid14052026/",
+      "published_date": "2026-05-19T12:20:16+00:00"
+    },
+    {
+      "title": "What day are the presidential elections in Colombia 2026?",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
+      "published_date": "2026-05-19T12:20:10+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
+      "published_date": "2026-05-19T12:20:01+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-19T12:19:54+00:00"
+    },
+    {
+      "title": "Coalition partner: Would Merz actually prefer the Greens?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/waeren-merz-die-gruenen-lieber-als-die-spd-accg-200846543.html",
+      "published_date": "2026-05-19T12:04:05+00:00"
+    },
+    {
+      "title": "Iran’s parliament to vote on bill offering €50 million reward for killing Trump, Netanyahu",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-896661",
+      "published_date": "2026-05-19T11:40:36+00:00"
+    },
+    {
+      "title": "The University of Chile details the coup it is preparing against Azul Azul: “We notice a lack of transparency”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/el-deportivo/noticia/la-universidad-de-chile-detalla-el-golpe-que-prepara-contra-azul-azul-advertimos-una-falta-de-transparencia/",
+      "published_date": "2026-05-19T11:21:17+00:00"
+    },
+    {
+      "title": "Buddhist abbot detained, beaten for defying Myanmar junta ally in Kachin State",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/buddhist-abbot-detained-beaten-for-defying-myanmar-junta-ally-in-kachin-state/",
+      "published_date": "2026-05-19T09:58:54+00:00"
+    },
+    {
+      "title": "Podcast analyzes the changes of wind for Lula and Flávio Bolsonaro and the election scenario",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/05/podcast-analisa-as-mudancas-de-vento-para-lula-e-flavio-bolsonaro-e-cenario-da-eleicao.shtml",
+      "published_date": "2026-05-19T08:00:00+00:00"
+    },
     {
       "title": "NTK will go it alone in the next Lok Sabha elections: Seeman",
       "source": "The Hindu Politics",
@@ -99,7 +169,7 @@
       "source": "Moscow Times",
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/05/18/even-in-exile-russias-political-opposition-struggles-to-rise-above-its-divisions-a92780",
-      "published_date": "2026-05-18T16:28:29+00:00"
+      "published_date": "2026-05-18T16:28:00+00:00"
     },
     {
       "title": "In an election without party symbols, both BJP & Congress claim victory in Himachal local polls",
@@ -1250,13 +1320,6 @@
       "published_date": "2026-05-12T11:11:18+00:00"
     },
     {
-      "title": "What day are the presidential elections in Colombia 2026?",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
-      "published_date": "2026-05-12T11:04:17+00:00"
-    },
-    {
       "title": "UK elections: “Reform UK becomes a serious contender for power in the next general election”",
       "source": "Le Monde France",
       "country": "United Kingdom",
@@ -1269,13 +1332,6 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/en/there-is-a-big-rejection-of-starmer-from-labour-voters-as-pm-faces-calls-to-resign",
       "published_date": "2026-05-12T10:54:58+00:00"
-    },
-    {
-      "title": "When are the presidential elections in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
-      "published_date": "2026-05-12T10:50:23+00:00"
     },
     {
       "title": "EU agrees to sanctions on Israeli settlers after Hungary’s new government lifts veto",
@@ -1521,13 +1577,6 @@
       "country": "Armenia",
       "url": "https://oc-media.org/leaked-russian-document-outlines-planned-anti-pashinyan-campaign-ahead-of-armenia-elections/",
       "published_date": "2026-05-11T11:06:58+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
-      "published_date": "2026-05-11T11:06:04+00:00"
     },
     {
       "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
@@ -2634,160 +2683,6 @@
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRXMDVFZTRTMk9seUJpZTNNamZOWXZXQUZnSWNRc2dWTVVLQ3VPc1R0WHRMam1USnpSTXVERUFueXVvX1JZTVZickJxdkV6c1hWWVlSUjJFUkVwdWpSeTY1QmhFYUFtZ19CMTNNTGQ3QU9vLWZ0N0RVZHhfY1NCU0pKYUs0bEnSAYcBQVVfeXFMTlFUVzA1RWU0UzJPbHlCaWUzTWpmTll2V0FGZ0ljUXNnVk1VS0N1T3NUdFh0TGptVEp6Uk11REVBbnl1b19SWU1WYnJCcXZFenNYVllZUlIyRVJFcHVqUnk2NUJoRWFBbWdfQjEzTUxkN0FPby1mdDdEVWR4X2NTQlNKSmFLNGxJ?oc=5",
       "published_date": "2026-05-05T14:56:49+00:00"
-    },
-    {
-      "title": "French banks float state role in election campaign funding to reassure lenders",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260505-french-banks-float-state-role-in-election-campaign-funding-to-reassure-lenders",
-      "published_date": "2026-05-05T13:16:35+00:00"
-    },
-    {
-      "title": "Bengal’s Advocate General Kishore Datta resigns following BJP’s historic win in Assembly polls",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-advocate-general-kishore-datta-resignation-bjp-victory-2026-10674266/",
-      "published_date": "2026-05-05T12:43:28+00:00"
-    },
-    {
-      "title": "Russia plans monument to soldier killed in Ukraine war at site of demolished memorial to exiled Poles",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/05/05/russia-plans-monument-to-soldier-killed-in-ukraine-war-at-site-of-demolished-memorial-to-exiled-poles",
-      "published_date": "2026-05-05T12:05:30+00:00"
-    },
-    {
-      "title": "South Korea removes four army officers for their role in former President Yoon's martial law",
-      "source": "La Tercera Chile",
-      "country": "South Korea",
-      "url": "https://www.latercera.com/mundo/noticia/corea-del-sur-aparta-a-cuatro-oficiales-del-ejercito-por-su-papel-en-la-ley-marcial-del-expresidente-yoon/",
-      "published_date": "2026-05-05T12:00:41+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: key dates to verify if you will be a voting jury and how to consult it",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-fechas-clave-para-verificar-si-sera-jurado-de-votacion-y-como-consultarlo-3553128",
-      "published_date": "2026-05-05T11:46:54+00:00"
-    },
-    {
-      "title": "The BJP wins big in West Bengal Assembly Elections 2026: Results at a glance",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-wins-big-in-west-bengal-assembly-elections-2026-results-at-a-glance/article70942045.ece",
-      "published_date": "2026-05-05T11:08:45+00:00"
-    },
-    {
-      "title": "‘Starmer’s referendum’: How local elections could expose a fractured UK",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/5/5/starmers-referendum-how-local-elections-could-expose-a-fractured-uk?traffic_source=rss",
-      "published_date": "2026-05-05T11:04:41+00:00"
-    },
-    {
-      "title": "Putin appoints Fyodor Shchukin as acting Head of Daghestan",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/putin-appoints-fyodor-shchukin-as-acting-head-of-daghestan/",
-      "published_date": "2026-05-05T11:04:39+00:00"
-    },
-    {
-      "title": "While rumors of Putin's fear of a coup are growing, there is now open speculation about the next leader",
-      "source": "Politiken Denmark",
-      "country": "Russia",
-      "url": "https://politiken.dk/internationalt/art10829186/Mens-rygterne-om-Putins-frygt-for-et-kup-tager-til-spekuleres-der-nu-%C3%A5bent-om-den-n%C3%A6ste-leder",
-      "published_date": "2026-05-05T10:31:09+00:00"
-    },
-    {
-      "title": "Maw Luu falls to Myanmar junta forces after days of heavy fighting",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/maw-luu-falls-to-myanmar-junta-forces-after-days-of-heavy-fighting/",
-      "published_date": "2026-05-05T09:58:15+00:00"
-    },
-    {
-      "title": "Indian prime minister's party wins controversial and contentious state election",
-      "source": "Sky News World",
-      "country": "India",
-      "url": "https://news.sky.com/story/indian-prime-ministers-party-wins-controversial-and-contentious-state-election-13540335",
-      "published_date": "2026-05-05T09:24:00+00:00"
-    },
-    {
-      "title": "Separatist group tries to trigger referendum on province leaving Canada",
-      "source": "Sky News World",
-      "country": "Canada",
-      "url": "https://news.sky.com/story/separatist-group-tries-to-trigger-referendum-on-province-leaving-canada-13540307",
-      "published_date": "2026-05-05T08:28:00+00:00"
-    },
-    {
-      "title": "“No military solution to a political crisis”: Iran minister warns US and UAE over “quagmire”",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/no-military-solution-to-a-political-crisis-iran-minister-warns-us-and-uae-over-quagmire/",
-      "published_date": "2026-05-05T08:23:25+00:00"
-    },
-    {
-      "title": "Mamata Banerjee among 22 TMC ministers defeated in BJP's West Bengal election win",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-among-22-tmc-ministers-defeated-in-bjp-west-bengal-election-win-101777960909533.html",
-      "published_date": "2026-05-05T06:18:05+00:00"
-    },
-    {
-      "title": "West Bengal election results: Full list of winners from BJP, TMC and Congress",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-election-results-full-list-of-winners-from-bjp-tmc-and-congress-101777953742165.html",
-      "published_date": "2026-05-05T04:36:55+00:00"
-    },
-    {
-      "title": "Modi’s party wins control of India’s West Bengal in a key state election - AP News",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTBwSFM1VGdCUWlqbWplVFlSaW04UEw3RlptdGxLZjlrZTdtTXBUbGpkeVBQdURvTzdXUE5rYkVCNDdWclFLa1VIOExOU3FNdzhYc0hESmE4X0FITDBRMzV3VldONVUzS2R5bm5SRzk0Y0VUamFLY09BZGZ2NjZLR2hFVUdOVHA1cEFnWWZlX0VxMTNPVW5Cb0Z2NTUxX2RYVVZEUUxfckQ?oc=5",
-      "published_date": "2026-05-05T03:47:00+00:00"
-    },
-    {
-      "title": "Tamil Nadu election results: Full list of winners from Vijay's TVK, AIADMK, DMK, BJP and Congress",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-election-results-full-list-of-winners-from-vijays-tvk-aiadmk-dmk-bjp-and-congress-101777946804875.html",
-      "published_date": "2026-05-05T03:41:03+00:00"
-    },
-    {
-      "title": "The LDP is losing local elections. Should Takaichi be worried?",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/05/05/japan/politics/takaichi-popularity-ldp-local-struggles/",
-      "published_date": "2026-05-05T02:33:00+00:00"
-    },
-    {
-      "title": "Assembly elections news LIVE: Women are threatened with rape, says Mamata in big charge against BJP",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/election-results-2026-live-west-bengal-mamata-tamil-nadu-tvk-vijay-winners-kerala-udf-congress-stalin-assam-puducherry-101777944928831.html",
-      "published_date": "2026-05-05T02:28:44+00:00"
-    },
-    {
-      "title": "Rejection of Messiah signals Lula's isolation in the election and restricted alliance with the left",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/rejeicao-a-messias-sinaliza-isolamento-de-lula-na-eleicao-e-alianca-restrita-a-esquerda.shtml",
-      "published_date": "2026-05-05T02:00:00+00:00"
-    },
-    {
-      "title": "How election results in states will change Rajya Sabha math",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/how-election-results-in-assam-bengal-tamil-nadu-kerala-puducherry-will-change-rajya-sabha-math-101777944874218.html",
-      "published_date": "2026-05-05T01:42:30+00:00"
-    },
-    {
-      "title": "Alberta separatist group says it has enough signatures to trigger referendum vote on leaving Canada - Politico",
-      "source": "Google News World",
-      "country": "Canada",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVElpQV8zaUtTWnRfa3BJcTdrSTFKaUc1Ym0tMks2YjVWZU9QNW51QWNnUy1VWkJWcDN5RnpQZzVfOUwxYm90dTBaaEd0Q1lyc3QwbVZNeVd5NXFNanpvaWlmUGNnZDRTS2tQam5OdTc5RG10U2x2VU9iX1dlQWJWZG5NcGFYeFozSlg5MGF0WDVTR2hRNHE2T1NxajVaeTBrZjRIR0llTER1XzNWWXUzRjBCSHRDNlBkcW1YLUkzcjFFbWpkRHBueF9aRWEtM2NoZk9wSmVtVlNXeW83NS1KcVlLZw?oc=5",
-      "published_date": "2026-05-05T00:12:32+00:00"
     }
   ]
 }
