@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-19T14:00:44.527225+00:00",
-    "story_count": 375,
+    "last_updated": "2026-05-20T00:02:14.087841+00:00",
+    "story_count": 364,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,20 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "20-year Duma veteran among two to quit United Russia’s Smolensk primary in quick succession",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/05/20/20-year-duma-veteran-among-two-to-quit-united-russia-s-smolensk-primary-in-quick-succession",
+      "published_date": "2026-05-19T23:06:18+00:00"
+    },
+    {
+      "title": "Candidate Paloma Valencia meets with the Liberal Party bench 12 days before the presidential elections: 'We have to defend the Constitution'",
+      "source": "El Tiempo Colombia",
+      "country": "Canada",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-paloma-valencia-se-reune-con-bancada-del-partido-liberal-a-13-dias-de-las-elecciones-presidenciales-3556762",
+      "published_date": "2026-05-19T22:02:37+00:00"
+    },
     {
       "title": "US, UK arms ban forced Nigeria to buy from Soviets during civil war — Gowon",
       "source": "The Punch Nigeria",
@@ -142,6 +156,13 @@
       "country": "Cuba",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
       "published_date": "2026-05-18T21:57:08+00:00"
+    },
+    {
+      "title": "Civil war brewing at New York Times following publication of column alleging rape of Palestinians - ynetnews",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZWlYNEh2dkx2dzdoVmh0eEdUS0plVVFsSFl3bXV4c0tRb3VnVjlTUXpKTjM0ZUVYdVFPNU85UTRUTi1kdk44VzFfdEpJcldncVA3Wl9B?oc=5",
+      "published_date": "2026-05-18T21:17:42+00:00"
     },
     {
       "title": "In an election year, the Lula government is racing against time to approve adjustments for teachers",
@@ -2585,104 +2606,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/world/donald-trump-congratulates-pm-modi-on-historic-election-victory-10675042/",
       "published_date": "2026-05-06T02:42:15+00:00"
-    },
-    {
-      "title": "'Witnessing Gwangju' author compares 5.18 to Yoon's martial law",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260506/witnessing-gwangju-author-compares-518-to-yoons-martial-law?utm_source=rss",
-      "published_date": "2026-05-05T23:42:04+00:00"
-    },
-    {
-      "title": "The tangled situation to replace Mauricio Gómez Amín in the Senate after his resignation from his seat and the Liberal Party",
-      "source": "El Tiempo Colombia",
-      "country": "Canada",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-enredada-situacion-para-reemplazar-en-el-senado-a-mauricio-gomez-amin-tras-su-renuncia-a-su-curul-y-al-partido-liberal-3553384",
-      "published_date": "2026-05-05T23:37:05+00:00"
-    },
-    {
-      "title": "Former President Iván Duque calls for free elections and rule of law for Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/expresidente-ivan-duque-pide-elecciones-libres-y-estado-de-derecho-para-venezuela/",
-      "published_date": "2026-05-05T23:20:57+00:00"
-    },
-    {
-      "title": "Oil production won’t return to normal until after midterm elections — no matter when Iran war ends, new analysis says - New York Post",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGw0VnZFdlp4Z0FkdHJtYjhnbjE1THlmQUhNTDFFNi1iX3ZIeDgzSWpGZVJmRFpnZXh5OUhRd0FTeE1lem1TVzZwc3RzcmpCMEI2c0RxQ015VVU0RzJvUVE4R3pfTGxiYkJpRXZESllocUJzdWNKZ2FxUlBvcU1ELVhEcm55N05sYVUybC02MVhrMkV5UXZqUDExanFxd0hKZWdseXI3dFpZRzdlNV9USmgxS0xQUmhXVzdUenp4ZFB0N2Fx?oc=5",
-      "published_date": "2026-05-05T22:48:00+00:00"
-    },
-    {
-      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
-      "source": "BBC World",
-      "country": "North Korea",
-      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T22:44:35+00:00"
-    },
-    {
-      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea - BBC",
-      "source": "Google News World",
-      "country": "North Korea",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZ0I4WTBaX29TVDBpZGpxc1RZSWUtcktFVTZQYnVNeGZScFFlajJ2al9lZXpmWXFyay0wcXNWZVpDOVA1Q3J4NUlHMU5TOHFmLUJKZXBYWWk1QQ?oc=5",
-      "published_date": "2026-05-05T22:44:35+00:00"
-    },
-    {
-      "title": "Mauricio Gómez Amín resigns from the Liberal Party and his seat as senator: he fully commits to Abelardo de la Espriella's campaign",
-      "source": "El Tiempo Colombia",
-      "country": "Canada",
-      "url": "https://www.eltiempo.com/politica/congreso/mauricio-gomez-amin-renuncia-al-partido-liberal-y-a-su-curul-como-senador-se-compromete-a-totalidad-con-la-campana-de-abelardo-de-la-espriella-3553338",
-      "published_date": "2026-05-05T21:47:08+00:00"
-    },
-    {
-      "title": "Vente Venezuela announces a tour of activities around the country to organize for a possible election",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/vente-venezuela-anuncia-una-gira-de-actividades-por-el-pais-para-organizarse-ante-una-eventual-eleccion/",
-      "published_date": "2026-05-05T20:58:31+00:00"
-    },
-    {
-      "title": "Pulitzer Prize awarded to Palestinian photographer who captured ‘starvation in Gaza'",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-895216",
-      "published_date": "2026-05-05T18:41:59+00:00"
-    },
-    {
-      "title": "Alberta referendum must follow rules for separation laid out in federal law, Carney says",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-alberta-referendum-carney-separation-rules-clarity-act/",
-      "published_date": "2026-05-05T18:12:26+00:00"
-    },
-    {
-      "title": "The Registrar's Office called on the Petro government to guarantee security for the presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-hizo-llamado-al-gobierno-petro-para-que-se-garantice-la-seguridad-para-las-elecciones-presidenciales-3553234",
-      "published_date": "2026-05-05T18:08:30+00:00"
-    },
-    {
-      "title": "Son of Myanmar's ousted leader appeals to Macron for help in securing proof of life",
-      "source": "Euronews",
-      "country": "Myanmar",
-      "url": "http://www.euronews.com/my-europe/2026/05/05/son-of-myanmars-ousted-leader-appeals-to-macron-for-help-in-securing-proof-of-life",
-      "published_date": "2026-05-05T17:25:32+00:00"
-    },
-    {
-      "title": "India: West Bengal election win boosts Modi's BJP",
-      "source": "Deutsche Welle English",
-      "country": "India",
-      "url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-05T16:46:00+00:00"
-    },
-    {
-      "title": "Coup in Russia, Kremlin in Lockdown: Western Intel Claims Putin Under Fire; Real Threat or Disinfo Campaign? - EurAsian Times",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRXMDVFZTRTMk9seUJpZTNNamZOWXZXQUZnSWNRc2dWTVVLQ3VPc1R0WHRMam1USnpSTXVERUFueXVvX1JZTVZickJxdkV6c1hWWVlSUjJFUkVwdWpSeTY1QmhFYUFtZ19CMTNNTGQ3QU9vLWZ0N0RVZHhfY1NCU0pKYUs0bEnSAYcBQVVfeXFMTlFUVzA1RWU0UzJPbHlCaWUzTWpmTll2V0FGZ0ljUXNnVk1VS0N1T3NUdFh0TGptVEp6Uk11REVBbnl1b19SWU1WYnJCcXZFenNYVllZUlIyRVJFcHVqUnk2NUJoRWFBbWdfQjEzTUxkN0FPby1mdDdEVWR4X2NTQlNKSmFLNGxJ?oc=5",
-      "published_date": "2026-05-05T14:56:49+00:00"
     }
   ]
 }
