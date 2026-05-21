@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-21T00:08:48.217226+00:00",
-    "story_count": 365,
+    "last_updated": "2026-05-21T14:19:15.044105+00:00",
+    "story_count": 354,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,102 @@
   },
   "stories": [
     {
+      "title": "Enhedslisten is keeping its candidate list secret in the run-up to the election for its main board at the weekend",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/politik/art10850108/Enhedslisten-hemmeligholder-kandidatliste-op-mod-valget-til-sin-hovedbestyrelse-i-weekenden",
+      "published_date": "2026-05-21T14:00:14+00:00"
+    },
+    {
+      "title": "Supreme Leader says enriched uranium must stay in Iran, Iranian sources say",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-896962",
+      "published_date": "2026-05-21T13:37:08+00:00"
+    },
+    {
+      "title": "Rajnath Singh inaugurates Indian War Memorial in South Korea, remembers war veterans",
+      "source": "The Hindu Politics",
+      "country": "South Korea",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-inaugurates-indian-war-memorial-in-south-korea-remembers-war-veterans/article71005596.ece",
+      "published_date": "2026-05-21T13:03:32+00:00"
+    },
+    {
+      "title": "Pashinyan grabs megaphone as exchange turns heated during election campaign",
+      "source": "Euronews",
+      "country": "Armenia",
+      "url": "http://www.euronews.com/video/2026/05/21/pashinyan-grabs-megaphone-as-exchange-turns-heated-during-election-campaign",
+      "published_date": "2026-05-21T12:37:25+00:00"
+    },
+    {
+      "title": "The rebellion of Santiago Caputo's tweeters: fatigue, rage and two disavowals of Milei",
+      "source": "La Nacion Argentina",
+      "country": "Chile",
+      "url": "https://www.lanacion.com.ar/politica/la-rebelion-de-los-tuiteros-de-santiago-caputo-hartazgo-rabia-y-dos-desautorizaciones-a-milei-nid20052026/",
+      "published_date": "2026-05-21T12:05:16+00:00"
+    },
+    {
+      "title": "Following Trump's ultimatum, Iran's supreme leader prohibits taking enriched uranium out of the country",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/el-mundo/tras-el-ultimatum-de-trump-el-lider-supremo-de-iran-prohibe-sacar-el-uranio-enriquecido-del-pais-nid21052026/",
+      "published_date": "2026-05-21T12:03:59+00:00"
+    },
+    {
+      "title": "Supreme leader ‘issues order’ to keep uranium inside Iran in blow to peace talks",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-uranium-peace-talks-b2981126.html",
+      "published_date": "2026-05-21T11:55:51+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says enriched uranium must stay in the country, sources say",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say",
+      "published_date": "2026-05-21T10:47:03+00:00"
+    },
+    {
+      "title": "Israel’s treatment of captured Gaza flotilla activists sparks global outcry: ‘Monstrous, undignified and inhumane’",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-flotilla-gaza-european-union-b2980909.html",
+      "published_date": "2026-05-21T09:49:37+00:00"
+    },
+    {
+      "title": "KIA drone strike kills Myanmar junta troops near Hpakant",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/kia-drone-strike-kills-myanmar-junta-troops-near-hpakant/",
+      "published_date": "2026-05-21T07:26:04+00:00"
+    },
+    {
+      "title": "UN special envoy to visit Myanmar amid junta push for international legitimacy",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/un-special-envoy-to-visit-myanmar-amid-junta-push-for-international-legitimacy/",
+      "published_date": "2026-05-21T06:09:19+00:00"
+    },
+    {
+      "title": "US and Israel ‘planned to install hardliner Ahmadinejad as Iran’s new leader’ after war: report",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/us-israel-mahmoud-ahmadinejad-iran-war-b2980861.html",
+      "published_date": "2026-05-21T04:25:39+00:00"
+    },
+    {
       "title": "Cuban exile celebrates the indictment of Raúl Castro: \"Impunity has ceased\"",
       "source": "El Nacional Venezuela",
       "country": "Cuba",
       "url": "https://www.elnacional.com/2026/05/exilio-cubano-celebra-la-imputacion-de-raul-castro-ceso-la-impunidad/",
       "published_date": "2026-05-21T00:07:20+00:00"
+    },
+    {
+      "title": "Congress must overturn Lula's veto and release funds prohibited by law to municipalities before the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/congresso-deve-derrubar-veto-de-lula-e-liberar-verba-proibida-por-lei-a-municipios-antes-da-eleicao.shtml",
+      "published_date": "2026-05-20T23:57:00+00:00"
     },
     {
       "title": "Labor power struggle: Starmer shows new vigor",
@@ -109,13 +200,6 @@
       "published_date": "2026-05-20T12:44:00+00:00"
     },
     {
-      "title": "The rebellion of Santiago Caputo's tweeters: fatigue, rage and two disavowals of Milei",
-      "source": "La Nacion Argentina",
-      "country": "Chile",
-      "url": "https://www.lanacion.com.ar/politica/la-rebelion-de-los-tuiteros-de-santiago-caputo-hartazgo-rabia-y-dos-desautorizaciones-a-milei-nid20052026/",
-      "published_date": "2026-05-20T12:36:23+00:00"
-    },
-    {
       "title": "Presidential candidate: French justice system targets Philippe",
       "source": "FAZ Germany",
       "country": "France",
@@ -141,7 +225,7 @@
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0lUT0ttaTBCU05uSW9CbXcxZkt6Mkx5ODg0QklKVU15OElkVThRU2ZRRi1SN2lIN2JxSFg3U1NheHZVVTVjVklCdG9MaUVtbjl0SmdsdHZCaFpYZU40M2lORjEzc0FvYVEtSnAxVWVBbXNLOFF6THF4VUFGSGc0UkR2OE9tRmJIUDVEVmlQb1U1MnFvaThoQVRxLVJaMGlQdTNfYmpSQ0FNWlpuQVVmZVB3a9IBuAFBVV95cUxPeWxkYmI4ZlZ2S2tUSkN1X1Y3a3lnN0NBY3I3TGdGU1ZPMW8wV1djNm9qVm9Pbk1RRWF3c0RDUjZqME1RWi05QktfUGxNdGxlUmsxNFM4MWNtcjdmVUd4WWQtWXpudXh0SkRBRVFPNGNZblJtNXRFN01GUFQza0lORmNpY3F5RzhpNEp0dWxZc2o2bUc2X0o3c0pFQmxfTnNDcDVzUlNwS3dxbDRWUURuTDhpZS1jekZE?oc=5",
-      "published_date": "2026-05-20T11:15:05+00:00"
+      "published_date": "2026-05-20T11:13:00+00:00"
     },
     {
       "title": "Plans for regime change: Did Israel want to help Ahmadinejad come to power?",
@@ -2452,167 +2536,6 @@
       "country": "Brazil",
       "url": "https://www.elnacional.com/2026/05/en-un-ano-electoral-dificil-lula-visita-a-trump-en-washington/",
       "published_date": "2026-05-07T14:24:22+00:00"
-    },
-    {
-      "title": "Keiko Fujimori promises to be president of Peru for only five years in office if she wins elections",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/05/keiko-fujimori-promete-ser-presidenta-de-peru-solo-los-cinco-anos-de-mandato-si-gana-elecciones/",
-      "published_date": "2026-05-07T12:55:56+00:00"
-    },
-    {
-      "title": "Iran’s president says he met with new supreme leader in person",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/irans-president-says-he-met-with-new-supreme-leader-in-person/",
-      "published_date": "2026-05-07T12:53:54+00:00"
-    },
-    {
-      "title": "British voters cast ballots in local elections seen as a verdict on Keir Starmer’s leadership - NBC News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDgwYzBmS1B4NVQySVpXRlBGQXVDblE0bVdZLTNCOHZhc0lmdHdxdmo4aUtOUmtvMnJQdXdYeC1JSTU0UjRhaU9JUWRBaWdTeFN2cHF5cXJwNnNuYWFEQzhUM3FQWkhmTm53cG5WLXViRFVCQ3NpX3BiUmpCOHZBSndUWGFzRVVNajBZNFNrY2hjZmZDYm5UaVBrYmRJLWNFbnAxZ1VWRVJsZW9TSVBhRU5YZThYUkRwNTQycnpWQU1Hb01m?oc=5",
-      "published_date": "2026-05-07T12:10:53+00:00"
-    },
-    {
-      "title": "British Election: Will antisemitism push U.K. Jews to the arms of the far right? - Haaretz",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSmhUSXNGNDVacUpacGctQ2VTSm0zU1c0cTZkUVhJZkdXckVjVEtsLXVXZzVJbFRVWmxOWndNRTZxVHdVOGczcE16RnlRZEZNNjJkR0lSNGRIVnQ3SERuSjNTVmdGRTlGLVhoSk1lRmxkcHRJcnpMU0p6U0R0enhhWEw1aThsM3NWdXlBTjlwcDJxUXVVUFdsOGlCTlpCNHlXQnhtdDQtZE9Pb3RPdUlYMjlJSElmX2w1YWhlNWRFai1qS1VjSzVlbTRMNllSYnYxanVkMkVYakRsOURaZWJjWjctRDlvTjVQaG83cEpJMTExSnhtaGY3VzZzUVk1bnpiM1YwME0wSTNOczhyalRhcE5kQQ?oc=5",
-      "published_date": "2026-05-07T12:02:00+00:00"
-    },
-    {
-      "title": "Iranians at home divided between hope for regime change and war fears",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/2026/05/07/iranians-at-home-divided-between-hope-for-regime-change-and-war-fears",
-      "published_date": "2026-05-07T11:32:41+00:00"
-    },
-    {
-      "title": "Local elections across UK test Starmer as Reform UK eyes major gains",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/video/2026/05/07/local-elections-across-uk-test-starmer-as-reform-uk-eyes-major-gains",
-      "published_date": "2026-05-07T11:06:11+00:00"
-    },
-    {
-      "title": "Local elections in Great Britain, Keir Starmer threatened with sanction vote",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-en-grande-bretagne-keir-starmer-menac%C3%A9-d-un-vote-sanction",
-      "published_date": "2026-05-07T11:02:37+00:00"
-    },
-    {
-      "title": "Iran's president says he recently met with the supreme leader",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-says-he-recently-met-supreme-leader",
-      "published_date": "2026-05-07T10:40:56+00:00"
-    },
-    {
-      "title": "Watch: potholes or Europe? Decoding Britain’s local elections",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/05/07/watch-potholes-or-europe-decoding-britains-local-elections",
-      "published_date": "2026-05-07T10:27:17+00:00"
-    },
-    {
-      "title": "UK voters cast ballots in elections expected to deal blow to Starmer - Reuters",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXJFb19VOHFkcWlBTVFvQmdkX0haVV9EZTctcVMzZktqWTJsUDNSUGstOVdza2xJZnNheWhJdjNwUGgwY0NnSjB0OFFrVThBT3hvRU1kSFJMVUFxS29nYUxjSUwxNEYzbzB6a3dVRFl5T1Z6Vy1vRzhibU1kUEQtUjhySU5IbHp5RFJmenhEVlpMVTktUUhZRzYxZGZOaUthZTVPbUQzRQ?oc=5",
-      "published_date": "2026-05-07T09:52:57+00:00"
-    },
-    {
-      "title": "Local elections in the United Kingdom, Starmer and Labor under threat",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-au-royaume-uni-starmer-et-les-travaillistes-menac%C3%A9s",
-      "published_date": "2026-05-07T09:50:04+00:00"
-    },
-    {
-      "title": "UK voters cast ballots in elections expected to deal blow to Starmer",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260507-uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer",
-      "published_date": "2026-05-07T09:41:23+00:00"
-    },
-    {
-      "title": "Former FMs, UN experts urge recognition of Myanmar’s ousted president",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/former-fms-un-experts-urge-recognition-of-myanmars-ousted-president/",
-      "published_date": "2026-05-07T08:53:08+00:00"
-    },
-    {
-      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T08:03:55+00:00"
-    },
-    {
-      "title": "Voting under way in UK local elections seen as a verdict on Keir Starmer's leadership",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/05/07/voting-under-way-in-uk-local-elections-seen-as-a-verdict-on-keir-starmers-leadership",
-      "published_date": "2026-05-07T07:36:48+00:00"
-    },
-    {
-      "title": "UK votes in key local and regional elections",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-07T07:16:00+00:00"
-    },
-    {
-      "title": "In the United Kingdom, local elections at high risk for Labor",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/europe/20260507-royaume-uni-elections-locales-haut-risque-pour-travaillistes-starmer-farage-reform-uk",
-      "published_date": "2026-05-07T06:23:16+00:00"
-    },
-    {
-      "title": "Two hostages, including elderly disabled woman, killed by Myanmar junta troops in Magway",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/two-hostages-including-elderly-disabled-woman-killed-by-myanmar-junta-troops-in-magway/",
-      "published_date": "2026-05-07T05:51:40+00:00"
-    },
-    {
-      "title": "BJP aide shot dead in India’s West Bengal days after historic election win",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3352707/bjp-aide-shot-dead-indias-west-bengal-days-after-historic-election-win?utm_source=rss_feed",
-      "published_date": "2026-05-07T05:47:06+00:00"
-    },
-    {
-      "title": "Before the election: Britain's political map is becoming colourful",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wahlen-in-grossbritannien-chancen-fuer-reform-und-gruene-accg-200797488.html",
-      "published_date": "2026-05-07T04:32:35+00:00"
-    },
-    {
-      "title": "Ex-minister gets reduced sentence in case of state of emergency in South Korea",
-      "source": "Politiken Denmark",
-      "country": "South Korea",
-      "url": "https://politiken.dk/internationalt/art10832768/Eksminister-f%C3%A5r-s%C3%A6nket-straf-i-sag-om-undtagelsestilstand-i-Sydkorea",
-      "published_date": "2026-05-07T04:26:21+00:00"
-    },
-    {
-      "title": "Lula gets angry with PT, misses events and demands pre-election strategy",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-se-irrita-com-pt-falta-a-eventos-e-cobra-estrategia-pre-eleitoral.shtml",
-      "published_date": "2026-05-07T02:00:00+00:00"
-    },
-    {
-      "title": "Jury training in Bogotá will begin this May 11: these are some keys for the delegates of the 2026 presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-capacitacion-de-jurados-en-bogota-iniciara-este-11-de-mayo-estas-son-algunas-claves-para-los-delegados-de-las-elecciones-presidenciales-de-3553573",
-      "published_date": "2026-05-07T01:36:24+00:00"
     }
   ]
 }
