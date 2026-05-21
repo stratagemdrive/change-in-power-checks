@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-21T14:19:15.044105+00:00",
-    "story_count": 354,
+    "last_updated": "2026-05-21T23:59:10.932877+00:00",
+    "story_count": 358,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – US politics live",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "published_date": "2026-05-21T23:33:40+00:00"
+    },
+    {
+      "title": "Explore alternative energy sources, PM Modi tells Government amid West Asia crisis",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/explore-alternative-energy-sources-pm-modi-tells-government-amid-west-asia-crisis-10702114/",
+      "published_date": "2026-05-21T23:16:16+00:00"
+    },
+    {
+      "title": "Hitmen shoot dead Peruvian mayor in the middle of state of emergency due to crime",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/sicarios-asesinan-a-disparos-a-alcalde-peruano-en-medio-de-estado-de-emergencia-por-criminalidad/",
+      "published_date": "2026-05-21T23:07:54+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: venues, voting hours and requirements for Colombians abroad from May 25 to 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-sedes-horarios-de-votacion-y-requisitos-para-colombianos-en-el-exterior-del-25-al-31-de-mayo-3557332",
+      "published_date": "2026-05-21T22:36:15+00:00"
+    },
+    {
+      "title": "French presidential candidate accuses his country of abandoning Cuba out of “fear of Trump”",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-05-22-u1-e208933-s27061-nid329971-candidato-presidencial-francia-acusa-pais-abandonar",
+      "published_date": "2026-05-21T22:10:24+00:00"
+    },
+    {
+      "title": "Imprenta Nacional defends itself against criticism of President Gustavo Petro's new passports for alleged defects in their manufacturing",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/imprenta-nacional-asegura-calidad-en-nuevos-pasaportes-y-desmiente-falla-generalizada-3557319",
+      "published_date": "2026-05-21T19:45:46+00:00"
+    },
+    {
+      "title": "Turkey court rules to oust opposition leader in latest blow to Erdogan's challengers - Reuters",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUQyOXZWZ0JLWGNkSXNwVkZKOWstbEpzUmZOWGRxX0xuNFJkSVdKYzk2WDVFa2xJM1JaSlRkOEhuSXZBOFAwNFlPcXRaN1BaOUVaLWhNZzViZmFramFiNXVmVGFNd1BBTG9oUUVMbldhVDBNbkxpTjdtRGhNTnkxZERSSjh1LXNLS25IcXNpdHoza0h2ZThFWFAwZ3FycmstanpoVlJJTFRxbUZzcUh6Um9EYjRmRDNLanBIZG9tMA?oc=5",
+      "published_date": "2026-05-21T18:01:07+00:00"
+    },
+    {
+      "title": "María Elvira Salazar on elections in Venezuela: “I would say next year”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/maria-elvira-salazar-sobre-elecciones-en-venezuela-yo-diria-que-el-ano-que-viene/",
+      "published_date": "2026-05-21T17:19:11+00:00"
+    },
+    {
+      "title": "Congress overturns Lula's vetoes and releases funds for municipalities before the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/congresso-derruba-vetos-de-lula-e-decide-liberar-verba-a-municipios-antes-da-eleicao.shtml",
+      "published_date": "2026-05-21T17:10:00+00:00"
+    },
+    {
+      "title": "Court annuls leadership of Turkey’s main opposition party",
+      "source": "South China Morning Post",
+      "country": "Turkey",
+      "url": "https://www.scmp.com/news/world/europe/article/3354426/court-annuls-leadership-turkeys-main-opposition-party?utm_source=rss_feed",
+      "published_date": "2026-05-21T16:46:42+00:00"
+    },
+    {
+      "title": "Court demands Turkish opposition leader replaced",
+      "source": "Politiken Denmark",
+      "country": "Turkey",
+      "url": "https://politiken.dk/internationalt/art10852648/Domstol-kr%C3%A6ver-tyrkisk-oppositionsleder-udskiftet",
+      "published_date": "2026-05-21T16:10:35+00:00"
+    },
+    {
+      "title": "Danes among the over 430 captured flotilla participants, confirms the Ministry of Foreign Affairs",
+      "source": "DR News Denmark",
+      "country": "Denmark",
+      "url": "https://www.dr.dk/nyheder/seneste/dansker-blandt-de-over-430-tilfangetagne-flotille-deltagere-bekraefter-udenrigsministeriet",
+      "published_date": "2026-05-21T15:57:00+00:00"
+    },
     {
       "title": "Enhedslisten is keeping its candidate list secret in the run-up to the election for its main board at the weekend",
       "source": "Politiken Denmark",
@@ -144,6 +228,13 @@
       "published_date": "2026-05-21T04:25:39+00:00"
     },
     {
+      "title": "Lester Toledo returned to Venezuela after 10 years in exile",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/lester-toledo-regreso-a-venezuela-tras-10-anos-en-el-exilio/",
+      "published_date": "2026-05-21T04:01:00+00:00"
+    },
+    {
       "title": "Cuban exile celebrates the indictment of Raúl Castro: \"Impunity has ceased\"",
       "source": "El Nacional Venezuela",
       "country": "Cuba",
@@ -156,6 +247,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/congresso-deve-derrubar-veto-de-lula-e-liberar-verba-proibida-por-lei-a-municipios-antes-da-eleicao.shtml",
       "published_date": "2026-05-20T23:57:00+00:00"
+    },
+    {
+      "title": "Israel takes step toward snap election as Knesset votes to dissolve - Reuters",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1F5dmpBZ3FhQlpJckNnQ0hOeXhRUnA1bU5DMFBKSXhCdDhJN0lRSnhjZjlicnU2YVl1SFMtR2FSbDNzdXNOcVlRaDJCT1VJQzdEWmdlZHpYOW5MUkhKSnJMMGUwYjcwejQxTU5wNHVWRXU5Qm9jM2FILVFXM2xLaWl5NE9JX3hTeDEyejRfblpzRFJjU3MxN1RaS1IzVjBId2c3NVRSTklmVi1jV0tjc0k3aVJ3Zw?oc=5",
+      "published_date": "2026-05-20T19:29:23+00:00"
     },
     {
       "title": "Labor power struggle: Starmer shows new vigor",
@@ -2466,76 +2564,6 @@
       "country": "United Kingdom",
       "url": "https://www.latercera.com/mundo/noticia/reino-unido-vota-en-elecciones-locales-que-ponen-a-prueba-el-liderazgo-de-keir-starmer/",
       "published_date": "2026-05-07T23:59:09+00:00"
-    },
-    {
-      "title": "Most Cubans support US military intervention and overthrow of the regime",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-05-08-u1-e135253-s27061-nid328496-mayoria-cubanos-apoya-intervencion-militar-eeuu",
-      "published_date": "2026-05-07T22:55:12+00:00"
-    },
-    {
-      "title": "Starmer Braces for Upsets in U.K. Local Elections",
-      "source": "Foreign Policy",
-      "country": "United Kingdom",
-      "url": "https://foreignpolicy.com/2026/05/07/uk-local-elections-labour-starmer-reform-uk-farage-greens/",
-      "published_date": "2026-05-07T20:51:21+00:00"
-    },
-    {
-      "title": "Zehut party leader to run in elections on joint list with ex-Otzma Yehudit chair",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-895516",
-      "published_date": "2026-05-07T20:12:58+00:00"
-    },
-    {
-      "title": "US Secretary of Energy: \"We want to have free and fair elections in Venezuela with a stabilized economy\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/secretario-de-energia-de-ee-uu-se-quiere-llegar-a-elecciones-libres-y-justas-en-venezuela-con-una-economia-estabilizada/",
-      "published_date": "2026-05-07T20:11:36+00:00"
-    },
-    {
-      "title": "Presidential elections 2026 in Colombia: so you can check if you were selected as a voting jury",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-puede-consultar-si-fue-seleccionado-como-jurado-de-votacion-3553858",
-      "published_date": "2026-05-07T19:23:23+00:00"
-    },
-    {
-      "title": "Iran foreign ministry says supreme leader overseeing decisions",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-supreme-leader-overseeing-decisions-says-iranian-foreign",
-      "published_date": "2026-05-07T19:13:33+00:00"
-    },
-    {
-      "title": "UK elections: Conservatives are stuck between a rock and a hard place",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260507-uk-elections-conservatives-are-stuck-between-a-rock-and-a-hard-place",
-      "published_date": "2026-05-07T16:48:47+00:00"
-    },
-    {
-      "title": "Planalto spares Ciro, but the government does not rule out using an arsenal against the senator in the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/planalto-poupa-ciro-mas-governo-nao-descarta-usar-arsenal-contra-senador-nas-eleicoes.shtml",
-      "published_date": "2026-05-07T16:36:00+00:00"
-    },
-    {
-      "title": "Local elections in the United Kingdom: Keir Starmer faces the rise of Nigel Farage",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-%C3%A9lections-locales-au-royaume%E2%80%91uni-keir-starmer-face-%C3%A0-la-mont%C3%A9e-de-nigel-farage",
-      "published_date": "2026-05-07T16:19:23+00:00"
-    },
-    {
-      "title": "In a difficult election year, Lula visits Trump in Washington",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/05/en-un-ano-electoral-dificil-lula-visita-a-trump-en-washington/",
-      "published_date": "2026-05-07T14:24:22+00:00"
     }
   ]
 }
