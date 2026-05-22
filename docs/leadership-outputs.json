@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-21T23:59:10.932877+00:00",
-    "story_count": 358,
+    "last_updated": "2026-05-22T13:36:59.636780+00:00",
+    "story_count": 355,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,130 @@
   },
   "stories": [
     {
-      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – US politics live",
+      "title": "President Gustavo Petro unleashes new controversy over participation in politics: 'Suddenly we, the Government, won the elections'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-desata-nueva-polemica-por-participacion-en-politica-depronto-ganamos-nosotros-el-gobierno-las-elecciones-3557527",
+      "published_date": "2026-05-22T12:38:54+00:00"
+    },
+    {
+      "title": "Turkish court rules to remove head of the main opposition party in latest blow",
+      "source": "Egypt Independent",
+      "country": "Turkey",
+      "url": "https://www.egyptindependent.com/turkish-court-rules-to-remove-head-of-the-main-opposition-party-in-latest-blow/",
+      "published_date": "2026-05-22T12:24:14+00:00"
+    },
+    {
+      "title": "Rajya Sabha elections annouced across 10 states: Date, retiring MPs, number of seats; all you need to know",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/ec-announces-dates-for-rajya-sabha-elections-across-10-states-bypolls-in-maharashtra-tamil-nadu-all-you-need-to-know-101779450076241.html",
+      "published_date": "2026-05-22T12:15:29+00:00"
+    },
+    {
+      "title": "Violence Looms Over Colombia’s Election",
+      "source": "Foreign Policy",
+      "country": "Colombia",
+      "url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro/",
+      "published_date": "2026-05-22T12:00:51+00:00"
+    },
+    {
+      "title": "Political activity set to pick up in Karnataka with notification of elections to four Rajya Sabha seats",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/political-activity-set-to-pick-up-in-karnataka-with-notification-of-elections-to-four-rajya-sabha-seats/article71010022.ece",
+      "published_date": "2026-05-22T11:45:22+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: latest news for this May 22; The final stretch towards election day begins",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-de-este-22-de-mayo-inicia-la-recta-final-hacia-la-jornada-electoral-3557518",
+      "published_date": "2026-05-22T11:30:00+00:00"
+    },
+    {
+      "title": "Cuba shows what American sanctions achieve: Not regime change, just human suffering",
+      "source": "Indian Express",
+      "country": "Cuba",
+      "url": "https://indianexpress.com/article/opinion/columns/cuba-sanctions-oil-fuel-donald-trump-castro-maduro-venezuela-iran-10702983/",
+      "published_date": "2026-05-22T11:00:08+00:00"
+    },
+    {
+      "title": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
+      "source": "The Guardian World",
+      "country": "Palestine",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza",
+      "published_date": "2026-05-22T10:36:14+00:00"
+    },
+    {
+      "title": "Turkey political crisis simmers as opposition vows to resist court ruling",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/video/20260522-turkey-political-crisis-simmers-as-opposition-vows-to-resist-court-ruling",
+      "published_date": "2026-05-22T09:55:03+00:00"
+    },
+    {
+      "title": "Two civilians killed as Myanmar junta escalates offensives north of Monywa",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/two-civilians-killed-as-myanmar-junta-escalates-offensives-north-of-monywa/",
+      "published_date": "2026-05-22T09:36:28+00:00"
+    },
+    {
+      "title": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/alberta-canada-referendum-danielle-smith-b2981700.html",
+      "published_date": "2026-05-22T08:12:18+00:00"
+    },
+    {
+      "title": "Elections brought our households to a stop: The domestic labour crisis urban India keeps ignoring",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/opinion/columns/elections-households-stop-domestic-labour-india-10702455/",
+      "published_date": "2026-05-22T06:18:14+00:00"
+    },
+    {
+      "title": "Election Commission announces Rajya Sabha polls for 24 seats on June 18",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/election-commission-announces-rajya-sabha-polls-for-24-seats-on-june-18-101779428583643.html",
+      "published_date": "2026-05-22T05:50:09+00:00"
+    },
+    {
+      "title": "Friday briefing: ​As Israel’s coalition collapses, can its prime minister hang on to power?",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/may/22/friday-briefing-as-israels-coalition-collapses-can-its-prime-minister-hang-on-to-power",
+      "published_date": "2026-05-22T05:44:28+00:00"
+    },
+    {
+      "title": "Elections for 24 Rajya Sabha seats across 10 states on June 18",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/ec-announces-rajya-sabha-polls-24-seats-june-18-bypolls-maharashtra-tamil-nadu-10702400/",
+      "published_date": "2026-05-22T04:34:15+00:00"
+    },
+    {
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "source": "BBC World",
+      "country": "Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T02:40:58+00:00"
+    },
+    {
+      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
       "source": "The Guardian World",
       "country": "Israel",
       "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
-      "published_date": "2026-05-21T23:33:40+00:00"
+      "published_date": "2026-05-22T02:00:51+00:00"
+    },
+    {
+      "title": "Turkish court ousts leader of main opposition party - Al Jazeera",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZk9RWmdGRXFNSlRfbzB0TTRrcHF6Rl9YaHd5RnBldndHLTFfajhwOHVkb0NhSUZ3V1lvWEZmTXdCV0lvX2hIWmx4VE1yaUUwcXJvQl8xT1ZUYUhRamRNZkNNN3gwcEdYZzlNc2xkYjNaRFRMb3BTX3BlRGowdVFDRWNKUFBFNG9CeEpNSmNKVmh6cFdxSHlj0gGcAUFVX3lxTE1LRlJJd2NnMXVMZ283SjFQcU5qQTUwY1VaMlgxZFNIZUNub3g2NmJqdEtfLVkyODdkZVBZZl9VaXBwdXdKdldOeWZxaWthQWF5aDdvZkdiYUt2dDRiUmdvWnhYbmY1Q1ZOV2tUNHpSdlBvUWNtbjhyN2NlZl9vQzZycDlvczA0cGlkSGVFbmpXclBYTEFVTjNSSk5fWQ?oc=5",
+      "published_date": "2026-05-22T01:27:11+00:00"
     },
     {
       "title": "Explore alternative energy sources, PM Modi tells Government amid West Asia crisis",
@@ -2424,146 +2543,6 @@
       "country": "United Kingdom",
       "url": "https://www.jpost.com/international/article-895573",
       "published_date": "2026-05-08T13:32:54+00:00"
-    },
-    {
-      "title": "Against the rebels, the Burmese junta bans hygienic protection…",
-      "source": "France 24 FR",
-      "country": "Myanmar",
-      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20260508-contre-les-rebelles-la-junte-birmane-interdit-les-protections-hygi%C3%A9niques",
-      "published_date": "2026-05-08T11:56:38+00:00"
-    },
-    {
-      "title": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
-      "published_date": "2026-05-08T11:54:16+00:00"
-    },
-    {
-      "title": "Farage's right-wing populist party is the big winner of the UK election",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10828331/Farages-h%C3%B8jrepopulistiske-parti-bliver-valgets-store-vinder-i-Storbritannien",
-      "published_date": "2026-05-08T10:44:21+00:00"
-    },
-    {
-      "title": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWF3dW5GcHh6WUJDQ1JnTnFhZzdqRlBpd0tvS3M3bmFLd3V4MFRwMWI5T3VsTktjZmcwRlYtcVhBVHBXQ3Y1N0k4TVBJcHM4a19pVGFtQVhWdlUtd08wTWFWbmZmU1FNcmt4My1TRDRPYmluaUFPaUdrNnZmNHBwdVVEM0F6Wm9ZanpUR2N4NjhrSmoyeWJJWlloeEFPUHdVajFjUzFmZzZsZw?oc=5",
-      "published_date": "2026-05-08T10:29:00+00:00"
-    },
-    {
-      "title": "Nigeria's security ‘has never been worse’ as coup trial opens",
-      "source": "RFI English",
-      "country": "Nigeria",
-      "url": "https://www.rfi.fr/en/africa/20260508-nigeria-security-has-never-been-worse-as-coup-trial-opens-jibrin-ibrahim",
-      "published_date": "2026-05-08T10:26:07+00:00"
-    },
-    {
-      "title": "Starmer rules out resigning after early results show Labor defeats in local elections as Reform UK gains ground",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/primeros-resultados-muestran-derrotas-de-laboristas-britanicos-en-las-elecciones-locales-mientras-reform-uk-gana-terreno/",
-      "published_date": "2026-05-08T10:19:07+00:00"
-    },
-    {
-      "title": "Defiant Starmer digs in after UK Labour’s local election drubbing",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3352908/defiant-starmer-digs-after-uk-labours-local-election-drubbing?utm_source=rss_feed",
-      "published_date": "2026-05-08T09:55:15+00:00"
-    },
-    {
-      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections",
-      "published_date": "2026-05-08T09:43:35+00:00"
-    },
-    {
-      "title": "Venezuela arrives at Cannes Lions 2026 with proof of the 28J electoral fraud",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/venezuela-llega-a-cannes-lions-2026-con-la-prueba-del-fraude-electoral-del-28j/",
-      "published_date": "2026-05-08T08:59:00+00:00"
-    },
-    {
-      "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
-      "published_date": "2026-05-08T08:28:19+00:00"
-    },
-    {
-      "title": "UK elections – early results and takeaways; will Starmer have to resign?",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
-      "published_date": "2026-05-08T08:18:50+00:00"
-    },
-    {
-      "title": "Keir Starmer acknowledges 'painful results' after far-right Reform UK party's breakthrough, partial results in Britain's local elections show",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/05/08/keir-starmer-reconnait-des-resultats-douloureux-apres-la-percee-du-parti-d-extreme-droite-reform-uk-selon-des-resultats-partiels-aux-elections-locales-en-grande-bretagne_6687034_3210.html",
-      "published_date": "2026-05-08T08:08:51+00:00"
-    },
-    {
-      "title": "Local elections in Great Britain: Keir Starmer recognizes a difficult vote for the Labor Party",
-      "source": "Le Figaro France",
-      "country": "United Kingdom",
-      "url": "https://www.lefigaro.fr/international/elections-locales-en-grande-bretagne-keir-starmer-reconnait-un-scrutin-difficile-pour-le-parti-travailliste-20260508",
-      "published_date": "2026-05-08T07:57:36+00:00"
-    },
-    {
-      "title": "Adorni ruled out running as a candidate for head of the Buenos Aires government in the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/adorni-descarto-presentarse-como-jefe-de-gobierno-porteno-en-las-elecciones-de-2027-no-tiene-razon-nid08052026/",
-      "published_date": "2026-05-08T07:00:47+00:00"
-    },
-    {
-      "title": "Southeast Asian nations see possible opening for thaw with Myanmar years after coup",
-      "source": "Japan Times",
-      "country": "Myanmar",
-      "url": "https://www.japantimes.co.jp/news/2026/05/08/asia-pacific/politics/myanmar-isolation-warming/",
-      "published_date": "2026-05-08T02:41:00+00:00"
-    },
-    {
-      "title": "Japan’s Prince Hisahito steps into spotlight as succession debate heats up",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/week-asia/people/article/3352789/japans-prince-hisahito-steps-spotlight-succession-debate-heats?utm_source=rss_feed",
-      "published_date": "2026-05-08T01:30:08+00:00"
-    },
-    {
-      "title": "Nazi-era guns and Iranian weapons: captured Hezbollah arsenal exposes rearmament push - ynetnews",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PSGk5c1NhTHYzM2xKUlVOaHBhRVZUNmJLNEJZd0J4MTRhMmY2STY0Uld4UE9yb0JOYkhEekRTdFFmODlfVFU0bTJjNklvZUM1SWVFdjZ3?oc=5",
-      "published_date": "2026-05-08T01:17:44+00:00"
-    },
-    {
-      "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
-      "source": "The Guardian World",
-      "country": "Myanmar",
-      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
-      "published_date": "2026-05-08T00:57:43+00:00"
-    },
-    {
-      "title": "Kast meets with the elected president of Costa Rica and emphasizes that he will not support Grynspan for the UN",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/kast-se-reune-con-presidenta-electa-de-costa-rica-y-recalca-que-no-apoyara-a-grynspan-para-la-onu/",
-      "published_date": "2026-05-08T00:04:36+00:00"
-    },
-    {
-      "title": "UK votes in local elections that test Keir Starmer's leadership",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/reino-unido-vota-en-elecciones-locales-que-ponen-a-prueba-el-liderazgo-de-keir-starmer/",
-      "published_date": "2026-05-07T23:59:09+00:00"
     }
   ]
 }
