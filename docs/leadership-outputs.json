@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-23T12:03:30.450643+00:00",
-    "story_count": 345,
+    "last_updated": "2026-05-23T23:55:40.126188+00:00",
+    "story_count": 349,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,74 @@
   },
   "stories": [
     {
+      "title": "María Corina Machado affirms that she will be a presidential candidate in “clean and free” elections in Venezuela",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/maria-corina-machado-afirma-que-sera-candidata-a-la-presidencia-en-unas-elecciones-limpias-y-libres-en-venezuela/",
+      "published_date": "2026-05-23T23:31:08+00:00"
+    },
+    {
+      "title": "Kaduna APC members unanimously afform Tinubu as presidential candidate",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/promoted/882248-kaduna-apc-members-unanimously-afform-tinubu-as-presidential-candidate.html",
+      "published_date": "2026-05-23T22:37:28+00:00"
+    },
+    {
+      "title": "María Corina Machado in Panama: the opposition insists on free elections and confirms candidacy",
+      "source": "El Nacional Venezuela",
+      "country": "Panama",
+      "url": "https://www.elnacional.com/2026/05/maria-corina-machado-en-panama-la-opositora-insiste-en-elecciones-libres-y-confirma-candidatura/",
+      "published_date": "2026-05-23T21:28:59+00:00"
+    },
+    {
+      "title": "Are you Colombian and are you going to vote abroad? Recommendations of the Foreign Ministry for the 2026 presidential elections in the first round",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-colombiano-y-va-a-votar-en-el-exterior-recomendaciones-de-la-cancilleria-para-las-elecciones-presidenciales-de-primera-vuelta-3557886",
+      "published_date": "2026-05-23T19:55:26+00:00"
+    },
+    {
+      "title": "Jigawa gov reaffirms one million votes pledge for Tinubu in 2027 presidential election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/promoted/882204-jigawa-gov-reaffirms-one-million-votes-pledge-for-tinubu-in-2027-presidential-election.html",
+      "published_date": "2026-05-23T19:06:40+00:00"
+    },
+    {
+      "title": "Israel and the Middle East are one election away from peace - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-896836",
+      "published_date": "2026-05-23T18:57:19+00:00"
+    },
+    {
+      "title": "Marco Rubio in India highlights: PM Modi, Rubio discuss bilateral ties, West Asia crisis",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/marco-rubio-in-india-rubio-visits-kolkata-india-us-ties-live-updates-may-23-2026/article71013451.ece",
+      "published_date": "2026-05-23T17:08:19+00:00"
+    },
+    {
+      "title": "González Urrutia calls for genuine elections in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/gonzalez-urrutia-llama-a-hacer-elecciones-genuinas-en-venezuela/",
+      "published_date": "2026-05-23T13:37:03+00:00"
+    },
+    {
       "title": "Katsina APC roots for Tinubu’s 2027 re-election bid — Gov Radda",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/katsina-apc-roots-for-tinubus-2027-re-election-bid-gov-radda/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-23T12:45:25+00:00"
+    },
+    {
+      "title": "‘Referendum’ on AAP govt, semi-finals for Cong, BJP, SAD: Why Punjab civic polls matter",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/referendum-aap-govt-semi-finals-cong-bjp-sad-why-punjab-civic-polls-matter-10704535/",
+      "published_date": "2026-05-23T12:19:01+00:00"
     },
     {
       "title": "Tehran’s terror campaign in the West makes regime change imperative - opinion",
@@ -2438,41 +2501,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/suvendu-adhikari-sworn-in-as-bengal-s-first-bjp-cm-101778374723679.html",
       "published_date": "2026-05-10T01:05:42+00:00"
-    },
-    {
-      "title": "The Buenos Aires UCR agreed on a unity list and a grandson of Balbín will take over as president to close the internal elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/la-ucr-bonaerense-acordo-una-lista-de-unidad-y-un-nieto-de-balbin-asumira-como-presidente-para-nid09052026/",
-      "published_date": "2026-05-09T20:07:59+00:00"
-    },
-    {
-      "title": "Modi to set the tone for capturing Telangana after Bengal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/telangana/modi-to-set-the-tone-for-capturing-telangana-after-bengal/article70960013.ece",
-      "published_date": "2026-05-09T17:14:41+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro talks about a government lasting up to 8 years after signaling the end of re-election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-fala-em-governo-de-ate-8-anos-apos-ter-acenado-com-fim-de-reeleicao.shtml",
-      "published_date": "2026-05-09T15:26:00+00:00"
-    },
-    {
-      "title": "Danish rightwing leader asked to form government after Frederiksen fails to form coalition",
-      "source": "The Guardian World",
-      "country": "Denmark",
-      "url": "https://www.theguardian.com/world/2026/may/09/danish-rightwing-leader-troeld-lund-poulsen-form-government-mette-frederiksen-fails-coalition",
-      "published_date": "2026-05-09T14:17:25+00:00"
-    },
-    {
-      "title": "Labor debacle in British local elections strengthens the anti-immigration party Reform UK",
-      "source": "El Nacional Venezuela",
-      "country": "United Kingdom",
-      "url": "https://www.elnacional.com/2026/05/debacle-laborista-en-elecciones-locales-britanicas-potencia-al-partido-antinmigracion-reform-uk/",
-      "published_date": "2026-05-09T14:04:22+00:00"
     }
   ]
 }
