@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-23T23:55:40.126188+00:00",
-    "story_count": 349,
+    "last_updated": "2026-05-24T12:05:31.437093+00:00",
+    "story_count": 344,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Congress will not rest till Education Minister Pradhan resigns: Rahul Gandhi on NEET paper leak row",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/congress-will-not-rest-till-education-minister-pradhan-resigns-rahul-gandhi-on-neet-paper-leak-row/article71017431.ece",
+      "published_date": "2026-05-24T10:31:43+00:00"
+    },
+    {
+      "title": "Caputo will publish the details of how Argentina will face debt payments until the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/caputo-publicara-el-detalle-de-como-la-argentina-afrontara-los-pagos-de-la-deuda-hasta-las-nid24052026/",
+      "published_date": "2026-05-24T10:23:14+00:00"
+    },
+    {
+      "title": "Violence, institutional dispute and the divided right: The tense scenario one week before the elections in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/violencia-disputa-institucional-y-la-derecha-dividida-el-escenario-a-una-semana-de-las-elecciones-en-colombia/",
+      "published_date": "2026-05-24T10:00:00+00:00"
+    },
+    {
+      "title": "In Colombia, armed violence dominates the campaign as the presidential election approaches",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260524-colombie-violence-arm%C3%A9e-domine-campagne-approche-premier-tour-de-la-pr%C3%A9sidentielle-narcotrafic-cocaine-farc",
+      "published_date": "2026-05-24T07:15:29+00:00"
+    },
+    {
+      "title": "Milei's obstacles to re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/opinion/los-obstaculos-de-milei-para-la-reeleccion-nid24052026/",
+      "published_date": "2026-05-24T06:45:40+00:00"
+    },
+    {
+      "title": "Falta election results 2026 LIVE: BJP’s Debangshu Panda set for massive win; Suvendu's prediction comes true",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/falta-election-eci-results-live-updates-falta-repoll-bengal-bjp-debangshu-tmc-jahangir-pushpa-khan-latest-vote-counting-101779592279292.html",
+      "published_date": "2026-05-24T03:26:52+00:00"
+    },
+    {
+      "title": "Milei's obstacles to re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/opinion/los-obstaculos-de-milei-para-la-reeleccion-clone-nid24052026/",
+      "published_date": "2026-05-24T03:10:00+00:00"
+    },
+    {
+      "title": "After Rahul Gandhi’s Bengal attack, Kerala Chief Election Officer new posting sparks questions on EC impartiality",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/thiruvananthapuram/after-rahul-gandhis-bengal-attack-kerala-chief-election-officer-new-posting-sparks-questions-on-ec-impartiality-10704893/",
+      "published_date": "2026-05-24T01:47:24+00:00"
+    },
     {
       "title": "María Corina Machado affirms that she will be a presidential candidate in “clean and free” elections in Venezuela",
       "source": "La Tercera Chile",
@@ -2410,97 +2466,6 @@
       "country": "Brazil",
       "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
       "published_date": "2026-05-10T12:00:25+00:00"
-    },
-    {
-      "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
-      "published_date": "2026-05-10T11:18:30+00:00"
-    },
-    {
-      "title": "United Kingdom: political crisis and calls for the resignation of Keir Starmer",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-royaume-uni-crise-politique-et-appels-%C3%A0-la-d%C3%A9mission-de-keir-starmer",
-      "published_date": "2026-05-10T10:47:33+00:00"
-    },
-    {
-      "title": "Iran's Supreme Leader briefs military chief on 'new guiding measures', Fars agency says - Reuters",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWlHeDZWa2hYMWN4b29IUEx4dXlqbEZHc0tCZ2JmcWVKMl9nVTU4N0JKVXg2MklOZ0ZIYndIMkNIU2gzSGpPbVJMRHFqdVE0cG9IX0tlclpnNnFhX2RFa0FxR1o3QWJYX1o4SjdKNFdNT0hmMWJ5Q1JiMnhoUlBTUnh1bC1JcDVmSUhOVU5mOU9FRHhRUW42SVVuc0NoX1RlczYtT2FOU3BIaWRZYU4zcUdtSVRmZ2JDN1lIb1JjM3kxdHlYQnMyazA0ODFKZEE?oc=5",
-      "published_date": "2026-05-10T10:33:59+00:00"
-    },
-    {
-      "title": "Inauguration of Dhyan Mandir at Art of Living: PM Modi stresses on mental wellbeing",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/inauguration-of-dhyan-mandir-at-art-of-living-pm-modi-stresses-on-mental-wellbeing/article70962019.ece",
-      "published_date": "2026-05-10T10:30:09+00:00"
-    },
-    {
-      "title": "New government speaks less about supporting Ukraine, but support continues, says Czech ambassador",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4121682-new-government-speaks-less-about-supporting-ukraine-but-support-continues-says-czech-ambassador.html",
-      "published_date": "2026-05-10T10:28:00+00:00"
-    },
-    {
-      "title": "Starmer vows to stay on after local elections deliver losses for Labour",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour",
-      "published_date": "2026-05-10T09:02:04+00:00"
-    },
-    {
-      "title": "A ‘just and noble revolt’: The British rebel who backed the 1857 rebellion",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/opinion/columns/ernest-charles-jones-chartist-dissent-1857-indian-revolt-history-10682329/",
-      "published_date": "2026-05-10T09:00:32+00:00"
-    },
-    {
-      "title": "Syria sees first government reshuffle since al-Assad’s ouster",
-      "source": "Al Jazeera English",
-      "country": "Syria",
-      "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
-      "published_date": "2026-05-10T08:55:12+00:00"
-    },
-    {
-      "title": "Expert Explains: On May 10, 1857, how Mangal Pandey inspired a rebellion that rattled the British",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/explained/explained-history/revolt-of-1857-mangal-pandey-british-rule-india-expert-explains-10682228/",
-      "published_date": "2026-05-10T07:59:27+00:00"
-    },
-    {
-      "title": "“A real criminal”: Atef Najib, this cousin of Bashar al-Assad tried in Syria for his abuses during the civil war",
-      "source": "Le Figaro France",
-      "country": "Syria",
-      "url": "https://www.lefigaro.fr/international/un-vrai-criminel-atef-najib-ce-cousin-de-bachar-el-assad-juge-en-syrie-pour-ses-exactions-durant-la-guerre-civile-20260510",
-      "published_date": "2026-05-10T07:00:00+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Jean-Luc Mélenchon calls on left-wing parties to avoid “anti-LFI suicide”",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/05/10/presidentielle-2027-jean-luc-melenchon-appelle-les-partis-de-gauche-a-eviter-le-suicide-anti-lfi_6687689_6205049.html",
-      "published_date": "2026-05-10T06:59:17+00:00"
-    },
-    {
-      "title": "Brazilian Supreme Court stops law that could reduce sentences for Bolsonaro and those accused of attempted coup",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/tribunal-supremo-de-brasil-frena-ley-que-podia-rebajar-condenas-a-bolsonaro-y-acusados-por-intento-de-golpe/",
-      "published_date": "2026-05-10T02:12:16+00:00"
-    },
-    {
-      "title": "Suvendu Adhikari sworn in as Bengal’s first BJP CM",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/suvendu-adhikari-sworn-in-as-bengal-s-first-bjp-cm-101778374723679.html",
-      "published_date": "2026-05-10T01:05:42+00:00"
     }
   ]
 }
