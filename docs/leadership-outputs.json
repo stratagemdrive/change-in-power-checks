@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-24T12:05:31.437093+00:00",
-    "story_count": 344,
+    "last_updated": "2026-05-24T23:59:01.089272+00:00",
+    "story_count": 346,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Paloma Valencia closed her campaign at the Movistar Arena in Bogotá: 'We are made not to win polls, but to win elections'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-cerro-su-campana-en-el-movistar-arena-de-bogota-no-estamos-hechos-no-para-ganar-encuestas-sino-para-ganar-elecciones-3558028",
+      "published_date": "2026-05-24T20:04:49+00:00"
+    },
+    {
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "source": "BBC World",
+      "country": "Turkey",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T19:49:39+00:00"
+    },
+    {
+      "title": "How will Iran war fallout impact upcoming US elections?",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
+      "published_date": "2026-05-24T19:30:00+00:00"
+    },
+    {
+      "title": "Police in Turkey force ousted opposition out of headquarters as crisis deepens",
+      "source": "South China Morning Post",
+      "country": "Turkey",
+      "url": "https://www.scmp.com/news/world/europe/article/3354702/police-turkey-force-ousted-opposition-out-headquarters-crisis-deepens?utm_source=rss_feed",
+      "published_date": "2026-05-24T18:39:02+00:00"
+    },
+    {
+      "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-tried-to-stitch-coalition-govt-in-tamil-nadu-with-dmk-and-aiadmk-on-election-result-day-congress-mp-manickam-tagore/article71017525.ece",
+      "published_date": "2026-05-24T18:09:59+00:00"
+    },
+    {
+      "title": "Panama Agreement and elections in Venezuela: Between technical times, “realpolitik” and the necessary unity",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/acuerdo-de-panama-y-elecciones-en-venezuela-entre-los-tiempos-tecnicos-la-realpolitik-y-la-necesaria-unidad/",
+      "published_date": "2026-05-24T16:33:00+00:00"
+    },
+    {
+      "title": "Turkey riot police use tear gas to take opposition party HQ in Ankara",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/turkey-riot-police-use-tear-gas-to-take-opposition-party-hq-in-ankara",
+      "published_date": "2026-05-24T14:37:33+00:00"
+    },
+    {
+      "title": "Tear gas and rubber bullets: Turkey’s main opposition ousted from HQ after dramatic 3-day standoff",
+      "source": "Indian Express",
+      "country": "Turkey",
+      "url": "https://indianexpress.com/article/world/turkey-opposition-chp-headquarters-police-raid-ozgur-ozel-erdogan-standoff-10705875/",
+      "published_date": "2026-05-24T14:31:54+00:00"
+    },
+    {
+      "title": "Witness to the death of Yulixa Toloza assured that María Fernanda Delgado and her husband were \"praying\" in Venezuela before being captured",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/testigo-de-la-muerte-de-yulixa-toloza-aseguro-que-maria-fernanda-delgado-y-su-esposo-estaban-rezando-en-venezuela-antes-de-ser-capturados/",
+      "published_date": "2026-05-24T14:02:10+00:00"
+    },
+    {
+      "title": "Turkey riot police use tear gas to drive ousted opposition leader from party HQ",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/asia-pacific/20260524-turkey-riot-police-use-tear-gas-to-drive-ousted-opposition-leader-from-party-hq",
+      "published_date": "2026-05-24T13:39:09+00:00"
+    },
+    {
+      "title": "Türkiye: opposition leader Özgür Özel removed from CHP headquarters by police",
+      "source": "France 24 FR",
+      "country": "Turkey",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260524-turquie-la-police-d%C3%A9loge-le-chef-d%C3%A9chu-du-chp-le-principal-parti-d-opposition",
+      "published_date": "2026-05-24T12:39:10+00:00"
+    },
+    {
+      "title": "Turkish police storm offices of main opposition party, firing tear gas and rubber bullets - NBC News",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lnQmZiQWE2UWRncEJIblhpR2VOZDBHcUoyekJfdjVZc3FkZ0lpSlpfRlZqa0l6eTNDSjJtbTNuSGRqdEk4VkZJbWhRYjNmQWpWYS0zRHk1TUVpR1Q3VEozcC1XdkZqQXV4eGpIY3R5NmFsSERWR2Q5S0tsenUybXYzekJDRnhiakstcWdTOHNnVFB0Qy00bkNnWDlXcTJLZlpKVlQtRVlYNnU5a2V1Ym13TG5EYzg?oc=5",
+      "published_date": "2026-05-24T12:32:24+00:00"
+    },
+    {
+      "title": "Iran's supreme leader and security council must still approve eventual deal with the US.",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-y-consejo-de-seguridad-de-iran-aun-deben-aprobar-eventual-acuerdo-con-eeuu/",
+      "published_date": "2026-05-24T12:23:43+00:00"
+    },
+    {
+      "title": "Turkish police enter opposition party headquarters to evict ousted leader",
+      "source": "DR News Denmark",
+      "country": "Turkey",
+      "url": "https://www.dr.dk/nyheder/seneste/tyrkisk-politi-gaar-ind-paa-oppositionspartis-hovedkvarter-smide-afsat-leder-ud",
+      "published_date": "2026-05-24T12:09:00+00:00"
+    },
     {
       "title": "Congress will not rest till Education Minister Pradhan resigns: Rahul Gandhi on NEET paper leak row",
       "source": "The Hindu Politics",
@@ -95,7 +193,7 @@
       "published_date": "2026-05-24T06:45:40+00:00"
     },
     {
-      "title": "Falta election results 2026 LIVE: BJP’s Debangshu Panda set for massive win; Suvendu's prediction comes true",
+      "title": "Falta election results 2026 highlights: BJP’s Debangshu Panda sweeps Falta by margin of over 1 lakh votes",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/falta-election-eci-results-live-updates-falta-repoll-bengal-bjp-debangshu-tmc-jahangir-pushpa-khan-latest-vote-counting-101779592279292.html",
@@ -2382,90 +2480,6 @@
       "country": "Colombia",
       "url": "https://www.latercera.com/opinion/noticia/en-las-elecciones-colombianas-dos-conservadores-luchan-por-enfrentarse-a-cepeda/",
       "published_date": "2026-05-11T00:30:00+00:00"
-    },
-    {
-      "title": "They captured alias La Tía accused of the murder of a Venezuelan teenager in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/capturaron-a-alias-la-tia-senalada-del-homicidio-de-un-adolescente-venezolano-en-colombia/",
-      "published_date": "2026-05-10T20:34:00+00:00"
-    },
-    {
-      "title": "The Labor rebellion against Starmer grows and names are already emerging to replace him",
-      "source": "La Nacion Argentina",
-      "country": "United Kingdom",
-      "url": "https://www.lanacion.com.ar/el-mundo/crece-la-rebelion-laborista-contra-starmer-y-ya-surgen-nombres-para-reemplazarlo-nid10052026/",
-      "published_date": "2026-05-10T19:29:53+00:00"
-    },
-    {
-      "title": "In Reims, Edouard Philippe projects Horizons towards the presidential election and poses as a candidate unifying a “free France”",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/10/a-reims-edouard-philippe-projette-horizons-vers-la-presidentielle-et-se-pose-en-candidat-rassembleur-d-une-france-libre_6687730_823448.html",
-      "published_date": "2026-05-10T18:21:36+00:00"
-    },
-    {
-      "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks - Reuters",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmdGeXh4WTJrbWZIdWJpYWRIQXE4Si1JSk9vNU5CRWdBb1NNVHhrQk82WlJ1ZGZYcTBnMUhoYTJIUi10SUtmTUxLVTQ2TTRsVUN6NWMzNldDejFKZTNMY09kR3BIX1ZQZG1ER0ZwNlZOcGNtN19RRndhVHhPTndOY2dKNk5PZnZwbnUwYWZaMlRwNjIxS3RaSzRtaDB5U0Z1azZoSlRpWE5CSktsa3hQdA?oc=5",
-      "published_date": "2026-05-10T18:16:09+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Latvian Defense Minister resigns",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lettischer-verteidigungsminister-tritt-zurueck-faz-110683325.html",
-      "published_date": "2026-05-10T17:22:07+00:00"
-    },
-    {
-      "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks - Yahoo",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0pxRGpraWJHa0JGZVFkMHgyeVJ4YmJQZk5QMThud0dSS3ZQQWNPZlFtcm5Za1RuWjN3UDQtNWhZZ1VFS212dXp0QXpHV1oxNEhiTFo1RFFjN2RieE12SEtVbzBhdFhzSl9idjhHajRTdXVZckt4SFdXUXJMeGFqODk3aXBOLUZlNzd6VHdTa2lvTTJLRy0zOQ?oc=5",
-      "published_date": "2026-05-10T17:05:33+00:00"
-    },
-    {
-      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
-      "source": "Deutsche Welle English",
-      "country": "Syria",
-      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-10T17:04:00+00:00"
-    },
-    {
-      "title": "Britain’s Starmer fights for his job as calls for his ouster grow after local election losses - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVU16TjVhYlBXNWdJMllHWmNkaVBaZ1JXOFpBSUpnaEVCRUpnU3R2X2xjdnN0QjVVcTNrT2UtZWtWZjVNRWgyNlhkQjJfY1l3TG9HY2ZER1czTU1kaXZVU0pJeGZKdGg0SmlHUHlVZHE1OEdpZ2phTmtqY3l1a0NlTkEzVm9KTHdRZ3ViMXZGUjB0dEplLVhXY0EyZ1hzNjg?oc=5",
-      "published_date": "2026-05-10T16:38:00+00:00"
-    },
-    {
-      "title": "Revive Covid-time WFH methods, avoid foreign travel for a year: PM Modi’s appeal to people amid West Asia crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/pm-modi-hyderabad-speech-west-asia-crisis-petrol-diesel-gold-reduction-10682817/",
-      "published_date": "2026-05-10T15:48:50+00:00"
-    },
-    {
-      "title": "PM Modi calls on Indians to use petrol, diesel with ‘great restraint’ amid West Asia crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/pm-modi-petrol-diesel-iran-war-west-asia-crisis-restraint-10682740/",
-      "published_date": "2026-05-10T13:48:11+00:00"
-    },
-    {
-      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
-      "source": "NPR World",
-      "country": "United Kingdom",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
-      "published_date": "2026-05-10T12:27:36+00:00"
-    },
-    {
-      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
-      "published_date": "2026-05-10T12:00:25+00:00"
     }
   ]
 }
