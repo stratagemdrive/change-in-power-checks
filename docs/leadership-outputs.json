@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-24T23:59:01.089272+00:00",
-    "story_count": 346,
+    "last_updated": "2026-05-25T14:02:51.316138+00:00",
+    "story_count": 343,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Syria’s limited Kurdish election exposes limits of Damascus’s democratic transition - analysis",
+      "source": "Jerusalem Post",
+      "country": "Syria",
+      "url": "https://www.jpost.com/middle-east/article-897247",
+      "published_date": "2026-05-25T15:27:45+00:00"
+    },
+    {
+      "title": "Elections in Colombia: recent survey points to a close dispute between the left and the extreme right",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/elecciones-en-colombia-reciente-encuesta-apunta-a-una-disputa-cerrada-entre-izquierda-y-ultraderecha/",
+      "published_date": "2026-05-25T13:58:45+00:00"
+    },
+    {
+      "title": "Russia suspends sales of more Armenian goods ahead of election",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/russia-suspends-sales-of-more-armenian-goods-ahead-of-election/",
+      "published_date": "2026-05-25T13:55:00+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: the campaign ends before the election on May 31",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260525-pr%C3%A9sidentielle-en-colombie-la-campagne-s-ach%C3%A8ve-avant-l-%C3%A9lection-du-31-mai",
+      "published_date": "2026-05-25T13:51:51+00:00"
+    },
+    {
+      "title": "2026 presidential elections in Colombia: the National Registrar, Hernán Penagos, delivered a balance sheet ahead of the first round on May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-fue-el-cierre-de-campana-de-los-candidatos-a-pocos-dias-de-la-primera-vuelta-del-domingo-31-de-mayo-3558113",
+      "published_date": "2026-05-25T13:48:19+00:00"
+    },
+    {
+      "title": "MP Debasish Samantaray quits BJD, steps down as member of Rajya Sabha, likely to join BJP",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/odisha/debashish-samantaray-quits-bjd-and-rajya-sabha-membership-set-to-join-bjp/article71020565.ece",
+      "published_date": "2026-05-25T13:18:55+00:00"
+    },
+    {
+      "title": "Iran says supreme leader suffered only ‘superficial’ wounds in US-Israel strike",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/05/iran-says-supreme-leader-suffered-only-superficial-wounds-in-us-israel-strike/",
+      "published_date": "2026-05-25T13:06:39+00:00"
+    },
+    {
+      "title": "Tinubu’s re-election is ‘personal project’ for Kogi  – Ododo",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/05/tinubus-re-election-is-personal-project-for-kogi-ododo/",
+      "published_date": "2026-05-25T11:49:00+00:00"
+    },
+    {
+      "title": "India orders new deportation centres days after BJP election victory",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3354785/india-orders-new-deportation-centres-days-after-bjp-election-victory?utm_source=rss_feed",
+      "published_date": "2026-05-25T11:37:17+00:00"
+    },
+    {
+      "title": "Security and social reform dominate Colombia’s presidential race",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/security-and-social-reform-dominate-colombia-s-presidential-race",
+      "published_date": "2026-05-25T10:24:18+00:00"
+    },
+    {
+      "title": "Turkish police storm CHP headquarters amid political crisis",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/video/20260525-turkish-police-storm-chp-headquarters-amid-political-crisis",
+      "published_date": "2026-05-25T08:57:44+00:00"
+    },
+    {
+      "title": "Venezuela's government faces calls for elections after failed release of prisoners",
+      "source": "NPR World",
+      "country": "Venezuela",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-faces-calls-for-elections-after-failed-release-of-prisoners",
+      "published_date": "2026-05-25T08:40:29+00:00"
+    },
+    {
+      "title": "Belarusian opposition leader Sviatlana Tsikhanouskaya arrives in Kyiv on her first official visit",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/05/25/belarusian-opposition-leader-sviatlana-tsikhanouskaya-arrives-in-kyiv-on-her-first-official-visit",
+      "published_date": "2026-05-25T08:18:34+00:00"
+    },
+    {
+      "title": "Turkish police storm opposition party headquarters as leadership dispute turns violent",
+      "source": "The Independent UK",
+      "country": "Turkey",
+      "url": "https://www.independent.co.uk/news/world/europe/turkey-opposition-party-chp-police-raid-ozgur-ozel-b2982962.html",
+      "published_date": "2026-05-25T07:05:20+00:00"
+    },
+    {
+      "title": "Belarusian opposition leader Tsikhanouskaya arrives in Kyiv",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4126863-belarusian-opposition-leader-tsikhanouskaya-arrives-in-kyiv.html",
+      "published_date": "2026-05-25T06:42:00+00:00"
+    },
+    {
+      "title": "‘Network of couriers used to pass messages’: Iran’s supreme leader in undisclosed location with limited contact, US intelligence says",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/us-news/iran-supreme-leader-mojtaba-khamenei-undisclosed-location-us-intelligence-10706257/",
+      "published_date": "2026-05-25T05:41:57+00:00"
+    },
+    {
+      "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss",
+      "published_date": "2026-05-25T04:00:00+00:00"
+    },
     {
       "title": "Paloma Valencia closed her campaign at the Movistar Arena in Bogotá: 'We are made not to win polls, but to win elections'",
       "source": "El Tiempo Colombia",
@@ -2340,146 +2459,6 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-ato/4122067-voloshyn-explains-how-false-russian-reports-about-captured-territories-affect-further-assaults.html",
       "published_date": "2026-05-11T13:59:00+00:00"
-    },
-    {
-      "title": "Sudan civil war enters 'deadlier' phase due to use of drones, says UN",
-      "source": "RFI English",
-      "country": "Sudan",
-      "url": "https://www.rfi.fr/en/africa/20260511-sudan-conflict-enters-deadlier-phase-due-to-drones-un-civilan-deaths",
-      "published_date": "2026-05-11T13:31:16+00:00"
-    },
-    {
-      "title": "Iran says seizes assets of ex-football captain turned exiled critic",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/05/iran-says-seizes-assets-of-ex-football-captain-turned-exiled-critic/",
-      "published_date": "2026-05-11T13:15:43+00:00"
-    },
-    {
-      "title": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3353179/will-starmers-election-woes-force-shake-uks-ties-china?utm_source=rss_feed",
-      "published_date": "2026-05-11T13:12:06+00:00"
-    },
-    {
-      "title": "Starmer pledges to bring Britain closer to the EU as he faces calls to step down - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzhxRHlHV005VWtsbEFTZVNsS2J1RW1zNU1Rd18yeTB1WVVLZXd6VTRnVWFUYUpONldrdGFfRXpMVUlabmdFbE9nMDFwcWhkUFZZeFE0Z3VVWlIxcFdENF9LaG10VTdYLXFIeG83NUItbGQyTXJtcWtndWI3X1E2TmxjX2FVTUwtS1NzUzNPZkhmRTFFSGxPbDBEbEpJLVhjU0p1Q3J5ZHM?oc=5",
-      "published_date": "2026-05-11T13:09:00+00:00"
-    },
-    {
-      "title": "Could UK Prime Minister Keir Starmer be forced out after local election losses?",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/explained/explained-global/keir-starmer-leadership-challenge-labour-party-rules-10684119/",
-      "published_date": "2026-05-11T13:04:33+00:00"
-    },
-    {
-      "title": "Iran claims supreme leader recovered from ‘scratch behind the ear’ after reports of serious injury",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-recovered-serious-injury-b2974137.html",
-      "published_date": "2026-05-11T11:18:45+00:00"
-    },
-    {
-      "title": "Leadership crisis: Starmer invokes 'battle for the soul' of the nation",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/starmer-will-grossbritannien-enger-an-europa-binden-accg-200819862.html",
-      "published_date": "2026-05-11T11:16:29+00:00"
-    },
-    {
-      "title": "Leaked Russian document outlines planned ‘anti-Pashinyan’ campaign ahead of Armenia elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/leaked-russian-document-outlines-planned-anti-pashinyan-campaign-ahead-of-armenia-elections/",
-      "published_date": "2026-05-11T11:06:58+00:00"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-11T10:55:00+00:00"
-    },
-    {
-      "title": "U.K. Sanctions Russian ‘Disinformation’ Outfit Over Plot to Sway Armenian Elections",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/05/11/uk-sanctions-russian-disinformation-outfit-over-plot-to-sway-armenian-elections-a92729",
-      "published_date": "2026-05-11T10:41:09+00:00"
-    },
-    {
-      "title": "Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation – in Latvia - Defense News",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2lxNHZMMS15S0lOZjVPV0hObWF0T1dwWXJES0s1U1NFY2Q0dmlFN1RlaERCRlNyR1gtekY5MmI3bWFuMGxCVjIzZjRlMXRVWWxZOWVxM2xQdlJsMS14TENleWU1Q0VwMDB4YVBWOGE1a0YtU3FjaUE2NUVtV1Q3Y3B3amc3dzByUkRkRDlvWF9fbUFESGJFVGs0dGJVU0RLLUk5YmthSGI4NWdPZmlzakNFV29MSjJpeTRQbnRRT0lLSXZwTVBMUXZ6Si1EeW40WXhQWDRtUTAtN2M?oc=5",
-      "published_date": "2026-05-11T10:32:34+00:00"
-    },
-    {
-      "title": "Keir Starmer rules out resigning despite local election results, vows to prove 'those who doubt him' in UK wrong",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/05/11/keir-starmer-exclut-de-demissionner-malgre-les-resultats-des-elections-locales-et-promet-de-prouver-a-ceux-qui-doutent-de-lui-au-royaume-uni-qu-ils-ont-tort_6688109_3210.html",
-      "published_date": "2026-05-11T10:27:14+00:00"
-    },
-    {
-      "title": "REPLAY: Under-pressure UK PM addresses nation after election losses",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260511-replay-under-pressure-uk-pm-addresses-nation-after-election-losses",
-      "published_date": "2026-05-11T10:09:47+00:00"
-    },
-    {
-      "title": "France: the center seeks its leader for the 2027 presidential election",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260511-france-le-centre-cherche-son-leader-pour-la-pr%C3%A9sidentielle-2027",
-      "published_date": "2026-05-11T10:00:03+00:00"
-    },
-    {
-      "title": "Opposition slams PM Modi’s call to cut fuel use and foreign travel, alleges ‘policy failure’ and ‘election-focused governance’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/mumbai/aharashtra-mva-pm-modi-fuel-gold-reduction-appeal-west-asia-crisis-10683785/",
-      "published_date": "2026-05-11T09:58:09+00:00"
-    },
-    {
-      "title": "United Kingdom: Keir Starmer under pressure, Labor voices demand his resignation",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260511-royaume-uni-keir-starmer-sous-pression-des-voix-travaillistes-r%C3%A9clament-sa-d%C3%A9mission",
-      "published_date": "2026-05-11T09:27:58+00:00"
-    },
-    {
-      "title": "Myanmar junta blocks China border trade routes controlled by MNDAA",
-      "source": "Myanmar Now",
-      "country": "China",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-blocks-china-border-trade-routes-controlled-by-mndaa/",
-      "published_date": "2026-05-11T09:18:02+00:00"
-    },
-    {
-      "title": "Ahead of US-China summit, Taiwan’s opposition leader says island can embrace both powers",
-      "source": "Egypt Independent",
-      "country": "Taiwan",
-      "url": "https://www.egyptindependent.com/ahead-of-us-china-summit-taiwans-opposition-leader-says-island-can-embrace-both-powers/",
-      "published_date": "2026-05-11T09:08:38+00:00"
-    },
-    {
-      "title": "‘Proof of failure’: Rahul Gandhi on PM’s WFH, Metro tips amid West Asia crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/proof-of-failure-rahul-gandhi-on-narendra-modi-wfh-metro-tips-amid-west-asia-crisis-10683391/",
-      "published_date": "2026-05-11T05:58:01+00:00"
-    },
-    {
-      "title": "In the Colombian elections, two conservatives fight to confront Cepeda",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/opinion/noticia/en-las-elecciones-colombianas-dos-conservadores-luchan-por-enfrentarse-a-cepeda/",
-      "published_date": "2026-05-11T00:30:00+00:00"
     }
   ]
 }
