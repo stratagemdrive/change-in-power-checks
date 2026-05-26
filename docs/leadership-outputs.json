@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-25T14:02:51.316138+00:00",
-    "story_count": 343,
+    "last_updated": "2026-05-26T00:04:04.388114+00:00",
+    "story_count": 335,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Carney says Alberta referendum 'dangerous bluff' similar to Brexit - BBC",
+      "source": "Google News World",
+      "country": "Canada",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GMVBoWDVFclB4MEgySDcxcFhONUxsQ1lHTGlhY09mT3lkUmprS0t3N0p1ZDl4eFRQWG9WOWNoY2xjZ0JueGtmUHV5aW01eXUydGNHU3doMTNRUQ?oc=5",
+      "published_date": "2026-05-25T20:41:50+00:00"
+    },
+    {
+      "title": "How Uyghurs from China helped Syrian rebels overthrow Bashar al-Assad",
+      "source": "NPR World",
+      "country": "China",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5553312/how-uyghurs-from-china-helped-syrian-rebels-overthrow-bashar-al-assad",
+      "published_date": "2026-05-25T20:23:22+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: six days before the presidential elections, two campaigns have not yet reported their accounts",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-a-seis-dias-de-las-presidenciales-dos-campanas-aun-no-reportan-sus-cuentas-3558238",
+      "published_date": "2026-05-25T19:57:47+00:00"
+    },
+    {
+      "title": "Cepeda, Valencia, De la Espriella: who are the three favorites for the presidential election in Colombia?",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260525-cepeda-valencia-de-la-espriella-qui-sont-les-trois-favoris-de-la-pr%C3%A9sidentielle-en-colombie",
+      "published_date": "2026-05-25T19:35:13+00:00"
+    },
+    {
+      "title": "Exiled Belarus opposition leader visits Ukraine as Kyiv warns of escalation",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/europe/article/3354812/exiled-belarus-opposition-leader-visits-ukraine-kyiv-warns-escalation?utm_source=rss_feed",
+      "published_date": "2026-05-25T19:02:29+00:00"
+    },
+    {
+      "title": "Belarusian opposition leader calls for stronger Ukraine ties with democratic Belarus",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4127167-belarusian-opposition-leader-calls-for-stronger-ukraine-ties-with-democratic-belarus.html",
+      "published_date": "2026-05-25T17:59:00+00:00"
+    },
+    {
+      "title": "Belarus opposition leader visits Kyiv after Russia's most devastating attack this year",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/05/25/belarus-opposition-leader-visits-kyiv-after-russias-most-devastating-attack-this-year",
+      "published_date": "2026-05-25T16:15:42+00:00"
+    },
+    {
       "title": "Syria’s limited Kurdish election exposes limits of Damascus’s democratic transition - analysis",
       "source": "Jerusalem Post",
       "country": "Syria",
       "url": "https://www.jpost.com/middle-east/article-897247",
       "published_date": "2026-05-25T15:27:45+00:00"
+    },
+    {
+      "title": "Gujarat HC allows detained AAP member to cast vote in Junagadh Panchayat election",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/legal-news/gujarat-hc-police-escort-arrested-aap-sanjay-paghdar-vote-junagadh-polls-10707452/",
+      "published_date": "2026-05-25T14:25:47+00:00"
     },
     {
       "title": "Elections in Colombia: recent survey points to a close dispute between the left and the extreme right",
@@ -172,6 +228,13 @@
       "published_date": "2026-05-25T05:41:57+00:00"
     },
     {
+      "title": "Presidential candidate Paloma Valencia met with María Corina Machado in Panama",
+      "source": "El Nacional Venezuela",
+      "country": "Panama",
+      "url": "https://www.elnacional.com/2026/05/candidata-presidencial-paloma-valencia-se-reunio-con-maria-corina-machado-en-panama/",
+      "published_date": "2026-05-25T04:01:00+00:00"
+    },
+    {
       "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
       "source": "CBC News World",
       "country": "Israel",
@@ -212,6 +275,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-tried-to-stitch-coalition-govt-in-tamil-nadu-with-dmk-and-aiadmk-on-election-result-day-congress-mp-manickam-tagore/article71017525.ece",
       "published_date": "2026-05-24T18:09:59+00:00"
+    },
+    {
+      "title": "Colombia’s pivotal, polarised election could not be tighter - The Economist",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3hBLW1pYzFuR0t4SF9qYndjWng0ZnBEdVJNMm5jS2czcTg5eVB0WmVDY2dJeElNUEk0MkoxMVYzNTBMMnFqM21YSE5nblpHM0pwWnc4czAxUWpEZV9jdVEtdmlEQkYyY0JMU2V6SUVURkNySTBOaXdTd3pNdzZGQ0tfVkRDSjR4aVQzclctdnVyLVNtUk4zMEx1cWsyNko2dnZhVVVDazdqQkk?oc=5",
+      "published_date": "2026-05-24T17:15:48+00:00"
     },
     {
       "title": "Panama Agreement and elections in Venezuela: Between technical times, “realpolitik” and the necessary unity",
@@ -2333,132 +2403,6 @@
       "country": "China",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government?utm_source=rss_feed",
       "published_date": "2026-05-11T23:59:37+00:00"
-    },
-    {
-      "title": "Venezuela’s acting president pushes back on Trump’s 51st state remarks",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/venezuela-51st-state-trump-delcy-rodriguez-b2974642.html",
-      "published_date": "2026-05-11T23:19:47+00:00"
-    },
-    {
-      "title": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260511-pressure-mounts-on-british-pm-starmer-to-quit-after-crushing-labour-election-losses",
-      "published_date": "2026-05-11T23:13:16+00:00"
-    },
-    {
-      "title": "Cabinet split as Home Secretary Shabana Mahmood among ministers calling for Starmer to set out timetable for resignation - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjTU96RXNfUklwY01ibHRwRG5oQ3ZaSkdrZ0pxdWY4M214N3VpTHFhdWliYjAzYWRtNU1yTTZZRzhPZFRzajVmcHVxRk5RaDBBZ2lYNQ?oc=5",
-      "published_date": "2026-05-11T22:46:58+00:00"
-    },
-    {
-      "title": "Senior cabinet ministers and more than 70 MPs call for Keir Starmer’s resignation as speech fails to quell rebellion – as it happened",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-      "published_date": "2026-05-11T22:16:57+00:00"
-    },
-    {
-      "title": "Why welfare isn't winning elections in India like it used to",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T22:12:16+00:00"
-    },
-    {
-      "title": "Several MPs are calling for Starmer to step down",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10839172/Flere-parlamentsmedlemmer-opfordrer-Starmer-til-at-g%C3%A5-af",
-      "published_date": "2026-05-11T21:40:07+00:00"
-    },
-    {
-      "title": "Lapid says more party mergers to come soon ahead of elections, as Liberman calls for constitution",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-895832",
-      "published_date": "2026-05-11T21:12:59+00:00"
-    },
-    {
-      "title": "Venezuelan opposition will begin a national tour to demand transparent elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/oposicion-venezolana-iniciara-gira-nacional-para-exigir-elecciones-transparentes/",
-      "published_date": "2026-05-11T20:03:49+00:00"
-    },
-    {
-      "title": "As Hungary’s new PM, Magyar’s hunt for Orban’s protégés has already begun - France 24",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlNlOC10NDZNMWFmdmJ4alA1QmtndG9IVjMzYjl6Z2s1OVJuLW9BMW41VnotWXUyVzMtV1B5TEpPWXFySGt2c3g5dmxLRGZ2RnpKYlhxWjhaaWRpWkpTSnRsVWtzRzh2M3NSQVZ0Vkh0aG0xejZXbFZ3VUc3X25SVGszOWxKVUxxaFlnWkNyYWdmYnhOaVg4b2t4cEJ3UmhndlVOYnNfbDJGNFFFeE8xWDZfcUlzbnEySVNxNQ?oc=5",
-      "published_date": "2026-05-11T19:34:36+00:00"
-    },
-    {
-      "title": "Two government advisers resign and demand Keir Starmer's resignation",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/regeringsraadgivere-gaar-af-og-kraever-keir-starmers-afgang",
-      "published_date": "2026-05-11T17:52:00+00:00"
-    },
-    {
-      "title": "From the Editorial Team: Undersecretary of Justice defends the expansion of Santiago 1 and invites Desbordes to the inauguration",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/desde-la-redaccion-subsecretario-de-justicia-defiende-ampliacion-de-santiago-1-e-invita-a-desbordes-a-inauguracion/",
-      "published_date": "2026-05-11T16:21:12+00:00"
-    },
-    {
-      "title": "Starmer pledges to bring Britain closer to the EU as he faces calls to step down",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260511-starmer-pledges-to-bring-britain-closer-to-the-eu-as-he-faces-calls-to-step-down",
-      "published_date": "2026-05-11T15:24:48+00:00"
-    },
-    {
-      "title": "After British elections: Farage smiles across the abyss",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahlen-in-grossbritannien-ueber-den-graben-hinweg-laechelt-farage-200821410.html",
-      "published_date": "2026-05-11T15:10:40+00:00"
-    },
-    {
-      "title": "Denmark: The “Royal Round” says: This man should form a government",
-      "source": "FAZ Germany",
-      "country": "Denmark",
-      "url": "https://www.faz.net/aktuell/politik/ausland/regierungsbildung-in-daenemark-poulsen-wird-verhandlungsfuehrer-200819811.html",
-      "published_date": "2026-05-11T15:06:36+00:00"
-    },
-    {
-      "title": "RSF commander ‘El Safana’ announces defection ‘to the Sudanese people’",
-      "source": "Radio Dabanga Sudan",
-      "country": "Sudan",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-commander-el-safana-announces-defection-to-the-sudanese-people",
-      "published_date": "2026-05-11T15:01:00+00:00"
-    },
-    {
-      "title": "Relatives of suspected coup plotters stage peaceful protest in Abuja",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/relatives-of-suspected-coup-plotters-stage-peaceful-protest-in-abuja/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-11T14:44:23+00:00"
-    },
-    {
-      "title": "Armenia’s election season kicks off with Armenian lessons and heated foreign relations accusations",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenias-election-season-kicks-off-with-armenian-lessons-and-heated-foreign-relations-accusations/",
-      "published_date": "2026-05-11T13:59:14+00:00"
-    },
-    {
-      "title": "Voloshyn explains how false Russian reports about captured territories affect further assaults",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4122067-voloshyn-explains-how-false-russian-reports-about-captured-territories-affect-further-assaults.html",
-      "published_date": "2026-05-11T13:59:00+00:00"
     }
   ]
 }
