@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-26T00:04:04.388114+00:00",
-    "story_count": 335,
+    "last_updated": "2026-05-26T13:58:12.060770+00:00",
+    "story_count": 338,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,181 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "How Petro is ending his term with \"high and unusual\" popularity in Colombia (and what role he plays in the elections)",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/como-petro-esta-terminando-su-mandato-con-una-popularidad-alta-e-inusual-en-colombia-y-que-papel-juega-en-las-elecciones/",
+      "published_date": "2026-05-26T13:54:34+00:00"
+    },
+    {
+      "title": "UK may be ‘tipped into a general election’ if Burnham replaces Starmer, says Harman",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/may/26/uk-general-election-andy-burnham-replaces-keir-starmer-harriet-harman",
+      "published_date": "2026-05-26T13:36:53+00:00"
+    },
+    {
+      "title": "2026 presidential elections in Colombia: more than five thousand Colombians have exercised their right to vote in Miami, United States",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-segunda-jornada-de-votaciones-en-el-exterior-quedan-5-dias-para-los-comicios-en-el-pais-3558380",
+      "published_date": "2026-05-26T13:29:29+00:00"
+    },
+    {
+      "title": "Head of State Duma defense committee says Ukraine’s Verkhovna Rada and Zelensky’s office don’t qualify as ‘decision-making centers’ Russia has threatened to strike",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/05/26/head-of-state-duma-defense-committee-says-ukraine-s-verkhovna-rada-and-zelensky-s-office-don-t-qualify-as-decision-making-centers-russia-has-threatened-to-strike",
+      "published_date": "2026-05-26T13:28:59+00:00"
+    },
+    {
+      "title": "Turkish police use water cannon ahead of deposed opposition leader's speech in Izmir",
+      "source": "Euronews",
+      "country": "Turkey",
+      "url": "http://www.euronews.com/2026/05/26/turkish-police-use-water-cannon-ahead-of-deposed-opposition-leaders-speech-in-izmir",
+      "published_date": "2026-05-26T13:25:49+00:00"
+    },
+    {
+      "title": "'No reality in speculation': Congress rejects Karnataka CM change, says talks only on Rajya Sabha elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/no-reality-in-speculation-congress-rejects-buzz-on-karnataka-cm-change-says-talks-only-on-rajya-sabha-elections-101779799252770.html",
+      "published_date": "2026-05-26T12:46:05+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: how to vote for president from Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-como-votar-para-presidente-desde-la-argentina-nid14052026/",
+      "published_date": "2026-05-26T12:36:36+00:00"
+    },
+    {
+      "title": "What day are the presidential elections in Colombia 2026?",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
+      "published_date": "2026-05-26T12:36:33+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-26T12:36:30+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
+      "published_date": "2026-05-26T12:36:27+00:00"
+    },
+    {
+      "title": "Bob Amsterdam: the lawyer behind the opposition party trying to take down Pashinyan",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/bob-amsterdam-the-lawyer-behind-the-opposition-party-trying-to-take-down-pashinyan/",
+      "published_date": "2026-05-26T12:16:21+00:00"
+    },
+    {
+      "title": "Attal hardens migration line, with Macron camp split over 2027 presidential race",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260526-attal-hardens-migration-line-with-macron-camp-split-over-2027-presidential-race",
+      "published_date": "2026-05-26T12:06:36+00:00"
+    },
+    {
+      "title": "Iran Supreme Leader Khamenei warns US bases in Gulf ‘no longer have safe haven’ amid Hormuz talks",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/khamenei-warning-us-military-bases-gulf-strait-hormuz-iran-10708620/",
+      "published_date": "2026-05-26T11:39:03+00:00"
+    },
+    {
+      "title": "Myanmar junta and resistance forces engage in heavy clashes along Sagaing-Kachin border",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-and-resistance-forces-engage-in-heavy-clashes-along-sagaing-kachin-border/",
+      "published_date": "2026-05-26T11:15:18+00:00"
+    },
+    {
+      "title": "Iran's supreme leader stresses that Middle Eastern countries “will no longer be shields for US bases”",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/el-lider-supremo-de-iran-subraya-que-los-paises-de-medio-oriente-no-seran-ya-escudos-para-las-bases-de-estados-unidos/",
+      "published_date": "2026-05-26T11:07:47+00:00"
+    },
+    {
+      "title": "Ukrainian military denies Russian claims of capturing village of Riasne in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4127367-ukrainian-military-denies-russian-claims-of-capturing-village-of-riasne-in-sumy-region.html",
+      "published_date": "2026-05-26T09:45:00+00:00"
+    },
+    {
+      "title": "Iran's Supreme Leader vows Middle East will no longer be 'safe haven' for the US",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-says-middle-east-will-no-longer-be-safe-haven-us",
+      "published_date": "2026-05-26T09:38:58+00:00"
+    },
+    {
+      "title": "Head of Airports Authority inaugurates first meeting tasked with testing readiness of systems and equipment at Tripoli International Airport",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/05/head-of-airports-authority-inaugurates-first-meeting-tasked-with-testing-readiness-of-systems-and-equipment-at-tripoli-international-airport/",
+      "published_date": "2026-05-26T09:07:35+00:00"
+    },
+    {
+      "title": "Belarus warned not to get ‘dragged into Russia’s war’ as opposition leader visits Ukraine",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/belarus-ukraine-russia-war-sviatlana-tsikhanouskaya-kyiv-b2983473.html",
+      "published_date": "2026-05-26T09:04:39+00:00"
+    },
+    {
+      "title": "Iran supreme leader says regional nations will 'no longer be shields' for US bases",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2003236/iran-supreme-leader-says-regional-nations-will-no-longer-be-shields-for-us-bases",
+      "published_date": "2026-05-26T09:02:31+00:00"
+    },
+    {
+      "title": "Shin Bet chief David Zini met PA’s exiled Gaza security chief during wartime UAE visit - report",
+      "source": "Jerusalem Post",
+      "country": "UAE",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-897301",
+      "published_date": "2026-05-26T08:00:52+00:00"
+    },
+    {
+      "title": "Registrar's Office and Chancellery reported high influx in Colombian consulates during the first day of election day abroad",
+      "source": "El Tiempo Colombia",
+      "country": "Germany",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/reportan-alta-afluencia-de-votantes-en-consulados-de-colombia-en-miami-barcelona-londres-toronto-y-buenos-aires-en-primer-dia-de-jornada-electoral-3558357",
+      "published_date": "2026-05-26T07:31:34+00:00"
+    },
+    {
+      "title": "Myanmar junta counteroffensive pushes Karenni resistance into new phase of war",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-counteroffensive-pushes-karenni-resistance-into-new-phase-of-war/",
+      "published_date": "2026-05-26T07:09:10+00:00"
+    },
+    {
+      "title": "Why BJP’s Rajya Sabha call has spooked JMM ahead of June 18 election",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/bjp-rajya-sabha-call-spooked-jmm-june-election-10708246/",
+      "published_date": "2026-05-26T06:41:51+00:00"
+    },
+    {
+      "title": "Newsletter: Drone crisis talks in Lithuania as Russia steps up Kyiv threats",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/05/26/newsletter-drone-crisis-talks-in-lithuania-as-russia-steps-up-kyiv-threats",
+      "published_date": "2026-05-26T06:29:41+00:00"
+    },
     {
       "title": "Carney says Alberta referendum 'dangerous bluff' similar to Brexit - BBC",
       "source": "Google News World",
@@ -123,7 +298,7 @@
       "published_date": "2026-05-25T14:25:47+00:00"
     },
     {
-      "title": "Elections in Colombia: recent survey points to a close dispute between the left and the extreme right",
+      "title": "Elections in Colombia: recent survey points to a close dispute between the left and the right",
       "source": "El Nacional Venezuela",
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/05/elecciones-en-colombia-reciente-encuesta-apunta-a-una-disputa-cerrada-entre-izquierda-y-ultraderecha/",
@@ -1066,34 +1241,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/us-uk-arms-ban-forced-nigeria-to-buy-from-soviets-during-civil-war-gowon/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-19T12:21:10+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: how to vote for president from Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-como-votar-para-presidente-desde-la-argentina-nid14052026/",
-      "published_date": "2026-05-19T12:20:16+00:00"
-    },
-    {
-      "title": "What day are the presidential elections in Colombia 2026?",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
-      "published_date": "2026-05-19T12:20:10+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
-      "published_date": "2026-05-19T12:20:01+00:00"
-    },
-    {
-      "title": "When are the presidential elections in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
-      "published_date": "2026-05-19T12:19:54+00:00"
     },
     {
       "title": "Coalition partner: Would Merz actually prefer the Greens?",
@@ -2277,132 +2424,6 @@
       "country": "United Kingdom",
       "url": "https://politiken.dk/internationalt/art10840377/%C2%BBJeg-tror-det-er-uundg%C3%A5eligt%C2%AB",
       "published_date": "2026-05-12T15:02:57+00:00"
-    },
-    {
-      "title": "Mossad chief opposes Netanyahu’s successor pick: Israeli press review",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/mossad-chief-opposes-netanyahus-successor-pick-israeli-press-review",
-      "published_date": "2026-05-12T12:51:09+00:00"
-    },
-    {
-      "title": "Another minister resigns in protest against Starmer",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/endnu-en-minister-traekker-sig-i-protest-mod-starmer",
-      "published_date": "2026-05-12T12:36:00+00:00"
-    },
-    {
-      "title": "Jess Phillips resigns as minister after Keir Starmer tells cabinet he is not stepping down – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
-      "published_date": "2026-05-12T12:24:36+00:00"
-    },
-    {
-      "title": "Starmer reiterates to his cabinet his decision to remain in office despite the resignation of three ministers",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/starmer-reitera-a-su-gabinete-su-decision-de-seguir-en-el-cargo-pese-a-renuncia-de-dos-ministros/",
-      "published_date": "2026-05-12T12:23:43+00:00"
-    },
-    {
-      "title": "WIC to Nigerians: Register now for 2027 elections or lose your voice",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/05/wic-to-nigerians-register-now-for-2027-elections-or-lose-your-voice/",
-      "published_date": "2026-05-12T11:47:05+00:00"
-    },
-    {
-      "title": "Azerbaijani opposition leader Karimli denied permission to attend father’s funeral",
-      "source": "OC Media Caucasus",
-      "country": "Azerbaijan",
-      "url": "https://oc-media.org/azerbaijani-opposition-leader-karimli-denied-permission-to-attend-fathers-funeral/",
-      "published_date": "2026-05-12T11:46:12+00:00"
-    },
-    {
-      "title": "Starmer faces endgame as Wes Streeting launches 'coup' to beat rivals to the top job",
-      "source": "Middle East Eye",
-      "country": "United Kingdom",
-      "url": "https://www.middleeasteye.net/news/starmer-faces-endgame-wes-streeting-launches-coup-beat-rivals-top-job",
-      "published_date": "2026-05-12T11:11:18+00:00"
-    },
-    {
-      "title": "UK elections: “Reform UK becomes a serious contender for power in the next general election”",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/12/elections-au-royaume-uni-reform-uk-devient-un-pretendant-serieux-au-pouvoir-lors-des-prochaines-elections-legislatives_6688239_3232.html",
-      "published_date": "2026-05-12T11:00:15+00:00"
-    },
-    {
-      "title": "'There is a big rejection of Starmer' from Labour voters as PM faces calls to resign",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/there-is-a-big-rejection-of-starmer-from-labour-voters-as-pm-faces-calls-to-resign",
-      "published_date": "2026-05-12T10:54:58+00:00"
-    },
-    {
-      "title": "EU agrees to sanctions on Israeli settlers after Hungary’s new government lifts veto",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/eu-agrees-sanctions-israeli-settlers-after-hungarys-new-government-lifts-veto",
-      "published_date": "2026-05-12T10:13:31+00:00"
-    },
-    {
-      "title": "First Minister resigns in protest against Starmer",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/foerste-minister-traekker-sig-i-protest-mod-starmer",
-      "published_date": "2026-05-12T09:06:00+00:00"
-    },
-    {
-      "title": "An insider’s account: How Sri Sri Ravi Shankar helped end Colombia’s civil war",
-      "source": "Indian Express",
-      "country": "Colombia",
-      "url": "https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-colombia-civil-war-10685255/",
-      "published_date": "2026-05-12T08:24:34+00:00"
-    },
-    {
-      "title": "One arrested, probe underway, says Karnataka minister after gelatin sticks found on PM Modi's convoy route",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/one-arrested-probe-underway-says-karnataka-minister-after-gelatin-sticks-found-on-pm-modis-convoy-route-101778571163086.html",
-      "published_date": "2026-05-12T07:49:03+00:00"
-    },
-    {
-      "title": "Will Keir Starmer resign? UK PM faces mutiny after Labour loses 1,400 seats",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/keir-starmer-resign-uk-pm-mutiny-labour-loses-seats-10684943/",
-      "published_date": "2026-05-12T07:10:32+00:00"
-    },
-    {
-      "title": "British PM Starmer tells cabinet meeting he intends to remain leader despite calls to resign",
-      "source": "CBC News World",
-      "country": "United Kingdom",
-      "url": "https://www.cbc.ca/news/world/starmer-uk-resign-cabinet-9.7196157?cmp=rss",
-      "published_date": "2026-05-12T04:55:33+00:00"
-    },
-    {
-      "title": "Daily Briefing: PM Modi renews austerity call amid forex concern, calls it ‘biggest crisis of this decade’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/live-news/daily-briefing-pm-modi-renews-austerity-call-amid-forex-concern-10684784/",
-      "published_date": "2026-05-12T03:23:47+00:00"
-    },
-    {
-      "title": "PM Modi reiterates call for work from home, avoid buying gold 'in time of global crisis'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-reiterates-call-for-wfh-work-from-home-avoid-buying-gold-in-time-of-global-crisis-amid-us-iran-war-101778549149909.html",
-      "published_date": "2026-05-12T01:34:55+00:00"
-    },
-    {
-      "title": "California mayor resigns, will plead guilty to acting as a China agent",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government?utm_source=rss_feed",
-      "published_date": "2026-05-11T23:59:37+00:00"
     }
   ]
 }
