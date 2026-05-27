@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-27T00:03:16.612706+00:00",
-    "story_count": 337,
+    "last_updated": "2026-05-27T14:30:03.566603+00:00",
+    "story_count": 335,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Azerbaijani observers accuse Central Election Commission of understating number of eligible voters",
+      "source": "OC Media Caucasus",
+      "country": "Azerbaijan",
+      "url": "https://oc-media.org/azerbaijani-observers-accuse-central-election-commission-of-understating-number-of-eligible-voters/",
+      "published_date": "2026-05-27T14:12:27+00:00"
+    },
+    {
+      "title": "Defected Sudanese RSF commander Savannah performs Hajj in Mecca",
+      "source": "Middle East Eye",
+      "country": "Sudan",
+      "url": "https://www.middleeasteye.net/news/defected-sudanese-rsf-commander-savannah-performs-hajj-mecca",
+      "published_date": "2026-05-27T13:41:24+00:00"
+    },
+    {
+      "title": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
+      "source": "The Independent UK",
+      "country": "United Kingdom",
+      "url": "https://www.independent.co.uk/news/world/europe/iceland-foreign-minister-eu-referendum-farage-brexit-b2984376.html",
+      "published_date": "2026-05-27T13:22:49+00:00"
+    },
+    {
+      "title": "Iran says US, Israel goal still to overthrow Islamic republic",
+      "source": "Vanguard Nigeria",
+      "country": "Israel",
+      "url": "https://www.vanguardngr.com/2026/05/iran-says-us-israel-goal-still-to-overthrow-islamic-republic/",
+      "published_date": "2026-05-27T13:19:55+00:00"
+    },
+    {
+      "title": "2026 presidential elections in Colombia: transfer of electoral material to 116 municipalities in Cundinamarca begins; Police provide support",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-tercera-jornada-de-votaciones-en-el-exterior-quedan-4-dias-para-los-comicios-en-el-pais-3558695",
+      "published_date": "2026-05-27T12:05:18+00:00"
+    },
+    {
+      "title": "Ukraine denies Russian claim of capturing Hraniv village in Kharkiv region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4127792-ukraine-denies-russian-claim-of-capturing-hraniv-village-in-kharkiv-region.html",
+      "published_date": "2026-05-27T11:58:00+00:00"
+    },
+    {
+      "title": "‘Position no longer holds meaning’: TMC's Lok Sabha MP Kakoli Ghosh Dastidar resigns from all party posts",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/position-no-longer-holds-meaning-tmcs-lok-sabha-mp-kakoli-ghosh-dastidar-resigns-from-all-party-101779875259709.html",
+      "published_date": "2026-05-27T09:56:38+00:00"
+    },
+    {
+      "title": "Israel announces the death of the new leader of the military wing of Hamas in a bombing against northern Gaza",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/israel-anuncia-la-muerte-del-nuevo-lider-del-brazo-militar-de-hamas-en-un-bombardeo-contra-el-norte-de-gaza/",
+      "published_date": "2026-05-27T09:26:25+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: is it prohibited to take photos of the vote on the ballot and are there sanctions for doing so?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-esta-prohibido-tomar-fotos-del-voto-en-el-tarjeton-y-hay-sanciones-por-hacerlo-3558537",
+      "published_date": "2026-05-27T08:34:00+00:00"
+    },
+    {
+      "title": "The Economist warned that presidential elections in Colombia are 'more polarized than ever' and with uncertain results",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/the-economist-advierte-que-elecciones-presidenciales-en-colombia-estan-mas-polarizadas-que-nunca-y-con-resultado-incierto-3558676",
+      "published_date": "2026-05-27T03:58:44+00:00"
+    },
+    {
+      "title": "Lula even omitted from friends that he would need radiotherapy and tries to show vitality for the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-omitiu-ate-de-amigos-que-precisaria-de-radioterapia-e-tenta-mostrar-vitalidade-para-eleicao.shtml",
+      "published_date": "2026-05-27T02:00:00+00:00"
+    },
     {
       "title": "Presidential candidate Claudia López filed a complaint against President Petro for improper political participation: these are the 20 facts she compiles",
       "source": "El Tiempo Colombia",
@@ -181,7 +258,7 @@
     {
       "title": "Head of State Duma defense committee says Ukraine’s Verkhovna Rada and Zelensky’s office don’t qualify as ‘decision-making centers’ Russia has threatened to strike",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://meduza.io/en/news/2026/05/26/head-of-state-duma-defense-committee-says-ukraine-s-verkhovna-rada-and-zelensky-s-office-don-t-qualify-as-decision-making-centers-russia-has-threatened-to-strike",
       "published_date": "2026-05-26T13:28:59+00:00"
     },
@@ -2326,97 +2403,6 @@
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/05/centro-carter-despliega-un-equipo-para-evaluar-las-elecciones-presidenciales-en-colombia/",
       "published_date": "2026-05-13T14:33:21+00:00"
-    },
-    {
-      "title": "Streeting’s allies say he’s preparing to resign and launch leadership challenge as early as tomorrow – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
-      "published_date": "2026-05-13T13:04:00+00:00"
-    },
-    {
-      "title": "Rubio cosplays as deposed Venezuelan leader Maduro in Air Force One picture",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-nicolas-maduro-air-force-one-b2975711.html",
-      "published_date": "2026-05-13T12:52:45+00:00"
-    },
-    {
-      "title": "Kylian Mbappe in public row with far-right leader ahead of French election",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/kylian-mbappe-jordan-bardella-far-right-france-election-b2975785.html",
-      "published_date": "2026-05-13T12:37:35+00:00"
-    },
-    {
-      "title": "White House energy advisor: The priority in Venezuela is to stabilize the economy before the elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/ee-uu-prioriza-economia-antes-de-elecciones-en-venezuela/",
-      "published_date": "2026-05-13T12:29:51+00:00"
-    },
-    {
-      "title": "UK PM Political Crisis Live Updates | ‘In office, but not in power’: Kemi Badenoch’s jibe at Keir Starmer",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-keir-starmer-resignation-labour-ministers-quit-king-speech-live-updates-10687523/",
-      "published_date": "2026-05-13T11:51:06+00:00"
-    },
-    {
-      "title": "Germany live blog: Özdemir new Prime Minister of Baden-Württemberg",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-oezdemir-neuer-ministerpraesident-von-baden-wuerttemberg-faz-110093143.html",
-      "published_date": "2026-05-13T11:05:24+00:00"
-    },
-    {
-      "title": "Chin resistance braces for Myanmar junta offensive as Mindat hit by airstrikes",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/chin-resistance-braces-for-myanmar-junta-offensive-as-mindat-hit-by-airstrikes/",
-      "published_date": "2026-05-13T09:57:21+00:00"
-    },
-    {
-      "title": "UK political crisis explained: Why is Prime Minister Keir Starmer’s leadership under threat?",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-political-crisis-keir-starmer-labour-party-local-elections-king-speech-10687036/",
-      "published_date": "2026-05-13T09:16:54+00:00"
-    },
-    {
-      "title": "UK’s Starmer faces challenge as resignation calls overshadow King’s speech",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss",
-      "published_date": "2026-05-13T07:12:05+00:00"
-    },
-    {
-      "title": "PM Modi shrinks convoy, pushes EV use after call to save fuel amid Iran war energy crisis",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/india/pm-modi-convoy-size-reduction-spg-ev-austerity-fuel-crisis-10686677/",
-      "published_date": "2026-05-13T03:44:01+00:00"
-    },
-    {
-      "title": "Inside the RSS machine that built the ground for BJP’s Bengal triumph, toppled Mamata Banerjee",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/inside-the-rss-machine-that-built-the-ground-for-bjps-bengal-triumph-10686425/",
-      "published_date": "2026-05-13T02:30:55+00:00"
-    },
-    {
-      "title": "Argentine deputies extend impeachment trial against Milei for risk of joining the intervention in Cuba",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-05-13-u1-e208933-s27061-nid329040-diputados-argentinos-amplian-juicio-politico-contra",
-      "published_date": "2026-05-13T00:52:07+00:00"
-    },
-    {
-      "title": "Keir Starmer and Labour's rebellion: Will his Gordon Brown and Harriet Harman tribute strategy save him from resignation?",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/keir-starmer-y-la-rebelion-del-laborismo-su-estrategia-de-tributo-a-gordon-brown-y-harriet-harman-lo-salvara-de-la-dimision/",
-      "published_date": "2026-05-13T00:21:49+00:00"
     }
   ]
 }
