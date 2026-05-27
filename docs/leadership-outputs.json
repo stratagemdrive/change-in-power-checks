@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-26T13:58:12.060770+00:00",
-    "story_count": 338,
+    "last_updated": "2026-05-27T00:03:16.612706+00:00",
+    "story_count": 337,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential candidate Claudia López filed a complaint against President Petro for improper political participation: these are the 20 facts she compiles",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-presidencial-claudia-lopez-radico-denuncia-contra-presidente-petro-por-indebida-participacion-politica-estos-son-los-20-hechos-que-recopila-3558573",
+      "published_date": "2026-05-26T20:58:51+00:00"
+    },
+    {
+      "title": "'I would be happy if a military coup overthrew Netanyahu,' says PM's former friend",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897379",
+      "published_date": "2026-05-26T20:27:56+00:00"
+    },
+    {
+      "title": "Extreme electoral risk in 139 municipalities: the alerts surrounding the presidential elections in Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/riesgo-extremo-electoral-en-139-municipios-las-alertas-que-rodean-las-presidenciales-en-colombia-3558545",
+      "published_date": "2026-05-26T19:56:08+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: What time do the voting stations open and close on May 31?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-a-que-hora-abren-y-cierran-los-puestos-de-votacion-el-proximo-31-de-mayo-3558480",
+      "published_date": "2026-05-26T18:40:11+00:00"
+    },
+    {
+      "title": "Deposed CHP leader: From loyal party comrade to protest leader",
+      "source": "FAZ Germany",
+      "country": "Turkey",
+      "url": "https://www.faz.net/aktuell/politik/ausland/oezguer-oezel-fordert-urwahl-fuer-chp-200869885.html",
+      "published_date": "2026-05-26T17:46:06+00:00"
+    },
+    {
+      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
+      "source": "The Guardian World",
+      "country": "Turkey",
+      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
+      "published_date": "2026-05-26T17:40:40+00:00"
+    },
+    {
+      "title": "Armenia signs strategic partnership deal with US as election approaches",
+      "source": "Al Jazeera English",
+      "country": "Armenia",
+      "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
+      "published_date": "2026-05-26T17:27:32+00:00"
+    },
+    {
+      "title": "U.S.-wanted nephew of notorious cartel boss \"El Chapo\" is captured in Mexico - CBS News",
+      "source": "Google News World",
+      "country": "Mexico",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YXVyTXFKcFBlbjBhT0FySG00M2RyemJJeFotVlR0TF9sbE0yZWpaN01obU93WnBOa1FoeTZsQXZFZ2xmRFhjVnVlcnhLd0tpWlVDN21sS3ZrZWhGMTZHUThjTmljUkZyZGRGVTV1OVpGMmdOZ3g4V3Q1a9IBgAFBVV95cUxNbks4ZGdxMHkyX3N2YjRFeDZHTmV6aS05alFlX213cVROdXhCZ1lxUHRLYTBtckhfTngycHZlanZpQUNBOFdMVUZXcDRaSDRVaVhTb1g0cEM2Z0V5aDl4end3dElnQVRMdHphdE9yYjA5MGpSLVpEQk5ZZ0I5UHBUNw?oc=5",
+      "published_date": "2026-05-26T16:25:00+00:00"
+    },
+    {
+      "title": "A year ahead of the French presidential election, where do candidates stand?",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/a-year-ahead-of-the-french-presidential-election-where-do-candidates-stand",
+      "published_date": "2026-05-26T16:00:14+00:00"
+    },
+    {
+      "title": "France tries 9 Azerbaijanis for plotting to murder exiled blogger",
+      "source": "OC Media Caucasus",
+      "country": "France",
+      "url": "https://oc-media.org/france-tries-9-azerbaijanis-for-plotting-to-murder-exiled-blogger/",
+      "published_date": "2026-05-26T15:33:39+00:00"
+    },
+    {
+      "title": "Sunday's presidential elections in the neighboring country: this is how Colombians residing in Venezuela can vote",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/guia-electoral-asi-pueden-votar-los-colombianos-en-venezuela-en-unas-presidenciales-por-primera-vez-desde-2018/",
+      "published_date": "2026-05-26T15:32:14+00:00"
+    },
+    {
+      "title": "Colombians in Venezuela vote in their presidential elections for the first time since 2018",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/colombianos-en-venezuela-votan-en-sus-elecciones-presidenciales-por-primera-vez-desde-2018/",
+      "published_date": "2026-05-26T14:52:30+00:00"
+    },
+    {
+      "title": "“I prefer not to be sovereign, but free”: Cubans resigned to American threats",
+      "source": "Le Figaro France",
+      "country": "Cuba",
+      "url": "https://www.lefigaro.fr/international/je-prefere-ne-pas-etre-souverain-mais-libre-les-cubains-resignes-face-aux-menaces-americaines-20260526",
+      "published_date": "2026-05-26T14:31:20+00:00"
+    },
+    {
+      "title": "BJP puts the squeeze on BJD: Why Debashish Samantaray’s defection is important",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-puts-the-squeeze-on-bjd-why-debashish-samantarays-defection-is-important-10709228/",
+      "published_date": "2026-05-26T14:22:21+00:00"
+    },
     {
       "title": "How Petro is ending his term with \"high and unusual\" popularity in Colombia (and what role he plays in the elections)",
       "source": "El Nacional Venezuela",
@@ -83,7 +181,7 @@
     {
       "title": "Head of State Duma defense committee says Ukraine’s Verkhovna Rada and Zelensky’s office don’t qualify as ‘decision-making centers’ Russia has threatened to strike",
       "source": "Meduza EN",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://meduza.io/en/news/2026/05/26/head-of-state-duma-defense-committee-says-ukraine-s-verkhovna-rada-and-zelensky-s-office-don-t-qualify-as-decision-making-centers-russia-has-threatened-to-strike",
       "published_date": "2026-05-26T13:28:59+00:00"
     },
@@ -188,7 +286,7 @@
     {
       "title": "Belarus warned not to get ‘dragged into Russia’s war’ as opposition leader visits Ukraine",
       "source": "The Independent UK",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.independent.co.uk/news/world/europe/belarus-ukraine-russia-war-sviatlana-tsikhanouskaya-kyiv-b2983473.html",
       "published_date": "2026-05-26T09:04:39+00:00"
     },
@@ -2319,111 +2417,6 @@
       "country": "United Kingdom",
       "url": "https://www.latercera.com/mundo/noticia/keir-starmer-y-la-rebelion-del-laborismo-su-estrategia-de-tributo-a-gordon-brown-y-harriet-harman-lo-salvara-de-la-dimision/",
       "published_date": "2026-05-13T00:21:49+00:00"
-    },
-    {
-      "title": "Luis Emilio Rondón considers it unrealistic to hold presidential elections in Venezuela in 2026",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/luis-emilio-rondon-considera-irreal-celebrar-elecciones-presidenciales-en-venezuela-en-2026/",
-      "published_date": "2026-05-12T23:00:40+00:00"
-    },
-    {
-      "title": "Alejandra Mizala and Francisco Martínez go to the second round in elections for the rectory of the U. of Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/alejandra-mizala-y-francisco-martinez-pasan-a-segunda-vuelta-en-elecciones-para-la-rectoria-de-la-u-de-chile/",
-      "published_date": "2026-05-12T21:57:29+00:00"
-    },
-    {
-      "title": "Global stocks fall under the weight of inflation, oil and the political crisis in the United Kingdom",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/pulso/noticia/acciones-mundiales-caen-bajo-el-peso-de-la-inflacion-el-petroleo-y-la-crisis-politica-en-el-reino-unido/",
-      "published_date": "2026-05-12T21:54:22+00:00"
-    },
-    {
-      "title": "‘You cannot have it both ways’: Crown Prince Reza Pahlavi urges US to back regime change in Iran",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-895964",
-      "published_date": "2026-05-12T21:47:33+00:00"
-    },
-    {
-      "title": "The fear of the French film industry regarding an eventual victory of the extreme in the 2027 presidential elections",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/mundo/noticia/el-temor-de-la-industria-cinematografica-francesa-ante-una-eventual-victoria-de-la-extrema-en-las-presidenciales-de-2027/",
-      "published_date": "2026-05-12T20:00:00+00:00"
-    },
-    {
-      "title": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns",
-      "published_date": "2026-05-12T19:41:01+00:00"
-    },
-    {
-      "title": "British govt seeks credible elections in Nigeria – Envoy",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/879044-british-govt-seeks-credible-elections-in-nigeria-envoy.html",
-      "published_date": "2026-05-12T18:36:21+00:00"
-    },
-    {
-      "title": "Carter Center announced mission with a team of experts to 'evaluate' Colombia's presidential elections: there is support from Spain, the US and more countries",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/centro-carter-anuncio-mision-con-equipo-de-expertos-para-evaluar-elecciones-presidenciales-de-colombia-hay-apoyo-de-espana-ee-uu-y-mas-paises-3555129",
-      "published_date": "2026-05-12T18:18:53+00:00"
-    },
-    {
-      "title": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss",
-      "published_date": "2026-05-12T17:28:14+00:00"
-    },
-    {
-      "title": "BJP MLA Tapas Roy sworn in as Pro-tem Speaker of West Bengal Assembly",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-mla-tapas-roy-sworn-in-as-pro-tem-speaker-of-west-bengal-assembly/article70970887.ece",
-      "published_date": "2026-05-12T17:25:49+00:00"
-    },
-    {
-      "title": "Russian exile opposition: dispute in Navalnyj's organization",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/alexej-nawalnyj-streit-in-seiner-organisation-200823854.html",
-      "published_date": "2026-05-12T16:49:37+00:00"
-    },
-    {
-      "title": "Head of Microsoft’s Israel branch to step down after inquiry into dealings with Israeli military",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/technology/2026/may/12/microsoft-head-israel-step-down",
-      "published_date": "2026-05-12T16:24:59+00:00"
-    },
-    {
-      "title": "Fujimori and Sanchez lead Peru's presidential runoff as count enters final stretch",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260512-conservative-fujimori-and-leftist-sanchez-lead-first-round-of-peru-disrupted-presidential-poll",
-      "published_date": "2026-05-12T15:35:41+00:00"
-    },
-    {
-      "title": "Leadership crisis in London: Starmer challenges his opponents",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/london-starmer-fordert-seine-gegner-heraus-200824340.html",
-      "published_date": "2026-05-12T15:05:06+00:00"
-    },
-    {
-      "title": "Pressure grows for stubborn Starmer to step down: 'I think it's inevitable'",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10840377/%C2%BBJeg-tror-det-er-uundg%C3%A5eligt%C2%AB",
-      "published_date": "2026-05-12T15:02:57+00:00"
     }
   ]
 }
