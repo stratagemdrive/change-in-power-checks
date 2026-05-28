@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-27T14:30:03.566603+00:00",
-    "story_count": 335,
+    "last_updated": "2026-05-28T00:01:01.087069+00:00",
+    "story_count": 324,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential elections abroad: Does the right to half a paid free day work for Colombians who vote in other countries?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-el-exterior-funciona-el-derecho-a-medio-dia-libre-y-remunerado-para-los-colombianos-que-voten-en-otros-paises-3558842",
+      "published_date": "2026-05-27T22:28:50+00:00"
+    },
+    {
+      "title": "Knesset dissolution first reading vote set for Monday, election date yet to be determined",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897558",
+      "published_date": "2026-05-27T21:36:45+00:00"
+    },
+    {
+      "title": "Raid on Indian opposition leader triggers violence in Kerala",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss",
+      "published_date": "2026-05-27T20:00:54+00:00"
+    },
+    {
+      "title": "Caracas University Hospital celebrates its 70th anniversary with the inauguration of an automated operating room",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/hospital-universitario-de-caracas-aniversario-cirugia-robotica/",
+      "published_date": "2026-05-27T18:07:00+00:00"
+    },
+    {
+      "title": "Political violence hits 8 out of 10 women in Colombian elections: 78% of candidates have been victims of violence, CNE and MOE warn",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/violencia-politica-golpea-a-8-de-cada-10-mujeres-en-elecciones-colombianas-78-de-las-candidatas-ha-sido-victima-de-violencia-advierten-cne-y-moe-3558795",
+      "published_date": "2026-05-27T17:28:19+00:00"
+    },
+    {
+      "title": "‘Will continue backchannel talks with China’: Penpa Tsering sworn-in for 2nd term as head of Tibetan Govt-in exile",
+      "source": "Indian Express",
+      "country": "China",
+      "url": "https://indianexpress.com/article/cities/chandigarh/penpa-tsering-sworn-in-sikyong-second-term-tibetan-govt-in-exile-china-talks-10711250/",
+      "published_date": "2026-05-27T16:32:02+00:00"
+    },
     {
       "title": "Azerbaijani observers accuse Central Election Commission of understating number of eligible voters",
       "source": "OC Media Caucasus",
@@ -93,6 +135,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-tercera-jornada-de-votaciones-en-el-exterior-quedan-4-dias-para-los-comicios-en-el-pais-3558695",
       "published_date": "2026-05-27T12:05:18+00:00"
+    },
+    {
+      "title": "Hamas's armed wing confirms Israel killed its new leader in Gaza strike",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20260527-israeli-defence-ministry-says-it-killed-new-hamas-military-leader-in-gaza",
+      "published_date": "2026-05-27T12:02:33+00:00"
     },
     {
       "title": "Ukraine denies Russian claim of capturing Hraniv village in Kharkiv region",
@@ -2277,132 +2326,6 @@
       "country": "Israel",
       "url": "https://www.latercera.com/mundo/noticia/la-coalicion-de-gobierno-de-israel-presenta-un-proyecto-de-ley-para-disolver-la-knesset-y-convocar-elecciones/",
       "published_date": "2026-05-14T00:11:31+00:00"
-    },
-    {
-      "title": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu - The Guardian",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTndmWTdnWVJvQ01SVkUwRFNleDlmWHNEUnk1QXZYZVJjYi0wcjZYTF9YeEswTXNQWHVWVzlHNFplSWRYSDk2YTRJZVhxQmNfRzZOaDFNYk9lZTMwZjNqbjAzQ05kUjdjbkVoMVU0U3NjVzlUaktQdnNSTS1SWTBkNTk5N1ZVSERjUmpRNGpxdDVHcWRWdmFPdldMSUV5ZERKem5VYjMtMzdUSXV0SC11T0VuSEJhaEFtUUc3RER1OGVLSFdhM2Z6LVBSTjUtSk0?oc=5",
-      "published_date": "2026-05-13T23:07:00+00:00"
-    },
-    {
-      "title": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu",
-      "published_date": "2026-05-13T22:48:04+00:00"
-    },
-    {
-      "title": "Netanyahu prepares for elections",
-      "source": "Politiken Denmark",
-      "country": "Israel",
-      "url": "https://politiken.dk/internationalt/art10842965/Netanyahu-g%C3%B8r-klar-til-valg",
-      "published_date": "2026-05-13T22:34:47+00:00"
-    },
-    {
-      "title": "In Peru, Roberto Sanchez qualified for the second round of the presidential election against Keiko Fujimori",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260513-au-p%C3%A9rou-roberto-sanchez-qualifi%C3%A9-pour-le-second-tour-de-la-pr%C3%A9sidentielle-face-%C3%A0-keiko-fujimori",
-      "published_date": "2026-05-13T22:31:13+00:00"
-    },
-    {
-      "title": "Israel is heading towards early elections, at the earliest by the end of August",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/moyen-orient/20260513-israel-vers-elections-anticipees-aout-benjamin-netanyahu-likoud-knesset-yair-lapid-naftali-bennet",
-      "published_date": "2026-05-13T21:50:39+00:00"
-    },
-    {
-      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "source": "Al Jazeera English",
-      "country": "Canada",
-      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
-      "published_date": "2026-05-13T21:07:45+00:00"
-    },
-    {
-      "title": "Netanyahu met with UAE president at start of Operation Roaring Lion, PMO announces",
-      "source": "Jerusalem Post",
-      "country": "UAE",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-896096",
-      "published_date": "2026-05-13T20:12:48+00:00"
-    },
-    {
-      "title": "Tuto Quiroga criticized Trump's strategy towards Venezuela and demanded presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/turo-quiroga-critico-la-estrategia-de-trump-hacia-venezuela-y-exigio-elecciones-presidenciales/",
-      "published_date": "2026-05-13T19:21:10+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro seeks out Fachin, talks about respect for the Powers and demands exemption from the STF in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-procura-fachin-fala-em-respeito-aos-poderes-e-cobra-isencao-do-stf-na-eleicao.shtml",
-      "published_date": "2026-05-13T18:33:00+00:00"
-    },
-    {
-      "title": "France 2027: a presidential election in the face of crises?",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260513-france-2027-une-pr%C3%A9sidentielle-face-aux-crises",
-      "published_date": "2026-05-13T18:15:27+00:00"
-    },
-    {
-      "title": "Russian parliament passes bill allowing Putin to invade foreign countries - politico.eu",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUxNUWluandndmVNampZbEExTlVCZTNmV1UtTGhEcERoTFJZNmpLVUxmWUZRQjg5aTB0SmtLdkp2QndvTTVLZWUwTGE5NDdJTzB2N013STlWMkxBMFZmTmo0N3JITlVkVHoxbDFoa20tMzIwSzVYZW1mWnZEUHJyWFhNRzhZd0gyUVBtam1CTzAwbmxYWFBGUVZmMEhpcUdiTG14cnJWZktmdmdxbXFtaA?oc=5",
-      "published_date": "2026-05-13T18:11:00+00:00"
-    },
-    {
-      "title": "Donald Trump's visit to China: Marco Rubio photographed with the same tracksuit as Nicolas Maduro when he was captured",
-      "source": "Le Figaro France",
-      "country": "China",
-      "url": "https://www.lefigaro.fr/international/visite-de-donald-trump-en-chine-marco-rubio-photographie-avec-meme-survetement-que-nicolas-maduro-lors-de-sa-capture-20260513",
-      "published_date": "2026-05-13T17:38:53+00:00"
-    },
-    {
-      "title": "Two Russian governors near Ukraine border step down in Kremlin shake-up",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/05/13/two-russian-governors-near-ukraine-border-step-down-in-kremlin-shake-up",
-      "published_date": "2026-05-13T16:40:11+00:00"
-    },
-    {
-      "title": "1953: The CIA led coup that still shapes Iran | Turning Point",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/video/1953-cia-led-coup-still-shapes-iran-turning-point",
-      "published_date": "2026-05-13T16:19:51+00:00"
-    },
-    {
-      "title": "France investigates whether Israeli firm BlackCore interfered in local elections",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/france-elections-israel-blackcore-unbowed-b2975940.html",
-      "published_date": "2026-05-13T16:00:59+00:00"
-    },
-    {
-      "title": "Haredi parties may push elections as Netanyahu loses leverage - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896062",
-      "published_date": "2026-05-13T15:50:06+00:00"
-    },
-    {
-      "title": "PT praises Nunes Marques' speech at the TSE and bets on a smooth election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/pt-elogia-discurso-de-nunes-marques-no-tse-e-aposta-em-eleicao-sem-sobressaltos.shtml",
-      "published_date": "2026-05-13T15:00:00+00:00"
-    },
-    {
-      "title": "Carter Center deploys a team to evaluate the presidential elections in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/centro-carter-despliega-un-equipo-para-evaluar-las-elecciones-presidenciales-en-colombia/",
-      "published_date": "2026-05-13T14:33:21+00:00"
     }
   ]
 }
