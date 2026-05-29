@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-28T14:42:55.519196+00:00",
-    "story_count": 317,
+    "last_updated": "2026-05-29T00:11:49.310987+00:00",
+    "story_count": 312,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,88 @@
   },
   "stories": [
     {
+      "title": "Presidential elections in Bogotá in 2026: TransMilenio will reinforce TransMiApp to make faster trips this May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-bogota-en-2026-transmilenio-reforzara-transmiapp-para-realizar-trayectos-mas-rapidos-este-31-de-mayo-3559117",
+      "published_date": "2026-05-28T22:02:30+00:00"
+    },
+    {
+      "title": "Elections 2026: official date and times for the closure of borders in Colombia for the first presidential round",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-fecha-y-horarios-oficiales-para-el-cierre-de-fronteras-en-colombia-por-la-primera-vuelta-presidencial-3559101",
+      "published_date": "2026-05-28T21:07:31+00:00"
+    },
+    {
+      "title": "Knesset restores 'massacre' to Oct. 7 memorial bill after bereaved families decry PMO's removal",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897691",
+      "published_date": "2026-05-28T20:56:00+00:00"
+    },
+    {
+      "title": "Opposition leader Roberto Marrero returns to Venezuela after almost six years in exile",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/el-dirigente-opositor-roberto-marrero-regresa-a-venezuela-tras-casi-seis-anos-en-el-exilio/",
+      "published_date": "2026-05-28T20:35:46+00:00"
+    },
+    {
+      "title": "Clashes between armed groups in Colombia kill at least 52 guerrillas on eve of election",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260528-clashes-between-armed-groups-in-colombia-kill-at-least-52-guerrillas-on-eve-of-election",
+      "published_date": "2026-05-28T20:18:57+00:00"
+    },
+    {
+      "title": "Revanth should tender resignation: BJP",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/telangana/revanth-should-tender-resignation-bjp/article71034445.ece",
+      "published_date": "2026-05-28T19:01:54+00:00"
+    },
+    {
+      "title": "Luis Florido demands guarantees for elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/luis-florido-exige-garantias-para-futuras-elecciones-en-venezuela/",
+      "published_date": "2026-05-28T17:49:54+00:00"
+    },
+    {
+      "title": "India to host Myanmar President Hlaing, exiled govt. calls him a ‘terrorist junta leader’",
+      "source": "The Hindu Politics",
+      "country": "Myanmar",
+      "url": "https://www.thehindu.com/news/national/india-to-host-myanmar-president-hlaing-exiled-govt-calls-him-a-terrorist-junta-leader/article71034615.ece",
+      "published_date": "2026-05-28T17:17:57+00:00"
+    },
+    {
+      "title": "Trump endorses Pashinyan ahead of Armenia’s high-stakes, historic elections",
+      "source": "Euronews",
+      "country": "Armenia",
+      "url": "http://www.euronews.com/2026/05/28/trump-endorses-pashinyan-ahead-of-armenias-high-stakes-historic-elections",
+      "published_date": "2026-05-28T16:55:31+00:00"
+    },
+    {
       "title": "Israel at a crossroads: War, elections, and the future of the US-Israel alliance",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/podcast/article-897668",
       "published_date": "2026-05-28T16:46:35+00:00"
+    },
+    {
+      "title": "Colombia: dozens of dead in fighting between two FARC dissident groups days before the elections",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/colombia-decenas-de-muertos-en-combates-entre-dos-grupos-de-disidencias-de-las-farc/",
+      "published_date": "2026-05-28T15:49:08+00:00"
+    },
+    {
+      "title": "Tony Abbott to step down from Advance role when elected Liberal party federal president",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/tony-abbott-to-step-down-from-advance-role-when-elected-liberal-party-federal-president",
+      "published_date": "2026-05-28T15:00:25+00:00"
     },
     {
       "title": "Presidential elections 2026 in Colombia: Bogotá Mayor's Office indicates that 'there are no alerts of public order disturbances' for Sunday, May 31",
@@ -275,6 +352,13 @@
       "country": "Israel",
       "url": "https://www.vanguardngr.com/2026/05/iran-says-us-israel-goal-still-to-overthrow-islamic-republic/",
       "published_date": "2026-05-27T13:19:55+00:00"
+    },
+    {
+      "title": "Colombia election outcome could reshape copper investment - Mining.com",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2RBSnFXdEc0NUpLQ0dVT3RwVUhSLVVlRzcyamZxcVB0X0ZXLVNUb3I3RXppbzI1T2tXWlEyZHd1Z0ZrU19mZnRnNDZNdldsYmJOOFBwQkxiZ21jN09QSFkxZGhzUUk0aU9BaDN1MzVLbHBqLW9PSUxCWDdTVkk5QnItc08tQUFHT1dBOE9oenFmbjE5d2c?oc=5",
+      "published_date": "2026-05-27T12:15:35+00:00"
     },
     {
       "title": "2026 presidential elections in Colombia: transfer of electoral material to 116 municipalities in Cundinamarca begins; Police provide support",
@@ -2158,125 +2242,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/ex-ondo-gov-mimiko-joins-apc-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-15T00:29:30+00:00"
-    },
-    {
-      "title": "The BCRA revealed how much Argentina paid in interest for using the swap with the US before the elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/el-bcra-revelo-cuanto-pago-la-argentina-en-intereses-por-usar-el-swap-con-eeuu-antes-de-las-nid14052026/",
-      "published_date": "2026-05-14T23:10:07+00:00"
-    },
-    {
-      "title": "Eyes on 2027 UP Assembly polls: Yogi in Delhi amid talks of wider Cabinet reshuffle",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/lucknow/eyes-on-2027-up-assembly-polls-yogi-in-delhi-amid-talks-of-wider-cabinet-reshuffle-10690219/",
-      "published_date": "2026-05-14T23:06:07+00:00"
-    },
-    {
-      "title": "Peru will proclaim results of the presidential elections this Sunday, May 17",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/05/peru-proclamara-resultados-de-las-elecciones-presidenciales-este-domingo-17-de-mayo/",
-      "published_date": "2026-05-14T22:01:48+00:00"
-    },
-    {
-      "title": "Manuel Rosales demands elections in Venezuela and supports the United States plan",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/manuel-rosales-exige-elecciones-en-venezuela-y-respalda-el-plan-de-estados-unidos/",
-      "published_date": "2026-05-14T21:35:13+00:00"
-    },
-    {
-      "title": "Kast appoints Bernardo Fontaine as the new president of Codelco, amid government criticism of the firm's management",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/gobierno-designa-a-bernardo-fontaine-luz-granier-y-alejandro-canut-como-nuevos-directores-de-codelco/",
-      "published_date": "2026-05-14T21:33:58+00:00"
-    },
-    {
-      "title": "President Gustavo Petro summoned the Registrar's Office and the National Electoral Council to the Casa de Nariño to talk about the presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-cito-en-la-casa-de-narino-a-la-registraduria-y-al-consejo-nacional-electoral-para-hablar-de-las-presidenciales-3555698",
-      "published_date": "2026-05-14T21:00:53+00:00"
-    },
-    {
-      "title": "Manuel Rosales demands elections and asks to follow the United States strategic plan for Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/manuel-rosales-exige-elecciones-y-pide-seguir-el-plan-estrategico-de-estados-unidos-para-venezuela/",
-      "published_date": "2026-05-14T20:10:55+00:00"
-    },
-    {
-      "title": "Palestinian President Abbas pledges elections, reform at Fatah conference",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss",
-      "published_date": "2026-05-14T20:07:21+00:00"
-    },
-    {
-      "title": "British politician resigns to make way for Starmer challenger",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10843397/Britisk-politiker-tr%C3%A6kker-sig-for-at-g%C3%B8re-plads-til-Starmer-udfordrer",
-      "published_date": "2026-05-14T18:22:09+00:00"
-    },
-    {
-      "title": "Marco Rubio assures that the transition in Venezuela must culminate with elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/rubio-transicion-en-venezuela-debe-culminar-en-elecciones/",
-      "published_date": "2026-05-14T18:11:54+00:00"
-    },
-    {
-      "title": "Lula defends restrictions on the use of AI during the election period",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/lula-defende-restricao-ao-uso-de-ia-no-periodo-das-eleicoes",
-      "published_date": "2026-05-14T17:58:00+00:00"
-    },
-    {
-      "title": "Lula suggests vetoing AI in the election and, without citing Flávio Bolsonaro, says that 'truth never fails'",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-sugere-veto-a-ia-na-eleicao-e-sem-citar-flavio-bolsonaro-diz-que-verdade-nao-falha.shtml",
-      "published_date": "2026-05-14T17:28:00+00:00"
-    },
-    {
-      "title": "Palestinian President Abbas re-elected to lead Fatah movement",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-abbas-re-elected-lead-fatah-movement",
-      "published_date": "2026-05-14T17:22:06+00:00"
-    },
-    {
-      "title": "British politician resigns to make way for Starmer challenger",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-traekker-sig-goere-plads-til-starmer-udfordrer",
-      "published_date": "2026-05-14T17:15:00+00:00"
-    },
-    {
-      "title": "Resignation of Wes Streeting, British Health Minister",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260514-d%C3%A9mission-de-wes-streeting-ministre-britannique-de-la-sant%C3%A9",
-      "published_date": "2026-05-14T15:50:34+00:00"
-    },
-    {
-      "title": "Governor Reshuffle in Border Regions Shows How Kremlin Is Militarizing Russia’s Elites, Experts Say",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/05/14/governor-reshuffle-in-border-regions-shows-how-kremlin-is-militarizing-russias-elites-experts-say-a92752",
-      "published_date": "2026-05-14T15:49:00+00:00"
-    },
-    {
-      "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-14T15:06:00+00:00"
     }
   ]
 }
