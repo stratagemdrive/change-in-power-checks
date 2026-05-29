@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-29T00:11:49.310987+00:00",
-    "story_count": 312,
+    "last_updated": "2026-05-29T14:04:00.508979+00:00",
+    "story_count": 320,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,181 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lee, first lady cast ballots in early voting near Cheong Wa Dae for June 3 elections",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260529/lee-first-lady-cast-ballots-in-early-voting-near-cheong-wa-dae-for-june-3-elections?utm_source=rss",
+      "published_date": "2026-05-29T13:57:03+00:00"
+    },
+    {
+      "title": "The myth of cross-border electoral fraud and the narratives against Venezuelan migration",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/cocuyo-chequea/mito-fraude-migrantes-venezolanos/",
+      "published_date": "2026-05-29T13:53:39+00:00"
+    },
+    {
+      "title": "Minister insists Labour will not apply national living wage to all over-18s before election – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
+      "published_date": "2026-05-29T13:47:47+00:00"
+    },
+    {
+      "title": "2026 presidential elections in Colombia: Paloma Valencia assured that candidate Abelardo de la Espriella 'is equal' to Iván Cepeda",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-quinta-jornada-de-votaciones-en-el-exterior-quedan-2-dias-para-los-comicios-en-el-pais-3559279",
+      "published_date": "2026-05-29T13:30:07+00:00"
+    },
+    {
+      "title": "Colombia elections: 5 key factors ahead of a pivotal vote for the nation",
+      "source": "Euronews",
+      "country": "Colombia",
+      "url": "http://www.euronews.com/2026/05/29/colombia-elections-5-key-factors-ahead-of-a-pivotal-vote-for-the-nation",
+      "published_date": "2026-05-29T13:11:43+00:00"
+    },
+    {
+      "title": "2027: Kogi East APC leaders back Tinubu for re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-kogi-east-apc-leaders-back-tinubu-for-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-29T13:09:47+00:00"
+    },
+    {
+      "title": "‘Alleged coup against Tinubu was foolhardy; even civilians would have caught planners’ — Minister",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/05/alleged-coup-against-tinubu-was-foolhardy-even-civilians-would-have-caught-planners-minister/",
+      "published_date": "2026-05-29T13:00:56+00:00"
+    },
+    {
+      "title": "As Israel enters election season, Netanyahu's opponents face a math problem",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897701",
+      "published_date": "2026-05-29T13:00:13+00:00"
+    },
+    {
+      "title": "Who’s who in Armenia’s 2026 parliamentary elections?",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/whos-who-in-armenias-2026-parliamentary-elections/",
+      "published_date": "2026-05-29T12:59:06+00:00"
+    },
+    {
+      "title": "When are the presidential elections in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
+      "published_date": "2026-05-29T12:28:09+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
+      "published_date": "2026-05-29T12:28:06+00:00"
+    },
+    {
+      "title": "What day are the presidential elections in Colombia 2026?",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
+      "published_date": "2026-05-29T12:27:54+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: what to vote for",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-nid26052026/",
+      "published_date": "2026-05-29T12:27:44+00:00"
+    },
+    {
+      "title": "What day are the presidential elections in Colombia 2026?",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid28052026/",
+      "published_date": "2026-05-29T12:27:37+00:00"
+    },
+    {
+      "title": "Higher proportion of pro-Palestine than Labour candidates won at local elections",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/news/higher-proportion-pro-palestine-labour-candidates-won-local-elections",
+      "published_date": "2026-05-29T11:37:37+00:00"
+    },
+    {
+      "title": "Russia restricts Armenian fruit and vegetable imports ahead of elections",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/russia-restricts-armenian-fruit-and-vegetable-imports-ahead-of-elections/",
+      "published_date": "2026-05-29T11:26:38+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: security at the heart of the campaign",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260529-pr%C3%A9sidentielle-en-colombie-la-s%C3%A9curit%C3%A9-au-c%C5%93ur-de-la-campagne",
+      "published_date": "2026-05-29T10:14:57+00:00"
+    },
+    {
+      "title": "Myanmar junta drone strikes kill nine, including woman shielding infant",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-drone-strikes-kill-nine-including-woman-shielding-infant/",
+      "published_date": "2026-05-29T09:34:09+00:00"
+    },
+    {
+      "title": "Election in Armenia: Putin's world or Trump's world?",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-armenien-putins-welt-gegen-trumps-welt-accg-200867392.html",
+      "published_date": "2026-05-29T08:51:46+00:00"
+    },
+    {
+      "title": "Myanmar junta chief to make first India trip since seizing power",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
+      "published_date": "2026-05-29T07:13:07+00:00"
+    },
+    {
+      "title": "Punjab Municipal Corporation Election Results 2026 LIVE Updates: AAP takes massive lead in Punjab local polls, Congress a distant second",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/punjab-municipal-election-results-2026-live-updates-civic-body-polls-vote-counting-mohali-chandigarh-10713376/",
+      "published_date": "2026-05-29T05:17:38+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: these are the benefits and discounts that the electoral certificate gives you for going to vote this May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-estos-son-los-beneficios-y-descuentos-que-le-otorga-el-certificado-electoral-por-ir-a-votar-este-31-de-mayo-3559139",
+      "published_date": "2026-05-29T04:09:30+00:00"
+    },
+    {
+      "title": "Panama Manifesto proposes negotiation between Machado and the interim to seek free elections",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Panama",
+      "url": "https://efectococuyo.com/politica/manifiesto-de-panama-propone-negociacion-entre-machado-y-el-interinato-para-buscar-elecciones-libres/",
+      "published_date": "2026-05-29T00:55:39+00:00"
+    },
+    {
+      "title": "Interparliamentary Union asks for guarantees from Colombia in the presidential elections of May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/union-interparlamentaria-pide-garantias-a-colombia-en-las-elecciones-presidenciales-del-31-de-mayo-3559242",
+      "published_date": "2026-05-29T00:40:36+00:00"
+    },
+    {
+      "title": "José Guerra returned to Venezuela after seven years of forced exile",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/jose-guerra-regreso-a-venezuela-tras-siete-anos-de-exilio-forzado/",
+      "published_date": "2026-05-29T00:30:53+00:00"
+    },
     {
       "title": "Presidential elections in Bogotá in 2026: TransMilenio will reinforce TransMiApp to make faster trips this May 31",
       "source": "El Tiempo Colombia",
@@ -174,7 +349,7 @@
     {
       "title": "Russia bans imports of vegetables and strawberries from Armenia. Elections there are less than two weeks away.",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://meduza.io/en/news/2026/05/28/russia-bans-imports-of-vegetables-and-strawberries-from-armenia-elections-there-are-less-than-two-weeks-away",
       "published_date": "2026-05-28T12:18:29+00:00"
     },
@@ -562,27 +737,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-como-votar-para-presidente-desde-la-argentina-nid14052026/",
       "published_date": "2026-05-26T12:36:36+00:00"
-    },
-    {
-      "title": "What day are the presidential elections in Colombia 2026?",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-dia-son-las-elecciones-presidenciales-en-colombia-2026-nid12052026/",
-      "published_date": "2026-05-26T12:36:33+00:00"
-    },
-    {
-      "title": "When are the presidential elections in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-presidenciales-en-colombia-2026-nid06052026/",
-      "published_date": "2026-05-26T12:36:30+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: what is voted on Sunday, May 31",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-que-se-vota-el-domingo-31-de-mayo-nid07052026/",
-      "published_date": "2026-05-26T12:36:27+00:00"
     },
     {
       "title": "Bob Amsterdam: the lawyer behind the opposition party trying to take down Pashinyan",
@@ -2144,104 +2298,6 @@
       "country": "United Kingdom",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3b1pobGd3SDA2TEx4bHowTEhEOTZqek1WcGpYNTRWcU9GTFNLVjRFWVZVdUNGaDFjV2wzYUpnTkY4enEwR2QyaGwtVkhjZzRTUEIxZEx5SHZ6QQ?oc=5",
       "published_date": "2026-05-15T14:40:11+00:00"
-    },
-    {
-      "title": "World Bank representatives will visit Caracas to meet with the interim government, according to Bloomberg",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/economia/representantes-del-banco-mundial-visitaran-caracas-para-reunirse-con-el-gobierno-interino-segun-bloomberg/",
-      "published_date": "2026-05-15T13:50:26+00:00"
-    },
-    {
-      "title": "Labor power struggle: The King of the North marches on London",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/grossbritannien-wie-andy-burnham-keir-starmer-beerben-will-200834975.html",
-      "published_date": "2026-05-15T13:02:04+00:00"
-    },
-    {
-      "title": "Possible contenders in UK Labour Party leadership race",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/possible-contenders-in-uk-labour-party-leadership-race/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-15T12:53:37+00:00"
-    },
-    {
-      "title": "Criminal cases, insults and claims of foreign control: Armenia’s pre-election campaign heats up",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/criminal-cases-insults-and-claims-of-foreign-control-armenias-pre-election-campaign-heats-up/",
-      "published_date": "2026-05-15T12:50:30+00:00"
-    },
-    {
-      "title": "Israel’s upcoming election season could become its ugliest yet - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-896221",
-      "published_date": "2026-05-15T11:41:20+00:00"
-    },
-    {
-      "title": "NHS was ‘back on its feet’: Keir Starmer praises Wes Streeting despite dramatic resignation",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-health-secretary-wes-streeting-resigns-keir-starmer-leadership-crisis-10690736/",
-      "published_date": "2026-05-15T11:15:34+00:00"
-    },
-    {
-      "title": "Rathindra Bose, a Chartered Accountant and BJP north Bengal MLA, elected Speaker of Bengal Assembly",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/rathindra-bose-a-chartered-accountant-from-north-bengal-elected-speaker-of-bengal-assembly/article70981810.ece",
-      "published_date": "2026-05-15T11:07:55+00:00"
-    },
-    {
-      "title": "Iraq swears in new prime minister as US presses Baghdad to disarm Iran-backed groups",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/2026/05/15/iraq-swears-in-new-prime-minister-as-us-presses-baghdad-to-disarm-iran-backed-groups",
-      "published_date": "2026-05-15T10:12:09+00:00"
-    },
-    {
-      "title": "Myanmar junta intensifies attacks along Chin-Magway border",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-intensifies-attacks-along-chin-magway-border/",
-      "published_date": "2026-05-15T09:46:40+00:00"
-    },
-    {
-      "title": "United Kingdom: political crisis and suitors’ ball",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260515-royaume-uni-crise-politique-et-bal-des-pr%C3%A9tendants",
-      "published_date": "2026-05-15T09:06:59+00:00"
-    },
-    {
-      "title": "Over half of Israelis want PM Netanyahu to retire from politics, not run in Knesset election - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896302",
-      "published_date": "2026-05-15T09:00:51+00:00"
-    },
-    {
-      "title": "“It does not apply”: Kast criticizes the regime change in Punta Peuco and does not rule out modifying it again",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/no-corresponde-kast-critica-cambio-de-regimen-de-punta-peuco-y-no-descarta-volver-a-modificarlo/",
-      "published_date": "2026-05-15T03:02:27+00:00"
-    },
-    {
-      "title": "Latvian prime minister resigns after controversy over stray Ukrainian drones",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-riga-baltic-parties-finland-b2977014.html",
-      "published_date": "2026-05-15T01:47:18+00:00"
-    },
-    {
-      "title": "Ex-Ondo gov Mimiko joins APC, backs Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/ex-ondo-gov-mimiko-joins-apc-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-15T00:29:30+00:00"
     }
   ]
 }
