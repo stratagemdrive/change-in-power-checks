@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-29T14:04:00.508979+00:00",
-    "story_count": 320,
+    "last_updated": "2026-05-30T00:08:22.665130+00:00",
+    "story_count": 329,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Anniversary: ADC, SDP presidential candidate knock Tinubu over hardship",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/anniversary-adc-sdp-presidential-candidate-knock-tinubu-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-30T00:17:50+00:00"
+    },
+    {
+      "title": "Fujimori maintains an advantage of at least three points over Sánchez nine days before the elections in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/05/fujimori-mantiene-ventaja-de-al-menos-tres-puntos-sobre-sanchez-a-nueve-dias-de-las-elecciones-en-peru/",
+      "published_date": "2026-05-29T23:06:08+00:00"
+    },
+    {
+      "title": "Barbecue restriction due to 2026 presidential elections: these are the municipalities of Colombia that decreed the security measure in the streets",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/restriccion-de-parrillero-por-elecciones-presidenciales-2026-estos-son-los-municipios-de-colombia-que-decretaron-la-medida-de-seguridad-en-las-calles-3559383",
+      "published_date": "2026-05-29T23:05:23+00:00"
+    },
+    {
+      "title": "It’s waste of time to plan coup in Nigeria – Defence minister",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/05/its-waste-of-time-to-plan-coup-in-nigeria-defence-minister/",
+      "published_date": "2026-05-29T20:19:22+00:00"
+    },
+    {
+      "title": "José Guerra after returning from exile: \"Caracas is more expensive than Washington and New York\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/jose-guerra-tras-regresar-del-exilio-caracas-esta-mas-cara-que-washington-y-nueva-york/",
+      "published_date": "2026-05-29T19:27:00+00:00"
+    },
+    {
+      "title": "Will there be a bike lane this Sunday, May 31 in Bogotá for the presidential elections? This is what the IDRD and the Mayor's Office clarified for the day",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/habra-ciclovia-este-domingo-31-de-mayo-en-bogota-por-elecciones-presidenciales-esto-es-lo-que-aclararon-el-idrd-y-la-alcaldia-mayor-para-la-jornada-3559421",
+      "published_date": "2026-05-29T18:44:29+00:00"
+    },
+    {
+      "title": "Colombia receives more than 1,200 international electoral observers to monitor the presidential elections on May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-recibe-mas-de-1-200-observadores-electorales-internacionales-para-vigilar-las-elecciones-presidenciales-del-31-de-mayo-3559433",
+      "published_date": "2026-05-29T18:37:54+00:00"
+    },
+    {
+      "title": "Russia-led Eurasian Economic Union urges Armenian referendum",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/2026/05/29/russia-led-eurasian-economic-union-urges-armenian-referendum",
+      "published_date": "2026-05-29T18:21:07+00:00"
+    },
+    {
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "source": "The Guardian World",
+      "country": "Mexico",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "published_date": "2026-05-29T17:33:35+00:00"
+    },
+    {
+      "title": "Fidel Castro's anti-communist daughter hopes the U.S. will bring regime change to Cuba",
+      "source": "CBC News World",
+      "country": "Cuba",
+      "url": "https://www.cbc.ca/radio/asithappens/alina-fernandez-9.7217239?cmp=rss",
+      "published_date": "2026-05-29T17:27:26+00:00"
+    },
+    {
+      "title": "Russia, Belarus, Kazakhstan, and Kyrgyzstan call on Armenia to hold referendum on EU vs. Eurasian Union membership",
+      "source": "Meduza EN",
+      "country": "Armenia",
+      "url": "https://meduza.io/en/news/2026/05/29/russia-belarus-kazakhstan-and-kyrgyzstan-call-on-armenia-to-hold-referendum-on-eu-vs-eurasian-union-membership",
+      "published_date": "2026-05-29T16:34:24+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia: know what the card is like and see where your candidate is for this Sunday, May 31",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-conozca-como-es-el-tarjeton-y-vea-en-que-parte-esta-su-candidata-o-candidato-para-este-domingo-31-de-mayo-3559321",
+      "published_date": "2026-05-29T16:32:09+00:00"
+    },
+    {
+      "title": "Jérôme Fourquet: “Can Jean-Luc Mélenchon dream of the second round of the presidential election in 2027?”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/jerome-fourquet-melenchon-peut-il-rever-du-second-tour-en-2027-20260504",
+      "published_date": "2026-05-29T16:02:15+00:00"
+    },
+    {
+      "title": "Iran International: Iranian broadcaster in exile has had debts amounting to millions forgiven",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/iran-international-schuldenerlass-fuer-den-exilsender-200880372.html",
+      "published_date": "2026-05-29T15:35:24+00:00"
+    },
+    {
+      "title": "Colombia closes its borders starting this Saturday for the elections",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Colombia",
+      "url": "https://efectococuyo.com/internacionales/colombia-cierra-sus-fronteras-desde-este-sabado-por-las-elecciones/",
+      "published_date": "2026-05-29T14:25:41+00:00"
+    },
     {
       "title": "Lee, first lady cast ballots in early voting near Cheong Wa Dae for June 3 elections",
       "source": "Korea Times",
@@ -195,7 +300,7 @@
     {
       "title": "Myanmar junta chief to make first India trip since seizing power",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
       "published_date": "2026-05-29T07:13:07+00:00"
     },
@@ -212,6 +317,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-estos-son-los-beneficios-y-descuentos-que-le-otorga-el-certificado-electoral-por-ir-a-votar-este-31-de-mayo-3559139",
       "published_date": "2026-05-29T04:09:30+00:00"
+    },
+    {
+      "title": "Punjab civic body poll results LIVE: AAP sweeps municipal corporation elections, BJP a distant fifth",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/punjab-civic-body-poll-results-live-updates-nagar-panchayat-municipal-corporation-mohali-zirakpur-aap-congress-bjp-sad-101780018353983.html",
+      "published_date": "2026-05-29T02:11:39+00:00"
     },
     {
       "title": "Panama Manifesto proposes negotiation between Machado and the interim to seek free elections",
@@ -2249,55 +2361,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-government-austerity-guidelines-west-asia-crisis-jitu-vaghani-fuel-curbs-10692124/",
       "published_date": "2026-05-16T03:23:18+00:00"
-    },
-    {
-      "title": "They confirm that the leftist candidate Roberto Sánchez will be Keiko Fujimori's rival in the runoff in Peru",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/confirman-que-el-candidato-de-izquierda-roberto-sanchez-sera-el-rival-de-keiko-fujimori-en-el-nid15052026/",
-      "published_date": "2026-05-15T20:59:30+00:00"
-    },
-    {
-      "title": "Registrar would not have been invited to the meeting that President Gustavo Petro held in Casa de Nariño to talk about elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registrador-no-habria-sido-invitado-a-la-reunion-que-hizo-el-presidente-gustavo-petro-en-casa-de-narino-para-hablar-de-elecciones-3555881",
-      "published_date": "2026-05-15T18:01:24+00:00"
-    },
-    {
-      "title": "Peru’s leftist Sanchez to face Fujimori in presidential run-off",
-      "source": "South China Morning Post",
-      "country": "Peru",
-      "url": "https://www.scmp.com/news/world/americas/article/3353775/perus-leftist-sanchez-face-fujimori-presidential-run?utm_source=rss_feed",
-      "published_date": "2026-05-15T17:15:27+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Ethiopia revokes Sudanese ambassador-designate’s credentials | Juba asks Cairo to evacuate military base near Ethiopian border as preemptive move | Another Mahamid field commander defects from RSF | RSF aid coordination authority orders agencies to register, Khartoum warns against compliance",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/05/15/news/u/sudan-nashra-ethiopia-revokes-sudanese-ambassador-designates-credentials-juba-asks-cairo-to-evacuate-military-base-near-ethiopian-border-as-preemptive-move-another-mahamid-field-commander-defec/",
-      "published_date": "2026-05-15T16:51:50+00:00"
-    },
-    {
-      "title": "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-will-be-india-blocs-pm-candidate-revanth-reddy/article70984564.ece",
-      "published_date": "2026-05-15T16:44:15+00:00"
-    },
-    {
-      "title": "Peru's electoral body completes the vote count a month after the first round and is getting ready to announce the candidates who will go to the runoff",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/organismo-electoral-de-peru-finaliza-el-conteo-de-votos-un-mes-despues-la-primera-vuelta-y-se-alista-para-la-proclamacion-de-los-candidatos-que-iran-al-balotaje/",
-      "published_date": "2026-05-15T16:41:12+00:00"
-    },
-    {
-      "title": "What next for Starmer? Five scenarios in Labour leadership crisis - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3b1pobGd3SDA2TEx4bHowTEhEOTZqek1WcGpYNTRWcU9GTFNLVjRFWVZVdUNGaDFjV2wzYUpnTkY4enEwR2QyaGwtVkhjZzRTUEIxZEx5SHZ6QQ?oc=5",
-      "published_date": "2026-05-15T14:40:11+00:00"
     }
   ]
 }
