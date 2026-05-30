@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-30T00:08:22.665130+00:00",
-    "story_count": 329,
+    "last_updated": "2026-05-30T12:10:21.662805+00:00",
+    "story_count": 339,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
+      "title": "Congress govt. in Himachal changing election rules to hijack local body polls: BJP State chief",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/congress-govt-in-himachal-changing-election-rules-to-hijack-local-body-polls-bjp-state-chief/article71041170.ece",
+      "published_date": "2026-05-30T11:10:07+00:00"
+    },
+    {
+      "title": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday",
+      "published_date": "2026-05-30T10:57:04+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: one day left until the opening of voting stations; This is how the panorama progresses prior to election day",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-falta-un-dia-para-la-apertura-de-puestos-de-votacion-asi-avanza-el-panorama-previo-a-la-jornada-electoral-3559600",
+      "published_date": "2026-05-30T10:39:30+00:00"
+    },
+    {
+      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "published_date": "2026-05-30T10:34:54+00:00"
+    },
+    {
+      "title": "Russia calls ambassador home for discussions ahead of elections in Armenia",
+      "source": "DR News Denmark",
+      "country": "Russia",
+      "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-ambassadoer-hjem-til-droeftelser-forud-valg-i-armenien",
+      "published_date": "2026-05-30T09:51:31+00:00"
+    },
+    {
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "published_date": "2026-05-30T09:00:14+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: the challenge of fighting the violence of armed groups",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260530-pr%C3%A9sidentielle-en-colombie-l-enjeu-de-la-lutte-contre-la-violence-des-groupes-arm%C3%A9s",
+      "published_date": "2026-05-30T08:59:38+00:00"
+    },
+    {
+      "title": "Atiku-linked US firm seeks evidence of election interference in Nigeria",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/atiku-linked-us-firm-seeks-evidence-of-election-interference-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-05-30T08:07:07+00:00"
+    },
+    {
+      "title": "Punjab civic body election results: Full list of AAP, Congress, BJP winners across 1,977 wards",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/punjab-civic-body-election-results-full-list-of-winners-across-1-977-wards-101780125599830.html",
+      "published_date": "2026-05-30T07:26:45+00:00"
+    },
+    {
+      "title": "Presidential elections 2026 in Colombia where and who to go to to report fraud and irregularities at voting stations",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-donde-y-a-quien-acudir-para-denunciar-fraudes-e-irregularidades-en-los-puestos-de-votacion-3559444",
+      "published_date": "2026-05-30T04:51:57+00:00"
+    },
+    {
+      "title": "“Is that all there is? »: around Emmanuel Macron, we like to highlight the weakness of the casting of the 2027 presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/y-a-que-ca-autour-d-emmanuel-macron-on-se-plait-a-souligner-la-faiblesse-du-casting-de-la-presidentielle-2027-20260530",
+      "published_date": "2026-05-30T03:45:00+00:00"
+    },
+    {
+      "title": "Myanmar’s junta chief turned president heads to India, with an eye on China",
+      "source": "Japan Times",
+      "country": "China",
+      "url": "https://www.japantimes.co.jp/news/2026/05/30/asia-pacific/politics/myanmar-junta-chief-first-overseas-trip/",
+      "published_date": "2026-05-30T03:24:00+00:00"
+    },
+    {
+      "title": "Myanmar's junta chief turned president heads to India, with an eye on China - Reuters",
+      "source": "Google News World",
+      "country": "China",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWl0WXVxc1BfR1VKZkZQWkNhRnZtUmNyc2VOcnFvRFNLeTd3cWNJeVpLV2ota3Z4MndSNTFHOEVyS1hvR0hENmVQS0RyT3h6TjhIZUstY1NVLXlVUTF6MWZhaWg5TjBLb2sySmxzVkRtX0cwcmp5WWVSTWZRcTNzekswTjV6X2JmN0NmOS1mcGxMUVd3ZXQxS2ltT2xJTHZVTU82ZzFjUG9XZmNOQlVJODJYRmEyQQ?oc=5",
+      "published_date": "2026-05-30T02:32:00+00:00"
+    },
+    {
+      "title": "AAP wins over 48% wards in big Punjab sweep, results seen as ‘semi-final’ before 2027 elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/aap-wins-over-48-wards-in-big-punjab-sweep-results-seen-as-semi-final-before-2027-elections-101780103448286.html",
+      "published_date": "2026-05-30T01:28:18+00:00"
+    },
+    {
       "title": "Anniversary: ADC, SDP presidential candidate knock Tinubu over hardship",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/anniversary-adc-sdp-presidential-candidate-knock-tinubu-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-30T00:17:50+00:00"
+    },
+    {
+      "title": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
+      "published_date": "2026-05-30T00:00:00+00:00"
     },
     {
       "title": "Fujimori maintains an advantage of at least three points over Sánchez nine days before the elections in Peru",
@@ -132,7 +237,7 @@
     {
       "title": "Russia, Belarus, Kazakhstan, and Kyrgyzstan call on Armenia to hold referendum on EU vs. Eurasian Union membership",
       "source": "Meduza EN",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://meduza.io/en/news/2026/05/29/russia-belarus-kazakhstan-and-kyrgyzstan-call-on-armenia-to-hold-referendum-on-eu-vs-eurasian-union-membership",
       "published_date": "2026-05-29T16:34:24+00:00"
     },
@@ -300,7 +405,7 @@
     {
       "title": "Myanmar junta chief to make first India trip since seizing power",
       "source": "Myanmar Now",
-      "country": "India",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
       "published_date": "2026-05-29T07:13:07+00:00"
     },
@@ -2326,41 +2431,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-demands-education-minister-s-resignation-over-neet-paper-leak-101778942129100.html",
       "published_date": "2026-05-16T14:35:28+00:00"
-    },
-    {
-      "title": "In Peru, the left-wing candidate advances to the second round of the presidential election and will face the populist right of Keiko Fujimori",
-      "source": "Le Monde France",
-      "country": "Peru",
-      "url": "https://www.lemonde.fr/international/article/2026/05/16/au-perou-le-candidat-de-gauche-se-hisse-au-second-tour-de-l-election-presidentielle-et-affrontera-la-droite-populiste-de-keiko-fujimori_6689876_3210.html",
-      "published_date": "2026-05-16T10:40:09+00:00"
-    },
-    {
-      "title": "Venezuela does not need another election",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/opinion/venezuela-no-necesita-otra-eleccion/",
-      "published_date": "2026-05-16T10:00:00+00:00"
-    },
-    {
-      "title": "UK leadership crisis deepens: Starmer faces growing calls to step down",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/uk-leadership-crisis-deepens-starmer-faces-growing-calls-to-step-down",
-      "published_date": "2026-05-16T08:45:01+00:00"
-    },
-    {
-      "title": "Renho suffers upset loss in CDP Tokyo chapter leadership race",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/05/16/japan/politics/renho-loss-tokyo-leadership-race/",
-      "published_date": "2026-05-16T07:55:00+00:00"
-    },
-    {
-      "title": "PM Modi’s call amid West Asia crisis | Online meetings, simple functions & curbs in government vehicle usage: Gujarat issues austerity guidelines",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-government-austerity-guidelines-west-asia-crisis-jitu-vaghani-fuel-curbs-10692124/",
-      "published_date": "2026-05-16T03:23:18+00:00"
     }
   ]
 }
