@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-31T00:01:24.811483+00:00",
-    "story_count": 343,
+    "last_updated": "2026-05-31T12:16:06.513364+00:00",
+    "story_count": 358,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential elections in Colombia 2026: Police deployed more than 11 thousand uniformed personnel in Bogotá to guard voting stations",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-desde-las-8-00-a-m-los-puestos-de-votacion-estaran-habilitados-para-elegir-al-proximo-presidente-3559724",
+      "published_date": "2026-05-31T11:52:10+00:00"
+    },
+    {
+      "title": "Marcos Velazco, member of Vente Venezuela, returned to the country after a year in exile",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/marcos-velazco-miembro-de-vente-venezuela-regreso-al-pais-tras-un-ano-en-el-exilio/",
+      "published_date": "2026-05-31T11:36:22+00:00"
+    },
+    {
+      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections",
+      "published_date": "2026-05-31T11:30:02+00:00"
+    },
+    {
+      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
+      "published_date": "2026-05-31T11:23:36+00:00"
+    },
+    {
+      "title": "AFU denies reports of Russians having 'captured’ Riasne in Sumy region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4129046-afu-denies-reports-of-russians-having-captured-riasne-in-sumy-region.html",
+      "published_date": "2026-05-31T10:16:00+00:00"
+    },
+    {
+      "title": "Armenia prepares for legislative elections that will determine its sovereignty",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260531-armenie-face-a-des-elections-legislatives-determinantes-pour-sa-souverainete-russie-nikol-pachinian",
+      "published_date": "2026-05-31T09:58:34+00:00"
+    },
+    {
+      "title": "Colombia votes in presidential election pitting Petro allies against pro-Trump candidates",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
+      "published_date": "2026-05-31T09:53:34+00:00"
+    },
+    {
+      "title": "Drone Hits Captured Nuclear Plant in Ukraine – IAEA",
+      "source": "Moscow Times",
+      "country": "Ukraine",
+      "url": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+      "published_date": "2026-05-31T09:47:07+00:00"
+    },
+    {
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T08:47:46+00:00"
+    },
+    {
+      "title": "Experts Explain | Can Election Commission decide who is an Indian citizen? What Supreme Court said in SIR verdict",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-eci-special-intensive-revision-sir-citizenship-10716723/",
+      "published_date": "2026-05-31T08:33:49+00:00"
+    },
+    {
+      "title": "Before the election on June 7th: Putin increases the pressure on Armenia",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/inland/vor-parlamentswahl-russlands-druck-auf-armenien-waechst-accg-200883308.html",
+      "published_date": "2026-05-31T07:41:14+00:00"
+    },
+    {
+      "title": "The government projects behind the favorites for the elections in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/los-proyectos-de-gobierno-tras-los-favoritos-para-las-elecciones-en-colombia/",
+      "published_date": "2026-05-31T07:21:11+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: the legacy of Gustavo Petro, the first left-wing president, at stake",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/05/31/election-presidentielle-en-colombie-l-heritage-de-gustavo-petro-premier-president-de-gauche-en-jeu_6695558_3210.html",
+      "published_date": "2026-05-31T07:00:08+00:00"
+    },
+    {
+      "title": "Senator Bernie Moreno sent a message to Colombians for these presidential elections: 'The decisions you make will have great historical weight'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-bernie-moreno-envio-mensaje-a-los-colombianos-para-estas-elecciones-presidenciales-las-decisiones-que-tomen-tendran-un-gran-peso-historico-3559722",
+      "published_date": "2026-05-31T06:31:01+00:00"
+    },
+    {
+      "title": "Pashinyan on course for landslide victory and pro-West mandate in Armenia election, new poll shows",
+      "source": "Euronews",
+      "country": "Armenia",
+      "url": "http://www.euronews.com/2026/05/31/pashinyan-on-course-for-landslide-victory-and-pro-west-mandate-in-armenia-election-new-pol",
+      "published_date": "2026-05-31T06:00:01+00:00"
+    },
+    {
+      "title": "What is Plan B? NATO is shaken, and Denmark's new government must find new answers",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/internationalt/art10862239/Hvad-er-Plan-B-Nato-er-rystet-og-Danmarks-nye-regering-skal-finde-nye-svar",
+      "published_date": "2026-05-31T05:04:05+00:00"
+    },
+    {
+      "title": "What is a support keychain in the Colombian presidential elections and what is its role in the security of electoral material",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/que-es-un-clavero-de-apoyo-en-las-elecciones-presidenciales-de-colombia-y-cual-es-su-papel-en-la-seguridad-del-material-electoral-3559720",
+      "published_date": "2026-05-31T04:33:37+00:00"
+    },
+    {
+      "title": "Colombia is ready to vote in a momentous election",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-esta-lista-para-votar-en-unas-elecciones-trascendentales-3559675",
+      "published_date": "2026-05-31T03:01:00+00:00"
+    },
+    {
+      "title": "Venezuela opposition candidate Gonzalez urges new elections",
+      "source": "Deutsche Welle English",
+      "country": "Venezuela",
+      "url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-05-31T00:11:00+00:00"
+    },
     {
       "title": "Presidential elections in Colombia 2026: WestCol's interview with Abelardo de la Espriella begins; the topics that could mark the conversation",
       "source": "El Tiempo Colombia",
@@ -85,6 +218,13 @@
       "source": "BBC World",
       "country": "Colombia",
       "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T20:40:07+00:00"
+    },
+    {
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow - BBC",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjU1NkNklqZVl1UDdmLWdZZl9VZTdfb1c1SE5QUkJfZ0xIM2VJUmk0OEFUUk8yUE5Zb20yRFNBNmtjS0hhempDMmVfbTlKOGl5SnIyTU9hWmlkdw?oc=5",
       "published_date": "2026-05-30T20:40:07+00:00"
     },
     {
@@ -163,6 +303,13 @@
       "country": "Turkey",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BVHFQSlJpdkZEeHIySmk1MkRzMHNIdENuOEpZN2p0UVlXeTk2dXRTcE52V09XMlpOMjBzcUxqWEVkTm14RmI5RGVySDZqSU5jLVZ2RnYzV1BLZzEw?oc=5",
       "published_date": "2026-05-30T15:33:53+00:00"
+    },
+    {
+      "title": "Tens of thousands march in support of Turkey’s deposed opposition leader - AP News",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVZkT1A2cjc0ZXNlYUk0YVJ3TFpjbGtzTHAzb0EwMlB4RVZBZmM3YzFHdVVGNUM4em1DNFlpZzhRQWFGNF9GVjh2cnRYMUpaczkzcHhRVmFqaTlwbVJZUWNNbHhNVVZEdzZmNWNPYkFsR01VbzFwN1lSd0VCT0FHWDJWSWpBdzlJM2FKQ0gySDdzejlPUTctRE5NMjloTi1J?oc=5",
+      "published_date": "2026-05-30T14:07:00+00:00"
     },
     {
       "title": "Turkey enters political unknown after police raid opposition party headquarters",
@@ -517,7 +664,7 @@
     {
       "title": "Myanmar junta chief to make first India trip since seizing power",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
       "published_date": "2026-05-29T07:13:07+00:00"
     },
@@ -2417,48 +2564,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/ausland/afd-in-sachsen-anhalt-minister-warnt-vor-staatsstreich-accg-200839793.html",
       "published_date": "2026-05-17T12:16:00+00:00"
-    },
-    {
-      "title": "Hamas leadership elections end without political leader selection, promises future vote",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-896418",
-      "published_date": "2026-05-17T11:12:07+00:00"
-    },
-    {
-      "title": "India pushes back on minority rights question during PM Modi's Netherlands trip: ‘Lack of understanding’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-pushes-back-on-minority-rights-question-during-pm-modis-netherlands-trip-lack-of-understanding-101779006434581.html",
-      "published_date": "2026-05-17T08:42:41+00:00"
-    },
-    {
-      "title": "First Phase projects in Benghazi’s Julyana district inaugurated – including five bridges",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/05/first-phase-projects-in-benghazis-julyana-district-inaugurated-including-five-bridges/",
-      "published_date": "2026-05-17T08:00:11+00:00"
-    },
-    {
-      "title": "Could a leadership change undo Israel’s international isolation?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss",
-      "published_date": "2026-05-17T07:20:07+00:00"
-    },
-    {
-      "title": "Men on motorcycles shoot Colombian presidential candidate's staff",
-      "source": "DR News Denmark",
-      "country": "Colombia",
-      "url": "https://www.dr.dk/nyheder/seneste/maend-paa-motorcykler-skyder-colombiansk-praesidentkandidats-medarbejdere",
-      "published_date": "2026-05-17T03:34:00+00:00"
-    },
-    {
-      "title": "Lula reacts in his search for re-election with a package of benefits and sees if Master corners his opponents",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-reage-na-busca-por-reeleicao-com-pacote-de-benesses-e-ve-caso-master-acuar-adversarios.shtml",
-      "published_date": "2026-05-17T02:00:00+00:00"
     }
   ]
 }
