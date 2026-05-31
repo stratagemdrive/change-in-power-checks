@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-30T12:10:21.662805+00:00",
-    "story_count": 339,
+    "last_updated": "2026-05-31T00:01:24.811483+00:00",
+    "story_count": 343,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential elections in Colombia 2026: WestCol's interview with Abelardo de la Espriella begins; the topics that could mark the conversation",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-falta-un-dia-para-la-apertura-de-puestos-de-votacion-asi-avanza-el-panorama-previo-a-la-jornada-electoral-3559600",
+      "published_date": "2026-05-30T23:30:57+00:00"
+    },
+    {
+      "title": "Practical guide to voting this Sunday, May 31 in the presidential elections in Colombia: alphabet with data and restrictions of the day",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/guia-practica-para-votar-este-domingo-31-de-mayo-en-las-elecciones-presidenciales-en-colombia-abece-con-datos-y-restricciones-de-la-jornada-3559678",
+      "published_date": "2026-05-30T22:07:06+00:00"
+    },
+    {
+      "title": "Practical guide to voting on Sunday, May 31 in the presidential elections in Colombia: alphabet with data and restrictions of the day",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/guia-practica-para-votar-el-domingo-31-de-mayo-en-las-elecciones-presidenciales-en-colombia-abece-con-datos-y-restricciones-de-la-jornada-3559679",
+      "published_date": "2026-05-30T22:02:17+00:00"
+    },
+    {
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T20:40:07+00:00"
+    },
+    {
+      "title": "Colombia Elections 2026 | \"It is the decision of whether the country wants to regain the rhythm of freedom again.\"",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/elecciones-colombia-2026-es-la-decision-de-si-el-pais-quiere-otra-vez-recuperar-el-ritmo-de-la-libertad/",
+      "published_date": "2026-05-30T19:46:37+00:00"
+    },
+    {
+      "title": "Can you be sanctioned for not going to vote in the Colombian presidential elections? These are the benefits that those who do not vote lose.",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/le-pueden-sancionar-por-no-ir-a-votar-en-las-elecciones-presidenciales-de-colombia-estos-son-los-beneficios-que-pierde-quien-no-ejerce-el-sufragio-3559661",
+      "published_date": "2026-05-30T19:31:49+00:00"
+    },
+    {
+      "title": "Gustavo Petro defended his management but pointed out that Sunday's elections will define \"the real future of Colombia\"",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/gustavo-petro-defendio-su-gestion-pero-senalo-que-elecciones-del-domingo-definiran-el-futuro-real-de-colombia/",
+      "published_date": "2026-05-30T19:12:14+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia: international audit endorses technological systems amid noise about software",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-auditoria-internacional-avala-sistemas-tecnologicos-en-medio-de-ruido-sobre-el-software-3559641",
+      "published_date": "2026-05-30T17:54:16+00:00"
+    },
+    {
+      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-will-face-setback-in-2028-assembly-elections-former-bjp-mla-narasimha-naik/article71041874.ece",
+      "published_date": "2026-05-30T17:43:10+00:00"
+    },
+    {
+      "title": "Government of Colombia accuses Ecuador of “interference” in presidential elections due to the announcement of tariffs",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/gobierno-de-colombia-acusa-injerencia-de-noboa-en-elecciones-y-afirma-que-fin-de-aranceles-es-por-orden-de-can/",
+      "published_date": "2026-05-30T17:39:32+00:00"
+    },
+    {
+      "title": "Edmundo González raises the conditions for the repetition of the presidential elections in Venezuela",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/edmundo-gonzalez-plantea-las-condiciones-para-la-repeticion-de-las-elecciones-presidenciales-en-venezuela/",
+      "published_date": "2026-05-30T17:30:00+00:00"
+    },
+    {
+      "title": "Edmundo González advocates for presidential elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/05/edmundo-gonzalez-aboga-por-elecciones-presidenciales-en-venezuela/",
+      "published_date": "2026-05-30T17:17:07+00:00"
+    },
+    {
+      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-30T16:21:52+00:00"
+    },
+    {
+      "title": "Elections 2026 in Colombia: this happens if a voting jury leaves their table before finishing the counting and counting",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-en-colombia-esto-pasa-si-un-jurado-de-votacion-abandona-su-mesa-antes-de-terminar-el-conteo-y-el-escrutinio-3559622",
+      "published_date": "2026-05-30T15:48:42+00:00"
+    },
+    {
+      "title": "Ousted Turkish opposition leader draws massive anti-Erdogan crowd in Ankara - The Jerusalem Post",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BVHFQSlJpdkZEeHIySmk1MkRzMHNIdENuOEpZN2p0UVlXeTk2dXRTcE52V09XMlpOMjBzcUxqWEVkTm14RmI5RGVySDZqSU5jLVZ2RnYzV1BLZzEw?oc=5",
+      "published_date": "2026-05-30T15:33:53+00:00"
+    },
+    {
+      "title": "Turkey enters political unknown after police raid opposition party headquarters",
+      "source": "RFI English",
+      "country": "Turkey",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260530-turkey-enters-political-unknown-after-police-raid-opposition-party-headquarters",
+      "published_date": "2026-05-30T13:30:14+00:00"
+    },
+    {
+      "title": "Russian disinformation: in Armenia, elections under pressure",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260530-d%C3%A9sinformation-russe-en-arm%C3%A9nie-des-%C3%A9lections-sous-pression",
+      "published_date": "2026-05-30T12:51:23+00:00"
+    },
     {
       "title": "Congress govt. in Himachal changing election rules to hijack local body polls: BJP State chief",
       "source": "The Hindu Politics",
@@ -72,13 +191,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday",
       "published_date": "2026-05-30T10:57:04+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: one day left until the opening of voting stations; This is how the panorama progresses prior to election day",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-falta-un-dia-para-la-apertura-de-puestos-de-votacion-asi-avanza-el-panorama-previo-a-la-jornada-electoral-3559600",
-      "published_date": "2026-05-30T10:39:30+00:00"
     },
     {
       "title": "Rubio says Trump envoy Barrack to step down from Syria post",
@@ -139,7 +251,7 @@
     {
       "title": "Myanmar’s junta chief turned president heads to India, with an eye on China",
       "source": "Japan Times",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://www.japantimes.co.jp/news/2026/05/30/asia-pacific/politics/myanmar-junta-chief-first-overseas-trip/",
       "published_date": "2026-05-30T03:24:00+00:00"
     },
@@ -214,7 +326,7 @@
       "published_date": "2026-05-29T18:37:54+00:00"
     },
     {
-      "title": "Russia-led Eurasian Economic Union urges Armenian referendum",
+      "title": "Russia recalls ambassador to Armenia over closer EU ties days before decisive elections",
       "source": "Euronews",
       "country": "Russia",
       "url": "http://www.euronews.com/2026/05/29/russia-led-eurasian-economic-union-urges-armenian-referendum",
@@ -2347,90 +2459,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-reage-na-busca-por-reeleicao-com-pacote-de-benesses-e-ve-caso-master-acuar-adversarios.shtml",
       "published_date": "2026-05-17T02:00:00+00:00"
-    },
-    {
-      "title": "Keir Starmer could resign soon, report says UK PM 'ready to step down' amid growing turmoil | World News - Hindustan Times",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVlA3N25PMEp0Q0o2NUh5aHNjNHR3Y1MzNzRxeG5qaV83ZFdyckZmb0xOR1dSSEhGdDVOb3E5Q3dfRVFrN01SanhETTJjS1hpblc1cnNNWHB5NDNfZGVJbUlPQk9RYkQxVUZ6TTZHdHFyOWs0SUhRd2lWSmRLTEw0SVJDREhlVGNINXY5T3NiSFFfaUp2ajExa1JSS0x5SWhLMmRXenk5WUcySXZnbHpQZ3ppMFQyclNia2RSMkpUTHY1T2pWdEtuMXZhcmV3cTJsZXAwOUIxUUY0MmluQVFfck5GWjFLTmZtR09XbmJUeHFMVU4zWUpUTGVJVkY4d9IBgwJBVV95cUxPdUkzQ1l6LW5POU5MMUdWOXdYdTNWelVNSzRCYmRneTVvNUVNTjBSMEhrUk5YaEtKR1I2VGpuRVh1SDNzREJ1TmN5NnM3N1B4endJdFV5c2ZOZ0k0RllBbzd0SG9KNkRISTZjWlp4ZERMNjkwTVZ6NmRGVWxHcHNmMTYyck56c1JGblVJRWU0UlJjdjYwSlQwRlJkY29NNlFkcHo0OExzYU82VkZwSnpQM2dzZ01TMW5pOEFocDQ1amN5bnJJZFd2anRTT1BqYngtUWpBTEJMd0tTNVpDT2s2dkZDdTVhOWRoYkk4YTFqb2wybTBuaHhDTk9vT3JOX005RnBR?oc=5",
-      "published_date": "2026-05-16T22:02:51+00:00"
-    },
-    {
-      "title": "Two presidential campaign staffers killed in Colombia as elections near",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
-      "published_date": "2026-05-16T21:42:04+00:00"
-    },
-    {
-      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVdfbDNlNXNHSnZXZ09rM01mRkVHeGFlSzUyRzZ2U2FBR3FlOG9pWWhXbFZTeE9FN2ZRSHRNYWpieFZBd1FseHcxLWhYMmFRNEllaVVXUEx0LXh3Tzl4cFoyblBwbUpocFNjRlZmYldjckNYSV9ZMEowNnVtRV94c2tyLTNHYndaTThqQVNtNjlMT3c1V1FtZDBoNWZ1WWRnUm1PclhrR19iaXAwRlRZbnhn0gG3AUFVX3lxTE53aXpPdjB4eGZwbnpLYmxJd3VuWk1qVzdBb3BINlY5Qmk5V09xS21oWHc4QWhFTG44T18xb0xoRFEzR19UeE5FWHc3TDBrSTBCblZtRFZYdlFtNGdFQ19VT3p5NHpWVzh5TTR1aWlWZmtpWVpqOWlYTUVXZ25XZ2s1dUtvM19xd2xsS1BFNFJ3Wk1TQnB2SFA1R2psWEZOOXJuQ1QyN2VmWkZBRW1TZlVFaEc5UlN4bw?oc=5",
-      "published_date": "2026-05-16T21:07:35+00:00"
-    },
-    {
-      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-16T21:05:10+00:00"
-    },
-    {
-      "title": "The little shop on Jaffa Street that captured old Jerusalem - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-896247",
-      "published_date": "2026-05-16T20:00:30+00:00"
-    },
-    {
-      "title": "Palestinian President Abbas casts vote in decisive Fatah elections",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss",
-      "published_date": "2026-05-16T18:03:38+00:00"
-    },
-    {
-      "title": "Wes Streeting, resigning British health minister, wants to “run” to succeed Keir Starmer",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/05/16/wes-streeting-ministre-de-la-sante-demissionnaire-veut-se-presenter-a-la-succession-de-keir-starmer_6689899_3210.html",
-      "published_date": "2026-05-16T15:49:30+00:00"
-    },
-    {
-      "title": "'Has jhalmuri reached here?': PM Modi's Bengal election quip in Netherlands | Watch",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-bengal-election-quip-in-netherlands-has-jhalmuri-reached-here-101778939285078.html",
-      "published_date": "2026-05-16T15:03:15+00:00"
-    },
-    {
-      "title": "Flávio-Vorcaro case and Lula's arsenal mark the end of the election's warm-up phase",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/caso-flavio-vorcaro-e-arsenal-de-lula-marcam-fim-da-fase-de-aquecimento-da-eleicao.shtml",
-      "published_date": "2026-05-16T15:03:00+00:00"
-    },
-    {
-      "title": "PM Modi warns of ‘return of massive poverty’, flags ‘disaster decade’ of Covid, wars, fuel crisis",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-warns-of-return-of-poverty-lists-covid-wars-energy-crisis-as-global-dangers-101778942352877.html",
-      "published_date": "2026-05-16T14:51:19+00:00"
-    },
-    {
-      "title": "Bengal’s 93.71% turnout highest in any Assembly, Lok Sabha polls: Election Commission data",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-record-turnout-independence-election-commission-sir-voter-deletions-supreme-court-10693092/",
-      "published_date": "2026-05-16T14:36:55+00:00"
-    },
-    {
-      "title": "Rahul Gandhi demands education minister’s resignation over NEET paper leak",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-demands-education-minister-s-resignation-over-neet-paper-leak-101778942129100.html",
-      "published_date": "2026-05-16T14:35:28+00:00"
     }
   ]
 }
