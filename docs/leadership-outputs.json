@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-05-31T12:16:06.513364+00:00",
-    "story_count": 358,
+    "last_updated": "2026-06-01T00:05:39.732140+00:00",
+    "story_count": 373,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,202 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Why is there a second round of presidential elections in Colombia and who invented it?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/por-que-se-hace-segunda-vuelta-de-las-elecciones-presidenciales-en-colombia-y-quien-la-invento-3560957",
+      "published_date": "2026-05-31T23:56:24+00:00"
+    },
+    {
+      "title": "Who won the elections for president in Colombia 2026",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-para-presidente-en-colombia-2026-nid31052026/",
+      "published_date": "2026-05-31T23:53:51+00:00"
+    },
+    {
+      "title": "Results in Colombia: who won the 2026 Elections for president",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/resultados-en-colombia-quien-va-ganando-las-elecciones-2026-para-presidente-nid31052026/",
+      "published_date": "2026-05-31T23:15:35+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia, live: Abelardo de la Espriella will seek the presidency against Iván Cepeda in the runoff",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-presidenciales-en-colombia-en-vivo-votaron-los-candidatos-la-jornada-electoral-transcurre-nid31052026/",
+      "published_date": "2026-05-31T23:04:07+00:00"
+    },
+    {
+      "title": "Surprise in Colombia: De la Espriella wins first round and will contest the runoff with Cepeda",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/sorpresa-en-colombia-de-la-espriella-gana-primera-vuelta-y-disputara-balotaje-con-cepeda/",
+      "published_date": "2026-05-31T23:03:44+00:00"
+    },
+    {
+      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-31T23:02:53+00:00"
+    },
+    {
+      "title": "Pro-Trump candidate Abelardo de la Espriella leads presidential election in Colombia",
+      "source": "CiberCuba",
+      "country": "Colombia",
+      "url": "https://www.cibercuba.com/noticias/2026-06-01-u1-e135253-s27061-nid330825-candidato-pro-trump-abelardo-espriella-lidera",
+      "published_date": "2026-05-31T22:55:21+00:00"
+    },
+    {
+      "title": "European leaders urge Israel to step down in Lebanon",
+      "source": "DR News Denmark",
+      "country": "Israel",
+      "url": "https://www.dr.dk/nyheder/seneste/europaeiske-ledere-opfordrer-israel-til-nedtrapning-i-libanon",
+      "published_date": "2026-05-31T22:50:58+00:00"
+    },
+    {
+      "title": "They criticize Petro for displaying his marked ballot in the first round of the elections in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/critican-a-petro-por-exhibir-su-papeleta-marcada-en-la-primera-vuelta-de-las-elecciones-en-colombia/",
+      "published_date": "2026-05-31T21:23:04+00:00"
+    },
+    {
+      "title": "Iranian President Pezeshkian offers resignation to Supreme Leader Khamenei - report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-897917",
+      "published_date": "2026-05-31T21:16:36+00:00"
+    },
+    {
+      "title": "Polls close in Colombia presidential election that may reshape relations with US",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T21:08:21+00:00"
+    },
+    {
+      "title": "Polls close in Colombia presidential election that may reshape relations with US - BBC",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcU9MS2FfUVlRTklsYXdEN0JqNlZEV1E5T2xzQzNuSDlDTXNGYWRQOTVJOE1Qd3ctMDY4aWxpeWJrOWJQY2tWVTM1aGxGRTNGektnQU5od3hPQQ?oc=5",
+      "published_date": "2026-05-31T21:08:21+00:00"
+    },
+    {
+      "title": "Colombian presidential election live: De la Espriella and Cepeda will face each other in the second round",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260531-pr%C3%A9sidentielle-en-colombie-suivez-en-direct-le-premier-tour",
+      "published_date": "2026-05-31T20:26:32+00:00"
+    },
+    {
+      "title": "Colombia to hold presidential runoff: De la Espriella vs. Cepeda",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round",
+      "published_date": "2026-05-31T20:25:41+00:00"
+    },
+    {
+      "title": "Colombian presidential vote headed to run-off between pro-Trump, leftist rivals",
+      "source": "CBC News World",
+      "country": "Colombia",
+      "url": "https://www.cbc.ca/news/world/colombia-presidential-vote-runoff-9.7218622?cmp=rss",
+      "published_date": "2026-05-31T19:39:28+00:00"
+    },
+    {
+      "title": "Colombia's election: Meeting the Presidential contenders",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260531-colombia-s-election-meeting-the-presidential-contenders",
+      "published_date": "2026-05-31T19:07:35+00:00"
+    },
+    {
+      "title": "Polls open in Colombia’s pivotal presidential election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-31T18:23:39+00:00"
+    },
+    {
+      "title": "Colombia reaches elections with 80 municipalities at maximum risk due to pressure from armed groups",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/05/colombia-llega-a-comicios-con-80-municipios-en-riesgo-maximo-por-presion-de-grupos-armados/",
+      "published_date": "2026-05-31T18:09:00+00:00"
+    },
+    {
+      "title": "Exiled politicians and human rights activists return to Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/la-humanidad/politicos-y-activistas-de-derechos-humanos-exiliados-regresan-a-venezuela/",
+      "published_date": "2026-05-31T17:54:35+00:00"
+    },
+    {
+      "title": "Colombians head to the polls to choose President Gustavo Petro’s successor",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss",
+      "published_date": "2026-05-31T15:58:50+00:00"
+    },
+    {
+      "title": "Reconstruction of the Electoral Registry: one of the main challenges facing new elections in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/registro-electoral-principales-retos-nuevas-elecciones/",
+      "published_date": "2026-05-31T15:38:32+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: voters begin to vote amid surge in violence",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/05/31/presidentielle-en-colombie-les-electeurs-commencent-a-voter-sur-fond-de-flambee-des-violences_6695593_3210.html",
+      "published_date": "2026-05-31T15:08:32+00:00"
+    },
+    {
+      "title": "Beaufort Fortress Captured: A Strategic Success for Israel in South Lebanon",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-erobert-wichtige-kreuzfahrerburg-in-libanon-accg-200884104.html",
+      "published_date": "2026-05-31T14:03:50+00:00"
+    },
+    {
+      "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
+      "published_date": "2026-05-31T14:00:43+00:00"
+    },
+    {
+      "title": "Colombia reinforces security for elections: 400 thousand uniformed personnel deployed among the more than a thousand voting centers",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/colombia-refuerza-seguridad-por-elecciones-400-mil-uniformados-desplegados-entre-los-mas-de-mil-centros-de-votacion/",
+      "published_date": "2026-05-31T13:50:39+00:00"
+    },
+    {
+      "title": "How to handle armed groups? Colombians vote in presidential election",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election",
+      "published_date": "2026-05-31T13:24:37+00:00"
+    },
+    {
+      "title": "Massive marches in Peru against Keiko Fujimori one week before the elections",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/masivas-marchas-en-peru-contra-keiko-fujimori-a-una-semana-de-las-elecciones/",
+      "published_date": "2026-05-31T12:25:31+00:00"
+    },
+    {
+      "title": "Colombia right-wing candidate De La Espriella, leftist Cepeda set for presidential run-off",
+      "source": "South China Morning Post",
+      "country": "Colombia",
+      "url": "https://www.scmp.com/news/world/americas/article/3355473/colombian-voters-weigh-economic-reforms-against-right-wing-crackdown?utm_source=rss_feed",
+      "published_date": "2026-05-31T12:06:24+00:00"
+    },
     {
       "title": "Presidential elections in Colombia 2026: Police deployed more than 11 thousand uniformed personnel in Bogotá to guard voting stations",
       "source": "El Tiempo Colombia",
@@ -116,13 +312,6 @@
       "published_date": "2026-05-31T09:47:07+00:00"
     },
     {
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T08:47:46+00:00"
-    },
-    {
       "title": "Experts Explain | Can Election Commission decide who is an Indian citizen? What Supreme Court said in SIR verdict",
       "source": "Indian Express",
       "country": "India",
@@ -162,6 +351,13 @@
       "source": "Euronews",
       "country": "Armenia",
       "url": "http://www.euronews.com/2026/05/31/pashinyan-on-course-for-landslide-victory-and-pro-west-mandate-in-armenia-election-new-pol",
+      "published_date": "2026-05-31T06:00:01+00:00"
+    },
+    {
+      "title": "Pashinyan on course for landslide win in Armenia vote, new poll shows - Euronews.com",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFVWRjlaYnEwOE0zSnJIRGxMTm01TFV5STljXzJscTVzVzRyYjBKMHZfdTMtSnZUQ2xfSm9sNXdReDJYZDZRY3E2U19jQ3VZY001YlpENWJra3d2dEpkYXJQQU9jZms5dk9nRnh4WnhRTkJnMDZCUWt0cGRSdkE0UXdDd0hCUGJLUFNpV2hVUVNsUEJ1b0JsQWZJLURQZXBPM2NoZVJaUWQtNXMxaXl4UWlHaXZMZmtEY3ppVkkyM01nd2lj?oc=5",
       "published_date": "2026-05-31T06:00:01+00:00"
     },
     {
@@ -496,7 +692,7 @@
     {
       "title": "Russia, Belarus, Kazakhstan, and Kyrgyzstan call on Armenia to hold referendum on EU vs. Eurasian Union membership",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://meduza.io/en/news/2026/05/29/russia-belarus-kazakhstan-and-kyrgyzstan-call-on-armenia-to-hold-referendum-on-eu-vs-eurasian-union-membership",
       "published_date": "2026-05-29T16:34:24+00:00"
     },
@@ -664,7 +860,7 @@
     {
       "title": "Myanmar junta chief to make first India trip since seizing power",
       "source": "Myanmar Now",
-      "country": "India",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
       "published_date": "2026-05-29T07:13:07+00:00"
     },
@@ -2473,97 +2669,6 @@
       "country": "Peru",
       "url": "https://www.japantimes.co.jp/news/2026/05/18/world/politics/fujimori-sanchez-peru-runoff/",
       "published_date": "2026-05-18T02:20:00+00:00"
-    },
-    {
-      "title": "What motivated Chinese-born Uyghers to fight in Syria's civil war",
-      "source": "NPR World",
-      "country": "Syria",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5550919/what-motivated-chinese-born-uyghers-to-fight-in-syrias-civil-war",
-      "published_date": "2026-05-17T21:45:01+00:00"
-    },
-    {
-      "title": "The Labor parties that are emerging as Starmer's successors in the event of the British premier's resignation",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/los-laboristas-que-se-perfilan-como-sucesores-de-starmer-ante-eventual-dimision-del-premier-britanico/",
-      "published_date": "2026-05-17T21:27:36+00:00"
-    },
-    {
-      "title": "‘Lack of understanding’: MEA rejects Dutch PM’s remarks on press freedom, minority rights in India",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/lack-of-understanding-mea-rejects-dutch-pms-remarks-on-press-freedom-minority-rights-in-india-10694790/",
-      "published_date": "2026-05-17T21:26:01+00:00"
-    },
-    {
-      "title": "Runoff between Fujimori and Sánchez is made official in Peru: former candidate López will seek annulment of the results",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/se-oficializa-balotaje-entre-fujimori-y-sanchez-excandidato-lopez-buscara-nulidad-de-los-resultados/",
-      "published_date": "2026-05-17T18:38:15+00:00"
-    },
-    {
-      "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss",
-      "published_date": "2026-05-17T18:29:29+00:00"
-    },
-    {
-      "title": "Guillaume Tabard: “The RN and the LFI threat of an insurrection”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/guillaume-tabard-le-rn-et-la-menace-lfi-d-une-insurrection-20260517",
-      "published_date": "2026-05-17T18:26:37+00:00"
-    },
-    {
-      "title": "Peru: Electoral authority finally makes the runoff between Keiko Fujimori and Roberto Sánchez official",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/peru-autoridad-electoral-oficializa-finalmente-el-balotaje-entre-keiko-fujimori-y-roberto-sanchez/",
-      "published_date": "2026-05-17T17:51:32+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: The AfD's dishonest game",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-ein-unredliches-spiel-200840347.html",
-      "published_date": "2026-05-17T17:35:33+00:00"
-    },
-    {
-      "title": "As coalition collapses around him, Netanyahu revives Haredi draft exemption bill - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDhUVVItLUplVmlvaEhnblRXWFVLTFR6RHYwVHRrQXc3dVFPSkFwNnpfaUxuQmgwUXBaLTVGV21IczVTM0xsSER6SkFKY0JLNlduQXMzMmVCQmVjc3pqVng1ZDVzTUVESS1vSnZETkxGNTVQOE8wUE5yWUxEc2JVMEpJUkllZjM1eWJkT3JQX0V2M294VHpkZ1Z2YnN0ZHJoNDZyMURZd0pEc2gzd0Ew0gG0AUFVX3lxTE9sd0xNcEdPY2dMRXFxMk5taVRESmR2QmRxVzNtTEl2N291Y21DMncxbS1KNDhfT2pIZS1XemZucVA3bW5fR2MyMmx0cVdkRXpnRjlCdmZ0Z2pjU3BFZHd1dHpZaFh5RTNscHdEQ3BUNWYzeDdRR0dLYVVYcXdUQ1dkbTN1RXJrQXpLSGI5QVhMRGxCdGFzd3llcXhfZFJpZk1nV0VyZ3FYSktjZG1IeE9SR0d3dw?oc=5",
-      "published_date": "2026-05-17T13:54:46+00:00"
-    },
-    {
-      "title": "UK leadership crisis: ‘Keir Starmer is a lame duck Prime Minister’ says former Labour adviser",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser",
-      "published_date": "2026-05-17T13:22:01+00:00"
-    },
-    {
-      "title": "The Palestinian Fatah party held elections, is a ‘new’ leadership emerging? - analysis",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-896439",
-      "published_date": "2026-05-17T13:19:34+00:00"
-    },
-    {
-      "title": "Former interior minister Moshe Arbel announces his resignation from Knesset",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-896436",
-      "published_date": "2026-05-17T13:05:44+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt: Minister warns of “coup” by the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/ausland/afd-in-sachsen-anhalt-minister-warnt-vor-staatsstreich-accg-200839793.html",
-      "published_date": "2026-05-17T12:16:00+00:00"
     }
   ]
 }
