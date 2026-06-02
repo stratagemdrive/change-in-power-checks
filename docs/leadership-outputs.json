@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-01T16:41:49.674099+00:00",
-    "story_count": 390,
+    "last_updated": "2026-06-02T00:13:45.320826+00:00",
+    "story_count": 404,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Bill to dissolve Knesset passes first reading, advancing process to move up elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-898048",
+      "published_date": "2026-06-02T01:28:16+00:00"
+    },
+    {
+      "title": "De la Espriella got almost 700 thousand votes from Cepeda: what room for growth does Petro's political dolphin have in the face of the runoff",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/de-la-espriella-le-saco-casi-700-mil-votos-a-cepeda-que-margen-de-crecimiento-tiene-el-delfin-politico-de-petro-de-cara-al-balotaje/",
+      "published_date": "2026-06-02T00:00:52+00:00"
+    },
+    {
+      "title": "Former prime minister Harper to make the case for a united Canada ahead of Alberta referendum",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-former-prime-minister-stephen-harper-united-canada-alberta-referendum/",
+      "published_date": "2026-06-01T23:37:45+00:00"
+    },
+    {
+      "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/02/putin-issues-ukrainian-scenario-warning-as-russia-ramps-up-pressure-on-armenia-before-elections",
+      "published_date": "2026-06-01T23:30:32+00:00"
+    },
+    {
+      "title": "María Corina Machado supports US strategy in the Venezuelan political transition",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-respalda-estrategia-estadounidense-en-la-transicion-politica-venezolana/",
+      "published_date": "2026-06-01T23:20:43+00:00"
+    },
+    {
+      "title": "PM Frederiksen secures third term with new Danish coalition government",
+      "source": "France 24 English",
+      "country": "Denmark",
+      "url": "https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government",
+      "published_date": "2026-06-01T22:54:02+00:00"
+    },
+    {
+      "title": "Ten weeks of negotiations: center-left coalition formed in Denmark",
+      "source": "FAZ Germany",
+      "country": "Denmark",
+      "url": "https://www.faz.net/aktuell/politik/ausland/neue-mitte-links-koalition-in-daenemark-200889418.html",
+      "published_date": "2026-06-01T21:38:11+00:00"
+    },
+    {
+      "title": "How the polls fell short in the Colombian presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/como-las-encuestas-se-quedaron-cortas-en-las-presidenciales-colombianas/",
+      "published_date": "2026-06-01T21:10:31+00:00"
+    },
+    {
+      "title": "Video: Presidential election has Colombia on edge",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss",
+      "published_date": "2026-06-01T21:08:44+00:00"
+    },
+    {
+      "title": "Denmark gets new government as Greenland crisis persists",
+      "source": "Al Jazeera English",
+      "country": "Denmark",
+      "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
+      "published_date": "2026-06-01T20:56:39+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: these are the profiles of Aida Quilcué and José Manuel Restrepo, the candidates for the Vice Presidency",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-estos-son-los-perfiles-de-aida-quilcue-y-jose-manuel-restrepo-los-candidatos-a-la-vicepresidencia-3561183",
+      "published_date": "2026-06-01T20:30:08+00:00"
+    },
+    {
+      "title": "US targeting of Brazilian gangs is an attempt to sway election there, experts say",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/americas/article/3355612/us-targeting-brazilian-gangs-attempt-sway-election-there-experts-say?utm_source=rss_feed",
+      "published_date": "2026-06-01T20:06:00+00:00"
+    },
+    {
+      "title": "Mette Frederiksen: A new government can be formed",
+      "source": "DR News Denmark",
+      "country": "Denmark",
+      "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-der-kan-dannes-en-ny-regering",
+      "published_date": "2026-06-01T20:05:56+00:00"
+    },
+    {
+      "title": "Iran rejects reports President Masoud Pezeshkian resigned over power struggle",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/iran-rejects-reports-president-masoud-pezeshkian-resigned-over-power-struggle",
+      "published_date": "2026-06-01T19:30:50+00:00"
+    },
+    {
+      "title": "2027: NDP unveils female presidential candidate, vows electoral victory",
+      "source": "Premium Times Nigeria",
+      "country": "Canada",
+      "url": "https://www.premiumtimesng.com/news/top-news/884426-2027-ndp-unveils-female-presidential-candidate-vows-electoral-victory.html",
+      "published_date": "2026-06-01T19:03:15+00:00"
+    },
+    {
+      "title": "Was it a voting jury? Learn about the benefits, incentives and compensations that citizens receive after the 2026 elections in Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-jurado-de-votacion-conozca-los-beneficios-incentivos-y-compensaciones-que-reciben-los-ciudadanos-tras-elecciones-2026-en-colombia-3561094",
+      "published_date": "2026-06-01T18:32:17+00:00"
+    },
+    {
+      "title": "Russia extends food embargo on Armenia to summer fruit ahead of Yerevan elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/06/01/russia-extends-food-embargo-on-armenia-to-summer-fruit-ahead-of-yerevan-elections",
+      "published_date": "2026-06-01T17:51:15+00:00"
+    },
+    {
+      "title": "The definitions of Keiko Fujimori and Roberto Sánchez in their only debate before the runoff in Peru",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/las-definiciones-de-keiko-fujimori-y-roberto-sanchez-en-su-unico-debate-antes-del-balotaje-en-peru/",
+      "published_date": "2026-06-01T17:30:00+00:00"
+    },
+    {
+      "title": "Air defense, strengthening combat brigades, frontline positions: Zelensky holds Supreme Commander's Staff meeting",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4129434-air-defense-strengthening-combat-brigades-frontline-positions-zelensky-holds-supreme-commanders-staff-meeting.html",
+      "published_date": "2026-06-01T16:38:00+00:00"
+    },
     {
       "title": "Results in Colombia: who won the 2026 Elections for president",
       "source": "La Nacion Argentina",
@@ -107,6 +240,13 @@
       "country": "Sudan",
       "url": "https://indianexpress.com/article/explained/explained-global/the-civil-war-pushing-south-sudan-to-the-brink-indian-peacekeepers-10718767/",
       "published_date": "2026-06-01T13:38:20+00:00"
+    },
+    {
+      "title": "Pashinyan Rejects Referendum on Armenia’s EU vs Eurasian Union Future - Kyiv Post",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeWxXM0JYSHFlV2gzTmIwakxiNUxTRHQ0aW1heXNVM1Bqd3J5YUF5eGhzZ2lYMmVMZHpleUdhYlZuUmZZQThDdkd3TQ?oc=5",
+      "published_date": "2026-06-01T12:15:56+00:00"
     },
     {
       "title": "Before the election in Armenia: Moscow is working against peace",
@@ -2746,48 +2886,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/05/podcast-analisa-as-mudancas-de-vento-para-lula-e-flavio-bolsonaro-e-cenario-da-eleicao.shtml",
       "published_date": "2026-05-19T08:00:00+00:00"
-    },
-    {
-      "title": "NTK will go it alone in the next Lok Sabha elections: Seeman",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ntk-will-go-it-alone-in-the-next-lok-sabha-elections-seeman/article70995161.ece",
-      "published_date": "2026-05-18T23:22:51+00:00"
-    },
-    {
-      "title": "Is the US trying to force regime change in Cuba?",
-      "source": "Al Jazeera English",
-      "country": "Cuba",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
-      "published_date": "2026-05-18T21:57:08+00:00"
-    },
-    {
-      "title": "Civil war brewing at New York Times following publication of column alleging rape of Palestinians - ynetnews",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZWlYNEh2dkx2dzdoVmh0eEdUS0plVVFsSFl3bXV4c0tRb3VnVjlTUXpKTjM0ZUVYdVFPNU85UTRUTi1kdk44VzFfdEpJcldncVA3Wl9B?oc=5",
-      "published_date": "2026-05-18T21:17:42+00:00"
-    },
-    {
-      "title": "In an election year, the Lula government is racing against time to approve adjustments for teachers",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/em-ano-eleitoral-governo-lula-corre-contra-o-tempo-para-aprovar-reajuste-aos-professores.shtml",
-      "published_date": "2026-05-18T20:25:00+00:00"
-    },
-    {
-      "title": "Hamas names former intelligence head Mohammed Ouda as new leader of military wing - report",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-896600",
-      "published_date": "2026-05-18T20:19:53+00:00"
-    },
-    {
-      "title": "Some change, but much more of the same in Palestinian Fatah elections",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/features/2026/5/18/some-change-but-much-more-of-the-same-in-palestinian-fatah-elections?traffic_source=rss",
-      "published_date": "2026-05-18T19:33:52+00:00"
     }
   ]
 }
