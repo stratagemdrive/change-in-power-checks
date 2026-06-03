@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-02T14:57:26.470760+00:00",
-    "story_count": 410,
+    "last_updated": "2026-06-03T00:29:11.999948+00:00",
+    "story_count": 432,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,174 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Tinubu’s re-election my priority project, Oborevwori declares",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubus-re-election-my-priority-project-oborevwori-declares/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-03T01:08:29+00:00"
+    },
+    {
+      "title": "South Korea’s Lee faces first election test one year into office",
+      "source": "Japan Times",
+      "country": "South Korea",
+      "url": "https://www.japantimes.co.jp/news/2026/06/03/asia-pacific/south-korea-election-lee/",
+      "published_date": "2026-06-03T00:25:00+00:00"
+    },
+    {
+      "title": "Armando Benedetti is thinking of resigning as Minister of the Interior to take on the campaign for Iván Cepeda: President Gustavo Petro would have asked him to do so",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/armando-benedetti-estudia-renunciar-como-ministro-del-interior-para-asumir-campana-por-ivan-cepeda-presidente-gustavo-petro-se-lo-habria-pedido-3561625",
+      "published_date": "2026-06-03T00:11:13+00:00"
+    },
+    {
+      "title": "Patricia Bullrich confirmed that she offered her resignation from the bloc, but Milei continued the meeting “without giving it importance”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-hablo-tras-ofrecer-su-renuncia-y-dijo-que-milei-siguio-sin-darle-importancia-nid02062026/",
+      "published_date": "2026-06-02T23:51:59+00:00"
+    },
+    {
+      "title": "Major Russian missile, drone attack on Ukraine kills at least 22, topples apartment building, officials say - CBS News",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZBcG1hcjVhNS16aGFyQ3dxRWs5SC1qdzEzNlNWb1Q4aU9hcDllaC1sTF9Vek4wa1JlZ1BzQ0V1cElOR2tmNFZvQmVUVEt2aDd4aUxqNWowWUJETGIzR084SmtBX1JfRlZ3eUY0d0lXR3BRZWVkc1VDT1NZeVpGQ3kxV3V3NU9WdTBpZUw0S2tITVhCS05FaHJLLVdtZmxuNTUtNw?oc=5",
+      "published_date": "2026-06-02T23:51:38+00:00"
+    },
+    {
+      "title": "Venezuela’s acting President Delcy Rodriguez arrives today on India visit, to meet PM Modi",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/venezuelas-acting-president-delcy-rodriguez-arrives-today-on-india-visit-to-meet-pm-modi-10721133/",
+      "published_date": "2026-06-02T23:20:21+00:00"
+    },
+    {
+      "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss",
+      "published_date": "2026-06-02T23:11:37+00:00"
+    },
+    {
+      "title": "Marco Rubio: Venezuela needs free elections to achieve the transition",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/marco-rubio-venezuela-necesita-elecciones-libres-para-lograr-la-transicion/",
+      "published_date": "2026-06-02T22:36:18+00:00"
+    },
+    {
+      "title": "Veto of a candidate for judge: Patricia Bullrich offered her resignation to Javier Milei and the block was left in a state of deliberation",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/veto-a-una-candidata-a-jueza-patricia-bullrich-ofrecio-su-renuncia-a-javier-milei-y-el-bloque-quedo-nid02062026/",
+      "published_date": "2026-06-02T21:57:36+00:00"
+    },
+    {
+      "title": "Venezuela’s acting President Delcy Rodriguez’s visit this week to focus on energy ties",
+      "source": "Hindustan Times",
+      "country": "Venezuela",
+      "url": "https://www.hindustantimes.com/india-news/venezuelas-acting-president-delcy-rodriguez-s-visit-this-week-to-focus-on-energy-ties-101780423141905.html",
+      "published_date": "2026-06-02T21:46:04+00:00"
+    },
+    {
+      "title": "Miguel Samaniego is appointed as the new president of the Chilean Postal Board",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/miguel-samaniego-es-nombrado-como-nuevo-presidente-del-directorio-de-correos-de-chile/",
+      "published_date": "2026-06-02T21:27:01+00:00"
+    },
+    {
+      "title": "'We must emphasize all the effort that Colombia has made to organize these elections so well': deputy head of the European Union EOM",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hay-que-poner-el-acento-en-todo-el-esfuerzo-que-ha-hecho-colombia-para-organizar-tan-bien-estas-elecciones-jefe-adjunto-de-la-moe-union-europea-3561544",
+      "published_date": "2026-06-02T21:26:26+00:00"
+    },
+    {
+      "title": "Petro insists that he has evidence of possible fraud in the presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/gustavo-petro-insiste-en-que-tiene-pruebas-de-posible-fraude-en-las-elecciones-presidenciales/",
+      "published_date": "2026-06-02T19:47:43+00:00"
+    },
+    {
+      "title": "Rubio: For a true transition, free elections must be held in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/rubio-para-una-verdadera-transicion-deben-celebrarse-elecciones-libres-en-venezuela/",
+      "published_date": "2026-06-02T19:39:16+00:00"
+    },
+    {
+      "title": "Head of Office of Gustavo Petro's Government rules out the president's resignation after controversy over support for Iván Cepeda's campaign",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/jefe-de-despacho-del-gobierno-de-gustavo-petro-descarta-la-renuncia-del-presidente-tras-controversia-por-apoyo-a-campana-de-ivan-cepeda-3561508",
+      "published_date": "2026-06-02T19:37:19+00:00"
+    },
+    {
+      "title": "Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1d6NnpVUTk4WVRMS2xLQkxhZjhIRmZvUlVxSTdKQzVUMVc1eVExbVlta0t4c1dzck9tTWtuVHVtVkJnaUtsSjU1OGY4R3RNM180SEdUWHJtVWl0bk44WUZ0Tms1SnpIelBGMVRyU0VNUUEwbk5QWEM5UUhHYTJacVZyMDZ0YTA5a19QTUdUMnhUallpVkU4NHBLQmFteWFzUUhER3dKT1dDYnAzZlNneNIBtgFBVV95cUxOSFNZZEE0QTgxdjYxbGtEbTA3aVNieThaZm1VajExUWZQVFBQQ3c5SmlXSGU4dW55V25xWlh4UFo1WWQxc21XSElBYW9HWDN2VmU4OGRTaFlmNnUtRjJGbnZWeWVfdE1CSU1WZFJHWVNfbjd6RXJieXRKbG1wb29kSy05WlR0bDRRTmNGTURSZnRaeDl3dVhMa29ENVJhWVZLUlgxSEhPWHkxV2tNU0lDbnRfbm95UQ?oc=5",
+      "published_date": "2026-06-02T19:28:46+00:00"
+    },
+    {
+      "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+      "published_date": "2026-06-02T19:05:13+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
+      "published_date": "2026-06-02T17:53:14+00:00"
+    },
+    {
+      "title": "Former Trinamool Congress MLA Debo Prasad Bag arrested as resignation continues in party",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/former-trinamool-congress-kalna-mla-arrested/article71054024.ece",
+      "published_date": "2026-06-02T17:35:44+00:00"
+    },
+    {
+      "title": "Venezuela Opposition leader wants transition without 'revenge'",
+      "source": "The Hindu Politics",
+      "country": "Venezuela",
+      "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-wants-transition-without-revenge/article71054297.ece",
+      "published_date": "2026-06-02T17:27:22+00:00"
+    },
+    {
+      "title": "Venezuela’s Acting President Delcy Rodriguez to visit India",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/venezuelas-acting-president-delcy-rodriguez-to-undertake-five-day-trip-to-india/article71052800.ece",
+      "published_date": "2026-06-02T17:13:01+00:00"
+    },
+    {
+      "title": "Rubio: Iran's new leader is active",
+      "source": "DR News Denmark",
+      "country": "Iran",
+      "url": "https://www.dr.dk/nyheder/seneste/rubio-irans-nye-leder-er-aktiv",
+      "published_date": "2026-06-02T16:27:44+00:00"
+    },
+    {
+      "title": "Venezuela’s acting President to visit India; energy security tops agenda",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/venezuelas-acting-president-to-visit-india-energy-security-tops-agenda-101780415218342.html",
+      "published_date": "2026-06-02T15:46:57+00:00"
+    },
+    {
+      "title": "Rwanda-France: a memorial for the victims of the genocide inaugurated in Paris",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260602-rwanda-france-un-m%C3%A9morial-pour-les-victimes-du-g%C3%A9nocide-inaugur%C3%A9e-%C3%A0-paris",
+      "published_date": "2026-06-02T15:11:59+00:00"
+    },
     {
       "title": "Ehud Barak criticizes Netanyahu's Lebanon war policies, calls Bennett, Eisenkot 'superior' PMs",
       "source": "Jerusalem Post",
@@ -83,7 +251,7 @@
     {
       "title": "Opinion | Armenia’s elections are a return of Russia’s 2006 Georgia playbook",
       "source": "OC Media Caucasus",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://oc-media.org/opinion-armenias-elections-are-a-return-of-russias-2006-georgia-playbook/",
       "published_date": "2026-06-02T13:13:35+00:00"
     },
@@ -116,11 +284,18 @@
       "published_date": "2026-06-02T10:17:03+00:00"
     },
     {
-      "title": "Major Russian missile, drone attack on Ukraine kills at least 13, topples apartment building, officials say - CBS News",
+      "title": "MKs advance bill to dissolve Knesset and potentially move up elections to September - The Times of Israel",
       "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZBcG1hcjVhNS16aGFyQ3dxRWs5SC1qdzEzNlNWb1Q4aU9hcDllaC1sTF9Vek4wa1JlZ1BzQ0V1cElOR2tmNFZvQmVUVEt2aDd4aUxqNWowWUJETGIzR084SmtBX1JfRlZ3eUY0d0lXR3BRZWVkc1VDT1NZeVpGQ3kxV3V3NU9WdTBpZUw0S2tITVhCS05FaHJLLVdtZmxuNTUtNw?oc=5",
-      "published_date": "2026-06-02T05:32:00+00:00"
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPclR5d2tPSU92WFhXNlpLa1B2dnB6SlBxM0VBQkJJSmhTZGdvN3dUZGtzVTJJWHpPRnlwc283eUlPZWN5eTVsZk5BSUI2OXpkaG1OUkd0ZGRSMS03NmJFYUc4MDFfNlVZNVRQZFVDSEJwUi1fQVhKQ3pGWnd1ZzhJaFY2NElJSExvTDgybXFZakFxOWg3T0k5bWhDVjBaekY0bXN4NWFlU0VjdjgwdzYwWmpaa3LSAboBQVVfeXFMTjhnYVBtQkhZRktXbG1uV0ItYUg3OXJaSlh1a0hvX2g5bDFyQ3FXLW5EXzI5bjFDSzFNVlJqQzV2SmFsdndqNnFRbE5vaFVSMFRZYVFoV1hxYUxNcGp0TlFOZ3IybEJFNUpkbExmYUVrRndTdnFnRkVLeVl6Um1vTU82a1JUTjN6VWNLMFNBMFhwOUQ2LXg0R2kzbnBBWGViSXRkYzhlUENDTkNtU1BFeW1EUXJYQjg2TWRR?oc=5",
+      "published_date": "2026-06-02T07:23:02+00:00"
+    },
+    {
+      "title": "Myanmar junta chief holds trade and security talks with India’s Modi",
+      "source": "Myanmar Now",
+      "country": "India",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-holds-trade-and-security-talks-with-indias-modi/",
+      "published_date": "2026-06-02T06:54:37+00:00"
     },
     {
       "title": "Bill to dissolve Knesset passes first reading, advancing process to move up elections",
@@ -135,13 +310,6 @@
       "country": "Denmark",
       "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-02T01:19:15+00:00"
-    },
-    {
-      "title": "Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1d6NnpVUTk4WVRMS2xLQkxhZjhIRmZvUlVxSTdKQzVUMVc1eVExbVlta0t4c1dzck9tTWtuVHVtVkJnaUtsSjU1OGY4R3RNM180SEdUWHJtVWl0bk44WUZ0Tms1SnpIelBGMVRyU0VNUUEwbk5QWEM5UUhHYTJacVZyMDZ0YTA5a19QTUdUMnhUallpVkU4NHBLQmFteWFzUUhER3dKT1dDYnAzZlNneNIBtgFBVV95cUxOSFNZZEE0QTgxdjYxbGtEbTA3aVNieThaZm1VajExUWZQVFBQQ3c5SmlXSGU4dW55V25xWlh4UFo1WWQxc21XSElBYW9HWDN2VmU4OGRTaFlmNnUtRjJGbnZWeWVfdE1CSU1WZFJHWVNfbjd6RXJieXRKbG1wb29kSy05WlR0bDRRTmNGTURSZnRaeDl3dVhMa29ENVJhWVZLUlgxSEhPWHkxV2tNU0lDbnRfbm95UQ?oc=5",
-      "published_date": "2026-06-02T01:03:23+00:00"
     },
     {
       "title": "De la Espriella got almost 700 thousand votes from Cepeda: what room for growth does Petro's political dolphin have in the face of the runoff",
@@ -160,7 +328,7 @@
     {
       "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://meduza.io/en/feature/2026/06/02/putin-issues-ukrainian-scenario-warning-as-russia-ramps-up-pressure-on-armenia-before-elections",
       "published_date": "2026-06-01T23:30:32+00:00"
     },
@@ -258,7 +426,7 @@
     {
       "title": "Russia extends food embargo on Armenia to summer fruit ahead of Yerevan elections",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://meduza.io/en/news/2026/06/01/russia-extends-food-embargo-on-armenia-to-summer-fruit-ahead-of-yerevan-elections",
       "published_date": "2026-06-01T17:51:15+00:00"
     },
@@ -384,7 +552,7 @@
     {
       "title": "Russia recalls ambassador to Armenia ahead of elections",
       "source": "OC Media Caucasus",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://oc-media.org/russia-recalls-ambassador-to-armenia-ahead-of-elections/",
       "published_date": "2026-06-01T10:46:41+00:00"
     },
@@ -1273,7 +1441,7 @@
     {
       "title": "Myanmar junta chief to make first India trip since seizing power",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-to-make-first-india-trip-since-seizing-power/",
       "published_date": "2026-05-29T07:13:07+00:00"
     },
@@ -2914,20 +3082,6 @@
       "country": "Azerbaijan",
       "url": "https://www.dawn.com/news/2001668/cm-maryam-inaugurates-punjab-pavilion-at-baku-forum",
       "published_date": "2026-05-20T02:52:11+00:00"
-    },
-    {
-      "title": "20-year Duma veteran among two to quit United Russia’s Smolensk primary in quick succession",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/05/20/20-year-duma-veteran-among-two-to-quit-united-russia-s-smolensk-primary-in-quick-succession",
-      "published_date": "2026-05-19T23:06:18+00:00"
-    },
-    {
-      "title": "Candidate Paloma Valencia meets with the Liberal Party bench 12 days before the presidential elections: 'We have to defend the Constitution'",
-      "source": "El Tiempo Colombia",
-      "country": "Canada",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-paloma-valencia-se-reune-con-bancada-del-partido-liberal-a-13-dias-de-las-elecciones-presidenciales-3556762",
-      "published_date": "2026-05-19T22:02:37+00:00"
     }
   ]
 }
