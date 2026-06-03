@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-03T00:29:11.999948+00:00",
-    "story_count": 432,
+    "last_updated": "2026-06-03T15:32:46.383053+00:00",
+    "story_count": 439,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,144 @@
   },
   "stories": [
     {
+      "title": "After her gestures of rebellion, the Government believes that Bullrich will not be a candidate for vice or head of the Buenos Aires government.",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/luego-de-sus-gestos-de-rebeldia-en-el-gobierno-creen-que-bullrich-no-sera-candidata-a-vice-ni-a-jefa-nid03062026/",
+      "published_date": "2026-06-03T15:25:40+00:00"
+    },
+    {
+      "title": "President Gustavo Petro assures that he will not resign to participate in the elections: 'I am not going to be the head of a campaign'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-asegura-que-no-renunciara-para-participar-en-las-elecciones-no-voy-a-ser-el-jefe-de-una-campana-3561735",
+      "published_date": "2026-06-03T15:09:05+00:00"
+    },
+    {
+      "title": "France, Italy and Spain push for new regime to fix EU banking fragmentation",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/business/2026/06/03/france-italy-and-spain-push-for-new-regime-to-fix-eu-banking-fragmentation",
+      "published_date": "2026-06-03T15:08:44+00:00"
+    },
+    {
+      "title": "A year before the French election, De Gaulle remains politically fashionable",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable",
+      "published_date": "2026-06-03T14:48:12+00:00"
+    },
+    {
+      "title": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/venezuela-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepening-ties/article71057735.ece",
+      "published_date": "2026-06-03T14:22:08+00:00"
+    },
+    {
+      "title": "Is the Armenian election really about the West vs Russia?",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/is-the-armenian-election-really-about-the-west-vs-russia/",
+      "published_date": "2026-06-03T14:18:48+00:00"
+    },
+    {
+      "title": "Trump says he 'would like to meet' Iranian Supreme Leader Mojtaba Khamenei",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-trump-dit-qu-il-aimerait-rencontrer-le-guide-supr%C3%AAme-iranien-mojtaba-khamenei",
+      "published_date": "2026-06-03T13:37:42+00:00"
+    },
+    {
+      "title": "How Japan stopped civil war",
+      "source": "Reuters via FeedBurner",
+      "country": "Japan",
+      "url": "https://flipso.com/p/svalbrfg4?ref=rss",
+      "published_date": "2026-06-03T13:00:30+00:00"
+    },
+    {
+      "title": "South Korea’s ruling party set for local election gains, exit poll shows",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3355846/south-koreas-ruling-party-set-local-election-gains-exit-poll-shows?utm_source=rss_feed",
+      "published_date": "2026-06-03T10:38:15+00:00"
+    },
+    {
+      "title": "'Attack on our democracy': Inside an Israeli influence campaign in France's local elections",
+      "source": "Middle East Eye",
+      "country": "France",
+      "url": "https://www.middleeasteye.net/news/unprecedented-attack-inside-israeli-foreign-influence-campaign-france-local-elections",
+      "published_date": "2026-06-03T10:11:15+00:00"
+    },
+    {
+      "title": "Denmark PM presents new government, with majority of women",
+      "source": "South China Morning Post",
+      "country": "Denmark",
+      "url": "https://www.scmp.com/news/world/europe/article/3355836/denmark-pm-presents-new-government-majority-women?utm_source=rss_feed",
+      "published_date": "2026-06-03T09:42:08+00:00"
+    },
+    {
+      "title": "Putin issues warning to Armenia over European ambitions ahead of election",
+      "source": "The Independent UK",
+      "country": "Armenia",
+      "url": "https://www.independent.co.uk/news/world/europe/putin-armenia-european-union-russia-b2988575.html",
+      "published_date": "2026-06-03T09:24:33+00:00"
+    },
+    {
+      "title": "150 personnel from Islamabad police's security division assigned to GB election duty",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2004880/150-personnel-from-islamabad-polices-security-division-assigned-to-gb-election-duty",
+      "published_date": "2026-06-03T08:56:58+00:00"
+    },
+    {
+      "title": "Armenia's election offers a choice between Russia and EU",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-06-03T08:36:00+00:00"
+    },
+    {
+      "title": "New prime minister says Solomon Islands will review its secretive security treaty with China - AP News",
+      "source": "Google News World",
+      "country": "China",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGVSZjJPUEhORXhqc2txNzA4dnlrR0NsMGUwZGk1TzA2UDRtbkxaYjR2TlpJYmxfTTNKMEFQMGptY2RESUZaeU02OTF2N3o5WWdWRVZCVVdCb19XandkZXdQSnFCVG9ldXNkTVFtMExvVzQtdjVuOHlOdkNVRS14UzdrSGJYSWxQYzhuU0lLbV9RQlVQYy1RYTY5azZwbVRlQUNkTnNJdDRmUm8?oc=5",
+      "published_date": "2026-06-03T07:45:00+00:00"
+    },
+    {
+      "title": "U.S. tariff threats give Lula a new election attack on Bolsonaro",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/06/03/world/brazil-lula-trump-tariffs-bolsonaro/",
+      "published_date": "2026-06-03T05:38:00+00:00"
+    },
+    {
+      "title": "Election in New York: Will Germany get a place in the UN Security Council?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/ausland/bekommt-deutschland-einen-platz-im-un-sicherheitsrat-accg-200890954.html",
+      "published_date": "2026-06-03T05:30:18+00:00"
+    },
+    {
+      "title": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia - The New York Times",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDR6Um5vYUtMVjlvUGxPN2RncDhucmJVaWQ2cWZueEVJX0pMcXpteE9nV1pOejdmMXNYYVNtS0RjbHdSQW03SE4xVDFnOTJ4WHFhQmlrSnFBTzVwXzluMGhQdmRSZ0NZc0x6alNLMDdzZ3E4MnYzSkhRRC1HMUttVVRzekdsdjZ2V2ZwbklScXY0cjV4dXZsQUdR?oc=5",
+      "published_date": "2026-06-03T03:12:32+00:00"
+    },
+    {
       "title": "Tinubu’s re-election my priority project, Oborevwori declares",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/tinubus-re-election-my-priority-project-oborevwori-declares/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-03T01:08:29+00:00"
+    },
+    {
+      "title": "Roberto Sánchez softens government plan days before the elections and IMF warns of new “threats” to the Peruvian economy",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-suaviza-plan-de-gobierno-a-dias-de-las-elecciones-y-fmi-advierte-de-nuevas-amenazas-para-la-economia-peruana/",
+      "published_date": "2026-06-03T00:31:16+00:00"
     },
     {
       "title": "South Korea’s Lee faces first election test one year into office",
@@ -79,6 +212,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/armando-benedetti-estudia-renunciar-como-ministro-del-interior-para-asumir-campana-por-ivan-cepeda-presidente-gustavo-petro-se-lo-habria-pedido-3561625",
       "published_date": "2026-06-03T00:11:13+00:00"
+    },
+    {
+      "title": "South Korea ruling party set for local election gains, exit poll shows - Reuters",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkJ2azZobFFaMVN3bmduOXJ5QWRmOUpLZXU4UkdJVW4xazZCajNpRzBfRHk5b01saU9acENPN19Za2JKMnJ1cVhnajNzUFJDOEFEMFZOZzFIejlNOVpRSllGTDFrbE1CLTQxVS11OHVLVnBlUGxOZHBncHc5SjlVaUE0U1hTMXR1cWVFUXhqSHB5UFd2aVB1T3N5TVhEMlBkRktyMzQ1d0REYVhfTlVMaHpjSTJpRl9ib0JVcEpJR3NvOTFH?oc=5",
+      "published_date": "2026-06-03T00:08:00+00:00"
     },
     {
       "title": "Patricia Bullrich confirmed that she offered her resignation from the bloc, but Milei continued the meeting “without giving it importance”",
@@ -251,7 +391,7 @@
     {
       "title": "Opinion | Armenia’s elections are a return of Russia’s 2006 Georgia playbook",
       "source": "OC Media Caucasus",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://oc-media.org/opinion-armenias-elections-are-a-return-of-russias-2006-georgia-playbook/",
       "published_date": "2026-06-02T13:13:35+00:00"
     },
@@ -312,6 +452,13 @@
       "published_date": "2026-06-02T01:19:15+00:00"
     },
     {
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations - BBC",
+      "source": "Google News World",
+      "country": "Denmark",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWUdpWVRtOTFiS2JSWEJUVTlDam1LNTNGUXo5b0pGRzkyUTM0M2dJbk1NbXU4TnZqSWp6TUVnSUc4YlhFc2h4RkJ6THgxZFVFSDI5dkJoR3dxZw?oc=5",
+      "published_date": "2026-06-02T01:19:15+00:00"
+    },
+    {
       "title": "De la Espriella got almost 700 thousand votes from Cepeda: what room for growth does Petro's political dolphin have in the face of the runoff",
       "source": "La Tercera Chile",
       "country": "Colombia",
@@ -328,7 +475,7 @@
     {
       "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections",
       "source": "Meduza EN",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/06/02/putin-issues-ukrainian-scenario-warning-as-russia-ramps-up-pressure-on-armenia-before-elections",
       "published_date": "2026-06-01T23:30:32+00:00"
     },
@@ -505,6 +652,13 @@
       "source": "FAZ Germany",
       "country": "Armenia",
       "url": "https://www.faz.net/aktuell/politik/ausland/armenien-russland-sabotiert-den-frieden-200884621.html",
+      "published_date": "2026-06-01T12:13:41+00:00"
+    },
+    {
+      "title": "Before the election in Armenia: Moscow is working against peace",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-vor-parlamentswahl-russland-arbeitet-gegen-den-frieden-200884621.html",
       "published_date": "2026-06-01T12:13:41+00:00"
     },
     {
@@ -2977,111 +3131,6 @@
       "country": "United Kingdom",
       "url": "https://www.faz.net/aktuell/politik/ausland/keir-starmer-zeigt-neuen-elan-konkurrenz-von-andy-burnham-200850448.html",
       "published_date": "2026-05-20T18:07:46+00:00"
-    },
-    {
-      "title": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-parliament-netanyahu-election-knesset-b2980294.html",
-      "published_date": "2026-05-20T14:44:45+00:00"
-    },
-    {
-      "title": "Minister Rabat for regime change in Punta Peuco during Boric's government: “It was an ideological decision”",
-      "source": "La Tercera Chile",
-      "country": "Morocco",
-      "url": "https://www.latercera.com/politica/noticia/ministro-rabat-por-cambio-de-regimen-en-punta-peuco-durante-gobierno-de-boric-fue-una-decision-ideologica/",
-      "published_date": "2026-05-20T13:41:57+00:00"
-    },
-    {
-      "title": "Earlier new election?: Israel's parliament votes for dissolution",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israels-parlament-stimmt-fuer-aufloesung-200851670.html",
-      "published_date": "2026-05-20T13:32:31+00:00"
-    },
-    {
-      "title": "US and Israel planned to install Iran’s hardline former president as new leader after war: report",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/us-israel-ahmadinejad-iran-war-b2980079.html",
-      "published_date": "2026-05-20T12:51:24+00:00"
-    },
-    {
-      "title": "The Danish director of the Moderna Museet in Stockholm is stepping down",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/dansk-direktoer-moderna-museet-i-stockholm-stopper",
-      "published_date": "2026-05-20T12:44:00+00:00"
-    },
-    {
-      "title": "Presidential candidate: French justice system targets Philippe",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/praesidentschaftskandidat-franzoesische-justiz-nimmt-philippe-ins-visier-200850160.html",
-      "published_date": "2026-05-20T12:11:55+00:00"
-    },
-    {
-      "title": "Israel's parliament votes to dissolve itself",
-      "source": "DR News Denmark",
-      "country": "Israel",
-      "url": "https://www.dr.dk/nyheder/seneste/israels-parlament-stemmer-oploese-sig-selv",
-      "published_date": "2026-05-20T11:35:00+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Air alarm in Lithuania: Head of state taken to shelters",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-luftalarm-in-litauen-staatsspitze-in-schutzraeume-gebracht-faz-110683325.html",
-      "published_date": "2026-05-20T11:32:45+00:00"
-    },
-    {
-      "title": "MKs advance bill to dissolve Knesset, potentially trigger slightly earlier elections - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0lUT0ttaTBCU05uSW9CbXcxZkt6Mkx5ODg0QklKVU15OElkVThRU2ZRRi1SN2lIN2JxSFg3U1NheHZVVTVjVklCdG9MaUVtbjl0SmdsdHZCaFpYZU40M2lORjEzc0FvYVEtSnAxVWVBbXNLOFF6THF4VUFGSGc0UkR2OE9tRmJIUDVEVmlQb1U1MnFvaThoQVRxLVJaMGlQdTNfYmpSQ0FNWlpuQVVmZVB3a9IBuAFBVV95cUxPeWxkYmI4ZlZ2S2tUSkN1X1Y3a3lnN0NBY3I3TGdGU1ZPMW8wV1djNm9qVm9Pbk1RRWF3c0RDUjZqME1RWi05QktfUGxNdGxlUmsxNFM4MWNtcjdmVUd4WWQtWXpudXh0SkRBRVFPNGNZblJtNXRFN01GUFQza0lORmNpY3F5RzhpNEp0dWxZc2o2bUc2X0o3c0pFQmxfTnNDcDVzUlNwS3dxbDRWUURuTDhpZS1jekZE?oc=5",
-      "published_date": "2026-05-20T11:13:00+00:00"
-    },
-    {
-      "title": "Plans for regime change: Did Israel want to help Ahmadinejad come to power?",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/mahmud-ahmadineschad-wollte-israel-ihn-zur-macht-verhelfen-accg-200849845.html",
-      "published_date": "2026-05-20T10:24:06+00:00"
-    },
-    {
-      "title": "Surjit Bhalla writes: BJP is winning the elections but losing the economy",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/the-bjp-is-winning-elections-but-losing-the-economy-10699362/",
-      "published_date": "2026-05-20T09:02:48+00:00"
-    },
-    {
-      "title": "“We hope that your dedicated efforts will yield fruitful results”: Iranian Supreme Leader calls on people to have more children",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/nous-esperons-que-vos-efforts-devoues-aboutiront-a-des-resultats-fructueux-le-guide-supreme-iranien-appelle-la-population-a-faire-plus-d-enfants-20260520",
-      "published_date": "2026-05-20T08:44:19+00:00"
-    },
-    {
-      "title": "As Trump rating sinks, why Indian markets’ hopes are pinned on US midterm elections",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/explained/explained-economics/why-trump-linked-to-india-markets-10698907/",
-      "published_date": "2026-05-20T05:52:26+00:00"
-    },
-    {
-      "title": "Do you know how to check your polling station for the 2026 presidential election? So you can check the location in Colombia and abroad",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sabe-como-consultar-su-puesto-de-votacion-para-las-elecciones-presidenciales-de-2026-asi-puede-revisar-la-ubicacion-en-colombia-y-el-exterior-3556653",
-      "published_date": "2026-05-20T04:24:29+00:00"
-    },
-    {
-      "title": "CM Maryam inaugurates Punjab Pavilion at Baku forum",
-      "source": "Dawn Pakistan",
-      "country": "Azerbaijan",
-      "url": "https://www.dawn.com/news/2001668/cm-maryam-inaugurates-punjab-pavilion-at-baku-forum",
-      "published_date": "2026-05-20T02:52:11+00:00"
     }
   ]
 }
