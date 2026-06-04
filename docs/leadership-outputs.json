@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-04T00:31:27.498976+00:00",
-    "story_count": 448,
+    "last_updated": "2026-06-04T14:03:53.334786+00:00",
+    "story_count": 460,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,14 +64,175 @@
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20260604/dpk-dominates-local-elections-wins-12-of-16-mayoral-provincial-races?utm_source=rss",
-      "published_date": "2026-06-04T00:27:02+00:00"
+      "published_date": "2026-06-04T13:57:03+00:00"
     },
     {
       "title": "Election watchdog rejects calls for revote over Seoul ballot shortages",
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/20260604/election-watchdog-rejects-calls-for-revote-over-seoul-ballot-shortages?utm_source=rss",
-      "published_date": "2026-06-04T00:27:02+00:00"
+      "published_date": "2026-06-04T13:57:03+00:00"
+    },
+    {
+      "title": "Seoul Mayor Oh defies exit poll to win reelection",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260604/seoul-mayor-oh-defies-exit-poll-to-win-reelection?utm_source=rss",
+      "published_date": "2026-06-04T13:57:03+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: Iván Cepeda will make the announcement this June 4; Álvaro Uribe explains his support for Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562000",
+      "published_date": "2026-06-04T13:39:42+00:00"
+    },
+    {
+      "title": "Death of Marjane Satrapi, author in exile of “Persepolis” and standard of the Iranian people",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260604-d%C3%A9c%C3%A8s-de-marjane-satrapi-autrice-en-exil-de-persepolis-et-%C3%A9tendard-du-peuple-iranien",
+      "published_date": "2026-06-04T13:26:53+00:00"
+    },
+    {
+      "title": "Fighting in Somalia’s capital as anger over election delay erupts",
+      "source": "Al Jazeera English",
+      "country": "Somalia",
+      "url": "https://www.aljazeera.com/news/2026/6/4/fighting-in-somalias-capital-as-anger-over-election-delay-erupts?traffic_source=rss",
+      "published_date": "2026-06-04T13:08:00+00:00"
+    },
+    {
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "source": "BBC World",
+      "country": "Somalia",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T12:40:22+00:00"
+    },
+    {
+      "title": "In latest written statement, Iran’s supreme leader calls for national unity amid war",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/in-latest-written-statement-irans-supreme-leader-calls-for-national-unity-amid-war/",
+      "published_date": "2026-06-04T12:03:21+00:00"
+    },
+    {
+      "title": "Iran's Supreme Leader warns of Israeli, US divisions threatening regime, undermining 'resilience'",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-898364",
+      "published_date": "2026-06-04T11:21:02+00:00"
+    },
+    {
+      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
+      "published_date": "2026-06-04T11:04:16+00:00"
+    },
+    {
+      "title": "The junta in Myanmar is not the partner India needs",
+      "source": "Indian Express",
+      "country": "Myanmar",
+      "url": "https://indianexpress.com/article/opinion/columns/junta-myanmar-is-not-the-partner-india-needs-min-aung-hlaing-modi-10723943/",
+      "published_date": "2026-06-04T10:35:20+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says adversaries using 'hybrid warfare' aimed at creating divisions",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-at-creating-divisions",
+      "published_date": "2026-06-04T10:15:25+00:00"
+    },
+    {
+      "title": "HistoriCity: Indian history rife with games of succession rivalries",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/historicity-indian-history-rife-with-games-of-succession-rivalries-101780567758871.html",
+      "published_date": "2026-06-04T10:09:18+00:00"
+    },
+    {
+      "title": "Exiled for an anti-war drawing: A Russian family punished for dissent",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin",
+      "published_date": "2026-06-04T09:55:05+00:00"
+    },
+    {
+      "title": "'They sow the seeds of doubt and despair': Iran's supreme leader accuses US and Israel of seeking to 'divide' the nation",
+      "source": "Le Figaro France",
+      "country": "Israel",
+      "url": "https://www.lefigaro.fr/international/ils-sement-les-graines-du-doute-et-du-desespoir-le-guide-supreme-iranien-accuse-les-etats-unis-et-israel-de-chercher-a-diviser-la-nation-20260604",
+      "published_date": "2026-06-04T09:35:21+00:00"
+    },
+    {
+      "title": "Netanyahu squeezed between Trump and election year politics",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/06/04/trump-netanyahu-fight-lebanon-israel-election",
+      "published_date": "2026-06-04T09:10:06+00:00"
+    },
+    {
+      "title": "South Korean ruling party’s ‘flawed landslide’ election win dents Lee’s reform drive",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/week-asia/politics/article/3355947/south-korean-ruling-partys-flawed-landslide-election-win-dents-lees-reform-drive?utm_source=rss_feed",
+      "published_date": "2026-06-04T09:00:14+00:00"
+    },
+    {
+      "title": "Peru election could add to string of right-wing victories in Latin America",
+      "source": "NPR World",
+      "country": "Peru",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5844281/peru-election-could-add-to-string-of-right-wing-victories-in-latin-america",
+      "published_date": "2026-06-04T08:38:24+00:00"
+    },
+    {
+      "title": "Agreement reached with Ukraine on Hungarian minority rights, lifting EU accession veto – PM Magyar",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4130384-agreement-reached-with-ukraine-on-hungarian-minority-rights-lifting-eu-accession-veto-pm-magyar.html",
+      "published_date": "2026-06-04T08:37:00+00:00"
+    },
+    {
+      "title": "Russia ramps up pressure on Armenia ahead of Sunday's crucial election",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election",
+      "published_date": "2026-06-04T08:16:08+00:00"
+    },
+    {
+      "title": "‘No reshape’: Algeria prepares for elections but few hold out hope for change",
+      "source": "Middle East Eye",
+      "country": "Algeria",
+      "url": "https://www.middleeasteye.net/news/no-reshape-algeria-prepares-legislative-elections-few-hold-hope-for-change",
+      "published_date": "2026-06-04T08:15:53+00:00"
+    },
+    {
+      "title": "In Armenia, legislative elections under Russian pressure",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260604-arm%C3%A9nie-%C3%A9lections-pression-russe-moscou-pr%C3%A9server-influence-samvel-karapetian-nikol-pachinian",
+      "published_date": "2026-06-04T07:15:58+00:00"
+    },
+    {
+      "title": "North Korea’s Kim says ‘newly inaugurated’ nuke site opens door to ‘larger plans’",
+      "source": "Japan Times",
+      "country": "North Korea",
+      "url": "https://www.japantimes.co.jp/news/2026/06/04/asia-pacific/north-korea-kim-new-nuclear-site/",
+      "published_date": "2026-06-04T04:52:00+00:00"
+    },
+    {
+      "title": "Local elections in South Korea: Clear victory for Lee's Democratic Party",
+      "source": "FAZ Germany",
+      "country": "South Korea",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahl-in-suedkorea-deutlicher-sieg-fuer-lees-demokratische-partei-accg-200896995.html",
+      "published_date": "2026-06-04T03:31:57+00:00"
+    },
+    {
+      "title": "South Korea Lee's ruling party sweeps local elections, but loses Seoul mayor race - Reuters",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHZiSUtXeTgxUGNqN2htSE83Y0FucmNQY3VZeTZoQTlHVDdCcVlLOVo0Z2RTMGpsaWRpUURQWkNCU0tiNjY2cW5XcTJleV96SG8zLVBfX1hmWkwzRE9ZNXlmWnJEcGFRTTRuYkJmSTh4ZE9La1RwSVJTd241ZW11SEVVN0F2LW01OUJGVDU4bUw2S1FvTTByRkJIanNSRXFBWEFUZXV5ZVRpRFJIaHZ3dXowLUh2WW9ISllvajJsdzY4bkZMM3pVcXlnYmo?oc=5",
+      "published_date": "2026-06-03T23:17:00+00:00"
     },
     {
       "title": "West Bengal CM Suvendu Adhikari inaugurates BJP office in Bhabanipur",
@@ -100,6 +261,13 @@
       "country": "Venezuela",
       "url": "https://www.lanacion.com.ar/el-mundo/el-maximo-jefe-militar-de-eeuu-visito-caracas-por-primera-vez-desde-el-operativo-que-derroco-a-nid03062026/",
       "published_date": "2026-06-03T22:31:50+00:00"
+    },
+    {
+      "title": "NGOs launch the “I Want to Choose” movement to demand free and verifiable elections in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/la-humanidad/ong-lanzan-el-movimiento-quiero-elegir-para-exigir-elecciones-libres-y-verificables-en-venezuela/",
+      "published_date": "2026-06-03T22:09:48+00:00"
     },
     {
       "title": "Is Iran's supreme leader involved in negotiations with the US?: The failures of Middle East truces",
@@ -524,7 +692,7 @@
     {
       "title": "Myanmar junta chief holds trade and security talks with India’s Modi",
       "source": "Myanmar Now",
-      "country": "India",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-holds-trade-and-security-talks-with-indias-modi/",
       "published_date": "2026-06-02T06:54:37+00:00"
     },
@@ -3110,90 +3278,6 @@
       "country": "Denmark",
       "url": "https://politiken.dk/danmark/politik/art10850108/Enhedslisten-hemmeligholder-kandidatliste-op-mod-valget-til-sin-hovedbestyrelse-i-weekenden",
       "published_date": "2026-05-21T14:00:14+00:00"
-    },
-    {
-      "title": "Supreme Leader says enriched uranium must stay in Iran, Iranian sources say",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-896962",
-      "published_date": "2026-05-21T13:37:08+00:00"
-    },
-    {
-      "title": "Rajnath Singh inaugurates Indian War Memorial in South Korea, remembers war veterans",
-      "source": "The Hindu Politics",
-      "country": "South Korea",
-      "url": "https://www.thehindu.com/news/national/rajnath-singh-inaugurates-indian-war-memorial-in-south-korea-remembers-war-veterans/article71005596.ece",
-      "published_date": "2026-05-21T13:03:32+00:00"
-    },
-    {
-      "title": "Pashinyan grabs megaphone as exchange turns heated during election campaign",
-      "source": "Euronews",
-      "country": "Armenia",
-      "url": "http://www.euronews.com/video/2026/05/21/pashinyan-grabs-megaphone-as-exchange-turns-heated-during-election-campaign",
-      "published_date": "2026-05-21T12:37:25+00:00"
-    },
-    {
-      "title": "The rebellion of Santiago Caputo's tweeters: fatigue, rage and two disavowals of Milei",
-      "source": "La Nacion Argentina",
-      "country": "Chile",
-      "url": "https://www.lanacion.com.ar/politica/la-rebelion-de-los-tuiteros-de-santiago-caputo-hartazgo-rabia-y-dos-desautorizaciones-a-milei-nid20052026/",
-      "published_date": "2026-05-21T12:05:16+00:00"
-    },
-    {
-      "title": "Following Trump's ultimatum, Iran's supreme leader prohibits taking enriched uranium out of the country",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/el-mundo/tras-el-ultimatum-de-trump-el-lider-supremo-de-iran-prohibe-sacar-el-uranio-enriquecido-del-pais-nid21052026/",
-      "published_date": "2026-05-21T12:03:59+00:00"
-    },
-    {
-      "title": "Supreme leader ‘issues order’ to keep uranium inside Iran in blow to peace talks",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-uranium-peace-talks-b2981126.html",
-      "published_date": "2026-05-21T11:55:51+00:00"
-    },
-    {
-      "title": "Iran's supreme leader says enriched uranium must stay in the country, sources say",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say",
-      "published_date": "2026-05-21T10:47:03+00:00"
-    },
-    {
-      "title": "Israel’s treatment of captured Gaza flotilla activists sparks global outcry: ‘Monstrous, undignified and inhumane’",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-flotilla-gaza-european-union-b2980909.html",
-      "published_date": "2026-05-21T09:49:37+00:00"
-    },
-    {
-      "title": "KIA drone strike kills Myanmar junta troops near Hpakant",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/kia-drone-strike-kills-myanmar-junta-troops-near-hpakant/",
-      "published_date": "2026-05-21T07:26:04+00:00"
-    },
-    {
-      "title": "UN special envoy to visit Myanmar amid junta push for international legitimacy",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/un-special-envoy-to-visit-myanmar-amid-junta-push-for-international-legitimacy/",
-      "published_date": "2026-05-21T06:09:19+00:00"
-    },
-    {
-      "title": "US and Israel ‘planned to install hardliner Ahmadinejad as Iran’s new leader’ after war: report",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/us-israel-mahmoud-ahmadinejad-iran-war-b2980861.html",
-      "published_date": "2026-05-21T04:25:39+00:00"
-    },
-    {
-      "title": "Lester Toledo returned to Venezuela after 10 years in exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/lester-toledo-regreso-a-venezuela-tras-10-anos-en-el-exilio/",
-      "published_date": "2026-05-21T04:01:00+00:00"
     }
   ]
 }
