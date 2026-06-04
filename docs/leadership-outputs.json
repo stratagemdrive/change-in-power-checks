@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-03T15:32:46.383053+00:00",
-    "story_count": 439,
+    "last_updated": "2026-06-04T00:31:27.498976+00:00",
+    "story_count": 448,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,95 @@
   },
   "stories": [
     {
+      "title": "DPK dominates local elections, wins 12 of 16 mayoral, provincial races",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260604/dpk-dominates-local-elections-wins-12-of-16-mayoral-provincial-races?utm_source=rss",
+      "published_date": "2026-06-04T00:27:02+00:00"
+    },
+    {
+      "title": "Election watchdog rejects calls for revote over Seoul ballot shortages",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260604/election-watchdog-rejects-calls-for-revote-over-seoul-ballot-shortages?utm_source=rss",
+      "published_date": "2026-06-04T00:27:02+00:00"
+    },
+    {
+      "title": "West Bengal CM Suvendu Adhikari inaugurates BJP office in Bhabanipur",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-cm-suvendu-adhikari-inaugurates-bjp-office-in-bhabanipur-101780527188188.html",
+      "published_date": "2026-06-03T23:00:14+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader promotes cross-strait peace during US trip",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3355888/taiwan-opposition-leader-promotes-cross-strait-peace-during-us-trip?utm_source=rss_feed",
+      "published_date": "2026-06-03T22:45:19+00:00"
+    },
+    {
+      "title": "María Elvira Salazar: I want the elections in Venezuela to be next year",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/maria-elvira-salazar-quiero-que-las-elecciones-en-venezuela-sean-el-ano-que-viene/",
+      "published_date": "2026-06-03T22:34:39+00:00"
+    },
+    {
+      "title": "The top US military chief visited Caracas for the first time since the operation that overthrew Nicolás Maduro",
+      "source": "La Nacion Argentina",
+      "country": "Venezuela",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-maximo-jefe-militar-de-eeuu-visito-caracas-por-primera-vez-desde-el-operativo-que-derroco-a-nid03062026/",
+      "published_date": "2026-06-03T22:31:50+00:00"
+    },
+    {
+      "title": "Is Iran's supreme leader involved in negotiations with the US?: The failures of Middle East truces",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/esta-el-lider-supremo-de-iran-involucrado-en-las-negociaciones-con-eeuu-los-fracasos-en-las-treguas-de-medio-oriente/",
+      "published_date": "2026-06-03T20:00:00+00:00"
+    },
+    {
+      "title": "Marco Rubio demands to renew the Electoral Power in Venezuela as soon as possible to move towards free elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/marco-rubio-exige-renovar-el-poder-electoral-en-venezuela-lo-antes-posible-para-avanzar-hacia-elecciones-libres/",
+      "published_date": "2026-06-03T19:29:38+00:00"
+    },
+    {
+      "title": "A polarized election may not matter for one of Peru’s biggest concerns: corruption",
+      "source": "Peru Reports",
+      "country": "Peru",
+      "url": "https://perureports.com/a-polarized-election-may-not-matter-for-one-of-perus-biggest-concerns-corruption/10763/",
+      "published_date": "2026-06-03T19:00:37+00:00"
+    },
+    {
+      "title": "New York: Germany fails in UN Security Council election",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/ausland/deutschland-scheitert-bei-wahl-zu-un-sicherheitsrat-200895640.html",
+      "published_date": "2026-06-03T16:50:56+00:00"
+    },
+    {
+      "title": "Trump opens the door to meeting with Iranian Supreme Leader Mojtaba Khamenei",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/06/trump-abre-la-puerta-a-reunirse-con-el-lider-supremo-irani-mojtaba-jamenei/",
+      "published_date": "2026-06-03T16:06:00+00:00"
+    },
+    {
       "title": "After her gestures of rebellion, the Government believes that Bullrich will not be a candidate for vice or head of the Buenos Aires government.",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/luego-de-sus-gestos-de-rebeldia-en-el-gobierno-creen-que-bullrich-no-sera-candidata-a-vice-ni-a-jefa-nid03062026/",
       "published_date": "2026-06-03T15:25:40+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: icon of the left or billionaire supported by Trump?",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-pr%C3%A9sidentielle-en-colombie-ic%C3%B4ne-de-la-gauche-ou-milliardaire-soutenu-par-trump",
+      "published_date": "2026-06-03T15:23:01+00:00"
     },
     {
       "title": "President Gustavo Petro assures that he will not resign to participate in the elections: 'I am not going to be the head of a campaign'",
@@ -114,6 +198,13 @@
       "country": "Japan",
       "url": "https://flipso.com/p/svalbrfg4?ref=rss",
       "published_date": "2026-06-03T13:00:30+00:00"
+    },
+    {
+      "title": "Lula advises ministers to point out Flávio as a traitor and to value inaugurations until the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-cobrara-ministros-para-evitar-que-adversarios-faturem-com-obras-do-governo-perto-da-eleicao.shtml",
+      "published_date": "2026-06-03T12:00:00+00:00"
     },
     {
       "title": "South Korea’s ruling party set for local election gains, exit poll shows",
@@ -3103,34 +3194,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/lester-toledo-regreso-a-venezuela-tras-10-anos-en-el-exilio/",
       "published_date": "2026-05-21T04:01:00+00:00"
-    },
-    {
-      "title": "Cuban exile celebrates the indictment of Raúl Castro: \"Impunity has ceased\"",
-      "source": "El Nacional Venezuela",
-      "country": "Cuba",
-      "url": "https://www.elnacional.com/2026/05/exilio-cubano-celebra-la-imputacion-de-raul-castro-ceso-la-impunidad/",
-      "published_date": "2026-05-21T00:07:20+00:00"
-    },
-    {
-      "title": "Congress must overturn Lula's veto and release funds prohibited by law to municipalities before the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/congresso-deve-derrubar-veto-de-lula-e-liberar-verba-proibida-por-lei-a-municipios-antes-da-eleicao.shtml",
-      "published_date": "2026-05-20T23:57:00+00:00"
-    },
-    {
-      "title": "Israel takes step toward snap election as Knesset votes to dissolve - Reuters",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1F5dmpBZ3FhQlpJckNnQ0hOeXhRUnA1bU5DMFBKSXhCdDhJN0lRSnhjZjlicnU2YVl1SFMtR2FSbDNzdXNOcVlRaDJCT1VJQzdEWmdlZHpYOW5MUkhKSnJMMGUwYjcwejQxTU5wNHVWRXU5Qm9jM2FILVFXM2xLaWl5NE9JX3hTeDEyejRfblpzRFJjU3MxN1RaS1IzVjBId2c3NVRSTklmVi1jV0tjc0k3aVJ3Zw?oc=5",
-      "published_date": "2026-05-20T19:29:23+00:00"
-    },
-    {
-      "title": "Labor power struggle: Starmer shows new vigor",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/keir-starmer-zeigt-neuen-elan-konkurrenz-von-andy-burnham-200850448.html",
-      "published_date": "2026-05-20T18:07:46+00:00"
     }
   ]
 }
