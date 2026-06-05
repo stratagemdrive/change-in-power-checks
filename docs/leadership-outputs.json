@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-04T14:03:53.334786+00:00",
+    "last_updated": "2026-06-05T00:05:48.013902+00:00",
     "story_count": 460,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran-US war latest: Trump says he’s not the Supreme Leader’s ‘favourite person’ after airstrike killed his family",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-kuwait-israel-lebanon-b2989234.html",
+      "published_date": "2026-06-04T23:32:11+00:00"
+    },
+    {
+      "title": "#ElFiltro: President Gustavo Petro confuses voting results abroad to claim that there was fraud in the Colombian elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-presidente-gustavo-petro-confunde-resultados-de-votaciones-en-el-exterior-para-afirmar-que-hubo-fraude-en-las-elecciones-de-colombia-3562153",
+      "published_date": "2026-06-04T23:18:14+00:00"
+    },
+    {
+      "title": "Biennial elections to Upper House: BJP nominates 11 candidates for Rajya Sabha polls in five states",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/biennial-elections-to-upper-house-bjp-nominates-11-candidates-for-rajya-sabha-polls-in-five-states-10724669/",
+      "published_date": "2026-06-04T22:50:46+00:00"
+    },
+    {
+      "title": "Why is the US so invested in Colombia’s election?",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
+      "published_date": "2026-06-04T22:05:23+00:00"
+    },
+    {
+      "title": "The US threatens to withdraw visas from those who manipulate the elections in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/ee-uu-amenaza-con-retirar-visas-a-quienes-manipulen-las-elecciones-en-colombia/",
+      "published_date": "2026-06-04T22:03:58+00:00"
+    },
+    {
+      "title": "Legislative elections in Armenia: wind of misinformation coming from Russia",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260604-l%C3%A9gislatives-en-arm%C3%A9nie-vent-d-infox-venu-de-russie",
+      "published_date": "2026-06-04T21:01:53+00:00"
+    },
+    {
+      "title": "Massive disinformation campaign underway in Armenia ahead of elections, analysts warn",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/massive-disinformation-campaign-underway-in-armenia-ahead-of-elections-analysts-warn",
+      "published_date": "2026-06-04T19:05:51+00:00"
+    },
+    {
+      "title": "EU backs Pashinyan on the eve of Armenia's defining elections",
+      "source": "Euronews",
+      "country": "Armenia",
+      "url": "http://www.euronews.com/2026/06/04/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections",
+      "published_date": "2026-06-04T16:43:39+00:00"
+    },
+    {
+      "title": "Voloshyn: Russians fake claims of capturing Huliaipilske",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4130591-voloshyn-russians-fake-claims-of-capturing-huliaipilske.html",
+      "published_date": "2026-06-04T16:19:00+00:00"
+    },
+    {
+      "title": "India avoids commenting on the Venezuelan transition and defines the interim government as \"friendly\"",
+      "source": "El Nacional Venezuela",
+      "country": "India",
+      "url": "https://www.elnacional.com/2026/06/india-evita-comentar-la-transicion-venezolana-y-define-al-gobierno-interino-como-amistoso/",
+      "published_date": "2026-06-04T14:15:00+00:00"
+    },
     {
       "title": "DPK dominates local elections, wins 12 of 16 mayoral, provincial races",
       "source": "Korea Times",
@@ -137,6 +207,13 @@
       "published_date": "2026-06-04T10:35:20+00:00"
     },
     {
+      "title": "Peru's leftist Roberto Sanchez seeks centrist appeal ahead of presidential runoff - Reuters",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0ttbVJ0TjBBLUk5T2dTUnM0cjZMWFlnNzVtemRkUmNLSlNhY3B2MmdobTZLbk5MRTYxbjZhS2h4VVllQlk1UDI1TjBWdFBTVGQxQlJyeTNiZHpNbjlRWnhrQzYtSFpiSzE1bDU1aWp3ZVNQdThPTzdva29SOHRUUXFMWWlTSGVta0l6a0dUSWVSNTd5aU5NREFLdFE2aURsOWx1WFpRU2J6MmZ5TlpRZGZPWENWOFZxRnFZT0ZoZ2xCbU93WjZF?oc=5",
+      "published_date": "2026-06-04T10:15:52+00:00"
+    },
+    {
       "title": "Iran's supreme leader says adversaries using 'hybrid warfare' aimed at creating divisions",
       "source": "Dawn Pakistan",
       "country": "Iran",
@@ -212,6 +289,13 @@
       "country": "Armenia",
       "url": "https://www.france24.com/fr/asie-pacifique/20260604-arm%C3%A9nie-%C3%A9lections-pression-russe-moscou-pr%C3%A9server-influence-samvel-karapetian-nikol-pachinian",
       "published_date": "2026-06-04T07:15:58+00:00"
+    },
+    {
+      "title": "Loss in Seoul Overshadows Governing Party’s Wins in South Korean Elections - The New York Times",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0ZxN1llZDBtZzlNZjBIcno4ZHBld2IzemhxS1lFY01xUlRjcm50RnJFQmZNZWlIbm5pMmVoSnY0b3UxNXduaXRaYWZqcnZybThuaWlJNVk1YjFCTC1IRlBUZmR3dTdoX3JNRzNyMG5PbFZvcndZTHZhSVRzbXhTQ2YxNTliUkwwTVY2Qg?oc=5",
+      "published_date": "2026-06-04T07:03:48+00:00"
     },
     {
       "title": "North Korea’s Kim says ‘newly inaugurated’ nuke site opens door to ‘larger plans’",
@@ -3194,90 +3278,6 @@
       "country": "Turkey",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZk9RWmdGRXFNSlRfbzB0TTRrcHF6Rl9YaHd5RnBldndHLTFfajhwOHVkb0NhSUZ3V1lvWEZmTXdCV0lvX2hIWmx4VE1yaUUwcXJvQl8xT1ZUYUhRamRNZkNNN3gwcEdYZzlNc2xkYjNaRFRMb3BTX3BlRGowdVFDRWNKUFBFNG9CeEpNSmNKVmh6cFdxSHlj0gGcAUFVX3lxTE1LRlJJd2NnMXVMZ283SjFQcU5qQTUwY1VaMlgxZFNIZUNub3g2NmJqdEtfLVkyODdkZVBZZl9VaXBwdXdKdldOeWZxaWthQWF5aDdvZkdiYUt2dDRiUmdvWnhYbmY1Q1ZOV2tUNHpSdlBvUWNtbjhyN2NlZl9vQzZycDlvczA0cGlkSGVFbmpXclBYTEFVTjNSSk5fWQ?oc=5",
       "published_date": "2026-05-22T01:27:11+00:00"
-    },
-    {
-      "title": "Explore alternative energy sources, PM Modi tells Government amid West Asia crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/explore-alternative-energy-sources-pm-modi-tells-government-amid-west-asia-crisis-10702114/",
-      "published_date": "2026-05-21T23:16:16+00:00"
-    },
-    {
-      "title": "Hitmen shoot dead Peruvian mayor in the middle of state of emergency due to crime",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/sicarios-asesinan-a-disparos-a-alcalde-peruano-en-medio-de-estado-de-emergencia-por-criminalidad/",
-      "published_date": "2026-05-21T23:07:54+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: venues, voting hours and requirements for Colombians abroad from May 25 to 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-sedes-horarios-de-votacion-y-requisitos-para-colombianos-en-el-exterior-del-25-al-31-de-mayo-3557332",
-      "published_date": "2026-05-21T22:36:15+00:00"
-    },
-    {
-      "title": "French presidential candidate accuses his country of abandoning Cuba out of “fear of Trump”",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-05-22-u1-e208933-s27061-nid329971-candidato-presidencial-francia-acusa-pais-abandonar",
-      "published_date": "2026-05-21T22:10:24+00:00"
-    },
-    {
-      "title": "Imprenta Nacional defends itself against criticism of President Gustavo Petro's new passports for alleged defects in their manufacturing",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/imprenta-nacional-asegura-calidad-en-nuevos-pasaportes-y-desmiente-falla-generalizada-3557319",
-      "published_date": "2026-05-21T19:45:46+00:00"
-    },
-    {
-      "title": "Turkey court rules to oust opposition leader in latest blow to Erdogan's challengers - Reuters",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUQyOXZWZ0JLWGNkSXNwVkZKOWstbEpzUmZOWGRxX0xuNFJkSVdKYzk2WDVFa2xJM1JaSlRkOEhuSXZBOFAwNFlPcXRaN1BaOUVaLWhNZzViZmFramFiNXVmVGFNd1BBTG9oUUVMbldhVDBNbkxpTjdtRGhNTnkxZERSSjh1LXNLS25IcXNpdHoza0h2ZThFWFAwZ3FycmstanpoVlJJTFRxbUZzcUh6Um9EYjRmRDNLanBIZG9tMA?oc=5",
-      "published_date": "2026-05-21T18:01:07+00:00"
-    },
-    {
-      "title": "María Elvira Salazar on elections in Venezuela: “I would say next year”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/maria-elvira-salazar-sobre-elecciones-en-venezuela-yo-diria-que-el-ano-que-viene/",
-      "published_date": "2026-05-21T17:19:11+00:00"
-    },
-    {
-      "title": "Congress overturns Lula's vetoes and releases funds for municipalities before the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/congresso-derruba-vetos-de-lula-e-decide-liberar-verba-a-municipios-antes-da-eleicao.shtml",
-      "published_date": "2026-05-21T17:10:00+00:00"
-    },
-    {
-      "title": "Court annuls leadership of Turkey’s main opposition party",
-      "source": "South China Morning Post",
-      "country": "Turkey",
-      "url": "https://www.scmp.com/news/world/europe/article/3354426/court-annuls-leadership-turkeys-main-opposition-party?utm_source=rss_feed",
-      "published_date": "2026-05-21T16:46:42+00:00"
-    },
-    {
-      "title": "Court demands Turkish opposition leader replaced",
-      "source": "Politiken Denmark",
-      "country": "Turkey",
-      "url": "https://politiken.dk/internationalt/art10852648/Domstol-kr%C3%A6ver-tyrkisk-oppositionsleder-udskiftet",
-      "published_date": "2026-05-21T16:10:35+00:00"
-    },
-    {
-      "title": "Danes among the over 430 captured flotilla participants, confirms the Ministry of Foreign Affairs",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/dansker-blandt-de-over-430-tilfangetagne-flotille-deltagere-bekraefter-udenrigsministeriet",
-      "published_date": "2026-05-21T15:57:00+00:00"
-    },
-    {
-      "title": "Enhedslisten is keeping its candidate list secret in the run-up to the election for its main board at the weekend",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/politik/art10850108/Enhedslisten-hemmeligholder-kandidatliste-op-mod-valget-til-sin-hovedbestyrelse-i-weekenden",
-      "published_date": "2026-05-21T14:00:14+00:00"
     }
   ]
 }
