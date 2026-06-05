@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-05T00:05:48.013902+00:00",
-    "story_count": 460,
+    "last_updated": "2026-06-05T13:56:07.487716+00:00",
+    "story_count": 462,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "A young Chinese’s first encounter with Korea’s election fever",
+      "source": "Korea Times",
+      "country": "China",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260605/a-young-chineses-first-encounter-with-koreas-election-fever?utm_source=rss",
+      "published_date": "2026-06-05T13:52:03+00:00"
+    },
+    {
+      "title": "Iran dismisses idea of Trump meeting supreme leader",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/06/iran-dismisses-idea-of-trump-meeting-supreme-leader/",
+      "published_date": "2026-06-05T13:43:59+00:00"
+    },
+    {
+      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss",
+      "published_date": "2026-06-05T13:25:24+00:00"
+    },
+    {
+      "title": "Israeli ambassador to France accused of 'foreign interference' after election remarks",
+      "source": "Middle East Eye",
+      "country": "France",
+      "url": "https://www.middleeasteye.net/news/israeli-ambassador-france-accused-foreign-interference-after-election-remarks",
+      "published_date": "2026-06-05T13:00:37+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: candidate Abelardo de la Espriella spoke after protests in front of his campaign headquarters in Bogotá",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "published_date": "2026-06-05T12:53:18+00:00"
+    },
+    {
+      "title": "Trump’s ‘crazy’ call dents Netanyahu’s image at key time of Israel’s election",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/americas/trump-netanyahu-phone-call-elections-b2990432.html",
+      "published_date": "2026-06-05T11:53:22+00:00"
+    },
+    {
+      "title": "Peru reaches the runoff between two uncomfortable candidates and a country that disbelieves in politics",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/peru-llega-al-balotaje-entre-dos-candidatos-incomodos-y-un-pais-descreido-de-la-politica-nid04062026/",
+      "published_date": "2026-06-05T11:49:52+00:00"
+    },
+    {
+      "title": "Labor power struggle: Starmer's biggest rival is getting closer",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/gegen-starmer-burnham-kommt-dem-premierminister-naeher-accg-200900839.html",
+      "published_date": "2026-06-05T09:35:05+00:00"
+    },
+    {
+      "title": "PFI ‘sinister organisation’, its activities could’ve caused civil war in India: NIA to court",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/nia-pfi-delhi-court-civil-war-charges-rss-argument-10725556/",
+      "published_date": "2026-06-05T09:33:04+00:00"
+    },
+    {
+      "title": "The man in the black hat: Myanmar junta chief’s closest crony resurfaces on India trip",
+      "source": "Myanmar Now",
+      "country": "India",
+      "url": "https://myanmar-now.org/en/news/the-man-in-the-black-hat-myanmar-junta-chiefs-closest-crony-resurfaces-on-india-trip/",
+      "published_date": "2026-06-05T09:28:00+00:00"
+    },
+    {
+      "title": "Trump says he would be ‘honoured’ to meet Iran’s Supreme Leader amid nuclear talks",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/donald-trump-honoured-meet-iran-supreme-leader-mojtaba-khamenei-talks-10725098/",
+      "published_date": "2026-06-05T07:03:20+00:00"
+    },
+    {
+      "title": "Five civilians dead as Myanmar junta forces advance in Bago’s Okpho Township",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/five-civilians-dead-as-myanmar-junta-forces-advance-in-bagos-okpho-township/",
+      "published_date": "2026-06-05T06:50:06+00:00"
+    },
+    {
+      "title": "Shadow of old dictatorship looms over Peru’s bitter presidential run-off",
+      "source": "South China Morning Post",
+      "country": "Peru",
+      "url": "https://www.scmp.com/news/world/americas/article/3356055/shadow-old-dictatorship-looms-over-perus-bitter-presidential-run?utm_source=rss_feed",
+      "published_date": "2026-06-05T05:56:13+00:00"
+    },
+    {
+      "title": "K Annamalai quits BJP after Tamil Nadu elections, to launch own party",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/k-annamalai-quits-bjp-after-tamil-nadu-elections-after-days-of-suspense-nitin-nabin-101780636454736.html",
+      "published_date": "2026-06-05T05:16:11+00:00"
+    },
+    {
+      "title": "The US threatens to withdraw visas from those who try to “manipulate” the elections in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/eeuu-amenaza-con-retirar-visados-a-quienes-intenten-manipular-las-elecciones-en-colombia/",
+      "published_date": "2026-06-05T04:16:06+00:00"
+    },
+    {
+      "title": "Is Iran’s new supreme leader taking up the reins of power?",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/06/05/world/politics/iran-new-supreme-leader-power/",
+      "published_date": "2026-06-05T02:49:00+00:00"
+    },
+    {
+      "title": "USA and Europe: No agreement on the successor to the German Bosnia representative",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/ausland/bosnien-herzegowina-christian-schmidt-tritt-zurueck-accg-200900257.html",
+      "published_date": "2026-06-05T01:48:11+00:00"
+    },
+    {
+      "title": "BJP names 11 candidates for Rajya Sabha elections. Check full list",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-names-11-candidates-for-rajya-sabha-elections-check-full-list-101780623243887.html",
+      "published_date": "2026-06-05T01:39:19+00:00"
+    },
+    {
+      "title": "Elections in Peru: Sánchez calls for an alliance “to recover democracy” and Keiko doubts recognition of results",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-sanchez-convoca-a-una-alianza-para-recuperar-la-democracia-y-keiko-pone-duda-reconocimiento-de-resultados/",
+      "published_date": "2026-06-05T00:44:27+00:00"
+    },
     {
       "title": "Iran-US war latest: Trump says he’s not the Supreme Leader’s ‘favourite person’ after airstrike killed his family",
       "source": "The Independent UK",
@@ -291,7 +424,7 @@
       "published_date": "2026-06-04T07:15:58+00:00"
     },
     {
-      "title": "Loss in Seoul Overshadows Governing Party’s Wins in South Korean Elections - The New York Times",
+      "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race - The New York Times",
       "source": "Google News World",
       "country": "South Korea",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0ZxN1llZDBtZzlNZjBIcno4ZHBld2IzemhxS1lFY01xUlRjcm50RnJFQmZNZWlIbm5pMmVoSnY0b3UxNXduaXRaYWZqcnZybThuaWlJNVk1YjFCTC1IRlBUZmR3dTdoX3JNRzNyMG5PbFZvcndZTHZhSVRzbXhTQ2YxNTliUkwwTVY2Qg?oc=5",
@@ -303,6 +436,13 @@
       "country": "North Korea",
       "url": "https://www.japantimes.co.jp/news/2026/06/04/asia-pacific/north-korea-kim-new-nuclear-site/",
       "published_date": "2026-06-04T04:52:00+00:00"
+    },
+    {
+      "title": "Russia prunes Armenian rose trade ahead of election - Financial Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUpkR1dqNWxnZGhOdWJ3R0JRdUh5ZjlxWUVvR3hRbUNrV3BsUFZONkU0Q3YxU21vX0M5UjlDR0dPM1FmajZ2M2lYT0hUaGxhSEliLTJPWUFzRFVTUk1QYTU5ckZtNVJnVFhGcWd0MlVaZmJRbkJmMEtNU2d5LUJMVGlsR0c?oc=5",
+      "published_date": "2026-06-04T04:01:29+00:00"
     },
     {
       "title": "Local elections in South Korea: Clear victory for Lee's Democratic Party",
@@ -776,7 +916,7 @@
     {
       "title": "Myanmar junta chief holds trade and security talks with India’s Modi",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-holds-trade-and-security-talks-with-indias-modi/",
       "published_date": "2026-06-02T06:54:37+00:00"
     },
@@ -3152,132 +3292,6 @@
       "country": "Turkey",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHVEV2RIaVF0bnVuSmJrcDdzTmhNUlBTXzdmLWdqTWJxZlpDVmw4MHNwSmhDTWdoRWlsbmlURVBudlRpVmtYTTFPaGczTHl1U2FLX2pWS0xjZ280eXloX1lROTlDVW5HRFJoR1ZHQ2dZVEY3d194WEE1SHJRYndGNTRkRzB2M3FoN0toUVJob3BpQzlr0gGUAUFVX3lxTE52MDBreHI4U25tRmlhMXdsRF9oYXQ3Y2hCRFVmUUloM0t1MWZXRk0zSmxZZEJzeDkyNmQyRTZfa0ZwbGRYMmYxd0tjOFlyWUExRy1IenZDbEZmdjBYUGJiQ0U4VTlsdjhRQnpyMHl3MFRkYkpTTDhfZHU0TmtSR2tUNlF2X0kyNzFVRlV4ejJlVF9FOEM?oc=5",
       "published_date": "2026-05-22T14:47:02+00:00"
-    },
-    {
-      "title": "President Gustavo Petro unleashes new controversy over participation in politics: 'Suddenly we, the Government, won the elections'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-desata-nueva-polemica-por-participacion-en-politica-depronto-ganamos-nosotros-el-gobierno-las-elecciones-3557527",
-      "published_date": "2026-05-22T12:38:54+00:00"
-    },
-    {
-      "title": "Turkish court rules to remove head of the main opposition party in latest blow",
-      "source": "Egypt Independent",
-      "country": "Turkey",
-      "url": "https://www.egyptindependent.com/turkish-court-rules-to-remove-head-of-the-main-opposition-party-in-latest-blow/",
-      "published_date": "2026-05-22T12:24:14+00:00"
-    },
-    {
-      "title": "Rajya Sabha elections annouced across 10 states: Date, retiring MPs, number of seats; all you need to know",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/ec-announces-dates-for-rajya-sabha-elections-across-10-states-bypolls-in-maharashtra-tamil-nadu-all-you-need-to-know-101779450076241.html",
-      "published_date": "2026-05-22T12:15:29+00:00"
-    },
-    {
-      "title": "Violence Looms Over Colombia’s Election",
-      "source": "Foreign Policy",
-      "country": "Colombia",
-      "url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro/",
-      "published_date": "2026-05-22T12:00:51+00:00"
-    },
-    {
-      "title": "Political activity set to pick up in Karnataka with notification of elections to four Rajya Sabha seats",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/political-activity-set-to-pick-up-in-karnataka-with-notification-of-elections-to-four-rajya-sabha-seats/article71010022.ece",
-      "published_date": "2026-05-22T11:45:22+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: latest news for this May 22; The final stretch towards election day begins",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-de-este-22-de-mayo-inicia-la-recta-final-hacia-la-jornada-electoral-3557518",
-      "published_date": "2026-05-22T11:30:00+00:00"
-    },
-    {
-      "title": "Cuba shows what American sanctions achieve: Not regime change, just human suffering",
-      "source": "Indian Express",
-      "country": "Cuba",
-      "url": "https://indianexpress.com/article/opinion/columns/cuba-sanctions-oil-fuel-donald-trump-castro-maduro-venezuela-iran-10702983/",
-      "published_date": "2026-05-22T11:00:08+00:00"
-    },
-    {
-      "title": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
-      "source": "The Guardian World",
-      "country": "Palestine",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza",
-      "published_date": "2026-05-22T10:36:14+00:00"
-    },
-    {
-      "title": "Turkey political crisis simmers as opposition vows to resist court ruling",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/video/20260522-turkey-political-crisis-simmers-as-opposition-vows-to-resist-court-ruling",
-      "published_date": "2026-05-22T09:55:03+00:00"
-    },
-    {
-      "title": "Two civilians killed as Myanmar junta escalates offensives north of Monywa",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/two-civilians-killed-as-myanmar-junta-escalates-offensives-north-of-monywa/",
-      "published_date": "2026-05-22T09:36:28+00:00"
-    },
-    {
-      "title": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/alberta-canada-referendum-danielle-smith-b2981700.html",
-      "published_date": "2026-05-22T08:12:18+00:00"
-    },
-    {
-      "title": "Elections brought our households to a stop: The domestic labour crisis urban India keeps ignoring",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/elections-households-stop-domestic-labour-india-10702455/",
-      "published_date": "2026-05-22T06:18:14+00:00"
-    },
-    {
-      "title": "Election Commission announces Rajya Sabha polls for 24 seats on June 18",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/election-commission-announces-rajya-sabha-polls-for-24-seats-on-june-18-101779428583643.html",
-      "published_date": "2026-05-22T05:50:09+00:00"
-    },
-    {
-      "title": "Friday briefing: ​As Israel’s coalition collapses, can its prime minister hang on to power?",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/may/22/friday-briefing-as-israels-coalition-collapses-can-its-prime-minister-hang-on-to-power",
-      "published_date": "2026-05-22T05:44:28+00:00"
-    },
-    {
-      "title": "Elections for 24 Rajya Sabha seats across 10 states on June 18",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/ec-announces-rajya-sabha-polls-24-seats-june-18-bypolls-maharashtra-tamil-nadu-10702400/",
-      "published_date": "2026-05-22T04:34:15+00:00"
-    },
-    {
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "source": "BBC World",
-      "country": "Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T02:40:58+00:00"
-    },
-    {
-      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
-      "published_date": "2026-05-22T02:00:51+00:00"
-    },
-    {
-      "title": "Turkish court ousts leader of main opposition party - Al Jazeera",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZk9RWmdGRXFNSlRfbzB0TTRrcHF6Rl9YaHd5RnBldndHLTFfajhwOHVkb0NhSUZ3V1lvWEZmTXdCV0lvX2hIWmx4VE1yaUUwcXJvQl8xT1ZUYUhRamRNZkNNN3gwcEdYZzlNc2xkYjNaRFRMb3BTX3BlRGowdVFDRWNKUFBFNG9CeEpNSmNKVmh6cFdxSHlj0gGcAUFVX3lxTE1LRlJJd2NnMXVMZ283SjFQcU5qQTUwY1VaMlgxZFNIZUNub3g2NmJqdEtfLVkyODdkZVBZZl9VaXBwdXdKdldOeWZxaWthQWF5aDdvZkdiYUt2dDRiUmdvWnhYbmY1Q1ZOV2tUNHpSdlBvUWNtbjhyN2NlZl9vQzZycDlvczA0cGlkSGVFbmpXclBYTEFVTjNSSk5fWQ?oc=5",
-      "published_date": "2026-05-22T01:27:11+00:00"
     }
   ]
 }
