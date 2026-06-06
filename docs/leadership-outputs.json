@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-05T13:56:07.487716+00:00",
-    "story_count": 462,
+    "last_updated": "2026-06-06T00:07:14.839104+00:00",
+    "story_count": 460,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
+      "published_date": "2026-06-05T21:56:23+00:00"
+    },
+    {
+      "title": "Armenian election commission rejects appeal to deregister main opposition group",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-election-commission-rejects-appeal-to-deregister-main-opposition-group/",
+      "published_date": "2026-06-05T20:43:38+00:00"
+    },
+    {
+      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
+      "published_date": "2026-06-05T20:37:44+00:00"
+    },
+    {
+      "title": "Israeli strikes on Lebanon, war in Ukraine, crucial legislative elections in Armenia",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260605-frappes-isra%C3%A9liennes-sur-le-liban-guerre-en-ukraine-l%C3%A9gislatives-cruciales-en-arm%C3%A9nie",
+      "published_date": "2026-06-05T19:34:39+00:00"
+    },
+    {
+      "title": "Carlos Carrillo officially presented his resignation as director of the UNGRD: President Petro has not accepted it",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/carlos-carrillo-presento-oficialmente-su-renuncia-como-director-de-la-ungrd-presidente-petro-no-la-ha-aceptado-3562407",
+      "published_date": "2026-06-05T19:07:27+00:00"
+    },
+    {
+      "title": "Explaining Israel's elections: Ten scenarios Israelis should prepare for in 2026 - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-898282",
+      "published_date": "2026-06-05T18:12:43+00:00"
+    },
+    {
+      "title": "Pakistan ‘categorically rejects’ India’s remarks on GB elections as ‘baseless’",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2005452/pakistan-categorically-rejects-indias-remarks-on-gb-elections-as-baseless",
+      "published_date": "2026-06-05T17:10:56+00:00"
+    },
+    {
+      "title": "Armenian officials warn of compulsory military service for citizens ‘bribed’ to fly in from Russia and vote in weekend parliamentary election",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/06/05/armenian-officials-warn-of-compulsory-military-service-for-citizens-bribed-to-fly-in-from-russia-and-vote-in-weekend-parliamentary-election",
+      "published_date": "2026-06-05T16:44:01+00:00"
+    },
+    {
+      "title": "Boric's flirtations with being a presidential candidate again in his adventure through Europe",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/los-coqueteos-de-boric-con-volver-a-ser-candidato-presidencial-en-su-aventura-por-europa/",
+      "published_date": "2026-06-05T15:40:14+00:00"
+    },
+    {
+      "title": "Russia Floods Armenia With Disinformation Ahead of Election - The New York Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV01MV0o4RFNaZDFlNnRKbEtveG9DTmhjY3I0NExpNVJMemU2bk1SeEgyc2VHVXBtQXdfRXR2azNIbzMtcXE4Mmx2V0J0c2ZvZ3dia2c2cE9hT2cxcEFETkFDV3gzVzVWclpzenVMZ1hxQXplMTFoWjdVOVdLZUFfYkc5VU9xX0ZMNTRpalhudUE5ZXYtaVE?oc=5",
+      "published_date": "2026-06-05T14:33:43+00:00"
+    },
+    {
+      "title": "India lodges strong protest with Pakistan over election in Gilgit-Baltistan",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-lodges-strong-protest-with-pakistan-over-election-in-gilgitbaltistan-101780668174780.html",
+      "published_date": "2026-06-05T14:02:54+00:00"
+    },
     {
       "title": "A young Chinese’s first encounter with Korea’s election fever",
       "source": "Korea Times",
@@ -3201,97 +3278,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/economia/la-letra-chica-el-fmi-ve-riesgos-por-la-situacion-global-y-ante-las-elecciones-de-2027-nid22052026/",
       "published_date": "2026-05-23T04:01:09+00:00"
-    },
-    {
-      "title": "Carlos Ocariz returned to Venezuela after more than a year of forced exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/carlos-ocariz-regreso-a-venezuela-tras-mas-de-un-ano-de-exilio-forzado/",
-      "published_date": "2026-05-22T23:00:16+00:00"
-    },
-    {
-      "title": "Canada: Mark Carney defends unity ahead of Alberta independence referendum",
-      "source": "France 24 FR",
-      "country": "Canada",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260522-canada-mark-carney-d%C3%A9fend-l-unit%C3%A9-en-amont-du-r%C3%A9f%C3%A9rendum-sur-l-ind%C3%A9pendance-de-l-alberta",
-      "published_date": "2026-05-22T20:54:45+00:00"
-    },
-    {
-      "title": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know. - The New York Times",
-      "source": "Google News World",
-      "country": "Canada",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQU5waDdXZE9iSWtudW4wSWQxTF9taXNYbEhFZ1Rac19USzg3bDR2S0kxTERvT3dwa2VubU9CeGRFOFZQdjd1LTI1VEZqQWU3NlFYT1RLZjQ3WkltSl9vSGZPbUhwYzY1cmx4UGZUUm90dm8talBDaU9TWQ?oc=5",
-      "published_date": "2026-05-22T20:48:12+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: how many votes do the candidates need to access the monetary replacement of campaign expenses?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cuantos-votos-necesitan-los-candidatos-para-acceder-a-la-reposicion-monetaria-de-los-gastos-de-campana-3557708",
-      "published_date": "2026-05-22T20:41:11+00:00"
-    },
-    {
-      "title": "Elections: Lula promises to veto PL on mass sending of messages",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/eleicoes-lula-promete-vetar-pl-sobre-envio-em-massa-de-mensagens",
-      "published_date": "2026-05-22T20:31:00+00:00"
-    },
-    {
-      "title": "Man City boss and Palestine advocate Pep Guardiola to step down",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss",
-      "published_date": "2026-05-22T20:03:58+00:00"
-    },
-    {
-      "title": "Putin Xi, To Catch a Castro, Red Carpet Rebellion",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260522-putin-xi-to-catch-a-castro-red-carpet-rebellion",
-      "published_date": "2026-05-22T19:49:27+00:00"
-    },
-    {
-      "title": "Head of state-owned VTB bank says Russians should be ‘satisfied’ with their economy, tells sex joke about 80-year-old man",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/05/22/head-of-state-owned-vtb-bank-says-russians-should-be-satisfied-with-their-economy-tells-sex-joke-about-80-year-old-man",
-      "published_date": "2026-05-22T19:26:52+00:00"
-    },
-    {
-      "title": "Tulsi Gabbard's resignation as director of national intelligence removes sidelined Iran war sceptic",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/news/tulsi-gabbard-resigns-director-national-intelligence-removing-sidelined-iran-war-sceptic",
-      "published_date": "2026-05-22T19:05:55+00:00"
-    },
-    {
-      "title": "CHP leader deposed: Erdoğan is building a new opposition",
-      "source": "FAZ Germany",
-      "country": "Turkey",
-      "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-chp-parteichef-oezguer-oezel-abgesetzt-200858131.html",
-      "published_date": "2026-05-22T17:08:46+00:00"
-    },
-    {
-      "title": "Turkey opposition vows to resist court ruling ousting leader as political crisis deepens - NBC News",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnUyX0tHR1ZWdEx6UW82UWlaTjR5U2YxY0ZtZU1sREJSaEUyR3FfUWNUc0lTSmhTa1NqdktIVFMxWXVzYWdlb1owMXMtYzJuZ29rVFJWSHExVmhuVUhtMjR3MGJRT0VSV09OZTBuYnM0eWdwR2xmVVc2a0loN0x1TG1VbHJMNk9uTWxURVg5OVl4MllkZVdzcldDdTVEVVRFeFBZSzFB?oc=5",
-      "published_date": "2026-05-22T16:02:21+00:00"
-    },
-    {
-      "title": "Polls to 4 Rajya Sabha seats in Gujarat on June 18: Election Commission",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/polls-to-4-rajya-sabha-seats-in-gujarat-on-june-18-election-commission-10703312/",
-      "published_date": "2026-05-22T15:42:47+00:00"
-    },
-    {
-      "title": "Turkish court ousts opposition leader in boost to Erdogan - DW.com",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHVEV2RIaVF0bnVuSmJrcDdzTmhNUlBTXzdmLWdqTWJxZlpDVmw4MHNwSmhDTWdoRWlsbmlURVBudlRpVmtYTTFPaGczTHl1U2FLX2pWS0xjZ280eXloX1lROTlDVW5HRFJoR1ZHQ2dZVEY3d194WEE1SHJRYndGNTRkRzB2M3FoN0toUVJob3BpQzlr0gGUAUFVX3lxTE52MDBreHI4U25tRmlhMXdsRF9oYXQ3Y2hCRFVmUUloM0t1MWZXRk0zSmxZZEJzeDkyNmQyRTZfa0ZwbGRYMmYxd0tjOFlyWUExRy1IenZDbEZmdjBYUGJiQ0U4VTlsdjhRQnpyMHl3MFRkYkpTTDhfZHU0TmtSR2tUNlF2X0kyNzFVRlV4ejJlVF9FOEM?oc=5",
-      "published_date": "2026-05-22T14:47:02+00:00"
     }
   ]
 }
