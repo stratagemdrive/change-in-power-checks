@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-06T00:07:14.839104+00:00",
-    "story_count": 460,
+    "last_updated": "2026-06-06T12:10:31.209491+00:00",
+    "story_count": 463,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential elections in Colombia 2026: Foreign Ministry rejects 'any attempt at external interference in the Colombian electoral process'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cancilleria-rechaza-cualquier-intento-de-injerencia-externa-en-proceso-electoral-colombiano-3562553",
+      "published_date": "2026-06-06T11:08:45+00:00"
+    },
+    {
+      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says",
+      "published_date": "2026-06-06T10:22:37+00:00"
+    },
+    {
+      "title": "The weight of anti-Fujimorism facing the runoff in Peru",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/el-peso-del-antifujimorismo-de-cara-al-balotaje-en-peru/",
+      "published_date": "2026-06-06T10:00:00+00:00"
+    },
+    {
+      "title": "“If the Central brought the dollar closer to the ceiling of the band, Milei would almost ensure re-election”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/pablo-gerchunoff-si-el-central-acercara-el-dolar-al-techo-de-la-banda-milei-casi-se-aseguraria-la-nid06062026/",
+      "published_date": "2026-06-06T09:49:18+00:00"
+    },
+    {
+      "title": "Elections in Armenia: voters, prey to Russian disinformation",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-elections-en-arm%C3%A9nie-les-%C3%A9lecteurs-proies-de-la-d%C3%A9sinformation-russe",
+      "published_date": "2026-06-06T09:37:35+00:00"
+    },
+    {
+      "title": "Legislative elections in Armenia: disillusioned Armenian youth",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-elections-l%C3%A9gislatives-en-arm%C3%A9nie-une-jeunesse-arm%C3%A9nienne-d%C3%A9sabus%C3%A9e",
+      "published_date": "2026-06-06T09:33:27+00:00"
+    },
+    {
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "source": "BBC World",
+      "country": "Armenia",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T07:06:43+00:00"
+    },
+    {
+      "title": "INTERVIEW: Why we’re mobilising Christian youths for Tinubu-Shettima’s re-election – CYM",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/885321-interview-why-were-mobilising-christian-youths-for-tinubu-shettimas-re-election-cym.html",
+      "published_date": "2026-06-06T06:00:49+00:00"
+    },
+    {
+      "title": "‘Gilgit-Baltistan Assembly’ elections: India lodges strong protest with Pakistan",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/gilgit-baltistan-assembly-elections-india-lodges-strong-protest-with-pakistan-10726381/",
+      "published_date": "2026-06-06T00:30:47+00:00"
+    },
     {
       "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
       "source": "Middle East Eye",
@@ -121,13 +184,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/los-coqueteos-de-boric-con-volver-a-ser-candidato-presidencial-en-su-aventura-por-europa/",
       "published_date": "2026-06-05T15:40:14+00:00"
-    },
-    {
-      "title": "Russia Floods Armenia With Disinformation Ahead of Election - The New York Times",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV01MV0o4RFNaZDFlNnRKbEtveG9DTmhjY3I0NExpNVJMemU2bk1SeEgyc2VHVXBtQXdfRXR2azNIbzMtcXE4Mmx2V0J0c2ZvZ3dia2c2cE9hT2cxcEFETkFDV3gzVzVWclpzenVMZ1hxQXplMTFoWjdVOVdLZUFfYkc5VU9xX0ZMNTRpalhudUE5ZXYtaVE?oc=5",
-      "published_date": "2026-06-05T14:33:43+00:00"
     },
     {
       "title": "India lodges strong protest with Pakistan over election in Gilgit-Baltistan",
@@ -207,11 +263,25 @@
       "published_date": "2026-06-05T09:28:00+00:00"
     },
     {
+      "title": "Russia Floods Armenia With Disinformation Ahead of Election - The New York Times",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV01MV0o4RFNaZDFlNnRKbEtveG9DTmhjY3I0NExpNVJMemU2bk1SeEgyc2VHVXBtQXdfRXR2azNIbzMtcXE4Mmx2V0J0c2ZvZ3dia2c2cE9hT2cxcEFETkFDV3gzVzVWclpzenVMZ1hxQXplMTFoWjdVOVdLZUFfYkc5VU9xX0ZMNTRpalhudUE5ZXYtaVE?oc=5",
+      "published_date": "2026-06-05T09:02:51+00:00"
+    },
+    {
       "title": "Trump says he would be ‘honoured’ to meet Iran’s Supreme Leader amid nuclear talks",
       "source": "Indian Express",
       "country": "Iran",
       "url": "https://indianexpress.com/article/world/donald-trump-honoured-meet-iran-supreme-leader-mojtaba-khamenei-talks-10725098/",
       "published_date": "2026-06-05T07:03:20+00:00"
+    },
+    {
+      "title": "Peruvians will vote in a runoff to pick a ninth president in 10 years as crime fears dominate - AP News",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGZFczA0OXo3cUtLNEFFMllCOFNBUlpOWWk0U0dyNzJzWk5WZnNmbmhVU3RLMk1DWkhEVEp1T19EbkZyV0QtZldGd2tTdzQ5ZWwtb3RhX0dnRlNhWkQ2MG44dW1HQWVSNm85dEVNX3FvU2U1bU9qVXZSeDhLYjhsVnZ3U1dMS2hQbFdQWVVQMUdkWHhCS1RQc1lsbmJWQ1NiWkx4a0N3?oc=5",
+      "published_date": "2026-06-05T07:03:00+00:00"
     },
     {
       "title": "Five civilians dead as Myanmar junta forces advance in Bago’s Okpho Township",
@@ -394,6 +464,13 @@
       "country": "Iran",
       "url": "https://www.egyptindependent.com/in-latest-written-statement-irans-supreme-leader-calls-for-national-unity-amid-war/",
       "published_date": "2026-06-04T12:03:21+00:00"
+    },
+    {
+      "title": "Gerardo Hernández is captured at the Hotel Nacional after a political act by the Cuban regime on the Malecón",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-06-04-u1-e207888-s27061-nid331192-captan-gerardo-hernandez-hotel-nacional-luego-acto",
+      "published_date": "2026-06-04T11:43:14+00:00"
     },
     {
       "title": "Iran's Supreme Leader warns of Israeli, US divisions threatening regime, undermining 'resilience'",
@@ -3222,62 +3299,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/political-pulse/referendum-aap-govt-semi-finals-cong-bjp-sad-why-punjab-civic-polls-matter-10704535/",
       "published_date": "2026-05-23T12:19:01+00:00"
-    },
-    {
-      "title": "Tehran’s terror campaign in the West makes regime change imperative - opinion",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/opinion/article-896674",
-      "published_date": "2026-05-23T11:52:48+00:00"
-    },
-    {
-      "title": "Meet Tinubu’s ex-ministers who lost at primaries after resignation",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/05/meet-tinubus-ex-ministers-who-lost-at-primaries-after-resignation/",
-      "published_date": "2026-05-23T10:46:56+00:00"
-    },
-    {
-      "title": "Turkey: Thousands rally after court ousts Turkish opposition leader",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/turkey-thousands-rally-after-court-ousts-turkish-opposition-leader",
-      "published_date": "2026-05-23T10:10:19+00:00"
-    },
-    {
-      "title": "How Iran’s new transit regime tightens its grip over Strait of Hormuz — and leaves world in a dilemma",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/explained/explained-global/iran-tightens-grip-on-hormuz-strait-10704225/",
-      "published_date": "2026-05-23T09:20:31+00:00"
-    },
-    {
-      "title": "Leadership crisis, 'loot' in BJP govt., says Congress chief Kharge after third fuel price hike",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/congress-chief-mallikarjun-kharge-post-after-third-fuel-price-hike/article71013977.ece",
-      "published_date": "2026-05-23T09:11:40+00:00"
-    },
-    {
-      "title": "Paris Council: the new faces of political recomposition after the 2026 municipal elections",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/23/conseil-de-paris-les-nouveaux-visages-de-la-recomposition-politique-apres-les-municipales-de-2026_6692729_823448.html",
-      "published_date": "2026-05-23T08:30:10+00:00"
-    },
-    {
-      "title": "Trump's intelligence chief resigns after tensions over war in Iran",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/estados-unidos/renuncia-la-jefa-de-inteligencia-de-trump-en-medio-de-las-internas-por-la-guerra-en-iran-nid22052026/",
-      "published_date": "2026-05-23T05:55:47+00:00"
-    },
-    {
-      "title": "The IMF celebrated Milei's “notable progress,” but sees risks ahead of the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/la-letra-chica-el-fmi-ve-riesgos-por-la-situacion-global-y-ante-las-elecciones-de-2027-nid22052026/",
-      "published_date": "2026-05-23T04:01:09+00:00"
     }
   ]
 }
