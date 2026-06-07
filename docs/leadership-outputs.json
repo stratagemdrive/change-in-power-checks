@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-06T12:10:31.209491+00:00",
-    "story_count": 463,
+    "last_updated": "2026-06-07T00:05:51.278221+00:00",
+    "story_count": 466,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,102 @@
   },
   "stories": [
     {
-      "title": "Presidential elections in Colombia 2026: Foreign Ministry rejects 'any attempt at external interference in the Colombian electoral process'",
+      "title": "TDP announces three Rajya Sabha candidates for upcoming elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tdp-announces-three-rajya-sabha-candidates-for-upcoming-elections-101780787716813.html",
+      "published_date": "2026-06-06T23:17:25+00:00"
+    },
+    {
+      "title": "Trial opens against Peruvian presidential candidate Roberto Sánchez on the eve of the second electoral round",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/abren-juicio-al-candidato-presidencial-peruano-roberto-sanchez-en-visperas-de-la-segunda-vuelta-electoral/",
+      "published_date": "2026-06-06T23:12:14+00:00"
+    },
+    {
+      "title": "Election in Armenia becomes a test of Russian influence",
+      "source": "NPR World",
+      "country": "Armenia",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5846940/election-in-armenia-becomes-a-test-of-russian-influence",
+      "published_date": "2026-06-06T21:05:37+00:00"
+    },
+    {
+      "title": "Extortion and violence expand in Peru and mark an election crossed by panic",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-extorsion-y-la-violencia-se-expanden-en-peru-y-marcan-una-eleccion-atravesada-por-el-panico-nid06062026/",
+      "published_date": "2026-06-06T20:59:54+00:00"
+    },
+    {
+      "title": "Why is there a rebellion in the Trinamool Congress? | Explained",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/why-is-there-a-rebellion-in-the-trinamool-congress-explained/article71070724.ece",
+      "published_date": "2026-06-06T20:39:11+00:00"
+    },
+    {
+      "title": "Elections in Armenia, the country that increasingly looks to Trump and Europe and that Putin refuses to lose",
+      "source": "La Nacion Argentina",
+      "country": "Armenia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-armenia-el-pais-que-mira-cada-vez-mas-a-trump-y-europa-y-que-putin-se-resiste-a-perder-nid06062026/",
+      "published_date": "2026-06-06T19:23:33+00:00"
+    },
+    {
+      "title": "Second round of the presidential elections in Colombia 2026: Iván Cepeda asks Caracol, RCN and RTVC for debates with Abelardo de la Espriella",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cancilleria-rechaza-cualquier-intento-de-injerencia-externa-en-proceso-electoral-colombiano-3562553",
-      "published_date": "2026-06-06T11:08:45+00:00"
+      "published_date": "2026-06-06T19:19:14+00:00"
+    },
+    {
+      "title": "One year since the attack against Miguel Uribe Turbay, the crime that transformed the presidential election in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/un-ano-del-atentado-contra-miguel-uribe-turbay-el-crimen-que-transformo-la-eleccion-presidencial-en-colombia/",
+      "published_date": "2026-06-06T18:21:00+00:00"
+    },
+    {
+      "title": "Why are Armenia’s elections being so keenly watched abroad?",
+      "source": "Al Jazeera English",
+      "country": "Armenia",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss",
+      "published_date": "2026-06-06T18:19:02+00:00"
+    },
+    {
+      "title": "Armenia arrests six candidates for pro-Russian opposition party day before vote",
+      "source": "The Independent UK",
+      "country": "Armenia",
+      "url": "https://www.independent.co.uk/news/world/europe/armenia-election-russia-arrests-party-b2991037.html",
+      "published_date": "2026-06-06T14:34:17+00:00"
+    },
+    {
+      "title": "Although the election is polarized, corruption remains one of the biggest concerns in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/aunque-la-eleccion-esta-polarizada-la-corrupcion-sigue-siendo-una-de-las-mayores-preocupaciones-en-peru/",
+      "published_date": "2026-06-06T13:33:00+00:00"
+    },
+    {
+      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss",
+      "published_date": "2026-06-06T13:23:02+00:00"
+    },
+    {
+      "title": "Colombia's presidential runoff could impact the future of the Amazon rainforest and fossil fuels",
+      "source": "The Independent UK",
+      "country": "Colombia",
+      "url": "https://www.independent.co.uk/news/world/americas/colombia-amazon-donald-trump-amazon-rainforest-bogota-b2991006.html",
+      "published_date": "2026-06-06T13:10:17+00:00"
+    },
+    {
+      "title": "South Korean protesters demand ‘election re-run’ after ballot shortage",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage?utm_source=rss_feed",
+      "published_date": "2026-06-06T12:30:05+00:00"
     },
     {
       "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
@@ -188,7 +279,7 @@
     {
       "title": "India lodges strong protest with Pakistan over election in Gilgit-Baltistan",
       "source": "Hindustan Times",
-      "country": "India",
+      "country": "Pakistan",
       "url": "https://www.hindustantimes.com/india-news/india-lodges-strong-protest-with-pakistan-over-election-in-gilgitbaltistan-101780668174780.html",
       "published_date": "2026-06-05T14:02:54+00:00"
     },
@@ -3229,76 +3320,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/cities/thiruvananthapuram/after-rahul-gandhis-bengal-attack-kerala-chief-election-officer-new-posting-sparks-questions-on-ec-impartiality-10704893/",
       "published_date": "2026-05-24T01:47:24+00:00"
-    },
-    {
-      "title": "María Corina Machado affirms that she will be a presidential candidate in “clean and free” elections in Venezuela",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/maria-corina-machado-afirma-que-sera-candidata-a-la-presidencia-en-unas-elecciones-limpias-y-libres-en-venezuela/",
-      "published_date": "2026-05-23T23:31:08+00:00"
-    },
-    {
-      "title": "Kaduna APC members unanimously afform Tinubu as presidential candidate",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/promoted/882248-kaduna-apc-members-unanimously-afform-tinubu-as-presidential-candidate.html",
-      "published_date": "2026-05-23T22:37:28+00:00"
-    },
-    {
-      "title": "María Corina Machado in Panama: the opposition insists on free elections and confirms candidacy",
-      "source": "El Nacional Venezuela",
-      "country": "Panama",
-      "url": "https://www.elnacional.com/2026/05/maria-corina-machado-en-panama-la-opositora-insiste-en-elecciones-libres-y-confirma-candidatura/",
-      "published_date": "2026-05-23T21:28:59+00:00"
-    },
-    {
-      "title": "Are you Colombian and are you going to vote abroad? Recommendations of the Foreign Ministry for the 2026 presidential elections in the first round",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-colombiano-y-va-a-votar-en-el-exterior-recomendaciones-de-la-cancilleria-para-las-elecciones-presidenciales-de-primera-vuelta-3557886",
-      "published_date": "2026-05-23T19:55:26+00:00"
-    },
-    {
-      "title": "Jigawa gov reaffirms one million votes pledge for Tinubu in 2027 presidential election",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/promoted/882204-jigawa-gov-reaffirms-one-million-votes-pledge-for-tinubu-in-2027-presidential-election.html",
-      "published_date": "2026-05-23T19:06:40+00:00"
-    },
-    {
-      "title": "Israel and the Middle East are one election away from peace - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-896836",
-      "published_date": "2026-05-23T18:57:19+00:00"
-    },
-    {
-      "title": "Marco Rubio in India highlights: PM Modi, Rubio discuss bilateral ties, West Asia crisis",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/marco-rubio-in-india-rubio-visits-kolkata-india-us-ties-live-updates-may-23-2026/article71013451.ece",
-      "published_date": "2026-05-23T17:08:19+00:00"
-    },
-    {
-      "title": "González Urrutia calls for genuine elections in Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/gonzalez-urrutia-llama-a-hacer-elecciones-genuinas-en-venezuela/",
-      "published_date": "2026-05-23T13:37:03+00:00"
-    },
-    {
-      "title": "Katsina APC roots for Tinubu’s 2027 re-election bid — Gov Radda",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/katsina-apc-roots-for-tinubus-2027-re-election-bid-gov-radda/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-05-23T12:45:25+00:00"
-    },
-    {
-      "title": "‘Referendum’ on AAP govt, semi-finals for Cong, BJP, SAD: Why Punjab civic polls matter",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/referendum-aap-govt-semi-finals-cong-bjp-sad-why-punjab-civic-polls-matter-10704535/",
-      "published_date": "2026-05-23T12:19:01+00:00"
     }
   ]
 }
