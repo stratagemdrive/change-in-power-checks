@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-07T12:25:04.075748+00:00",
-    "story_count": 484,
+    "last_updated": "2026-06-08T00:05:40.110318+00:00",
+    "story_count": 493,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,172 @@
   },
   "stories": [
     {
+      "title": "Elections in Peru, live: Keiko Fujimori vs. Roberto Sánchez, the future president is defined in the runoff",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-en-vivo-keiko-fujimori-vs-roberto-sanchez-se-define-el-futuro-presidente-en-el-nid07062026/",
+      "published_date": "2026-06-07T23:56:22+00:00"
+    },
+    {
+      "title": "Petro once again denounces alleged electoral fraud in Colombia and questions vote counting",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/petro-vuelve-a-denunciar-supuesto-fraude-electoral-en-colombia-y-cuestiona-conteo-de-votos/",
+      "published_date": "2026-06-07T23:48:12+00:00"
+    },
+    {
+      "title": "Peru's presidential election runoff is too close to call, exit poll shows - Reuters",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWVQeUxRVDhwYk1Bbm5pOWx4SS1KM1VXSUtqSTRMQUNhd0NrZXptLXJhb3lMSndCb2haV0RMQWQ4VUs5NE9iSEQwel9NVms4dzhsdlk1Z1o2QnctcVFldmFzSTJsRjdlc1FURklNbmlTYXlwNGc2MkY3ajVGX3dta1NVNUlYYVNVbmpXOXJ0TjB2MUVpdWFCUno2QllXVWhJUUt0QmEza3VGUklpTXlUNVowR1JucFFvMHRReFRNcFRtUQ?oc=5",
+      "published_date": "2026-06-07T22:56:24+00:00"
+    },
+    {
+      "title": "Ballot in Peru: exit poll gives advantage to Keiko Fujimori",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/balotaje-en-peru-sondeo-a-boca-de-urna-le-da-ventaja-a-keiko-fujimori/",
+      "published_date": "2026-06-07T22:25:45+00:00"
+    },
+    {
+      "title": "Trump storms out of tense NBC interview about Iran war strategy, election fraud claims",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy?utm_source=rss_feed",
+      "published_date": "2026-06-07T21:27:06+00:00"
+    },
+    {
+      "title": "Lula's campaign creates a social media monitoring center and takes more legal action in this election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/campanha-de-lula-cria-central-de-monitoramento-das-redes-sociais-e-judicializa-mais-eleicoes.shtml",
+      "published_date": "2026-06-07T20:30:00+00:00"
+    },
+    {
+      "title": "Ruling party leads Armenia parliamentary election, exit polls show - politico.eu",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjlWSElFSjVuNGNmOVdObzNXVGR3U3BJYlNNSnhQYWdkbWxtMlNOenh0U1dOQ2dFSmgteGdHLWZjdVZtVDRpVUFCV0N4cWJyNW5VYW1XbUlYaGhRMkozcWtuOXZjaThOdjhjbTdSbW9DVlBUZ1k0NWRld3lXV0kzNlBvckp6X3dPUTNiY0pBUkw?oc=5",
+      "published_date": "2026-06-07T19:30:09+00:00"
+    },
+    {
+      "title": "Nabin instructs BJP cadre in Jharkhand to gear up for 2029 Assembly election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/jharkhand/nitin-nabin-instructs-bjp-cadre-in-jharkhand-to-gear-up-for-2029-assembly-election/article71073526.ece",
+      "published_date": "2026-06-07T19:17:24+00:00"
+    },
+    {
+      "title": "Pashinyan’s party leading in Armenian parliamentary election, Reuters reports",
+      "source": "Ukrinform",
+      "country": "Armenia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4131424-pashinyans-party-leads-in-armenian-parliamentary-election-reuters-reports.html",
+      "published_date": "2026-06-07T19:14:00+00:00"
+    },
+    {
+      "title": "Peru votes in a runoff marked by polarization and the specter of the political crisis",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/peru-vota-en-un-ballottage-marcado-por-la-polarizacion-y-el-fantasma-de-la-crisis-politica-nid07062026/",
+      "published_date": "2026-06-07T19:06:27+00:00"
+    },
+    {
+      "title": "Two delegates were arrested in elections in Peru for having marked 90 voting cards",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/dos-delegados-fueron-detenidos-en-elecciones-en-peru-por-haber-marcado-90-cedulas-de-votacion/",
+      "published_date": "2026-06-07T18:40:12+00:00"
+    },
+    {
+      "title": "Peru 2026 Elections: uncertainty takes over the voting centers in Lima",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/videos/noticia/elecciones-peru-2026-la-incertidumbre-se-toma-los-centros-de-votacion-en-lima/",
+      "published_date": "2026-06-07T17:37:42+00:00"
+    },
+    {
+      "title": "Accusation of vote buying: Arrests overshadow parliamentary election in Armenia",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-hohe-beteiligung-bei-wahl-200906603.html",
+      "published_date": "2026-06-07T16:49:13+00:00"
+    },
+    {
+      "title": "Elections in Peru: second round between Fujimori and Sánchez to elect the country's ninth president in 10 years",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-segunda-vuelta-entre-fujimori-y-sanchez-para-elegir-al-noveno-presidente-del-pais-en-10-anos/",
+      "published_date": "2026-06-07T16:27:51+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: AI image shows Abelardo de la Espriella with Andrés Felipe Arias",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-abelardo-de-la-espriella-respondio-a-nuevo-llamado-de-debates-de-ivan-cepeda-3562701",
+      "published_date": "2026-06-07T16:21:37+00:00"
+    },
+    {
+      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future",
+      "published_date": "2026-06-07T15:34:21+00:00"
+    },
+    {
+      "title": "TDP announces three candidates for Rajya Sabha elections",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-announces-three-candidates-for-rajya-sabha-elections/article71072189.ece",
+      "published_date": "2026-06-07T15:33:53+00:00"
+    },
+    {
+      "title": "Armenians vote in general election watched closely by Russia and the West",
+      "source": "NPR World",
+      "country": "Russia",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west",
+      "published_date": "2026-06-07T15:30:44+00:00"
+    },
+    {
+      "title": "Bundling state elections?: What the states say about the idea of ​​“midterms” in Germany",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/midterm-vorschlag-ministerpraesidenten-sagen-nein-accg-200890991.html",
+      "published_date": "2026-06-07T14:24:51+00:00"
+    },
+    {
+      "title": "Peruvian presidential election: check the voting locations enabled in Chile this Sunday, June 7",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/servicios/noticia/eleccion-presidencial-de-peru-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-7-de-junio/",
+      "published_date": "2026-06-07T14:03:38+00:00"
+    },
+    {
+      "title": "Santiago Botero assured that the complaint of domestic violence prior to the elections was a 'political attack': 'I am going to show evidence'",
+      "source": "El Tiempo Colombia",
+      "country": "Chile",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/santiago-botero-aseguro-que-denuncia-de-violencia-intrafamiliar-previa-a-las-elecciones-fue-un-ataque-politico-3562707",
+      "published_date": "2026-06-07T13:51:01+00:00"
+    },
+    {
+      "title": "Legislative elections in Armenia as a test for Nikol Pashinian",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-elections-l%C3%A9gislatives-en-arm%C3%A9nie-%C3%A0-valeur-de-test-pour-nikol-pachinian",
+      "published_date": "2026-06-07T12:57:38+00:00"
+    },
+    {
+      "title": "Legislative elections in Armenia: who is Nikol Pashinian?",
+      "source": "France 24 FR",
+      "country": "Armenia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-elections-l%C3%A9gislatives-en-arm%C3%A9nie-qui-est-nikol-pachinian",
+      "published_date": "2026-06-07T12:54:31+00:00"
+    },
+    {
       "title": "Seoul result denies both major parties outright victory in local elections",
       "source": "Korea Times",
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20260607/seoul-result-denies-both-major-parties-outright-victory-in-local-elections?utm_source=rss",
       "published_date": "2026-06-07T12:22:03+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: Abelardo De La Espriella responded to Iván Cepeda's new call for debates",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-abelardo-de-la-espriella-respondio-a-nuevo-llamado-de-debates-de-ivan-cepeda-3562701",
-      "published_date": "2026-06-07T12:02:16+00:00"
     },
     {
       "title": "Farida Rustamova, Russian politician in exile: “Putin is in an impasse, unable to win or abandon this war”",
@@ -90,7 +244,7 @@
     {
       "title": "Armenia polls: Why both the West and Russia have an eye on the elections of a small West Asian nation",
       "source": "Indian Express",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://indianexpress.com/article/explained/explained-global/armenia-elections-stakes-russia-eu-india-10728404/",
       "published_date": "2026-06-07T11:19:27+00:00"
     },
@@ -142,6 +296,13 @@
       "country": "Peru",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-duel-serr%C3%A9-entre-sanchez-et-fujimori",
       "published_date": "2026-06-07T09:36:04+00:00"
+    },
+    {
+      "title": "Armenia’s ruling party leads parliamentary vote with 54% in early results",
+      "source": "South China Morning Post",
+      "country": "Armenia",
+      "url": "https://www.scmp.com/news/world/europe/article/3356251/eu-and-russia-clash-armenians-head-polls-putin-fumes?utm_source=rss_feed",
+      "published_date": "2026-06-07T09:29:10+00:00"
     },
     {
       "title": "Armenia election: what the vote could mean for Russia, the West and Azerbaijan",
@@ -545,7 +706,7 @@
     {
       "title": "The man in the black hat: Myanmar junta chief’s closest crony resurfaces on India trip",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/the-man-in-the-black-hat-myanmar-junta-chiefs-closest-crony-resurfaces-on-india-trip/",
       "published_date": "2026-06-05T09:28:00+00:00"
     },
@@ -1357,7 +1518,7 @@
     {
       "title": "Myanmar junta chief holds trade and security talks with India’s Modi",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-holds-trade-and-security-talks-with-indias-modi/",
       "published_date": "2026-06-02T06:54:37+00:00"
     },
@@ -3348,104 +3509,6 @@
       "country": "Israel",
       "url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss",
       "published_date": "2026-05-25T04:00:00+00:00"
-    },
-    {
-      "title": "Paloma Valencia closed her campaign at the Movistar Arena in Bogotá: 'We are made not to win polls, but to win elections'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-cerro-su-campana-en-el-movistar-arena-de-bogota-no-estamos-hechos-no-para-ganar-encuestas-sino-para-ganar-elecciones-3558028",
-      "published_date": "2026-05-24T20:04:49+00:00"
-    },
-    {
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "source": "BBC World",
-      "country": "Turkey",
-      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T19:49:39+00:00"
-    },
-    {
-      "title": "How will Iran war fallout impact upcoming US elections?",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-      "published_date": "2026-05-24T19:30:00+00:00"
-    },
-    {
-      "title": "Police in Turkey force ousted opposition out of headquarters as crisis deepens",
-      "source": "South China Morning Post",
-      "country": "Turkey",
-      "url": "https://www.scmp.com/news/world/europe/article/3354702/police-turkey-force-ousted-opposition-out-headquarters-crisis-deepens?utm_source=rss_feed",
-      "published_date": "2026-05-24T18:39:02+00:00"
-    },
-    {
-      "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-tried-to-stitch-coalition-govt-in-tamil-nadu-with-dmk-and-aiadmk-on-election-result-day-congress-mp-manickam-tagore/article71017525.ece",
-      "published_date": "2026-05-24T18:09:59+00:00"
-    },
-    {
-      "title": "Colombia’s pivotal, polarised election could not be tighter - The Economist",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3hBLW1pYzFuR0t4SF9qYndjWng0ZnBEdVJNMm5jS2czcTg5eVB0WmVDY2dJeElNUEk0MkoxMVYzNTBMMnFqM21YSE5nblpHM0pwWnc4czAxUWpEZV9jdVEtdmlEQkYyY0JMU2V6SUVURkNySTBOaXdTd3pNdzZGQ0tfVkRDSjR4aVQzclctdnVyLVNtUk4zMEx1cWsyNko2dnZhVVVDazdqQkk?oc=5",
-      "published_date": "2026-05-24T17:15:48+00:00"
-    },
-    {
-      "title": "Panama Agreement and elections in Venezuela: Between technical times, “realpolitik” and the necessary unity",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/acuerdo-de-panama-y-elecciones-en-venezuela-entre-los-tiempos-tecnicos-la-realpolitik-y-la-necesaria-unidad/",
-      "published_date": "2026-05-24T16:33:00+00:00"
-    },
-    {
-      "title": "Turkey riot police use tear gas to take opposition party HQ in Ankara",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/turkey-riot-police-use-tear-gas-to-take-opposition-party-hq-in-ankara",
-      "published_date": "2026-05-24T14:37:33+00:00"
-    },
-    {
-      "title": "Tear gas and rubber bullets: Turkey’s main opposition ousted from HQ after dramatic 3-day standoff",
-      "source": "Indian Express",
-      "country": "Turkey",
-      "url": "https://indianexpress.com/article/world/turkey-opposition-chp-headquarters-police-raid-ozgur-ozel-erdogan-standoff-10705875/",
-      "published_date": "2026-05-24T14:31:54+00:00"
-    },
-    {
-      "title": "Witness to the death of Yulixa Toloza assured that María Fernanda Delgado and her husband were \"praying\" in Venezuela before being captured",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/testigo-de-la-muerte-de-yulixa-toloza-aseguro-que-maria-fernanda-delgado-y-su-esposo-estaban-rezando-en-venezuela-antes-de-ser-capturados/",
-      "published_date": "2026-05-24T14:02:10+00:00"
-    },
-    {
-      "title": "Turkey riot police use tear gas to drive ousted opposition leader from party HQ",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/asia-pacific/20260524-turkey-riot-police-use-tear-gas-to-drive-ousted-opposition-leader-from-party-hq",
-      "published_date": "2026-05-24T13:39:09+00:00"
-    },
-    {
-      "title": "Türkiye: opposition leader Özgür Özel removed from CHP headquarters by police",
-      "source": "France 24 FR",
-      "country": "Turkey",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260524-turquie-la-police-d%C3%A9loge-le-chef-d%C3%A9chu-du-chp-le-principal-parti-d-opposition",
-      "published_date": "2026-05-24T12:39:10+00:00"
-    },
-    {
-      "title": "Turkish police storm offices of main opposition party, firing tear gas and rubber bullets - NBC News",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lnQmZiQWE2UWRncEJIblhpR2VOZDBHcUoyekJfdjVZc3FkZ0lpSlpfRlZqa0l6eTNDSjJtbTNuSGRqdEk4VkZJbWhRYjNmQWpWYS0zRHk1TUVpR1Q3VEozcC1XdkZqQXV4eGpIY3R5NmFsSERWR2Q5S0tsenUybXYzekJDRnhiakstcWdTOHNnVFB0Qy00bkNnWDlXcTJLZlpKVlQtRVlYNnU5a2V1Ym13TG5EYzg?oc=5",
-      "published_date": "2026-05-24T12:32:24+00:00"
-    },
-    {
-      "title": "Iran's supreme leader and security council must still approve eventual deal with the US.",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-y-consejo-de-seguridad-de-iran-aun-deben-aprobar-eventual-acuerdo-con-eeuu/",
-      "published_date": "2026-05-24T12:23:43+00:00"
     }
   ]
 }
