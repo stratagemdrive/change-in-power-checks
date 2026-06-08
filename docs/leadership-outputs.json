@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-08T00:05:40.110318+00:00",
-    "story_count": 493,
+    "last_updated": "2026-06-08T14:52:54.605653+00:00",
+    "story_count": 508,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,230 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Special counsel seeks 2-year prison term for ex-President Yoon in election law case",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260608/special-counsel-seeks-2-year-prison-term-for-ex-president-yoon-in-election-law-case?utm_source=rss",
+      "published_date": "2026-06-08T14:47:03+00:00"
+    },
+    {
+      "title": "Armenian election largely seen as 'national referendum on country's direction'",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/armenian-election-largely-seen-as-national-referendum-on-country-s-direction",
+      "published_date": "2026-06-08T14:10:57+00:00"
+    },
+    {
+      "title": "The runoff in Peru is too close to define a winner (again): this is what the experts say",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-balotaje-en-peru-esta-demasiado-ajustado-para-definir-un-ganador-otra-vez-esto-dicen-los-expertos-nid08062026/",
+      "published_date": "2026-06-08T14:04:08+00:00"
+    },
+    {
+      "title": "Palestinians in Chile push back over new president's pivot toward Israel",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/palestinians-chile-push-back-over-new-president-pivot-toward-israel",
+      "published_date": "2026-06-08T14:02:47+00:00"
+    },
+    {
+      "title": "Kremlin tells Russian media to portray Pashinyan’s election win with under 50% as a ‘loss’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/08/kremlin-tells-russian-media-to-frame-pashinyan-s-party-getting-under-50-as-a-loss",
+      "published_date": "2026-06-08T13:56:34+00:00"
+    },
+    {
+      "title": "FM Sybiha on Armenian election results: Russia’s influence continues to fade",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4131663-fm-sybiha-on-armenian-election-results-russias-influence-continues-to-fade.html",
+      "published_date": "2026-06-08T13:39:00+00:00"
+    },
+    {
+      "title": "Armenian PM Nikol Pashinyan claims victory in election seen as test of Russia’s influence - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1UxMmp4emQxQWU2Tjl6RWJvdDYtWlJkNUlwNk43YmJFWngtVjhZWjdaeExFZjlWbVNLRTFIR19oSWhJX2xLcEd5VndSdmRVbzBmMWUxWElOR2M4Mjdxdm9CRUk2UlllTURoMDZoTjZjbTBvUUpXc1U5R1lkR3FaTVFTSnhqSmlHSFJmQWN3SQ?oc=5",
+      "published_date": "2026-06-08T13:15:00+00:00"
+    },
+    {
+      "title": "Close runoff election in Peru: Will Keiko Fujimori make it on the fourth attempt?",
+      "source": "FAZ Germany",
+      "country": "Peru",
+      "url": "https://www.faz.net/aktuell/politik/ausland/peru-wahl-knappes-rennen-zwischen-fujimori-und-sanchez-accg-200907279.html",
+      "published_date": "2026-06-08T12:40:50+00:00"
+    },
+    {
+      "title": "Election in Armenia: The winner speaks of love and peace",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-nikol-paschinjan-siegt-in-wahl-accg-200907558.html",
+      "published_date": "2026-06-08T12:38:30+00:00"
+    },
+    {
+      "title": "South Ossetian Prime Minister steps down ‘to be replaced’ by candidate from Russia",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/south-ossetian-prime-minister-tastaev-resigns-months-after-appointment/",
+      "published_date": "2026-06-08T12:37:57+00:00"
+    },
+    {
+      "title": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/democratic-backsliding-armenia-s-extreme-polarisation-hate-speech-stigmatization-mar-election",
+      "published_date": "2026-06-08T12:10:36+00:00"
+    },
+    {
+      "title": "South Ossetia Prime Minister Resigns, Clearing Way for Russian Technocrat to Lead Integration",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/06/08/south-ossetia-prime-minister-resigns-clearing-way-for-russian-technocrat-to-lead-integration-a92953",
+      "published_date": "2026-06-08T11:46:10+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: will there be a debate between Abelardo de la Espriella and Iván Cepeda?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
+      "published_date": "2026-06-08T11:43:33+00:00"
+    },
+    {
+      "title": "Whether election in the Erzgebirge: CDU candidate narrowly wins against right-wing extremists",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/ob-wahl-in-aue-bad-schlema-cdu-kandidat-gewinnt-gegen-rechtsextremisten-accg-200908617.html",
+      "published_date": "2026-06-08T11:05:32+00:00"
+    },
+    {
+      "title": "Armenia confirms turn towards West in election",
+      "source": "France 24 English",
+      "country": "Armenia",
+      "url": "https://www.france24.com/en/armenia-confirms-turn-towards-west-in-election",
+      "published_date": "2026-06-08T10:38:01+00:00"
+    },
+    {
+      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show",
+      "source": "Al Jazeera English",
+      "country": "Armenia",
+      "url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss",
+      "published_date": "2026-06-08T10:32:33+00:00"
+    },
+    {
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "source": "BBC World",
+      "country": "Armenia",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T10:28:40+00:00"
+    },
+    {
+      "title": "Elections in Peru: Fujimori's advantage over Sánchez drops to 2.3 points with 85% counted",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-ventaja-de-fujimori-sobre-sanchez-baja-a-23-puntos-con-el-85-escrutado/",
+      "published_date": "2026-06-08T10:22:00+00:00"
+    },
+    {
+      "title": "Presidential elections 2026: the Colombia Renaciente party announced its support for Abelardo De La Espriella; the applicant rejected the support",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
+      "published_date": "2026-06-08T10:19:32+00:00"
+    },
+    {
+      "title": "Pashinyan’s party wins nearly 50% of the vote in Armenia’s parliamentary elections and will hold a majority in parliament",
+      "source": "Meduza EN",
+      "country": "Armenia",
+      "url": "https://meduza.io/en/news/2026/06/08/pashinyan-s-party-wins-nearly-50-of-the-vote-in-armenia-s-parliamentary-elections-and-will-hold-a-majority-in-parliament",
+      "published_date": "2026-06-08T09:34:16+00:00"
+    },
+    {
+      "title": "Zelensky congratulates Pashinyan on election victory",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4131568-zelensky-congratulates-pashinyan-on-election-victory.html",
+      "published_date": "2026-06-08T09:20:00+00:00"
+    },
+    {
+      "title": "Armenia PM Pashinyan wins vote, cementing pro-Western shift",
+      "source": "RFI English",
+      "country": "Armenia",
+      "url": "https://www.rfi.fr/en/international/20260608-armenia-pm-pashinyan-wins-vote-cementing-pro-western-shift-europe-russia",
+      "published_date": "2026-06-08T08:52:40+00:00"
+    },
+    {
+      "title": "Peru election result close as vote counting continues",
+      "source": "BBC World",
+      "country": "Peru",
+      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T08:48:37+00:00"
+    },
+    {
+      "title": "Armenian PM Wins Vote, Cementing Westward Tilt",
+      "source": "Moscow Times",
+      "country": "Armenia",
+      "url": "https://www.themoscowtimes.com/2026/06/08/armenian-pm-wins-vote-cementing-westward-tilt-a92949",
+      "published_date": "2026-06-08T08:26:00+00:00"
+    },
+    {
+      "title": "Armenia’s pro-Europe party wins election and cements shift away from Russia",
+      "source": "The Guardian World",
+      "country": "Armenia",
+      "url": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan",
+      "published_date": "2026-06-08T07:20:04+00:00"
+    },
+    {
+      "title": "Setback for TMC: Sukhendu Sekhar Ray resigns as Rajya Sabha MP, quits party",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/sukhendu-sekhar-roy-resigns-as-rajya-sabha-mp-quits-trinamool-congress-101780900117789.html",
+      "published_date": "2026-06-08T06:44:40+00:00"
+    },
+    {
+      "title": "Trinamool Rajya Sabha MP Sukhendu Sekhar Roy resigns, says ‘I was unhappy in party’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/trinamool-rajya-sabha-mp-sukhendu-sekhar-ray-resigns-says-i-was-unhappy-in-party-10729298/",
+      "published_date": "2026-06-08T06:35:17+00:00"
+    },
+    {
+      "title": "Peru faces drawn-out count as presidential race goes down to the wire",
+      "source": "South China Morning Post",
+      "country": "Peru",
+      "url": "https://www.scmp.com/news/world/americas/article/3356314/peru-faces-drawn-out-count-presidential-race-goes-down-wire?utm_source=rss_feed",
+      "published_date": "2026-06-08T05:54:39+00:00"
+    },
+    {
+      "title": "Pashinyan’s Civil Contract wins parliamentary elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/pashinyans-civil-contract-wins-parliamentary-elections/",
+      "published_date": "2026-06-08T04:34:17+00:00"
+    },
+    {
+      "title": "At 94, Indian director has toppled Clint Eastwood’s world record with his 61st film",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/entertainment/telugu/at-94-indian-director-has-toppled-clint-eastwoods-world-record-with-his-61st-film-10670364/",
+      "published_date": "2026-06-08T02:11:05+00:00"
+    },
+    {
+      "title": "Exit poll in Peru shows a technical tie: Fujimori maintains a slight advantage over Sánchez",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/encuesta-a-boca-de-urna-en-peru-arroja-empate-tecnico-fujimori-mantiene-leve-ventaja-sobre-sanchez/",
+      "published_date": "2026-06-08T00:54:37+00:00"
+    },
+    {
+      "title": "The signs of the Colombian election",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/editorial/noticia/las-senales-de-la-eleccion-colombiana/",
+      "published_date": "2026-06-08T00:31:00+00:00"
+    },
     {
       "title": "Elections in Peru, live: Keiko Fujimori vs. Roberto Sánchez, the future president is defined in the runoff",
       "source": "La Nacion Argentina",
@@ -100,6 +324,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/campanha-de-lula-cria-central-de-monitoramento-das-redes-sociais-e-judicializa-mais-eleicoes.shtml",
       "published_date": "2026-06-07T20:30:00+00:00"
+    },
+    {
+      "title": "Armenia PM declares 'historic victory' as vote tallying continues in parliamentary vote",
+      "source": "CBC News World",
+      "country": "Armenia",
+      "url": "https://www.cbc.ca/news/world/armenia-election-nikol-pashinyan-9.7226866?cmp=rss",
+      "published_date": "2026-06-07T20:26:04+00:00"
     },
     {
       "title": "Ruling party leads Armenia parliamentary election, exit polls show - politico.eu",
@@ -3383,132 +3614,6 @@
       "country": "Syria",
       "url": "https://www.jpost.com/middle-east/article-897247",
       "published_date": "2026-05-25T15:27:45+00:00"
-    },
-    {
-      "title": "Gujarat HC allows detained AAP member to cast vote in Junagadh Panchayat election",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/legal-news/gujarat-hc-police-escort-arrested-aap-sanjay-paghdar-vote-junagadh-polls-10707452/",
-      "published_date": "2026-05-25T14:25:47+00:00"
-    },
-    {
-      "title": "Elections in Colombia: recent survey points to a close dispute between the left and the right",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/elecciones-en-colombia-reciente-encuesta-apunta-a-una-disputa-cerrada-entre-izquierda-y-ultraderecha/",
-      "published_date": "2026-05-25T13:58:45+00:00"
-    },
-    {
-      "title": "Russia suspends sales of more Armenian goods ahead of election",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/russia-suspends-sales-of-more-armenian-goods-ahead-of-election/",
-      "published_date": "2026-05-25T13:55:00+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: the campaign ends before the election on May 31",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260525-pr%C3%A9sidentielle-en-colombie-la-campagne-s-ach%C3%A8ve-avant-l-%C3%A9lection-du-31-mai",
-      "published_date": "2026-05-25T13:51:51+00:00"
-    },
-    {
-      "title": "2026 presidential elections in Colombia: the National Registrar, Hernán Penagos, delivered a balance sheet ahead of the first round on May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-fue-el-cierre-de-campana-de-los-candidatos-a-pocos-dias-de-la-primera-vuelta-del-domingo-31-de-mayo-3558113",
-      "published_date": "2026-05-25T13:48:19+00:00"
-    },
-    {
-      "title": "MP Debasish Samantaray quits BJD, steps down as member of Rajya Sabha, likely to join BJP",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/odisha/debashish-samantaray-quits-bjd-and-rajya-sabha-membership-set-to-join-bjp/article71020565.ece",
-      "published_date": "2026-05-25T13:18:55+00:00"
-    },
-    {
-      "title": "Iran says supreme leader suffered only ‘superficial’ wounds in US-Israel strike",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/05/iran-says-supreme-leader-suffered-only-superficial-wounds-in-us-israel-strike/",
-      "published_date": "2026-05-25T13:06:39+00:00"
-    },
-    {
-      "title": "Tinubu’s re-election is ‘personal project’ for Kogi  – Ododo",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/05/tinubus-re-election-is-personal-project-for-kogi-ododo/",
-      "published_date": "2026-05-25T11:49:00+00:00"
-    },
-    {
-      "title": "India orders new deportation centres days after BJP election victory",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3354785/india-orders-new-deportation-centres-days-after-bjp-election-victory?utm_source=rss_feed",
-      "published_date": "2026-05-25T11:37:17+00:00"
-    },
-    {
-      "title": "Security and social reform dominate Colombia’s presidential race",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/security-and-social-reform-dominate-colombia-s-presidential-race",
-      "published_date": "2026-05-25T10:24:18+00:00"
-    },
-    {
-      "title": "Turkish police storm CHP headquarters amid political crisis",
-      "source": "France 24 English",
-      "country": "Turkey",
-      "url": "https://www.france24.com/en/video/20260525-turkish-police-storm-chp-headquarters-amid-political-crisis",
-      "published_date": "2026-05-25T08:57:44+00:00"
-    },
-    {
-      "title": "Venezuela's government faces calls for elections after failed release of prisoners",
-      "source": "NPR World",
-      "country": "Venezuela",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-faces-calls-for-elections-after-failed-release-of-prisoners",
-      "published_date": "2026-05-25T08:40:29+00:00"
-    },
-    {
-      "title": "Belarusian opposition leader Sviatlana Tsikhanouskaya arrives in Kyiv on her first official visit",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/05/25/belarusian-opposition-leader-sviatlana-tsikhanouskaya-arrives-in-kyiv-on-her-first-official-visit",
-      "published_date": "2026-05-25T08:18:34+00:00"
-    },
-    {
-      "title": "Turkish police storm opposition party headquarters as leadership dispute turns violent",
-      "source": "The Independent UK",
-      "country": "Turkey",
-      "url": "https://www.independent.co.uk/news/world/europe/turkey-opposition-party-chp-police-raid-ozgur-ozel-b2982962.html",
-      "published_date": "2026-05-25T07:05:20+00:00"
-    },
-    {
-      "title": "Belarusian opposition leader Tsikhanouskaya arrives in Kyiv",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126863-belarusian-opposition-leader-tsikhanouskaya-arrives-in-kyiv.html",
-      "published_date": "2026-05-25T06:42:00+00:00"
-    },
-    {
-      "title": "‘Network of couriers used to pass messages’: Iran’s supreme leader in undisclosed location with limited contact, US intelligence says",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/us-news/iran-supreme-leader-mojtaba-khamenei-undisclosed-location-us-intelligence-10706257/",
-      "published_date": "2026-05-25T05:41:57+00:00"
-    },
-    {
-      "title": "Presidential candidate Paloma Valencia met with María Corina Machado in Panama",
-      "source": "El Nacional Venezuela",
-      "country": "Panama",
-      "url": "https://www.elnacional.com/2026/05/candidata-presidencial-paloma-valencia-se-reunio-con-maria-corina-machado-en-panama/",
-      "published_date": "2026-05-25T04:01:00+00:00"
-    },
-    {
-      "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
-      "source": "CBC News World",
-      "country": "Israel",
-      "url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss",
-      "published_date": "2026-05-25T04:00:00+00:00"
     }
   ]
 }
