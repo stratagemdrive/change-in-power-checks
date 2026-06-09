@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-08T14:52:54.605653+00:00",
-    "story_count": 508,
+    "last_updated": "2026-06-09T00:06:11.925396+00:00",
+    "story_count": 514,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Peru’s diaspora emerges as tie-breaker in razor-edge presidential race",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/06/09/world/politics/peru-diaspora-tie-breaker-election/",
+      "published_date": "2026-06-08T23:38:00+00:00"
+    },
+    {
+      "title": "Neither Keiko Fujimori nor Roberto Sánchez: who won the Peru 2026 elections in the US",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/ni-keiko-fujimori-ni-roberto-sanchez-quien-gano-las-elecciones-presidenciales-de-peru-2026-en-eeuu-nid08062026/",
+      "published_date": "2026-06-08T23:03:03+00:00"
+    },
+    {
+      "title": "Writers, intellectuals and academics sign a new letter for the Casa Argentina in Paris and ask for the resignation of its director",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/cultura/escritores-intelectuales-y-academicos-firman-una-nueva-carta-por-la-casa-argentina-en-paris-y-piden-nid08062026/",
+      "published_date": "2026-06-08T21:16:44+00:00"
+    },
+    {
+      "title": "Presidential elections 2026: what voting juries can and cannot do in Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-presidenciales-2026-que-pueden-y-que-no-pueden-hacer-los-jurados-de-votacion-en-colombia-3562890",
+      "published_date": "2026-06-08T19:31:03+00:00"
+    },
+    {
+      "title": "Leftist Roberto Sanchez takes lead in Peru's razor-thin presidential runoff",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/americas/20260608-leftist-roberto-sanchez-takes-lead-in-peru-s-razor-thin-presidential-runoff",
+      "published_date": "2026-06-08T19:11:31+00:00"
+    },
+    {
+      "title": "Roberto Sánchez surpasses Fujimori in the recount of the presidential elections in Peru with 94.90% counted",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-rebasa-a-fujimori-en-el-recuento-de-las-presidenciales-de-peru-con-un-9394-escrutado/",
+      "published_date": "2026-06-08T18:39:27+00:00"
+    },
+    {
+      "title": "They question President Gustavo Petro for recognizing Roberto Sánchez as the winner in elections in Peru, when the scrutiny does not end",
+      "source": "El Tiempo Colombia",
+      "country": "Peru",
+      "url": "https://www.eltiempo.com/politica/gobierno/cuestionan-al-presidente-gustavo-petro-por-reconocer-ganador-a-roberto-sanchez-en-elecciones-en-peru-cuando-los-escrutinios-no-terminan-3562881",
+      "published_date": "2026-06-08T18:33:56+00:00"
+    },
+    {
+      "title": "Election in Armenia: The West must help on the path to peace",
+      "source": "FAZ Germany",
+      "country": "Armenia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-und-der-westen-der-weg-zum-frieden-200909650.html",
+      "published_date": "2026-06-08T16:58:13+00:00"
+    },
+    {
+      "title": "Peru's polarising election: 'Neither candidate has strong majority' in Congress to enact reform",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/peru-s-polarising-election-neither-candidate-has-strong-majority-in-congress-to-enact-reform",
+      "published_date": "2026-06-08T16:55:38+00:00"
+    },
+    {
+      "title": "Progress of the left, disappointed hopes for the RN… what to remember from the results of the consular elections",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/08/progression-de-la-gauche-espoirs-decus-pour-le-rn-ce-qu-il-faut-retenir-des-resultats-des-elections-consulaires_6699632_823448.html",
+      "published_date": "2026-06-08T16:34:38+00:00"
+    },
+    {
+      "title": "‘Action replay of 2024 elections’: PTI, TTAP reject GB election results, level rigging allegations",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2006146/action-replay-of-2024-elections-pti-ttap-reject-gb-election-results-level-rigging-allegations",
+      "published_date": "2026-06-08T15:28:11+00:00"
+    },
+    {
+      "title": "Elections in Peru: Keiko Fujimori and Roberto Sánchez maintain a close dispute vote by vote for the presidency",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-keiko-fujimori-y-roberto-sanchez-mantienen-una-renida-disputa-voto-a-voto-por-la-presidencia/",
+      "published_date": "2026-06-08T15:24:58+00:00"
+    },
     {
       "title": "Special counsel seeks 2-year prison term for ex-President Yoon in election law case",
       "source": "Korea Times",
@@ -93,6 +177,13 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/06/08/kremlin-tells-russian-media-to-frame-pashinyan-s-party-getting-under-50-as-a-loss",
       "published_date": "2026-06-08T13:56:34+00:00"
+    },
+    {
+      "title": "Kremlin tells Russian media to portray Pashinyan’s election win with under 50% as a ‘loss’ - Meduza",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXlMUDI2TXVTeDZRTGpQOThlaTJqMHl6UGtLZGg4UmQ3QVRiWGFIQmV5cFVYS0YzdmZyS0QtVE1mMnprZXZTYUxvdEVuaVBtTzJQMExhamtfNGZJZ0xxVXE5dEpUbkNvUXJ3MFREWDZWdmo3bVAwV0RpYmtITDZBbGxCSkNVMFQ4Y1NXZFJkZ3pMV3ZkOG9FOExLUFNhVV9tYXJ1SXlNM2dYdXNLOE4yZzNkWHZXQy1JT1RnUlZn0gHDAUFVX3lxTE9EUUx4VmxjNnI1eEFfSGFpSnpsajY3T0xNVkxjY1k5X0VwMXhXTEdObzNXcEFNQW5adk0xcjl0LWJOZWp0UkZINWg4dFVha3dTZk5JQm5MVWtNenBDTGg3X1FYMGtNV3piRnV0REk5Nlk0V1FKUVBQQXRVNXBKOTVpSDFwZURqbmxzdk5kNFJRZHJ4U05uc25Ra2hPNTR4eHkyMnZUdmR2TTRmY0RVbHZqMkZjUFBIVkRIdFNzc3VCVFdjZw?oc=5",
+      "published_date": "2026-06-08T13:56:00+00:00"
     },
     {
       "title": "FM Sybiha on Armenian election results: Russia’s influence continues to fade",
@@ -193,6 +284,13 @@
       "published_date": "2026-06-08T10:19:32+00:00"
     },
     {
+      "title": "With 179 officers, Bengal sees biggest police reshuffle under BJP",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/kolkata/179-police-officers-shifted-in-massive-shake-up-in-bengal-after-regime-change-10729673/",
+      "published_date": "2026-06-08T09:46:33+00:00"
+    },
+    {
       "title": "Pashinyan’s party wins nearly 50% of the vote in Armenia’s parliamentary elections and will hold a majority in parliament",
       "source": "Meduza EN",
       "country": "Armenia",
@@ -230,7 +328,7 @@
     {
       "title": "Armenia’s pro-Europe party wins election and cements shift away from Russia",
       "source": "The Guardian World",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan",
       "published_date": "2026-06-08T07:20:04+00:00"
     },
@@ -3558,62 +3656,6 @@
       "country": "Russia",
       "url": "http://www.euronews.com/my-europe/2026/05/26/newsletter-drone-crisis-talks-in-lithuania-as-russia-steps-up-kyiv-threats",
       "published_date": "2026-05-26T06:29:41+00:00"
-    },
-    {
-      "title": "Carney says Alberta referendum 'dangerous bluff' similar to Brexit - BBC",
-      "source": "Google News World",
-      "country": "Canada",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GMVBoWDVFclB4MEgySDcxcFhONUxsQ1lHTGlhY09mT3lkUmprS0t3N0p1ZDl4eFRQWG9WOWNoY2xjZ0JueGtmUHV5aW01eXUydGNHU3doMTNRUQ?oc=5",
-      "published_date": "2026-05-25T20:41:50+00:00"
-    },
-    {
-      "title": "How Uyghurs from China helped Syrian rebels overthrow Bashar al-Assad",
-      "source": "NPR World",
-      "country": "China",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5553312/how-uyghurs-from-china-helped-syrian-rebels-overthrow-bashar-al-assad",
-      "published_date": "2026-05-25T20:23:22+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: six days before the presidential elections, two campaigns have not yet reported their accounts",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-a-seis-dias-de-las-presidenciales-dos-campanas-aun-no-reportan-sus-cuentas-3558238",
-      "published_date": "2026-05-25T19:57:47+00:00"
-    },
-    {
-      "title": "Cepeda, Valencia, De la Espriella: who are the three favorites for the presidential election in Colombia?",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260525-cepeda-valencia-de-la-espriella-qui-sont-les-trois-favoris-de-la-pr%C3%A9sidentielle-en-colombie",
-      "published_date": "2026-05-25T19:35:13+00:00"
-    },
-    {
-      "title": "Exiled Belarus opposition leader visits Ukraine as Kyiv warns of escalation",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/europe/article/3354812/exiled-belarus-opposition-leader-visits-ukraine-kyiv-warns-escalation?utm_source=rss_feed",
-      "published_date": "2026-05-25T19:02:29+00:00"
-    },
-    {
-      "title": "Belarusian opposition leader calls for stronger Ukraine ties with democratic Belarus",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4127167-belarusian-opposition-leader-calls-for-stronger-ukraine-ties-with-democratic-belarus.html",
-      "published_date": "2026-05-25T17:59:00+00:00"
-    },
-    {
-      "title": "Belarus opposition leader visits Kyiv after Russia's most devastating attack this year",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/my-europe/2026/05/25/belarus-opposition-leader-visits-kyiv-after-russias-most-devastating-attack-this-year",
-      "published_date": "2026-05-25T16:15:42+00:00"
-    },
-    {
-      "title": "Syria’s limited Kurdish election exposes limits of Damascus’s democratic transition - analysis",
-      "source": "Jerusalem Post",
-      "country": "Syria",
-      "url": "https://www.jpost.com/middle-east/article-897247",
-      "published_date": "2026-05-25T15:27:45+00:00"
     }
   ]
 }
