@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-09T00:06:11.925396+00:00",
-    "story_count": 514,
+    "last_updated": "2026-06-09T13:50:08.518145+00:00",
+    "story_count": 510,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Elections in Peru today, live: the last votes define the result between Keiko Fujimori and Roberto Sánchez",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-hoy-en-vivo-los-ultimos-votos-definen-el-resultado-entre-keiko-fujimori-y-roberto-nid09062026/",
+      "published_date": "2026-06-09T13:42:04+00:00"
+    },
+    {
+      "title": "Why is there a rebellion in the Trinamool Congress? | Explained",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/why-is-there-a-rebellion-in-the-trinamool-congress-explained/article71070724.ece",
+      "published_date": "2026-06-09T13:02:11+00:00"
+    },
+    {
+      "title": "Who won the elections in Peru 2026",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-en-peru-2026-nid08062026/",
+      "published_date": "2026-06-09T12:33:59+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: Abelardo de la Espriella announced that he is 'ready' for a debate and set a condition; 'Let's all four go'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-registrador-nacional-manifesto-preocupacion-por-violencia-derivada-de-la-desinformacion-en-segunda-vuelta-3562970",
+      "published_date": "2026-06-09T12:33:51+00:00"
+    },
+    {
+      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
+      "source": "Al Jazeera English",
+      "country": "Venezuela",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss",
+      "published_date": "2026-06-09T12:30:10+00:00"
+    },
+    {
+      "title": "3 cricketers, 3 corners: Team India heroes across eras land amidst TMC civil war",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/3-cricketers-3-corners-team-india-heroes-across-eras-land-amidst-tmc-civil-war-sourav-ganguly-kirti-azad-yusuf-pathan-101781004955292.html",
+      "published_date": "2026-06-09T12:16:55+00:00"
+    },
+    {
+      "title": "Modi at 4,399 Days: The making of India’s longest-serving elected prime minister",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/opinion/columns/venkaiah-naidu-decoding-pm-modi-man-of-destiny-record-tenure-10731602/",
+      "published_date": "2026-06-09T11:54:05+00:00"
+    },
+    {
+      "title": "Elections in Peru: Sánchez maintains a 0.25 point lead over Fujimori with 95% of votes counted",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-sanchez-mantiene-025-puntos-de-ventaja-sobre-fujimori-con-95-de-votos-contados/",
+      "published_date": "2026-06-09T11:47:00+00:00"
+    },
+    {
+      "title": "Elections in Peru: Roberto Sánchez leads Keiko Fujimori by just over 26 thousand votes",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-roberto-sanchez-aventaja-a-keiko-fujimori-por-poco-mas-de-26-mil-votos/",
+      "published_date": "2026-06-09T11:15:35+00:00"
+    },
+    {
+      "title": "Bear captured after roaming through Japanese city",
+      "source": "Euronews",
+      "country": "Japan",
+      "url": "http://www.euronews.com/video/2026/06/09/bear-captured-after-roaming-through-japanese-city",
+      "published_date": "2026-06-09T11:06:29+00:00"
+    },
+    {
+      "title": "How TMC became the latest party to fall to BJP’s ‘divide, defect, dominate’ playbook",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/opinion/columns/tmc-party-bjp-ritabrata-sukhendu-sekhar-roy-kakoli-ghosh-dastidar-10731347/",
+      "published_date": "2026-06-09T10:02:32+00:00"
+    },
+    {
+      "title": "Nikol Pashinyan Wins Re-election in Armenia - The New York Times",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5",
+      "published_date": "2026-06-09T08:43:00+00:00"
+    },
+    {
+      "title": "Rajya Sabha elections: Congress to fly MP MLAs to Karnataka amid poaching fears",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-elections-congress-to-fly-mp-mlas-to-karnataka-amid-poaching-fears-101780994505498.html",
+      "published_date": "2026-06-09T08:41:45+00:00"
+    },
+    {
+      "title": "2026 presidential elections in Colombia: Katherine Miranda announced her vote for Abelardo De La Espriella and stated that it was not due to an 'ideology'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-katherine-miranda-anuncio-su-voto-para-abelardo-de-la-espriella-y-afirmo-que-no-lo-hace-por-ideologia-3562966",
+      "published_date": "2026-06-09T08:30:35+00:00"
+    },
+    {
+      "title": "Indian-American Nithya Raman clinches place in run-off election for LA mayor",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/indianamerican-nithya-raman-clinches-place-in-run-off-election-for-la-mayor-101780983042844.html",
+      "published_date": "2026-06-09T05:30:42+00:00"
+    },
+    {
+      "title": "Pro-Europe party wins Armenian election",
+      "source": "Sky News World",
+      "country": "Armenia",
+      "url": "https://news.sky.com/story/pro-europe-party-wins-armenian-election-13552165",
+      "published_date": "2026-06-09T05:30:00+00:00"
+    },
+    {
+      "title": "Election in MG challenges Lula and Flávio Bolsonaro, and campaigns are looking for candidates for governor",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eleicao-em-mg-desafia-lula-e-flavio-bolsonaro-e-campanhas-procuram-candidatos-a-governador.shtml",
+      "published_date": "2026-06-09T02:00:00+00:00"
+    },
     {
       "title": "Peru’s diaspora emerges as tie-breaker in razor-edge presidential race",
       "source": "Japan Times",
@@ -95,7 +214,7 @@
       "published_date": "2026-06-08T19:11:31+00:00"
     },
     {
-      "title": "Roberto Sánchez surpasses Fujimori in the recount of the presidential elections in Peru with 94.90% counted",
+      "title": "Roberto Sánchez surpasses Fujimori by a narrow margin in the recount of the Peruvian presidential elections with 95.16% counted",
       "source": "La Tercera Chile",
       "country": "Peru",
       "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-rebasa-a-fujimori-en-el-recuento-de-las-presidenciales-de-peru-con-un-9394-escrutado/",
@@ -149,6 +268,13 @@
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260608/special-counsel-seeks-2-year-prison-term-for-ex-president-yoon-in-election-law-case?utm_source=rss",
       "published_date": "2026-06-08T14:47:03+00:00"
+    },
+    {
+      "title": "At INDIA bloc meeting, Congress is called ‘glue’ as 23 parties target 2029 election",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/at-india-bloc-meeting-congress-is-called-glue-as-23-parties-target-2029-101780928122327.html",
+      "published_date": "2026-06-08T14:15:21+00:00"
     },
     {
       "title": "Armenian election largely seen as 'national referendum on country's direction'",
@@ -765,13 +891,6 @@
       "country": "Peru",
       "url": "https://www.lanacion.com.ar/el-mundo/la-extorsion-y-la-violencia-se-expanden-en-peru-y-marcan-una-eleccion-atravesada-por-el-panico-nid06062026/",
       "published_date": "2026-06-06T20:59:54+00:00"
-    },
-    {
-      "title": "Why is there a rebellion in the Trinamool Congress? | Explained",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/why-is-there-a-rebellion-in-the-trinamool-congress-explained/article71070724.ece",
-      "published_date": "2026-06-06T20:39:11+00:00"
     },
     {
       "title": "Elections in Armenia, the country that increasingly looks to Trump and Europe and that Putin refuses to lose",
@@ -3509,153 +3628,6 @@
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/05/como-petro-esta-terminando-su-mandato-con-una-popularidad-alta-e-inusual-en-colombia-y-que-papel-juega-en-las-elecciones/",
       "published_date": "2026-05-26T13:54:34+00:00"
-    },
-    {
-      "title": "UK may be ‘tipped into a general election’ if Burnham replaces Starmer, says Harman",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/may/26/uk-general-election-andy-burnham-replaces-keir-starmer-harriet-harman",
-      "published_date": "2026-05-26T13:36:53+00:00"
-    },
-    {
-      "title": "2026 presidential elections in Colombia: more than five thousand Colombians have exercised their right to vote in Miami, United States",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-segunda-jornada-de-votaciones-en-el-exterior-quedan-5-dias-para-los-comicios-en-el-pais-3558380",
-      "published_date": "2026-05-26T13:29:29+00:00"
-    },
-    {
-      "title": "Head of State Duma defense committee says Ukraine’s Verkhovna Rada and Zelensky’s office don’t qualify as ‘decision-making centers’ Russia has threatened to strike",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/05/26/head-of-state-duma-defense-committee-says-ukraine-s-verkhovna-rada-and-zelensky-s-office-don-t-qualify-as-decision-making-centers-russia-has-threatened-to-strike",
-      "published_date": "2026-05-26T13:28:59+00:00"
-    },
-    {
-      "title": "Turkish police use water cannon ahead of deposed opposition leader's speech in Izmir",
-      "source": "Euronews",
-      "country": "Turkey",
-      "url": "http://www.euronews.com/2026/05/26/turkish-police-use-water-cannon-ahead-of-deposed-opposition-leaders-speech-in-izmir",
-      "published_date": "2026-05-26T13:25:49+00:00"
-    },
-    {
-      "title": "'No reality in speculation': Congress rejects Karnataka CM change, says talks only on Rajya Sabha elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/no-reality-in-speculation-congress-rejects-buzz-on-karnataka-cm-change-says-talks-only-on-rajya-sabha-elections-101779799252770.html",
-      "published_date": "2026-05-26T12:46:05+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: how to vote for president from Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-como-votar-para-presidente-desde-la-argentina-nid14052026/",
-      "published_date": "2026-05-26T12:36:36+00:00"
-    },
-    {
-      "title": "Bob Amsterdam: the lawyer behind the opposition party trying to take down Pashinyan",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/bob-amsterdam-the-lawyer-behind-the-opposition-party-trying-to-take-down-pashinyan/",
-      "published_date": "2026-05-26T12:16:21+00:00"
-    },
-    {
-      "title": "Attal hardens migration line, with Macron camp split over 2027 presidential race",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260526-attal-hardens-migration-line-with-macron-camp-split-over-2027-presidential-race",
-      "published_date": "2026-05-26T12:06:36+00:00"
-    },
-    {
-      "title": "Iran Supreme Leader Khamenei warns US bases in Gulf ‘no longer have safe haven’ amid Hormuz talks",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/khamenei-warning-us-military-bases-gulf-strait-hormuz-iran-10708620/",
-      "published_date": "2026-05-26T11:39:03+00:00"
-    },
-    {
-      "title": "Myanmar junta and resistance forces engage in heavy clashes along Sagaing-Kachin border",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-and-resistance-forces-engage-in-heavy-clashes-along-sagaing-kachin-border/",
-      "published_date": "2026-05-26T11:15:18+00:00"
-    },
-    {
-      "title": "Iran's supreme leader stresses that Middle Eastern countries “will no longer be shields for US bases”",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/el-lider-supremo-de-iran-subraya-que-los-paises-de-medio-oriente-no-seran-ya-escudos-para-las-bases-de-estados-unidos/",
-      "published_date": "2026-05-26T11:07:47+00:00"
-    },
-    {
-      "title": "Ukrainian military denies Russian claims of capturing village of Riasne in Sumy region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4127367-ukrainian-military-denies-russian-claims-of-capturing-village-of-riasne-in-sumy-region.html",
-      "published_date": "2026-05-26T09:45:00+00:00"
-    },
-    {
-      "title": "Iran's Supreme Leader vows Middle East will no longer be 'safe haven' for the US",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-says-middle-east-will-no-longer-be-safe-haven-us",
-      "published_date": "2026-05-26T09:38:58+00:00"
-    },
-    {
-      "title": "Head of Airports Authority inaugurates first meeting tasked with testing readiness of systems and equipment at Tripoli International Airport",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/05/head-of-airports-authority-inaugurates-first-meeting-tasked-with-testing-readiness-of-systems-and-equipment-at-tripoli-international-airport/",
-      "published_date": "2026-05-26T09:07:35+00:00"
-    },
-    {
-      "title": "Belarus warned not to get ‘dragged into Russia’s war’ as opposition leader visits Ukraine",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/belarus-ukraine-russia-war-sviatlana-tsikhanouskaya-kyiv-b2983473.html",
-      "published_date": "2026-05-26T09:04:39+00:00"
-    },
-    {
-      "title": "Iran supreme leader says regional nations will 'no longer be shields' for US bases",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2003236/iran-supreme-leader-says-regional-nations-will-no-longer-be-shields-for-us-bases",
-      "published_date": "2026-05-26T09:02:31+00:00"
-    },
-    {
-      "title": "Shin Bet chief David Zini met PA’s exiled Gaza security chief during wartime UAE visit - report",
-      "source": "Jerusalem Post",
-      "country": "UAE",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-897301",
-      "published_date": "2026-05-26T08:00:52+00:00"
-    },
-    {
-      "title": "Registrar's Office and Chancellery reported high influx in Colombian consulates during the first day of election day abroad",
-      "source": "El Tiempo Colombia",
-      "country": "Germany",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/reportan-alta-afluencia-de-votantes-en-consulados-de-colombia-en-miami-barcelona-londres-toronto-y-buenos-aires-en-primer-dia-de-jornada-electoral-3558357",
-      "published_date": "2026-05-26T07:31:34+00:00"
-    },
-    {
-      "title": "Myanmar junta counteroffensive pushes Karenni resistance into new phase of war",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-counteroffensive-pushes-karenni-resistance-into-new-phase-of-war/",
-      "published_date": "2026-05-26T07:09:10+00:00"
-    },
-    {
-      "title": "Why BJP’s Rajya Sabha call has spooked JMM ahead of June 18 election",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/bjp-rajya-sabha-call-spooked-jmm-june-election-10708246/",
-      "published_date": "2026-05-26T06:41:51+00:00"
-    },
-    {
-      "title": "Newsletter: Drone crisis talks in Lithuania as Russia steps up Kyiv threats",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/my-europe/2026/05/26/newsletter-drone-crisis-talks-in-lithuania-as-russia-steps-up-kyiv-threats",
-      "published_date": "2026-05-26T06:29:41+00:00"
     }
   ]
 }
