@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-09T13:50:08.518145+00:00",
-    "story_count": 510,
+    "last_updated": "2026-06-10T00:10:23.495441+00:00",
+    "story_count": 507,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iván Duque, on the runoff in Colombia: “It is not a turn of the region to the right, it is a turn to democracy”",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-expresidente-ivan-duque-sobre-el-balotaje-en-colombia-no-es-un-giro-de-la-region-a-la-derecha-es-nid09062026/",
+      "published_date": "2026-06-09T22:44:15+00:00"
+    },
+    {
+      "title": "Mexico and its incredible mobility plan for the inauguration and the strong security operations",
+      "source": "La Nacion Argentina",
+      "country": "Mexico",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/mexico-y-su-increible-plan-de-movilidad-para-la-inauguracion-y-los-fuertes-operativos-de-seguridad-nid09062026/",
+      "published_date": "2026-06-09T21:55:31+00:00"
+    },
+    {
+      "title": "The rebels at the front line of Myanmar's civil war",
+      "source": "BBC World",
+      "country": "Myanmar",
+      "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T21:04:20+00:00"
+    },
+    {
+      "title": "Bear captured after days of panic and school closures in Japan",
+      "source": "Al Jazeera English",
+      "country": "Japan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
+      "published_date": "2026-06-09T20:58:26+00:00"
+    },
+    {
+      "title": "Free Palestine party seeks to finalize registry for New Zealand elections",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-898896",
+      "published_date": "2026-06-09T20:31:52+00:00"
+    },
+    {
+      "title": "Venezuelan unions demand a change of directors of the CNE and setting a schedule for the presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/sindicatos-venezolanos-exigen-cambio-de-rectores-del-cne-y-la-fijacion-de-un-cronograma-para-las-elecciones-presidenciales/",
+      "published_date": "2026-06-09T20:07:43+00:00"
+    },
+    {
+      "title": "Foreign leaders congratulate Modi on becoming longest-serving elected PM of India",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/foreign-leaders-congratulate-modi-on-becoming-longest-serving-elected-pm-of-india/article71081824.ece",
+      "published_date": "2026-06-09T17:15:19+00:00"
+    },
+    {
+      "title": "Bear captured in Japan after multi-day search as attacks rise",
+      "source": "France 24 English",
+      "country": "Japan",
+      "url": "https://www.france24.com/en/bear-captured-in-japan-after-multi-day-search-as-attacks-rise",
+      "published_date": "2026-06-09T15:34:51+00:00"
+    },
+    {
+      "title": "Iran sets June date for slain Supreme Leader Ali Khamenei’s funeral procession: Report",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/iran-ayatollah-ali-khamenei-funeral-procession-june-mojtaba-khamenei-israel-conflict-10731797/",
+      "published_date": "2026-06-09T14:03:48+00:00"
+    },
     {
       "title": "Elections in Peru today, live: the last votes define the result between Keiko Fujimori and Roberto Sánchez",
       "source": "La Nacion Argentina",
@@ -102,7 +165,7 @@
       "published_date": "2026-06-09T12:16:55+00:00"
     },
     {
-      "title": "Modi at 4,399 Days: The making of India’s longest-serving elected prime minister",
+      "title": "Modi at 4,399 Days: The making of India’s longest continuously serving elected prime minister",
       "source": "Indian Express",
       "country": "India",
       "url": "https://indianexpress.com/article/opinion/columns/venkaiah-naidu-decoding-pm-modi-man-of-destiny-record-tenure-10731602/",
@@ -156,6 +219,20 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-katherine-miranda-anuncio-su-voto-para-abelardo-de-la-espriella-y-afirmo-que-no-lo-hace-por-ideologia-3562966",
       "published_date": "2026-06-09T08:30:35+00:00"
+    },
+    {
+      "title": "Three killed in Myanmar junta airstrikes on hospital, IDP camps in Kachin and Karenni states",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/three-killed-in-myanmar-junta-airstrikes-on-hospital-idp-camps-in-kachin-and-karenni-states/",
+      "published_date": "2026-06-09T07:43:18+00:00"
+    },
+    {
+      "title": "Wild black bear captured in Japanese city after multi-day hunt",
+      "source": "Sky News World",
+      "country": "Japan",
+      "url": "https://news.sky.com/story/wild-black-bear-captured-in-japan-after-multi-day-hunt-through-major-city-13552173",
+      "published_date": "2026-06-09T06:24:00+00:00"
     },
     {
       "title": "Indian-American Nithya Raman clinches place in run-off election for LA mayor",
@@ -261,6 +338,13 @@
       "country": "Peru",
       "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-keiko-fujimori-y-roberto-sanchez-mantienen-una-renida-disputa-voto-a-voto-por-la-presidencia/",
       "published_date": "2026-06-08T15:24:58+00:00"
+    },
+    {
+      "title": "Armenia's Pashinyan wins election, observers allege Russian interference",
+      "source": "CBC News World",
+      "country": "Armenia",
+      "url": "https://www.cbc.ca/news/world/armenia-election-pashinyan-9.7227155?cmp=rss",
+      "published_date": "2026-06-08T15:08:48+00:00"
     },
     {
       "title": "Special counsel seeks 2-year prison term for ex-President Yoon in election law case",
@@ -3523,111 +3607,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-omitiu-ate-de-amigos-que-precisaria-de-radioterapia-e-tenta-mostrar-vitalidade-para-eleicao.shtml",
       "published_date": "2026-05-27T02:00:00+00:00"
-    },
-    {
-      "title": "Presidential candidate Claudia López filed a complaint against President Petro for improper political participation: these are the 20 facts she compiles",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-presidencial-claudia-lopez-radico-denuncia-contra-presidente-petro-por-indebida-participacion-politica-estos-son-los-20-hechos-que-recopila-3558573",
-      "published_date": "2026-05-26T20:58:51+00:00"
-    },
-    {
-      "title": "'I would be happy if a military coup overthrew Netanyahu,' says PM's former friend",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897379",
-      "published_date": "2026-05-26T20:27:56+00:00"
-    },
-    {
-      "title": "Extreme electoral risk in 139 municipalities: the alerts surrounding the presidential elections in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/riesgo-extremo-electoral-en-139-municipios-las-alertas-que-rodean-las-presidenciales-en-colombia-3558545",
-      "published_date": "2026-05-26T19:56:08+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: What time do the voting stations open and close on May 31?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-a-que-hora-abren-y-cierran-los-puestos-de-votacion-el-proximo-31-de-mayo-3558480",
-      "published_date": "2026-05-26T18:40:11+00:00"
-    },
-    {
-      "title": "Deposed CHP leader: From loyal party comrade to protest leader",
-      "source": "FAZ Germany",
-      "country": "Turkey",
-      "url": "https://www.faz.net/aktuell/politik/ausland/oezguer-oezel-fordert-urwahl-fuer-chp-200869885.html",
-      "published_date": "2026-05-26T17:46:06+00:00"
-    },
-    {
-      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
-      "source": "The Guardian World",
-      "country": "Turkey",
-      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
-      "published_date": "2026-05-26T17:40:40+00:00"
-    },
-    {
-      "title": "Armenia signs strategic partnership deal with US as election approaches",
-      "source": "Al Jazeera English",
-      "country": "Armenia",
-      "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
-      "published_date": "2026-05-26T17:27:32+00:00"
-    },
-    {
-      "title": "U.S.-wanted nephew of notorious cartel boss \"El Chapo\" is captured in Mexico - CBS News",
-      "source": "Google News World",
-      "country": "Mexico",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YXVyTXFKcFBlbjBhT0FySG00M2RyemJJeFotVlR0TF9sbE0yZWpaN01obU93WnBOa1FoeTZsQXZFZ2xmRFhjVnVlcnhLd0tpWlVDN21sS3ZrZWhGMTZHUThjTmljUkZyZGRGVTV1OVpGMmdOZ3g4V3Q1a9IBgAFBVV95cUxNbks4ZGdxMHkyX3N2YjRFeDZHTmV6aS05alFlX213cVROdXhCZ1lxUHRLYTBtckhfTngycHZlanZpQUNBOFdMVUZXcDRaSDRVaVhTb1g0cEM2Z0V5aDl4end3dElnQVRMdHphdE9yYjA5MGpSLVpEQk5ZZ0I5UHBUNw?oc=5",
-      "published_date": "2026-05-26T16:25:00+00:00"
-    },
-    {
-      "title": "A year ahead of the French presidential election, where do candidates stand?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/a-year-ahead-of-the-french-presidential-election-where-do-candidates-stand",
-      "published_date": "2026-05-26T16:00:14+00:00"
-    },
-    {
-      "title": "France tries 9 Azerbaijanis for plotting to murder exiled blogger",
-      "source": "OC Media Caucasus",
-      "country": "France",
-      "url": "https://oc-media.org/france-tries-9-azerbaijanis-for-plotting-to-murder-exiled-blogger/",
-      "published_date": "2026-05-26T15:33:39+00:00"
-    },
-    {
-      "title": "Sunday's presidential elections in the neighboring country: this is how Colombians residing in Venezuela can vote",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/guia-electoral-asi-pueden-votar-los-colombianos-en-venezuela-en-unas-presidenciales-por-primera-vez-desde-2018/",
-      "published_date": "2026-05-26T15:32:14+00:00"
-    },
-    {
-      "title": "Colombians in Venezuela vote in their presidential elections for the first time since 2018",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/colombianos-en-venezuela-votan-en-sus-elecciones-presidenciales-por-primera-vez-desde-2018/",
-      "published_date": "2026-05-26T14:52:30+00:00"
-    },
-    {
-      "title": "“I prefer not to be sovereign, but free”: Cubans resigned to American threats",
-      "source": "Le Figaro France",
-      "country": "Cuba",
-      "url": "https://www.lefigaro.fr/international/je-prefere-ne-pas-etre-souverain-mais-libre-les-cubains-resignes-face-aux-menaces-americaines-20260526",
-      "published_date": "2026-05-26T14:31:20+00:00"
-    },
-    {
-      "title": "BJP puts the squeeze on BJD: Why Debashish Samantaray’s defection is important",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/bjp-puts-the-squeeze-on-bjd-why-debashish-samantarays-defection-is-important-10709228/",
-      "published_date": "2026-05-26T14:22:21+00:00"
-    },
-    {
-      "title": "How Petro is ending his term with \"high and unusual\" popularity in Colombia (and what role he plays in the elections)",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/como-petro-esta-terminando-su-mandato-con-una-popularidad-alta-e-inusual-en-colombia-y-que-papel-juega-en-las-elecciones/",
-      "published_date": "2026-05-26T13:54:34+00:00"
     }
   ]
 }
