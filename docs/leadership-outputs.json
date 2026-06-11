@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-11T00:17:11.917604+00:00",
-    "story_count": 511,
+    "last_updated": "2026-06-11T14:38:43.684862+00:00",
+    "story_count": 515,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,160 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "British Defense Minister Healey resigns after spat over military funding with PM Starmer",
+      "source": "Jerusalem Post",
+      "country": "United Kingdom",
+      "url": "https://www.jpost.com/international/article-899113",
+      "published_date": "2026-06-11T14:33:17+00:00"
+    },
+    {
+      "title": "John Healey resigns as defence secretary saying Starmer's military spending plans 'fall well short' - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92UXE2eWRDNWs5ZEF5aGlYa0hRQXdjM1FkRFZUVjJXekdjSjA0eE1pUHpsa0J5LUdOdVlpTjRIdDJTMlBUOGxqZjB4OUlwZFU3ell0Uw?oc=5",
+      "published_date": "2026-06-11T14:19:54+00:00"
+    },
+    {
+      "title": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
+      "published_date": "2026-06-11T14:19:03+00:00"
+    },
+    {
+      "title": "Colombian presidential elections: there is a last-minute change in the voting headquarters for the second round in Miami, United States; they denied permission",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-hay-cambio-de-ultima-hora-en-sede-de-votacion-para-segunda-vuelta-en-miami-estados-unidos-negaron-permiso-3563576",
+      "published_date": "2026-06-11T13:50:00+00:00"
+    },
+    {
+      "title": "Armenian government faces uphill battle over new constitution following election results",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-government-faces-uphill-battle-over-new-constitution-following-election-results/",
+      "published_date": "2026-06-11T13:46:26+00:00"
+    },
+    {
+      "title": "Colombian presidential elections 2026: Attorney General's Office suspends two congressmen before the second round; this is known",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-de-colombia-2026-fecha-candidatos-formulas-vicepresidenciales-y-todo-sobre-la-segunda-vuelta-electoral-3563537",
+      "published_date": "2026-06-11T13:31:00+00:00"
+    },
+    {
+      "title": "What should Armenia expect from an unhappy Russia after the elections?",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
+      "published_date": "2026-06-11T13:28:15+00:00"
+    },
+    {
+      "title": "UK defence secretary resigns with stinging attack on Keir Starmer's military spending plans",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/11/uk-defence-secretary-resigns-with-stinging-attack-on-keir-starmers-military-spending-plans",
+      "published_date": "2026-06-11T13:21:22+00:00"
+    },
+    {
+      "title": "United Kingdom: Defense Minister John Healey, in disagreement with Keir Starmer, resigns",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/06/11/royaume-uni-le-ministre-de-la-defense-john-healey-en-desaccord-avec-keir-starmer-demissionne_6700736_3210.html",
+      "published_date": "2026-06-11T13:18:19+00:00"
+    },
+    {
+      "title": "What is Kharg Island, Iran's oil “crown jewel” that Trump announced will be captured",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-es-la-isla-de-kharg-la-joya-de-la-corona-petrolera-de-iran-que-trump-anuncio-que-sera-capturada-nid11062026/",
+      "published_date": "2026-06-11T12:51:35+00:00"
+    },
+    {
+      "title": "UK defense secretary resigns over military spending, in fresh blow to Keir Starmer",
+      "source": "Egypt Independent",
+      "country": "United Kingdom",
+      "url": "https://www.egyptindependent.com/uk-defense-secretary-resigns-over-military-spending-in-fresh-blow-to-keir-starmer/",
+      "published_date": "2026-06-11T12:18:10+00:00"
+    },
+    {
+      "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
+      "published_date": "2026-06-11T12:02:57+00:00"
+    },
+    {
+      "title": "British Defense Secretary resigns from post after disagreement with Keir Starmer",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/britisk-forsvarsminister-traekker-sig-fra-posten-efter-uenighed-med-keir-starmer",
+      "published_date": "2026-06-11T11:59:43+00:00"
+    },
+    {
+      "title": "John Healey: British Defense Secretary resigns",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/britischer-verteidigungsminister-john-healey-tritt-zurueck-accg-200920755.html",
+      "published_date": "2026-06-11T11:37:18+00:00"
+    },
+    {
+      "title": "UK defence chief John Healey resigns amid feud with Starmer over military spending",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3356780/uk-defence-chief-john-healey-resigns-amid-feud-starmer-over-military-spending?utm_source=rss_feed",
+      "published_date": "2026-06-11T11:34:16+00:00"
+    },
+    {
+      "title": "Elections in Peru: Fujimori once again surpassed Sánchez in a close official vote count",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-fujimori-volvio-a-superar-a-sanchez-en-renido-conteo-oficial-de-votos/",
+      "published_date": "2026-06-11T10:30:00+00:00"
+    },
+    {
+      "title": "Third Trinamool Rajya Sabha MP resigns: Who is Prakash Chik Baraik?",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/the-third-tmc-rajya-sabha-mp-resigns-who-is-prakash-chik-baraik-10734565/",
+      "published_date": "2026-06-11T09:10:17+00:00"
+    },
+    {
+      "title": "Putin Signs Law to Seize Property of Exiled Dissidents Before Trial",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/06/11/putin-signs-law-to-seize-property-of-exiled-dissidents-before-trial-a92975",
+      "published_date": "2026-06-11T07:53:17+00:00"
+    },
+    {
+      "title": "Petro asks Trump “not to intervene” in the Colombian presidential election campaign",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/petro-pide-a-trump-no-intervenir-en-campana-electoral-de-las-presidenciales-de-colombia/",
+      "published_date": "2026-06-11T05:50:24+00:00"
+    },
+    {
+      "title": "Trinamool in tatters: Another MP resigns from Rajya Sabha, 3rd in 4 days",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/trinamool-in-tatters-another-mp-resigns-from-rajya-sabha-3rd-in-4-days-10734190/",
+      "published_date": "2026-06-11T05:39:56+00:00"
+    },
+    {
+      "title": "Trump hails Armenian leader for winning re-election despite Russian pressure",
+      "source": "The Independent UK",
+      "country": "Armenia",
+      "url": "https://www.independent.co.uk/news/world/europe/donald-trump-nikol-pashinyan-armenia-election-russia-b2993697.html",
+      "published_date": "2026-06-11T04:40:39+00:00"
+    },
+    {
+      "title": "Cabinet passes resolution, congratulates Modi for becoming longest-serving elected PM",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/cabinet-passes-resolution-congratulates-modi-101781119889341.html",
+      "published_date": "2026-06-11T02:24:01+00:00"
+    },
     {
       "title": "Trump congratulates Modi on becoming India's longest-serving elected PM",
       "source": "The Hindu Politics",
@@ -3509,132 +3663,6 @@
       "country": "Canada",
       "url": "https://www.theguardian.com/australia-news/2026/may/28/tony-abbott-to-step-down-from-advance-role-when-elected-liberal-party-federal-president",
       "published_date": "2026-05-28T15:00:25+00:00"
-    },
-    {
-      "title": "Presidential elections 2026 in Colombia: Bogotá Mayor's Office indicates that 'there are no alerts of public order disturbances' for Sunday, May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-cuarta-jornada-de-votaciones-en-el-exterior-quedan-3-dias-para-los-comicios-en-el-pais-3558975",
-      "published_date": "2026-05-28T12:46:54+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader says US, Israel seek to destabilise Iran, calls for unity",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-says-us-israel-seek-destabilise-iran-calls-unity",
-      "published_date": "2026-05-28T12:46:43+00:00"
-    },
-    {
-      "title": "Iran's Supreme Leader Says US, Israel Seek to 'Bring Nation to Its Knees'",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/le-guide-supreme-iranien-affirme-que-les-etats-unis-et-israel-cherchent-a-mettre-la-nation-a-genoux-20260528",
-      "published_date": "2026-05-28T12:26:04+00:00"
-    },
-    {
-      "title": "Senatorial elections 2026: the RN draws on the right and among its deputies to constitute its future group",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/28/senatoriales-2026-le-rn-pioche-a-droite-et-parmi-ses-deputes-pour-constituer-son-futur-groupe_6694468_823448.html",
-      "published_date": "2026-05-28T12:18:59+00:00"
-    },
-    {
-      "title": "Russia bans imports of vegetables and strawberries from Armenia. Elections there are less than two weeks away.",
-      "source": "Meduza EN",
-      "country": "Armenia",
-      "url": "https://meduza.io/en/news/2026/05/28/russia-bans-imports-of-vegetables-and-strawberries-from-armenia-elections-there-are-less-than-two-weeks-away",
-      "published_date": "2026-05-28T12:18:29+00:00"
-    },
-    {
-      "title": "Armenia holds first military parade in a decade ahead of elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-holds-first-military-parade-in-a-decade-ahead-of-elections/",
-      "published_date": "2026-05-28T11:52:53+00:00"
-    },
-    {
-      "title": "Iran supreme leader says US, Israel seek to ‘bring nation to its knees’",
-      "source": "Vanguard Nigeria",
-      "country": "Israel",
-      "url": "https://www.vanguardngr.com/2026/05/iran-supreme-leader-says-us-israel-seek-to-bring-nation-to-its-knees/",
-      "published_date": "2026-05-28T11:46:07+00:00"
-    },
-    {
-      "title": "\"The scene became Mexicanized\": how violence was transformed in Colombia and why it continues to define the elections",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/el-escenario-se-mexicanizo-como-se-transformo-la-violencia-en-colombia-y-por-que-sigue-definiendo-las-elecciones/",
-      "published_date": "2026-05-28T11:44:00+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt: After the election, the BSW wants to have everything in its hands",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/bsw-in-sachsen-anhalt-der-kampf-beginnt-accg-200875121.html",
-      "published_date": "2026-05-28T11:16:30+00:00"
-    },
-    {
-      "title": "Dalai Lama attends swearing‑in of Tibetan government‑in‑exile in India",
-      "source": "Euronews",
-      "country": "India",
-      "url": "http://www.euronews.com/video/2026/05/28/dalai-lama-attends-swearingin-of-tibetan-governmentinexile-in-india",
-      "published_date": "2026-05-28T11:09:49+00:00"
-    },
-    {
-      "title": "‘Make Armenia Great Again’ — Trump endorses Pashinyan ahead of June elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/make-armenia-great-again-trump-endorses-pashinyan-ahead-of-june-elections/",
-      "published_date": "2026-05-28T10:41:10+00:00"
-    },
-    {
-      "title": "Ukraine's parliament approves EU loan of 90 billion euros",
-      "source": "DR News Denmark",
-      "country": "Ukraine",
-      "url": "https://www.dr.dk/nyheder/seneste/ukraines-parlament-takker-ja-til-eu-laan-paa-90-milliarder-euro",
-      "published_date": "2026-05-28T09:22:01+00:00"
-    },
-    {
-      "title": "In Colombia, a flashy lawyer touts his tough-on-crime approach in presidential race",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/05/28/nx-s1-5830412/in-colombia-a-flashy-lawyer-touts-his-tough-on-crime-approach-in-presidential-race",
-      "published_date": "2026-05-28T08:47:55+00:00"
-    },
-    {
-      "title": "Realistic AI-created content to require labels during Japan’s election campaigns",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-election-campaign-ai-use-rules/",
-      "published_date": "2026-05-28T07:50:00+00:00"
-    },
-    {
-      "title": "New Zealand’s election-year budget shuns ‘sugar hits’ for voters as Iran war jolts economy",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-election-budget-iran-war-b2984941.html",
-      "published_date": "2026-05-28T07:00:57+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: step by step to mark the card correctly and what to do if you make a mistake",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-paso-a-paso-para-marcar-de-forma-correcta-el-tarjeton-y-que-hacer-en-caso-de-cometer-un-error-3558867",
-      "published_date": "2026-05-28T04:52:36+00:00"
-    },
-    {
-      "title": "Colombian presidential elections in 2026: can voting jurors leave the table to vote? This is what the norm says",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-de-colombia-en-2026-los-jurados-de-votacion-pueden-retirarse-de-la-mesa-para-votar-esto-dice-la-norma-3558777",
-      "published_date": "2026-05-28T04:49:54+00:00"
-    },
-    {
-      "title": "Flávio insists that Trump treat CV and PCC as terrorists to try to block Lula in the election",
-      "source": "Folha de S Paulo",
-      "country": "Cuba",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-insiste-que-trump-trate-cv-e-pcc-como-terroristas-para-tentar-emparedar-lula-na-eleicao.shtml",
-      "published_date": "2026-05-28T02:00:00+00:00"
     }
   ]
 }
