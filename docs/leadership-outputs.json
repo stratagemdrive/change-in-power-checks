@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-10T14:25:45.178700+00:00",
-    "story_count": 513,
+    "last_updated": "2026-06-11T00:17:11.917604+00:00",
+    "story_count": 511,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump congratulates Modi on becoming India's longest-serving elected PM",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/trump-congratulates-modi-on-becoming-indias-longest-serving-elected-pm/article71086445.ece",
+      "published_date": "2026-06-10T19:53:55+00:00"
+    },
+    {
+      "title": "France without a new budget until the presidential election in 2027: the divisive scenario",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/10/la-france-sans-nouveau-budget-jusqu-a-la-presidentielle-en-2027-le-scenario-qui-divise_6700536_823448.html",
+      "published_date": "2026-06-10T18:42:46+00:00"
+    },
+    {
+      "title": "‘A great one’: Trump hails Modi as India’s longest-serving elected Prime Minister",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/world/donald-trump-congratulates-pm-narendra-modi-longest-serving-prime-minister-nehru-record-10733708/",
+      "published_date": "2026-06-10T18:35:45+00:00"
+    },
+    {
+      "title": "NDA hails Modi as longest serving continuously elected Prime Minister",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/nda-hails-modi-as-longest-serving-continuously-elected-prime-minister/article71086138.ece",
+      "published_date": "2026-06-10T16:36:18+00:00"
+    },
+    {
+      "title": "Netanyahu will seek re-election in Israel's October legislative elections",
+      "source": "El Nacional Venezuela",
+      "country": "Israel",
+      "url": "https://www.elnacional.com/2026/06/netanyahu-buscara-la-reeleccion-en-las-elecciones-legislativas-de-octubre-en-israel/",
+      "published_date": "2026-06-10T14:43:00+00:00"
+    },
     {
       "title": "Seoul Mayor Oh targets 'global top 3' status for city after election win",
       "source": "Korea Times",
@@ -177,6 +212,13 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/tmc-leader-sushmita-dev-resigns-as-rajya-sabha-mp-second-jolt-mamata-banerjee-sukhendu-sekhar-ray-101781070196839.html",
       "published_date": "2026-06-10T06:11:18+00:00"
+    },
+    {
+      "title": "Pro-government congressman ordered the suspension of Gustavo Petro until the presidential elections in Colombia are over",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/congresista-oficialista-ordeno-suspension-de-gustavo-petro-hasta-que-finalicen-los-comicios-presidenciales-en-colombia/",
+      "published_date": "2026-06-10T05:32:00+00:00"
     },
     {
       "title": "'Does he want to continue?' Trump questions Netanyahu's candidacy in upcoming Knesset elections",
@@ -1371,7 +1413,7 @@
     {
       "title": "The man in the black hat: Myanmar junta chief’s closest crony resurfaces on India trip",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/the-man-in-the-black-hat-myanmar-junta-chiefs-closest-crony-resurfaces-on-india-trip/",
       "published_date": "2026-06-05T09:28:00+00:00"
     },
@@ -3593,62 +3635,6 @@
       "country": "Cuba",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-insiste-que-trump-trate-cv-e-pcc-como-terroristas-para-tentar-emparedar-lula-na-eleicao.shtml",
       "published_date": "2026-05-28T02:00:00+00:00"
-    },
-    {
-      "title": "The circles of trust of Keiko Fujimori and Roberto Sánchez ahead of the runoff in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/los-circulos-de-confianza-de-keiko-fujimori-y-roberto-sanchez-de-cara-al-balotaje-en-peru/",
-      "published_date": "2026-05-28T00:05:04+00:00"
-    },
-    {
-      "title": "Presidential elections abroad: Does the right to half a paid free day work for Colombians who vote in other countries?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-el-exterior-funciona-el-derecho-a-medio-dia-libre-y-remunerado-para-los-colombianos-que-voten-en-otros-paises-3558842",
-      "published_date": "2026-05-27T22:28:50+00:00"
-    },
-    {
-      "title": "Knesset dissolution first reading vote set for Monday, election date yet to be determined",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897558",
-      "published_date": "2026-05-27T21:36:45+00:00"
-    },
-    {
-      "title": "Trump says he can outwait Iran, dismisses midterm election pressure - Reuters",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVBXYVEzOGJ2QldueDNNUnFTLWxiTHFmaTZaRi1jRnM1T2RrWVg2S3M0OUZSNmxOaEZVclJHVWJEbWdxb0hlWWlTT1dZdk5ZbDR6SGV5ZWd3QmlrWGRjS2JMZ3pzaVZmWC1XaDhlUVBKcS1NWVVJNEh1MEVTYW9ZcHF5QXpXajJ2RE5VTWUxTzRsS3ZXTkh1TFNSQjdrYmdaa09QMnJCOXJFUGFHTFdnRg?oc=5",
-      "published_date": "2026-05-27T21:23:00+00:00"
-    },
-    {
-      "title": "Raid on Indian opposition leader triggers violence in Kerala",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss",
-      "published_date": "2026-05-27T20:00:54+00:00"
-    },
-    {
-      "title": "University Hospital of Caracas celebrates its 70th anniversary with the inauguration of an automated operating room",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/hospital-universitario-de-caracas-aniversario-cirugia-robotica/",
-      "published_date": "2026-05-27T18:07:00+00:00"
-    },
-    {
-      "title": "Political violence hits 8 out of 10 women in Colombian elections: 78% of candidates have been victims of violence, CNE and MOE warn",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/violencia-politica-golpea-a-8-de-cada-10-mujeres-en-elecciones-colombianas-78-de-las-candidatas-ha-sido-victima-de-violencia-advierten-cne-y-moe-3558795",
-      "published_date": "2026-05-27T17:28:19+00:00"
-    },
-    {
-      "title": "‘Will continue backchannel talks with China’: Penpa Tsering sworn-in for 2nd term as head of Tibetan Govt-in exile",
-      "source": "Indian Express",
-      "country": "China",
-      "url": "https://indianexpress.com/article/cities/chandigarh/penpa-tsering-sworn-in-sikyong-second-term-tibetan-govt-in-exile-china-talks-10711250/",
-      "published_date": "2026-05-27T16:32:02+00:00"
     }
   ]
 }
