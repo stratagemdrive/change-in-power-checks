@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-11T14:38:43.684862+00:00",
-    "story_count": 515,
+    "last_updated": "2026-06-12T00:21:59.233801+00:00",
+    "story_count": 516,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Aiyedatiwa’s infrastructure push will boost Tinubu’s re-election, lawmaker says",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/aiyedatiwas-infrastructure-push-will-boost-tinubus-re-election-lawmaker-says/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-12T00:44:53+00:00"
+    },
+    {
+      "title": "JNE withdraws publication that showed Keiko Fujimori as elected president of Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/jne-retira-publicacion-que-mostraba-a-keiko-fujimori-como-presidenta-electa-en-peru/",
+      "published_date": "2026-06-12T00:12:15+00:00"
+    },
+    {
+      "title": "Peru’s Photo-Finish Election",
+      "source": "Foreign Policy",
+      "country": "Peru",
+      "url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez/",
+      "published_date": "2026-06-11T21:53:52+00:00"
+    },
+    {
+      "title": "Lula confirms promise to clear the queue of backlogged INSS requests before the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/06/lula-confirma-promessa-de-zerar-fila-de-pedidos-represados-do-inss-antes-da-eleicao.shtml",
+      "published_date": "2026-06-11T21:31:00+00:00"
+    },
+    {
+      "title": "BJP’s Rajya Sabha candidates in Madhya Pradesh elected unopposed; Election Commission yet to decide on Congress plea",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/rajya-sabha-elections-bjp-wins-three-seats-from-madhya-pradesh/article71089440.ece",
+      "published_date": "2026-06-11T20:44:42+00:00"
+    },
+    {
+      "title": "Trump says he believes Iran’s supreme leader has approved deal",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-believes-irans-supreme-leader-has-approved-deal",
+      "published_date": "2026-06-11T20:41:10+00:00"
+    },
+    {
+      "title": "United Kingdom: accusing Keir Starmer of endangering the country, Defense Minister John Healey resigns",
+      "source": "Le Figaro France",
+      "country": "United Kingdom",
+      "url": "https://www.lefigaro.fr/international/royaume-uni-le-ministre-de-la-defense-john-healey-demissionne-20260611",
+      "published_date": "2026-06-11T20:28:35+00:00"
+    },
+    {
+      "title": "UK defence chief steps down, accuses Starmer of making Britain 'less safe'",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
+      "published_date": "2026-06-11T20:28:05+00:00"
+    },
+    {
+      "title": "Trinamool Congress MP Prakash Chik Barik resigns from Rajya Sabha",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/trinamool-congress-mp-prakash-chik-barik-resigns-from-rajya-sabha/article71087806.ece",
+      "published_date": "2026-06-11T20:05:47+00:00"
+    },
+    {
+      "title": "An Israeli company “probably behind” the disinformation campaign that targeted LFI during the municipal elections, according to Viginum",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/11/une-societe-israelienne-probablement-a-l-origine-de-la-campagne-de-desinformation-ayant-vise-lfi-pendant-les-municipales-selon-viginum_6700797_4408996.html",
+      "published_date": "2026-06-11T19:30:44+00:00"
+    },
+    {
+      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+      "source": "NPR World",
+      "country": "Taiwan",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+      "published_date": "2026-06-11T16:53:25+00:00"
+    },
+    {
+      "title": "Transparency Venezuela urges elections due to risk of consolidation of Delcy Rodríguez",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/transparencia-venezuela-urge-elecciones-ante-riesgo-de-afianzamiento-de-delcy-rodriguez/",
+      "published_date": "2026-06-11T16:09:08+00:00"
+    },
+    {
+      "title": "France sentences nine Azerbaijanis over attempted murder of exiled blogger",
+      "source": "OC Media Caucasus",
+      "country": "France",
+      "url": "https://oc-media.org/france-sentences-nine-azerbaijanis-over-attempted-murder-of-exiled-blogger/",
+      "published_date": "2026-06-11T14:45:53+00:00"
+    },
     {
       "title": "British Defense Minister Healey resigns after spat over military funding with PM Starmer",
       "source": "Jerusalem Post",
@@ -104,7 +195,7 @@
     {
       "title": "What should Armenia expect from an unhappy Russia after the elections?",
       "source": "OC Media Caucasus",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
       "published_date": "2026-06-11T13:28:15+00:00"
     },
@@ -144,7 +235,7 @@
       "published_date": "2026-06-11T12:02:57+00:00"
     },
     {
-      "title": "British Defense Secretary resigns from post after disagreement with Keir Starmer",
+      "title": "British defense minister resigns from post after disagreement with Keir Starmer",
       "source": "DR News Denmark",
       "country": "United Kingdom",
       "url": "https://www.dr.dk/nyheder/seneste/britisk-forsvarsminister-traekker-sig-fra-posten-efter-uenighed-med-keir-starmer",
@@ -3579,90 +3670,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/05/jose-guerra-regreso-a-venezuela-tras-siete-anos-de-exilio-forzado/",
       "published_date": "2026-05-29T00:30:53+00:00"
-    },
-    {
-      "title": "Presidential elections in Bogotá in 2026: TransMilenio will reinforce TransMiApp to make faster trips this May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-bogota-en-2026-transmilenio-reforzara-transmiapp-para-realizar-trayectos-mas-rapidos-este-31-de-mayo-3559117",
-      "published_date": "2026-05-28T22:02:30+00:00"
-    },
-    {
-      "title": "Elections 2026: official date and times for the closure of borders in Colombia for the first presidential round",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-fecha-y-horarios-oficiales-para-el-cierre-de-fronteras-en-colombia-por-la-primera-vuelta-presidencial-3559101",
-      "published_date": "2026-05-28T21:07:31+00:00"
-    },
-    {
-      "title": "Knesset restores 'massacre' to Oct. 7 memorial bill after bereaved families decry PMO's removal",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897691",
-      "published_date": "2026-05-28T20:56:00+00:00"
-    },
-    {
-      "title": "Opposition leader Roberto Marrero returns to Venezuela after almost six years in exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/el-dirigente-opositor-roberto-marrero-regresa-a-venezuela-tras-casi-seis-anos-en-el-exilio/",
-      "published_date": "2026-05-28T20:35:46+00:00"
-    },
-    {
-      "title": "Clashes between armed groups in Colombia kill at least 52 guerrillas on eve of election",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260528-clashes-between-armed-groups-in-colombia-kill-at-least-52-guerrillas-on-eve-of-election",
-      "published_date": "2026-05-28T20:18:57+00:00"
-    },
-    {
-      "title": "Revanth should tender resignation: BJP",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/telangana/revanth-should-tender-resignation-bjp/article71034445.ece",
-      "published_date": "2026-05-28T19:01:54+00:00"
-    },
-    {
-      "title": "Luis Florido demands guarantees for elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/luis-florido-exige-garantias-para-futuras-elecciones-en-venezuela/",
-      "published_date": "2026-05-28T17:49:54+00:00"
-    },
-    {
-      "title": "India to host Myanmar President Hlaing, exiled govt. calls him a ‘terrorist junta leader’",
-      "source": "The Hindu Politics",
-      "country": "Myanmar",
-      "url": "https://www.thehindu.com/news/national/india-to-host-myanmar-president-hlaing-exiled-govt-calls-him-a-terrorist-junta-leader/article71034615.ece",
-      "published_date": "2026-05-28T17:17:57+00:00"
-    },
-    {
-      "title": "Trump endorses Pashinyan ahead of Armenia’s high-stakes, historic elections",
-      "source": "Euronews",
-      "country": "Armenia",
-      "url": "http://www.euronews.com/2026/05/28/trump-endorses-pashinyan-ahead-of-armenias-high-stakes-historic-elections",
-      "published_date": "2026-05-28T16:55:31+00:00"
-    },
-    {
-      "title": "Israel at a crossroads: War, elections, and the future of the US-Israel alliance",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/podcast/article-897668",
-      "published_date": "2026-05-28T16:46:35+00:00"
-    },
-    {
-      "title": "Colombia: dozens of dead in fighting between two FARC dissident groups days before the elections",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/colombia-decenas-de-muertos-en-combates-entre-dos-grupos-de-disidencias-de-las-farc/",
-      "published_date": "2026-05-28T15:49:08+00:00"
-    },
-    {
-      "title": "Tony Abbott to step down from Advance role when elected Liberal party federal president",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/australia-news/2026/may/28/tony-abbott-to-step-down-from-advance-role-when-elected-liberal-party-federal-president",
-      "published_date": "2026-05-28T15:00:25+00:00"
     }
   ]
 }
