@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-12T14:14:45.352951+00:00",
-    "story_count": 508,
+    "last_updated": "2026-06-13T00:19:50.621600+00:00",
+    "story_count": 502,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "source": "Foreign Policy",
+      "country": "Iran",
+      "url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "published_date": "2026-06-12T20:49:52+00:00"
+    },
+    {
+      "title": "Democracy Day: Nigerians deserve security, prosperity, justice — ADP Presidential Candidate",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/06/democracy-day-nigerians-deserve-security-prosperity-justice-adp-presidential-candidate/",
+      "published_date": "2026-06-12T20:47:47+00:00"
+    },
+    {
+      "title": "César Pérez Vivas returns to Venezuela after 20 months in exile",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/cesar-perez-vivas-regresa-a-venezuela-tras-20-meses-en-el-exilio/",
+      "published_date": "2026-06-12T20:31:46+00:00"
+    },
+    {
+      "title": "César Pérez Vivas returns to Venezuela after more than a year in exile",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/cesar-perez-vivas-regresa-a-venezuela-tras-mas-de-un-ano-en-el-exilio/",
+      "published_date": "2026-06-12T20:25:34+00:00"
+    },
+    {
+      "title": "The Kremlin is worried about possible surprises in the fall's Russian parliamentary elections",
+      "source": "Politiken Denmark",
+      "country": "Russia",
+      "url": "https://politiken.dk/internationalt/art10872963/I-Kreml-er-man-bekymret-over-mulige-overraskelser-i-efter%C3%A5rets-russiske-parlamentsvalg",
+      "published_date": "2026-06-12T19:07:33+00:00"
+    },
+    {
+      "title": "Kassio denies request from Lula's allies to stop screening of the film 'Dark Horse' during elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/kassio-nega-pedido-de-aliados-de-lula-para-barrar-exibicao-do-filme-dark-horse-durante-eleicoes.shtml",
+      "published_date": "2026-06-12T18:12:00+00:00"
+    },
     {
       "title": "Retrospective honors Japanese pastor who captured humanity of Seoul's vanished shantytowns",
       "source": "Korea Times",
@@ -102,6 +144,13 @@
       "published_date": "2026-06-12T13:24:50+00:00"
     },
     {
+      "title": "Israeli tech firm accused of targeting First Minister in election - BBC",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IMXpRV19uRTNFRXo4aEczOUlwRi1oOUpyaEFSZy1MaVBPSFFJVnlCdW9iem5lVnpRRFo4RFUwRlRGLXNFc2plMGdCNE9iTXlILXRJZllWdkFyQQ?oc=5",
+      "published_date": "2026-06-12T13:18:09+00:00"
+    },
+    {
       "title": "Elections in Colombia 2026: the National Registrar denied that the E-14s from abroad had been altered and asked not to spread false information",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
@@ -114,6 +163,13 @@
       "country": "Russia",
       "url": "https://www.lemonde.fr/international/article/2026/06/12/face-a-poutine-le-rebelle-ilia-iachine-cree-un-parti-pour-unir-les-oppositions-russes-en-exil_6701104_3210.html",
       "published_date": "2026-06-12T12:15:07+00:00"
+    },
+    {
+      "title": "Ex-South Korean president sentenced for sending drones into North Korea in leadup to martial law",
+      "source": "CBC News World",
+      "country": "North Korea",
+      "url": "https://www.cbc.ca/news/world/south-korea-yoon-kim-sentences-9.7233128?cmp=rss",
+      "published_date": "2026-06-12T11:45:28+00:00"
     },
     {
       "title": "Communist Lawmaker Slams ‘Out-of-Touch’ War Management Ahead of Fall Duma Elections",
@@ -321,7 +377,7 @@
     {
       "title": "What should Armenia expect from an unhappy Russia after the elections?",
       "source": "OC Media Caucasus",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
       "published_date": "2026-06-11T13:28:15+00:00"
     },
@@ -3516,104 +3572,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/anniversary-adc-sdp-presidential-candidate-knock-tinubu-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-05-30T00:17:50+00:00"
-    },
-    {
-      "title": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-      "published_date": "2026-05-30T00:00:00+00:00"
-    },
-    {
-      "title": "Fujimori maintains an advantage of at least three points over Sánchez nine days before the elections in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/05/fujimori-mantiene-ventaja-de-al-menos-tres-puntos-sobre-sanchez-a-nueve-dias-de-las-elecciones-en-peru/",
-      "published_date": "2026-05-29T23:06:08+00:00"
-    },
-    {
-      "title": "Barbecue restriction due to 2026 presidential elections: these are the municipalities of Colombia that decreed the security measure in the streets",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/restriccion-de-parrillero-por-elecciones-presidenciales-2026-estos-son-los-municipios-de-colombia-que-decretaron-la-medida-de-seguridad-en-las-calles-3559383",
-      "published_date": "2026-05-29T23:05:23+00:00"
-    },
-    {
-      "title": "It’s waste of time to plan coup in Nigeria – Defence minister",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/05/its-waste-of-time-to-plan-coup-in-nigeria-defence-minister/",
-      "published_date": "2026-05-29T20:19:22+00:00"
-    },
-    {
-      "title": "José Guerra after returning from exile: \"Caracas is more expensive than Washington and New York\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/jose-guerra-tras-regresar-del-exilio-caracas-esta-mas-cara-que-washington-y-nueva-york/",
-      "published_date": "2026-05-29T19:27:00+00:00"
-    },
-    {
-      "title": "Will there be a bike lane this Sunday, May 31 in Bogotá for the presidential elections? This is what the IDRD and the Mayor's Office clarified for the day",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/habra-ciclovia-este-domingo-31-de-mayo-en-bogota-por-elecciones-presidenciales-esto-es-lo-que-aclararon-el-idrd-y-la-alcaldia-mayor-para-la-jornada-3559421",
-      "published_date": "2026-05-29T18:44:29+00:00"
-    },
-    {
-      "title": "Colombia receives more than 1,200 international electoral observers to monitor the presidential elections on May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-recibe-mas-de-1-200-observadores-electorales-internacionales-para-vigilar-las-elecciones-presidenciales-del-31-de-mayo-3559433",
-      "published_date": "2026-05-29T18:37:54+00:00"
-    },
-    {
-      "title": "Russia recalls ambassador to Armenia over closer EU ties days before decisive elections",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/2026/05/29/russia-led-eurasian-economic-union-urges-armenian-referendum",
-      "published_date": "2026-05-29T18:21:07+00:00"
-    },
-    {
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "source": "The Guardian World",
-      "country": "Mexico",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
-      "published_date": "2026-05-29T17:33:35+00:00"
-    },
-    {
-      "title": "Fidel Castro's anti-communist daughter hopes the U.S. will bring regime change to Cuba",
-      "source": "CBC News World",
-      "country": "Cuba",
-      "url": "https://www.cbc.ca/radio/asithappens/alina-fernandez-9.7217239?cmp=rss",
-      "published_date": "2026-05-29T17:27:26+00:00"
-    },
-    {
-      "title": "Russia, Belarus, Kazakhstan, and Kyrgyzstan call on Armenia to hold referendum on EU vs. Eurasian Union membership",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/05/29/russia-belarus-kazakhstan-and-kyrgyzstan-call-on-armenia-to-hold-referendum-on-eu-vs-eurasian-union-membership",
-      "published_date": "2026-05-29T16:34:24+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia: know what the card is like and see where your candidate is for this Sunday, May 31",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-conozca-como-es-el-tarjeton-y-vea-en-que-parte-esta-su-candidata-o-candidato-para-este-domingo-31-de-mayo-3559321",
-      "published_date": "2026-05-29T16:32:09+00:00"
-    },
-    {
-      "title": "Iran International: Iranian broadcaster in exile has had debts amounting to millions forgiven",
-      "source": "FAZ Germany",
-      "country": "Iran",
-      "url": "https://www.faz.net/aktuell/politik/ausland/iran-international-schuldenerlass-fuer-den-exilsender-200880372.html",
-      "published_date": "2026-05-29T15:35:24+00:00"
-    },
-    {
-      "title": "Colombia closes its borders starting this Saturday for the elections",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/colombia-cierra-sus-fronteras-desde-este-sabado-por-las-elecciones/",
-      "published_date": "2026-05-29T14:25:41+00:00"
     }
   ]
 }
