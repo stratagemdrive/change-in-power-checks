@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-13T12:30:12.072519+00:00",
-    "story_count": 506,
+    "last_updated": "2026-06-14T00:05:58.798297+00:00",
+    "story_count": 495,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,74 @@
   },
   "stories": [
     {
+      "title": "The Registrar's Office will send 65 delegates to accompany elections abroad: 1.4 million Colombians are authorized to vote",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-enviara-a-65-delegados-para-que-acompanen-elecciones-en-el-exterior-1-4-millones-de-colombianos-estan-habilitados-para-votar-3564161",
+      "published_date": "2026-06-13T22:25:59+00:00"
+    },
+    {
+      "title": "Israeli opposition leader says emerging Iran deal marks Netanyahu failure",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-says-emerging-iran-deal-marks-netanyahu",
+      "published_date": "2026-06-13T21:03:12+00:00"
+    },
+    {
+      "title": "An exiled Russian journalist starts new career as a comedian",
+      "source": "NPR World",
+      "country": "Russia",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5831555/an-exiled-russian-journalist-starts-new-career-as-a-comedian",
+      "published_date": "2026-06-13T21:02:49+00:00"
+    },
+    {
+      "title": "Colombia: guerrilla accused of ordering the murder of journalist Mateo Pérez was captured",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/colombia-capturaron-a-guerrillero-senalado-de-ordenar-el-asesinato-del-periodista-mateo-perez/",
+      "published_date": "2026-06-13T19:08:43+00:00"
+    },
+    {
+      "title": "Colombia 2026 Elections: last minute of the second round between Abelardo de la Espriella and Iván Cepeda this June 21",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
+      "published_date": "2026-06-13T18:32:40+00:00"
+    },
+    {
+      "title": "War in the Middle East: the late Iranian supreme leader Ali Khamenei will be buried on July 9",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-defunt-guide-supreme-iranien-ali-khamenei-sera-inhume-le-9-juillet-20260613",
+      "published_date": "2026-06-13T16:58:08+00:00"
+    },
+    {
+      "title": "Didn't lose in 2024, already won 2029: Rahul Gandhi confident of INDIA bloc win",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/didnt-lose-in-2024-already-won-2029-rahul-gandhi-confident-of-india-bloc-win-101781365733461.html",
+      "published_date": "2026-06-13T16:39:37+00:00"
+    },
+    {
       "title": "Iran’s late supreme leader Ali Khamenei for burial July 9",
       "source": "The Punch Nigeria",
       "country": "Iran",
       "url": "https://punchng.com/irans-late-supreme-leader-ali-khamenei-for-burial-july-9/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-13T13:06:54+00:00"
+    },
+    {
+      "title": "Funeral for slain Iranian supreme leader Khamenei set for July",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3357015/funeral-slain-iranian-supreme-leader-khamenei-set-july?utm_source=rss_feed",
+      "published_date": "2026-06-13T12:35:40+00:00"
+    },
+    {
+      "title": "Iran's former supreme leader Ayatollah Khamenei to be buried on July 9: Report",
+      "source": "Hindustan Times",
+      "country": "Iran",
+      "url": "https://www.hindustantimes.com/india-news/irans-former-supreme-leader-ayatollah-khamenei-to-be-buried-on-july-9-report-101781348444230.html",
+      "published_date": "2026-06-13T12:23:17+00:00"
     },
     {
       "title": "Iran says funeral for Supreme Leader Khamenei will begin on July 4 amid peace deal rumours",
@@ -121,13 +184,6 @@
       "country": "Peru",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260613-pr%C3%A9sidentielle-au-p%C3%A9rou-le-candidat-de-gauche-roberto-s%C3%A1nchez-propose-un-recomptage-des-votes",
       "published_date": "2026-06-13T09:24:29+00:00"
-    },
-    {
-      "title": "Colombia 2026 Elections: last minute of the second round between Abelardo de la Espriella and Iván Cepeda this June 21",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
-      "published_date": "2026-06-13T08:11:19+00:00"
     },
     {
       "title": "Myanmar’s junta says everything’s back to normal. Yangon clubbers don’t believe it’s true",
@@ -3467,139 +3523,6 @@
       "country": "Venezuela",
       "url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-05-31T00:11:00+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: WestCol's interview with Abelardo de la Espriella begins; the topics that could mark the conversation",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-falta-un-dia-para-la-apertura-de-puestos-de-votacion-asi-avanza-el-panorama-previo-a-la-jornada-electoral-3559600",
-      "published_date": "2026-05-30T23:30:57+00:00"
-    },
-    {
-      "title": "Practical guide to voting this Sunday, May 31 in the presidential elections in Colombia: alphabet with data and restrictions of the day",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/guia-practica-para-votar-este-domingo-31-de-mayo-en-las-elecciones-presidenciales-en-colombia-abece-con-datos-y-restricciones-de-la-jornada-3559678",
-      "published_date": "2026-05-30T22:07:06+00:00"
-    },
-    {
-      "title": "Practical guide to voting on Sunday, May 31 in the presidential elections in Colombia: alphabet with data and restrictions of the day",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/guia-practica-para-votar-el-domingo-31-de-mayo-en-las-elecciones-presidenciales-en-colombia-abece-con-datos-y-restricciones-de-la-jornada-3559679",
-      "published_date": "2026-05-30T22:02:17+00:00"
-    },
-    {
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T20:40:07+00:00"
-    },
-    {
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow - BBC",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjU1NkNklqZVl1UDdmLWdZZl9VZTdfb1c1SE5QUkJfZ0xIM2VJUmk0OEFUUk8yUE5Zb20yRFNBNmtjS0hhempDMmVfbTlKOGl5SnIyTU9hWmlkdw?oc=5",
-      "published_date": "2026-05-30T20:40:07+00:00"
-    },
-    {
-      "title": "Colombia Elections 2026 | \"It is the decision of whether the country wants to regain the rhythm of freedom again.\"",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/elecciones-colombia-2026-es-la-decision-de-si-el-pais-quiere-otra-vez-recuperar-el-ritmo-de-la-libertad/",
-      "published_date": "2026-05-30T19:46:37+00:00"
-    },
-    {
-      "title": "Can you be sanctioned for not going to vote in the Colombian presidential elections? These are the benefits that those who do not vote lose.",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/le-pueden-sancionar-por-no-ir-a-votar-en-las-elecciones-presidenciales-de-colombia-estos-son-los-beneficios-que-pierde-quien-no-ejerce-el-sufragio-3559661",
-      "published_date": "2026-05-30T19:31:49+00:00"
-    },
-    {
-      "title": "Gustavo Petro defended his management but pointed out that Sunday's elections will define \"the real future of Colombia\"",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/gustavo-petro-defendio-su-gestion-pero-senalo-que-elecciones-del-domingo-definiran-el-futuro-real-de-colombia/",
-      "published_date": "2026-05-30T19:12:14+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia: international audit endorses technological systems amid noise about software",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-auditoria-internacional-avala-sistemas-tecnologicos-en-medio-de-ruido-sobre-el-software-3559641",
-      "published_date": "2026-05-30T17:54:16+00:00"
-    },
-    {
-      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-will-face-setback-in-2028-assembly-elections-former-bjp-mla-narasimha-naik/article71041874.ece",
-      "published_date": "2026-05-30T17:43:10+00:00"
-    },
-    {
-      "title": "Government of Colombia accuses Ecuador of “interference” in presidential elections due to the announcement of tariffs",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/gobierno-de-colombia-acusa-injerencia-de-noboa-en-elecciones-y-afirma-que-fin-de-aranceles-es-por-orden-de-can/",
-      "published_date": "2026-05-30T17:39:32+00:00"
-    },
-    {
-      "title": "Edmundo González raises the conditions for the repetition of the presidential elections in Venezuela",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/edmundo-gonzalez-plantea-las-condiciones-para-la-repeticion-de-las-elecciones-presidenciales-en-venezuela/",
-      "published_date": "2026-05-30T17:30:00+00:00"
-    },
-    {
-      "title": "Edmundo González advocates for presidential elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/edmundo-gonzalez-aboga-por-elecciones-presidenciales-en-venezuela/",
-      "published_date": "2026-05-30T17:17:07+00:00"
-    },
-    {
-      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-30T16:21:52+00:00"
-    },
-    {
-      "title": "Elections 2026 in Colombia: this happens if a voting jury leaves their table before finishing the counting and counting",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-en-colombia-esto-pasa-si-un-jurado-de-votacion-abandona-su-mesa-antes-de-terminar-el-conteo-y-el-escrutinio-3559622",
-      "published_date": "2026-05-30T15:48:42+00:00"
-    },
-    {
-      "title": "Ousted Turkish opposition leader draws massive anti-Erdogan crowd in Ankara - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BVHFQSlJpdkZEeHIySmk1MkRzMHNIdENuOEpZN2p0UVlXeTk2dXRTcE52V09XMlpOMjBzcUxqWEVkTm14RmI5RGVySDZqSU5jLVZ2RnYzV1BLZzEw?oc=5",
-      "published_date": "2026-05-30T15:33:53+00:00"
-    },
-    {
-      "title": "Tens of thousands march in support of Turkey’s deposed opposition leader - AP News",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVZkT1A2cjc0ZXNlYUk0YVJ3TFpjbGtzTHAzb0EwMlB4RVZBZmM3YzFHdVVGNUM4em1DNFlpZzhRQWFGNF9GVjh2cnRYMUpaczkzcHhRVmFqaTlwbVJZUWNNbHhNVVZEdzZmNWNPYkFsR01VbzFwN1lSd0VCT0FHWDJWSWpBdzlJM2FKQ0gySDdzejlPUTctRE5NMjloTi1J?oc=5",
-      "published_date": "2026-05-30T14:07:00+00:00"
-    },
-    {
-      "title": "Turkey enters political unknown after police raid opposition party headquarters",
-      "source": "RFI English",
-      "country": "Turkey",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260530-turkey-enters-political-unknown-after-police-raid-opposition-party-headquarters",
-      "published_date": "2026-05-30T13:30:14+00:00"
-    },
-    {
-      "title": "Russian disinformation: in Armenia, elections under pressure",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260530-d%C3%A9sinformation-russe-en-arm%C3%A9nie-des-%C3%A9lections-sous-pression",
-      "published_date": "2026-05-30T12:51:23+00:00"
     }
   ]
 }
