@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-14T00:05:58.798297+00:00",
-    "story_count": 495,
+    "last_updated": "2026-06-14T13:04:19.093658+00:00",
+    "story_count": 483,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran sets funeral, burial dates for late Supreme Leader Ali Khamenei",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/iran-supreme-leader-ali-khamenei-funeral-timeline-july-10739061/",
+      "published_date": "2026-06-14T12:04:07+00:00"
+    },
+    {
+      "title": "Russian opposition party-congress in Berlin: Fear that Yashin might become a \"Mini-Putin\"",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/06/14/russian-opposition-party-congress-in-berlin-fear-that-yashin-might-become-a-mini-putin",
+      "published_date": "2026-06-14T11:25:18+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: the candidate of the hard right, Abelardo de la Espriella, given as favorite",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260614-pr%C3%A9sidentielle-en-colombie-le-candidat-de-la-droite-dure-donn%C3%A9-favori-dans-les-sondages",
+      "published_date": "2026-06-14T10:40:54+00:00"
+    },
+    {
+      "title": "Trump's coup against the leader of the Aragua Train and his links with Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/mundo/noticia/el-golpe-de-trump-contra-el-lider-del-tren-de-aragua-y-sus-vinculos-con-chile/",
+      "published_date": "2026-06-14T10:00:00+00:00"
+    },
+    {
+      "title": "NDA inches towards two-thirds majority in Rajya Sabha; short in Lok Sabha despite TMC rebellion",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/nda-inches-towards-two-thirds-majority-in-rajya-sabha-short-in-lok-sabha-despite-tmc-rebellion/article71100755.ece",
+      "published_date": "2026-06-14T09:49:59+00:00"
+    },
+    {
+      "title": "The burden of choice: Nigerian voters and the 2027 elections, By Mukhtar Ya’u Madobi",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/opinion/887546-the-burden-of-choice-nigerian-voters-and-the-2027-elections-by-mukhtar-yau-madobi.html",
+      "published_date": "2026-06-14T09:25:19+00:00"
+    },
+    {
+      "title": "Could India’s viral Cockroach Janta Party spark South Asia’s next youth uprising?",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/week-asia/politics/article/3356962/could-indias-viral-cockroach-janta-party-spark-south-asias-next-youth-uprising?utm_source=rss_feed",
+      "published_date": "2026-06-14T08:00:16+00:00"
+    },
+    {
+      "title": "Japan eyes responsibility of social media users during elections",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/social-media-users-elections/",
+      "published_date": "2026-06-14T02:51:00+00:00"
+    },
+    {
+      "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections?utm_source=rss_feed",
+      "published_date": "2026-06-14T02:00:08+00:00"
+    },
     {
       "title": "The Registrar's Office will send 65 delegates to accompany elections abroad: 1.4 million Colombians are authorized to vote",
       "source": "El Tiempo Colombia",
@@ -559,7 +622,7 @@
     {
       "title": "What should Armenia expect from an unhappy Russia after the elections?",
       "source": "OC Media Caucasus",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
       "published_date": "2026-06-11T13:28:15+00:00"
     },
@@ -3376,153 +3439,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election",
       "published_date": "2026-05-31T13:24:37+00:00"
-    },
-    {
-      "title": "Massive marches in Peru against Keiko Fujimori one week before the elections",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/masivas-marchas-en-peru-contra-keiko-fujimori-a-una-semana-de-las-elecciones/",
-      "published_date": "2026-05-31T12:25:31+00:00"
-    },
-    {
-      "title": "Colombia right-wing candidate De La Espriella, leftist Cepeda set for presidential run-off",
-      "source": "South China Morning Post",
-      "country": "Colombia",
-      "url": "https://www.scmp.com/news/world/americas/article/3355473/colombian-voters-weigh-economic-reforms-against-right-wing-crackdown?utm_source=rss_feed",
-      "published_date": "2026-05-31T12:06:24+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: Police deployed more than 11 thousand uniformed personnel in Bogotá to guard voting stations",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-desde-las-8-00-a-m-los-puestos-de-votacion-estaran-habilitados-para-elegir-al-proximo-presidente-3559724",
-      "published_date": "2026-05-31T11:52:10+00:00"
-    },
-    {
-      "title": "Marcos Velazco, member of Vente Venezuela, returned to the country after a year in exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/marcos-velazco-miembro-de-vente-venezuela-regreso-al-pais-tras-un-ano-en-el-exilio/",
-      "published_date": "2026-05-31T11:36:22+00:00"
-    },
-    {
-      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections",
-      "published_date": "2026-05-31T11:30:02+00:00"
-    },
-    {
-      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
-      "published_date": "2026-05-31T11:23:36+00:00"
-    },
-    {
-      "title": "AFU denies reports of Russians having 'captured’ Riasne in Sumy region",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4129046-afu-denies-reports-of-russians-having-captured-riasne-in-sumy-region.html",
-      "published_date": "2026-05-31T10:16:00+00:00"
-    },
-    {
-      "title": "Armenia prepares for legislative elections that will determine its sovereignty",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260531-armenie-face-a-des-elections-legislatives-determinantes-pour-sa-souverainete-russie-nikol-pachinian",
-      "published_date": "2026-05-31T09:58:34+00:00"
-    },
-    {
-      "title": "Colombia votes in presidential election pitting Petro allies against pro-Trump candidates",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
-      "published_date": "2026-05-31T09:53:34+00:00"
-    },
-    {
-      "title": "Drone Hits Captured Nuclear Plant in Ukraine – IAEA",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
-      "published_date": "2026-05-31T09:47:07+00:00"
-    },
-    {
-      "title": "Experts Explain | Can Election Commission decide who is an Indian citizen? What Supreme Court said in SIR verdict",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-eci-special-intensive-revision-sir-citizenship-10716723/",
-      "published_date": "2026-05-31T08:33:49+00:00"
-    },
-    {
-      "title": "Before the election on June 7th: Putin increases the pressure on Armenia",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/inland/vor-parlamentswahl-russlands-druck-auf-armenien-waechst-accg-200883308.html",
-      "published_date": "2026-05-31T07:41:14+00:00"
-    },
-    {
-      "title": "The government projects behind the favorites for the elections in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/los-proyectos-de-gobierno-tras-los-favoritos-para-las-elecciones-en-colombia/",
-      "published_date": "2026-05-31T07:21:11+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: the legacy of Gustavo Petro, the first left-wing president, at stake",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/05/31/election-presidentielle-en-colombie-l-heritage-de-gustavo-petro-premier-president-de-gauche-en-jeu_6695558_3210.html",
-      "published_date": "2026-05-31T07:00:08+00:00"
-    },
-    {
-      "title": "Senator Bernie Moreno sent a message to Colombians for these presidential elections: 'The decisions you make will have great historical weight'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-bernie-moreno-envio-mensaje-a-los-colombianos-para-estas-elecciones-presidenciales-las-decisiones-que-tomen-tendran-un-gran-peso-historico-3559722",
-      "published_date": "2026-05-31T06:31:01+00:00"
-    },
-    {
-      "title": "Pashinyan on course for landslide victory and pro-West mandate in Armenia election, new poll shows",
-      "source": "Euronews",
-      "country": "Armenia",
-      "url": "http://www.euronews.com/2026/05/31/pashinyan-on-course-for-landslide-victory-and-pro-west-mandate-in-armenia-election-new-pol",
-      "published_date": "2026-05-31T06:00:01+00:00"
-    },
-    {
-      "title": "Pashinyan on course for landslide win in Armenia vote, new poll shows - Euronews.com",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFVWRjlaYnEwOE0zSnJIRGxMTm01TFV5STljXzJscTVzVzRyYjBKMHZfdTMtSnZUQ2xfSm9sNXdReDJYZDZRY3E2U19jQ3VZY001YlpENWJra3d2dEpkYXJQQU9jZms5dk9nRnh4WnhRTkJnMDZCUWt0cGRSdkE0UXdDd0hCUGJLUFNpV2hVUVNsUEJ1b0JsQWZJLURQZXBPM2NoZVJaUWQtNXMxaXl4UWlHaXZMZmtEY3ppVkkyM01nd2lj?oc=5",
-      "published_date": "2026-05-31T06:00:01+00:00"
-    },
-    {
-      "title": "What is Plan B? NATO is shaken, and Denmark's new government must find new answers",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/internationalt/art10862239/Hvad-er-Plan-B-Nato-er-rystet-og-Danmarks-nye-regering-skal-finde-nye-svar",
-      "published_date": "2026-05-31T05:04:05+00:00"
-    },
-    {
-      "title": "What is a support keychain in the Colombian presidential elections and what is its role in the security of electoral material",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/que-es-un-clavero-de-apoyo-en-las-elecciones-presidenciales-de-colombia-y-cual-es-su-papel-en-la-seguridad-del-material-electoral-3559720",
-      "published_date": "2026-05-31T04:33:37+00:00"
-    },
-    {
-      "title": "Colombia is ready to vote in a momentous election",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-esta-lista-para-votar-en-unas-elecciones-trascendentales-3559675",
-      "published_date": "2026-05-31T03:01:00+00:00"
-    },
-    {
-      "title": "Venezuela opposition candidate Gonzalez urges new elections",
-      "source": "Deutsche Welle English",
-      "country": "Venezuela",
-      "url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-05-31T00:11:00+00:00"
     }
   ]
 }
