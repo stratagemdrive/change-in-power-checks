@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-14T13:04:19.093658+00:00",
-    "story_count": 483,
+    "last_updated": "2026-06-15T00:09:19.701328+00:00",
+    "story_count": 462,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,34 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "They captured a man accused of sexual abuse against a minor in the north of Bogotá",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/capturaron-a-hombre-acusado-de-abuso-sexual-contra-un-menor-en-el-norte-de-bogota/",
+      "published_date": "2026-06-14T23:27:34+00:00"
+    },
+    {
+      "title": "Abbas issues decree to call Palestinian presidential elections in 2027",
+      "source": "La Tercera Chile",
+      "country": "Palestine",
+      "url": "https://www.latercera.com/mundo/noticia/abbas-promulga-decreto-para-convocar-a-elecciones-presidenciales-palestinas-en-2027/",
+      "published_date": "2026-06-14T23:26:44+00:00"
+    },
+    {
+      "title": "Palestinian Authority to hold presidential elections in 2027, Mahmoud Abbas says",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-899398",
+      "published_date": "2026-06-14T22:36:08+00:00"
+    },
+    {
+      "title": "The homeless Right: Likud's biggest gamble in upcoming elections  - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899372",
+      "published_date": "2026-06-14T17:30:23+00:00"
+    },
     {
       "title": "Iran sets funeral, burial dates for late Supreme Leader Ali Khamenei",
       "source": "Indian Express",
@@ -622,7 +650,7 @@
     {
       "title": "What should Armenia expect from an unhappy Russia after the elections?",
       "source": "OC Media Caucasus",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
       "published_date": "2026-06-11T13:28:15+00:00"
     },
@@ -3264,181 +3292,6 @@
       "country": "Peru",
       "url": "https://www.latercera.com/mundo/noticia/peru-cual-es-el-panorama-a-una-semana-del-balotaje-entre-fujimori-y-sanchez/",
       "published_date": "2026-06-01T00:30:00+00:00"
-    },
-    {
-      "title": "Why is there a second round of presidential elections in Colombia and who invented it?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/por-que-se-hace-segunda-vuelta-de-las-elecciones-presidenciales-en-colombia-y-quien-la-invento-3560957",
-      "published_date": "2026-05-31T23:56:24+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia, live: Abelardo de la Espriella will seek the presidency against Iván Cepeda in the runoff",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-presidenciales-en-colombia-en-vivo-votaron-los-candidatos-la-jornada-electoral-transcurre-nid31052026/",
-      "published_date": "2026-05-31T23:04:07+00:00"
-    },
-    {
-      "title": "Surprise in Colombia: De la Espriella wins first round and will contest the runoff with Cepeda",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/sorpresa-en-colombia-de-la-espriella-gana-primera-vuelta-y-disputara-balotaje-con-cepeda/",
-      "published_date": "2026-05-31T23:03:44+00:00"
-    },
-    {
-      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-31T23:02:53+00:00"
-    },
-    {
-      "title": "Pro-Trump candidate Abelardo de la Espriella leads presidential election in Colombia",
-      "source": "CiberCuba",
-      "country": "Colombia",
-      "url": "https://www.cibercuba.com/noticias/2026-06-01-u1-e135253-s27061-nid330825-candidato-pro-trump-abelardo-espriella-lidera",
-      "published_date": "2026-05-31T22:55:21+00:00"
-    },
-    {
-      "title": "European leaders urge Israel to step down in Lebanon",
-      "source": "DR News Denmark",
-      "country": "Israel",
-      "url": "https://www.dr.dk/nyheder/seneste/europaeiske-ledere-opfordrer-israel-til-nedtrapning-i-libanon",
-      "published_date": "2026-05-31T22:50:58+00:00"
-    },
-    {
-      "title": "They criticize Petro for displaying his marked ballot in the first round of the elections in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/critican-a-petro-por-exhibir-su-papeleta-marcada-en-la-primera-vuelta-de-las-elecciones-en-colombia/",
-      "published_date": "2026-05-31T21:23:04+00:00"
-    },
-    {
-      "title": "Iranian President Pezeshkian offers resignation to Supreme Leader Khamenei - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-897917",
-      "published_date": "2026-05-31T21:16:36+00:00"
-    },
-    {
-      "title": "Polls close in Colombia presidential election that may reshape relations with US",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T21:08:21+00:00"
-    },
-    {
-      "title": "Polls close in Colombia presidential election that may reshape relations with US - BBC",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcU9MS2FfUVlRTklsYXdEN0JqNlZEV1E5T2xzQzNuSDlDTXNGYWRQOTVJOE1Qd3ctMDY4aWxpeWJrOWJQY2tWVTM1aGxGRTNGektnQU5od3hPQQ?oc=5",
-      "published_date": "2026-05-31T21:08:21+00:00"
-    },
-    {
-      "title": "Colombian presidential election live: De la Espriella and Cepeda will face each other in the second round",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260531-pr%C3%A9sidentielle-en-colombie-suivez-en-direct-le-premier-tour",
-      "published_date": "2026-05-31T20:26:32+00:00"
-    },
-    {
-      "title": "Colombia to hold presidential runoff: De la Espriella vs. Cepeda",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round",
-      "published_date": "2026-05-31T20:25:41+00:00"
-    },
-    {
-      "title": "Colombian presidential vote headed to run-off between pro-Trump, leftist rivals",
-      "source": "CBC News World",
-      "country": "Colombia",
-      "url": "https://www.cbc.ca/news/world/colombia-presidential-vote-runoff-9.7218622?cmp=rss",
-      "published_date": "2026-05-31T19:39:28+00:00"
-    },
-    {
-      "title": "Colombia's election: Meeting the Presidential contenders",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260531-colombia-s-election-meeting-the-presidential-contenders",
-      "published_date": "2026-05-31T19:07:35+00:00"
-    },
-    {
-      "title": "Polls open in Colombia’s pivotal presidential election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-31T18:23:39+00:00"
-    },
-    {
-      "title": "Colombia reaches elections with 80 municipalities at maximum risk due to pressure from armed groups",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/colombia-llega-a-comicios-con-80-municipios-en-riesgo-maximo-por-presion-de-grupos-armados/",
-      "published_date": "2026-05-31T18:09:00+00:00"
-    },
-    {
-      "title": "Exiled politicians and human rights activists return to Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/la-humanidad/politicos-y-activistas-de-derechos-humanos-exiliados-regresan-a-venezuela/",
-      "published_date": "2026-05-31T17:54:35+00:00"
-    },
-    {
-      "title": "Colombians head to the polls to choose President Gustavo Petro’s successor",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss",
-      "published_date": "2026-05-31T15:58:50+00:00"
-    },
-    {
-      "title": "Reconstruction of the Electoral Registry: one of the main challenges facing new elections in Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/registro-electoral-principales-retos-nuevas-elecciones/",
-      "published_date": "2026-05-31T15:38:32+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: voters begin to vote amid surge in violence",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/05/31/presidentielle-en-colombie-les-electeurs-commencent-a-voter-sur-fond-de-flambee-des-violences_6695593_3210.html",
-      "published_date": "2026-05-31T15:08:32+00:00"
-    },
-    {
-      "title": "Right-wing Fujimori holds narrow lead one week before Peru presidential runoff, polls show - Reuters",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0hRYTRLa1hkUEt2TGhMZlZGQk40djJMM1JsdHgtV2EzVHo1SU1WM2UyQlBZS3lQZy1qVndYc2t0RkJ6d1pPd29yLUs0LVBWcTRxUWF6cHV1MDVpNTJPNWdIVUNVajZaSW9qZlRKaDRhMVJGeTlKOHJfTDgyQ2sxT0pvdFpvVl9oY3pVODVBQ3Y0ZjN6eVFkSXlrUUVFaXI0Q2pFTUwwZzVKWVpTU3R0RU1vanBRck9uRVkwZndwVDZ3RC1telpVQg?oc=5",
-      "published_date": "2026-05-31T14:37:50+00:00"
-    },
-    {
-      "title": "Beaufort Fortress Captured: A Strategic Success for Israel in South Lebanon",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-erobert-wichtige-kreuzfahrerburg-in-libanon-accg-200884104.html",
-      "published_date": "2026-05-31T14:03:50+00:00"
-    },
-    {
-      "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
-      "published_date": "2026-05-31T14:00:43+00:00"
-    },
-    {
-      "title": "Colombia reinforces security for elections: 400 thousand uniformed personnel deployed among the more than a thousand voting centers",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/colombia-refuerza-seguridad-por-elecciones-400-mil-uniformados-desplegados-entre-los-mas-de-mil-centros-de-votacion/",
-      "published_date": "2026-05-31T13:50:39+00:00"
-    },
-    {
-      "title": "How to handle armed groups? Colombians vote in presidential election",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election",
-      "published_date": "2026-05-31T13:24:37+00:00"
     }
   ]
 }
