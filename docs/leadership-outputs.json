@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-15T00:09:19.701328+00:00",
-    "story_count": 462,
+    "last_updated": "2026-06-15T16:23:21.380427+00:00",
+    "story_count": 444,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israeli, anti-regime Iranian marchers forced out of Bologna Pride amid 'Zionists out' chants",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-899507",
+      "published_date": "2026-06-15T18:42:04+00:00"
+    },
+    {
+      "title": "Knesset's election of Rabello as comptroller conducted unlawfully, retired justice tells high court",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899491",
+      "published_date": "2026-06-15T16:15:50+00:00"
+    },
+    {
+      "title": "Israeli opposition leader accuses Netanyahu of “losing the war” and “collapsing at the moment of truth”",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/el-lider-de-la-oposicion-israeli-acusa-a-netanyahu-de-perder-la-guerra-y-colapsar-en-el-momento-de-la-verdad/",
+      "published_date": "2026-06-15T16:03:45+00:00"
+    },
+    {
+      "title": "Palestinian leader Abbas announces presidential election in early 2027",
+      "source": "Vanguard Nigeria",
+      "country": "Palestine",
+      "url": "https://www.vanguardngr.com/2026/06/palestinian-leader-abbas-announces-presidential-election-in-early-2027/",
+      "published_date": "2026-06-15T15:55:41+00:00"
+    },
+    {
+      "title": "NDA inches towards two-thirds majority in Rajya Sabha; short in Lok Sabha despite TMC rebellion",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/nda-inches-towards-two-thirds-majority-in-rajya-sabha-short-in-lok-sabha-despite-tmc-rebellion/article71100755.ece",
+      "published_date": "2026-06-15T15:44:50+00:00"
+    },
+    {
+      "title": "Kassio will invite the European Union to monitor elections in Brazil",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/kassio-vai-convidar-uniao-europeia-para-acompanhar-eleicoes-no-brasil.shtml",
+      "published_date": "2026-06-15T15:00:00+00:00"
+    },
+    {
+      "title": "Three months before the legislative elections, Istiqlal articulates its “political contract” in five commitments",
+      "source": "Le Desk Morocco",
+      "country": "Morocco",
+      "url": "https://ledesk.ma/2026/06/15/a-trois-mois-des-legislatives-listiqlal-articule-son-contrat-politique-en-cinq-engagements/",
+      "published_date": "2026-06-15T14:59:50+00:00"
+    },
+    {
+      "title": "MFA of Ukraine says request to recall Ambassador to Cyprus submitted before his announced resignation",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134047-mfa-of-ukraine-says-request-to-recall-ambassador-to-cyprus-submitted-before-his-announced-resignation.html",
+      "published_date": "2026-06-15T14:27:00+00:00"
+    },
+    {
+      "title": "Armenian opposition groups hinted at ‘further escalation’ as final election results announced",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-groups-hinted-at-of-further-escalation-as-final-election-results-announced/",
+      "published_date": "2026-06-15T13:59:41+00:00"
+    },
+    {
+      "title": "Elections in Peru and crisis in Bolivia: political and social keys",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/lt-board/noticia/elecciones-en-peru-y-crisis-en-bolivia-claves-politicas-y-sociales/",
+      "published_date": "2026-06-15T11:29:49+00:00"
+    },
+    {
+      "title": "Myanmar junta chief arrives in China to boost trade ties",
+      "source": "Myanmar Now",
+      "country": "China",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-arrives-in-china-to-boost-trade-ties/",
+      "published_date": "2026-06-15T07:48:48+00:00"
+    },
+    {
+      "title": "‘Trump’s agreement doesn’t bind us’: Israel Minister defies US-Iran deal, vows no withdrawal from captured Lebanon territory",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/trumps-agreement-israel-minister-us-iran-deal-lebanon-ben-gvir-10740161/",
+      "published_date": "2026-06-15T07:11:02+00:00"
+    },
     {
       "title": "They captured a man accused of sexual abuse against a minor in the north of Bogotá",
       "source": "El Nacional Venezuela",
@@ -79,6 +163,13 @@
       "country": "Palestine",
       "url": "https://www.jpost.com/middle-east/article-899398",
       "published_date": "2026-06-14T22:36:08+00:00"
+    },
+    {
+      "title": "Armenia releases final election results as pro-Russian opposition demands new vote - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Armenia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEc1cnZ0WWJMTTlfaFZ0WmxLODZ4YldSSDZTY3pjUGpjZEtIbXltVTFycjUweFVsQ1lQUkVMaC1zYnNCcU1qbjI2b2ZvUmVHWG9aTmtYQzB1OTIzQm9ILTlhOUZwelBpQWhqaEhXejE0cmdNMHluQXVLX0ZWcnYyS2VTMkc1bjVPb3dQcTBJMDhvbDlFRzBXd2w0ampCeWd6RkhCNHRETUVpRVhfMlozUA?oc=5",
+      "published_date": "2026-06-14T21:00:42+00:00"
     },
     {
       "title": "The homeless Right: Likud's biggest gamble in upcoming elections  - analysis",
@@ -114,13 +205,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/mundo/noticia/el-golpe-de-trump-contra-el-lider-del-tren-de-aragua-y-sus-vinculos-con-chile/",
       "published_date": "2026-06-14T10:00:00+00:00"
-    },
-    {
-      "title": "NDA inches towards two-thirds majority in Rajya Sabha; short in Lok Sabha despite TMC rebellion",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/nda-inches-towards-two-thirds-majority-in-rajya-sabha-short-in-lok-sabha-despite-tmc-rebellion/article71100755.ece",
-      "published_date": "2026-06-14T09:49:59+00:00"
     },
     {
       "title": "The burden of choice: Nigerian voters and the 2027 elections, By Mukhtar Ya’u Madobi",
@@ -293,7 +377,7 @@
     {
       "title": "Armenia election result revives hopes of reopening border with Turkey",
       "source": "RFI English",
-      "country": "Turkey",
+      "country": "Armenia",
       "url": "https://www.rfi.fr/en/podcasts/international-report/20260613-armenia-election-result-revives-hopes-of-reopening-border-with-turkey",
       "published_date": "2026-06-13T05:24:42+00:00"
     },
@@ -3082,216 +3166,6 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-ato/4129434-air-defense-strengthening-combat-brigades-frontline-positions-zelensky-holds-supreme-commanders-staff-meeting.html",
       "published_date": "2026-06-01T16:38:00+00:00"
-    },
-    {
-      "title": "Results in Colombia: who won the 2026 Elections for president",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/resultados-en-colombia-quien-va-ganando-las-elecciones-2026-para-presidente-nid31052026/",
-      "published_date": "2026-06-01T16:04:27+00:00"
-    },
-    {
-      "title": "Who won the elections for president in Colombia 2026",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-para-presidente-en-colombia-2026-nid31052026/",
-      "published_date": "2026-06-01T16:03:58+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: European Union and international observation missions highlight transparency of the day and work of the Registry",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/resultados-de-las-elecciones-en-colombia-union-europea-descarta-fraude-y-califica-la-jornada-de-transparente-y-garantista-3561119",
-      "published_date": "2026-06-01T15:25:00+00:00"
-    },
-    {
-      "title": "Fujimori and Sánchez clashed in a key debate and reach the runoff with an open stage in Peru",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/fujimori-y-sanchez-chocaron-en-un-debate-clave-y-llegan-al-balotaje-en-medio-de-un-escenario-abierto-nid01062026/",
-      "published_date": "2026-06-01T15:12:35+00:00"
-    },
-    {
-      "title": "APM chieftain Ajadi blames Tinubu for worsening insecurity, demands resignation",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/884352-apm-chieftain-ajadi-blames-tinubu-for-worsening-insecurity-demands-resignation.html",
-      "published_date": "2026-06-01T14:39:05+00:00"
-    },
-    {
-      "title": "Power struggle in Iran – the president threatens to resign",
-      "source": "Politiken Denmark",
-      "country": "Iran",
-      "url": "https://politiken.dk/internationalt/art10863979/Magtkamp-i-Iran-%E2%80%93-pr%C3%A6sidenten-truer-med-at-g%C3%A5-af",
-      "published_date": "2026-06-01T13:41:30+00:00"
-    },
-    {
-      "title": "The overlooked conflict: The civil war pushing South Sudan to the brink",
-      "source": "Indian Express",
-      "country": "Sudan",
-      "url": "https://indianexpress.com/article/explained/explained-global/the-civil-war-pushing-south-sudan-to-the-brink-indian-peacekeepers-10718767/",
-      "published_date": "2026-06-01T13:38:20+00:00"
-    },
-    {
-      "title": "Pashinyan Rejects Referendum on Armenia’s EU vs Eurasian Union Future - Kyiv Post",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeWxXM0JYSHFlV2gzTmIwakxiNUxTRHQ0aW1heXNVM1Bqd3J5YUF5eGhzZ2lYMmVMZHpleUdhYlZuUmZZQThDdkd3TQ?oc=5",
-      "published_date": "2026-06-01T12:15:56+00:00"
-    },
-    {
-      "title": "Before the election in Armenia: Moscow is working against peace",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-russland-sabotiert-den-frieden-200884621.html",
-      "published_date": "2026-06-01T12:13:41+00:00"
-    },
-    {
-      "title": "Before the election in Armenia: Moscow is working against peace",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-vor-parlamentswahl-russland-arbeitet-gegen-den-frieden-200884621.html",
-      "published_date": "2026-06-01T12:13:41+00:00"
-    },
-    {
-      "title": "Cepeda invites De la Espriella to compete in a “political and electoral debate” ahead of the runoff in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/cepeda-invita-a-de-la-espriella-a-medirse-en-un-debate-politico-y-electoral-de-cara-al-balotaje-en-colombia/",
-      "published_date": "2026-06-01T12:11:47+00:00"
-    },
-    {
-      "title": "Knesset panel advances dissolution bill ahead of first reading, debates date election date",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897969",
-      "published_date": "2026-06-01T11:39:52+00:00"
-    },
-    {
-      "title": "New president of Fedetur: “Chile has not taken tourism opportunities seriously”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/nueva-presidenta-de-fedetur-chile-no-se-ha-tomado-en-serio-las-oportunidades-del-turismo/",
-      "published_date": "2026-06-01T11:30:00+00:00"
-    },
-    {
-      "title": "Today, Denmark's first untouched forest where chainsaws are not welcome is inaugurated",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/i-dag-indvies-danmarks-foerste-uroerte-skov-hvor-motorsaven-ikke-er-velkommen",
-      "published_date": "2026-06-01T11:07:30+00:00"
-    },
-    {
-      "title": "Can Taiwanese opposition leader pull off balancing act during US trip?",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3355544/can-taiwanese-opposition-leader-pull-balancing-act-during-us-trip?utm_source=rss_feed",
-      "published_date": "2026-06-01T11:00:07+00:00"
-    },
-    {
-      "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
-      "published_date": "2026-06-01T10:58:07+00:00"
-    },
-    {
-      "title": "Russia recalls ambassador to Armenia ahead of elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/russia-recalls-ambassador-to-armenia-ahead-of-elections/",
-      "published_date": "2026-06-01T10:46:41+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella was the most voted in the Colombian elections abroad",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/abelardo-de-la-espriella-fue-el-mas-votado-en-elecciones-colombianas-en-el-exterior/",
-      "published_date": "2026-06-01T10:40:15+00:00"
-    },
-    {
-      "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
-      "published_date": "2026-06-01T10:35:40+00:00"
-    },
-    {
-      "title": "ECI announces schedule for Rajya Sabha, state legislative councils elections; polling on June 18",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/election-commission-announces-schedule-for-elections-in-rajya-sabha-state-legislative-councils-polling-on-june-18-101780309117113.html",
-      "published_date": "2026-06-01T10:20:30+00:00"
-    },
-    {
-      "title": "Taiwan’s opposition leader eyes historic Trump meeting after president’s Xi Jinping summit",
-      "source": "The Independent UK",
-      "country": "Taiwan",
-      "url": "https://www.independent.co.uk/asia/china/taiwan-opposition-leader-trump-meeting-b2987002.html",
-      "published_date": "2026-06-01T08:34:48+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader would be ’very willing’ to meet Trump on U.S. trip",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/news/2026/06/01/asia-pacific/politics/taiwan-kmt-leader-us-trip/",
-      "published_date": "2026-06-01T08:20:00+00:00"
-    },
-    {
-      "title": "Cockroach party’s Abhijeet Dipke to return to India, demand Dharmendra Pradhan’s resignation",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/cjp-founder-abhijeet-dipke-to-return-to-india-on-june-6-launch-protest-seeking-dharmendra-pradhans-resignation-10717982/",
-      "published_date": "2026-06-01T08:16:30+00:00"
-    },
-    {
-      "title": "CJP founder to return to India, announces June 6 protest for education minister’s resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/cjp-founder-abhijeet-dipke-to-return-from-us-to-protest-in-delhi-jantar-mantar-on-june-6-for-edu-minister-resignation-101780300679097.html",
-      "published_date": "2026-06-01T08:11:51+00:00"
-    },
-    {
-      "title": "Keiko Fujimori and Roberto Sánchez star in the last presidential debate before the Peruvian runoff",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-y-roberto-sanchez-protagonizan-ultimo-debate-presidencial-antes-de-las-elecciones-peruanas/",
-      "published_date": "2026-06-01T05:45:27+00:00"
-    },
-    {
-      "title": "Petro does not recognize elections in Colombia: “As president I do not accept the results of the pre-count”",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/petro-no-reconoce-elecciones-en-colombia-como-presidente-no-acepto-los-resultados-del-preconteo/",
-      "published_date": "2026-06-01T01:55:23+00:00"
-    },
-    {
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T01:53:03+00:00"
-    },
-    {
-      "title": "Petro does not accept election results in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/05/petro-no-acepta-resultados-de-elecciones-en-colombia/",
-      "published_date": "2026-06-01T01:23:28+00:00"
-    },
-    {
-      "title": "Wilmer Azuaje returned to Venezuela after spending seven years in exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/05/wilmer-azuaje-regreso-a-venezuela-tras-permanecer-siete-anos-en-el-exilio/",
-      "published_date": "2026-06-01T00:55:39+00:00"
-    },
-    {
-      "title": "Peru: what is the outlook one week before the runoff between Fujimori and Sánchez?",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/peru-cual-es-el-panorama-a-una-semana-del-balotaje-entre-fujimori-y-sanchez/",
-      "published_date": "2026-06-01T00:30:00+00:00"
     }
   ]
 }
