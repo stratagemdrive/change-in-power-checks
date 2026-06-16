@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-16T00:30:31.649873+00:00",
-    "story_count": 431,
+    "last_updated": "2026-06-16T15:57:05.387990+00:00",
+    "story_count": 424,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Mamata challenges Bhabanipur election in high court; BJP calls it futile attempt",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mamata-challenges-bhabanipur-election-in-high-court-bjp-calls-it-futile-attempt-101781620429989.html",
+      "published_date": "2026-06-16T14:33:49+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: two radically opposed visions clash in the second round",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260616-presidentielle-colombie-cepeda-de-la-espriella-deux-visions-radicalement-opposees-deuxieme-tour",
+      "published_date": "2026-06-16T14:14:14+00:00"
+    },
+    {
+      "title": "The Caribbean, the urban vote and abstentionists: decisive pieces of the runoff in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/el-caribe-el-voto-urbano-y-los-abstencionistas-fichas-decisivas-del-balotaje-en-colombia/",
+      "published_date": "2026-06-16T14:00:00+00:00"
+    },
+    {
+      "title": "TMC's real enemy is not BJP, it's eggs. Another leader attacked, called chor amid rebellion crisis",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tmc-crisis-soumitra-banerjee-egg-attack-called-chor-amid-rebellion-crisis-abhishek-banerjee-kunal-ghosh-west-bengal-101781606582943.html",
+      "published_date": "2026-06-16T11:31:41+00:00"
+    },
+    {
+      "title": "Putin critic: Arrests after shooting at Russian exiled artist",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/festnahmen-nach-schuessen-auf-russischen-exilkuenstler-accg-200933933.html",
+      "published_date": "2026-06-16T11:21:59+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: Unified Command Post installed for the second round on June 21",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
+      "published_date": "2026-06-16T11:01:00+00:00"
+    },
+    {
+      "title": "Russia calls Armenian elections ‘questionable’",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/russia-calls-armenian-elections-questionable/",
+      "published_date": "2026-06-16T10:50:41+00:00"
+    },
+    {
+      "title": "BJP leaders eye early assembly elections for Goa, Punjab, Uttarakhand and Uttar Pradesh",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-leaders-eye-early-assembly-elections-for-goa-punjab-uttarakhand-and-uttar-pradesh-101781572208045.html",
+      "published_date": "2026-06-16T01:20:47+00:00"
+    },
     {
       "title": "Netanyahu confirms he will run in Israel's fall elections",
       "source": "El Nacional Venezuela",
@@ -2970,111 +3026,6 @@
       "country": "Iran",
       "url": "https://www.dr.dk/nyheder/seneste/rubio-irans-nye-leder-er-aktiv",
       "published_date": "2026-06-02T16:27:44+00:00"
-    },
-    {
-      "title": "Venezuela’s acting President to visit India; energy security tops agenda",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/venezuelas-acting-president-to-visit-india-energy-security-tops-agenda-101780415218342.html",
-      "published_date": "2026-06-02T15:46:57+00:00"
-    },
-    {
-      "title": "Rwanda-France: a memorial for the victims of the genocide inaugurated in Paris",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260602-rwanda-france-un-m%C3%A9morial-pour-les-victimes-du-g%C3%A9nocide-inaugur%C3%A9e-%C3%A0-paris",
-      "published_date": "2026-06-02T15:11:59+00:00"
-    },
-    {
-      "title": "Ehud Barak criticizes Netanyahu's Lebanon war policies, calls Bennett, Eisenkot 'superior' PMs",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-898107",
-      "published_date": "2026-06-02T15:02:08+00:00"
-    },
-    {
-      "title": "Iran plans three-day funeral for late supreme leader",
-      "source": "The Punch Nigeria",
-      "country": "Iran",
-      "url": "https://punchng.com/iran-plans-three-day-funeral-for-late-supreme-leader/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-02T15:00:01+00:00"
-    },
-    {
-      "title": "Presidential election results in Colombia 2026: vote count reached 99.98 percent; Mayor Galán asked to 'respect results'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-elecciones-presidenciales-en-colombia-2026-el-escrutinio-de-las-votaciones-alcanzo-el-99-98-sin-ninguna-novedad-3561390",
-      "published_date": "2026-06-02T13:30:40+00:00"
-    },
-    {
-      "title": "Opinion | Armenia’s elections are a return of Russia’s 2006 Georgia playbook",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/opinion-armenias-elections-are-a-return-of-russias-2006-georgia-playbook/",
-      "published_date": "2026-06-02T13:13:35+00:00"
-    },
-    {
-      "title": "2027: Tinubu’s re-election, my number one project – Oborevwori",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/06/2027-tinubus-re-election-my-number-one-project-oborevwori/",
-      "published_date": "2026-06-02T13:09:25+00:00"
-    },
-    {
-      "title": "Israeli parliament advances bill to dissolve itself and trigger early elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/israeli-parliament-advances-bill-dissolve-itself-and-trigger-early-elections",
-      "published_date": "2026-06-02T12:28:13+00:00"
-    },
-    {
-      "title": "Venezuela interim president, Delcy Rodriguez, to visit India from June 3-7 to discuss energy ties",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/venezuela-interim-president-delcy-rodriguez-to-visit-india-from-june-3-to-7-to-discuss-energy-ties-101780401553491.html",
-      "published_date": "2026-06-02T12:02:18+00:00"
-    },
-    {
-      "title": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/video/20260602-armenia-prime-minister-refuses-moscow-s-pressure-for-eu-referendum",
-      "published_date": "2026-06-02T10:17:03+00:00"
-    },
-    {
-      "title": "MKs advance bill to dissolve Knesset and potentially move up elections to September - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPclR5d2tPSU92WFhXNlpLa1B2dnB6SlBxM0VBQkJJSmhTZGdvN3dUZGtzVTJJWHpPRnlwc283eUlPZWN5eTVsZk5BSUI2OXpkaG1OUkd0ZGRSMS03NmJFYUc4MDFfNlVZNVRQZFVDSEJwUi1fQVhKQ3pGWnd1ZzhJaFY2NElJSExvTDgybXFZakFxOWg3T0k5bWhDVjBaekY0bXN4NWFlU0VjdjgwdzYwWmpaa3LSAboBQVVfeXFMTjhnYVBtQkhZRktXbG1uV0ItYUg3OXJaSlh1a0hvX2g5bDFyQ3FXLW5EXzI5bjFDSzFNVlJqQzV2SmFsdndqNnFRbE5vaFVSMFRZYVFoV1hxYUxNcGp0TlFOZ3IybEJFNUpkbExmYUVrRndTdnFnRkVLeVl6Um1vTU82a1JUTjN6VWNLMFNBMFhwOUQ2LXg0R2kzbnBBWGViSXRkYzhlUENDTkNtU1BFeW1EUXJYQjg2TWRR?oc=5",
-      "published_date": "2026-06-02T07:23:02+00:00"
-    },
-    {
-      "title": "Myanmar junta chief holds trade and security talks with India’s Modi",
-      "source": "Myanmar Now",
-      "country": "India",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-holds-trade-and-security-talks-with-indias-modi/",
-      "published_date": "2026-06-02T06:54:37+00:00"
-    },
-    {
-      "title": "Bill to dissolve Knesset passes first reading, advancing process to move up elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-898048",
-      "published_date": "2026-06-02T01:28:16+00:00"
-    },
-    {
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "source": "BBC World",
-      "country": "Denmark",
-      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T01:19:15+00:00"
-    },
-    {
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations - BBC",
-      "source": "Google News World",
-      "country": "Denmark",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWUdpWVRtOTFiS2JSWEJUVTlDam1LNTNGUXo5b0pGRzkyUTM0M2dJbk1NbXU4TnZqSWp6TUVnSUc4YlhFc2h4RkJ6THgxZFVFSDI5dkJoR3dxZw?oc=5",
-      "published_date": "2026-06-02T01:19:15+00:00"
     }
   ]
 }
