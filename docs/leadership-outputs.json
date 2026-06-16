@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-15T16:23:21.380427+00:00",
-    "story_count": 444,
+    "last_updated": "2026-06-16T00:30:31.649873+00:00",
+    "story_count": 431,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,46 @@
   },
   "stories": [
     {
+      "title": "Netanyahu confirms he will run in Israel's fall elections",
+      "source": "El Nacional Venezuela",
+      "country": "Israel",
+      "url": "https://www.elnacional.com/2026/06/netanyahu-confirma-que-se-presentara-a-las-elecciones-de-otono-en-israel/",
+      "published_date": "2026-06-15T22:56:23+00:00"
+    },
+    {
+      "title": "Peru is experiencing the closest presidential race in Latin America since 1990",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/peru-vive-la-contienda-presidencial-mas-renida-en-america-latina-desde-1990/",
+      "published_date": "2026-06-15T21:20:57+00:00"
+    },
+    {
+      "title": "After US-Iran deal, Netanyahu says he will run in coming Israeli elections",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3357216/after-us-iran-deal-netanyahu-says-he-will-run-coming-israeli-elections?utm_source=rss_feed",
+      "published_date": "2026-06-15T20:24:30+00:00"
+    },
+    {
+      "title": "Israel: Benjamin Netanyahu announces he is a candidate for the next legislative elections",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/06/15/israel-benyamin-netanyahou-annonce-etre-candidat-aux-prochaines-elections-legislatives_6703259_3210.html",
+      "published_date": "2026-06-15T18:57:30+00:00"
+    },
+    {
       "title": "Israeli, anti-regime Iranian marchers forced out of Bologna Pride amid 'Zionists out' chants",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-899507",
       "published_date": "2026-06-15T18:42:04+00:00"
+    },
+    {
+      "title": "Palestinian Authority leader Mahmoud Abbas announces presidential election in early 2027",
+      "source": "Le Monde France",
+      "country": "Palestine",
+      "url": "https://www.lemonde.fr/international/article/2026/06/15/mahmoud-abbas-le-dirigeant-de-l-autorite-palestinienne-annonce-une-election-presidentielle-debut-2027_6703238_3210.html",
+      "published_date": "2026-06-15T16:24:25+00:00"
     },
     {
       "title": "Knesset's election of Rabello as comptroller conducted unlawfully, retired justice tells high court",
@@ -130,16 +165,23 @@
       "published_date": "2026-06-15T11:29:49+00:00"
     },
     {
+      "title": "Bennett: 'Clock for Iran regime change to start as soon as government in Israel changes'",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899421",
+      "published_date": "2026-06-15T09:49:11+00:00"
+    },
+    {
       "title": "Myanmar junta chief arrives in China to boost trade ties",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-arrives-in-china-to-boost-trade-ties/",
       "published_date": "2026-06-15T07:48:48+00:00"
     },
     {
       "title": "‘Trump’s agreement doesn’t bind us’: Israel Minister defies US-Iran deal, vows no withdrawal from captured Lebanon territory",
       "source": "Indian Express",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://indianexpress.com/article/world/trumps-agreement-israel-minister-us-iran-deal-lebanon-ben-gvir-10740161/",
       "published_date": "2026-06-15T07:11:02+00:00"
     },
@@ -3033,139 +3075,6 @@
       "country": "Denmark",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWUdpWVRtOTFiS2JSWEJUVTlDam1LNTNGUXo5b0pGRzkyUTM0M2dJbk1NbXU4TnZqSWp6TUVnSUc4YlhFc2h4RkJ6THgxZFVFSDI5dkJoR3dxZw?oc=5",
       "published_date": "2026-06-02T01:19:15+00:00"
-    },
-    {
-      "title": "De la Espriella got almost 700 thousand votes from Cepeda: what room for growth does Petro's political dolphin have in the face of the runoff",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/de-la-espriella-le-saco-casi-700-mil-votos-a-cepeda-que-margen-de-crecimiento-tiene-el-delfin-politico-de-petro-de-cara-al-balotaje/",
-      "published_date": "2026-06-02T00:00:52+00:00"
-    },
-    {
-      "title": "Former prime minister Harper to make the case for a united Canada ahead of Alberta referendum",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-former-prime-minister-stephen-harper-united-canada-alberta-referendum/",
-      "published_date": "2026-06-01T23:37:45+00:00"
-    },
-    {
-      "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/06/02/putin-issues-ukrainian-scenario-warning-as-russia-ramps-up-pressure-on-armenia-before-elections",
-      "published_date": "2026-06-01T23:30:32+00:00"
-    },
-    {
-      "title": "María Corina Machado supports US strategy in the Venezuelan political transition",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-respalda-estrategia-estadounidense-en-la-transicion-politica-venezolana/",
-      "published_date": "2026-06-01T23:20:43+00:00"
-    },
-    {
-      "title": "PM Frederiksen secures third term with new Danish coalition government",
-      "source": "France 24 English",
-      "country": "Denmark",
-      "url": "https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government",
-      "published_date": "2026-06-01T22:54:02+00:00"
-    },
-    {
-      "title": "Ten weeks of negotiations: center-left coalition formed in Denmark",
-      "source": "FAZ Germany",
-      "country": "Denmark",
-      "url": "https://www.faz.net/aktuell/politik/ausland/neue-mitte-links-koalition-in-daenemark-200889418.html",
-      "published_date": "2026-06-01T21:38:11+00:00"
-    },
-    {
-      "title": "Mette Frederiksen secures third term as Danish premier after coalition deal - Financial Times",
-      "source": "Google News World",
-      "country": "Denmark",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3hRSUFtZEhDa01hbFpZaDV4WVpqMzMxTGxYS3pGWGVJMFBzQmstc0FsQjVERlVkaWdvTmYxUWt0LWE3dGxKdndCUmYyVWVfdHBtLUlkQThvYy0wRUpFek13cEd4ZXMyX210OE1ZcG1QaHZkTGRFbXMzTkNybUZsSjljcXg?oc=5",
-      "published_date": "2026-06-01T21:17:59+00:00"
-    },
-    {
-      "title": "How the polls fell short in the Colombian presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/como-las-encuestas-se-quedaron-cortas-en-las-presidenciales-colombianas/",
-      "published_date": "2026-06-01T21:10:31+00:00"
-    },
-    {
-      "title": "Video: Presidential election has Colombia on edge",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss",
-      "published_date": "2026-06-01T21:08:44+00:00"
-    },
-    {
-      "title": "Denmark gets new government as Greenland crisis persists",
-      "source": "Al Jazeera English",
-      "country": "Denmark",
-      "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
-      "published_date": "2026-06-01T20:56:39+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: these are the profiles of Aida Quilcué and José Manuel Restrepo, the candidates for the Vice Presidency",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-estos-son-los-perfiles-de-aida-quilcue-y-jose-manuel-restrepo-los-candidatos-a-la-vicepresidencia-3561183",
-      "published_date": "2026-06-01T20:30:08+00:00"
-    },
-    {
-      "title": "US targeting of Brazilian gangs is an attempt to sway election there, experts say",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3355612/us-targeting-brazilian-gangs-attempt-sway-election-there-experts-say?utm_source=rss_feed",
-      "published_date": "2026-06-01T20:06:00+00:00"
-    },
-    {
-      "title": "Mette Frederiksen: A new government can be formed",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-der-kan-dannes-en-ny-regering",
-      "published_date": "2026-06-01T20:05:56+00:00"
-    },
-    {
-      "title": "Iran rejects reports President Masoud Pezeshkian resigned over power struggle",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/iran-rejects-reports-president-masoud-pezeshkian-resigned-over-power-struggle",
-      "published_date": "2026-06-01T19:30:50+00:00"
-    },
-    {
-      "title": "2027: NDP unveils female presidential candidate, vows electoral victory",
-      "source": "Premium Times Nigeria",
-      "country": "Canada",
-      "url": "https://www.premiumtimesng.com/news/top-news/884426-2027-ndp-unveils-female-presidential-candidate-vows-electoral-victory.html",
-      "published_date": "2026-06-01T19:03:15+00:00"
-    },
-    {
-      "title": "Was it a voting jury? Learn about the benefits, incentives and compensations that citizens receive after the 2026 elections in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-jurado-de-votacion-conozca-los-beneficios-incentivos-y-compensaciones-que-reciben-los-ciudadanos-tras-elecciones-2026-en-colombia-3561094",
-      "published_date": "2026-06-01T18:32:17+00:00"
-    },
-    {
-      "title": "Russia extends food embargo on Armenia to summer fruit ahead of Yerevan elections",
-      "source": "Meduza EN",
-      "country": "Armenia",
-      "url": "https://meduza.io/en/news/2026/06/01/russia-extends-food-embargo-on-armenia-to-summer-fruit-ahead-of-yerevan-elections",
-      "published_date": "2026-06-01T17:51:15+00:00"
-    },
-    {
-      "title": "The definitions of Keiko Fujimori and Roberto Sánchez in their only debate before the runoff in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/las-definiciones-de-keiko-fujimori-y-roberto-sanchez-en-su-unico-debate-antes-del-balotaje-en-peru/",
-      "published_date": "2026-06-01T17:30:00+00:00"
-    },
-    {
-      "title": "Air defense, strengthening combat brigades, frontline positions: Zelensky holds Supreme Commander's Staff meeting",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4129434-air-defense-strengthening-combat-brigades-frontline-positions-zelensky-holds-supreme-commanders-staff-meeting.html",
-      "published_date": "2026-06-01T16:38:00+00:00"
     }
   ]
 }
