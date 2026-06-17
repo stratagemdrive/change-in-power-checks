@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-17T00:17:35.942288+00:00",
-    "story_count": 412,
+    "last_updated": "2026-06-17T14:30:18.378812+00:00",
+    "story_count": 407,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump says he 'never cared' about Iranian regime change, denies report of $300b. US fund for Iran",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/international/article-899690",
+      "published_date": "2026-06-17T14:01:22+00:00"
+    },
+    {
+      "title": "Trump's “total support” for De la Espriella: what does it add and what does it subtract from the runoff campaign in Colombia?",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/el-apoyo-total-de-trump-a-de-la-espriella-que-suma-y-que-resta-a-la-campana-del-balotaje-en-colombia/",
+      "published_date": "2026-06-17T14:00:00+00:00"
+    },
+    {
+      "title": "Bolsonaro's son condemned: When a friend of Trump's becomes Lula's election assistant",
+      "source": "FAZ Germany",
+      "country": "Brazil",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wie-das-urteil-gegen-eduardo-bolsonaro-der-lula-regierung-hilft-200939322.html",
+      "published_date": "2026-06-17T13:28:00+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: this June 17, observers from the European Union will be deployed in the country for the second round",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
+      "published_date": "2026-06-17T13:09:32+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: Abelardo de la Espriella, the far-right outsider who wants to “gut” the left",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/06/17/presidentielle-en-colombie-abelardo-de-la-espriella-l-outsider-d-extreme-droite-qui-veut-etriper-la-gauche_6704226_3210.html",
+      "published_date": "2026-06-17T12:05:35+00:00"
+    },
+    {
+      "title": "Rajya Sabha elections in Jharkhand tomorrow amid cross-voting fears",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-elections-in-jharkhand-june-18-thursday-amid-cross-voting-fears-101781694692877.html",
+      "published_date": "2026-06-17T11:14:45+00:00"
+    },
+    {
+      "title": "Makerfield: the local election that could change the UK",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/video/20260617-makerfield-the-local-election-that-could-change-the-uk",
+      "published_date": "2026-06-17T10:53:44+00:00"
+    },
+    {
+      "title": "NLD symbols removed in bid to erase last vestiges of Myanmar’s ousted ruling party",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/nld-symbols-removed-in-bid-to-erase-last-vestiges-of-myanmars-ousted-ruling-party/",
+      "published_date": "2026-06-17T10:23:09+00:00"
+    },
+    {
+      "title": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss",
+      "published_date": "2026-06-17T09:53:28+00:00"
+    },
+    {
+      "title": "Exiled Russian artist and Putin critic shot dead in Poland",
+      "source": "Indian Express",
+      "country": "Russia",
+      "url": "https://indianexpress.com/article/world/exiled-russian-artist-semyon-skrepetsky-shot-dead-putin-10743642/",
+      "published_date": "2026-06-17T09:40:06+00:00"
+    },
+    {
+      "title": "The election that could reshape Colombia’s relationship with Israel",
+      "source": "Middle East Eye",
+      "country": "Colombia",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-could-reshape-colombias-relationship-israel",
+      "published_date": "2026-06-17T09:35:57+00:00"
+    },
+    {
+      "title": "‘Virtual Wali of Khartoum’ defects from Sudan’s RSF militia",
+      "source": "Radio Dabanga Sudan",
+      "country": "Sudan",
+      "url": "https://www.dabangasudan.org/en/all-news/article/virtual-wali-of-khartoum-defects-from-sudans-rsf-militia",
+      "published_date": "2026-06-17T07:55:25+00:00"
+    },
+    {
+      "title": "Rebellion crisis LIVE: Abhishek Banerjee gets Lok Sabha invite amid TMC crisis;  ₹50 cr 'offer' to Maha MPs",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tmc-news-live-updates-ananya-banerjee-tmc-abhishek-mamata-banerjee-sayoni-ghosh-kakoli-rebel-mps-bjp-nda-lok-sabha-101781664720788.html",
+      "published_date": "2026-06-17T03:07:41+00:00"
+    },
+    {
+      "title": "The elections, in the hands of the citizens: this is how the legitimacy of the electoral system rests on the participation of millions of Colombians",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-elecciones-en-manos-de-los-ciudadanos-asi-descansa-la-legitimidad-del-sistema-electoral-en-la-participacion-de-millones-de-colombianos-3564737",
+      "published_date": "2026-06-17T00:53:57+00:00"
+    },
     {
       "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
       "source": "The Guardian World",
@@ -286,7 +384,7 @@
     {
       "title": "Myanmar junta chief arrives in China to boost trade ties",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-arrives-in-china-to-boost-trade-ties/",
       "published_date": "2026-06-15T07:48:48+00:00"
     },
@@ -2809,139 +2907,6 @@
       "country": "France",
       "url": "https://www.france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable",
       "published_date": "2026-06-03T14:48:12+00:00"
-    },
-    {
-      "title": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/venezuela-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepening-ties/article71057735.ece",
-      "published_date": "2026-06-03T14:22:08+00:00"
-    },
-    {
-      "title": "Is the Armenian election really about the West vs Russia?",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/is-the-armenian-election-really-about-the-west-vs-russia/",
-      "published_date": "2026-06-03T14:18:48+00:00"
-    },
-    {
-      "title": "Trump says he 'would like to meet' Iranian Supreme Leader Mojtaba Khamenei",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-trump-dit-qu-il-aimerait-rencontrer-le-guide-supr%C3%AAme-iranien-mojtaba-khamenei",
-      "published_date": "2026-06-03T13:37:42+00:00"
-    },
-    {
-      "title": "How Japan stopped civil war",
-      "source": "Reuters via FeedBurner",
-      "country": "Japan",
-      "url": "https://flipso.com/p/svalbrfg4?ref=rss",
-      "published_date": "2026-06-03T13:00:30+00:00"
-    },
-    {
-      "title": "Lula advises ministers to point out Flávio as a traitor and to value inaugurations until the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-cobrara-ministros-para-evitar-que-adversarios-faturem-com-obras-do-governo-perto-da-eleicao.shtml",
-      "published_date": "2026-06-03T12:00:00+00:00"
-    },
-    {
-      "title": "South Korea’s ruling party set for local election gains, exit poll shows",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3355846/south-koreas-ruling-party-set-local-election-gains-exit-poll-shows?utm_source=rss_feed",
-      "published_date": "2026-06-03T10:38:15+00:00"
-    },
-    {
-      "title": "'Attack on our democracy': Inside an Israeli influence campaign in France's local elections",
-      "source": "Middle East Eye",
-      "country": "France",
-      "url": "https://www.middleeasteye.net/news/unprecedented-attack-inside-israeli-foreign-influence-campaign-france-local-elections",
-      "published_date": "2026-06-03T10:11:15+00:00"
-    },
-    {
-      "title": "Denmark PM presents new government, with majority of women",
-      "source": "South China Morning Post",
-      "country": "Denmark",
-      "url": "https://www.scmp.com/news/world/europe/article/3355836/denmark-pm-presents-new-government-majority-women?utm_source=rss_feed",
-      "published_date": "2026-06-03T09:42:08+00:00"
-    },
-    {
-      "title": "Putin issues warning to Armenia over European ambitions ahead of election",
-      "source": "The Independent UK",
-      "country": "Armenia",
-      "url": "https://www.independent.co.uk/news/world/europe/putin-armenia-european-union-russia-b2988575.html",
-      "published_date": "2026-06-03T09:24:33+00:00"
-    },
-    {
-      "title": "150 personnel from Islamabad police's security division assigned to GB election duty",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2004880/150-personnel-from-islamabad-polices-security-division-assigned-to-gb-election-duty",
-      "published_date": "2026-06-03T08:56:58+00:00"
-    },
-    {
-      "title": "Armenia's election offers a choice between Russia and EU",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-06-03T08:36:00+00:00"
-    },
-    {
-      "title": "New prime minister says Solomon Islands will review its secretive security treaty with China - AP News",
-      "source": "Google News World",
-      "country": "China",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGVSZjJPUEhORXhqc2txNzA4dnlrR0NsMGUwZGk1TzA2UDRtbkxaYjR2TlpJYmxfTTNKMEFQMGptY2RESUZaeU02OTF2N3o5WWdWRVZCVVdCb19XandkZXdQSnFCVG9ldXNkTVFtMExvVzQtdjVuOHlOdkNVRS14UzdrSGJYSWxQYzhuU0lLbV9RQlVQYy1RYTY5azZwbVRlQUNkTnNJdDRmUm8?oc=5",
-      "published_date": "2026-06-03T07:45:00+00:00"
-    },
-    {
-      "title": "U.S. tariff threats give Lula a new election attack on Bolsonaro",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/news/2026/06/03/world/brazil-lula-trump-tariffs-bolsonaro/",
-      "published_date": "2026-06-03T05:38:00+00:00"
-    },
-    {
-      "title": "Election in New York: Will Germany get a place in the UN Security Council?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/ausland/bekommt-deutschland-einen-platz-im-un-sicherheitsrat-accg-200890954.html",
-      "published_date": "2026-06-03T05:30:18+00:00"
-    },
-    {
-      "title": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia - The New York Times",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDR6Um5vYUtMVjlvUGxPN2RncDhucmJVaWQ2cWZueEVJX0pMcXpteE9nV1pOejdmMXNYYVNtS0RjbHdSQW03SE4xVDFnOTJ4WHFhQmlrSnFBTzVwXzluMGhQdmRSZ0NZc0x6alNLMDdzZ3E4MnYzSkhRRC1HMUttVVRzekdsdjZ2V2ZwbklScXY0cjV4dXZsQUdR?oc=5",
-      "published_date": "2026-06-03T03:12:32+00:00"
-    },
-    {
-      "title": "Tinubu’s re-election my priority project, Oborevwori declares",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubus-re-election-my-priority-project-oborevwori-declares/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-03T01:08:29+00:00"
-    },
-    {
-      "title": "Roberto Sánchez softens government plan days before the elections and IMF warns of new “threats” to the Peruvian economy",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-suaviza-plan-de-gobierno-a-dias-de-las-elecciones-y-fmi-advierte-de-nuevas-amenazas-para-la-economia-peruana/",
-      "published_date": "2026-06-03T00:31:16+00:00"
-    },
-    {
-      "title": "South Korea’s Lee faces first election test one year into office",
-      "source": "Japan Times",
-      "country": "South Korea",
-      "url": "https://www.japantimes.co.jp/news/2026/06/03/asia-pacific/south-korea-election-lee/",
-      "published_date": "2026-06-03T00:25:00+00:00"
-    },
-    {
-      "title": "Armando Benedetti is thinking of resigning as Minister of the Interior to take on the campaign for Iván Cepeda: President Gustavo Petro would have asked him to do so",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/armando-benedetti-estudia-renunciar-como-ministro-del-interior-para-asumir-campana-por-ivan-cepeda-presidente-gustavo-petro-se-lo-habria-pedido-3561625",
-      "published_date": "2026-06-03T00:11:13+00:00"
     }
   ]
 }
