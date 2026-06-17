@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-16T15:57:05.387990+00:00",
-    "story_count": 424,
+    "last_updated": "2026-06-17T00:17:35.942288+00:00",
+    "story_count": 412,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+      "published_date": "2026-06-16T21:44:54+00:00"
+    },
+    {
+      "title": "Eduardo Bolsonaro says the STF's judgment is 'pointless' and aims to remove him from the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eduardo-bolsonaro-diz-que-julgamento-do-stf-e-sem-pe-nem-cabeca-e-visa-tira-lo-das-eleicoes.shtml",
+      "published_date": "2026-06-16T21:19:00+00:00"
+    },
+    {
+      "title": "Ousted DHS secretary Kristi Noem claims China has a ‘thousand-year plan to destroy the United States’",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/kristi-noem-warns-china-plan-destroy-us-b2996730.html",
+      "published_date": "2026-06-16T21:01:50+00:00"
+    },
+    {
+      "title": "Ukraine is not using martial law as pretext for excessive restrictions on rights, says Mathernova",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134592-ukraine-is-not-using-martial-law-as-pretext-for-excessive-restrictions-on-rights-says-mathernova.html",
+      "published_date": "2026-06-16T19:58:00+00:00"
+    },
+    {
+      "title": "Campaign guidelines urge Russia’s ruling political party to hide its own branding at mass events to avoid voter backlash ahead of September elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/16/campaign-guidelines-urge-russia-s-ruling-political-party-to-hide-its-own-branding-at-mass-events-to-avoid-voter-backlash-ahead-of-september-elections",
+      "published_date": "2026-06-16T18:29:08+00:00"
+    },
+    {
+      "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
+      "published_date": "2026-06-16T17:23:12+00:00"
+    },
+    {
+      "title": "China’s Shein to be ousted from Paris department store after other brands flee",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/article/3357348/shein-faces-exit-paris-department-store-after-backlash?utm_source=rss_feed",
+      "published_date": "2026-06-16T17:02:46+00:00"
+    },
+    {
+      "title": "Peru’s presidential race remains too close to call as vote count inches forward",
+      "source": "Peru Reports",
+      "country": "Peru",
+      "url": "https://perureports.com/perus-presidential-race-remains-too-close-to-call-as-vote-count-inches-forward/10778/",
+      "published_date": "2026-06-16T16:12:45+00:00"
+    },
     {
       "title": "Mamata challenges Bhabanipur election in high court; BJP calls it futile attempt",
       "source": "Hindustan Times",
@@ -230,7 +286,7 @@
     {
       "title": "Myanmar junta chief arrives in China to boost trade ties",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-arrives-in-china-to-boost-trade-ties/",
       "published_date": "2026-06-15T07:48:48+00:00"
     },
@@ -2886,146 +2942,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/armando-benedetti-estudia-renunciar-como-ministro-del-interior-para-asumir-campana-por-ivan-cepeda-presidente-gustavo-petro-se-lo-habria-pedido-3561625",
       "published_date": "2026-06-03T00:11:13+00:00"
-    },
-    {
-      "title": "South Korea ruling party set for local election gains, exit poll shows - Reuters",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkJ2azZobFFaMVN3bmduOXJ5QWRmOUpLZXU4UkdJVW4xazZCajNpRzBfRHk5b01saU9acENPN19Za2JKMnJ1cVhnajNzUFJDOEFEMFZOZzFIejlNOVpRSllGTDFrbE1CLTQxVS11OHVLVnBlUGxOZHBncHc5SjlVaUE0U1hTMXR1cWVFUXhqSHB5UFd2aVB1T3N5TVhEMlBkRktyMzQ1d0REYVhfTlVMaHpjSTJpRl9ib0JVcEpJR3NvOTFH?oc=5",
-      "published_date": "2026-06-03T00:08:00+00:00"
-    },
-    {
-      "title": "Patricia Bullrich confirmed that she offered her resignation from the bloc, but Milei continued the meeting “without giving it importance”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-hablo-tras-ofrecer-su-renuncia-y-dijo-que-milei-siguio-sin-darle-importancia-nid02062026/",
-      "published_date": "2026-06-02T23:51:59+00:00"
-    },
-    {
-      "title": "Major Russian missile, drone attack on Ukraine kills at least 22, topples apartment building, officials say - CBS News",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZBcG1hcjVhNS16aGFyQ3dxRWs5SC1qdzEzNlNWb1Q4aU9hcDllaC1sTF9Vek4wa1JlZ1BzQ0V1cElOR2tmNFZvQmVUVEt2aDd4aUxqNWowWUJETGIzR084SmtBX1JfRlZ3eUY0d0lXR3BRZWVkc1VDT1NZeVpGQ3kxV3V3NU9WdTBpZUw0S2tITVhCS05FaHJLLVdtZmxuNTUtNw?oc=5",
-      "published_date": "2026-06-02T23:51:38+00:00"
-    },
-    {
-      "title": "Venezuela’s acting President Delcy Rodriguez arrives today on India visit, to meet PM Modi",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/venezuelas-acting-president-delcy-rodriguez-arrives-today-on-india-visit-to-meet-pm-modi-10721133/",
-      "published_date": "2026-06-02T23:20:21+00:00"
-    },
-    {
-      "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss",
-      "published_date": "2026-06-02T23:11:37+00:00"
-    },
-    {
-      "title": "Marco Rubio: Venezuela needs free elections to achieve the transition",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/marco-rubio-venezuela-necesita-elecciones-libres-para-lograr-la-transicion/",
-      "published_date": "2026-06-02T22:36:18+00:00"
-    },
-    {
-      "title": "Veto of a candidate for judge: Patricia Bullrich offered her resignation to Javier Milei and the block was left in a state of deliberation",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/veto-a-una-candidata-a-jueza-patricia-bullrich-ofrecio-su-renuncia-a-javier-milei-y-el-bloque-quedo-nid02062026/",
-      "published_date": "2026-06-02T21:57:36+00:00"
-    },
-    {
-      "title": "Venezuela’s acting President Delcy Rodriguez’s visit this week to focus on energy ties",
-      "source": "Hindustan Times",
-      "country": "Venezuela",
-      "url": "https://www.hindustantimes.com/india-news/venezuelas-acting-president-delcy-rodriguez-s-visit-this-week-to-focus-on-energy-ties-101780423141905.html",
-      "published_date": "2026-06-02T21:46:04+00:00"
-    },
-    {
-      "title": "Miguel Samaniego is appointed as the new president of the Chilean Postal Board",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/miguel-samaniego-es-nombrado-como-nuevo-presidente-del-directorio-de-correos-de-chile/",
-      "published_date": "2026-06-02T21:27:01+00:00"
-    },
-    {
-      "title": "'We must emphasize all the effort that Colombia has made to organize these elections so well': deputy head of the European Union EOM",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hay-que-poner-el-acento-en-todo-el-esfuerzo-que-ha-hecho-colombia-para-organizar-tan-bien-estas-elecciones-jefe-adjunto-de-la-moe-union-europea-3561544",
-      "published_date": "2026-06-02T21:26:26+00:00"
-    },
-    {
-      "title": "Petro insists that he has evidence of possible fraud in the presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/gustavo-petro-insiste-en-que-tiene-pruebas-de-posible-fraude-en-las-elecciones-presidenciales/",
-      "published_date": "2026-06-02T19:47:43+00:00"
-    },
-    {
-      "title": "Rubio: For a true transition, free elections must be held in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/rubio-para-una-verdadera-transicion-deben-celebrarse-elecciones-libres-en-venezuela/",
-      "published_date": "2026-06-02T19:39:16+00:00"
-    },
-    {
-      "title": "Head of Office of Gustavo Petro's Government rules out the president's resignation after controversy over support for Iván Cepeda's campaign",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/jefe-de-despacho-del-gobierno-de-gustavo-petro-descarta-la-renuncia-del-presidente-tras-controversia-por-apoyo-a-campana-de-ivan-cepeda-3561508",
-      "published_date": "2026-06-02T19:37:19+00:00"
-    },
-    {
-      "title": "Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1d6NnpVUTk4WVRMS2xLQkxhZjhIRmZvUlVxSTdKQzVUMVc1eVExbVlta0t4c1dzck9tTWtuVHVtVkJnaUtsSjU1OGY4R3RNM180SEdUWHJtVWl0bk44WUZ0Tms1SnpIelBGMVRyU0VNUUEwbk5QWEM5UUhHYTJacVZyMDZ0YTA5a19QTUdUMnhUallpVkU4NHBLQmFteWFzUUhER3dKT1dDYnAzZlNneNIBtgFBVV95cUxOSFNZZEE0QTgxdjYxbGtEbTA3aVNieThaZm1VajExUWZQVFBQQ3c5SmlXSGU4dW55V25xWlh4UFo1WWQxc21XSElBYW9HWDN2VmU4OGRTaFlmNnUtRjJGbnZWeWVfdE1CSU1WZFJHWVNfbjd6RXJieXRKbG1wb29kSy05WlR0bDRRTmNGTURSZnRaeDl3dVhMa29ENVJhWVZLUlgxSEhPWHkxV2tNU0lDbnRfbm95UQ?oc=5",
-      "published_date": "2026-06-02T19:28:46+00:00"
-    },
-    {
-      "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
-      "published_date": "2026-06-02T19:05:13+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
-      "published_date": "2026-06-02T17:53:14+00:00"
-    },
-    {
-      "title": "Former Trinamool Congress MLA Debo Prasad Bag arrested as resignation continues in party",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/former-trinamool-congress-kalna-mla-arrested/article71054024.ece",
-      "published_date": "2026-06-02T17:35:44+00:00"
-    },
-    {
-      "title": "Venezuela Opposition leader wants transition without 'revenge'",
-      "source": "The Hindu Politics",
-      "country": "Venezuela",
-      "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-wants-transition-without-revenge/article71054297.ece",
-      "published_date": "2026-06-02T17:27:22+00:00"
-    },
-    {
-      "title": "Venezuela’s Acting President Delcy Rodriguez to visit India",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/venezuelas-acting-president-delcy-rodriguez-to-undertake-five-day-trip-to-india/article71052800.ece",
-      "published_date": "2026-06-02T17:13:01+00:00"
-    },
-    {
-      "title": "Rubio: Iran's new leader is active",
-      "source": "DR News Denmark",
-      "country": "Iran",
-      "url": "https://www.dr.dk/nyheder/seneste/rubio-irans-nye-leder-er-aktiv",
-      "published_date": "2026-06-02T16:27:44+00:00"
     }
   ]
 }
