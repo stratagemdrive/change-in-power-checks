@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-17T14:30:18.378812+00:00",
-    "story_count": 407,
+    "last_updated": "2026-06-18T00:16:18.305348+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Claudia López seals her support for Iván Cepeda ahead of the presidential runoff in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/claudia-lopez-sella-su-respaldo-a-ivan-cepeda-de-cara-al-balotaje-presidencial-en-colombia/",
+      "published_date": "2026-06-17T22:01:18+00:00"
+    },
+    {
+      "title": "Javier Milei, president of Argentina, announces support for Abelardo de la Espriella for the second round of the elections in Colombia: 'The path is clear'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/javier-milei-presidente-de-argentina-expreso-su-apoyo-al-candidato-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-el-camino-es-claro-3564993",
+      "published_date": "2026-06-17T21:40:18+00:00"
+    },
+    {
+      "title": "Lula asks Donald Trump not to meddle in Brazil's presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/06/lula-pide-a-donald-trump-que-no-se-entrometa-en-las-elecciones-presidenciales-de-brasil/",
+      "published_date": "2026-06-17T21:00:40+00:00"
+    },
+    {
+      "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+      "published_date": "2026-06-17T20:14:52+00:00"
+    },
+    {
+      "title": "'Don't interfere in Brazil's elections', says Lula in reaction to Trump",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/nao-se-metam-nas-eleicoes-do-brasil-diz-lula-em-reacao-a-trump.shtml",
+      "published_date": "2026-06-17T18:49:00+00:00"
+    },
+    {
+      "title": "From regime change to regime deal? How Tehran's political camps are reacting to leaked US-Iran deal",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "http://www.euronews.com/2026/06/17/from-regime-change-to-regime-deal-how-irans-political-camps-are-reacting-to-leaked-us-iran",
+      "published_date": "2026-06-17T14:57:16+00:00"
+    },
     {
       "title": "Trump says he 'never cared' about Iranian regime change, denies report of $300b. US fund for Iran",
       "source": "Jerusalem Post",
@@ -144,7 +186,14 @@
       "published_date": "2026-06-17T07:55:25+00:00"
     },
     {
-      "title": "Rebellion crisis LIVE: Abhishek Banerjee gets Lok Sabha invite amid TMC crisis;  ₹50 cr 'offer' to Maha MPs",
+      "title": "Urged to consider his position, Starmer warns against UK leadership challenge - Reuters",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5YNWs3Y0RmVE1DTE9oTHJvb1ppQkphNUc5b2FBc1pPdTFFaDBQUUpRMk1mRzRVd2VPOThmc2JsbXdFVmxleHdHZmhON0ttWUNUaTRrcVJqSUJBTlBDemJDcHlUY1F1Qy1RbDd0bFFRNmJEaXp3X0JGVGVYTnBUWjhXSnhpRG5sci1Ea01nSm1hZjV0LXY2VUZQWUFPc2tQc3FtbnA5RXplaG16alBFbzJRX2dRTTRSUkE?oc=5",
+      "published_date": "2026-06-17T06:41:00+00:00"
+    },
+    {
+      "title": "Rebellion crisis highlights: Abhishek Banerjee gets Lok Sabha invite amid TMC crisis;  ₹50 cr 'offer' to Maha MPs",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/tmc-news-live-updates-ananya-banerjee-tmc-abhishek-mamata-banerjee-sayoni-ghosh-kakoli-rebel-mps-bjp-nda-lok-sabha-101781664720788.html",
@@ -2795,118 +2844,6 @@
       "country": "South Korea",
       "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahl-in-suedkorea-deutlicher-sieg-fuer-lees-demokratische-partei-accg-200896995.html",
       "published_date": "2026-06-04T03:31:57+00:00"
-    },
-    {
-      "title": "South Korea Lee's ruling party sweeps local elections, but loses Seoul mayor race - Reuters",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHZiSUtXeTgxUGNqN2htSE83Y0FucmNQY3VZeTZoQTlHVDdCcVlLOVo0Z2RTMGpsaWRpUURQWkNCU0tiNjY2cW5XcTJleV96SG8zLVBfX1hmWkwzRE9ZNXlmWnJEcGFRTTRuYkJmSTh4ZE9La1RwSVJTd241ZW11SEVVN0F2LW01OUJGVDU4bUw2S1FvTTByRkJIanNSRXFBWEFUZXV5ZVRpRFJIaHZ3dXowLUh2WW9ISllvajJsdzY4bkZMM3pVcXlnYmo?oc=5",
-      "published_date": "2026-06-03T23:17:00+00:00"
-    },
-    {
-      "title": "West Bengal CM Suvendu Adhikari inaugurates BJP office in Bhabanipur",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-cm-suvendu-adhikari-inaugurates-bjp-office-in-bhabanipur-101780527188188.html",
-      "published_date": "2026-06-03T23:00:14+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader promotes cross-strait peace during US trip",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3355888/taiwan-opposition-leader-promotes-cross-strait-peace-during-us-trip?utm_source=rss_feed",
-      "published_date": "2026-06-03T22:45:19+00:00"
-    },
-    {
-      "title": "María Elvira Salazar: I want the elections in Venezuela to be next year",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/maria-elvira-salazar-quiero-que-las-elecciones-en-venezuela-sean-el-ano-que-viene/",
-      "published_date": "2026-06-03T22:34:39+00:00"
-    },
-    {
-      "title": "The top US military chief visited Caracas for the first time since the operation that overthrew Nicolás Maduro",
-      "source": "La Nacion Argentina",
-      "country": "Venezuela",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-maximo-jefe-militar-de-eeuu-visito-caracas-por-primera-vez-desde-el-operativo-que-derroco-a-nid03062026/",
-      "published_date": "2026-06-03T22:31:50+00:00"
-    },
-    {
-      "title": "NGOs launch the “I Want to Choose” movement to demand free and verifiable elections in Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/la-humanidad/ong-lanzan-el-movimiento-quiero-elegir-para-exigir-elecciones-libres-y-verificables-en-venezuela/",
-      "published_date": "2026-06-03T22:09:48+00:00"
-    },
-    {
-      "title": "Is Iran's supreme leader involved in negotiations with the US?: The failures of Middle East truces",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/esta-el-lider-supremo-de-iran-involucrado-en-las-negociaciones-con-eeuu-los-fracasos-en-las-treguas-de-medio-oriente/",
-      "published_date": "2026-06-03T20:00:00+00:00"
-    },
-    {
-      "title": "Marco Rubio demands to renew the Electoral Power in Venezuela as soon as possible to move towards free elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/marco-rubio-exige-renovar-el-poder-electoral-en-venezuela-lo-antes-posible-para-avanzar-hacia-elecciones-libres/",
-      "published_date": "2026-06-03T19:29:38+00:00"
-    },
-    {
-      "title": "A polarized election may not matter for one of Peru’s biggest concerns: corruption",
-      "source": "Peru Reports",
-      "country": "Peru",
-      "url": "https://perureports.com/a-polarized-election-may-not-matter-for-one-of-perus-biggest-concerns-corruption/10763/",
-      "published_date": "2026-06-03T19:00:37+00:00"
-    },
-    {
-      "title": "New York: Germany fails in UN Security Council election",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/ausland/deutschland-scheitert-bei-wahl-zu-un-sicherheitsrat-200895640.html",
-      "published_date": "2026-06-03T16:50:56+00:00"
-    },
-    {
-      "title": "Trump opens the door to meeting with Iranian Supreme Leader Mojtaba Khamenei",
-      "source": "El Nacional Venezuela",
-      "country": "Iran",
-      "url": "https://www.elnacional.com/2026/06/trump-abre-la-puerta-a-reunirse-con-el-lider-supremo-irani-mojtaba-jamenei/",
-      "published_date": "2026-06-03T16:06:00+00:00"
-    },
-    {
-      "title": "After her gestures of rebellion, the Government believes that Bullrich will not be a candidate for vice or head of the Buenos Aires government.",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/luego-de-sus-gestos-de-rebeldia-en-el-gobierno-creen-que-bullrich-no-sera-candidata-a-vice-ni-a-jefa-nid03062026/",
-      "published_date": "2026-06-03T15:25:40+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: icon of the left or billionaire supported by Trump?",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-pr%C3%A9sidentielle-en-colombie-ic%C3%B4ne-de-la-gauche-ou-milliardaire-soutenu-par-trump",
-      "published_date": "2026-06-03T15:23:01+00:00"
-    },
-    {
-      "title": "President Gustavo Petro assures that he will not resign to participate in the elections: 'I am not going to be the head of a campaign'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-asegura-que-no-renunciara-para-participar-en-las-elecciones-no-voy-a-ser-el-jefe-de-una-campana-3561735",
-      "published_date": "2026-06-03T15:09:05+00:00"
-    },
-    {
-      "title": "France, Italy and Spain push for new regime to fix EU banking fragmentation",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/business/2026/06/03/france-italy-and-spain-push-for-new-regime-to-fix-eu-banking-fragmentation",
-      "published_date": "2026-06-03T15:08:44+00:00"
-    },
-    {
-      "title": "A year before the French election, De Gaulle remains politically fashionable",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable",
-      "published_date": "2026-06-03T14:48:12+00:00"
     }
   ]
 }
