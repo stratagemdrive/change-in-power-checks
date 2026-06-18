@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-18T00:16:18.305348+00:00",
-    "story_count": 398,
+    "last_updated": "2026-06-18T14:13:24.903959+00:00",
+    "story_count": 386,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Bennett forms AI advisory committee to boost Israel's national tech policy ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899832",
+      "published_date": "2026-06-18T14:19:02+00:00"
+    },
+    {
+      "title": "DPK factional divide becomes more visible after local elections",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260618/dpk-factional-divide-becomes-more-visible-after-local-elections?utm_source=rss",
+      "published_date": "2026-06-18T14:07:03+00:00"
+    },
+    {
+      "title": "ICE detains a Colombian activist days before the elections and tension rises between Petro and Trump",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-ice-detiene-a-activista-colombiano-a-dias-de-las-elecciones-y-sube-la-tension-entre-petro-y-trump-nid18062026/",
+      "published_date": "2026-06-18T13:53:34+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: Trump's interference at the heart of the second round debates",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260618-pr%C3%A9sidentielle-en-colombie-l-ing%C3%A9rence-de-trump-au-c%C5%93ur-des-d%C3%A9bats-du-deuxi%C3%A8me-tour",
+      "published_date": "2026-06-18T13:16:13+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: who are the candidates in the runoff to define the next president",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-quienes-son-los-candidatos-en-el-balotaje-para-definir-al-proximo-nid15062026/",
+      "published_date": "2026-06-18T12:30:55+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: Claudia López explained her support for Iván Cepeda ahead of the second round: 'Both candidacies involve risks'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
+      "published_date": "2026-06-18T12:30:30+00:00"
+    },
+    {
+      "title": "Peru Elections: Keiko Fujimori leads Roberto Sánchez by just over 39 thousand votes",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/elecciones-peru-keiko-fujimori-adelanta-por-poco-mas-de-39-mil-votos-a-roberto-sanchez/",
+      "published_date": "2026-06-18T11:13:29+00:00"
+    },
+    {
+      "title": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
+      "published_date": "2026-06-18T10:31:01+00:00"
+    },
+    {
+      "title": "Starmer on the line as UK holds \"most important local election in decades\"",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/starmer-on-the-line-as-uk-holds-most-important-local-election-in-decades",
+      "published_date": "2026-06-18T09:48:39+00:00"
+    },
+    {
+      "title": "Voters head to the polls in key UK by-election that could determine Britain's next PM",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/18/voters-head-to-the-polls-in-key-uk-by-election-that-could-determine-britains-next-pm",
+      "published_date": "2026-06-18T09:42:14+00:00"
+    },
+    {
+      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
+      "published_date": "2026-06-18T07:14:00+00:00"
+    },
+    {
+      "title": "EU referendum on departure centers splits the Danish governing parties",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/politik/art10885484/EU-afstemning-om-udrejsecentre-splitter-de-danske-regeringspartier",
+      "published_date": "2026-06-18T07:11:02+00:00"
+    },
+    {
+      "title": "How a Belarusian exile vanished in waters held by Russia",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/how-a-belarusian-exile-vanished-in-waters-held-by-russia/a-77580696?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-06-18T07:02:00+00:00"
+    },
+    {
+      "title": "Starmer rival seeks win in UK by-election pivotal to PM's fate",
+      "source": "RFI English",
+      "country": "United Kingdom",
+      "url": "https://www.rfi.fr/en/international/20260618-starmer-rival-seeks-win-in-uk-by-election-pivotal-to-pm-s-fate",
+      "published_date": "2026-06-18T06:34:14+00:00"
+    },
+    {
+      "title": "Voting underway for elections to Rajya Sabha seats in Jharkhand, Mizoram",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/rajya-sabha-elections-voting-jharkhand-mizoram-10745450/",
+      "published_date": "2026-06-18T04:14:45+00:00"
+    },
+    {
+      "title": "Rebellion crisis LIVE: TMC leader 'seeks freeze' on party bank accounts; BJP claims no role in UBT Sena crisis",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/shiv-sena-ubt-tmc-rebellion-crisis-live-updates-uddhav-thackeray-mamata-banerjee-samajwadi-party-nda-bjp-lok-sabha-news-101781751582739.html",
+      "published_date": "2026-06-18T04:09:22+00:00"
+    },
     {
       "title": "Claudia López seals her support for Iván Cepeda ahead of the presidential runoff in Colombia",
       "source": "El Nacional Venezuela",
@@ -433,7 +545,7 @@
     {
       "title": "Myanmar junta chief arrives in China to boost trade ties",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-arrives-in-china-to-boost-trade-ties/",
       "published_date": "2026-06-15T07:48:48+00:00"
     },
@@ -2648,202 +2760,6 @@
       "country": "India",
       "url": "https://www.elnacional.com/2026/06/india-evita-comentar-la-transicion-venezolana-y-define-al-gobierno-interino-como-amistoso/",
       "published_date": "2026-06-04T14:15:00+00:00"
-    },
-    {
-      "title": "DPK dominates local elections, wins 12 of 16 mayoral, provincial races",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260604/dpk-dominates-local-elections-wins-12-of-16-mayoral-provincial-races?utm_source=rss",
-      "published_date": "2026-06-04T13:57:03+00:00"
-    },
-    {
-      "title": "Election watchdog rejects calls for revote over Seoul ballot shortages",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/20260604/election-watchdog-rejects-calls-for-revote-over-seoul-ballot-shortages?utm_source=rss",
-      "published_date": "2026-06-04T13:57:03+00:00"
-    },
-    {
-      "title": "Seoul Mayor Oh defies exit poll to win reelection",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260604/seoul-mayor-oh-defies-exit-poll-to-win-reelection?utm_source=rss",
-      "published_date": "2026-06-04T13:57:03+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: Iván Cepeda will make the announcement this June 4; Álvaro Uribe explains his support for Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562000",
-      "published_date": "2026-06-04T13:39:42+00:00"
-    },
-    {
-      "title": "Death of Marjane Satrapi, author in exile of “Persepolis” and standard of the Iranian people",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260604-d%C3%A9c%C3%A8s-de-marjane-satrapi-autrice-en-exil-de-persepolis-et-%C3%A9tendard-du-peuple-iranien",
-      "published_date": "2026-06-04T13:26:53+00:00"
-    },
-    {
-      "title": "Fighting in Somalia’s capital as anger over election delay erupts",
-      "source": "Al Jazeera English",
-      "country": "Somalia",
-      "url": "https://www.aljazeera.com/news/2026/6/4/fighting-in-somalias-capital-as-anger-over-election-delay-erupts?traffic_source=rss",
-      "published_date": "2026-06-04T13:08:00+00:00"
-    },
-    {
-      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "source": "BBC World",
-      "country": "Somalia",
-      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T12:40:22+00:00"
-    },
-    {
-      "title": "In latest written statement, Iran’s supreme leader calls for national unity amid war",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/in-latest-written-statement-irans-supreme-leader-calls-for-national-unity-amid-war/",
-      "published_date": "2026-06-04T12:03:21+00:00"
-    },
-    {
-      "title": "Gerardo Hernández is captured at the Hotel Nacional after a political act by the Cuban regime on the Malecón",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-06-04-u1-e207888-s27061-nid331192-captan-gerardo-hernandez-hotel-nacional-luego-acto",
-      "published_date": "2026-06-04T11:43:14+00:00"
-    },
-    {
-      "title": "Iran's Supreme Leader warns of Israeli, US divisions threatening regime, undermining 'resilience'",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-898364",
-      "published_date": "2026-06-04T11:21:02+00:00"
-    },
-    {
-      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
-      "published_date": "2026-06-04T11:04:16+00:00"
-    },
-    {
-      "title": "The junta in Myanmar is not the partner India needs",
-      "source": "Indian Express",
-      "country": "Myanmar",
-      "url": "https://indianexpress.com/article/opinion/columns/junta-myanmar-is-not-the-partner-india-needs-min-aung-hlaing-modi-10723943/",
-      "published_date": "2026-06-04T10:35:20+00:00"
-    },
-    {
-      "title": "Peru's leftist Roberto Sanchez seeks centrist appeal ahead of presidential runoff - Reuters",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0ttbVJ0TjBBLUk5T2dTUnM0cjZMWFlnNzVtemRkUmNLSlNhY3B2MmdobTZLbk5MRTYxbjZhS2h4VVllQlk1UDI1TjBWdFBTVGQxQlJyeTNiZHpNbjlRWnhrQzYtSFpiSzE1bDU1aWp3ZVNQdThPTzdva29SOHRUUXFMWWlTSGVta0l6a0dUSWVSNTd5aU5NREFLdFE2aURsOWx1WFpRU2J6MmZ5TlpRZGZPWENWOFZxRnFZT0ZoZ2xCbU93WjZF?oc=5",
-      "published_date": "2026-06-04T10:15:52+00:00"
-    },
-    {
-      "title": "Iran's supreme leader says adversaries using 'hybrid warfare' aimed at creating divisions",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-at-creating-divisions",
-      "published_date": "2026-06-04T10:15:25+00:00"
-    },
-    {
-      "title": "HistoriCity: Indian history rife with games of succession rivalries",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/historicity-indian-history-rife-with-games-of-succession-rivalries-101780567758871.html",
-      "published_date": "2026-06-04T10:09:18+00:00"
-    },
-    {
-      "title": "Exiled for an anti-war drawing: A Russian family punished for dissent",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin",
-      "published_date": "2026-06-04T09:55:05+00:00"
-    },
-    {
-      "title": "'They sow the seeds of doubt and despair': Iran's supreme leader accuses US and Israel of seeking to 'divide' the nation",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/ils-sement-les-graines-du-doute-et-du-desespoir-le-guide-supreme-iranien-accuse-les-etats-unis-et-israel-de-chercher-a-diviser-la-nation-20260604",
-      "published_date": "2026-06-04T09:35:21+00:00"
-    },
-    {
-      "title": "Netanyahu squeezed between Trump and election year politics",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/06/04/trump-netanyahu-fight-lebanon-israel-election",
-      "published_date": "2026-06-04T09:10:06+00:00"
-    },
-    {
-      "title": "South Korean ruling party’s ‘flawed landslide’ election win dents Lee’s reform drive",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/week-asia/politics/article/3355947/south-korean-ruling-partys-flawed-landslide-election-win-dents-lees-reform-drive?utm_source=rss_feed",
-      "published_date": "2026-06-04T09:00:14+00:00"
-    },
-    {
-      "title": "Peru election could add to string of right-wing victories in Latin America",
-      "source": "NPR World",
-      "country": "Peru",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5844281/peru-election-could-add-to-string-of-right-wing-victories-in-latin-america",
-      "published_date": "2026-06-04T08:38:24+00:00"
-    },
-    {
-      "title": "Agreement reached with Ukraine on Hungarian minority rights, lifting EU accession veto – PM Magyar",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4130384-agreement-reached-with-ukraine-on-hungarian-minority-rights-lifting-eu-accession-veto-pm-magyar.html",
-      "published_date": "2026-06-04T08:37:00+00:00"
-    },
-    {
-      "title": "Russia ramps up pressure on Armenia ahead of Sunday's crucial election",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election",
-      "published_date": "2026-06-04T08:16:08+00:00"
-    },
-    {
-      "title": "‘No reshape’: Algeria prepares for elections but few hold out hope for change",
-      "source": "Middle East Eye",
-      "country": "Algeria",
-      "url": "https://www.middleeasteye.net/news/no-reshape-algeria-prepares-legislative-elections-few-hold-hope-for-change",
-      "published_date": "2026-06-04T08:15:53+00:00"
-    },
-    {
-      "title": "In Armenia, legislative elections under Russian pressure",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260604-arm%C3%A9nie-%C3%A9lections-pression-russe-moscou-pr%C3%A9server-influence-samvel-karapetian-nikol-pachinian",
-      "published_date": "2026-06-04T07:15:58+00:00"
-    },
-    {
-      "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race - The New York Times",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0ZxN1llZDBtZzlNZjBIcno4ZHBld2IzemhxS1lFY01xUlRjcm50RnJFQmZNZWlIbm5pMmVoSnY0b3UxNXduaXRaYWZqcnZybThuaWlJNVk1YjFCTC1IRlBUZmR3dTdoX3JNRzNyMG5PbFZvcndZTHZhSVRzbXhTQ2YxNTliUkwwTVY2Qg?oc=5",
-      "published_date": "2026-06-04T07:03:48+00:00"
-    },
-    {
-      "title": "North Korea’s Kim says ‘newly inaugurated’ nuke site opens door to ‘larger plans’",
-      "source": "Japan Times",
-      "country": "North Korea",
-      "url": "https://www.japantimes.co.jp/news/2026/06/04/asia-pacific/north-korea-kim-new-nuclear-site/",
-      "published_date": "2026-06-04T04:52:00+00:00"
-    },
-    {
-      "title": "Russia prunes Armenian rose trade ahead of election - Financial Times",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUpkR1dqNWxnZGhOdWJ3R0JRdUh5ZjlxWUVvR3hRbUNrV3BsUFZONkU0Q3YxU21vX0M5UjlDR0dPM1FmajZ2M2lYT0hUaGxhSEliLTJPWUFzRFVTUk1QYTU5ckZtNVJnVFhGcWd0MlVaZmJRbkJmMEtNU2d5LUJMVGlsR0c?oc=5",
-      "published_date": "2026-06-04T04:01:29+00:00"
-    },
-    {
-      "title": "Local elections in South Korea: Clear victory for Lee's Democratic Party",
-      "source": "FAZ Germany",
-      "country": "South Korea",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahl-in-suedkorea-deutlicher-sieg-fuer-lees-demokratische-partei-accg-200896995.html",
-      "published_date": "2026-06-04T03:31:57+00:00"
     }
   ]
 }
