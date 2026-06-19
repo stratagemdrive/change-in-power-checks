@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-19T00:26:42.524874+00:00",
-    "story_count": 396,
+    "last_updated": "2026-06-19T14:17:20.885952+00:00",
+    "story_count": 392,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right",
+      "published_date": "2026-06-19T14:07:14+00:00"
+    },
+    {
+      "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
+      "published_date": "2026-06-19T13:52:45+00:00"
+    },
+    {
+      "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-eu-uk-relations-10-years-after-the-referendum-brexit-or-regrexit",
+      "published_date": "2026-06-19T13:16:05+00:00"
+    },
+    {
+      "title": "'Political drama beckons' in the UK as Starmer vows to run in any leadership contest",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/political-drama-beckons-in-the-uk-as-starmer-vows-to-run-in-any-leadership-contest",
+      "published_date": "2026-06-19T13:06:58+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: Abelardo de la Espriella says he will give guarantees to the opposition if he wins the Presidency",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
+      "published_date": "2026-06-19T12:59:35+00:00"
+    },
+    {
+      "title": "Labor power struggle: The King of the North moves to London",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/will-keir-starmer-abloesen-wer-ist-andy-burnham-200946644.html",
+      "published_date": "2026-06-19T12:13:44+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: Ivan Cepeda, defender of human rights and social reforms",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260619-pr%C3%A9sidentielle-en-colombie-ivan-cepeda-d%C3%A9fenseur-des-droits-humains-et-des-r%C3%A9formes-sociales",
+      "published_date": "2026-06-19T12:10:50+00:00"
+    },
+    {
+      "title": "Trump’s Iran deal, corruption trial and elections: Will Netanyahu survive his perfect storm?",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-iran-us-deal-corruption-trial-b2998160.html",
+      "published_date": "2026-06-19T12:10:33+00:00"
+    },
+    {
+      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
+      "published_date": "2026-06-19T12:08:39+00:00"
+    },
+    {
+      "title": "“Donald Trump is the only head of state who is kind to the nation of Israel”: J.D. Vance’s harsh, almost threatening words to Israeli ally",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/06/19/donald-trump-est-le-seul-chef-d-etat-a-etre-bienveillant-envers-la-nation-d-israel-l-avertissement-de-j-d-vance-aux-dirigeants-israeliens_6704947_3210.html",
+      "published_date": "2026-06-19T10:15:09+00:00"
+    },
+    {
+      "title": "Labour’s Andy Burnham wins UK parliament seat, paving way for bid to oust PM Starmer",
+      "source": "Dawn Pakistan",
+      "country": "United Kingdom",
+      "url": "https://www.dawn.com/news/2009089/labours-andy-burnham-wins-uk-parliament-seat-paving-way-for-bid-to-oust-pm-starmer",
+      "published_date": "2026-06-19T09:34:23+00:00"
+    },
+    {
+      "title": "Labour hopes for 'smooth transition' as Starmer rival wins critical election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/labour-hopes-for-smooth-transition-as-starmer-rival-wins-critical-election",
+      "published_date": "2026-06-19T09:31:35+00:00"
+    },
+    {
+      "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "source": "NPR World",
+      "country": "United Kingdom",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election",
+      "published_date": "2026-06-19T07:48:19+00:00"
+    },
+    {
+      "title": "Andy Burnham wins key UK by-election, setting up Labour leadership battle with Starmer",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/19/andy-burnham-wins-key-uk-by-election-setting-up-labour-leadership-battle-with-starmer",
+      "published_date": "2026-06-19T07:07:24+00:00"
+    },
+    {
+      "title": "Makerfield election: Burnham wins – and awaits Starmer’s resignation",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/starmers-herausforderer-burnham-siegt-in-nachwahl-accg-200946168.html",
+      "published_date": "2026-06-19T06:55:29+00:00"
+    },
+    {
+      "title": "Starmer congratulates his challenger for the post of chairman on the election to the British Parliament",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10887804/Starmer-%C3%B8nsker-sin-udfordrer-til-formandsposten-tillykke-med-valg-til-britisk-parlament",
+      "published_date": "2026-06-19T06:49:08+00:00"
+    },
+    {
+      "title": "Myanmar junta using conscripts in ‘human wave’ attacks, says KIA",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-using-conscripts-in-human-wave-attacks-says-kia/",
+      "published_date": "2026-06-19T04:43:20+00:00"
+    },
+    {
+      "title": "Labour's Andy Burnham wins election, paving way for challenge to Prime Minister Starmer",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/labours-andy-burnham-vinder-valg-og-baner-vej-udfordring-af-premierminister-starmer",
+      "published_date": "2026-06-19T02:23:53+00:00"
+    },
+    {
+      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
+      "published_date": "2026-06-19T02:20:00+00:00"
+    },
     {
       "title": "Likud Legal Advisor Avi Halevy announces immediate resignation in letter to Netanyahu",
       "source": "Jerusalem Post",
@@ -191,13 +324,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mlc-elections-mahayuti-clean-sweep-10746655/",
       "published_date": "2026-06-18T16:13:40+00:00"
-    },
-    {
-      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
-      "published_date": "2026-06-18T14:32:00+00:00"
     },
     {
       "title": "Bennett forms AI advisory committee to boost Israel's national tech policy ahead of elections",
@@ -2676,160 +2802,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/los-coqueteos-de-boric-con-volver-a-ser-candidato-presidencial-en-su-aventura-por-europa/",
       "published_date": "2026-06-05T15:40:14+00:00"
-    },
-    {
-      "title": "India lodges strong protest with Pakistan over election in Gilgit-Baltistan",
-      "source": "Hindustan Times",
-      "country": "Pakistan",
-      "url": "https://www.hindustantimes.com/india-news/india-lodges-strong-protest-with-pakistan-over-election-in-gilgitbaltistan-101780668174780.html",
-      "published_date": "2026-06-05T14:02:54+00:00"
-    },
-    {
-      "title": "A young Chinese’s first encounter with Korea’s election fever",
-      "source": "Korea Times",
-      "country": "China",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260605/a-young-chineses-first-encounter-with-koreas-election-fever?utm_source=rss",
-      "published_date": "2026-06-05T13:52:03+00:00"
-    },
-    {
-      "title": "Iran dismisses idea of Trump meeting supreme leader",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/06/iran-dismisses-idea-of-trump-meeting-supreme-leader/",
-      "published_date": "2026-06-05T13:43:59+00:00"
-    },
-    {
-      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss",
-      "published_date": "2026-06-05T13:25:24+00:00"
-    },
-    {
-      "title": "Israeli ambassador to France accused of 'foreign interference' after election remarks",
-      "source": "Middle East Eye",
-      "country": "France",
-      "url": "https://www.middleeasteye.net/news/israeli-ambassador-france-accused-foreign-interference-after-election-remarks",
-      "published_date": "2026-06-05T13:00:37+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: candidate Abelardo de la Espriella spoke after protests in front of his campaign headquarters in Bogotá",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
-      "published_date": "2026-06-05T12:53:18+00:00"
-    },
-    {
-      "title": "Trump’s ‘crazy’ call dents Netanyahu’s image at key time of Israel’s election",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/americas/trump-netanyahu-phone-call-elections-b2990432.html",
-      "published_date": "2026-06-05T11:53:22+00:00"
-    },
-    {
-      "title": "Peru reaches the runoff between two uncomfortable candidates and a country that disbelieves in politics",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/peru-llega-al-balotaje-entre-dos-candidatos-incomodos-y-un-pais-descreido-de-la-politica-nid04062026/",
-      "published_date": "2026-06-05T11:49:52+00:00"
-    },
-    {
-      "title": "Labor power struggle: Starmer's biggest rival is getting closer",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/gegen-starmer-burnham-kommt-dem-premierminister-naeher-accg-200900839.html",
-      "published_date": "2026-06-05T09:35:05+00:00"
-    },
-    {
-      "title": "PFI ‘sinister organisation’, its activities could’ve caused civil war in India: NIA to court",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/nia-pfi-delhi-court-civil-war-charges-rss-argument-10725556/",
-      "published_date": "2026-06-05T09:33:04+00:00"
-    },
-    {
-      "title": "The man in the black hat: Myanmar junta chief’s closest crony resurfaces on India trip",
-      "source": "Myanmar Now",
-      "country": "India",
-      "url": "https://myanmar-now.org/en/news/the-man-in-the-black-hat-myanmar-junta-chiefs-closest-crony-resurfaces-on-india-trip/",
-      "published_date": "2026-06-05T09:28:00+00:00"
-    },
-    {
-      "title": "Russia Floods Armenia With Disinformation Ahead of Election - The New York Times",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV01MV0o4RFNaZDFlNnRKbEtveG9DTmhjY3I0NExpNVJMemU2bk1SeEgyc2VHVXBtQXdfRXR2azNIbzMtcXE4Mmx2V0J0c2ZvZ3dia2c2cE9hT2cxcEFETkFDV3gzVzVWclpzenVMZ1hxQXplMTFoWjdVOVdLZUFfYkc5VU9xX0ZMNTRpalhudUE5ZXYtaVE?oc=5",
-      "published_date": "2026-06-05T09:02:51+00:00"
-    },
-    {
-      "title": "Trump says he would be ‘honoured’ to meet Iran’s Supreme Leader amid nuclear talks",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/donald-trump-honoured-meet-iran-supreme-leader-mojtaba-khamenei-talks-10725098/",
-      "published_date": "2026-06-05T07:03:20+00:00"
-    },
-    {
-      "title": "Peruvians will vote in a runoff to pick a ninth president in 10 years as crime fears dominate - AP News",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGZFczA0OXo3cUtLNEFFMllCOFNBUlpOWWk0U0dyNzJzWk5WZnNmbmhVU3RLMk1DWkhEVEp1T19EbkZyV0QtZldGd2tTdzQ5ZWwtb3RhX0dnRlNhWkQ2MG44dW1HQWVSNm85dEVNX3FvU2U1bU9qVXZSeDhLYjhsVnZ3U1dMS2hQbFdQWVVQMUdkWHhCS1RQc1lsbmJWQ1NiWkx4a0N3?oc=5",
-      "published_date": "2026-06-05T07:03:00+00:00"
-    },
-    {
-      "title": "Five civilians dead as Myanmar junta forces advance in Bago’s Okpho Township",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/five-civilians-dead-as-myanmar-junta-forces-advance-in-bagos-okpho-township/",
-      "published_date": "2026-06-05T06:50:06+00:00"
-    },
-    {
-      "title": "Shadow of old dictatorship looms over Peru’s bitter presidential run-off",
-      "source": "South China Morning Post",
-      "country": "Peru",
-      "url": "https://www.scmp.com/news/world/americas/article/3356055/shadow-old-dictatorship-looms-over-perus-bitter-presidential-run?utm_source=rss_feed",
-      "published_date": "2026-06-05T05:56:13+00:00"
-    },
-    {
-      "title": "K Annamalai quits BJP after Tamil Nadu elections, to launch own party",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/k-annamalai-quits-bjp-after-tamil-nadu-elections-after-days-of-suspense-nitin-nabin-101780636454736.html",
-      "published_date": "2026-06-05T05:16:11+00:00"
-    },
-    {
-      "title": "The US threatens to withdraw visas from those who try to “manipulate” the elections in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/eeuu-amenaza-con-retirar-visados-a-quienes-intenten-manipular-las-elecciones-en-colombia/",
-      "published_date": "2026-06-05T04:16:06+00:00"
-    },
-    {
-      "title": "Is Iran’s new supreme leader taking up the reins of power?",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/06/05/world/politics/iran-new-supreme-leader-power/",
-      "published_date": "2026-06-05T02:49:00+00:00"
-    },
-    {
-      "title": "USA and Europe: No agreement on the successor to the German Bosnia representative",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/ausland/bosnien-herzegowina-christian-schmidt-tritt-zurueck-accg-200900257.html",
-      "published_date": "2026-06-05T01:48:11+00:00"
-    },
-    {
-      "title": "BJP names 11 candidates for Rajya Sabha elections. Check full list",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-names-11-candidates-for-rajya-sabha-elections-check-full-list-101780623243887.html",
-      "published_date": "2026-06-05T01:39:19+00:00"
-    },
-    {
-      "title": "Elections in Peru: Sánchez calls for an alliance “to recover democracy” and Keiko doubts recognition of results",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-sanchez-convoca-a-una-alianza-para-recuperar-la-democracia-y-keiko-pone-duda-reconocimiento-de-resultados/",
-      "published_date": "2026-06-05T00:44:27+00:00"
     }
   ]
 }
