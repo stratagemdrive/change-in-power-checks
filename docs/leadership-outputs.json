@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-18T14:13:24.903959+00:00",
-    "story_count": 386,
+    "last_updated": "2026-06-19T00:26:42.524874+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,158 @@
   },
   "stories": [
     {
+      "title": "Likud Legal Advisor Avi Halevy announces immediate resignation in letter to Netanyahu",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899908",
+      "published_date": "2026-06-19T02:09:27+00:00"
+    },
+    {
+      "title": "2027: APC mobilises diaspora for Tinubu’s reelection",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-apc-mobilises-diaspora-for-tinubus-reelection/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-19T00:32:59+00:00"
+    },
+    {
+      "title": "FG inaugurates task force to keep Nigeria Ebola-free",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/fg-inaugurates-task-force-to-keep-nigeria-ebola-free/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-19T00:20:27+00:00"
+    },
+    {
+      "title": "Vote counting begins in high-stakes UK by-election",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/vote-counting-begins-in-high-stakes-uk-by-election?traffic_source=rss",
+      "published_date": "2026-06-18T23:32:23+00:00"
+    },
+    {
+      "title": "Ramiro Marra asked Milei for Adorni's resignation in an open letter",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/ramiro-marra-le-pidio-a-milei-la-renuncia-de-adorni-en-una-carta-abierta-nid18062026/",
+      "published_date": "2026-06-18T22:52:29+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Supreme Leader says Trump made a deal out of ‘desperation’ after US lifts naval blockade",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-peace-deal-strait-of-hormuz-oil-b2998073.html",
+      "published_date": "2026-06-18T22:44:47+00:00"
+    },
+    {
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-18T21:34:28+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says Donald Trump sought peace deal out of 'desperation'",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/06/lider-supremo-de-iran-afirma-que-donald-trump-busco-el-acuerdo-de-paz-motivado-por-la-desesperacion/",
+      "published_date": "2026-06-18T20:44:04+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss",
+      "published_date": "2026-06-18T20:19:39+00:00"
+    },
+    {
+      "title": "Pension reform: for Emmanuel Macron, his successor will have to “restart the project”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/conjoncture/reforme-des-retraites-pour-emmanuel-macron-son-successeur-devra-reprendre-le-chantier-20260618",
+      "published_date": "2026-06-18T20:18:17+00:00"
+    },
+    {
+      "title": "Drone strike on youth soccer bus pushes both Minsk and exiled Belarusian opposition to issue the same warning: Don’t go to Russia",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/18/drone-strike-on-youth-soccer-bus-pushes-both-minsk-and-exiled-belarusian-opposition-to-issue-the-same-warning-don-t-go-to-russia",
+      "published_date": "2026-06-18T19:37:43+00:00"
+    },
+    {
+      "title": "Why I approved US deal despite having different view – Iran’s supreme leader",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/06/why-i-approved-us-deal-despite-having-different-view-irans-supreme-leader/",
+      "published_date": "2026-06-18T19:11:02+00:00"
+    },
+    {
+      "title": "Trump: I'll likely support Netanyahu in next Israeli election, but need to see who is running",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-899871",
+      "published_date": "2026-06-18T18:54:54+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says he authorized deal, direct talks with U.S.",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/06/18/iran-us-deal-supreme-leader-mojtaba-khamenei-talks",
+      "published_date": "2026-06-18T18:30:49+00:00"
+    },
+    {
+      "title": "Iranian supreme leader says direct talks with US do 'not mean accepting its views'",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-says-direct-talks-us-do-not-mean-accepting-its-views",
+      "published_date": "2026-06-18T18:19:07+00:00"
+    },
+    {
+      "title": "Karnataka MLC elections: Full list of winners as Congress one-ups the BJP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/karnataka-mlc-elections-full-list-of-winners-as-congress-one-ups-the-bjp-101781804347754.html",
+      "published_date": "2026-06-18T17:56:22+00:00"
+    },
+    {
+      "title": "Grau is still breathing: another RN steps down from the accusation, but his fate still depends on the PDG and the liberals",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/politica/noticia/grau-aun-respira-otro-rn-se-baja-de-la-acusacion-pero-su-suerte-sigue-dependiendo-del-pdg-y-de-los-liberales/",
+      "published_date": "2026-06-18T17:30:00+00:00"
+    },
+    {
+      "title": "Khamenei’s post-war Iran: What comes next for the regime's Supreme Leader? - analysis",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-899857",
+      "published_date": "2026-06-18T16:24:33+00:00"
+    },
+    {
+      "title": "Maharashtra council elections: BJP-led Mahayuti eyes clean sweep in 17 MLC seats",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mlc-elections-mahayuti-clean-sweep-10746655/",
+      "published_date": "2026-06-18T16:13:40+00:00"
+    },
+    {
+      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
+      "published_date": "2026-06-18T14:32:00+00:00"
+    },
+    {
       "title": "Bennett forms AI advisory committee to boost Israel's national tech policy ahead of elections",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899832",
       "published_date": "2026-06-18T14:19:02+00:00"
+    },
+    {
+      "title": "Chinese-British nationals jailed after being convicted of spying on exiled Hong Kong dissidents",
+      "source": "Euronews",
+      "country": "China",
+      "url": "http://www.euronews.com/my-europe/2026/06/18/chinese-british-nationals-jailed-after-being-convicted-of-spying-on-exiled-hong-kong-dissi",
+      "published_date": "2026-06-18T14:12:01+00:00"
     },
     {
       "title": "DPK factional divide becomes more visible after local elections",
@@ -128,13 +275,6 @@
       "country": "United Kingdom",
       "url": "http://www.euronews.com/my-europe/2026/06/18/voters-head-to-the-polls-in-key-uk-by-election-that-could-determine-britains-next-pm",
       "published_date": "2026-06-18T09:42:14+00:00"
-    },
-    {
-      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
-      "published_date": "2026-06-18T07:14:00+00:00"
     },
     {
       "title": "EU referendum on departure centers splits the Danish governing parties",
@@ -2690,76 +2830,6 @@
       "country": "Peru",
       "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-sanchez-convoca-a-una-alianza-para-recuperar-la-democracia-y-keiko-pone-duda-reconocimiento-de-resultados/",
       "published_date": "2026-06-05T00:44:27+00:00"
-    },
-    {
-      "title": "Iran-US war latest: Trump says he’s not the Supreme Leader’s ‘favourite person’ after airstrike killed his family",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-kuwait-israel-lebanon-b2989234.html",
-      "published_date": "2026-06-04T23:32:11+00:00"
-    },
-    {
-      "title": "#ElFiltro: President Gustavo Petro confuses voting results abroad to claim that there was fraud in the Colombian elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-presidente-gustavo-petro-confunde-resultados-de-votaciones-en-el-exterior-para-afirmar-que-hubo-fraude-en-las-elecciones-de-colombia-3562153",
-      "published_date": "2026-06-04T23:18:14+00:00"
-    },
-    {
-      "title": "Biennial elections to Upper House: BJP nominates 11 candidates for Rajya Sabha polls in five states",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/biennial-elections-to-upper-house-bjp-nominates-11-candidates-for-rajya-sabha-polls-in-five-states-10724669/",
-      "published_date": "2026-06-04T22:50:46+00:00"
-    },
-    {
-      "title": "Why is the US so invested in Colombia’s election?",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
-      "published_date": "2026-06-04T22:05:23+00:00"
-    },
-    {
-      "title": "The US threatens to withdraw visas from those who manipulate the elections in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/ee-uu-amenaza-con-retirar-visas-a-quienes-manipulen-las-elecciones-en-colombia/",
-      "published_date": "2026-06-04T22:03:58+00:00"
-    },
-    {
-      "title": "Legislative elections in Armenia: wind of misinformation coming from Russia",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260604-l%C3%A9gislatives-en-arm%C3%A9nie-vent-d-infox-venu-de-russie",
-      "published_date": "2026-06-04T21:01:53+00:00"
-    },
-    {
-      "title": "Massive disinformation campaign underway in Armenia ahead of elections, analysts warn",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/massive-disinformation-campaign-underway-in-armenia-ahead-of-elections-analysts-warn",
-      "published_date": "2026-06-04T19:05:51+00:00"
-    },
-    {
-      "title": "EU backs Pashinyan on the eve of Armenia's defining elections",
-      "source": "Euronews",
-      "country": "Armenia",
-      "url": "http://www.euronews.com/2026/06/04/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections",
-      "published_date": "2026-06-04T16:43:39+00:00"
-    },
-    {
-      "title": "Voloshyn: Russians fake claims of capturing Huliaipilske",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4130591-voloshyn-russians-fake-claims-of-capturing-huliaipilske.html",
-      "published_date": "2026-06-04T16:19:00+00:00"
-    },
-    {
-      "title": "India avoids commenting on the Venezuelan transition and defines the interim government as \"friendly\"",
-      "source": "El Nacional Venezuela",
-      "country": "India",
-      "url": "https://www.elnacional.com/2026/06/india-evita-comentar-la-transicion-venezolana-y-define-al-gobierno-interino-como-amistoso/",
-      "published_date": "2026-06-04T14:15:00+00:00"
     }
   ]
 }
