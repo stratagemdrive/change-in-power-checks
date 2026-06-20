@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-20T00:08:04.708827+00:00",
-    "story_count": 394,
+    "last_updated": "2026-06-20T12:31:28.462987+00:00",
+    "story_count": 395,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff",
+      "published_date": "2026-06-20T12:00:01+00:00"
+    },
+    {
+      "title": "Colombia 2026 Elections: follow the day before the second round between Iván Cepeda and Abelardo de la Espriella this Sunday, June 21",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
+      "published_date": "2026-06-20T11:21:06+00:00"
+    },
+    {
+      "title": "What is at stake in Colombia: Five keys to the runoff between Cepeda and De la Espriella",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/cepeda-vs-de-la-espriella-las-claves-del-balotaje-en-colombia/",
+      "published_date": "2026-06-20T10:00:00+00:00"
+    },
+    {
+      "title": "UK: Labour leadership battle? Ministers reportedly urge Keir Starmer to step down",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
+      "published_date": "2026-06-20T09:36:01+00:00"
+    },
+    {
+      "title": "Peru: Voters await result of presidential election, the closest in the country's history",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
+      "published_date": "2026-06-20T09:18:30+00:00"
+    },
+    {
+      "title": "Pre-candidate for the government of MG listed as Lula's name called for Dilma's impeachment",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/pre-candidato-ao-governo-de-mg-cotado-como-nome-de-lula-pediu-impeachment-de-dilma.shtml",
+      "published_date": "2026-06-20T09:00:00+00:00"
+    },
+    {
+      "title": "Omnipresent in the campaign, Petro eclipses his own candidate and conditions the runoff in Colombia",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/omnipresente-en-campana-petro-eclipsa-a-su-propio-candidato-y-condiciona-el-balotaje-nid19062026/",
+      "published_date": "2026-06-20T06:34:54+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: learn about the road closures in the center of Bogotá, Corferias and other points for the second round",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-conozca-los-cierres-en-el-centro-de-bogota-corferias-y-otros-puntos-por-la-segunda-vuelta-del-21-de-junio-3565644",
+      "published_date": "2026-06-20T05:32:30+00:00"
+    },
+    {
+      "title": "Colombia accuses Milei of “intervening” in the elections after his support for De la Espriella",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/colombia-acusa-a-milei-de-intervenir-en-las-elecciones-tras-su-respaldo-a-de-la-espriella/",
+      "published_date": "2026-06-20T05:29:14+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: can the candidates change their vice-presidential formula for the second round?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-los-candidatos-pueden-cambiar-su-formula-vicepresidencial-para-la-segunda-vuelta-3565558",
+      "published_date": "2026-06-20T02:45:47+00:00"
+    },
+    {
+      "title": "Karnataka MLC election: BJP summons state leaders amid cross-voting row",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-calls-state-leaders-to-delhi-over-cross-voting-101781896200858.html",
+      "published_date": "2026-06-20T00:44:10+00:00"
+    },
     {
       "title": "Movement for Venezuela supports meetings of Dinorah Figuera with the interim government and the United States",
       "source": "El Nacional Venezuela",
@@ -72,13 +149,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-presidencial-ivan-cepeda-no-dijo-que-promovera-las-iglesias-satanicas-en-colombia-un-video-fue-manipulado-con-ia-3565568",
       "published_date": "2026-06-19T22:21:00+00:00"
-    },
-    {
-      "title": "Omnipresent in the campaign, Petro eclipses his own candidate and conditions the runoff in Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/omnipresente-en-campana-petro-eclipsa-a-su-propio-candidato-y-condiciona-el-balotaje-nid19062026/",
-      "published_date": "2026-06-19T22:03:36+00:00"
     },
     {
       "title": "Expert after Cuba's coup: \"The situation is very dramatic\"",
@@ -2753,69 +2823,6 @@
       "country": "South Korea",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage?utm_source=rss_feed",
       "published_date": "2026-06-06T12:30:05+00:00"
-    },
-    {
-      "title": "South Korean protesters keep calling for re-run of election after ballot shortage - Reuters",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVDR5UUJjYnFhX2FuZ2NhaWdKQUNjUDloZ0MxR0JZN1VFdzUtaXJDSFpWNllZSXVyckFfYUZza01taEhWZjY3Y3RYaE9yZDZNT3V4d3ZOT0kzQTBvS3BiMjdpQWRCRXpaUjRXWWdFanpTUTAyX1BoSVJIVHYzbDQwdlNFcmFZOXo2elBwUnh4X1hxcGxWYmEwR3FlandIZURSVFZtWVd6UEhrN2hjVk5pNjRNdHhvaXdybFQ0cFdaS050NVlCTUh3Rw?oc=5",
-      "published_date": "2026-06-06T11:13:46+00:00"
-    },
-    {
-      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says",
-      "published_date": "2026-06-06T10:22:37+00:00"
-    },
-    {
-      "title": "The weight of anti-Fujimorism facing the runoff in Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/el-peso-del-antifujimorismo-de-cara-al-balotaje-en-peru/",
-      "published_date": "2026-06-06T10:00:00+00:00"
-    },
-    {
-      "title": "“If the Central brought the dollar closer to the ceiling of the band, Milei would almost ensure re-election”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/pablo-gerchunoff-si-el-central-acercara-el-dolar-al-techo-de-la-banda-milei-casi-se-aseguraria-la-nid06062026/",
-      "published_date": "2026-06-06T09:49:18+00:00"
-    },
-    {
-      "title": "Elections in Armenia: voters, prey to Russian disinformation",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-elections-en-arm%C3%A9nie-les-%C3%A9lecteurs-proies-de-la-d%C3%A9sinformation-russe",
-      "published_date": "2026-06-06T09:37:35+00:00"
-    },
-    {
-      "title": "Legislative elections in Armenia: disillusioned Armenian youth",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-elections-l%C3%A9gislatives-en-arm%C3%A9nie-une-jeunesse-arm%C3%A9nienne-d%C3%A9sabus%C3%A9e",
-      "published_date": "2026-06-06T09:33:27+00:00"
-    },
-    {
-      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "source": "BBC World",
-      "country": "Armenia",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T07:06:43+00:00"
-    },
-    {
-      "title": "INTERVIEW: Why we’re mobilising Christian youths for Tinubu-Shettima’s re-election – CYM",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/885321-interview-why-were-mobilising-christian-youths-for-tinubu-shettimas-re-election-cym.html",
-      "published_date": "2026-06-06T06:00:49+00:00"
-    },
-    {
-      "title": "‘Gilgit-Baltistan Assembly’ elections: India lodges strong protest with Pakistan",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/gilgit-baltistan-assembly-elections-india-lodges-strong-protest-with-pakistan-10726381/",
-      "published_date": "2026-06-06T00:30:47+00:00"
     }
   ]
 }
