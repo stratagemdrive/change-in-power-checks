@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-19T14:17:20.885952+00:00",
-    "story_count": 392,
+    "last_updated": "2026-06-20T00:08:04.708827+00:00",
+    "story_count": 394,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,102 @@
   },
   "stories": [
     {
+      "title": "Movement for Venezuela supports meetings of Dinorah Figuera with the interim government and the United States",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/movimiento-por-venezuela-respalda-reuniones-de-dinorah-figuera-con-el-gobierno-interino-y-ee-uu/",
+      "published_date": "2026-06-19T23:08:53+00:00"
+    },
+    {
+      "title": "#ElFiltro: presidential candidate Iván Cepeda did not say that he will promote satanic churches in Colombia; a video was manipulated with AI",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-presidencial-ivan-cepeda-no-dijo-que-promovera-las-iglesias-satanicas-en-colombia-un-video-fue-manipulado-con-ia-3565568",
+      "published_date": "2026-06-19T22:21:00+00:00"
+    },
+    {
+      "title": "Omnipresent in the campaign, Petro eclipses his own candidate and conditions the runoff in Colombia",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/omnipresente-en-campana-petro-eclipsa-a-su-propio-candidato-y-condiciona-el-balotaje-nid19062026/",
+      "published_date": "2026-06-19T22:03:36+00:00"
+    },
+    {
+      "title": "Expert after Cuba's coup: \"The situation is very dramatic\"",
+      "source": "Politiken Denmark",
+      "country": "Cuba",
+      "url": "https://politiken.dk/internationalt/art10888850/Ekspert-efter-Cubas-kovending-%C2%BBSituationen-er-meget-dramatisk%C2%AB",
+      "published_date": "2026-06-19T19:51:06+00:00"
+    },
+    {
+      "title": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVJoT1NBaGxDelcyNnhXc3VnNm8tVE9jZ3RnWlo4WFVTRzctVXlaU0ItdTRuR29CaWpnUjJ1bGpCUHZ6WUhOSnZMVk4zRVAtMW44UGhEcExrcHJBVmoyUjF1OFVPLUo3M20tcHZJcFJFa1A4bzNEaTlnR3pXTnJ6Z1Rrcnp5UWFxWVVqQktnc2FtU3g2Zjd4bmNLbjRvdUY0Vk12cDN2dWk?oc=5",
+      "published_date": "2026-06-19T19:00:00+00:00"
+    },
+    {
+      "title": "Could ‘king in the north’ become Britain’s new prime minister?",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
+      "published_date": "2026-06-19T18:25:01+00:00"
+    },
+    {
+      "title": "Andy Burnham hopes his election victory will pave the way for him to become British prime minister",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/06/19/le-travailliste-andy-burnham-espere-que-sa-victoire-a-l-election-partielle-de-makerfield-va-lui-ouvrir-la-voie-vers-downing-street_6705014_3210.html",
+      "published_date": "2026-06-19T18:20:22+00:00"
+    },
+    {
+      "title": "Around Emmanuel Macron, the temptation of a dissolution before the presidential election... Les indiscrets du Figaro",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/autour-d-emmanuel-macron-la-tentation-d-une-dissolution-avant-la-presidentielle-les-indiscrets-du-figaro-20260619",
+      "published_date": "2026-06-19T18:00:00+00:00"
+    },
+    {
+      "title": "'There are challenges, but what the political system should be doing is giving signs of confidence': Transparency for Colombia on elections",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hay-retos-pero-que-lo-que-deberia-estar-haciendo-el-sistema-politico-es-dar-senales-de-confianza-transparencia-por-colombia-sobre-elecciones-3565540",
+      "published_date": "2026-06-19T17:49:17+00:00"
+    },
+    {
+      "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
+      "published_date": "2026-06-19T17:30:04+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: this is how electoral witnesses can download their accreditation certificate for next June 21",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-asi-es-como-los-testigos-electorales-pueden-descargar-su-acta-de-acreditacion-para-el-proximo-21-de-junio-3565452",
+      "published_date": "2026-06-19T16:33:04+00:00"
+    },
+    {
+      "title": "Makerfield by-election results 2026: Andy Burnham’s win piles pressure on Keir Starmer. Is Labour heading for a leadership battle?",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/ndy-burnham-makerfield-by-election-win-keir-starmer-labour-leadership-crisis-10748070/",
+      "published_date": "2026-06-19T16:01:38+00:00"
+    },
+    {
+      "title": "Trump’s Iran deal, corruption trial and elections: Will Netanyahu survive his perfect storm?",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-iran-us-deal-corruption-trial-b2998160.html",
+      "published_date": "2026-06-19T16:00:23+00:00"
+    },
+    {
       "title": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
       "source": "France 24 English",
       "country": "Colombia",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right",
       "published_date": "2026-06-19T14:07:14+00:00"
-    },
-    {
-      "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-      "published_date": "2026-06-19T13:52:45+00:00"
     },
     {
       "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
@@ -107,13 +191,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20260619-pr%C3%A9sidentielle-en-colombie-ivan-cepeda-d%C3%A9fenseur-des-droits-humains-et-des-r%C3%A9formes-sociales",
       "published_date": "2026-06-19T12:10:50+00:00"
-    },
-    {
-      "title": "Trump’s Iran deal, corruption trial and elections: Will Netanyahu survive his perfect storm?",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-iran-us-deal-corruption-trial-b2998160.html",
-      "published_date": "2026-06-19T12:10:33+00:00"
     },
     {
       "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
@@ -2739,69 +2816,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/india/gilgit-baltistan-assembly-elections-india-lodges-strong-protest-with-pakistan-10726381/",
       "published_date": "2026-06-06T00:30:47+00:00"
-    },
-    {
-      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
-      "published_date": "2026-06-05T21:56:23+00:00"
-    },
-    {
-      "title": "Armenian election commission rejects appeal to deregister main opposition group",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-election-commission-rejects-appeal-to-deregister-main-opposition-group/",
-      "published_date": "2026-06-05T20:43:38+00:00"
-    },
-    {
-      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
-      "published_date": "2026-06-05T20:37:44+00:00"
-    },
-    {
-      "title": "Israeli strikes on Lebanon, war in Ukraine, crucial legislative elections in Armenia",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260605-frappes-isra%C3%A9liennes-sur-le-liban-guerre-en-ukraine-l%C3%A9gislatives-cruciales-en-arm%C3%A9nie",
-      "published_date": "2026-06-05T19:34:39+00:00"
-    },
-    {
-      "title": "Carlos Carrillo officially presented his resignation as director of the UNGRD: President Petro has not accepted it",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/carlos-carrillo-presento-oficialmente-su-renuncia-como-director-de-la-ungrd-presidente-petro-no-la-ha-aceptado-3562407",
-      "published_date": "2026-06-05T19:07:27+00:00"
-    },
-    {
-      "title": "Explaining Israel's elections: Ten scenarios Israelis should prepare for in 2026 - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-898282",
-      "published_date": "2026-06-05T18:12:43+00:00"
-    },
-    {
-      "title": "Pakistan ‘categorically rejects’ India’s remarks on GB elections as ‘baseless’",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2005452/pakistan-categorically-rejects-indias-remarks-on-gb-elections-as-baseless",
-      "published_date": "2026-06-05T17:10:56+00:00"
-    },
-    {
-      "title": "Armenian officials warn of compulsory military service for citizens ‘bribed’ to fly in from Russia and vote in weekend parliamentary election",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/06/05/armenian-officials-warn-of-compulsory-military-service-for-citizens-bribed-to-fly-in-from-russia-and-vote-in-weekend-parliamentary-election",
-      "published_date": "2026-06-05T16:44:01+00:00"
-    },
-    {
-      "title": "Boric's flirtations with being a presidential candidate again in his adventure through Europe",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/los-coqueteos-de-boric-con-volver-a-ser-candidato-presidencial-en-su-aventura-por-europa/",
-      "published_date": "2026-06-05T15:40:14+00:00"
     }
   ]
 }
