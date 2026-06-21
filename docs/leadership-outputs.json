@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-20T12:31:28.462987+00:00",
-    "story_count": 395,
+    "last_updated": "2026-06-21T00:06:55.217383+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "The De la Espriella phenomenon: the outsider who has Milei and Bukele as models arrives as a favorite in the runoff in Colombia",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-fenomeno-de-la-espriella-el-outsider-que-tiene-a-milei-y-bukele-como-modelos-llega-como-favorito-nid20062026/",
+      "published_date": "2026-06-20T23:10:47+00:00"
+    },
+    {
+      "title": "Senator Bernie Moreno is already in Colombia to be an observer of the presidential elections: 'Colombia is at a decisive moment'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-estadounidense-bernie-moreno-ya-esta-en-colombia-para-ser-observador-de-las-elecciones-de-segunda-vuelta-presidencial-esta-es-su-decision-3565800",
+      "published_date": "2026-06-20T22:58:16+00:00"
+    },
+    {
+      "title": "King Charles to publish personal tax bill in first for UK head of state",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
+      "published_date": "2026-06-20T22:27:54+00:00"
+    },
+    {
+      "title": "Elections in Colombia: Trump is about to regain an essential ally and Lula is about to be left alone in South America",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-trump-esta-a-punto-de-recuperar-un-aliado-esencial-y-lula-de-quedarse-solo-en-nid20062026/",
+      "published_date": "2026-06-20T22:09:03+00:00"
+    },
+    {
+      "title": "There was no regime change in Iran, and Donald Trump knows it - opinion",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/opinion/article-899697",
+      "published_date": "2026-06-20T20:48:43+00:00"
+    },
+    {
+      "title": "Gustavo Petro asked to avoid riots during Sunday's elections: 'No citizen who has defended this Government should attack anyone'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-pidio-evitar-disturbios-durante-las-elecciones-del-domingo-ningun-ciudadano-que-haya-defendido-este-gobierno-debe-agredir-a-nadie-3565725",
+      "published_date": "2026-06-20T20:36:22+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: Until when can you use the benefits provided by the electoral certificate after voting? What Colombian law says",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-se-vence-el-certificado-electoral-despues-de-votar-esto-es-lo-que-dice-la-ley-colombiana-sobre-su-vigencia-3565770",
+      "published_date": "2026-06-20T20:02:22+00:00"
+    },
+    {
+      "title": "Party conference in Passau: Power struggle in the Bavarian AfD decided for the time being",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/bayerische-afd-stephan-protschka-mit-79-prozent-wiedergewaehlt-200950438.html",
+      "published_date": "2026-06-20T16:16:19+00:00"
+    },
+    {
+      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-06-20T16:04:37+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia 2026: National Government advances closure of land and river borders; these are the schedules",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/segunda-vuelta-presidencial-gobierno-adelanta-el-cierre-temporal-de-fronteras-terrestres-y-fluviales-3565724",
+      "published_date": "2026-06-20T15:41:34+00:00"
+    },
+    {
+      "title": "In Colombia, a second round of the presidential election under the sign of polarization",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/06/20/en-colombie-un-second-tour-de-l-election-presidentielle-sous-le-signe-de-la-polarisation_6705316_3210.html",
+      "published_date": "2026-06-20T15:00:03+00:00"
+    },
+    {
+      "title": "Datafolha: Trump's support for Presidential candidate in Brazil is indifferent to 65% of voters",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/datafolha-apoio-de-trump-a-candidato-a-presidencia-no-brasil-e-indiferente-para-65-dos-eleitores.shtml",
+      "published_date": "2026-06-20T15:00:00+00:00"
+    },
+    {
+      "title": "Datafolha: Lula and Flávio Bolsonaro are already contesting elections with the appearance of a second round",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/datafolha-lula-e-flavio-bolsonaro-ja-disputam-eleicao-com-cara-de-segundo-turno.shtml",
+      "published_date": "2026-06-20T15:00:00+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Arrest of Beni Halba leader triggers new escalation in tribal war with Salamat | Thousands of RSF fighters deployed around Obeid, military braces for offensive | RSF torches villages, kills civilians in Zaghawa lands | Senior Hemedti advisor defects from RSF | Democratic Bloc chair joins consultations in Oslo",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/06/20/news/u/sudan-nashra-arrest-of-beni-halba-leader-triggers-new-escalation-in-tribal-war-with-salamat-thousands-of-rsf-fighters-deployed-around-obeid-military-braces-for-offensive-rsf-torches-villages-ki/",
+      "published_date": "2026-06-20T12:28:10+00:00"
+    },
+    {
+      "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote - The Guardian",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUduQXhfZ3VMbGw5U3RURUtyREZYVGFEd3UzcDFXZHJHZkFMdzI1VXlSaEZycFpvUF9BbzlGcm41RExrYmh2amRENlFuS05VNjFLZGZRRXRKWXp0Tl8wX3pmN0xnRFl5RURuYVVnX3BjNHBWZUNaTXRKZVFJNXROV1ZIVndQdnY1TV95R0k2ZDdGRGc1NHF3WTBzTkxtWjIwZW1PN3RCOA?oc=5",
+      "published_date": "2026-06-20T12:01:00+00:00"
+    },
     {
       "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
       "source": "The Guardian World",
@@ -2725,104 +2830,6 @@
       "country": "South Korea",
       "url": "https://www.japantimes.co.jp/news/2026/06/07/asia-pacific/south-koreans-ballot-protest/",
       "published_date": "2026-06-07T00:29:00+00:00"
-    },
-    {
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "source": "BBC World",
-      "country": "Peru",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T23:17:43+00:00"
-    },
-    {
-      "title": "TDP announces three Rajya Sabha candidates for upcoming elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tdp-announces-three-rajya-sabha-candidates-for-upcoming-elections-101780787716813.html",
-      "published_date": "2026-06-06T23:17:25+00:00"
-    },
-    {
-      "title": "Trial opens against Peruvian presidential candidate Roberto Sánchez on the eve of the second electoral round",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/abren-juicio-al-candidato-presidencial-peruano-roberto-sanchez-en-visperas-de-la-segunda-vuelta-electoral/",
-      "published_date": "2026-06-06T23:12:14+00:00"
-    },
-    {
-      "title": "Election in Armenia becomes a test of Russian influence",
-      "source": "NPR World",
-      "country": "Armenia",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5846940/election-in-armenia-becomes-a-test-of-russian-influence",
-      "published_date": "2026-06-06T21:05:37+00:00"
-    },
-    {
-      "title": "Extortion and violence expand in Peru and mark an election crossed by panic",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-extorsion-y-la-violencia-se-expanden-en-peru-y-marcan-una-eleccion-atravesada-por-el-panico-nid06062026/",
-      "published_date": "2026-06-06T20:59:54+00:00"
-    },
-    {
-      "title": "Elections in Armenia, the country that increasingly looks to Trump and Europe and that Putin refuses to lose",
-      "source": "La Nacion Argentina",
-      "country": "Armenia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-armenia-el-pais-que-mira-cada-vez-mas-a-trump-y-europa-y-que-putin-se-resiste-a-perder-nid06062026/",
-      "published_date": "2026-06-06T19:23:33+00:00"
-    },
-    {
-      "title": "Second round of the presidential elections in Colombia 2026: Iván Cepeda asks Caracol, RCN and RTVC for debates with Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cancilleria-rechaza-cualquier-intento-de-injerencia-externa-en-proceso-electoral-colombiano-3562553",
-      "published_date": "2026-06-06T19:19:14+00:00"
-    },
-    {
-      "title": "One year since the attack against Miguel Uribe Turbay, the crime that transformed the presidential election in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/un-ano-del-atentado-contra-miguel-uribe-turbay-el-crimen-que-transformo-la-eleccion-presidencial-en-colombia/",
-      "published_date": "2026-06-06T18:21:00+00:00"
-    },
-    {
-      "title": "Why are Armenia’s elections being so keenly watched abroad?",
-      "source": "Al Jazeera English",
-      "country": "Armenia",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss",
-      "published_date": "2026-06-06T18:19:02+00:00"
-    },
-    {
-      "title": "Armenia arrests six candidates for pro-Russian opposition party day before vote",
-      "source": "The Independent UK",
-      "country": "Armenia",
-      "url": "https://www.independent.co.uk/news/world/europe/armenia-election-russia-arrests-party-b2991037.html",
-      "published_date": "2026-06-06T14:34:17+00:00"
-    },
-    {
-      "title": "Although the election is polarized, corruption remains one of the biggest concerns in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/aunque-la-eleccion-esta-polarizada-la-corrupcion-sigue-siendo-una-de-las-mayores-preocupaciones-en-peru/",
-      "published_date": "2026-06-06T13:33:00+00:00"
-    },
-    {
-      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss",
-      "published_date": "2026-06-06T13:23:02+00:00"
-    },
-    {
-      "title": "Colombia's presidential runoff could impact the future of the Amazon rainforest and fossil fuels",
-      "source": "The Independent UK",
-      "country": "Colombia",
-      "url": "https://www.independent.co.uk/news/world/americas/colombia-amazon-donald-trump-amazon-rainforest-bogota-b2991006.html",
-      "published_date": "2026-06-06T13:10:17+00:00"
-    },
-    {
-      "title": "South Korean protesters demand ‘election re-run’ after ballot shortage",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage?utm_source=rss_feed",
-      "published_date": "2026-06-06T12:30:05+00:00"
     }
   ]
 }
