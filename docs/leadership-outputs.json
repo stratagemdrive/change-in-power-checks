@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-21T00:06:55.217383+00:00",
-    "story_count": 396,
+    "last_updated": "2026-06-21T13:09:27.800116+00:00",
+    "story_count": 387,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Sybiha urges Polish politicians not to build election campaigns around 'Ukrainian issue'",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4136119-sybiha-urges-polish-politicians-not-to-build-election-campaigns-around-ukrainian-issue.html",
+      "published_date": "2026-06-21T12:55:00+00:00"
+    },
+    {
+      "title": "Result of presidential elections in the second round Colombia 2026: the installation of the polls begins, which open from 8 in the morning",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultado-elecciones-presidenciales-en-segunda-vuelta-colombia-2026-desde-las-8-de-la-manana-se-abren-urnas-siga-la-jornada-de-votacion-3565831",
+      "published_date": "2026-06-21T12:48:40+00:00"
+    },
+    {
+      "title": "Presidential elections in Colombia: check the voting locations enabled in Chile this Sunday, June 21",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/servicios/noticia/elecciones-presidenciales-en-colombia-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-21-de-junio/",
+      "published_date": "2026-06-21T12:31:50+00:00"
+    },
+    {
+      "title": "Colombians in Madrid went to the polls to elect their new president in the second round",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/colombianos-en-madrid-acudieron-a-las-urnas-para-elegir-a-su-nuevo-presidente-en-segunda-vuelta/",
+      "published_date": "2026-06-21T12:21:23+00:00"
+    },
+    {
+      "title": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
+      "source": "NPR World",
+      "country": "Colombia",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombias-presidential-runoff-election-will-decide-how-the-country-continues-to-tackle-drug-trafficking",
+      "published_date": "2026-06-21T12:06:08+00:00"
+    },
+    {
+      "title": "This is how the border with Venezuela dawned after the early closure due to elections in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/asi-amanecio-la-frontera-con-venezuela-despues-del-cierre-anticipado-por-elecciones-en-colombia/",
+      "published_date": "2026-06-21T11:28:25+00:00"
+    },
+    {
+      "title": "Ekiti Election: Tinubu congratulates Oyebanji, urges him to be magnanimous in victory",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/06/ekiti-election-tinubu-congratulates-oyebanji-urges-him-to-be-magnanimous-in-victory/",
+      "published_date": "2026-06-21T10:18:30+00:00"
+    },
+    {
+      "title": "Keir Starmer hit by resignation rumors as allies deny he is stepping down",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/uk-pm-keir-starmer-resignation-timetable-andy-burnham-labour-party-chequers-10750463/",
+      "published_date": "2026-06-21T10:08:52+00:00"
+    },
+    {
+      "title": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/who-is-ivan-cepeda-left-wing-candidate-in-colombia-s-presidential-elections",
+      "published_date": "2026-06-21T09:52:05+00:00"
+    },
+    {
+      "title": "Amid buzz over leadership change, Rahul Gandhi meets Punjab Congress leaders",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/amid-buzz-over-leadership-change-rahul-gandhi-meets-leaders-from-punjab-10750429/",
+      "published_date": "2026-06-21T09:46:34+00:00"
+    },
+    {
+      "title": "Colombians to vote in presidential run-off pitting leftist against hardliner - Al Jazeera",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGJaYndEMHdSYjhnYjZGTl9VOHRST3ZSTmtkQVE0RHlyaU40ZUtaYWdWeGtXUmdjbHVrWGZwSWhZN2N2UWQ1RlNDNVRxeGhPU0xJQlI3YjNVdmtfRDhOTDA5elFZWEN4Sk0xazdRNVZvZkI3OEJOX1V1VUk4Mm9UcHY1ZGR2Rnp6Q01Lb3drVW1jWDlOR3o5X3dtWjNhdjhaWXJ1SFpCRGluNllkb2RrUGNEUkJLLWxj0gG-AUFVX3lxTFBwalZvMG1hYzNpTW5oRnhQYVc2Qm5YMUd5TXdyUm44NVd4cFp2Q09nOWxnMVVFZ01jVVdCWk50cGNKR3pzOG1vMllGajVwSG03eEEzOUpoQWY1eWtTRVh3X2dJZXFaNnB5R0tXNm1YQTlyM3hZcWNWQm5pUmVMN2YtVXhzQzZicnE0Q2ZJTGJWYU5HYUExcWgwMXIyUzUwY3hQYy1uRnE0M2FINF8xWG5aVWlSa0l3R0ZmZmZEanc?oc=5",
+      "published_date": "2026-06-21T09:43:25+00:00"
+    },
+    {
+      "title": "Colombians to vote in presidential run-off pitting leftist against hardliner",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
+      "published_date": "2026-06-21T09:38:58+00:00"
+    },
+    {
+      "title": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/who-is-abelardo-de-la-esperiella-far-right-candidate-in-the-colombian-presidential-election",
+      "published_date": "2026-06-21T09:10:26+00:00"
+    },
+    {
+      "title": "Ballot in Colombia: De la Espriella and Cepeda face each other in an election of extremes after a very polarized campaign",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/balotaje-en-colombia-de-la-espriella-y-cepeda-se-enfrentan-en-una-eleccion-de-extremos-tras-una-nid21062026/",
+      "published_date": "2026-06-21T09:00:01+00:00"
+    },
+    {
+      "title": "Presidential election in Colombia: who is the left-wing candidate Ivan Cepeda?",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-pr%C3%A9sidentielle-en-colombie-qui-est-le-candidat-de-gauche-ivan-cepeda",
+      "published_date": "2026-06-21T08:26:23+00:00"
+    },
+    {
+      "title": "Colombians vote in presidential runoff between Trump-backed hardliner, leftist senator",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260621-high-stakes-colombia-vote-sees-trump-backed-hardliner-face-leftist-senator",
+      "published_date": "2026-06-21T06:31:11+00:00"
+    },
+    {
+      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "published_date": "2026-06-21T05:00:22+00:00"
+    },
+    {
+      "title": "Europe must not fall into Putin’s traps, Estonia’s FM says",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4136009-europe-must-not-fall-into-putins-traps-estonias-fm-says.html",
+      "published_date": "2026-06-21T04:25:00+00:00"
+    },
+    {
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T23:17:51+00:00"
+    },
     {
       "title": "The De la Espriella phenomenon: the outsider who has Milei and Bukele as models arrives as a favorite in the runoff in Colombia",
       "source": "La Nacion Argentina",
@@ -2634,202 +2767,6 @@
       "country": "Chile",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/santiago-botero-aseguro-que-denuncia-de-violencia-intrafamiliar-previa-a-las-elecciones-fue-un-ataque-politico-3562707",
       "published_date": "2026-06-07T13:51:01+00:00"
-    },
-    {
-      "title": "Legislative elections in Armenia as a test for Nikol Pashinian",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-elections-l%C3%A9gislatives-en-arm%C3%A9nie-%C3%A0-valeur-de-test-pour-nikol-pachinian",
-      "published_date": "2026-06-07T12:57:38+00:00"
-    },
-    {
-      "title": "Legislative elections in Armenia: who is Nikol Pashinian?",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-elections-l%C3%A9gislatives-en-arm%C3%A9nie-qui-est-nikol-pachinian",
-      "published_date": "2026-06-07T12:54:31+00:00"
-    },
-    {
-      "title": "Seoul result denies both major parties outright victory in local elections",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260607/seoul-result-denies-both-major-parties-outright-victory-in-local-elections?utm_source=rss",
-      "published_date": "2026-06-07T12:22:03+00:00"
-    },
-    {
-      "title": "Farida Rustamova, Russian politician in exile: “Putin is in an impasse, unable to win or abandon this war”",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/07/farida-rustamova-politiste-russe-en-exil-poutine-est-dans-l-impasse-incapable-de-gagner-ou-d-abandonner-cette-guerre_6698993_3232.html",
-      "published_date": "2026-06-07T12:00:04+00:00"
-    },
-    {
-      "title": "Jérôme Fourquet: “Can Jean-Luc Mélenchon dream of the second round of the presidential election in 2027?”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/jerome-fourquet-melenchon-peut-il-rever-du-second-tour-en-2027-20260504",
-      "published_date": "2026-06-07T11:34:40+00:00"
-    },
-    {
-      "title": "Armenia polls: Why both the West and Russia have an eye on the elections of a small West Asian nation",
-      "source": "Indian Express",
-      "country": "Russia",
-      "url": "https://indianexpress.com/article/explained/explained-global/armenia-elections-stakes-russia-eu-india-10728404/",
-      "published_date": "2026-06-07T11:19:27+00:00"
-    },
-    {
-      "title": "Roberto Sánchez, Peruvian presidential candidate, and relationship with Chile: “We do not have any border difficulties, we are in total peace”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-candidato-presidencial-peruano-y-relacion-con-chile-no-tenemos-ninguna-dificultad-limitrofe-estamos-en-paz-total/",
-      "published_date": "2026-06-07T10:57:03+00:00"
-    },
-    {
-      "title": "Keir Starmer will be ‘part of’ any Labour leadership race, deputy says",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3356256/keir-starmer-will-be-part-any-labour-leadership-race-deputy-says?utm_source=rss_feed",
-      "published_date": "2026-06-07T10:39:58+00:00"
-    },
-    {
-      "title": "Polling stations open in Armenia for parliamentary elections",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-ouverture-des-bureaux-de-vote-en-arm%C3%A9nie-pour-les-%C3%A9lections-l%C3%A9gislatives",
-      "published_date": "2026-06-07T10:10:29+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: close duel for a ninth president in ten years",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-duel-serr%C3%A9-pour-un-neuvi%C3%A8me-pr%C3%A9sident-en-dix-ans",
-      "published_date": "2026-06-07T09:56:52+00:00"
-    },
-    {
-      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
-      "published_date": "2026-06-07T09:56:04+00:00"
-    },
-    {
-      "title": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/video/20260607-armenians-vote-in-parliamentary-elections-seen-as-referendum-on-independence",
-      "published_date": "2026-06-07T09:43:46+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: close duel between Sanchez and Fujimori",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-duel-serr%C3%A9-entre-sanchez-et-fujimori",
-      "published_date": "2026-06-07T09:36:04+00:00"
-    },
-    {
-      "title": "Armenia’s ruling party leads parliamentary vote with 54% in early results",
-      "source": "South China Morning Post",
-      "country": "Armenia",
-      "url": "https://www.scmp.com/news/world/europe/article/3356251/eu-and-russia-clash-armenians-head-polls-putin-fumes?utm_source=rss_feed",
-      "published_date": "2026-06-07T09:29:10+00:00"
-    },
-    {
-      "title": "Armenia election: what the vote could mean for Russia, the West and Azerbaijan",
-      "source": "RFI English",
-      "country": "Azerbaijan",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260607-caught-between-moscow-and-the-west-armenia-goes-to-the-polls",
-      "published_date": "2026-06-07T09:10:09+00:00"
-    },
-    {
-      "title": "Election in Armenia: Putin fears losing his influence",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-eine-wahl-zwischen-eu-und-moskau-accg-200869741.html",
-      "published_date": "2026-06-07T08:53:04+00:00"
-    },
-    {
-      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
-      "published_date": "2026-06-07T08:45:01+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: close Fujimori-Sanchez duel to elect a ninth head of state in ten years",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-un-duel-serr%C3%A9-fujimori-sanchez-pour-un-neuvi%C3%A8me-chef-d-%C3%A9tat-en-dix-ans",
-      "published_date": "2026-06-07T05:45:19+00:00"
-    },
-    {
-      "title": "Armenian parliamentary vote will test prime minister's pivot from Russia",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/europe/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
-      "published_date": "2026-06-07T05:21:40+00:00"
-    },
-    {
-      "title": "South Koreans demand re-election due to too few ballots",
-      "source": "DR News Denmark",
-      "country": "South Korea",
-      "url": "https://www.dr.dk/nyheder/seneste/sydkoreanere-kraever-omvalg-paa-grund-af-faa-stemmesedler",
-      "published_date": "2026-06-07T05:19:45+00:00"
-    },
-    {
-      "title": "Armenia's elections to deliver verdict on cautious pivot west",
-      "source": "RFI English",
-      "country": "Armenia",
-      "url": "https://www.rfi.fr/en/international/20260607-armenia-s-elections-to-deliver-verdict-on-cautious-pivot-west",
-      "published_date": "2026-06-07T05:15:46+00:00"
-    },
-    {
-      "title": "US-Israel-Iran War News Live Updates: Pakistan delivers letter to Iran’s Supreme Leader as US downs Tehran drones",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/us-israel-iran-war-news-live-updates-israel-hormuz-forces-regional-tensions-10727843/",
-      "published_date": "2026-06-07T05:13:59+00:00"
-    },
-    {
-      "title": "Legislative elections in Armenia: polling stations have opened, test ballot for Nikol Pashinian",
-      "source": "France 24 FR",
-      "country": "Armenia",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260607-l%C3%A9gislatives-en-arm%C3%A9nie-les-bureaux-de-vote-ont-ouvert-scrutin-test-pour-nikol-pachinian",
-      "published_date": "2026-06-07T05:05:25+00:00"
-    },
-    {
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "source": "The Guardian World",
-      "country": "Peru",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "published_date": "2026-06-07T05:00:24+00:00"
-    },
-    {
-      "title": "Peru votes for president in tight runoff between conservative Fujimori, leftist Sanchez",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260607-peru-set-for-presidential-vote-between-conservative-fujimori-and-leftist-sanchez",
-      "published_date": "2026-06-07T04:57:29+00:00"
-    },
-    {
-      "title": "Live updates | Polls open in Armenia in crucial parliamentary elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/live-updates-polls-open-in-armenia-in-crucial-parliamentary-elections/",
-      "published_date": "2026-06-07T04:03:22+00:00"
-    },
-    {
-      "title": "'Although the election results show Colombians divided, we are not condemned to be so'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/aunque-los-resultados-de-elecciones-muestran-a-los-colombianos-divididos-no-estamos-condenados-a-serlo-3562653",
-      "published_date": "2026-06-07T03:57:07+00:00"
-    },
-    {
-      "title": "South Koreans protest over ballot mishap, demanding local election rerun",
-      "source": "Japan Times",
-      "country": "South Korea",
-      "url": "https://www.japantimes.co.jp/news/2026/06/07/asia-pacific/south-koreans-ballot-protest/",
-      "published_date": "2026-06-07T00:29:00+00:00"
     }
   ]
 }
