@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-21T13:09:27.800116+00:00",
-    "story_count": 387,
+    "last_updated": "2026-06-22T00:10:56.843552+00:00",
+    "story_count": 402,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,258 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Right-wing candidate Abelardo De La Espriella wins Colombian presidential election in tight race",
+      "source": "Jerusalem Post",
+      "country": "Colombia",
+      "url": "https://www.jpost.com/international/article-900089",
+      "published_date": "2026-06-22T01:49:02+00:00"
+    },
+    {
+      "title": "Who won the elections in Colombia 2026: official results between Abelardo de la Espriella and Iván Cepeda",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-va-ganando-las-elecciones-en-colombia-2026-resultados-entre-abelardo-de-la-espriella-e-ivan-nid21062026/",
+      "published_date": "2026-06-22T00:03:02+00:00"
+    },
+    {
+      "title": "Elections in Colombia 2026: who is Abelardo “El Tigre” de la Espriella, the new Trump ally president",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-colombia-2026-quien-es-abelardo-el-tigre-de-la-espriella-el-nuevo-presidente-aliado-de-nid21062026/",
+      "published_date": "2026-06-22T00:02:38+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: how to consult the E-14 minutes after the close of voting in the second round?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-como-consultar-las-actas-e-14-tras-el-cierre-de-votaciones-de-la-segunda-vuelta-3565951",
+      "published_date": "2026-06-21T23:59:18+00:00"
+    },
+    {
+      "title": "Bernie Moreno, US senator, spoke after elections in Colombia and said that he finished speaking with Abelardo de la Espriella: 'New chapter'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bernie-moreno-senador-de-ee-uu-se-pronuncio-tras-elecciones-en-colombia-y-dijo-que-acabo-de-hablar-con-abelardo-de-la-espriella-nuevo-capitulo-3565957",
+      "published_date": "2026-06-21T23:56:54+00:00"
+    },
+    {
+      "title": "This is how the international press records the victory of Abelardo de la Espriella in the pre-count of the presidential elections in Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-registra-la-prensa-internacional-la-victoria-de-abelardo-de-la-espriella-en-el-preconteo-de-las-elecciones-presidenciales-en-colombia-3565940",
+      "published_date": "2026-06-21T23:54:52+00:00"
+    },
+    {
+      "title": "Javier Milei celebrated the victory of De la Espriella in the Colombian elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-festejo-el-triunfo-de-de-la-espriella-en-las-elecciones-de-colombia-nid21062026/",
+      "published_date": "2026-06-21T23:51:07+00:00"
+    },
+    {
+      "title": "Colombia live: Abelardo de la Espriella, candidate of the hard right, wins the presidential election",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260621-presidentielle-colombienne-en-direct-un-duel-entre-ivan-cepeda-et-abelardo-de-la-espriella-deuxieme-tour",
+      "published_date": "2026-06-21T23:09:03+00:00"
+    },
+    {
+      "title": "Colombia: Abelardo de la Espriella, ultra-right candidate supported by Donald Trump, elected president",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-abelardo-de-la-espriella-candidat-de-l-utradroite-soutenu-par-donald-trump-elu-president_6706155_3210.html",
+      "published_date": "2026-06-21T23:04:12+00:00"
+    },
+    {
+      "title": "Petro denounces alleged irregularities in the Colombian elections: \"It is still not possible to know who the president is\"",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/petro-denuncia-presuntas-irregularidades-en-las-elecciones-de-colombia/",
+      "published_date": "2026-06-21T23:03:58+00:00"
+    },
+    {
+      "title": "Petro denounces “many irregularities” in elections that De la Espriella wins",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Colombia",
+      "url": "https://efectococuyo.com/internacionales/petro-denuncia-muchas-irregularidades-en-elecciones-que-gana-de-la-espriella/",
+      "published_date": "2026-06-21T23:01:06+00:00"
+    },
+    {
+      "title": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+      "published_date": "2026-06-21T22:51:47+00:00"
+    },
+    {
+      "title": "Petro denounces irregularities in Colombia's tight presidential election and calls to wait for definitive scrutiny",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/petro-denuncia-irregularidades-en-ajustada-eleccion-presidencial-de-colombia-y-llama-a-esperar-escrutinio-definitivo/",
+      "published_date": "2026-06-21T22:41:14+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella won the Colombian presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/abelardo-de-la-espriella-es-el-nuevo-presidente-de-colombia/",
+      "published_date": "2026-06-21T22:27:08+00:00"
+    },
+    {
+      "title": "Abelardo De la Espriella wins the Presidency of Colombia in close elections",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Colombia",
+      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-gana-la-presidencia-de-colombia-en-renidas-elecciones/",
+      "published_date": "2026-06-21T22:25:57+00:00"
+    },
+    {
+      "title": "Starmer expected to set out resignation timetable within days",
+      "source": "Japan Times",
+      "country": "United Kingdom",
+      "url": "https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/",
+      "published_date": "2026-06-21T22:12:00+00:00"
+    },
+    {
+      "title": "Presidential runoff: Colombia bets on change in a close election",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/balotaje-presidencial-colombia-elige-entre-dos-modelos-politicos-opuestos-en-una-renida-eleccion-nid21062026/",
+      "published_date": "2026-06-21T21:43:56+00:00"
+    },
+    {
+      "title": "Colombia closed the polls and hopes to meet its new president quickly",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/el-mundo/abren-las-urnas-en-colombia-en-un-balotaje-cargado-de-tension-y-con-dos-modelos-opuestos-nid21062026/",
+      "published_date": "2026-06-21T21:39:57+00:00"
+    },
+    {
+      "title": "Colombians vote in a presidential runoff that pits an outsider against a progressive - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVJHUHV0QWpad1RsZ3czaHFKb1hOU1V4aW5oeGZlbkFfeVNIdHdVdmpqQmRQMUh0cHlFUXFzcnNHdjU1aXNqUFU5NV9lVHZJdVI3QS1aSjJ3LXY3aDlqTnJmeFcyVzZfWVE3a0VOU2VLcU16RzlzQ2hWcTYtWTdHRTM2ODhZby1Od3V4UGM3OXRHbC1XNlRBNGozTUowcFM4N0VYS3IxS3JiVDJNTEpyeHdicw?oc=5",
+      "published_date": "2026-06-21T20:53:00+00:00"
+    },
+    {
+      "title": "🔴 Live | Colombia Runoff: Cepeda acknowledges preliminary results but vows to challenge votes at 33,000 polling stations",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round",
+      "published_date": "2026-06-21T20:23:56+00:00"
+    },
+    {
+      "title": "Colombia: a historic presidential election?",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-colombie-un-scrutin-pr%C3%A9sidentiel-historique",
+      "published_date": "2026-06-21T20:21:47+00:00"
+    },
+    {
+      "title": "Keir Starmer prepares his resignation and would pave the way for Andy Burnham as the new leader of Great Britain",
+      "source": "La Nacion Argentina",
+      "country": "United Kingdom",
+      "url": "https://www.lanacion.com.ar/el-mundo/keir-starmer-prepara-su-renuncia-y-le-allanaria-el-camino-a-andy-burnham-como-nuevo-lider-de-gran-nid21062026/",
+      "published_date": "2026-06-21T19:58:30+00:00"
+    },
+    {
+      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
+      "published_date": "2026-06-21T19:58:00+00:00"
+    },
+    {
+      "title": "Trump-endorsed right-wing candidate leads in tight Colombia presidential race",
+      "source": "CBC News World",
+      "country": "Colombia",
+      "url": "https://www.cbc.ca/news/world/colombia-presidential-race-9.7243896?cmp=rss",
+      "published_date": "2026-06-21T19:54:20+00:00"
+    },
+    {
+      "title": "Colombians mocked the closure of the border with Venezuela to vote in the presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/colombianos-burlaron-el-cierre-de-la-frontera-con-venezuela-para-ir-a-votar-en-las-elecciones-presidenciales/",
+      "published_date": "2026-06-21T19:51:07+00:00"
+    },
+    {
+      "title": "How Colombia's growing and brutal internal conflict defines its presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/como-el-creciente-y-brutal-conflicto-interno-de-colombia-define-sus-elecciones-presidenciales/",
+      "published_date": "2026-06-21T19:13:00+00:00"
+    },
+    {
+      "title": "OAS willing to support new elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/oea-dispuesta-a-apoyar-nuevas-elecciones-en-venezuela/",
+      "published_date": "2026-06-21T18:43:34+00:00"
+    },
+    {
+      "title": "Keir Starmer, facing rumors of resignation in the United Kingdom, increases consultations",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html",
+      "published_date": "2026-06-21T17:54:06+00:00"
+    },
+    {
+      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
+      "published_date": "2026-06-21T16:37:49+00:00"
+    },
+    {
+      "title": "Left versus right: What to know about Colombia’s highly polarised presidential election",
+      "source": "Indian Express",
+      "country": "Colombia",
+      "url": "https://indianexpress.com/article/explained/explained-global/colombia-presidential-election-runoff-cepeda-vs-de-la-espriella-10750770/",
+      "published_date": "2026-06-21T16:19:48+00:00"
+    },
+    {
+      "title": "Relive Spain's landslide victory over Saudi Arabia",
+      "source": "La Tercera Chile",
+      "country": "Saudi Arabia",
+      "url": "https://www.latercera.com/el-deportivo/noticia/en-vivo-la-seleccion-espanola-de-lamine-yamal-quiere-dejar-atras-su-irregular-estreno-contra-arabia-saudita/",
+      "published_date": "2026-06-21T15:45:22+00:00"
+    },
+    {
+      "title": "Economist José Manuel Puente urged Trump to prioritize calling elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/economista-jose-manuel-puente-insto-a-trump-a-priorizar-la-convocatoria-de-elecciones-en-venezuela/",
+      "published_date": "2026-06-21T15:05:30+00:00"
+    },
+    {
+      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "published_date": "2026-06-21T14:44:36+00:00"
+    },
+    {
+      "title": "Starmer reflecting on 'political realities' amid reports of imminent resignation",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/21/starmer-reflecting-on-political-realities-amid-reports-of-imminent-resignation",
+      "published_date": "2026-06-21T14:09:34+00:00"
+    },
+    {
+      "title": "Trump-backed de la Espriella or leftist Cepeda? Colombians elect a new president",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/trump-backed-de-la-espriella-or-leftist-cepeda-colombians-elect-a-new-president",
+      "published_date": "2026-06-21T13:27:36+00:00"
+    },
+    {
+      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "source": "Deutsche Welle English",
+      "country": "United Kingdom",
+      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-06-21T13:24:00+00:00"
+    },
     {
       "title": "Sybiha urges Polish politicians not to build election campaigns around 'Ukrainian issue'",
       "source": "Ukrinform",
@@ -95,9 +347,16 @@
       "published_date": "2026-06-21T12:06:08+00:00"
     },
     {
+      "title": "Colombia runoff vote shaped by security fears and conflict warnings",
+      "source": "NPR World",
+      "country": "Colombia",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
+      "published_date": "2026-06-21T12:06:08+00:00"
+    },
+    {
       "title": "This is how the border with Venezuela dawned after the early closure due to elections in Colombia",
       "source": "El Nacional Venezuela",
-      "country": "Colombia",
+      "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/06/asi-amanecio-la-frontera-con-venezuela-despues-del-cierre-anticipado-por-elecciones-en-colombia/",
       "published_date": "2026-06-21T11:28:25+00:00"
     },
@@ -165,18 +424,18 @@
       "published_date": "2026-06-21T08:26:23+00:00"
     },
     {
+      "title": "Colombia chooses Petro's successor between De La Espriella and Cepeda",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Colombia",
+      "url": "https://efectococuyo.com/internacionales/colombia-elegira-al-sucesor-de-petro-entre-de-la-espriella-y-cepeda/",
+      "published_date": "2026-06-21T08:16:00+00:00"
+    },
+    {
       "title": "Colombians vote in presidential runoff between Trump-backed hardliner, leftist senator",
       "source": "France 24 English",
       "country": "Colombia",
       "url": "https://www.france24.com/en/americas/20260621-high-stakes-colombia-vote-sees-trump-backed-hardliner-face-leftist-senator",
       "published_date": "2026-06-21T06:31:11+00:00"
-    },
-    {
-      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "published_date": "2026-06-21T05:00:22+00:00"
     },
     {
       "title": "Europe must not fall into Putin’s traps, Estonia’s FM says",
@@ -2613,160 +2872,6 @@
       "country": "Colombia",
       "url": "https://www.latercera.com/editorial/noticia/las-senales-de-la-eleccion-colombiana/",
       "published_date": "2026-06-08T00:31:00+00:00"
-    },
-    {
-      "title": "Elections in Peru, live: Keiko Fujimori vs. Roberto Sánchez, the future president is defined in the runoff",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-en-vivo-keiko-fujimori-vs-roberto-sanchez-se-define-el-futuro-presidente-en-el-nid07062026/",
-      "published_date": "2026-06-07T23:56:22+00:00"
-    },
-    {
-      "title": "Petro once again denounces alleged electoral fraud in Colombia and questions vote counting",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/petro-vuelve-a-denunciar-supuesto-fraude-electoral-en-colombia-y-cuestiona-conteo-de-votos/",
-      "published_date": "2026-06-07T23:48:12+00:00"
-    },
-    {
-      "title": "Peru's presidential election runoff is too close to call, exit poll shows - Reuters",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWVQeUxRVDhwYk1Bbm5pOWx4SS1KM1VXSUtqSTRMQUNhd0NrZXptLXJhb3lMSndCb2haV0RMQWQ4VUs5NE9iSEQwel9NVms4dzhsdlk1Z1o2QnctcVFldmFzSTJsRjdlc1FURklNbmlTYXlwNGc2MkY3ajVGX3dta1NVNUlYYVNVbmpXOXJ0TjB2MUVpdWFCUno2QllXVWhJUUt0QmEza3VGUklpTXlUNVowR1JucFFvMHRReFRNcFRtUQ?oc=5",
-      "published_date": "2026-06-07T22:56:24+00:00"
-    },
-    {
-      "title": "Ballot in Peru: exit poll gives advantage to Keiko Fujimori",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/balotaje-en-peru-sondeo-a-boca-de-urna-le-da-ventaja-a-keiko-fujimori/",
-      "published_date": "2026-06-07T22:25:45+00:00"
-    },
-    {
-      "title": "Trump storms out of tense NBC interview about Iran war strategy, election fraud claims",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy?utm_source=rss_feed",
-      "published_date": "2026-06-07T21:27:06+00:00"
-    },
-    {
-      "title": "Lula's campaign creates a social media monitoring center and takes more legal action in this election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/campanha-de-lula-cria-central-de-monitoramento-das-redes-sociais-e-judicializa-mais-eleicoes.shtml",
-      "published_date": "2026-06-07T20:30:00+00:00"
-    },
-    {
-      "title": "Armenia PM declares 'historic victory' as vote tallying continues in parliamentary vote",
-      "source": "CBC News World",
-      "country": "Armenia",
-      "url": "https://www.cbc.ca/news/world/armenia-election-nikol-pashinyan-9.7226866?cmp=rss",
-      "published_date": "2026-06-07T20:26:04+00:00"
-    },
-    {
-      "title": "Ruling party leads Armenia parliamentary election, exit polls show - politico.eu",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjlWSElFSjVuNGNmOVdObzNXVGR3U3BJYlNNSnhQYWdkbWxtMlNOenh0U1dOQ2dFSmgteGdHLWZjdVZtVDRpVUFCV0N4cWJyNW5VYW1XbUlYaGhRMkozcWtuOXZjaThOdjhjbTdSbW9DVlBUZ1k0NWRld3lXV0kzNlBvckp6X3dPUTNiY0pBUkw?oc=5",
-      "published_date": "2026-06-07T19:30:09+00:00"
-    },
-    {
-      "title": "Nabin instructs BJP cadre in Jharkhand to gear up for 2029 Assembly election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/jharkhand/nitin-nabin-instructs-bjp-cadre-in-jharkhand-to-gear-up-for-2029-assembly-election/article71073526.ece",
-      "published_date": "2026-06-07T19:17:24+00:00"
-    },
-    {
-      "title": "Pashinyan’s party leading in Armenian parliamentary election, Reuters reports",
-      "source": "Ukrinform",
-      "country": "Armenia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4131424-pashinyans-party-leads-in-armenian-parliamentary-election-reuters-reports.html",
-      "published_date": "2026-06-07T19:14:00+00:00"
-    },
-    {
-      "title": "Peru votes in a runoff marked by polarization and the specter of the political crisis",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/peru-vota-en-un-ballottage-marcado-por-la-polarizacion-y-el-fantasma-de-la-crisis-politica-nid07062026/",
-      "published_date": "2026-06-07T19:06:27+00:00"
-    },
-    {
-      "title": "Two delegates were arrested in elections in Peru for having marked 90 voting cards",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/dos-delegados-fueron-detenidos-en-elecciones-en-peru-por-haber-marcado-90-cedulas-de-votacion/",
-      "published_date": "2026-06-07T18:40:12+00:00"
-    },
-    {
-      "title": "Peru 2026 Elections: uncertainty takes over the voting centers in Lima",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/videos/noticia/elecciones-peru-2026-la-incertidumbre-se-toma-los-centros-de-votacion-en-lima/",
-      "published_date": "2026-06-07T17:37:42+00:00"
-    },
-    {
-      "title": "Accusation of vote buying: Arrests overshadow parliamentary election in Armenia",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-hohe-beteiligung-bei-wahl-200906603.html",
-      "published_date": "2026-06-07T16:49:13+00:00"
-    },
-    {
-      "title": "Elections in Peru: second round between Fujimori and Sánchez to elect the country's ninth president in 10 years",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-segunda-vuelta-entre-fujimori-y-sanchez-para-elegir-al-noveno-presidente-del-pais-en-10-anos/",
-      "published_date": "2026-06-07T16:27:51+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: AI image shows Abelardo de la Espriella with Andrés Felipe Arias",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-abelardo-de-la-espriella-respondio-a-nuevo-llamado-de-debates-de-ivan-cepeda-3562701",
-      "published_date": "2026-06-07T16:21:37+00:00"
-    },
-    {
-      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
-      "source": "France 24 English",
-      "country": "Armenia",
-      "url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future",
-      "published_date": "2026-06-07T15:34:21+00:00"
-    },
-    {
-      "title": "TDP announces three candidates for Rajya Sabha elections",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-announces-three-candidates-for-rajya-sabha-elections/article71072189.ece",
-      "published_date": "2026-06-07T15:33:53+00:00"
-    },
-    {
-      "title": "Armenians vote in general election watched closely by Russia and the West",
-      "source": "NPR World",
-      "country": "Russia",
-      "url": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west",
-      "published_date": "2026-06-07T15:30:44+00:00"
-    },
-    {
-      "title": "Bundling state elections?: What the states say about the idea of ​​“midterms” in Germany",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/midterm-vorschlag-ministerpraesidenten-sagen-nein-accg-200890991.html",
-      "published_date": "2026-06-07T14:24:51+00:00"
-    },
-    {
-      "title": "Peruvian presidential election: check the voting locations enabled in Chile this Sunday, June 7",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/servicios/noticia/eleccion-presidencial-de-peru-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-7-de-junio/",
-      "published_date": "2026-06-07T14:03:38+00:00"
-    },
-    {
-      "title": "Santiago Botero assured that the complaint of domestic violence prior to the elections was a 'political attack': 'I am going to show evidence'",
-      "source": "El Tiempo Colombia",
-      "country": "Chile",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/santiago-botero-aseguro-que-denuncia-de-violencia-intrafamiliar-previa-a-las-elecciones-fue-un-ataque-politico-3562707",
-      "published_date": "2026-06-07T13:51:01+00:00"
     }
   ]
 }
