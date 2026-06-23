@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-23T00:06:47.166026+00:00",
-    "story_count": 431,
+    "last_updated": "2026-06-23T13:47:57.200060+00:00",
+    "story_count": 440,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,195 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Colombia 2026 presidential elections: scrutiny advances after victory of Abelardo de la Espriella; international leaders ask to respect results",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-se-espera-el-resultado-esta-semana-3566304",
+      "published_date": "2026-06-23T13:33:45+00:00"
+    },
+    {
+      "title": "No 10 says there will be ‘no new major policy or spending commitments’ before new PM appointed – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
+      "published_date": "2026-06-23T13:17:51+00:00"
+    },
+    {
+      "title": "South Ossetian Leader Steps Down to Become Putin Adviser",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/06/23/south-ossetian-leader-steps-down-to-become-putin-adviser-a93077",
+      "published_date": "2026-06-23T12:56:31+00:00"
+    },
+    {
+      "title": "Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDFHckRtby1vZFlHa0UyZHhpcDJHOWRIM3g5QWFDVlBvY2lDRnVIZUhQWkswUXE4aDQ5NnRvTFVSUVBmQlF4UlhZbVJEc2szZElDTktFOEtFSmVZUm1RUkNRc3FZVFRtYUhNWGVlMVlwVE1XN3RYWDN2WWVBUUJHc0kyMFlOMHB6Q3FrUlBYeGltZXBtb0VFV0xQLVh1aVdnVW1MVWUzZTZsM1IwWlE?oc=5",
+      "published_date": "2026-06-23T12:37:00+00:00"
+    },
+    {
+      "title": "10 years after Brexit, Starmer’s resignation highlights Britain’s deeper issues - NBC News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMF84RFVxaUo3cGVLVDdPWDJNWHhTZjh4M2JNWklidjlmOXp1Y2IyQkkxLTJnT0pPVzhaSTFsRmJ4Q25PYjNRdk9wT0M0ZjdibHFCSzFpS0NGSFVmNjFDYmpfVWZWenBfZUI2ZjhTY3I0blVBQ3ZON092X1lmUXRiaUlpNzlweGJDcEcwMHcxZDRxMElzb0V0ZzFCelkzY2s5NEpFbHNONUh3MVVoN0c5bHh3NjFfNGZF?oc=5",
+      "published_date": "2026-06-23T11:27:04+00:00"
+    },
+    {
+      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
+      "published_date": "2026-06-23T11:16:27+00:00"
+    },
+    {
+      "title": "4 big changes in the United Kingdom 10 years after the referendum on its departure from the European Union (and how possible its return to the bloc is now)",
+      "source": "El Nacional Venezuela",
+      "country": "United Kingdom",
+      "url": "https://www.elnacional.com/2026/06/4-grandes-cambios-en-reino-unido-10-anos-despues-del-referendo-sobre-su-salida-de-la-union-europea-y-que-tan-posible-es-ahora-su-regreso-al-bloque/",
+      "published_date": "2026-06-23T10:39:19+00:00"
+    },
+    {
+      "title": "BJP’s lone Christian minister resigns: Who is George Kurian?",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-christian-minister-george-kurian-10753436/",
+      "published_date": "2026-06-23T10:33:12+00:00"
+    },
+    {
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T10:27:04+00:00"
+    },
+    {
+      "title": "Protests erupt in Colombia as far-right set to win presidential election",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/protests-erupt-in-colombia-as-far-right-set-to-win-presidential-election",
+      "published_date": "2026-06-23T10:03:42+00:00"
+    },
+    {
+      "title": "Rick Scott: “We must set a date for the elections in Venezuela and it must be soon”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/rick-scott-entrevista-elecciones-venezuela-sanciones-delcy-rodriguez/",
+      "published_date": "2026-06-23T10:00:00+00:00"
+    },
+    {
+      "title": "EXCLUSIVE: 30 witnesses to testify against suspected Nigerian coup plotters (FULL LIST)",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/889960-exclusive-30-witnesses-to-testify-against-suspected-nigerian-coup-plotters-full-list.html",
+      "published_date": "2026-06-23T09:58:45+00:00"
+    },
+    {
+      "title": "UK facing 'pivotal moment' as it prepares for 7th PM since Brexit vote",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/uk-facing-pivotal-moment-as-it-prepares-for-7th-pm-since-brexit-vote",
+      "published_date": "2026-06-23T09:50:03+00:00"
+    },
+    {
+      "title": "United Kingdom: Andy Burnham at the threshold of Downing Street after the resignation of Keir Starmer",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260623-royaume-uni-andy-burnham-au-seuil-de-downing-street-apr%C3%A8s-la-d%C3%A9mission-de-keir-starmer",
+      "published_date": "2026-06-23T09:45:51+00:00"
+    },
+    {
+      "title": "Defection awaiting Lok Sabha Speaker's nod, NDA's number boost on hold: Latest in Sena-UBT rebellion",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/defection-awaiting-lok-sabha-speaker-nod-nda-number-boost-on-hold-latest-sena-ubt-rebellion-uddhav-thackery-101782201963785.html",
+      "published_date": "2026-06-23T09:40:55+00:00"
+    },
+    {
+      "title": "Myanmar junta holds talks with Wa, Mongla leaders amid broader push for ceasefires",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-holds-talks-with-wa-mongla-leaders-amid-broader-push-for-ceasefires/",
+      "published_date": "2026-06-23T09:40:38+00:00"
+    },
+    {
+      "title": "Trump renews his criticism of Starmer after his resignation and charges against his policies on “energy and immigration”",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/trump-renueva-sus-criticas-a-starmer-tras-su-dimision-y-carga-contra-sus-politicas-en-energia-e-inmigracion/",
+      "published_date": "2026-06-23T09:37:59+00:00"
+    },
+    {
+      "title": "Home of opposition Armenia Alliance MP searched amidst post-election recriminations",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/home-of-opposition-armenia-alliance-mp-searched-amidst-post-election-recriminations/",
+      "published_date": "2026-06-23T09:35:30+00:00"
+    },
+    {
+      "title": "Expert Explains | Ten years after referendum, how Brexit has reshaped UK’s economy and politics",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/explained/explained-global/expert-explains-ten-years-after-referendum-how-brexit-has-reshaped-uks-economy-and-politics-10753368/",
+      "published_date": "2026-06-23T09:14:15+00:00"
+    },
+    {
+      "title": "Labour MPs mull leadership challenge after Starmer resigns",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/23/labour-mps-mull-leadership-challenge-after-starmer-resigns",
+      "published_date": "2026-06-23T09:08:06+00:00"
+    },
+    {
+      "title": "Europe Today: Starmer's resignation, Brexit and the Poland-Ukraine row",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/06/23/europe-today-starmers-resignation-brexit-and-the-poland-ukraine-row",
+      "published_date": "2026-06-23T06:01:14+00:00"
+    },
+    {
+      "title": "Peruvian candidate Roberto Sánchez requests the annulment of the presidential elections abroad",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/candidato-peruano-roberto-sanchez-pide-la-nulidad-de-las-elecciones-presidenciales-en-el-extranjero/",
+      "published_date": "2026-06-23T05:33:25+00:00"
+    },
+    {
+      "title": "Taiwan KMT opposition leader falls short on U.S. trip",
+      "source": "Japan Times",
+      "country": "Taiwan",
+      "url": "https://www.japantimes.co.jp/commentary/2026/06/23/world/taiwan-opposition-leader-us-trip/",
+      "published_date": "2026-06-23T05:03:00+00:00"
+    },
+    {
+      "title": "Andy Burnham, 'King of the North', sworn in as MP hours after Starmer's exit; could become next UK PM as early as July",
+      "source": "Hindustan Times",
+      "country": "United Kingdom",
+      "url": "https://www.hindustantimes.com/india-news/andy-burnham-king-of-the-north-sworn-in-as-mp-hours-after-starmers-exit-could-become-next-uk-pm-as-early-as-july-101782188624688.html",
+      "published_date": "2026-06-23T04:39:26+00:00"
+    },
+    {
+      "title": "Minister George Kurian resigns as BJP overlooks him for Rajya Sabha term",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/minister-george-kurian-resigns-as-bjp-skips-him-for-rajya-sabha-term-10752863/",
+      "published_date": "2026-06-23T04:28:46+00:00"
+    },
+    {
+      "title": "Who is George Kurian? BJP leader steps down as Union minister, President accepts resignation",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/who-is-george-kurian-resigns-bjp-union-minister-of-state-for-minority-affairs-rajya-sabha-101782186805359.html",
+      "published_date": "2026-06-23T04:11:18+00:00"
+    },
+    {
+      "title": "UK remembers 10 years of Brexit amid prime minister's resignation",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/reino-unido-recuerda-10-anos-del-brexit-en-medio-de-renuncia-del-primer-ministro/",
+      "published_date": "2026-06-23T00:35:04+00:00"
+    },
     {
       "title": "Presidency blasts Obi over call for Tinubu’s resignation",
       "source": "The Punch Nigeria",
@@ -547,6 +736,13 @@
       "source": "BBC World",
       "country": "Colombia",
       "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T03:31:40+00:00"
+    },
+    {
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-22T03:31:40+00:00"
     },
     {
@@ -2942,139 +3138,6 @@
       "country": "Iran",
       "url": "https://indianexpress.com/article/world/iran-ayatollah-ali-khamenei-funeral-procession-june-mojtaba-khamenei-israel-conflict-10731797/",
       "published_date": "2026-06-09T14:03:48+00:00"
-    },
-    {
-      "title": "Elections in Peru today, live: the last votes define the result between Keiko Fujimori and Roberto Sánchez",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-peru-hoy-en-vivo-los-ultimos-votos-definen-el-resultado-entre-keiko-fujimori-y-roberto-nid09062026/",
-      "published_date": "2026-06-09T13:42:04+00:00"
-    },
-    {
-      "title": "Why is there a rebellion in the Trinamool Congress? | Explained",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/why-is-there-a-rebellion-in-the-trinamool-congress-explained/article71070724.ece",
-      "published_date": "2026-06-09T13:02:11+00:00"
-    },
-    {
-      "title": "Who won the elections in Peru 2026",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-en-peru-2026-nid08062026/",
-      "published_date": "2026-06-09T12:33:59+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: Abelardo de la Espriella announced that he is 'ready' for a debate and set a condition; 'Let's all four go'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-registrador-nacional-manifesto-preocupacion-por-violencia-derivada-de-la-desinformacion-en-segunda-vuelta-3562970",
-      "published_date": "2026-06-09T12:33:51+00:00"
-    },
-    {
-      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
-      "source": "Al Jazeera English",
-      "country": "Venezuela",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss",
-      "published_date": "2026-06-09T12:30:10+00:00"
-    },
-    {
-      "title": "3 cricketers, 3 corners: Team India heroes across eras land amidst TMC civil war",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/3-cricketers-3-corners-team-india-heroes-across-eras-land-amidst-tmc-civil-war-sourav-ganguly-kirti-azad-yusuf-pathan-101781004955292.html",
-      "published_date": "2026-06-09T12:16:55+00:00"
-    },
-    {
-      "title": "Modi at 4,399 Days: The making of India’s longest continuously serving elected prime minister",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/venkaiah-naidu-decoding-pm-modi-man-of-destiny-record-tenure-10731602/",
-      "published_date": "2026-06-09T11:54:05+00:00"
-    },
-    {
-      "title": "Elections in Peru: Sánchez maintains a 0.25 point lead over Fujimori with 95% of votes counted",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-sanchez-mantiene-025-puntos-de-ventaja-sobre-fujimori-con-95-de-votos-contados/",
-      "published_date": "2026-06-09T11:47:00+00:00"
-    },
-    {
-      "title": "Elections in Peru: Roberto Sánchez leads Keiko Fujimori by just over 26 thousand votes",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/elecciones-en-peru-roberto-sanchez-aventaja-a-keiko-fujimori-por-poco-mas-de-26-mil-votos/",
-      "published_date": "2026-06-09T11:15:35+00:00"
-    },
-    {
-      "title": "Bear captured after roaming through Japanese city",
-      "source": "Euronews",
-      "country": "Japan",
-      "url": "http://www.euronews.com/video/2026/06/09/bear-captured-after-roaming-through-japanese-city",
-      "published_date": "2026-06-09T11:06:29+00:00"
-    },
-    {
-      "title": "How TMC became the latest party to fall to BJP’s ‘divide, defect, dominate’ playbook",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/tmc-party-bjp-ritabrata-sukhendu-sekhar-roy-kakoli-ghosh-dastidar-10731347/",
-      "published_date": "2026-06-09T10:02:32+00:00"
-    },
-    {
-      "title": "Nikol Pashinyan Wins Re-election in Armenia - The New York Times",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5",
-      "published_date": "2026-06-09T08:43:00+00:00"
-    },
-    {
-      "title": "Rajya Sabha elections: Congress to fly MP MLAs to Karnataka amid poaching fears",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-elections-congress-to-fly-mp-mlas-to-karnataka-amid-poaching-fears-101780994505498.html",
-      "published_date": "2026-06-09T08:41:45+00:00"
-    },
-    {
-      "title": "2026 presidential elections in Colombia: Katherine Miranda announced her vote for Abelardo De La Espriella and stated that it was not due to an 'ideology'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-katherine-miranda-anuncio-su-voto-para-abelardo-de-la-espriella-y-afirmo-que-no-lo-hace-por-ideologia-3562966",
-      "published_date": "2026-06-09T08:30:35+00:00"
-    },
-    {
-      "title": "Three killed in Myanmar junta airstrikes on hospital, IDP camps in Kachin and Karenni states",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/three-killed-in-myanmar-junta-airstrikes-on-hospital-idp-camps-in-kachin-and-karenni-states/",
-      "published_date": "2026-06-09T07:43:18+00:00"
-    },
-    {
-      "title": "Wild black bear captured in Japanese city after multi-day hunt",
-      "source": "Sky News World",
-      "country": "Japan",
-      "url": "https://news.sky.com/story/wild-black-bear-captured-in-japan-after-multi-day-hunt-through-major-city-13552173",
-      "published_date": "2026-06-09T06:24:00+00:00"
-    },
-    {
-      "title": "Indian-American Nithya Raman clinches place in run-off election for LA mayor",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/indianamerican-nithya-raman-clinches-place-in-run-off-election-for-la-mayor-101780983042844.html",
-      "published_date": "2026-06-09T05:30:42+00:00"
-    },
-    {
-      "title": "Pro-Europe party wins Armenian election",
-      "source": "Sky News World",
-      "country": "Armenia",
-      "url": "https://news.sky.com/story/pro-europe-party-wins-armenian-election-13552165",
-      "published_date": "2026-06-09T05:30:00+00:00"
-    },
-    {
-      "title": "Election in MG challenges Lula and Flávio Bolsonaro, and campaigns are looking for candidates for governor",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eleicao-em-mg-desafia-lula-e-flavio-bolsonaro-e-campanhas-procuram-candidatos-a-governador.shtml",
-      "published_date": "2026-06-09T02:00:00+00:00"
     }
   ]
 }
