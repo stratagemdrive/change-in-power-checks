@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-22T15:55:04.927997+00:00",
-    "story_count": 422,
+    "last_updated": "2026-06-23T00:06:47.166026+00:00",
+    "story_count": 431,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidency blasts Obi over call for Tinubu’s resignation",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/presidency-blasts-obi-over-call-for-tinubus-resignation/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-23T00:20:38+00:00"
+    },
+    {
+      "title": "President Kast congratulates Abelardo de la Espriella for his victory in the Colombian elections",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-felicita-a-abelardo-de-la-espriella-por-su-triunfo-en-elecciones-de-colombia/",
+      "published_date": "2026-06-22T23:54:28+00:00"
+    },
+    {
+      "title": "Javier Milei and his measures, live: the President's trip to Spain and the repercussions of the election in Colombia",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-viaje-del-presidente-a-espana-y-las-repercusiones-de-la-nid22062026/",
+      "published_date": "2026-06-22T23:52:51+00:00"
+    },
+    {
+      "title": "Keir Starmer announces resignation as prime minister and Labour Party leader - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MlJmX1Y5WFpoWUlIZ2IyeGNBZnA0dWVqbTVLYkQ3alpsakJHbDZsdEtQTFlTcHZOZ2I1NFZMeXR4UXhQMjdFYVNWWFVUMERKbTJiLVk3SG1wZw?oc=5",
+      "published_date": "2026-06-22T22:26:12+00:00"
+    },
+    {
+      "title": "An international analyst explained in detail the impact of the resignation of Keir Starmer, Prime Minister of the United Kingdom",
+      "source": "La Nacion Argentina",
+      "country": "United Kingdom",
+      "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-el-impacto-de-la-renuncia-de-keir-starmer-primer-nid22062026/",
+      "published_date": "2026-06-22T22:13:14+00:00"
+    },
+    {
+      "title": "Starmer Resigns as Burnham Eyes Top Job",
+      "source": "Foreign Policy",
+      "country": "United Kingdom",
+      "url": "https://foreignpolicy.com/2026/06/22/keir-starmer-uk-prime-minister-resignation-andy-burnham-labour/",
+      "published_date": "2026-06-22T22:13:02+00:00"
+    },
+    {
+      "title": "Trump criticises Keir Starmer after resignation announcement",
+      "source": "Vanguard Nigeria",
+      "country": "United Kingdom",
+      "url": "https://www.vanguardngr.com/2026/06/trump-criticises-keir-starmer-after-resignation-announcement/",
+      "published_date": "2026-06-22T21:35:25+00:00"
+    },
+    {
+      "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+      "published_date": "2026-06-22T20:47:55+00:00"
+    },
+    {
+      "title": "Why has Keir Starmer resigned as UK prime minister?",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister?traffic_source=rss",
+      "published_date": "2026-06-22T20:31:12+00:00"
+    },
+    {
+      "title": "Peter Obi’s call for Tinubu’s resignation childish, hollow – Presidency",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/06/peter-obis-call-for-tinubus-resignation-childish-hollow-presidency/",
+      "published_date": "2026-06-22T19:25:08+00:00"
+    },
+    {
+      "title": "China signals openness to Colombia’s Trump-backed president-elect despite US tilt",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/us/article/3357972/china-signals-openness-colombias-trump-backed-president-elect-despite-us-tilt?utm_source=rss_feed",
+      "published_date": "2026-06-22T18:52:29+00:00"
+    },
+    {
+      "title": "Election in Colombia: The Triumph of the Tiger",
+      "source": "FAZ Germany",
+      "country": "Colombia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/abelardo-de-la-espriella-kolumbiens-neuer-praesident-triumphiert-200953955.html",
+      "published_date": "2026-06-22T18:25:13+00:00"
+    },
+    {
+      "title": "Human-rights museum trustee resigns, cites ‘one-sided’ Palestinian exhibit",
+      "source": "Globe and Mail Politics",
+      "country": "Palestine",
+      "url": "https://www.theglobeandmail.com/politics/article-human-rights-museum-trustee-resigns-cites-one-sided-palestinian/",
+      "published_date": "2026-06-22T18:04:19+00:00"
+    },
+    {
+      "title": "UK PM Starmer announces resignation amid mounting pressure, says will give successor 'full, unequivocal support'",
+      "source": "Dawn Pakistan",
+      "country": "United Kingdom",
+      "url": "https://www.dawn.com/news/2009971/uk-pm-starmer-announces-resignation-amid-mounting-pressure-says-will-give-successor-full-unequivocal-support",
+      "published_date": "2026-06-22T17:11:24+00:00"
+    },
+    {
+      "title": "In the United Kingdom, after the resignation of Keir Starmer, Andy Burnham could be appointed as early as mid-July",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/06/22/au-royaume-uni-apres-la-demission-de-keir-starmer-andy-burnham-pourrait-etre-nomme-des-la-mi-juillet_6708095_3210.html",
+      "published_date": "2026-06-22T17:07:27+00:00"
+    },
+    {
+      "title": "Colombia: Ivan Cepeda, defeated in the presidential election against the ultra-right candidate Abelardo de la Espriella, launches an appeal for calm in the aftermath of violence",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-ivan-cepeda-defait-a-la-presidentielle-face-au-candidat-d-ultradroite-abelardo-de-la-espriella-lance-un-appel-au-calme-au-lendemain-de-violences_6707561_3211.html",
+      "published_date": "2026-06-22T16:44:55+00:00"
+    },
     {
       "title": "Following UK’s Starmer’s exit, Peter Obi demands Tinubu’s resignation, cites governance failure",
       "source": "The Punch Nigeria",
@@ -74,6 +186,20 @@
       "published_date": "2026-06-22T16:31:12+00:00"
     },
     {
+      "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+      "published_date": "2026-06-22T16:29:48+00:00"
+    },
+    {
+      "title": "'Another day, another leader': Londoners react to Starmer's resignation",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/2026/06/22/another-day-another-leader-londoners-react-to-starmers-resignation",
+      "published_date": "2026-06-22T16:14:39+00:00"
+    },
+    {
       "title": "UK's Burnham, frontrunner to replace Starmer, says too soon for talk of an election",
       "source": "Jerusalem Post",
       "country": "United Kingdom",
@@ -81,18 +207,18 @@
       "published_date": "2026-06-22T16:02:40+00:00"
     },
     {
-      "title": "Javier Milei and his measures, live: the President's trip to Spain and the repercussions of the election in Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-viaje-del-presidente-a-espana-y-las-repercusiones-de-la-nid22062026/",
-      "published_date": "2026-06-22T15:46:55+00:00"
-    },
-    {
       "title": "How is the opposition? The role that Iván Cepeda and Gustavo Petro would have after the presidential elections",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-queda-la-oposicion-el-papel-que-tendrian-ivan-cepeda-y-gustavo-petro-luego-de-las-elecciones-presidenciales-3566100",
       "published_date": "2026-06-22T15:44:16+00:00"
+    },
+    {
+      "title": "United Kingdom without direction after the surprise resignation of Prime Minister Keir Starmer",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "United Kingdom",
+      "url": "https://efectococuyo.com/internacionales/reino-unido-sin-rumbo-tras-la-sorpresiva-renuncia-del-primer-ministro-keir-starmer/",
+      "published_date": "2026-06-22T15:34:53+00:00"
     },
     {
       "title": "How De la Espriella made his fortune and the questioned businesses of the winner of the elections in Colombia",
@@ -249,6 +375,13 @@
       "published_date": "2026-06-22T11:37:29+00:00"
     },
     {
+      "title": "Andy Burnham sworn in as MP after Keir Starmer announces resignation - live updates - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90bUxSWXhXeFA0aHUxS0N2eXBkcVRiMTNRMXlvQ05DY01IYlBHV3FJelNVNm9qWTM4ZTA0WEtUNVdaYzVkc1hEOFk3R2x3bDFoM1M4ZQ?oc=5",
+      "published_date": "2026-06-22T11:29:44+00:00"
+    },
+    {
       "title": "Anatomy of a fall: Keir Starmer, from election landslide to precipitous descent",
       "source": "France 24 English",
       "country": "United Kingdom",
@@ -275,13 +408,6 @@
       "country": "United Kingdom",
       "url": "https://www.elnacional.com/2026/06/el-primer-ministro-britanico-keir-starmer-anuncio-su-dimision/",
       "published_date": "2026-06-22T10:32:05+00:00"
-    },
-    {
-      "title": "UK PM Starmer announces resignation amid mounting pressure, says will give successor 'full, unequivocal support'",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2009971/uk-pm-starmer-announces-resignation-amid-mounting-pressure-says-will-give-successor-full-unequivocal-support",
-      "published_date": "2026-06-22T10:11:55+00:00"
     },
     {
       "title": "A decade of chaos: Britain prepares for 7th prime minister after Starmer announces resignation",
@@ -431,9 +557,9 @@
       "published_date": "2026-06-22T02:12:22+00:00"
     },
     {
-      "title": "Right-wing candidate Abelardo De La Espriella wins Colombian presidential election in tight race",
+      "title": "Outgoing Colombian president claims Israel fixed elections after losing to right-wing candidate",
       "source": "Jerusalem Post",
-      "country": "Colombia",
+      "country": "Israel",
       "url": "https://www.jpost.com/international/article-900089",
       "published_date": "2026-06-22T01:49:02+00:00"
     },
@@ -520,6 +646,13 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-festejo-el-triunfo-de-de-la-espriella-en-las-elecciones-de-colombia-nid21062026/",
       "published_date": "2026-06-21T23:51:07+00:00"
+    },
+    {
+      "title": "Dirceu says that Jaques Wagner does not threaten Lula's election and that his removal is a matter of private matters",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/jose-dirceu-e-o-entrevistado-do-programa-frente-a-frente-desta-segunda-feira.shtml",
+      "published_date": "2026-06-21T23:28:00+00:00"
     },
     {
       "title": "Colombia live: Abelardo de la Espriella, candidate of the hard right, wins the presidential election",
@@ -2942,76 +3075,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eleicao-em-mg-desafia-lula-e-flavio-bolsonaro-e-campanhas-procuram-candidatos-a-governador.shtml",
       "published_date": "2026-06-09T02:00:00+00:00"
-    },
-    {
-      "title": "Peru’s diaspora emerges as tie-breaker in razor-edge presidential race",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/06/09/world/politics/peru-diaspora-tie-breaker-election/",
-      "published_date": "2026-06-08T23:38:00+00:00"
-    },
-    {
-      "title": "Neither Keiko Fujimori nor Roberto Sánchez: who won the Peru 2026 elections in the US",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/ni-keiko-fujimori-ni-roberto-sanchez-quien-gano-las-elecciones-presidenciales-de-peru-2026-en-eeuu-nid08062026/",
-      "published_date": "2026-06-08T23:03:03+00:00"
-    },
-    {
-      "title": "Writers, intellectuals and academics sign a new letter for the Casa Argentina in Paris and ask for the resignation of its director",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/cultura/escritores-intelectuales-y-academicos-firman-una-nueva-carta-por-la-casa-argentina-en-paris-y-piden-nid08062026/",
-      "published_date": "2026-06-08T21:16:44+00:00"
-    },
-    {
-      "title": "Presidential elections 2026: what voting juries can and cannot do in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-presidenciales-2026-que-pueden-y-que-no-pueden-hacer-los-jurados-de-votacion-en-colombia-3562890",
-      "published_date": "2026-06-08T19:31:03+00:00"
-    },
-    {
-      "title": "Leftist Roberto Sanchez takes lead in Peru's razor-thin presidential runoff",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260608-leftist-roberto-sanchez-takes-lead-in-peru-s-razor-thin-presidential-runoff",
-      "published_date": "2026-06-08T19:11:31+00:00"
-    },
-    {
-      "title": "Roberto Sánchez surpasses Fujimori by a narrow margin in the recount of the Peruvian presidential elections with 95.16% counted",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/roberto-sanchez-rebasa-a-fujimori-en-el-recuento-de-las-presidenciales-de-peru-con-un-9394-escrutado/",
-      "published_date": "2026-06-08T18:39:27+00:00"
-    },
-    {
-      "title": "They question President Gustavo Petro for recognizing Roberto Sánchez as the winner in elections in Peru, when the scrutiny does not end",
-      "source": "El Tiempo Colombia",
-      "country": "Peru",
-      "url": "https://www.eltiempo.com/politica/gobierno/cuestionan-al-presidente-gustavo-petro-por-reconocer-ganador-a-roberto-sanchez-en-elecciones-en-peru-cuando-los-escrutinios-no-terminan-3562881",
-      "published_date": "2026-06-08T18:33:56+00:00"
-    },
-    {
-      "title": "Election in Armenia: The West must help on the path to peace",
-      "source": "FAZ Germany",
-      "country": "Armenia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/armenien-und-der-westen-der-weg-zum-frieden-200909650.html",
-      "published_date": "2026-06-08T16:58:13+00:00"
-    },
-    {
-      "title": "Peru's polarising election: 'Neither candidate has strong majority' in Congress to enact reform",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/peru-s-polarising-election-neither-candidate-has-strong-majority-in-congress-to-enact-reform",
-      "published_date": "2026-06-08T16:55:38+00:00"
-    },
-    {
-      "title": "Progress of the left, disappointed hopes for the RN… what to remember from the results of the consular elections",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/08/progression-de-la-gauche-espoirs-decus-pour-le-rn-ce-qu-il-faut-retenir-des-resultats-des-elections-consulaires_6699632_823448.html",
-      "published_date": "2026-06-08T16:34:38+00:00"
     }
   ]
 }
