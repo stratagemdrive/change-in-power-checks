@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-23T13:47:57.200060+00:00",
+    "last_updated": "2026-06-23T23:56:09.322896+00:00",
     "story_count": 440,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "The Peruvian elections and the new highland issue",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/opinion/noticia/las-elecciones-peruanas-y-la-nueva-cuestion-altiplanica/",
+      "published_date": "2026-06-23T23:02:00+00:00"
+    },
+    {
+      "title": "Hungary has a new prime minister who says he supports Ukraine joining the EU — but he just blocked the next step in accession talks",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/06/23/hungary-has-a-new-prime-minister-who-says-he-supports-ukraine-joining-the-eu-but-he-just-blocked-the-next-step-in-accession-talks",
+      "published_date": "2026-06-23T20:32:40+00:00"
+    },
+    {
+      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
+      "published_date": "2026-06-23T20:03:56+00:00"
+    },
+    {
+      "title": "Why do the UK’s prime ministers keep resigning?",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss",
+      "published_date": "2026-06-23T17:36:04+00:00"
+    },
+    {
+      "title": "South Ossetia’s president resigns and joins Putin’s presidential staff, reviving questions about Russian annexation",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/23/south-ossetia-s-president-resigns-and-joins-putin-s-presidential-staff-reviving-questions-about-russian-annexation",
+      "published_date": "2026-06-23T17:08:40+00:00"
+    },
+    {
+      "title": "Left-wing candidate will not recognize election results in Peru",
+      "source": "DR News Denmark",
+      "country": "Peru",
+      "url": "https://www.dr.dk/nyheder/seneste/venstrefloejskandidat-vil-ikke-anerkende-valgresultat-i-peru",
+      "published_date": "2026-06-23T15:55:03+00:00"
+    },
+    {
+      "title": "Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDFHckRtby1vZFlHa0UyZHhpcDJHOWRIM3g5QWFDVlBvY2lDRnVIZUhQWkswUXE4aDQ5NnRvTFVSUVBmQlF4UlhZbVJEc2szZElDTktFOEtFSmVZUm1RUkNRc3FZVFRtYUhNWGVlMVlwVE1XN3RYWDN2WWVBUUJHc0kyMFlOMHB6Q3FrUlBYeGltZXBtb0VFV0xQLVh1aVdnVW1MVWUzZTZsM1IwWlE?oc=5",
+      "published_date": "2026-06-23T15:45:00+00:00"
+    },
+    {
+      "title": "Likud tensions rise as Netanyahu threatens to leave over 10 reserved election slots",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900271",
+      "published_date": "2026-06-23T15:29:52+00:00"
+    },
+    {
+      "title": "New Mossad chief wants to overthrow Iran's government - Trump wants to act",
+      "source": "Politiken Denmark",
+      "country": "Iran",
+      "url": "https://politiken.dk/internationalt/art10891795/Ny-Mossad-chef-vil-v%C3%A6lte-Irans-regering-%E2%80%93-Trump-vil-handle",
+      "published_date": "2026-06-23T13:57:28+00:00"
+    },
+    {
+      "title": "A decade after Brexit, Britain weighs costs and gains as it searches for a new leader",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/business/2026/06/23/a-decade-after-brexit-britain-weighs-costs-and-gains-as-it-searches-for-a-new-leader",
+      "published_date": "2026-06-23T13:51:59+00:00"
+    },
     {
       "title": "Colombia 2026 presidential elections: scrutiny advances after victory of Abelardo de la Espriella; international leaders ask to respect results",
       "source": "El Tiempo Colombia",
@@ -79,13 +149,6 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/06/23/south-ossetian-leader-steps-down-to-become-putin-adviser-a93077",
       "published_date": "2026-06-23T12:56:31+00:00"
-    },
-    {
-      "title": "Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDFHckRtby1vZFlHa0UyZHhpcDJHOWRIM3g5QWFDVlBvY2lDRnVIZUhQWkswUXE4aDQ5NnRvTFVSUVBmQlF4UlhZbVJEc2szZElDTktFOEtFSmVZUm1RUkNRc3FZVFRtYUhNWGVlMVlwVE1XN3RYWDN2WWVBUUJHc0kyMFlOMHB6Q3FrUlBYeGltZXBtb0VFV0xQLVh1aVdnVW1MVWUzZTZsM1IwWlE?oc=5",
-      "published_date": "2026-06-23T12:37:00+00:00"
     },
     {
       "title": "10 years after Brexit, Starmer’s resignation highlights Britain’s deeper issues - NBC News",
@@ -3075,69 +3138,6 @@
       "country": "Peru",
       "url": "https://www.japantimes.co.jp/news/2026/06/10/world/politics/peru-election-fujimori-sanchez/",
       "published_date": "2026-06-10T03:06:00+00:00"
-    },
-    {
-      "title": "Iván Duque, on the runoff in Colombia: “It is not a turn of the region to the right, it is a turn to democracy”",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-expresidente-ivan-duque-sobre-el-balotaje-en-colombia-no-es-un-giro-de-la-region-a-la-derecha-es-nid09062026/",
-      "published_date": "2026-06-09T22:44:15+00:00"
-    },
-    {
-      "title": "Mexico and its incredible mobility plan for the inauguration and the strong security operations",
-      "source": "La Nacion Argentina",
-      "country": "Mexico",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/mexico-y-su-increible-plan-de-movilidad-para-la-inauguracion-y-los-fuertes-operativos-de-seguridad-nid09062026/",
-      "published_date": "2026-06-09T21:55:31+00:00"
-    },
-    {
-      "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
-      "source": "BBC World",
-      "country": "Myanmar",
-      "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T21:04:20+00:00"
-    },
-    {
-      "title": "Bear captured after days of panic and school closures in Japan",
-      "source": "Al Jazeera English",
-      "country": "Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
-      "published_date": "2026-06-09T20:58:26+00:00"
-    },
-    {
-      "title": "Free Palestine party seeks to finalize registry for New Zealand elections",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-898896",
-      "published_date": "2026-06-09T20:31:52+00:00"
-    },
-    {
-      "title": "Venezuelan unions demand a change of directors of the CNE and setting a schedule for the presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/sindicatos-venezolanos-exigen-cambio-de-rectores-del-cne-y-la-fijacion-de-un-cronograma-para-las-elecciones-presidenciales/",
-      "published_date": "2026-06-09T20:07:43+00:00"
-    },
-    {
-      "title": "Foreign leaders congratulate Modi on becoming longest-serving elected PM of India",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/foreign-leaders-congratulate-modi-on-becoming-longest-serving-elected-pm-of-india/article71081824.ece",
-      "published_date": "2026-06-09T17:15:19+00:00"
-    },
-    {
-      "title": "Bear captured in Japan after multi-day search as attacks rise",
-      "source": "France 24 English",
-      "country": "Japan",
-      "url": "https://www.france24.com/en/bear-captured-in-japan-after-multi-day-search-as-attacks-rise",
-      "published_date": "2026-06-09T15:34:51+00:00"
-    },
-    {
-      "title": "Iran sets June date for slain Supreme Leader Ali Khamenei’s funeral procession: Report",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/iran-ayatollah-ali-khamenei-funeral-procession-june-mojtaba-khamenei-israel-conflict-10731797/",
-      "published_date": "2026-06-09T14:03:48+00:00"
     }
   ]
 }
