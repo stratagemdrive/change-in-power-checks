@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-23T23:56:09.322896+00:00",
-    "story_count": 440,
+    "last_updated": "2026-06-24T13:25:46.619118+00:00",
+    "story_count": 430,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Larry the cat, chief mouser of Downing Street, outlasts sixth UK prime minister as Starmer resigns",
+      "source": "Jerusalem Post",
+      "country": "United Kingdom",
+      "url": "https://www.jpost.com/omg/article-900379",
+      "published_date": "2026-06-24T14:32:57+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: Iván Cepeda announces press conference; Former candidates congratulate the elected president Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-el-proceso-se-reanudara-hoy-a-las-9-a-m-3566620",
+      "published_date": "2026-06-24T12:44:30+00:00"
+    },
+    {
+      "title": "Keiko Fujimori: Peru’s biggest political loser poised to win election",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/06/24/world/fujimori-peru-election/",
+      "published_date": "2026-06-24T12:44:00+00:00"
+    },
+    {
+      "title": "Trump shares article that calls Brazilian elections a 'big test' in Latin America",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/trump-compartilha-artigo-que-chama-eleicoes-brasileiras-de-grande-teste-na-america-latina.shtml",
+      "published_date": "2026-06-24T12:32:00+00:00"
+    },
+    {
+      "title": "Petro commits to a political transition and his move to peaceful resistance",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/06/petro-se-compromete-con-una-transicion-politica-y-su-paso-a-la-resistencia-pacifica/",
+      "published_date": "2026-06-24T11:59:21+00:00"
+    },
+    {
+      "title": "‘Something could start as early as October’: Russian authorities are discussing a new wave of mobilization after the State Duma elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/24/something-could-start-as-early-as-october-russian-authorities-are-discussing-a-new-wave-of-mobilization-after-the-state-duma-elections",
+      "published_date": "2026-06-24T10:57:23+00:00"
+    },
+    {
+      "title": "Sent to die: Myanmar’s conscripts caught between a junta’s war and a nation’s collapse",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/sent-to-die-myanmars-conscripts-caught-between-a-juntas-war-and-a-nations-collapse/",
+      "published_date": "2026-06-24T07:48:49+00:00"
+    },
     {
       "title": "The Peruvian elections and the new highland issue",
       "source": "La Tercera Chile",
@@ -3019,125 +3068,6 @@
       "country": "Colombia",
       "url": "https://efectococuyo.com/internacionales/congresista-colombiana-pide-suspender-a-gustavo-petro-como-presidente-hasta-el-final-de-las-elecciones/",
       "published_date": "2026-06-10T13:58:05+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: De la Espriella's debate chief says he will 'initiate actions' after a ruling that ordered the removal of national campaign symbols",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-colombianos-en-indonesia-podran-votar-del-15-al-21-de-junio-en-yakarta-3563229",
-      "published_date": "2026-06-10T13:15:07+00:00"
-    },
-    {
-      "title": "Cabinet resolution lauds Modi for becoming longest continuously serving elected PM",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/union-cabinet-resolution-narendra-modi-longest-continuously-serving-elected-prime-minister-nehru-record-10733322/",
-      "published_date": "2026-06-10T12:46:45+00:00"
-    },
-    {
-      "title": "Georgian opposition party condemns ‘new phase of Russian annexation’ of South Ossetia",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/georgian-opposition-party-condemns-new-phase-of-russian-annexation-of-south-ossetia/",
-      "published_date": "2026-06-10T12:46:06+00:00"
-    },
-    {
-      "title": "Israel’s Netanyahu to seek re-election despite Trump doubts, war strains",
-      "source": "Vanguard Nigeria",
-      "country": "Israel",
-      "url": "https://www.vanguardngr.com/2026/06/israels-netanyahu-to-seek-re-election-despite-trump-doubts-war-strains/",
-      "published_date": "2026-06-10T12:43:20+00:00"
-    },
-    {
-      "title": "Russia’s Communist Party won’t field former deputy Valery Rashkin in State Duma elections — he had sought to return after losing his seat in 2022 over illegal moose hunting",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/06/10/russia-s-communist-party-won-t-field-former-deputy-valery-rashkin-in-state-duma-elections-he-had-sought-to-return-after-losing-his-seat-in-2022-over-illegal-moose-hunting",
-      "published_date": "2026-06-10T11:55:52+00:00"
-    },
-    {
-      "title": "Dozens of bodies found in villages raided by Myanmar junta troops near Bagan",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/dozens-of-bodies-found-in-villages-raided-by-myanmar-junta-troops-near-bagan/",
-      "published_date": "2026-06-10T11:50:18+00:00"
-    },
-    {
-      "title": "Netanyahu will stand in Israel's next national election, his party says",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20260610-netanyahu-will-stand-in-israel-s-next-national-election-his-party-says",
-      "published_date": "2026-06-10T11:44:22+00:00"
-    },
-    {
-      "title": "“I am a prisoner of conscience”: in Baku, opposition leader Karimli tried for “attempted coup d’état”",
-      "source": "France 24 FR",
-      "country": "Azerbaijan",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260610-azerba%C3%AFdjan-opposant-ali-karimli-jug%C3%A9-bakou-tentative-coup-%C3%A9tat-r%C3%A9gime-aliev-je-suis-prisonnier-opinion",
-      "published_date": "2026-06-10T10:45:32+00:00"
-    },
-    {
-      "title": "Israel: Benjamin Netanyahu will be a candidate in the next elections",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/moyen-orient/20260610-isra%C3%ABl-benjamin-netanyahu-sera-candidat-aux-prochaines-%C3%A9lections-legislatives",
-      "published_date": "2026-06-10T10:12:59+00:00"
-    },
-    {
-      "title": "Netanyahu to run in upcoming election, Likud says following Trump’s comments",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-run-upcoming-election-despite-trumps-comments-likud-says",
-      "published_date": "2026-06-10T09:09:08+00:00"
-    },
-    {
-      "title": "Magway emerges as key front in junta’s strategy to claw back control of western Myanmar",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/magway-emerges-as-key-front-in-juntas-strategy-to-claw-back-control-of-western-myanmar/",
-      "published_date": "2026-06-10T08:54:35+00:00"
-    },
-    {
-      "title": "'Been a pleasure': Italy's Giorgia Meloni congratulates Modi on becoming India's longest-serving elected PM",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/italy-pm-giorgia-meloni-congratulates-modi-on-becoming-india-s-longest-serving-prime-minister-101781076900024.html",
-      "published_date": "2026-06-10T07:41:24+00:00"
-    },
-    {
-      "title": "TMC crisis deepens after Sushmita Dev resigns as Rajya Sabha MP, days after Sukhendu Sekhar Ray",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tmc-crisis-deepens-after-sushmita-dev-resigns-as-rajya-sabha-mp-days-after-sukhendu-sekhar-ray-101781076047304.html",
-      "published_date": "2026-06-10T07:24:15+00:00"
-    },
-    {
-      "title": "Sushmita Dev resigns as Rajya Sabha MP, quits TMC in another jolt to Mamata; then meets Assam CM Sarma",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tmc-leader-sushmita-dev-resigns-as-rajya-sabha-mp-second-jolt-mamata-banerjee-sukhendu-sekhar-ray-101781070196839.html",
-      "published_date": "2026-06-10T06:11:18+00:00"
-    },
-    {
-      "title": "Pro-government congressman ordered the suspension of Gustavo Petro until the presidential elections in Colombia are over",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/congresista-oficialista-ordeno-suspension-de-gustavo-petro-hasta-que-finalicen-los-comicios-presidenciales-en-colombia/",
-      "published_date": "2026-06-10T05:32:00+00:00"
-    },
-    {
-      "title": "'Does he want to continue?' Trump questions Netanyahu's candidacy in upcoming Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/american-politics/article-898913",
-      "published_date": "2026-06-10T04:53:17+00:00"
-    },
-    {
-      "title": "Peru election remains on knife edge between Fujimori and Sanchez",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/06/10/world/politics/peru-election-fujimori-sanchez/",
-      "published_date": "2026-06-10T03:06:00+00:00"
     }
   ]
 }
