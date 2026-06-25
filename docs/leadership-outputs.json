@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-25T00:06:52.220316+00:00",
-    "story_count": 436,
+    "last_updated": "2026-06-25T13:19:16.354098+00:00",
+    "story_count": 448,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,174 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu aide Urich allowed to keep working at PMO after court rejects prosecution's request",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900524",
+      "published_date": "2026-06-25T14:37:26+00:00"
+    },
+    {
+      "title": "Special counsel again seeks death penalty for ex-President Yoon on insurrection charges",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260625/special-counsel-again-seeks-death-penalty-for-ex-president-yoon-on-insurrection-charges?utm_source=rss",
+      "published_date": "2026-06-25T13:12:03+00:00"
+    },
+    {
+      "title": "Live updates: At least 164 people dead after twin quakes in Venezuela, acting president says - CNN",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5",
+      "published_date": "2026-06-25T13:03:00+00:00"
+    },
+    {
+      "title": "Armenia arrests opposition figure for ‘inciting’ foreign officials to ensure opposition win",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenia-arrests-opposition-figure-for-inciting-foreign-officials-to-ensure-opposition-win/",
+      "published_date": "2026-06-25T12:32:15+00:00"
+    },
+    {
+      "title": "Lula congratulates Colombia after election with right-wing victory",
+      "source": "Agencia Brasil",
+      "country": "Colombia",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/lula-parabeniza-colombia-apos-eleicao-com-vitoria-da-direita",
+      "published_date": "2026-06-25T12:31:00+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: CNE made Abelardo de la Espriella official as president-elect: former candidates react to results",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-consejo-nacional-electoral-oficializo-a-abelardo-de-la-espriella-como-presidente-electo-del-pais-3566926",
+      "published_date": "2026-06-25T12:17:48+00:00"
+    },
+    {
+      "title": "Peru's Keiko Fujimori celebrates election win as opponent alleges fraud",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud",
+      "published_date": "2026-06-25T12:08:15+00:00"
+    },
+    {
+      "title": "Delcy Rodríguez declared a state of emergency after the two earthquakes that shook Venezuela",
+      "source": "La Nacion Argentina",
+      "country": "Venezuela",
+      "url": "https://www.lanacion.com.ar/el-mundo/delcy-rodriguez-declaro-el-estado-de-emergencia-tras-los-dos-terremotos-que-sacudieron-venezuela-nid24062026/",
+      "published_date": "2026-06-25T11:43:23+00:00"
+    },
+    {
+      "title": "Venezuela declares state of emergency after deadly twin earthquakes",
+      "source": "The Guardian World",
+      "country": "Venezuela",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "published_date": "2026-06-25T11:40:44+00:00"
+    },
+    {
+      "title": "Ukrenergo clarifies reason for emergency power outages in Kyiv",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4137517-ukrenergo-clarifies-reason-for-emergency-power-outages-in-kyiv.html",
+      "published_date": "2026-06-25T10:10:00+00:00"
+    },
+    {
+      "title": "Cabinet reshuffle buzz gathers pace after Amit Shah meets President, BJP may assess performance",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/cabinet-reshuffle-buzz-gathers-pace-after-amit-shah-meets-president-bjp-may-assess-performance-101782381619560.html",
+      "published_date": "2026-06-25T10:07:49+00:00"
+    },
+    {
+      "title": "North Korean soldier crosses border into South Korea in suspected defection",
+      "source": "Sky News World",
+      "country": "South Korea",
+      "url": "https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-korea-in-suspected-defection-13557640",
+      "published_date": "2026-06-25T09:29:00+00:00"
+    },
+    {
+      "title": "PM congratulates President al-Sisi, Egyptians on June 30 revolution anniversary",
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "url": "https://www.egyptindependent.com/pm-congratulates-president-al-sisi-egyptians-on-june-30-revolution-anniversary/",
+      "published_date": "2026-06-25T09:27:30+00:00"
+    },
+    {
+      "title": "Trump reaffirms his support for De la Espriella as president-elect of Colombia: “I didn't like Petro at all”",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/trump-reafirma-su-apoyo-a-de-la-espriella-como-presidente-electo-de-colombia-petro-no-me-gustaba-nada/",
+      "published_date": "2026-06-25T09:27:15+00:00"
+    },
+    {
+      "title": "State of emergency declared as two major earthquakes strike Venezuela",
+      "source": "France 24 English",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/en/video/20260625-state-of-emergency-declared-as-two-major-earthquakes-strike-venezuela",
+      "published_date": "2026-06-25T08:34:29+00:00"
+    },
+    {
+      "title": "Emergency power outages on left bank of Kyiv",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-emergencies/4137448-emergency-power-outages-on-left-bank-of-kyiv.html",
+      "published_date": "2026-06-25T08:20:00+00:00"
+    },
+    {
+      "title": "Uttar Pradesh BJP reshuffle: 64 office bearers named ahead of 2027 polls",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/lucknow/uttar-pradesh-bjp-reshuffle-ahead-2027-assembly-polls-10756631/",
+      "published_date": "2026-06-25T07:36:08+00:00"
+    },
+    {
+      "title": "Myanmar resistance forces destroy junta helicopter in Magway Region",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-resistance-forces-destroy-junta-helicopter-in-magway-region/",
+      "published_date": "2026-06-25T06:23:02+00:00"
+    },
+    {
+      "title": "France's largest startup campus Station F turns nine. Here's why it's nervous about the election",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/next/2026/06/25/frances-largest-startup-campus-station-f-turns-nine-heres-why-its-nervous-about-the-electi",
+      "published_date": "2026-06-25T05:00:35+00:00"
+    },
+    {
+      "title": "Donald Trump and the presidential elections in Brazil",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/06/donald-trump-e-as-eleicoes-presidenciais-no-brasil.shtml",
+      "published_date": "2026-06-25T03:24:00+00:00"
+    },
+    {
+      "title": "Delcy Rodriguez declares a state of emergency after two earthquakes in Venezuela",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/delcy-rodriguez-declara-estado-de-emergencia-tras-dos-terremotos-en-venezuela/",
+      "published_date": "2026-06-25T02:35:12+00:00"
+    },
+    {
+      "title": "They decree a state of emergency and close Maiquetía airport, after two earthquakes in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/la-humanidad/decretan-estado-de-emergencia-y-cierran-aeropuerto-de-maiquetia/",
+      "published_date": "2026-06-25T02:24:31+00:00"
+    },
+    {
+      "title": "President-elect, Abelardo de la Espriella, sent a message of support to the Venezuelan people after the earthquake",
+      "source": "El Tiempo Colombia",
+      "country": "Venezuela",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-envio-un-mensaje-de-apoyo-al-pueblo-venezolano-tras-terremoto-3566887",
+      "published_date": "2026-06-25T02:08:07+00:00"
+    },
+    {
+      "title": "They declare a state of emergency in Venezuela after two earthquakes",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/terremoto-sacude-varias-regiones-de-venezuela-y-remece-fuerte-caracas/",
+      "published_date": "2026-06-24T23:49:01+00:00"
+    },
     {
       "title": "Abelardo de la Espriella is officially the elected president of Colombia: CNE makes the elections official and promulgates his election",
       "source": "El Tiempo Colombia",
@@ -86,6 +254,13 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/06/venezuela-gano-dos-premios-oro-en-festival-cannes-lions-2026-por-documental-sobre-elecciones-del-28j/",
       "published_date": "2026-06-24T20:35:11+00:00"
+    },
+    {
+      "title": "What Keir Starmer's resignation means for European security",
+      "source": "Deutsche Welle English",
+      "country": "United Kingdom",
+      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-06-24T19:27:00+00:00"
     },
     {
       "title": "Delcy Rodríguez recognized Abelardo de la Espriella as elected president of Colombia",
@@ -3019,97 +3194,6 @@
       "country": "United Kingdom",
       "url": "https://www.lemonde.fr/international/article/2026/06/11/royaume-uni-le-ministre-de-la-defense-john-healey-en-desaccord-avec-keir-starmer-demissionne_6700736_3210.html",
       "published_date": "2026-06-11T13:18:19+00:00"
-    },
-    {
-      "title": "What is Kharg Island, Iran's oil “crown jewel” that Trump announced will be captured",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-es-la-isla-de-kharg-la-joya-de-la-corona-petrolera-de-iran-que-trump-anuncio-que-sera-capturada-nid11062026/",
-      "published_date": "2026-06-11T12:51:35+00:00"
-    },
-    {
-      "title": "UK defense secretary resigns over military spending, in fresh blow to Keir Starmer",
-      "source": "Egypt Independent",
-      "country": "United Kingdom",
-      "url": "https://www.egyptindependent.com/uk-defense-secretary-resigns-over-military-spending-in-fresh-blow-to-keir-starmer/",
-      "published_date": "2026-06-11T12:18:10+00:00"
-    },
-    {
-      "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
-      "published_date": "2026-06-11T12:02:57+00:00"
-    },
-    {
-      "title": "British defense minister resigns from post after disagreement with Keir Starmer",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/britisk-forsvarsminister-traekker-sig-fra-posten-efter-uenighed-med-keir-starmer",
-      "published_date": "2026-06-11T11:59:43+00:00"
-    },
-    {
-      "title": "John Healey: British Defense Secretary resigns",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/britischer-verteidigungsminister-john-healey-tritt-zurueck-accg-200920755.html",
-      "published_date": "2026-06-11T11:37:18+00:00"
-    },
-    {
-      "title": "UK defence chief John Healey resigns amid feud with Starmer over military spending",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3356780/uk-defence-chief-john-healey-resigns-amid-feud-starmer-over-military-spending?utm_source=rss_feed",
-      "published_date": "2026-06-11T11:34:16+00:00"
-    },
-    {
-      "title": "Elections in Peru: Fujimori once again surpassed Sánchez in a close official vote count",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-fujimori-volvio-a-superar-a-sanchez-en-renido-conteo-oficial-de-votos/",
-      "published_date": "2026-06-11T10:30:00+00:00"
-    },
-    {
-      "title": "Third Trinamool Rajya Sabha MP resigns: Who is Prakash Chik Baraik?",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/the-third-tmc-rajya-sabha-mp-resigns-who-is-prakash-chik-baraik-10734565/",
-      "published_date": "2026-06-11T09:10:17+00:00"
-    },
-    {
-      "title": "Putin Signs Law to Seize Property of Exiled Dissidents Before Trial",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/06/11/putin-signs-law-to-seize-property-of-exiled-dissidents-before-trial-a92975",
-      "published_date": "2026-06-11T07:53:17+00:00"
-    },
-    {
-      "title": "Petro asks Trump “not to intervene” in the Colombian presidential election campaign",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/petro-pide-a-trump-no-intervenir-en-campana-electoral-de-las-presidenciales-de-colombia/",
-      "published_date": "2026-06-11T05:50:24+00:00"
-    },
-    {
-      "title": "Trinamool in tatters: Another MP resigns from Rajya Sabha, 3rd in 4 days",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/trinamool-in-tatters-another-mp-resigns-from-rajya-sabha-3rd-in-4-days-10734190/",
-      "published_date": "2026-06-11T05:39:56+00:00"
-    },
-    {
-      "title": "Trump hails Armenian leader for winning re-election despite Russian pressure",
-      "source": "The Independent UK",
-      "country": "Armenia",
-      "url": "https://www.independent.co.uk/news/world/europe/donald-trump-nikol-pashinyan-armenia-election-russia-b2993697.html",
-      "published_date": "2026-06-11T04:40:39+00:00"
-    },
-    {
-      "title": "Cabinet passes resolution, congratulates Modi for becoming longest-serving elected PM",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/cabinet-passes-resolution-congratulates-modi-101781119889341.html",
-      "published_date": "2026-06-11T02:24:01+00:00"
     }
   ]
 }
