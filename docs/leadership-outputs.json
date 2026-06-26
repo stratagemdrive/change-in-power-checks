@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-26T00:10:28.071242+00:00",
-    "story_count": 436,
+    "last_updated": "2026-06-26T13:16:42.918856+00:00",
+    "story_count": 440,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,144 @@
   },
   "stories": [
     {
+      "title": "Shelve state police till after 2027 election, Obi tells Tinubu",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/shelve-state-police-till-after-2027-election-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-06-26T13:40:49+00:00"
+    },
+    {
+      "title": "🔴Death toll from Venezuelan earthquakes rises to at least 589, says interim president Rodriguez",
+      "source": "France 24 English",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/en/americas/20260626-venezuela-earthquakes-live-us-says-sending-military-ships-planes-to-provide-aid-to-venezuela",
+      "published_date": "2026-06-26T12:39:43+00:00"
+    },
+    {
+      "title": "🔴 Earthquakes in Venezuela: death toll rises to 589, announces interim president",
+      "source": "France 24 FR",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260626-en-direct-seismes-venezuela-bilan-morts-recherche-disparus-aide-humanitaire",
+      "published_date": "2026-06-26T12:37:57+00:00"
+    },
+    {
+      "title": "Sergey Ivanov, former Russian defense minister and presidential administration chief — once considered a possible successor to Putin — has died",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/06/26/sergey-ivanov-former-russian-defense-minister-and-presidential-administration-chief-once-considered-a-possible-successor-to-putin-has-died",
+      "published_date": "2026-06-26T12:12:06+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: Abelardo de la Espriella will advance bilateral relations with Israel to 'fight organized crime'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
+      "published_date": "2026-06-26T11:49:25+00:00"
+    },
+    {
+      "title": "In Brazil, the Bolsonaro family is torn apart before the October presidential election",
+      "source": "Le Monde France",
+      "country": "Brazil",
+      "url": "https://www.lemonde.fr/international/article/2026/06/26/au-bresil-la-famille-bolsonaro-se-dechire-avant-l-election-presidentielle-d-octobre_6715835_3210.html",
+      "published_date": "2026-06-26T11:46:37+00:00"
+    },
+    {
+      "title": "Mirwaiz says Modi, among longest serving PMs of India, should opt for dialogue, diplomacy to resolve issues",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-says-modi-among-longest-serving-pms-of-india-should-opt-for-dialogue-diplomacy-to-resolve-issues/article71150000.ece",
+      "published_date": "2026-06-26T11:20:12+00:00"
+    },
+    {
+      "title": "Crimea Declares State of Emergency After Ukrainian Attacks Target Energy Grid - The Moscow Times",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkFDeUltcUxOeGhFb2FaSnRUNmt3YV8wWXZkbEJ0OGlDa3BuaHFqaWtRMDlhSmEwX2tSOXZJUDZodUpFMFM0SUVoRHp0anljcE1XaU9pRVpJdGd3dll3aWFSbGhNT1hHMXl4Z0xmMVh3Q1hoV3VDbUttQV9XM3czQmRlcFdnMURXN3paYk9qMWFjbmQ0bUJTUGkyT2ZRWTl4ZGY2UGZseGNsZDd4bmFXUUZYYnJJQ1kzM1RBZDZSWkwycGRs?oc=5",
+      "published_date": "2026-06-26T11:10:00+00:00"
+    },
+    {
+      "title": "Crimea Declares State of Emergency After Ukrainian Attacks Target Energy Grid",
+      "source": "Moscow Times",
+      "country": "Ukraine",
+      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukrainian-attacks-target-energy-grid-a93105",
+      "published_date": "2026-06-26T11:10:00+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: State of emergency declared in Crimea",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ausnahmezustand-auf-der-krim-verhaengt-faz-110683325.html",
+      "published_date": "2026-06-26T11:03:07+00:00"
+    },
+    {
+      "title": "Keiko Fujimori considers the elections in Peru won: “Now we have to look at the next five years”",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-da-por-ganadas-las-elecciones-en-peru-ahora-tenemos-que-fijarnos-en-los-proximos-cinco-anos/",
+      "published_date": "2026-06-26T09:23:06+00:00"
+    },
+    {
+      "title": "As Myanmar’s civil war drags on, resistance forces face growing recruitment challenges",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/as-myanmars-civil-war-drags-on-resistance-forces-face-growing-recruitment-challenges/",
+      "published_date": "2026-06-26T09:01:21+00:00"
+    },
+    {
+      "title": "Drawing news: in the United Kingdom, the resignation of Prime Minister Keir Starmer",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/europe/20260626-actu-en-dessin-royaume-uni-d%C3%A9mission-premier-ministre-keir-starmer-brexit-epstein",
+      "published_date": "2026-06-26T08:18:32+00:00"
+    },
+    {
+      "title": "Ex-general seen as main Netanyahu rival ahead of Israel elections",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3358464/ex-general-seen-main-netanyahu-rival-ahead-israel-elections?utm_source=rss_feed",
+      "published_date": "2026-06-26T07:11:14+00:00"
+    },
+    {
+      "title": "UK foreign policy to remain unchanged despite government transition, deputy PM Lammy says",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/06/26/uk-foreign-policy-to-remain-unchanged-despite-government-transition-deputy-pm-lammy-says",
+      "published_date": "2026-06-26T06:57:31+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella, president-elect of Colombia, said he will guarantee 'absolute respect for criticism and dissent from all' in his mandate",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-dijo-que-garantizara-el-respeto-absoluto-por-la-critica-y-el-disenso-de-todos-en-su-mandato-3567195",
+      "published_date": "2026-06-26T05:17:04+00:00"
+    },
+    {
       "title": "Francia Márquez, vice president of Colombia, recognized the results of the elections and sent a message to Abelardo de la Espriella: 'All success'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
-      "published_date": "2026-06-25T22:40:00+00:00"
+      "published_date": "2026-06-26T04:56:00+00:00"
+    },
+    {
+      "title": "India News LIVE Updates, 26 June 2026: Top Ram Temple trust official resigns after allegations of theft",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-june-2026-kota-priest-murder-amit-shah-murmu-venezuela-10758208/",
+      "published_date": "2026-06-26T04:20:57+00:00"
+    },
+    {
+      "title": "High stakes and co-operation: Carney’s Alberta referendum message",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-high-stakes-and-co-operation-carneys-alberta-referendum-message/",
+      "published_date": "2026-06-26T01:27:45+00:00"
+    },
+    {
+      "title": "With Boric invited: FA concludes meetings to establish the party's roadmap and begins the process of internal elections",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/con-boric-invitado-fa-concluye-encuentros-para-fijar-hoja-de-ruta-del-partido-e-inicia-proceso-de-elecciones-internas/",
+      "published_date": "2026-06-26T00:34:49+00:00"
     },
     {
       "title": "Colombia: far-right president-elect gives “one month” to armed groups to surrender and promises firmness against drug trafficking",
@@ -296,6 +429,13 @@
       "country": "Peru",
       "url": "https://www.scmp.com/news/world/americas/article/3358260/keiko-fujimori-vows-unite-peru-split-two-run-lead-holds?utm_source=rss_feed",
       "published_date": "2026-06-24T23:00:43+00:00"
+    },
+    {
+      "title": "Back-to-back Venezuela earthquakes kill at least 164, injure hundreds, acting president says - CBS News",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakhMTTEyZ3oyMEYxYUFWX3hobGpzWGJsWFFpOEhjRzhRd2ZhREZSX2VEclhnVGh3R0UzaVo4NFd1S3ZfWkZ6aWxuRGxTN3ZUUUxSRm9pRERVTHdrUmlyOXlibkxlRkxZLVdEV3V2cklEZ3VlWHI0SjA0UkxVVlUzemIydDJsd2NJeHd5VHVnYVpTcVU5bTFmdjhhX3B0WGp0NTVEWE1ZRVg5RE9f?oc=5",
+      "published_date": "2026-06-24T22:54:00+00:00"
     },
     {
       "title": "Cepeda recognized the victory of the conservative De la Espriella in the presidential runoff of Colombia",
@@ -2998,118 +3138,6 @@
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IMXpRV19uRTNFRXo4aEczOUlwRi1oOUpyaEFSZy1MaVBPSFFJVnlCdW9iem5lVnpRRFo4RFUwRlRGLXNFc2plMGdCNE9iTXlILXRJZllWdkFyQQ?oc=5",
       "published_date": "2026-06-12T13:18:09+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: the National Registrar denied that the E-14s from abroad had been altered and asked not to spread false information",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
-      "published_date": "2026-06-12T12:23:43+00:00"
-    },
-    {
-      "title": "Facing Putin, rebel Ilia Iachine creates a party to unite Russian opposition in exile",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/face-a-poutine-le-rebelle-ilia-iachine-cree-un-parti-pour-unir-les-oppositions-russes-en-exil_6701104_3210.html",
-      "published_date": "2026-06-12T12:15:07+00:00"
-    },
-    {
-      "title": "Ex-South Korean president sentenced for sending drones into North Korea in leadup to martial law",
-      "source": "CBC News World",
-      "country": "North Korea",
-      "url": "https://www.cbc.ca/news/world/south-korea-yoon-kim-sentences-9.7233128?cmp=rss",
-      "published_date": "2026-06-12T11:45:28+00:00"
-    },
-    {
-      "title": "Communist Lawmaker Slams ‘Out-of-Touch’ War Management Ahead of Fall Duma Elections",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/06/12/communist-lawmaker-slams-out-of-touch-war-management-ahead-of-fall-duma-elections-a92994",
-      "published_date": "2026-06-12T10:58:00+00:00"
-    },
-    {
-      "title": "Elections in Peru: Fujimori maintains an advantage of 1,207 votes over Sánchez",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-fujimori-mantiene-ventaja-de-1-207-votos-sobre-sanchez/",
-      "published_date": "2026-06-12T10:35:57+00:00"
-    },
-    {
-      "title": "Israeli firm BlackCore meddled in US and Scottish elections, French watchdog says",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/nyc-and-scotland-elections-also-targeted-israeli-firm-blackcore-french-watchdog-says",
-      "published_date": "2026-06-12T10:23:02+00:00"
-    },
-    {
-      "title": "France accuses Israel’s BlackCore of meddling in elections around the world",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20260612-france-accuses-israel-s-blackcore-of-meddling-in-elections-around-the-world",
-      "published_date": "2026-06-12T10:18:53+00:00"
-    },
-    {
-      "title": "Fujimori maintains an advantage of 1,300 votes over Sánchez in the Peruvian presidential elections, with 98.2% counted",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/fujimori-mantiene-una-ventaja-de-1300-votos-sobre-sanchez-en-las-presidenciales-de-peru-con-el-982-escrutado/",
-      "published_date": "2026-06-12T10:16:14+00:00"
-    },
-    {
-      "title": "Israeli firm interfered in elections in Scotland and New York",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-firm-interfered-elections-scotland-and-new-york",
-      "published_date": "2026-06-12T09:20:24+00:00"
-    },
-    {
-      "title": "The damaging election that shows how Putin’s global reach is crumbling - The i Paper",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2F3cmJSekNlTDJXNUJEUW5Ub1ktZ3B1VDJaMHc1VFV3eFBySXYxYnJjTm83eFI0OTFJcEdIVHhGYnJNbkxubWpIY1BpY2x2TW1waDF2NjRsOW1FR1ZDXzhMeXo0TXVVMGhWb1UzQVhwbWdWZG04X3JwbVZ0VDZ3cWp0Sk5mRFRzczY4RXNHaHB1RzJpS3c?oc=5",
-      "published_date": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "title": "Yoon provoked North Korea with drones as part of martial law plot, court rules",
-      "source": "NK News",
-      "country": "North Korea",
-      "url": "https://www.nknews.org/2026/06/yoon-provoked-north-korea-with-drones-as-part-of-martial-law-plot-court-rules/",
-      "published_date": "2026-06-12T08:13:37+00:00"
-    },
-    {
-      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
-      "source": "NPR World",
-      "country": "South Korea",
-      "url": "https://www.npr.org/2026/06/12/nx-s1-5856122/ousted-south-korean-president-yoon-prison-drone-flights-pyongyang",
-      "published_date": "2026-06-12T05:21:43+00:00"
-    },
-    {
-      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang - NPR",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlRnSjZVVmljY1V3eVRLaVBobjVoSlpoUWNDdUxfTklyWC1kTkZyNWhoanFDWnYyQ3VBZU5CNUY3ZlY2NjJ4RWlVZ3phNWxYcXczdFZMRkRBSlQzNVBtdjgzUDNCZTNGR09uMXh5aHJvSGhTWlNWeHpSNnAyNTYwXzB4emU4dHRFUk83cGhoTUtIZ2ZwTmNCd00zcS1jdWxjUXYtRE94QzQ3bWdiQzFv?oc=5",
-      "published_date": "2026-06-12T05:21:43+00:00"
-    },
-    {
-      "title": "‘There needs to be change’: Voters in the major UK by-election are angry - Politico",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREk3YjI3X3pabDQ0MjN0WWI5YUxfMjRFRGZwQWd5MVFlcHNRQ0ZKUnhCckl2UEsxYUxxdkJlYzBxVGNxZzI1TXkwQzJMSGFSSjJTeXpkci1JMmJBbF9iUHdURklqZFZ1emFLRTdnQ3ZEanR1cVNyUnpPZFNFTlhWRWNUS2RUNG8tYlRBblhsVW5lSjVUcWZvSTVB?oc=5",
-      "published_date": "2026-06-12T04:01:00+00:00"
-    },
-    {
-      "title": "Aiyedatiwa’s infrastructure push will boost Tinubu’s re-election, lawmaker says",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/aiyedatiwas-infrastructure-push-will-boost-tinubus-re-election-lawmaker-says/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-12T00:44:53+00:00"
-    },
-    {
-      "title": "JNE withdraws publication that showed Keiko Fujimori as elected president of Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/jne-retira-publicacion-que-mostraba-a-keiko-fujimori-como-presidenta-electa-en-peru/",
-      "published_date": "2026-06-12T00:12:15+00:00"
     }
   ]
 }
