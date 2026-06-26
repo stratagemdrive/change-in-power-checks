@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-25T13:19:16.354098+00:00",
-    "story_count": 448,
+    "last_updated": "2026-06-26T00:10:28.071242+00:00",
+    "story_count": 436,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Francia Márquez, vice president of Colombia, recognized the results of the elections and sent a message to Abelardo de la Espriella: 'All success'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
+      "published_date": "2026-06-25T22:40:00+00:00"
+    },
+    {
+      "title": "Colombia: far-right president-elect gives “one month” to armed groups to surrender and promises firmness against drug trafficking",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/06/26/colombie-le-president-elu-d-extreme-droite-donne-un-mois-aux-groupes-armes-pour-se-rendre-et-promet-la-fermete-contre-le-narcotrafic_6715468_3210.html",
+      "published_date": "2026-06-25T22:09:12+00:00"
+    },
+    {
+      "title": "Diego Suárez, from historical exile, explains why Cuba does not need to invent anything for its transition",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-06-26-u1-e192519-s27061-nid333354-diego-suarez-exilio-historico-explica-cuba-necesita",
+      "published_date": "2026-06-25T22:02:23+00:00"
+    },
+    {
+      "title": "Volodimir Zelensky, president of Ukraine, congratulated Abelardo de la Espriella on his victory in the presidential election: 'Ready to cooperate'",
+      "source": "El Tiempo Colombia",
+      "country": "Ukraine",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
+      "published_date": "2026-06-25T21:31:44+00:00"
+    },
+    {
+      "title": "MBL councilor calls for impeachment of PT member arrested in operation that targeted PCC",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/vereadora-pede-cassacao-de-petista-preso-em-operacao-que-mirou-pcc.shtml",
+      "published_date": "2026-06-25T20:58:00+00:00"
+    },
+    {
+      "title": "Iran and Oman: A new power struggle has broken out in the Strait of Hormuz",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/iran-wuetet-gegen-neuen-omanischen-hormus-korridor-200966924.html",
+      "published_date": "2026-06-25T18:13:07+00:00"
+    },
+    {
+      "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
+      "published_date": "2026-06-25T17:41:01+00:00"
+    },
+    {
+      "title": "Farage on Starmer resignation: “I got rid of him”",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-profitiert-nicht-von-starmers-ruecktritt-200964236.html",
+      "published_date": "2026-06-25T17:30:45+00:00"
+    },
     {
       "title": "Netanyahu aide Urich allowed to keep working at PMO after court rejects prosecution's request",
       "source": "Jerusalem Post",
@@ -3054,146 +3110,6 @@
       "country": "Peru",
       "url": "https://www.elnacional.com/2026/06/jne-retira-publicacion-que-mostraba-a-keiko-fujimori-como-presidenta-electa-en-peru/",
       "published_date": "2026-06-12T00:12:15+00:00"
-    },
-    {
-      "title": "Peru’s Photo-Finish Election",
-      "source": "Foreign Policy",
-      "country": "Peru",
-      "url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez/",
-      "published_date": "2026-06-11T21:53:52+00:00"
-    },
-    {
-      "title": "Lula confirms promise to clear the queue of backlogged INSS requests before the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/06/lula-confirma-promessa-de-zerar-fila-de-pedidos-represados-do-inss-antes-da-eleicao.shtml",
-      "published_date": "2026-06-11T21:31:00+00:00"
-    },
-    {
-      "title": "BJP’s Rajya Sabha candidates in Madhya Pradesh elected unopposed; Election Commission yet to decide on Congress plea",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-elections-bjp-wins-three-seats-from-madhya-pradesh/article71089440.ece",
-      "published_date": "2026-06-11T20:44:42+00:00"
-    },
-    {
-      "title": "Trump says he believes Iran’s supreme leader has approved deal",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-believes-irans-supreme-leader-has-approved-deal",
-      "published_date": "2026-06-11T20:41:10+00:00"
-    },
-    {
-      "title": "United Kingdom: accusing Keir Starmer of endangering the country, Defense Minister John Healey resigns",
-      "source": "Le Figaro France",
-      "country": "United Kingdom",
-      "url": "https://www.lefigaro.fr/international/royaume-uni-le-ministre-de-la-defense-john-healey-demissionne-20260611",
-      "published_date": "2026-06-11T20:28:35+00:00"
-    },
-    {
-      "title": "UK defence chief steps down, accuses Starmer of making Britain 'less safe'",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
-      "published_date": "2026-06-11T20:28:05+00:00"
-    },
-    {
-      "title": "Trinamool Congress MP Prakash Chik Barik resigns from Rajya Sabha",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/trinamool-congress-mp-prakash-chik-barik-resigns-from-rajya-sabha/article71087806.ece",
-      "published_date": "2026-06-11T20:05:47+00:00"
-    },
-    {
-      "title": "An Israeli company “probably behind” the disinformation campaign that targeted LFI during the municipal elections, according to Viginum",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/11/une-societe-israelienne-probablement-a-l-origine-de-la-campagne-de-desinformation-ayant-vise-lfi-pendant-les-municipales-selon-viginum_6700797_4408996.html",
-      "published_date": "2026-06-11T19:30:44+00:00"
-    },
-    {
-      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
-      "source": "NPR World",
-      "country": "Taiwan",
-      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
-      "published_date": "2026-06-11T16:53:25+00:00"
-    },
-    {
-      "title": "Transparency Venezuela urges elections due to risk of consolidation of Delcy Rodríguez",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/transparencia-venezuela-urge-elecciones-ante-riesgo-de-afianzamiento-de-delcy-rodriguez/",
-      "published_date": "2026-06-11T16:09:08+00:00"
-    },
-    {
-      "title": "France sentences nine Azerbaijanis over attempted murder of exiled blogger",
-      "source": "OC Media Caucasus",
-      "country": "France",
-      "url": "https://oc-media.org/france-sentences-nine-azerbaijanis-over-attempted-murder-of-exiled-blogger/",
-      "published_date": "2026-06-11T14:45:53+00:00"
-    },
-    {
-      "title": "British Defense Minister Healey resigns after spat over military funding with PM Starmer",
-      "source": "Jerusalem Post",
-      "country": "United Kingdom",
-      "url": "https://www.jpost.com/international/article-899113",
-      "published_date": "2026-06-11T14:33:17+00:00"
-    },
-    {
-      "title": "John Healey resigns as defence secretary saying Starmer's military spending plans 'fall well short' - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92UXE2eWRDNWs5ZEF5aGlYa0hRQXdjM1FkRFZUVjJXekdjSjA0eE1pUHpsa0J5LUdOdVlpTjRIdDJTMlBUOGxqZjB4OUlwZFU3ell0Uw?oc=5",
-      "published_date": "2026-06-11T14:19:54+00:00"
-    },
-    {
-      "title": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-      "published_date": "2026-06-11T14:19:03+00:00"
-    },
-    {
-      "title": "Colombian presidential elections: there is a last-minute change in the voting headquarters for the second round in Miami, United States; they denied permission",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-hay-cambio-de-ultima-hora-en-sede-de-votacion-para-segunda-vuelta-en-miami-estados-unidos-negaron-permiso-3563576",
-      "published_date": "2026-06-11T13:50:00+00:00"
-    },
-    {
-      "title": "Armenian government faces uphill battle over new constitution following election results",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-government-faces-uphill-battle-over-new-constitution-following-election-results/",
-      "published_date": "2026-06-11T13:46:26+00:00"
-    },
-    {
-      "title": "Colombian presidential elections 2026: Attorney General's Office suspends two congressmen before the second round; this is known",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-de-colombia-2026-fecha-candidatos-formulas-vicepresidenciales-y-todo-sobre-la-segunda-vuelta-electoral-3563537",
-      "published_date": "2026-06-11T13:31:00+00:00"
-    },
-    {
-      "title": "What should Armenia expect from an unhappy Russia after the elections?",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/hat-should-armenia-expect-from-an-unhappy-russia-after-the-elections/",
-      "published_date": "2026-06-11T13:28:15+00:00"
-    },
-    {
-      "title": "UK defence secretary resigns with stinging attack on Keir Starmer's military spending plans",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/11/uk-defence-secretary-resigns-with-stinging-attack-on-keir-starmers-military-spending-plans",
-      "published_date": "2026-06-11T13:21:22+00:00"
-    },
-    {
-      "title": "United Kingdom: Defense Minister John Healey, in disagreement with Keir Starmer, resigns",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/06/11/royaume-uni-le-ministre-de-la-defense-john-healey-en-desaccord-avec-keir-starmer-demissionne_6700736_3210.html",
-      "published_date": "2026-06-11T13:18:19+00:00"
     }
   ]
 }
