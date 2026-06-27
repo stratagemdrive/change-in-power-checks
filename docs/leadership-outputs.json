@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-26T13:16:42.918856+00:00",
-    "story_count": 440,
+    "last_updated": "2026-06-27T00:04:12.613686+00:00",
+    "story_count": 437,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Burkina Faso breaks with France after the adoption of a critical resolution against the junta in the European Parliament",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/27/le-burkina-faso-rompt-avec-la-france-apres-l-adoption-d-une-resolution-critique-contre-la-junte-au-parlement-europeen_6715923_3212.html",
+      "published_date": "2026-06-26T23:08:40+00:00"
+    },
+    {
+      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "source": "The Guardian World",
+      "country": "Venezuela",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "published_date": "2026-06-26T22:44:43+00:00"
+    },
+    {
+      "title": "Burkina Faso ruling junta cuts diplomatic ties with ex-ruler France",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france",
+      "published_date": "2026-06-26T21:28:44+00:00"
+    },
+    {
+      "title": "GOP's new election model: Colombia",
+      "source": "Axios World",
+      "country": "Colombia",
+      "url": "https://www.axios.com/2026/06/26/republicans-voter-id-colombia-california",
+      "published_date": "2026-06-26T18:19:33+00:00"
+    },
+    {
+      "title": "Armenia seeks to strip Tsarukyan of immunity as post-election arrests and dismissals continue",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenia-seeks-to-strip-tsarukyan-of-immunity-as-post-election-arrests-and-dismissals-continue/",
+      "published_date": "2026-06-26T13:57:27+00:00"
+    },
+    {
+      "title": "Russia declares state of emergency in occupied Crimea",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/06/26/russia-declares-state-of-emergency-in-occupied-crimea",
+      "published_date": "2026-06-26T13:50:16+00:00"
+    },
+    {
+      "title": "Kremlin Aware of Viral Video Threatening Armed Uprising Over Alleged Abuses in Army",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/06/26/kremlin-aware-of-viral-video-threatening-armed-uprising-over-alleged-abuses-in-army-a93109",
+      "published_date": "2026-06-26T13:47:00+00:00"
+    },
+    {
       "title": "Shelve state police till after 2027 election, Obi tells Tinubu",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
       "url": "https://punchng.com/shelve-state-police-till-after-2027-election-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-26T13:40:49+00:00"
+    },
+    {
+      "title": "Israel's Netanyahu faces election challenge from hawkish ex-general - Yahoo",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1d0aW5zX1RaT0RkMlo4b3FqRlNTSGMyWHByMzBEdDc1clg2MmdBOEtYMmVHbzFpbkhIS3pfQ1p5VXdrcG93SXJyWnktd3dRRkpxOTFmempISDVxelUxWVhscGpBM2FxT2daSThxTzJKWGg1djhURTg3c0lGeEd1TVF2WXNBY2Z6eGticHlpRk9hcDJjMkp3eg?oc=5",
+      "published_date": "2026-06-26T13:08:12+00:00"
     },
     {
       "title": "🔴Death toll from Venezuelan earthquakes rises to at least 589, says interim president Rodriguez",
@@ -79,6 +135,13 @@
       "country": "Venezuela",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20260626-en-direct-seismes-venezuela-bilan-morts-recherche-disparus-aide-humanitaire",
       "published_date": "2026-06-26T12:37:57+00:00"
+    },
+    {
+      "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea - The New York Times",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamNNTzF3NTBuckN1dU44bk1hVXNWUzRRYnJmVDhva2NFakppZkdLN09hUnBBQXItUl9jdlVJTXp1eFcySXg4Ymo4cXg5Tlp1bHpRWDRaSXZtQ2d6ZUhXZmFocmpkdkF5cnZMZlhPRkstZnJKbjliMVg4SmN4Nk1YWmVGRVVNVGxvRDNJ?oc=5",
+      "published_date": "2026-06-26T12:24:44+00:00"
     },
     {
       "title": "Sergey Ivanov, former Russian defense minister and presidential administration chief — once considered a possible successor to Putin — has died",
@@ -120,6 +183,13 @@
       "source": "Moscow Times",
       "country": "Ukraine",
       "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukrainian-attacks-target-energy-grid-a93105",
+      "published_date": "2026-06-26T11:10:00+00:00"
+    },
+    {
+      "title": "Crimea Declares State of Emergency After Ukraine Strikes Energy Grid",
+      "source": "Moscow Times",
+      "country": "Ukraine",
+      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105",
       "published_date": "2026-06-26T11:10:00+00:00"
     },
     {
@@ -3047,97 +3117,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/politics/article-carneys-irish-grandfather-fought-off-mob-of-50-armed-men-as-young/",
       "published_date": "2026-06-13T00:32:58+00:00"
-    },
-    {
-      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "source": "Foreign Policy",
-      "country": "Iran",
-      "url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
-      "published_date": "2026-06-12T20:49:52+00:00"
-    },
-    {
-      "title": "Democracy Day: Nigerians deserve security, prosperity, justice — ADP Presidential Candidate",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/06/democracy-day-nigerians-deserve-security-prosperity-justice-adp-presidential-candidate/",
-      "published_date": "2026-06-12T20:47:47+00:00"
-    },
-    {
-      "title": "César Pérez Vivas returns to Venezuela after 20 months in exile",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/cesar-perez-vivas-regresa-a-venezuela-tras-20-meses-en-el-exilio/",
-      "published_date": "2026-06-12T20:31:46+00:00"
-    },
-    {
-      "title": "César Pérez Vivas returns to Venezuela after more than a year in exile",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/cesar-perez-vivas-regresa-a-venezuela-tras-mas-de-un-ano-en-el-exilio/",
-      "published_date": "2026-06-12T20:25:34+00:00"
-    },
-    {
-      "title": "The Kremlin is worried about possible surprises in the fall's Russian parliamentary elections",
-      "source": "Politiken Denmark",
-      "country": "Russia",
-      "url": "https://politiken.dk/internationalt/art10872963/I-Kreml-er-man-bekymret-over-mulige-overraskelser-i-efter%C3%A5rets-russiske-parlamentsvalg",
-      "published_date": "2026-06-12T19:07:33+00:00"
-    },
-    {
-      "title": "Kassio denies request from Lula's allies to stop screening of the film 'Dark Horse' during elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/kassio-nega-pedido-de-aliados-de-lula-para-barrar-exibicao-do-filme-dark-horse-durante-eleicoes.shtml",
-      "published_date": "2026-06-12T18:12:00+00:00"
-    },
-    {
-      "title": "Retrospective honors Japanese pastor who captured humanity of Seoul's vanished shantytowns",
-      "source": "Korea Times",
-      "country": "Japan",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20260612/retrospective-honors-japanese-pastor-who-captured-humanity-of-seouls-vanished-shantytowns?utm_source=rss",
-      "published_date": "2026-06-12T14:12:03+00:00"
-    },
-    {
-      "title": "Mallikarjun Kharge receives Rajya Sabha election certificate, thanks Karnataka and Congress leadership",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/mallikarjun-kharge-receives-rajya-sabha-election-certificate-thanks-karnataka-and-congress-leadership/article71093781.ece",
-      "published_date": "2026-06-12T14:06:33+00:00"
-    },
-    {
-      "title": "France accuses Israeli firm of interfering in Scottish elections and targeting SNP",
-      "source": "The Guardian World",
-      "country": "France",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/france-accuses-israeli-firm-interfering-scottish-elections-john-swinney-snp",
-      "published_date": "2026-06-12T14:00:39+00:00"
-    },
-    {
-      "title": "Starmer defends investment on defence as he vows to fight any leadership challenge – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
-      "published_date": "2026-06-12T13:43:48+00:00"
-    },
-    {
-      "title": "Starmer says he won’t ‘walk away’ after minister Healey’s shock resignation",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3356957/starmer-says-he-wont-walk-away-amid-minister-healeys-shock-resignation?utm_source=rss_feed",
-      "published_date": "2026-06-12T13:30:06+00:00"
-    },
-    {
-      "title": "Myanmar detains US businessman who wrote about military coup, sources say",
-      "source": "Jerusalem Post",
-      "country": "Myanmar",
-      "url": "https://www.jpost.com/international/article-899218",
-      "published_date": "2026-06-12T13:24:50+00:00"
-    },
-    {
-      "title": "Israeli tech firm accused of targeting First Minister in election - BBC",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IMXpRV19uRTNFRXo4aEczOUlwRi1oOUpyaEFSZy1MaVBPSFFJVnlCdW9iem5lVnpRRFo4RFUwRlRGLXNFc2plMGdCNE9iTXlILXRJZllWdkFyQQ?oc=5",
-      "published_date": "2026-06-12T13:18:09+00:00"
     }
   ]
 }
