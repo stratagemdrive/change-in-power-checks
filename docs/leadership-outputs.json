@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-27T00:04:12.613686+00:00",
-    "story_count": 437,
+    "last_updated": "2026-06-27T12:13:04.485372+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei and his measures, live: expectation for Adorni's resignation and the return of the President from Spain",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
+      "published_date": "2026-06-27T11:51:23+00:00"
+    },
+    {
+      "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start",
+      "published_date": "2026-06-27T11:10:39+00:00"
+    },
+    {
+      "title": "Colombia 2026 presidential elections: the first lady, Verónica Alcocer, sent a message to the elected president of the country, Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-la-primera-dama-veronica-alcocer-envio-un-mensaje-al-presidente-electo-del-pais-abelardo-de-la-espriella-3567498",
+      "published_date": "2026-06-27T10:55:06+00:00"
+    },
+    {
+      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
+      "published_date": "2026-06-27T10:35:08+00:00"
+    },
+    {
+      "title": "Power outages, fuel bans and no summer camps: Crimea placed under state of emergency as Ukraine steps up pressure on Putin",
+      "source": "Egypt Independent",
+      "country": "Ukraine",
+      "url": "https://www.egyptindependent.com/power-outages-fuel-bans-and-no-summer-camps-crimea-placed-under-state-of-emergency-as-ukraine-steps-up-pressure-on-putin/",
+      "published_date": "2026-06-27T09:12:53+00:00"
+    },
+    {
+      "title": "Ashok Gehlot questions ‘elusive’ justice in Kanhaiya Lal murder case, says BJP used issue for elections",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/rajasthan/ashok-gehlot-questions-elusive-justice-in-kanhaiya-lal-murder-case-says-bjp-used-issue-for-elections/article71153731.ece",
+      "published_date": "2026-06-27T08:38:15+00:00"
+    },
+    {
+      "title": "Burkina Faso junta cuts diplomatic ties with former colonial ruler France",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/africa/20260627-burkina-faso-junta-cuts-diplomatic-ties-with-former-colonial-ruler-france",
+      "published_date": "2026-06-27T07:59:41+00:00"
+    },
+    {
+      "title": "Dozens arrested in Indonesia after anti-government protest turns violent",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3358587/dozens-arrested-indonesia-after-anti-government-protest-turns-violent?utm_source=rss_feed",
+      "published_date": "2026-06-27T05:46:18+00:00"
+    },
+    {
+      "title": "President Gustavo Petro spoke about joining with the government of the elected president, Abelardo de la Espriella: 'I abide by the decisions'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-empalme-con-el-gobierno-del-mandatario-electo-abelardo-de-la-espriella-acato-las-decisiones-3567448",
+      "published_date": "2026-06-27T03:43:34+00:00"
+    },
+    {
+      "title": "Elections in the FEN U. of Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/elecciones-en-la-fen-u-de-chile/",
+      "published_date": "2026-06-27T00:54:00+00:00"
+    },
     {
       "title": "Burkina Faso breaks with France after the adoption of a critical resolution against the junta in the European Parliament",
       "source": "Le Monde France",
@@ -3026,97 +3096,6 @@
       "country": "Iran",
       "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
       "published_date": "2026-06-13T12:11:25+00:00"
-    },
-    {
-      "title": "Iran’s late supreme leader Ali Khamenei to be buried July 9 – State TV",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/06/irans-late-supreme-leader-ali-khamenei-to-be-buried-july-9-state-tv/",
-      "published_date": "2026-06-13T12:03:55+00:00"
-    },
-    {
-      "title": "Funeral preparations for Iran's former Supreme Leader set for 4 to 9 July",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-preparations-irans-former-supreme-leader-set-4-9-july",
-      "published_date": "2026-06-13T11:56:50+00:00"
-    },
-    {
-      "title": "VIDEO: Elections are rigged because Nigerians allow it – Obi",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/video-elections-are-rigged-because-nigerians-allow-it-obi/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-13T11:40:52+00:00"
-    },
-    {
-      "title": "Iran's slain supreme leader Ali Khamenei to be buried 9 July",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-slain-supreme-leader-ali-khamenei-be-buried-9-july",
-      "published_date": "2026-06-13T11:01:20+00:00"
-    },
-    {
-      "title": "Komeito aims to merge with CRA before next parliamentary session",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/komeito-cra-merger/",
-      "published_date": "2026-06-13T09:28:00+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: left-wing candidate Roberto Sánchez proposes a recount of votes",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260613-pr%C3%A9sidentielle-au-p%C3%A9rou-le-candidat-de-gauche-roberto-s%C3%A1nchez-propose-un-recomptage-des-votes",
-      "published_date": "2026-06-13T09:24:29+00:00"
-    },
-    {
-      "title": "Myanmar’s junta says everything’s back to normal. Yangon clubbers don’t believe it’s true",
-      "source": "South China Morning Post",
-      "country": "Myanmar",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356997/myanmars-junta-says-everythings-back-normal-yangon-clubbers-dont-believe-its-true?utm_source=rss_feed",
-      "published_date": "2026-06-13T07:31:36+00:00"
-    },
-    {
-      "title": "Presidential election in Peru: the left proposes to recount all the ballots",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260613-pr%C3%A9sidentielle-au-p%C3%A9rou-le-candidat-de-gauche-r%C3%A9clame-le-recomptage-de-tous-les-bulletins",
-      "published_date": "2026-06-13T06:01:30+00:00"
-    },
-    {
-      "title": "Armenia election result revives hopes of reopening border with Turkey",
-      "source": "RFI English",
-      "country": "Armenia",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260613-armenia-election-result-revives-hopes-of-reopening-border-with-turkey",
-      "published_date": "2026-06-13T05:24:42+00:00"
-    },
-    {
-      "title": "Elisabet Svane: Perhaps there is a deeper ulterior motive with Mette Frederiksen's reshuffle",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/politik/art10878536/Elisabet-Svane-M%C3%A5ske-er-der-en-dybere-bagtanke-med-Mette-Frederiksens-rokade",
-      "published_date": "2026-06-13T05:05:08+00:00"
-    },
-    {
-      "title": "In Ukraine, the pending fate of non-Russian prisoners of war captured by the Ukrainian army",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-sort-en-suspens-des-prisonniers-de-guerre-non-russes-captures-par-l-armee-ukrainienne_6701304_3210.html",
-      "published_date": "2026-06-13T03:00:07+00:00"
-    },
-    {
-      "title": "Is a BJP MP from Andhra behind rebellion in TMC?",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/is-a-bjp-mp-from-andhra-behind-rebellion-in-tmc-101781291172103.html",
-      "published_date": "2026-06-13T01:30:18+00:00"
-    },
-    {
-      "title": "Carney’s Irish grandfather fought off mob of 50 armed men as young police recruit during civil war",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-carneys-irish-grandfather-fought-off-mob-of-50-armed-men-as-young/",
-      "published_date": "2026-06-13T00:32:58+00:00"
     }
   ]
 }
