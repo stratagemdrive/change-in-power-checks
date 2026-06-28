@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-28T00:00:42.581447+00:00",
-    "story_count": 431,
+    "last_updated": "2026-06-28T12:20:55.685217+00:00",
+    "story_count": 428,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,53 @@
   },
   "stories": [
     {
-      "title": "Javier Milei and his measures, live: Adorni's resignation and the repercussions of the political arc",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
-      "published_date": "2026-06-27T23:50:14+00:00"
+      "title": "Israel's Eastern Rail Line opens for partial operations, three new stations inaugurated",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-900684",
+      "published_date": "2026-06-28T11:47:44+00:00"
+    },
+    {
+      "title": "Venezuelan Foreign Policy Forum demands political transition in the face of the emergency due to the double earthquake",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/06/foro-venezolano-de-politica-exterior-exige-transicion-politica-ante-la-emergencia-por-el-doble-terremoto/",
+      "published_date": "2026-06-28T11:00:40+00:00"
+    },
+    {
+      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
+      "published_date": "2026-06-28T10:20:14+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella: Can the elected president of Colombia become the new Bukele?",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/abelardo-de-la-espriella-puede-convertirse-el-presidente-electo-de-colombia-en-el-nuevo-bukele/",
+      "published_date": "2026-06-28T10:00:01+00:00"
     },
     {
       "title": "Milei's sacrifice to save the re-election plan",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/el-sacrificio-de-milei-para-poner-a-salvo-el-plan-de-reeleccion-nid27062026/",
-      "published_date": "2026-06-27T23:11:56+00:00"
+      "published_date": "2026-06-28T07:34:38+00:00"
+    },
+    {
+      "title": "Argentine President Javier Milei’s top aide and Cabinet chief resigns over spiraling corruption scandal - NBC News",
+      "source": "Google News World",
+      "country": "Argentina",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVl0amZRMjlYanY0aWk1azVDUnViTzE4a0hxd1owNjN3eldZam1PZzJTbGlVQUgwSlpLclI4b19QMjJHdXdIZ3QxZFRlYjdIeVMxakp3THgwN2xiLW1BUGVNN1ltRU16MUhXQm45MFdYb1ZEdEZQa2RoV1MxeFhKMGpEeTBwQmRDTUNEaWZFSWZPcnJQS1l5RHd3R2lrRWU3b2tqMFhzbjh3MFNxQWd5MkRnNUhGN05PZjNabHpn?oc=5",
+      "published_date": "2026-06-28T06:53:00+00:00"
+    },
+    {
+      "title": "Javier Milei and his measures, live: Adorni's resignation and the repercussions of the political arc",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
+      "published_date": "2026-06-27T23:50:14+00:00"
     },
     {
       "title": "Manuel Adorni, Argentine chief of staff, resigns after months of questions over his wealth declarations",
@@ -3019,62 +3054,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899372",
       "published_date": "2026-06-14T17:30:23+00:00"
-    },
-    {
-      "title": "Iran sets funeral, burial dates for late Supreme Leader Ali Khamenei",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/iran-supreme-leader-ali-khamenei-funeral-timeline-july-10739061/",
-      "published_date": "2026-06-14T12:04:07+00:00"
-    },
-    {
-      "title": "Russian opposition party-congress in Berlin: Fear that Yashin might become a \"Mini-Putin\"",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/my-europe/2026/06/14/russian-opposition-party-congress-in-berlin-fear-that-yashin-might-become-a-mini-putin",
-      "published_date": "2026-06-14T11:25:18+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: the candidate of the hard right, Abelardo de la Espriella, given as favorite",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260614-pr%C3%A9sidentielle-en-colombie-le-candidat-de-la-droite-dure-donn%C3%A9-favori-dans-les-sondages",
-      "published_date": "2026-06-14T10:40:54+00:00"
-    },
-    {
-      "title": "Trump's coup against the leader of the Aragua Train and his links with Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/mundo/noticia/el-golpe-de-trump-contra-el-lider-del-tren-de-aragua-y-sus-vinculos-con-chile/",
-      "published_date": "2026-06-14T10:00:00+00:00"
-    },
-    {
-      "title": "The burden of choice: Nigerian voters and the 2027 elections, By Mukhtar Ya’u Madobi",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/opinion/887546-the-burden-of-choice-nigerian-voters-and-the-2027-elections-by-mukhtar-yau-madobi.html",
-      "published_date": "2026-06-14T09:25:19+00:00"
-    },
-    {
-      "title": "Could India’s viral Cockroach Janta Party spark South Asia’s next youth uprising?",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/week-asia/politics/article/3356962/could-indias-viral-cockroach-janta-party-spark-south-asias-next-youth-uprising?utm_source=rss_feed",
-      "published_date": "2026-06-14T08:00:16+00:00"
-    },
-    {
-      "title": "Japan eyes responsibility of social media users during elections",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/social-media-users-elections/",
-      "published_date": "2026-06-14T02:51:00+00:00"
-    },
-    {
-      "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections?utm_source=rss_feed",
-      "published_date": "2026-06-14T02:00:08+00:00"
     }
   ]
 }
