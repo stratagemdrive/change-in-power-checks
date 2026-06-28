@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-27T12:13:04.485372+00:00",
-    "story_count": 434,
+    "last_updated": "2026-06-28T00:00:42.581447+00:00",
+    "story_count": 431,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,60 @@
   },
   "stories": [
     {
-      "title": "Javier Milei and his measures, live: expectation for Adorni's resignation and the return of the President from Spain",
+      "title": "Javier Milei and his measures, live: Adorni's resignation and the repercussions of the political arc",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
-      "published_date": "2026-06-27T11:51:23+00:00"
+      "published_date": "2026-06-27T23:50:14+00:00"
+    },
+    {
+      "title": "Milei's sacrifice to save the re-election plan",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/el-sacrificio-de-milei-para-poner-a-salvo-el-plan-de-reeleccion-nid27062026/",
+      "published_date": "2026-06-27T23:11:56+00:00"
+    },
+    {
+      "title": "Manuel Adorni, Argentine chief of staff, resigns after months of questions over his wealth declarations",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/mundo/noticia/renuncia-manuel-adorni-jefe-de-gabinete-argentino-tras-meses-de-cuestionamientos-por-sus-declaraciones-de-patrimonio/",
+      "published_date": "2026-06-27T22:46:53+00:00"
+    },
+    {
+      "title": "Netanyahu says he wants broad coalition after Israel election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-broad-coalition-after-israel-election",
+      "published_date": "2026-06-27T19:41:34+00:00"
+    },
+    {
+      "title": "Heatwave, negotiations in the Middle East, war in Sudan and resignation of Keir Starmer",
+      "source": "France 24 FR",
+      "country": "Sudan",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
+      "published_date": "2026-06-27T19:06:48+00:00"
+    },
+    {
+      "title": "With an investment of more than $50 million: Central Station inaugurates an initiative to protect its “Turkish Quarter”",
+      "source": "La Tercera Chile",
+      "country": "Turkey",
+      "url": "https://www.latercera.com/nacional/noticia/con-una-inversion-superior-a-los-50-millones-estacion-central-inaugura-iniciativa-para-proteger-su-barrio-turco/",
+      "published_date": "2026-06-27T17:45:08+00:00"
+    },
+    {
+      "title": "President-elect Abelardo de la Espriella will not attend the Casa de Nariño before his inauguration",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-electo-abelardo-de-la-espriella-no-asistira-a-la-casa-de-narino-antes-de-su-posesion-3567533",
+      "published_date": "2026-06-27T16:33:44+00:00"
+    },
+    {
+      "title": "De la Espriella, president-elect, met with Governor Andrés Julián Rendón: 'Antioquia resisted, voted for Tigre and we saved Colombia'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/de-la-espriella-presidente-electo-se-reunio-con-el-gobernador-andres-julian-rendon-antioquia-resistio-voto-por-el-tigre-y-salvamos-a-colombia-3567538",
+      "published_date": "2026-06-27T16:17:49+00:00"
     },
     {
       "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
@@ -260,6 +309,20 @@
       "source": "Moscow Times",
       "country": "Ukraine",
       "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105",
+      "published_date": "2026-06-26T11:10:00+00:00"
+    },
+    {
+      "title": "Crimea Declares State of Emergency After Ukraine Hits Energy Grid - The Moscow Times",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMwejNSREJGSjZHREZHM2dkMExGeU1xRXc1VnZXY21odG5XM0JRM01jOHEtbWtqQ2swY04tUW16MmFOSHdSUDlGM1NMdkNUNTZ0ZWJrRFBCNk0wRTlyQ185SmZnWlF1UjFNLVBtbnVCaXBPa1d6MlBJT3lLMXFLMnI5RGRVdC1xWjRoc3RmaUZLd2ZCT2hoVVRTYVlDTmpqNFQxR2tvQmNQR01PWGxTcTRpcWs?oc=5",
+      "published_date": "2026-06-26T11:10:00+00:00"
+    },
+    {
+      "title": "Crimea Declares State of Emergency After Ukraine Hits Energy Grid",
+      "source": "Moscow Times",
+      "country": "Ukraine",
+      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukraine-hits-energy-grid-a93105",
       "published_date": "2026-06-26T11:10:00+00:00"
     },
     {
@@ -3012,90 +3075,6 @@
       "country": "Taiwan",
       "url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections?utm_source=rss_feed",
       "published_date": "2026-06-14T02:00:08+00:00"
-    },
-    {
-      "title": "The Registrar's Office will send 65 delegates to accompany elections abroad: 1.4 million Colombians are authorized to vote",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-enviara-a-65-delegados-para-que-acompanen-elecciones-en-el-exterior-1-4-millones-de-colombianos-estan-habilitados-para-votar-3564161",
-      "published_date": "2026-06-13T22:25:59+00:00"
-    },
-    {
-      "title": "Israeli opposition leader says emerging Iran deal marks Netanyahu failure",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-says-emerging-iran-deal-marks-netanyahu",
-      "published_date": "2026-06-13T21:03:12+00:00"
-    },
-    {
-      "title": "An exiled Russian journalist starts new career as a comedian",
-      "source": "NPR World",
-      "country": "Russia",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5831555/an-exiled-russian-journalist-starts-new-career-as-a-comedian",
-      "published_date": "2026-06-13T21:02:49+00:00"
-    },
-    {
-      "title": "Colombia: guerrilla accused of ordering the murder of journalist Mateo Pérez was captured",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/colombia-capturaron-a-guerrillero-senalado-de-ordenar-el-asesinato-del-periodista-mateo-perez/",
-      "published_date": "2026-06-13T19:08:43+00:00"
-    },
-    {
-      "title": "Colombia 2026 Elections: last minute of the second round between Abelardo de la Espriella and Iván Cepeda this June 21",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
-      "published_date": "2026-06-13T18:32:40+00:00"
-    },
-    {
-      "title": "War in the Middle East: the late Iranian supreme leader Ali Khamenei will be buried on July 9",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-defunt-guide-supreme-iranien-ali-khamenei-sera-inhume-le-9-juillet-20260613",
-      "published_date": "2026-06-13T16:58:08+00:00"
-    },
-    {
-      "title": "Didn't lose in 2024, already won 2029: Rahul Gandhi confident of INDIA bloc win",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/didnt-lose-in-2024-already-won-2029-rahul-gandhi-confident-of-india-bloc-win-101781365733461.html",
-      "published_date": "2026-06-13T16:39:37+00:00"
-    },
-    {
-      "title": "Iran’s late supreme leader Ali Khamenei for burial July 9",
-      "source": "The Punch Nigeria",
-      "country": "Iran",
-      "url": "https://punchng.com/irans-late-supreme-leader-ali-khamenei-for-burial-july-9/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-13T13:06:54+00:00"
-    },
-    {
-      "title": "Funeral for slain Iranian supreme leader Khamenei set for July",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3357015/funeral-slain-iranian-supreme-leader-khamenei-set-july?utm_source=rss_feed",
-      "published_date": "2026-06-13T12:35:40+00:00"
-    },
-    {
-      "title": "Iran's former supreme leader Ayatollah Khamenei to be buried on July 9: Report",
-      "source": "Hindustan Times",
-      "country": "Iran",
-      "url": "https://www.hindustantimes.com/india-news/irans-former-supreme-leader-ayatollah-khamenei-to-be-buried-on-july-9-report-101781348444230.html",
-      "published_date": "2026-06-13T12:23:17+00:00"
-    },
-    {
-      "title": "Iran says funeral for Supreme Leader Khamenei will begin on July 4 amid peace deal rumours",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-funeral-khamenei-date-trump-b2995147.html",
-      "published_date": "2026-06-13T12:15:09+00:00"
-    },
-    {
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-      "published_date": "2026-06-13T12:11:25+00:00"
     }
   ]
 }
