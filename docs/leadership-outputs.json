@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-28T12:20:55.685217+00:00",
-    "story_count": 428,
+    "last_updated": "2026-06-29T00:07:13.645447+00:00",
+    "story_count": 430,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Argentina: Milei confirms Diego Santilli as new Chief of Staff after the resignation of Manuel Adorni",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/mundo/noticia/milei-confirma-a-diego-santilli-como-nuevo-jefe-de-gabinete-tras-la-renuncia-de-manuel-adorni/",
+      "published_date": "2026-06-28T23:21:15+00:00"
+    },
+    {
+      "title": "In Argentina, the chief of staff and loyalist of Javier Milei resigns",
+      "source": "Le Monde France",
+      "country": "Argentina",
+      "url": "https://www.lemonde.fr/international/article/2026/06/28/en-argentine-le-chef-de-cabinet-et-fidele-de-javier-milei-demissionne_6716593_3210.html",
+      "published_date": "2026-06-28T21:42:57+00:00"
+    },
+    {
+      "title": "Was there a fix? The cameras captured the complaint of the Austrian players when Algeria scored 3-2",
+      "source": "La Nacion Argentina",
+      "country": "Algeria",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/hubo-arreglo-las-camaras-captaron-el-reclamo-de-los-jugadores-de-austria-cuando-marco-el-3-2-argelia-nid28062026/",
+      "published_date": "2026-06-28T19:22:48+00:00"
+    },
+    {
+      "title": "“Audience or uprising”: Another Instagram appeal to Putin",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/alexandr-lunin-instagram-appell-an-wladimir-putin-200975566.html",
+      "published_date": "2026-06-28T18:51:44+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says legal cases must be pursued against US, Israel over 'child killings, war crimes'",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes",
+      "published_date": "2026-06-28T16:30:48+00:00"
+    },
+    {
+      "title": "The week in pictures: Earthquakes in Venezuela, Starmer's resignation and extreme heat in France",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260628-the-week-in-pictures-earthquakes-in-venezuela-starmer-s-resignation-and-extreme-heat-in-france",
+      "published_date": "2026-06-28T13:06:16+00:00"
+    },
+    {
+      "title": "Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/has-indias-anti-defection-law-become-biggest-weapon-in-battle-for-political-power-interview-with-dushyant-dave-101782649867135.html",
+      "published_date": "2026-06-28T12:46:45+00:00"
+    },
     {
       "title": "Israel's Eastern Rail Line opens for partial operations, three new stations inaugurated",
       "source": "Jerusalem Post",
@@ -3019,41 +3068,6 @@
       "country": "Israel",
       "url": "https://indianexpress.com/article/world/trumps-agreement-israel-minister-us-iran-deal-lebanon-ben-gvir-10740161/",
       "published_date": "2026-06-15T07:11:02+00:00"
-    },
-    {
-      "title": "They captured a man accused of sexual abuse against a minor in the north of Bogotá",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/capturaron-a-hombre-acusado-de-abuso-sexual-contra-un-menor-en-el-norte-de-bogota/",
-      "published_date": "2026-06-14T23:27:34+00:00"
-    },
-    {
-      "title": "Abbas issues decree to call Palestinian presidential elections in 2027",
-      "source": "La Tercera Chile",
-      "country": "Palestine",
-      "url": "https://www.latercera.com/mundo/noticia/abbas-promulga-decreto-para-convocar-a-elecciones-presidenciales-palestinas-en-2027/",
-      "published_date": "2026-06-14T23:26:44+00:00"
-    },
-    {
-      "title": "Palestinian Authority to hold presidential elections in 2027, Mahmoud Abbas says",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-899398",
-      "published_date": "2026-06-14T22:36:08+00:00"
-    },
-    {
-      "title": "Armenia releases final election results as pro-Russian opposition demands new vote - The Kyiv Independent",
-      "source": "Google News World",
-      "country": "Armenia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEc1cnZ0WWJMTTlfaFZ0WmxLODZ4YldSSDZTY3pjUGpjZEtIbXltVTFycjUweFVsQ1lQUkVMaC1zYnNCcU1qbjI2b2ZvUmVHWG9aTmtYQzB1OTIzQm9ILTlhOUZwelBpQWhqaEhXejE0cmdNMHluQXVLX0ZWcnYyS2VTMkc1bjVPb3dQcTBJMDhvbDlFRzBXd2w0ampCeWd6RkhCNHRETUVpRVhfMlozUA?oc=5",
-      "published_date": "2026-06-14T21:00:42+00:00"
-    },
-    {
-      "title": "The homeless Right: Likud's biggest gamble in upcoming elections  - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899372",
-      "published_date": "2026-06-14T17:30:23+00:00"
     }
   ]
 }
