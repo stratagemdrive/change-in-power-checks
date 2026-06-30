@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-29T14:51:55.872037+00:00",
-    "story_count": 435,
+    "last_updated": "2026-06-30T00:00:58.688826+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Keiko Fujimori won the runoff in Peru by less than 50,000 votes and will be the next president",
+      "source": "La Nacion Argentina",
+      "country": "Peru",
+      "url": "https://www.lanacion.com.ar/el-mundo/keiko-fujimori-gano-el-balotaje-en-peru-por-menos-de-50000-votos-y-sera-la-proxima-presidenta-nid29062026/",
+      "published_date": "2026-06-29T22:50:35+00:00"
+    },
+    {
+      "title": "Keiko Fujimori leads Peru’s presidential race after official count concludes",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/06/30/world/politics/keiko-fujimori-peru-presidential-race/",
+      "published_date": "2026-06-29T22:28:00+00:00"
+    },
+    {
+      "title": "Keiko Fujimori is elected president of Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-es-electa-presidenta-de-peru/",
+      "published_date": "2026-06-29T22:25:25+00:00"
+    },
+    {
+      "title": "Keiko Fujimori officially declared president-elect of Peru",
+      "source": "France 24 FR",
+      "country": "Peru",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260629-keiko-fujimori-d%C3%A9claree-officiellement-presidente-election-perou-amerique-latine-roberto-sanchez",
+      "published_date": "2026-06-29T22:05:18+00:00"
+    },
+    {
+      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
+      "source": "France 24 English",
+      "country": "Peru",
+      "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory",
+      "published_date": "2026-06-29T22:04:17+00:00"
+    },
+    {
+      "title": "Keiko Fujimori wins the elections in Peru according to the electoral authority",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Peru",
+      "url": "https://efectococuyo.com/internacionales/keiko-fujimori-gana-las-elecciones-en-peru-de-acuerdo-con-la-autoridad-electoral/",
+      "published_date": "2026-06-29T21:39:44+00:00"
+    },
+    {
+      "title": "In Peru, Keiko Fujimori officially elected president with 50.13% of the vote",
+      "source": "Le Monde France",
+      "country": "Peru",
+      "url": "https://www.lemonde.fr/international/article/2026/06/29/au-perou-keiko-fujimori-officiellement-elue-presidente-avec-50-13-des-voix_6716981_3210.html",
+      "published_date": "2026-06-29T21:20:50+00:00"
+    },
+    {
+      "title": "US believes Israel-Syria normalization chances before Knesset elections 'very slim,' source to Post",
+      "source": "Jerusalem Post",
+      "country": "Syria",
+      "url": "https://www.jpost.com/middle-east/article-900872",
+      "published_date": "2026-06-29T20:24:53+00:00"
+    },
+    {
+      "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
+      "source": "France 24 English",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
+      "published_date": "2026-06-29T18:14:26+00:00"
+    },
+    {
+      "title": "‘He’s clearly pro-war. And people are tired of the war.’ Why Russia’s ruling party left Dmitry Medvedev, its own chairman, off this September’s election list.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/29/he-s-clearly-pro-war-and-people-are-tired-of-the-war-why-russia-s-ruling-party-left-dmitry-medvedev-its-own-chairman-off-this-september-s-election-list",
+      "published_date": "2026-06-29T18:01:54+00:00"
+    },
+    {
+      "title": "Ireland head coach Malan resigns a day after historic clean-sweep over India",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/sports/cricket/ireland-coach-malan-resigns-wilson-appointed-india-series-win-10763325/",
+      "published_date": "2026-06-29T16:20:03+00:00"
+    },
     {
       "title": "3 PPP lawmakers booked for obstructing Yoon's arrest over martial law bid",
       "source": "Korea Times",
@@ -3019,90 +3096,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bjp-leaders-eye-early-assembly-elections-for-goa-punjab-uttarakhand-and-uttar-pradesh-101781572208045.html",
       "published_date": "2026-06-16T01:20:47+00:00"
-    },
-    {
-      "title": "Netanyahu confirms he will run in Israel's fall elections",
-      "source": "El Nacional Venezuela",
-      "country": "Israel",
-      "url": "https://www.elnacional.com/2026/06/netanyahu-confirma-que-se-presentara-a-las-elecciones-de-otono-en-israel/",
-      "published_date": "2026-06-15T22:56:23+00:00"
-    },
-    {
-      "title": "Peru is experiencing the closest presidential race in Latin America since 1990",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/peru-vive-la-contienda-presidencial-mas-renida-en-america-latina-desde-1990/",
-      "published_date": "2026-06-15T21:20:57+00:00"
-    },
-    {
-      "title": "After US-Iran deal, Netanyahu says he will run in coming Israeli elections",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3357216/after-us-iran-deal-netanyahu-says-he-will-run-coming-israeli-elections?utm_source=rss_feed",
-      "published_date": "2026-06-15T20:24:30+00:00"
-    },
-    {
-      "title": "Israel: Benjamin Netanyahu announces he is a candidate for the next legislative elections",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/06/15/israel-benyamin-netanyahou-annonce-etre-candidat-aux-prochaines-elections-legislatives_6703259_3210.html",
-      "published_date": "2026-06-15T18:57:30+00:00"
-    },
-    {
-      "title": "Israeli, anti-regime Iranian marchers forced out of Bologna Pride amid 'Zionists out' chants",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-899507",
-      "published_date": "2026-06-15T18:42:04+00:00"
-    },
-    {
-      "title": "Palestinian Authority leader Mahmoud Abbas announces presidential election in early 2027",
-      "source": "Le Monde France",
-      "country": "Palestine",
-      "url": "https://www.lemonde.fr/international/article/2026/06/15/mahmoud-abbas-le-dirigeant-de-l-autorite-palestinienne-annonce-une-election-presidentielle-debut-2027_6703238_3210.html",
-      "published_date": "2026-06-15T16:24:25+00:00"
-    },
-    {
-      "title": "Knesset's election of Rabello as comptroller conducted unlawfully, retired justice tells high court",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899491",
-      "published_date": "2026-06-15T16:15:50+00:00"
-    },
-    {
-      "title": "Israeli opposition leader accuses Netanyahu of “losing the war” and “collapsing at the moment of truth”",
-      "source": "La Tercera Chile",
-      "country": "Israel",
-      "url": "https://www.latercera.com/mundo/noticia/el-lider-de-la-oposicion-israeli-acusa-a-netanyahu-de-perder-la-guerra-y-colapsar-en-el-momento-de-la-verdad/",
-      "published_date": "2026-06-15T16:03:45+00:00"
-    },
-    {
-      "title": "Palestinian leader Abbas announces presidential election in early 2027",
-      "source": "Vanguard Nigeria",
-      "country": "Palestine",
-      "url": "https://www.vanguardngr.com/2026/06/palestinian-leader-abbas-announces-presidential-election-in-early-2027/",
-      "published_date": "2026-06-15T15:55:41+00:00"
-    },
-    {
-      "title": "NDA inches towards two-thirds majority in Rajya Sabha; short in Lok Sabha despite TMC rebellion",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/nda-inches-towards-two-thirds-majority-in-rajya-sabha-short-in-lok-sabha-despite-tmc-rebellion/article71100755.ece",
-      "published_date": "2026-06-15T15:44:50+00:00"
-    },
-    {
-      "title": "Kassio will invite the European Union to monitor elections in Brazil",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/kassio-vai-convidar-uniao-europeia-para-acompanhar-eleicoes-no-brasil.shtml",
-      "published_date": "2026-06-15T15:00:00+00:00"
-    },
-    {
-      "title": "Three months before the legislative elections, Istiqlal articulates its “political contract” in five commitments",
-      "source": "Le Desk Morocco",
-      "country": "Morocco",
-      "url": "https://ledesk.ma/2026/06/15/a-trois-mois-des-legislatives-listiqlal-articule-son-contrat-politique-en-cinq-engagements/",
-      "published_date": "2026-06-15T14:59:50+00:00"
     }
   ]
 }
