@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-06-30T13:14:28.683233+00:00",
-    "story_count": 441,
+    "last_updated": "2026-07-01T00:06:13.365079+00:00",
+    "story_count": 442,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidential election 2027: Édouard Philippe refutes promising the French “blood and tears”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-refute-promettre-aux-francais-du-sang-et-des-larmes-20260630",
+      "published_date": "2026-06-30T23:07:01+00:00"
+    },
+    {
+      "title": "Milei and Adorni gave each other a effusive hug during Santilli's inauguration",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/el-momento-del-abrazo-entre-milei-y-adorni-durante-la-asuncion-de-santilli-nid30062026/",
+      "published_date": "2026-06-30T22:58:59+00:00"
+    },
+    {
+      "title": "France sets presidential election date as Macron finishes final term",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term",
+      "published_date": "2026-06-30T22:09:22+00:00"
+    },
+    {
+      "title": "Explosion in Monaco: since his golden exile, Vadim Ermolaev has continued his activities in Ukraine despite sanctions",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/actualite-france/attentat-a-monaco-depuis-son-exil-dore-vadim-ermolaev-poursuivait-ses-activites-en-ukraine-malgre-les-sanctions-20260630",
+      "published_date": "2026-06-30T21:26:30+00:00"
+    },
+    {
+      "title": "France: the 2027 presidential election will take place on April 18 and May 2",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/france/20260630-france-l-%C3%A9lection-pr%C3%A9sidentielle-2027-aura-lieu-les-18-avril-et-2-mai",
+      "published_date": "2026-06-30T20:52:34+00:00"
+    },
+    {
+      "title": "This is how the connection between Gustavo Petro's government and the team of the president-elect, Abelardo de la Espriella, progresses: this week the first meeting will take place",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/asi-avanza-el-empalme-del-gobierno-de-gustavo-petro-con-el-equipo-del-presidente-electo-abelardo-de-la-espriella-esta-semana-se-dara-la-primera-cita-3567986",
+      "published_date": "2026-06-30T20:07:59+00:00"
+    },
+    {
+      "title": "Laura Sarabia presented her resignation as Colombian ambassador to the United Kingdom; will leave office on August 7",
+      "source": "El Tiempo Colombia",
+      "country": "United Kingdom",
+      "url": "https://www.eltiempo.com/politica/gobierno/laura-sarabia-presento-su-renuncia-como-embajadora-de-colombia-en-el-reino-unido-dejara-el-cargo-el-7-de-agosto-3567975",
+      "published_date": "2026-06-30T19:07:22+00:00"
+    },
+    {
+      "title": "Employees have resigned: Now more than every third fountain in Copenhagen is empty of water",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/art10902052/Medarbejdere-har-sagt-op-Nu-er-mere-end-hvert-tredje-springvand-i-K%C3%B8benhavn-tomt-for-vand",
+      "published_date": "2026-06-30T19:00:14+00:00"
+    },
+    {
+      "title": "PPP, JUI-F announce they will jointly contest upcoming AJK elections",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2011985/ppp-jui-f-announce-they-will-jointly-contest-upcoming-ajk-elections",
+      "published_date": "2026-06-30T17:55:44+00:00"
+    },
+    {
+      "title": "On the eve of the legislative elections in Algeria, the new faces of the diaspora in France, confronted with latent “Algerophobia”",
+      "source": "Le Monde France",
+      "country": "Algeria",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/30/a-la-veille-des-legislatives-en-algerie-les-nouveaux-visages-de-la-diaspora-en-france-confrontes-a-une-algerophobie-latente_6717304_3212.html",
+      "published_date": "2026-06-30T16:00:10+00:00"
+    },
+    {
+      "title": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/06/30/a-third-russian-region-declares-high-alert-over-fuel-crisis-a-status-that-allows-elections-to-be-postponed",
+      "published_date": "2026-06-30T15:11:11+00:00"
+    },
+    {
+      "title": "India's Cockroach party seeking education minister's ouster awaits cabinet reshuffle",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle",
+      "published_date": "2026-06-30T13:11:22+00:00"
+    },
     {
       "title": "Bukele will seek a third consecutive term in 2027 in El Salvador after the constitutional reform",
       "source": "La Nacion Argentina",
@@ -109,7 +193,7 @@
       "published_date": "2026-06-30T02:49:24+00:00"
     },
     {
-      "title": "Lula releases R$520 million for advertising before the election, more than twice as much as Bolsonaro in 2022",
+      "title": "Lula releases R$520 million for propaganda before the election, more than twice as much as Bolsonaro in 2022",
       "source": "Folha de S Paulo",
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-libera-r-520-mi-para-propaganda-antes-da-eleicao-mais-que-o-dobro-de-bolsonaro-em-2022.shtml",
@@ -3068,83 +3152,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-elecciones-en-manos-de-los-ciudadanos-asi-descansa-la-legitimidad-del-sistema-electoral-en-la-participacion-de-millones-de-colombianos-3564737",
       "published_date": "2026-06-17T00:53:57+00:00"
-    },
-    {
-      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-      "published_date": "2026-06-16T21:44:54+00:00"
-    },
-    {
-      "title": "Eduardo Bolsonaro says the STF's judgment is 'pointless' and aims to remove him from the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eduardo-bolsonaro-diz-que-julgamento-do-stf-e-sem-pe-nem-cabeca-e-visa-tira-lo-das-eleicoes.shtml",
-      "published_date": "2026-06-16T21:19:00+00:00"
-    },
-    {
-      "title": "Ousted DHS secretary Kristi Noem claims China has a ‘thousand-year plan to destroy the United States’",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/kristi-noem-warns-china-plan-destroy-us-b2996730.html",
-      "published_date": "2026-06-16T21:01:50+00:00"
-    },
-    {
-      "title": "Ukraine is not using martial law as pretext for excessive restrictions on rights, says Mathernova",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4134592-ukraine-is-not-using-martial-law-as-pretext-for-excessive-restrictions-on-rights-says-mathernova.html",
-      "published_date": "2026-06-16T19:58:00+00:00"
-    },
-    {
-      "title": "Campaign guidelines urge Russia’s ruling political party to hide its own branding at mass events to avoid voter backlash ahead of September elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/06/16/campaign-guidelines-urge-russia-s-ruling-political-party-to-hide-its-own-branding-at-mass-events-to-avoid-voter-backlash-ahead-of-september-elections",
-      "published_date": "2026-06-16T18:29:08+00:00"
-    },
-    {
-      "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
-      "published_date": "2026-06-16T17:23:12+00:00"
-    },
-    {
-      "title": "China’s Shein to be ousted from Paris department store after other brands flee",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/article/3357348/shein-faces-exit-paris-department-store-after-backlash?utm_source=rss_feed",
-      "published_date": "2026-06-16T17:02:46+00:00"
-    },
-    {
-      "title": "Peru’s presidential race remains too close to call as vote count inches forward",
-      "source": "Peru Reports",
-      "country": "Peru",
-      "url": "https://perureports.com/perus-presidential-race-remains-too-close-to-call-as-vote-count-inches-forward/10778/",
-      "published_date": "2026-06-16T16:12:45+00:00"
-    },
-    {
-      "title": "Mamata challenges Bhabanipur election in high court; BJP calls it futile attempt",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/mamata-challenges-bhabanipur-election-in-high-court-bjp-calls-it-futile-attempt-101781620429989.html",
-      "published_date": "2026-06-16T14:33:49+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: two radically opposed visions clash in the second round",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260616-presidentielle-colombie-cepeda-de-la-espriella-deux-visions-radicalement-opposees-deuxieme-tour",
-      "published_date": "2026-06-16T14:14:14+00:00"
-    },
-    {
-      "title": "The Caribbean, the urban vote and abstentionists: decisive pieces of the runoff in Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/el-caribe-el-voto-urbano-y-los-abstencionistas-fichas-decisivas-del-balotaje-en-colombia/",
-      "published_date": "2026-06-16T14:00:00+00:00"
     }
   ]
 }
