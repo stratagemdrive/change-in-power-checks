@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-01T00:06:13.365079+00:00",
-    "story_count": 442,
+    "last_updated": "2026-07-01T13:38:33.674841+00:00",
+    "story_count": 438,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lee, Moon stress party unity ahead of DPK leadership race",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260701/lee-moon-stress-party-unity-ahead-of-dpk-leadership-race?utm_source=rss",
+      "published_date": "2026-07-01T13:32:03+00:00"
+    },
+    {
+      "title": "Algeria's parliamentary vote raises questions on real change",
+      "source": "Deutsche Welle English",
+      "country": "Algeria",
+      "url": "https://www.dw.com/en/algeria-s-parliamentary-vote-raises-questions-on-real-change/a-77787095?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-01T13:04:00+00:00"
+    },
+    {
+      "title": "Myriad of French presidential candidates to face off in late April election",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election",
+      "published_date": "2026-07-01T12:50:25+00:00"
+    },
+    {
+      "title": "Indian opposition demands defence minister's resignation for 'lying' about soldiers' deaths in 2025 conflict with Pakistan",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2012157/indian-opposition-demands-defence-ministers-resignation-for-lying-about-soldiers-deaths-in-2025-conflict-with-pakistan",
+      "published_date": "2026-07-01T08:47:00+00:00"
+    },
+    {
+      "title": "Three girls killed in Myanmar junta airstrike as fighting intensifies in southern Chin State",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/three-girls-killed-in-myanmar-junta-airstrike-as-fighting-intensifies-in-southern-chin-state/",
+      "published_date": "2026-07-01T08:13:26+00:00"
+    },
+    {
+      "title": "Podcast: the weight of Minas Gerais in the election and the uncertainty of Lula and Flávio Bolsonaro in the state",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-o-peso-de-minas-gerais-na-eleicao-e-a-indefinicao-de-lula-e-flavio-bolsonaro-no-estado.shtml",
+      "published_date": "2026-07-01T08:00:00+00:00"
+    },
+    {
+      "title": "Iran prepares grand funeral for late supreme leader killed on war’s first day",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3359013/iran-prepares-grand-funeral-late-supreme-leader-killed-wars-first-day?utm_source=rss_feed",
+      "published_date": "2026-07-01T06:48:02+00:00"
+    },
+    {
+      "title": "Organization: 100,000 have been killed since military coup in Myanmar",
+      "source": "Politiken Denmark",
+      "country": "Myanmar",
+      "url": "https://politiken.dk/internationalt/art10902489/Organisation-100.000-er-blevet-dr%C3%A6bt-siden-milit%C3%A6rkup-i-Myanmar",
+      "published_date": "2026-07-01T06:35:25+00:00"
+    },
     {
       "title": "Presidential election 2027: Édouard Philippe refutes promising the French “blood and tears”",
       "source": "Le Figaro France",
@@ -79,6 +135,13 @@
       "country": "France",
       "url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term",
       "published_date": "2026-06-30T22:09:22+00:00"
+    },
+    {
+      "title": "France sets presidential election date as Macron finishes final term - France 24",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmJuMUFXeEtsZVhONkRKN2h1a25jN2RNMEU1WHYtM094RUdnWENFRzRFbVhmYktLVWxTMUlnZDJJVmdBeEppMGZlTHgtQTZTb0Q4ZzQyYktycnBuZFY0Sng5UGxOeFNJMTI2dXVoU21rLXdyYnAwd2lGZE1fRFJHbktmTl9DeURmWEZ6eTRTdGREQTloeWxZTmlRQTNEbUZfX0lPdy1hdm1mR3Fxc2RjMk93?oc=5",
+      "published_date": "2026-06-30T22:09:00+00:00"
     },
     {
       "title": "Explosion in Monaco: since his golden exile, Vadim Ermolaev has continued his activities in Ukraine despite sanctions",
@@ -193,7 +256,7 @@
       "published_date": "2026-06-30T02:49:24+00:00"
     },
     {
-      "title": "Lula releases R$520 million for propaganda before the election, more than twice as much as Bolsonaro in 2022",
+      "title": "Lula releases R$520 million for advertising before the election, more than twice as much as Bolsonaro in 2022",
       "source": "Folha de S Paulo",
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-libera-r-520-mi-para-propaganda-antes-da-eleicao-mais-que-o-dobro-de-bolsonaro-em-2022.shtml",
@@ -3061,97 +3124,6 @@
       "country": "Colombia",
       "url": "https://www.latercera.com/mundo/noticia/el-apoyo-total-de-trump-a-de-la-espriella-que-suma-y-que-resta-a-la-campana-del-balotaje-en-colombia/",
       "published_date": "2026-06-17T14:00:00+00:00"
-    },
-    {
-      "title": "Bolsonaro's son condemned: When a friend of Trump's becomes Lula's election assistant",
-      "source": "FAZ Germany",
-      "country": "Brazil",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wie-das-urteil-gegen-eduardo-bolsonaro-der-lula-regierung-hilft-200939322.html",
-      "published_date": "2026-06-17T13:28:00+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: this June 17, observers from the European Union will be deployed in the country for the second round",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
-      "published_date": "2026-06-17T13:09:32+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: Abelardo de la Espriella, the far-right outsider who wants to “gut” the left",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/17/presidentielle-en-colombie-abelardo-de-la-espriella-l-outsider-d-extreme-droite-qui-veut-etriper-la-gauche_6704226_3210.html",
-      "published_date": "2026-06-17T12:05:35+00:00"
-    },
-    {
-      "title": "Rajya Sabha elections in Jharkhand tomorrow amid cross-voting fears",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-elections-in-jharkhand-june-18-thursday-amid-cross-voting-fears-101781694692877.html",
-      "published_date": "2026-06-17T11:14:45+00:00"
-    },
-    {
-      "title": "Makerfield: the local election that could change the UK",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260617-makerfield-the-local-election-that-could-change-the-uk",
-      "published_date": "2026-06-17T10:53:44+00:00"
-    },
-    {
-      "title": "NLD symbols removed in bid to erase last vestiges of Myanmar’s ousted ruling party",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/nld-symbols-removed-in-bid-to-erase-last-vestiges-of-myanmars-ousted-ruling-party/",
-      "published_date": "2026-06-17T10:23:09+00:00"
-    },
-    {
-      "title": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss",
-      "published_date": "2026-06-17T09:53:28+00:00"
-    },
-    {
-      "title": "Exiled Russian artist and Putin critic shot dead in Poland",
-      "source": "Indian Express",
-      "country": "Russia",
-      "url": "https://indianexpress.com/article/world/exiled-russian-artist-semyon-skrepetsky-shot-dead-putin-10743642/",
-      "published_date": "2026-06-17T09:40:06+00:00"
-    },
-    {
-      "title": "The election that could reshape Colombia’s relationship with Israel",
-      "source": "Middle East Eye",
-      "country": "Colombia",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-could-reshape-colombias-relationship-israel",
-      "published_date": "2026-06-17T09:35:57+00:00"
-    },
-    {
-      "title": "‘Virtual Wali of Khartoum’ defects from Sudan’s RSF militia",
-      "source": "Radio Dabanga Sudan",
-      "country": "Sudan",
-      "url": "https://www.dabangasudan.org/en/all-news/article/virtual-wali-of-khartoum-defects-from-sudans-rsf-militia",
-      "published_date": "2026-06-17T07:55:25+00:00"
-    },
-    {
-      "title": "Urged to consider his position, Starmer warns against UK leadership challenge - Reuters",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5YNWs3Y0RmVE1DTE9oTHJvb1ppQkphNUc5b2FBc1pPdTFFaDBQUUpRMk1mRzRVd2VPOThmc2JsbXdFVmxleHdHZmhON0ttWUNUaTRrcVJqSUJBTlBDemJDcHlUY1F1Qy1RbDd0bFFRNmJEaXp3X0JGVGVYTnBUWjhXSnhpRG5sci1Ea01nSm1hZjV0LXY2VUZQWUFPc2tQc3FtbnA5RXplaG16alBFbzJRX2dRTTRSUkE?oc=5",
-      "published_date": "2026-06-17T06:41:00+00:00"
-    },
-    {
-      "title": "Rebellion crisis highlights: Abhishek Banerjee gets Lok Sabha invite amid TMC crisis;  ₹50 cr 'offer' to Maha MPs",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tmc-news-live-updates-ananya-banerjee-tmc-abhishek-mamata-banerjee-sayoni-ghosh-kakoli-rebel-mps-bjp-nda-lok-sabha-101781664720788.html",
-      "published_date": "2026-06-17T03:07:41+00:00"
-    },
-    {
-      "title": "The elections, in the hands of the citizens: this is how the legitimacy of the electoral system rests on the participation of millions of Colombians",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-elecciones-en-manos-de-los-ciudadanos-asi-descansa-la-legitimidad-del-sistema-electoral-en-la-participacion-de-millones-de-colombianos-3564737",
-      "published_date": "2026-06-17T00:53:57+00:00"
     }
   ]
 }
