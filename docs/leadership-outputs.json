@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-02T00:06:46.985142+00:00",
-    "story_count": 440,
+    "last_updated": "2026-07-02T13:01:17.264728+00:00",
+    "story_count": 443,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Palestinian Authority prepares for first election in two decades, as Abbas preps final date",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-901222",
+      "published_date": "2026-07-02T14:11:05+00:00"
+    },
+    {
+      "title": "Presidential election 2027 - episode 1: France in times of doubt",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260702-pr%C3%A9sidentielle-2027-%C3%A9pisode-1-la-france-%C3%A0-l-heure-du-doute",
+      "published_date": "2026-07-02T12:36:22+00:00"
+    },
+    {
+      "title": "The six points that José Manuel Restrepo, vice president-elect, asks Gustavo Petro to comply with in the connection process that begins today, July 2",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/los-seis-puntos-que-jose-manuel-restrepo-vicepresidente-electo-pide-a-gustavo-petro-cumplir-en-proceso-de-empalme-que-inicia-hoy-2-de-julio-3568441",
+      "published_date": "2026-07-02T12:20:00+00:00"
+    },
+    {
+      "title": "Medvedev to Lead Russian Delegation at Iranian Supreme Leader’s Funeral",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/02/medvedev-to-lead-russian-delegation-at-iranian-supreme-leaders-funeral-a93149",
+      "published_date": "2026-07-02T12:17:50+00:00"
+    },
+    {
+      "title": "Algerians vote in parliamentary elections overshadowed by candidate bans",
+      "source": "France 24 English",
+      "country": "Algeria",
+      "url": "https://www.france24.com/en/africa/20260702-algerians-vote-in-parliamentary-elections-overshadowed-by-candidate-bans",
+      "published_date": "2026-07-02T12:13:29+00:00"
+    },
+    {
+      "title": "Will Supreme Leader Mojtaba Khamenei attend his father’s funeral?",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/will-supreme-leader-mojtaba-khamenei-attend-his-fathers-funeral/",
+      "published_date": "2026-07-02T12:11:45+00:00"
+    },
+    {
+      "title": "“Which side were you on during Brexit in 2016? All candidates in the French presidential election must be asked this question.\"",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/02/de-quel-cote-etiez-vous-lors-du-brexit-en-2016-tous-les-candidats-a-l-election-presidentielle-francaise-doivent-etre-soumis-a-cette-question_6717847_3232.html",
+      "published_date": "2026-07-02T11:54:19+00:00"
+    },
+    {
+      "title": "Pashinyan holds call with Russian Prime Minister Mishustin in first contact since elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/pashinyan-holds-call-with-russian-prime-minister-mishustin-in-first-contact-since-elections/",
+      "published_date": "2026-07-02T10:51:05+00:00"
+    },
+    {
+      "title": "In Algeria, voting day for legislative elections and fear of massive abstention",
+      "source": "France 24 FR",
+      "country": "Algeria",
+      "url": "https://www.france24.com/fr/afrique/20260702-en-alg%C3%A9rie-jour-de-vote-pour-les-l%C3%A9gislatives-et-crainte-d-une-abstention-massive",
+      "published_date": "2026-07-02T10:47:26+00:00"
+    },
+    {
+      "title": "Venezuelan exile asks Trump to review relationship with the Dlecy government for its handling after earthquakes",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/exilio-venezolano-pide-a-trump-revisar-relacion-con-el-gobierno-de-dlecy-por-su-manejo-tras-terremotos/",
+      "published_date": "2026-07-02T10:46:00+00:00"
+    },
+    {
+      "title": "Indonesia’s Widodo backs son’s party for 2029 election with political tour",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/week-asia/politics/article/3359159/indonesias-widodo-backs-sons-party-2029-election-new-political-tour?utm_source=rss_feed",
+      "published_date": "2026-07-02T08:00:40+00:00"
+    },
+    {
+      "title": "Algeria votes in parliamentary elections amid public apathy and football fever",
+      "source": "RFI English",
+      "country": "Algeria",
+      "url": "https://www.rfi.fr/en/africa/20260702-algeria-votes-in-parliamentary-elections-amid-public-apathy-and-football-fever",
+      "published_date": "2026-07-02T07:12:43+00:00"
+    },
+    {
+      "title": "Kast lands in Uruguay and meets with his counterpart Yamandú Orsi in his first visit to a head of state of a different political nature",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-aterriza-en-uruguay-y-se-reune-con-su-par-yamandu-orsi-en-su-primera-visita-a-un-jefe-de-estado-de-signo-politico-distinto/",
+      "published_date": "2026-07-02T01:03:39+00:00"
+    },
     {
       "title": "Santilli spoke about the elections and the opposition: “Milei is going to beat them again”",
       "source": "La Nacion Argentina",
@@ -107,6 +198,13 @@
       "country": "China",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/xi-jinping-presidente-de-china-felicita-a-abelardo-de-la-espriella-por-su-eleccion-como-presidente-de-colombia-3568202",
       "published_date": "2026-07-01T15:08:10+00:00"
+    },
+    {
+      "title": "Ukraine’s former commander-in-chief to run for president, reports say - Euronews",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU9nTVYybVE1YnNlRFZFNkZ4aUFJR052eEwyTlhIOTZqZ0NCT29YVm4tWGJGWGx4TFJUck1CbU13cms4bXdnM3lqTkV4RlN0Vk9BSHVwc0c1a0hLUU1JekF4NlJHVVdISkJYaUNUQ1czZmg2dmo5WlJYNFRiR3NHRkotWGhrWlVWb0Vtdmg2TlByaThCZ3lJY2NuZldITU1KOHZERkdweFVENGsxQXVoRFEzZw?oc=5",
+      "published_date": "2026-07-01T14:48:55+00:00"
     },
     {
       "title": "France confirms dates for 2027 presidential election",
@@ -3061,83 +3159,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20260618-pr%C3%A9sidentielle-en-colombie-l-ing%C3%A9rence-de-trump-au-c%C5%93ur-des-d%C3%A9bats-du-deuxi%C3%A8me-tour",
       "published_date": "2026-06-18T13:16:13+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: who are the candidates in the runoff to define the next president",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-quienes-son-los-candidatos-en-el-balotaje-para-definir-al-proximo-nid15062026/",
-      "published_date": "2026-06-18T12:30:55+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: Claudia López explained her support for Iván Cepeda ahead of the second round: 'Both candidacies involve risks'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
-      "published_date": "2026-06-18T12:30:30+00:00"
-    },
-    {
-      "title": "Peru Elections: Keiko Fujimori leads Roberto Sánchez by just over 39 thousand votes",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/elecciones-peru-keiko-fujimori-adelanta-por-poco-mas-de-39-mil-votos-a-roberto-sanchez/",
-      "published_date": "2026-06-18T11:13:29+00:00"
-    },
-    {
-      "title": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
-      "published_date": "2026-06-18T10:31:01+00:00"
-    },
-    {
-      "title": "Starmer on the line as UK holds \"most important local election in decades\"",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/starmer-on-the-line-as-uk-holds-most-important-local-election-in-decades",
-      "published_date": "2026-06-18T09:48:39+00:00"
-    },
-    {
-      "title": "Voters head to the polls in key UK by-election that could determine Britain's next PM",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/18/voters-head-to-the-polls-in-key-uk-by-election-that-could-determine-britains-next-pm",
-      "published_date": "2026-06-18T09:42:14+00:00"
-    },
-    {
-      "title": "EU referendum on departure centers splits the Danish governing parties",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/politik/art10885484/EU-afstemning-om-udrejsecentre-splitter-de-danske-regeringspartier",
-      "published_date": "2026-06-18T07:11:02+00:00"
-    },
-    {
-      "title": "How a Belarusian exile vanished in waters held by Russia",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/how-a-belarusian-exile-vanished-in-waters-held-by-russia/a-77580696?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-06-18T07:02:00+00:00"
-    },
-    {
-      "title": "Starmer rival seeks win in UK by-election pivotal to PM's fate",
-      "source": "RFI English",
-      "country": "United Kingdom",
-      "url": "https://www.rfi.fr/en/international/20260618-starmer-rival-seeks-win-in-uk-by-election-pivotal-to-pm-s-fate",
-      "published_date": "2026-06-18T06:34:14+00:00"
-    },
-    {
-      "title": "Voting underway for elections to Rajya Sabha seats in Jharkhand, Mizoram",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/rajya-sabha-elections-voting-jharkhand-mizoram-10745450/",
-      "published_date": "2026-06-18T04:14:45+00:00"
-    },
-    {
-      "title": "Rebellion crisis LIVE: TMC leader 'seeks freeze' on party bank accounts; BJP claims no role in UBT Sena crisis",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/shiv-sena-ubt-tmc-rebellion-crisis-live-updates-uddhav-thackeray-mamata-banerjee-samajwadi-party-nda-bjp-lok-sabha-news-101781751582739.html",
-      "published_date": "2026-06-18T04:09:22+00:00"
     }
   ]
 }
