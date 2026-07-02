@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-01T13:38:33.674841+00:00",
-    "story_count": 438,
+    "last_updated": "2026-07-02T00:06:46.985142+00:00",
+    "story_count": 440,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Santilli spoke about the elections and the opposition: “Milei is going to beat them again”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/santilli-renovo-la-pelea-con-kicillof-es-el-peor-gobernador-de-la-historia-de-la-provincia-de-buenos-nid01072026/",
+      "published_date": "2026-07-01T23:57:10+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Arnaud Montebourg calls for “emergency neutralization” of Jean-Luc Mélenchon, whom he describes as “rabid”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-arnaud-montebourg-appelle-a-neutraliser-d-urgence-jean-luc-melenchon-qu-il-qualifie-de-fou-furieux-20260701",
+      "published_date": "2026-07-01T23:05:07+00:00"
+    },
+    {
+      "title": "Iranian president insists supreme leader did not bar negotiations",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-insists-supreme-leader-did-not-bar-negotiations",
+      "published_date": "2026-07-01T18:40:44+00:00"
+    },
+    {
+      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
+      "published_date": "2026-07-01T18:22:37+00:00"
+    },
+    {
+      "title": "Chechen leader Ramzan Kadyrov has topped the republic’s United Russia party list every election since 2007. Not this year.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/01/chechen-leader-ramzan-kadyrov-has-topped-the-republic-s-united-russia-party-list-every-election-since-2007-not-this-year",
+      "published_date": "2026-07-01T17:50:09+00:00"
+    },
+    {
+      "title": "Legislative elections in Algeria: the locking of the electoral game raises fears of massive abstention",
+      "source": "Le Monde France",
+      "country": "Algeria",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/01/en-algerie-des-elections-legislatives-privees-d-enjeu_6717583_3212.html",
+      "published_date": "2026-07-01T17:00:02+00:00"
+    },
+    {
+      "title": "Xi Jinping, president of China, congratulates Abelardo de la Espriella on his election as president of Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "China",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/xi-jinping-presidente-de-china-felicita-a-abelardo-de-la-espriella-por-su-eleccion-como-presidente-de-colombia-3568202",
+      "published_date": "2026-07-01T15:08:10+00:00"
+    },
+    {
+      "title": "France confirms dates for 2027 presidential election",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260701-france-confirms-dates-for-2027-presidential-election-april-may",
+      "published_date": "2026-07-01T14:41:06+00:00"
+    },
+    {
+      "title": "‘I will’: Zaluzhnyi reportedly tells Zelensky he’ll run for president if Ukraine holds elections this fall",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/07/01/i-will-zaluzhnyi-reportedly-tells-zelensky-he-ll-run-for-president-if-ukraine-holds-elections-this-fall",
+      "published_date": "2026-07-01T13:43:06+00:00"
+    },
     {
       "title": "Lee, Moon stress party unity ahead of DPK leadership race",
       "source": "Korea Times",
@@ -79,6 +142,13 @@
       "country": "France",
       "url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election",
       "published_date": "2026-07-01T12:50:25+00:00"
+    },
+    {
+      "title": "Zelensky Urged Zaluzhny to Avoid Election Race, Report Says - Kyiv Post",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tdXN4Mk95Z0R0cUlnSnhzUTdwZ0NBSVNPY2dYZjRuTC1Wc1NWWHpKYTdzcGZSSGhaYnZNMl9US20wY21zdlJLcVpRcw?oc=5",
+      "published_date": "2026-07-01T10:36:11+00:00"
     },
     {
       "title": "Indian opposition demands defence minister's resignation for 'lying' about soldiers' deaths in 2025 conflict with Pakistan",
@@ -3068,62 +3138,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/shiv-sena-ubt-tmc-rebellion-crisis-live-updates-uddhav-thackeray-mamata-banerjee-samajwadi-party-nda-bjp-lok-sabha-news-101781751582739.html",
       "published_date": "2026-06-18T04:09:22+00:00"
-    },
-    {
-      "title": "Claudia López seals her support for Iván Cepeda ahead of the presidential runoff in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/claudia-lopez-sella-su-respaldo-a-ivan-cepeda-de-cara-al-balotaje-presidencial-en-colombia/",
-      "published_date": "2026-06-17T22:01:18+00:00"
-    },
-    {
-      "title": "Javier Milei, president of Argentina, announces support for Abelardo de la Espriella for the second round of the elections in Colombia: 'The path is clear'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/javier-milei-presidente-de-argentina-expreso-su-apoyo-al-candidato-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-el-camino-es-claro-3564993",
-      "published_date": "2026-06-17T21:40:18+00:00"
-    },
-    {
-      "title": "Lula asks Donald Trump not to meddle in Brazil's presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/06/lula-pide-a-donald-trump-que-no-se-entrometa-en-las-elecciones-presidenciales-de-brasil/",
-      "published_date": "2026-06-17T21:00:40+00:00"
-    },
-    {
-      "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
-      "published_date": "2026-06-17T20:14:52+00:00"
-    },
-    {
-      "title": "'Don't interfere in Brazil's elections', says Lula in reaction to Trump",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/nao-se-metam-nas-eleicoes-do-brasil-diz-lula-em-reacao-a-trump.shtml",
-      "published_date": "2026-06-17T18:49:00+00:00"
-    },
-    {
-      "title": "From regime change to regime deal? How Tehran's political camps are reacting to leaked US-Iran deal",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/2026/06/17/from-regime-change-to-regime-deal-how-irans-political-camps-are-reacting-to-leaked-us-iran",
-      "published_date": "2026-06-17T14:57:16+00:00"
-    },
-    {
-      "title": "Trump says he 'never cared' about Iranian regime change, denies report of $300b. US fund for Iran",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/international/article-899690",
-      "published_date": "2026-06-17T14:01:22+00:00"
-    },
-    {
-      "title": "Trump's “total support” for De la Espriella: what does it add and what does it subtract from the runoff campaign in Colombia?",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/el-apoyo-total-de-trump-a-de-la-espriella-que-suma-y-que-resta-a-la-campana-del-balotaje-en-colombia/",
-      "published_date": "2026-06-17T14:00:00+00:00"
     }
   ]
 }
