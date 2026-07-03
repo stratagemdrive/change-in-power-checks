@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-03T00:03:29.498355+00:00",
-    "story_count": 435,
+    "last_updated": "2026-07-03T12:59:11.651599+00:00",
+    "story_count": 432,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lagarde mulls leaving ECB early to play a role in French elections",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/07/03/lagarde-mulls-leaving-ecb-early-to-play-a-role-in-french-elections",
+      "published_date": "2026-07-03T12:52:11+00:00"
+    },
+    {
+      "title": "Iranian leaders pay respects to supreme leader as Tehran prepares for funeral",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/07/iranian-leaders-pay-respects-to-supreme-leader-as-tehran-prepares-for-funeral/",
+      "published_date": "2026-07-03T11:56:14+00:00"
+    },
+    {
+      "title": "Lagarde does not rule out bringing forward her departure from the ECB in view of the 2027 French presidential race",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/pulso/noticia/lagarde-no-descarta-adelantar-su-salida-del-bce-de-cara-a-la-carrera-presidencial-francesa-de-2027/",
+      "published_date": "2026-07-03T11:45:55+00:00"
+    },
+    {
+      "title": "What to know about the funeral and burial of Iran’s Supreme Leader Ayatollah Ali Khamenei",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/asia/iran-ayatollah-ali-khamenei-funeral-b3008108.html",
+      "published_date": "2026-07-03T11:36:30+00:00"
+    },
+    {
+      "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
+      "published_date": "2026-07-03T11:15:00+00:00"
+    },
+    {
+      "title": "First Thing: Iran to show defiance in six-day funeral for supreme leader",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader",
+      "published_date": "2026-07-03T10:29:51+00:00"
+    },
+    {
+      "title": "Coming to terms with the war: How much will October 7th determine the election in Israel?",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wie-sehr-wird-der-7-oktober-die-wahl-in-israel-bestimmen-accg-200994175.html",
+      "published_date": "2026-07-03T10:18:25+00:00"
+    },
+    {
+      "title": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
+      "source": "Euronews",
+      "country": "Venezuela",
+      "url": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500",
+      "published_date": "2026-07-03T10:17:08+00:00"
+    },
+    {
+      "title": "Funeral of Ali Khamenei: millions of Iranians expected in Tehran for the tribute to the Supreme Leader, which will begin on Saturday",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/07/03/funerailles-historiques-a-teheran-des-millions-d-iraniens-attendus-pour-l-hommage-au-guide-supreme-ali-khamenei-qui-commencera-samedi_6719147_3210.html",
+      "published_date": "2026-07-03T09:15:52+00:00"
+    },
+    {
+      "title": "Defense Forces refute Russian claims of capturing Kopani in Zaporizhzhia region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4140310-defense-forces-refute-russian-claims-of-capturing-kopani-in-zaporizhzhia-region.html",
+      "published_date": "2026-07-03T07:56:00+00:00"
+    },
+    {
+      "title": "Tradition vs. change: Japan’s imperial succession debate intensifies",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/commentary/2026/07/03/japan/future-of-japans-imperial-family/",
+      "published_date": "2026-07-03T03:06:00+00:00"
+    },
+    {
+      "title": "PTI boycotts AJK elections, citing regional crisis",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2012583/pti-boycotts-ajk-elections-citing-regional-crisis",
+      "published_date": "2026-07-03T02:45:05+00:00"
+    },
+    {
+      "title": "Kast closes his most extensive tour as acting president with a call to Uruguayan businessmen to invest in Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-cierra-su-gira-mas-extensa-como-presidente-en-ejercicio-con-un-llamado-a-empresarios-uruguayos-a-invertir-en-chile/",
+      "published_date": "2026-07-03T01:23:44+00:00"
+    },
     {
       "title": "Tinubu inaugurates lithium plant in Nasarawa, favours local mineral processing",
       "source": "Premium Times Nigeria",
@@ -482,7 +573,7 @@
     {
       "title": "More Myanmar garment workers detained in China after resigning over labour complaints",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/more-myanmar-garment-workers-detained-in-china-after-resigning-over-labour-complaints/",
       "published_date": "2026-06-30T09:48:59+00:00"
     },
@@ -2991,118 +3082,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
       "published_date": "2026-06-19T12:59:35+00:00"
-    },
-    {
-      "title": "Labor power struggle: The King of the North moves to London",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/will-keir-starmer-abloesen-wer-ist-andy-burnham-200946644.html",
-      "published_date": "2026-06-19T12:13:44+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: Ivan Cepeda, defender of human rights and social reforms",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260619-pr%C3%A9sidentielle-en-colombie-ivan-cepeda-d%C3%A9fenseur-des-droits-humains-et-des-r%C3%A9formes-sociales",
-      "published_date": "2026-06-19T12:10:50+00:00"
-    },
-    {
-      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
-      "published_date": "2026-06-19T12:08:39+00:00"
-    },
-    {
-      "title": "“Donald Trump is the only head of state who is kind to the nation of Israel”: J.D. Vance’s harsh, almost threatening words to Israeli ally",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/06/19/donald-trump-est-le-seul-chef-d-etat-a-etre-bienveillant-envers-la-nation-d-israel-l-avertissement-de-j-d-vance-aux-dirigeants-israeliens_6704947_3210.html",
-      "published_date": "2026-06-19T10:15:09+00:00"
-    },
-    {
-      "title": "Labour’s Andy Burnham wins UK parliament seat, paving way for bid to oust PM Starmer",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2009089/labours-andy-burnham-wins-uk-parliament-seat-paving-way-for-bid-to-oust-pm-starmer",
-      "published_date": "2026-06-19T09:34:23+00:00"
-    },
-    {
-      "title": "Labour hopes for 'smooth transition' as Starmer rival wins critical election",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/labour-hopes-for-smooth-transition-as-starmer-rival-wins-critical-election",
-      "published_date": "2026-06-19T09:31:35+00:00"
-    },
-    {
-      "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
-      "source": "NPR World",
-      "country": "United Kingdom",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election",
-      "published_date": "2026-06-19T07:48:19+00:00"
-    },
-    {
-      "title": "Andy Burnham wins key UK by-election, setting up Labour leadership battle with Starmer",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/19/andy-burnham-wins-key-uk-by-election-setting-up-labour-leadership-battle-with-starmer",
-      "published_date": "2026-06-19T07:07:24+00:00"
-    },
-    {
-      "title": "Makerfield election: Burnham wins – and awaits Starmer’s resignation",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/starmers-herausforderer-burnham-siegt-in-nachwahl-accg-200946168.html",
-      "published_date": "2026-06-19T06:55:29+00:00"
-    },
-    {
-      "title": "Starmer congratulates his challenger for the post of chairman on the election to the British Parliament",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10887804/Starmer-%C3%B8nsker-sin-udfordrer-til-formandsposten-tillykke-med-valg-til-britisk-parlament",
-      "published_date": "2026-06-19T06:49:08+00:00"
-    },
-    {
-      "title": "Myanmar junta using conscripts in ‘human wave’ attacks, says KIA",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-using-conscripts-in-human-wave-attacks-says-kia/",
-      "published_date": "2026-06-19T04:43:20+00:00"
-    },
-    {
-      "title": "Labour's Andy Burnham wins election, paving way for challenge to Prime Minister Starmer",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/labours-andy-burnham-vinder-valg-og-baner-vej-udfordring-af-premierminister-starmer",
-      "published_date": "2026-06-19T02:23:53+00:00"
-    },
-    {
-      "title": "Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUENBNEJhZ1RlZmFNWUp2blRXY19SM290bjJLa1M0Ny1aeGZjQnJfb3JJczFaUmc4czZVWUZIVEdpOWpoZzljYk9KOWFKaExTZGwxbE1sSlRqR2xyQTZWb3lPOXU4TWVmMGdGaW9zLVdDb3l5ZFJnWFBTbDU2czNEQUJqU2pVQWJFdDFod3ZiN21nd0NsZkdwM3pEcWVSVG1uSXNtN09fRWxkVVdLNWc?oc=5",
-      "published_date": "2026-06-19T02:20:00+00:00"
-    },
-    {
-      "title": "Likud Legal Advisor Avi Halevy announces immediate resignation in letter to Netanyahu",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899908",
-      "published_date": "2026-06-19T02:09:27+00:00"
-    },
-    {
-      "title": "2027: APC mobilises diaspora for Tinubu’s reelection",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-apc-mobilises-diaspora-for-tinubus-reelection/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-19T00:32:59+00:00"
-    },
-    {
-      "title": "FG inaugurates task force to keep Nigeria Ebola-free",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/fg-inaugurates-task-force-to-keep-nigeria-ebola-free/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-19T00:20:27+00:00"
     }
   ]
 }
