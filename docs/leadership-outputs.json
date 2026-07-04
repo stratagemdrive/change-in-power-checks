@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-04T00:02:12.845889+00:00",
-    "story_count": 434,
+    "last_updated": "2026-07-04T12:10:17.665316+00:00",
+    "story_count": 453,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,216 @@
   },
   "stories": [
     {
+      "title": "In pictures, the funeral of Iranian Supreme Leader Ali Khamenei",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/video/2026/07/04/en-images-les-funerailles-du-guide-supreme-iranien-ali-khamenei_6720660_3210.html",
+      "published_date": "2026-07-04T11:37:31+00:00"
+    },
+    {
+      "title": "AtlasIntel Survey: Venezuelans consider elections more urgent than the reconstruction of the country after the earthquakes",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/encuesta-atlasintel-venezolanos-priorizan-elecciones-que-la-reconstruccion-del-pais-tras-los-terremotos/",
+      "published_date": "2026-07-04T11:22:53+00:00"
+    },
+    {
+      "title": "India overcame West Asia energy crisis through timely decisions, diplomacy: PM Modi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-overcame-west-asia-energy-crisis-through-timely-decisions-diplomacy-pm-modi-101783164150973.html",
+      "published_date": "2026-07-04T11:22:30+00:00"
+    },
+    {
+      "title": "Thousands flock to Tehran to mourn slain Supreme Leader",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-flock-tehran-mourn-slain-supreme-leader",
+      "published_date": "2026-07-04T11:12:36+00:00"
+    },
+    {
+      "title": "PM Modi credits ‘jalwa’ of India’s diplomacy for beating West Asia fuel crisis: ‘history will record it’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/pm-narendra-modi-rajasthan-balotra-refinery-lpg-price-west-asia-energy-crisis-10771377/",
+      "published_date": "2026-07-04T11:09:37+00:00"
+    },
+    {
+      "title": "UK’s Starmer warns successor he will have to stay on international stage",
+      "source": "Vanguard Nigeria",
+      "country": "United Kingdom",
+      "url": "https://www.vanguardngr.com/2026/07/uks-starmer-warns-successor-he-will-have-to-stay-on-international-stage/",
+      "published_date": "2026-07-04T11:04:42+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ayatollah-khamenei-funeral-israel-news-b3008826.html",
+      "published_date": "2026-07-04T10:55:53+00:00"
+    },
+    {
+      "title": "Huge crowds gather in Iran as funeral ceremonies for assassinated supreme leader begin",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2012913/huge-crowds-gather-in-iran-as-funeral-ceremonies-for-assassinated-supreme-leader-begin",
+      "published_date": "2026-07-04T10:16:30+00:00"
+    },
+    {
+      "title": "Labour should win next election under Burnham after work already done, Starmer says",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
+      "published_date": "2026-07-04T10:09:32+00:00"
+    },
+    {
+      "title": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss",
+      "published_date": "2026-07-04T10:04:35+00:00"
+    },
+    {
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "published_date": "2026-07-04T09:43:04+00:00"
+    },
+    {
+      "title": "Why Algeria still holds elections when the outcomes are predetermined",
+      "source": "Middle East Eye",
+      "country": "Algeria",
+      "url": "https://www.middleeasteye.net/opinion/why-algeria-still-holds-elections-when-outcomes-are-predetermined",
+      "published_date": "2026-07-04T09:38:47+00:00"
+    },
+    {
+      "title": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
+      "source": "Sky News World",
+      "country": "Iran",
+      "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
+      "published_date": "2026-07-04T09:20:00+00:00"
+    },
+    {
+      "title": "Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs",
+      "source": "Dawn Pakistan",
+      "country": "United Kingdom",
+      "url": "https://www.dawn.com/news/2012933/outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-on-foreign-affairs",
+      "published_date": "2026-07-04T09:10:47+00:00"
+    },
+    {
+      "title": "In pictures: Iranians chant ‘revenge, revenge’ as they gather for supreme leader Khamenei’s funeral",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2012928/in-pictures-iranians-chant-revenge-revenge-as-they-gather-for-supreme-leader-khameneis-funeral",
+      "published_date": "2026-07-04T09:02:59+00:00"
+    },
+    {
+      "title": "A hot shower, running water, light: In exile, each one returns me to Gaza",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/opinion/hot-shower-running-water-light-exile-each-one-returns-me-gaza",
+      "published_date": "2026-07-04T09:01:17+00:00"
+    },
+    {
+      "title": "Born from smuggled sperm, these Palestinian children await reunion with exiled fathers",
+      "source": "Indian Express",
+      "country": "Palestine",
+      "url": "https://indianexpress.com/article/world/palestinian-children-exiled-fathers-israel-prisoners-10770959/",
+      "published_date": "2026-07-04T08:46:59+00:00"
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "source": "BBC World",
+      "country": "Peru",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T07:52:55+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader Khamenei’s funeral ceremonies begin",
+      "source": "The Punch Nigeria",
+      "country": "Iran",
+      "url": "https://punchng.com/irans-supreme-leader-khameneis-funeral-ceremonies-begin/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-04T06:52:20+00:00"
+    },
+    {
+      "title": "Huge crowds gather as funeral ceremonies for Iranian supreme leader Khamenei begin",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/funeral-ceremonies-iran-ali-khamenei/",
+      "published_date": "2026-07-04T06:49:00+00:00"
+    },
+    {
+      "title": "Public tribute to Iranian Supreme Leader Ali Khamenei begins in Tehran",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-d%C3%A9but-officiel-de-l-hommage-public-au-guide-supr%C3%AAme-iranien-ali-khamenei-%C3%A0-t%C3%A9h%C3%A9ran",
+      "published_date": "2026-07-04T06:35:44+00:00"
+    },
+    {
+      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
+      "published_date": "2026-07-04T06:00:05+00:00"
+    },
+    {
+      "title": "Middle East live: Thousands flock to Iran's funeral rites for late supreme leader Khamenei",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/middle-east/20260704-middle-east-live-iran-begins-days-long-funeral-for-late-supreme-leader-ayatollah-ali-khamenei",
+      "published_date": "2026-07-04T05:14:07+00:00"
+    },
+    {
+      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+      "source": "NPR World",
+      "country": "Iran",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+      "published_date": "2026-07-04T05:04:16+00:00"
+    },
+    {
+      "title": "Iran live: thousands of faithful pay tribute to the late Supreme Leader Ali Khamenei",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/moyen-orient/20260704-en-direct-d%C3%A9but-de-l-hommage-de-trois-jours-pour-le-d%C3%A9funt-guide-supr%C3%AAme-iranien-ali-khamenei",
+      "published_date": "2026-07-04T04:52:29+00:00"
+    },
+    {
+      "title": "The RN discreetly cultivates its diplomatic networks, one year before the 2027 presidential election",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/international/article/2026/07/04/le-rn-cultive-discretement-ses-reseaux-diplomatiques-un-an-avant-l-election-presidentielle-de-2027_6720610_3210.html",
+      "published_date": "2026-07-04T04:00:29+00:00"
+    },
+    {
+      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/ayatollah-ali-khamenei-iran-ayatollah-ruhollah-khomeini-tehran-united-states-b3008802.html",
+      "published_date": "2026-07-04T03:48:55+00:00"
+    },
+    {
+      "title": "Who represented India at slain Iran supreme leader Khamenei's funeral? Govt answers",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/who-represented-india-at-slain-iran-supreme-leader-ayatollah-ali-khamenei-funeral-tehran-govt-answers-101783135688645.html",
+      "published_date": "2026-07-04T03:46:40+00:00"
+    },
+    {
+      "title": "Venezuelans frustrated by quake response want new presidential elections",
+      "source": "Japan Times",
+      "country": "Venezuela",
+      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/venezuela-quake-response-presidential-elections/",
+      "published_date": "2026-07-04T01:32:00+00:00"
+    },
+    {
+      "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine - Yahoo News UK",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWF9ValBiY3NoY0prR3BhYlJXRkNxZzlhS2Y1cF9sT2JjLTJ6aV96WDRoZFlvQjdyU1ZvaW9tNVFyajdzQ1QzZGZBQkJoUzJVZUNfR1kxc1ZMcEpvaGxacHBfcnhWWDFsZG04bVRRU3hpSjBkc24yaGFfWjdjTUExOTdfUQ?oc=5",
+      "published_date": "2026-07-04T00:36:00+00:00"
+    },
+    {
       "title": "Community leader hails Nigerians over US elections",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
@@ -67,11 +277,18 @@
       "published_date": "2026-07-04T00:11:49+00:00"
     },
     {
+      "title": "Keiko Fujimori declared winner of Peru presidential race",
+      "source": "Japan Times",
+      "country": "Peru",
+      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/keiko-fujimori-declared-winner-peru/",
+      "published_date": "2026-07-04T00:04:00+00:00"
+    },
+    {
       "title": "President-elect Abelardo de la Espriella referred to military service and stated that 'Colombia deserves a better future'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
-      "published_date": "2026-07-03T22:22:00+00:00"
+      "published_date": "2026-07-03T23:50:00+00:00"
     },
     {
       "title": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News",
@@ -699,7 +916,7 @@
     {
       "title": "More Myanmar garment workers detained in China after resigning over labour complaints",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/more-myanmar-garment-workers-detained-in-china-after-resigning-over-labour-complaints/",
       "published_date": "2026-06-30T09:48:59+00:00"
     },
@@ -3012,90 +3229,6 @@
       "country": "Sudan",
       "url": "https://www.madamasr.com/en/2026/06/20/news/u/sudan-nashra-arrest-of-beni-halba-leader-triggers-new-escalation-in-tribal-war-with-salamat-thousands-of-rsf-fighters-deployed-around-obeid-military-braces-for-offensive-rsf-torches-villages-ki/",
       "published_date": "2026-06-20T12:28:10+00:00"
-    },
-    {
-      "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote - The Guardian",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUduQXhfZ3VMbGw5U3RURUtyREZYVGFEd3UzcDFXZHJHZkFMdzI1VXlSaEZycFpvUF9BbzlGcm41RExrYmh2amRENlFuS05VNjFLZGZRRXRKWXp0Tl8wX3pmN0xnRFl5RURuYVVnX3BjNHBWZUNaTXRKZVFJNXROV1ZIVndQdnY1TV95R0k2ZDdGRGc1NHF3WTBzTkxtWjIwZW1PN3RCOA?oc=5",
-      "published_date": "2026-06-20T12:01:00+00:00"
-    },
-    {
-      "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff",
-      "published_date": "2026-06-20T12:00:01+00:00"
-    },
-    {
-      "title": "Colombia 2026 Elections: follow the day before the second round between Iván Cepeda and Abelardo de la Espriella this Sunday, June 21",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
-      "published_date": "2026-06-20T11:21:06+00:00"
-    },
-    {
-      "title": "What is at stake in Colombia: Five keys to the runoff between Cepeda and De la Espriella",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/cepeda-vs-de-la-espriella-las-claves-del-balotaje-en-colombia/",
-      "published_date": "2026-06-20T10:00:00+00:00"
-    },
-    {
-      "title": "UK: Labour leadership battle? Ministers reportedly urge Keir Starmer to step down",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
-      "published_date": "2026-06-20T09:36:01+00:00"
-    },
-    {
-      "title": "Peru: Voters await result of presidential election, the closest in the country's history",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
-      "published_date": "2026-06-20T09:18:30+00:00"
-    },
-    {
-      "title": "Pre-candidate for the government of MG listed as Lula's name called for Dilma's impeachment",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/pre-candidato-ao-governo-de-mg-cotado-como-nome-de-lula-pediu-impeachment-de-dilma.shtml",
-      "published_date": "2026-06-20T09:00:00+00:00"
-    },
-    {
-      "title": "Omnipresent in the campaign, Petro eclipses his own candidate and conditions the runoff in Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/omnipresente-en-campana-petro-eclipsa-a-su-propio-candidato-y-condiciona-el-balotaje-nid19062026/",
-      "published_date": "2026-06-20T06:34:54+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: learn about the road closures in the center of Bogotá, Corferias and other points for the second round",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-conozca-los-cierres-en-el-centro-de-bogota-corferias-y-otros-puntos-por-la-segunda-vuelta-del-21-de-junio-3565644",
-      "published_date": "2026-06-20T05:32:30+00:00"
-    },
-    {
-      "title": "Colombia accuses Milei of “intervening” in the elections after his support for De la Espriella",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/colombia-acusa-a-milei-de-intervenir-en-las-elecciones-tras-su-respaldo-a-de-la-espriella/",
-      "published_date": "2026-06-20T05:29:14+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: can the candidates change their vice-presidential formula for the second round?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-los-candidatos-pueden-cambiar-su-formula-vicepresidencial-para-la-segunda-vuelta-3565558",
-      "published_date": "2026-06-20T02:45:47+00:00"
-    },
-    {
-      "title": "Karnataka MLC election: BJP summons state leaders amid cross-voting row",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-calls-state-leaders-to-delhi-over-cross-voting-101781896200858.html",
-      "published_date": "2026-06-20T00:44:10+00:00"
     }
   ]
 }
