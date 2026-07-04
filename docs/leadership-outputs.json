@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-03T12:59:11.651599+00:00",
-    "story_count": 432,
+    "last_updated": "2026-07-04T00:02:12.845889+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Community leader hails Nigerians over US elections",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/community-leader-hails-nigerians-over-us-elections/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-04T00:11:49+00:00"
+    },
+    {
+      "title": "President-elect Abelardo de la Espriella referred to military service and stated that 'Colombia deserves a better future'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
+      "published_date": "2026-07-03T22:22:00+00:00"
+    },
+    {
+      "title": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3FKcmxXQ3lQTHVFQ1JpTTBFdnp5QmhyVXZaSVlSSHBZSUNIYkpRMmExRDJzcTFSRXF0TDdtbE1BV0xfMlNqLVpkMUFjVm1Za2xIRmRTa19CMkhRNU9zbGJqUzJ2SGs0cmNQakxTV3ktcFpueGdkZ0hEdU8tbWs0QnF5VUo3T3NveHYyNW5iSGRidmpURTBvVWR5QWlleU1KWFJCN3UzWjRvWnNsRURwYzhJUHZNT2w0dnp3?oc=5",
+      "published_date": "2026-07-03T22:07:00+00:00"
+    },
+    {
+      "title": "Keiko Fujimori officially declared winner of Peru presidential race - Al Jazeera",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRU9wVm9XNW90WnNWT1pzakpNRXlJWnVCSnpDNUJkUWt1VlJpOTFrZkQwXzRsU3hvWG5Tczk3TVkxX3g2TzdZNWt1UUkyZ25jT0hfbG90SmgzT0tEbVdDUlBxUHNFZ2NYTDhtbE90M1BxVFBWZk1rdjJZdTFEVndIM0tzbFNpaE9LZWpRYm9qYkllRFhsZG5VdU5FQVJmRzVqTlE5bFYtZ1M4RlHSAbABQVVfeXFMUHFOeE9saHY2MXNVcWs0aDFibmhORFpRZkFiT3RvOXhkVGs5WWppX2pyOVBxMlROSUp2eEo0dTl6YUt5dlhQOFp5R2JkQW5YV0ZnOGQ2NnNyWWMxWkNFSUZSV0F5d2RfTG92MFZ5ZXZTdnZqYzJrQ3lZRVRGNjdwOG15UzhrMEh0d1pvcTU4X1Bid3Zxb29pUnZBd2NJdUpjc0tDQjVmUlMxUk96ak1IWm0?oc=5",
+      "published_date": "2026-07-03T21:30:13+00:00"
+    },
+    {
+      "title": "Fallout from Venezuela’s quakes turns political, as opposition leader Machado seeks return",
+      "source": "South China Morning Post",
+      "country": "Venezuela",
+      "url": "https://www.scmp.com/news/world/americas/article/3359384/fallout-venezuelas-quakes-turns-political-opposition-leader-machado-seeks-return?utm_source=rss_feed",
+      "published_date": "2026-07-03T21:13:21+00:00"
+    },
+    {
+      "title": "In Peru, Keiko Fujimori officially proclaimed president-elect",
+      "source": "Le Monde France",
+      "country": "Peru",
+      "url": "https://www.lemonde.fr/international/article/2026/07/03/au-perou-keiko-fujimori-officiellement-proclamee-presidente-elue_6720489_3210.html",
+      "published_date": "2026-07-03T21:00:58+00:00"
+    },
+    {
+      "title": "Electoral Jury makes official the triumph of Keiko Fujimori as president-elect of Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/jurado-electoral-oficializa-triunfo-de-keiko-fujimori-como-presidenta-electa-de-peru/",
+      "published_date": "2026-07-03T20:45:07+00:00"
+    },
+    {
+      "title": "Prospective UK Prime Minister Andy Burnham rules out early general election",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/07/03/prospective-uk-prime-minister-andy-burnham-rules-out-early-general-election",
+      "published_date": "2026-07-03T20:40:41+00:00"
+    },
+    {
+      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
+      "source": "NPR World",
+      "country": "Iran",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+      "published_date": "2026-07-03T19:45:24+00:00"
+    },
+    {
+      "title": "“A new stage begins”: Keiko Fujimori is proclaimed president-elect of Peru by the National Election Jury",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-es-proclamada-como-presidenta-electa-de-peru/",
+      "published_date": "2026-07-03T19:06:52+00:00"
+    },
+    {
+      "title": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
+      "source": "Euronews",
+      "country": "Peru",
+      "url": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
+      "published_date": "2026-07-03T19:06:12+00:00"
+    },
+    {
+      "title": "In pictures: Scenes from the state funeral for Iran's assassinated supreme leader Ali Khamenei in Tehran",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2012742/in-pictures-scenes-from-the-state-funeral-for-irans-assassinated-supreme-leader-ali-khamenei-in-tehran",
+      "published_date": "2026-07-03T18:42:54+00:00"
+    },
+    {
+      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+      "published_date": "2026-07-03T18:39:31+00:00"
+    },
+    {
+      "title": "What to know about the funeral and burial of Iran’s supreme leader Ayatollah Ali Khamenei",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/asia/iran-ayatollah-ali-khamenei-funeral-b3008108.html",
+      "published_date": "2026-07-03T18:38:28+00:00"
+    },
+    {
+      "title": "Keiko Fujimori officially declared winner of Peru presidential race",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
+      "published_date": "2026-07-03T18:14:45+00:00"
+    },
+    {
+      "title": "Israel prevents exiled Palestinian detainees from reuniting with their families",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
+      "published_date": "2026-07-03T18:13:53+00:00"
+    },
+    {
+      "title": "Eyes of the key: Kast adds a new granddaughter, Moreira's coup of authority and Minister Duco's unexpected enemy",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-kast-suma-nueva-nieta-el-golpe-de-autoridad-de-moreira-y-el-enemigo-inesperado-de-la-ministra-duco/",
+      "published_date": "2026-07-03T17:30:00+00:00"
+    },
+    {
+      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
+      "source": "France 24 English",
+      "country": "Sudan",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
+      "published_date": "2026-07-03T17:22:29+00:00"
+    },
+    {
+      "title": "Algeria: An election that leaves the country cold",
+      "source": "FAZ Germany",
+      "country": "Algeria",
+      "url": "https://www.faz.net/aktuell/politik/ausland/in-algerien-hat-nur-jeder-fuenfte-gewaehlt-200994501.html",
+      "published_date": "2026-07-03T13:34:40+00:00"
+    },
     {
       "title": "Lagarde mulls leaving ECB early to play a role in French elections",
       "source": "Euronews",
@@ -79,13 +212,6 @@
       "country": "France",
       "url": "https://www.latercera.com/pulso/noticia/lagarde-no-descarta-adelantar-su-salida-del-bce-de-cara-a-la-carrera-presidencial-francesa-de-2027/",
       "published_date": "2026-07-03T11:45:55+00:00"
-    },
-    {
-      "title": "What to know about the funeral and burial of Iran’s Supreme Leader Ayatollah Ali Khamenei",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/asia/iran-ayatollah-ali-khamenei-funeral-b3008108.html",
-      "published_date": "2026-07-03T11:36:30+00:00"
     },
     {
       "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
@@ -2970,118 +3096,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bjp-calls-state-leaders-to-delhi-over-cross-voting-101781896200858.html",
       "published_date": "2026-06-20T00:44:10+00:00"
-    },
-    {
-      "title": "Movement for Venezuela supports meetings of Dinorah Figuera with the interim government and the United States",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/movimiento-por-venezuela-respalda-reuniones-de-dinorah-figuera-con-el-gobierno-interino-y-ee-uu/",
-      "published_date": "2026-06-19T23:08:53+00:00"
-    },
-    {
-      "title": "#ElFiltro: presidential candidate Iván Cepeda did not say that he will promote satanic churches in Colombia; a video was manipulated with AI",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-presidencial-ivan-cepeda-no-dijo-que-promovera-las-iglesias-satanicas-en-colombia-un-video-fue-manipulado-con-ia-3565568",
-      "published_date": "2026-06-19T22:21:00+00:00"
-    },
-    {
-      "title": "Expert after Cuba's coup: \"The situation is very dramatic\"",
-      "source": "Politiken Denmark",
-      "country": "Cuba",
-      "url": "https://politiken.dk/internationalt/art10888850/Ekspert-efter-Cubas-kovending-%C2%BBSituationen-er-meget-dramatisk%C2%AB",
-      "published_date": "2026-06-19T19:51:06+00:00"
-    },
-    {
-      "title": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVJoT1NBaGxDelcyNnhXc3VnNm8tVE9jZ3RnWlo4WFVTRzctVXlaU0ItdTRuR29CaWpnUjJ1bGpCUHZ6WUhOSnZMVk4zRVAtMW44UGhEcExrcHJBVmoyUjF1OFVPLUo3M20tcHZJcFJFa1A4bzNEaTlnR3pXTnJ6Z1Rrcnp5UWFxWVVqQktnc2FtU3g2Zjd4bmNLbjRvdUY0Vk12cDN2dWk?oc=5",
-      "published_date": "2026-06-19T19:00:00+00:00"
-    },
-    {
-      "title": "Could ‘king in the north’ become Britain’s new prime minister?",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
-      "published_date": "2026-06-19T18:25:01+00:00"
-    },
-    {
-      "title": "Andy Burnham hopes his election victory will pave the way for him to become British prime minister",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/06/19/le-travailliste-andy-burnham-espere-que-sa-victoire-a-l-election-partielle-de-makerfield-va-lui-ouvrir-la-voie-vers-downing-street_6705014_3210.html",
-      "published_date": "2026-06-19T18:20:22+00:00"
-    },
-    {
-      "title": "Around Emmanuel Macron, the temptation of a dissolution before the presidential election... Les indiscrets du Figaro",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/autour-d-emmanuel-macron-la-tentation-d-une-dissolution-avant-la-presidentielle-les-indiscrets-du-figaro-20260619",
-      "published_date": "2026-06-19T18:00:00+00:00"
-    },
-    {
-      "title": "'There are challenges, but what the political system should be doing is giving signs of confidence': Transparency for Colombia on elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hay-retos-pero-que-lo-que-deberia-estar-haciendo-el-sistema-politico-es-dar-senales-de-confianza-transparencia-por-colombia-sobre-elecciones-3565540",
-      "published_date": "2026-06-19T17:49:17+00:00"
-    },
-    {
-      "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-      "published_date": "2026-06-19T17:30:04+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: this is how electoral witnesses can download their accreditation certificate for next June 21",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-asi-es-como-los-testigos-electorales-pueden-descargar-su-acta-de-acreditacion-para-el-proximo-21-de-junio-3565452",
-      "published_date": "2026-06-19T16:33:04+00:00"
-    },
-    {
-      "title": "Makerfield by-election results 2026: Andy Burnham’s win piles pressure on Keir Starmer. Is Labour heading for a leadership battle?",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/ndy-burnham-makerfield-by-election-win-keir-starmer-labour-leadership-crisis-10748070/",
-      "published_date": "2026-06-19T16:01:38+00:00"
-    },
-    {
-      "title": "Trump’s Iran deal, corruption trial and elections: Will Netanyahu survive his perfect storm?",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-iran-us-deal-corruption-trial-b2998160.html",
-      "published_date": "2026-06-19T16:00:23+00:00"
-    },
-    {
-      "title": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right",
-      "published_date": "2026-06-19T14:07:14+00:00"
-    },
-    {
-      "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-eu-uk-relations-10-years-after-the-referendum-brexit-or-regrexit",
-      "published_date": "2026-06-19T13:16:05+00:00"
-    },
-    {
-      "title": "'Political drama beckons' in the UK as Starmer vows to run in any leadership contest",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/political-drama-beckons-in-the-uk-as-starmer-vows-to-run-in-any-leadership-contest",
-      "published_date": "2026-06-19T13:06:58+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: Abelardo de la Espriella says he will give guarantees to the opposition if he wins the Presidency",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
-      "published_date": "2026-06-19T12:59:35+00:00"
     }
   ]
 }
