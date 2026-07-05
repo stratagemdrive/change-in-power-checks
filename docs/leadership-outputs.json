@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-04T12:10:17.665316+00:00",
-    "story_count": 453,
+    "last_updated": "2026-07-05T00:00:16.830332+00:00",
+    "story_count": 449,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T21:46:43+00:00"
+    },
+    {
+      "title": "Zelensky denies Russia captured key Ukraine city, challenges Putin to meet him there",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3359441/zelensky-denies-russia-captured-key-ukraine-city-challenges-putin-meet-him-there?utm_source=rss_feed",
+      "published_date": "2026-07-04T19:15:31+00:00"
+    },
+    {
+      "title": "Karina Milei visited Misiones to launch a school for leaders and called for the “re-election” of the President in 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/karina-milei-visito-misiones-para-lanzar-una-escuela-de-dirigentes-y-pidio-la-reeleccion-del-nid04072026/",
+      "published_date": "2026-07-04T17:56:02+00:00"
+    },
+    {
+      "title": "Mamata loyalist Chandrima Bhattacharya resigns as Bengal State president of Trinamool Congress",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/chandrima-bhattacharya-resigns-as-tmc-mamata-banerjee-faction-bengal-chief/article71182273.ece",
+      "published_date": "2026-07-04T17:55:21+00:00"
+    },
+    {
+      "title": "India weathered West Asia crisis through strategic decision-making, diplomacy: PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-navigated-one-of-the-biggest-energy-crises-with-little-burden-on-citizens-pm-modi-in-rajasthan/article71182628.ece",
+      "published_date": "2026-07-04T17:12:36+00:00"
+    },
+    {
+      "title": "In Mali, jihadists and separatists relaunch their offensive against the junta and its Russian allies",
+      "source": "Le Monde France",
+      "country": "Russia",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-les-djihadistes-et-les-independantistes-relancent-leur-offensive-contre-la-junte-et-ses-allies-russes_6720694_3212.html",
+      "published_date": "2026-07-04T17:11:39+00:00"
+    },
+    {
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T16:49:36+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-ali-khamenei-funeral-hormuz-b3008931.html",
+      "published_date": "2026-07-04T14:15:13+00:00"
+    },
+    {
+      "title": "Huge crowds gather in Iran as funeral ceremonies for assassinated supreme leader begin",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2012913/huge-crowds-gather-in-iran-as-funeral-ceremonies-for-assassinated-supreme-leader-begin",
+      "published_date": "2026-07-04T13:49:24+00:00"
+    },
+    {
+      "title": "PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis",
+      "source": "Hindustan Times",
+      "country": "Iran",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-lauds-140-crore-indians-for-defeating-attempts-to-destabilise-nation-amid-us-iran-war-induced-energy-crisis-101783168732452.html",
+      "published_date": "2026-07-04T13:40:21+00:00"
+    },
+    {
+      "title": "Keir Starmer calls decision to resign as British PM 'intensely personal'",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/07/04/keir-starmer-calls-decision-to-resign-as-british-pm-intensely-personal",
+      "published_date": "2026-07-04T13:07:48+00:00"
+    },
+    {
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "published_date": "2026-07-04T12:51:41+00:00"
+    },
     {
       "title": "In pictures, the funeral of Iranian Supreme Leader Ali Khamenei",
       "source": "Le Monde France",
@@ -109,13 +193,6 @@
       "published_date": "2026-07-04T10:55:53+00:00"
     },
     {
-      "title": "Huge crowds gather in Iran as funeral ceremonies for assassinated supreme leader begin",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2012913/huge-crowds-gather-in-iran-as-funeral-ceremonies-for-assassinated-supreme-leader-begin",
-      "published_date": "2026-07-04T10:16:30+00:00"
-    },
-    {
       "title": "Labour should win next election under Burnham after work already done, Starmer says",
       "source": "The Guardian World",
       "country": "United Kingdom",
@@ -130,13 +207,6 @@
       "published_date": "2026-07-04T10:04:35+00:00"
     },
     {
-      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
-      "published_date": "2026-07-04T09:43:04+00:00"
-    },
-    {
       "title": "Why Algeria still holds elections when the outcomes are predetermined",
       "source": "Middle East Eye",
       "country": "Algeria",
@@ -144,7 +214,7 @@
       "published_date": "2026-07-04T09:38:47+00:00"
     },
     {
-      "title": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
+      "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
       "source": "Sky News World",
       "country": "Iran",
       "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
@@ -186,6 +256,13 @@
       "published_date": "2026-07-04T07:52:55+00:00"
     },
     {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote - BBC",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSUFKRDgwU3RhN3hqdXdIZEctYjJvV21hcjFiOENPbElvWVVsOE5vZEF0UW8xbVI2bHphZGxTR01WZG00Wi14UXBIcFEtSXN0YzFZUTJiZUhqZw?oc=5",
+      "published_date": "2026-07-04T07:52:55+00:00"
+    },
+    {
       "title": "Iran’s supreme leader Khamenei’s funeral ceremonies begin",
       "source": "The Punch Nigeria",
       "country": "Iran",
@@ -221,7 +298,7 @@
       "published_date": "2026-07-04T05:14:07+00:00"
     },
     {
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
       "source": "NPR World",
       "country": "Iran",
       "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
@@ -251,7 +328,7 @@
     {
       "title": "Who represented India at slain Iran supreme leader Khamenei's funeral? Govt answers",
       "source": "Hindustan Times",
-      "country": "India",
+      "country": "Iran",
       "url": "https://www.hindustantimes.com/india-news/who-represented-india-at-slain-iran-supreme-leader-ayatollah-ali-khamenei-funeral-tehran-govt-answers-101783135688645.html",
       "published_date": "2026-07-04T03:46:40+00:00"
     },
@@ -916,7 +993,7 @@
     {
       "title": "More Myanmar garment workers detained in China after resigning over labour complaints",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/more-myanmar-garment-workers-detained-in-china-after-resigning-over-labour-complaints/",
       "published_date": "2026-06-30T09:48:59+00:00"
     },
@@ -3124,111 +3201,6 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-polytics/4136009-europe-must-not-fall-into-putins-traps-estonias-fm-says.html",
       "published_date": "2026-06-21T04:25:00+00:00"
-    },
-    {
-      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T23:17:51+00:00"
-    },
-    {
-      "title": "The De la Espriella phenomenon: the outsider who has Milei and Bukele as models arrives as a favorite in the runoff in Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-fenomeno-de-la-espriella-el-outsider-que-tiene-a-milei-y-bukele-como-modelos-llega-como-favorito-nid20062026/",
-      "published_date": "2026-06-20T23:10:47+00:00"
-    },
-    {
-      "title": "Senator Bernie Moreno is already in Colombia to be an observer of the presidential elections: 'Colombia is at a decisive moment'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-estadounidense-bernie-moreno-ya-esta-en-colombia-para-ser-observador-de-las-elecciones-de-segunda-vuelta-presidencial-esta-es-su-decision-3565800",
-      "published_date": "2026-06-20T22:58:16+00:00"
-    },
-    {
-      "title": "King Charles to publish personal tax bill in first for UK head of state",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
-      "published_date": "2026-06-20T22:27:54+00:00"
-    },
-    {
-      "title": "Elections in Colombia: Trump is about to regain an essential ally and Lula is about to be left alone in South America",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-trump-esta-a-punto-de-recuperar-un-aliado-esencial-y-lula-de-quedarse-solo-en-nid20062026/",
-      "published_date": "2026-06-20T22:09:03+00:00"
-    },
-    {
-      "title": "There was no regime change in Iran, and Donald Trump knows it - opinion",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/opinion/article-899697",
-      "published_date": "2026-06-20T20:48:43+00:00"
-    },
-    {
-      "title": "Gustavo Petro asked to avoid riots during Sunday's elections: 'No citizen who has defended this Government should attack anyone'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-pidio-evitar-disturbios-durante-las-elecciones-del-domingo-ningun-ciudadano-que-haya-defendido-este-gobierno-debe-agredir-a-nadie-3565725",
-      "published_date": "2026-06-20T20:36:22+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: Until when can you use the benefits provided by the electoral certificate after voting? What Colombian law says",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-se-vence-el-certificado-electoral-despues-de-votar-esto-es-lo-que-dice-la-ley-colombiana-sobre-su-vigencia-3565770",
-      "published_date": "2026-06-20T20:02:22+00:00"
-    },
-    {
-      "title": "Party conference in Passau: Power struggle in the Bavarian AfD decided for the time being",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/bayerische-afd-stephan-protschka-mit-79-prozent-wiedergewaehlt-200950438.html",
-      "published_date": "2026-06-20T16:16:19+00:00"
-    },
-    {
-      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-06-20T16:04:37+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia 2026: National Government advances closure of land and river borders; these are the schedules",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/segunda-vuelta-presidencial-gobierno-adelanta-el-cierre-temporal-de-fronteras-terrestres-y-fluviales-3565724",
-      "published_date": "2026-06-20T15:41:34+00:00"
-    },
-    {
-      "title": "In Colombia, a second round of the presidential election under the sign of polarization",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/20/en-colombie-un-second-tour-de-l-election-presidentielle-sous-le-signe-de-la-polarisation_6705316_3210.html",
-      "published_date": "2026-06-20T15:00:03+00:00"
-    },
-    {
-      "title": "Datafolha: Trump's support for Presidential candidate in Brazil is indifferent to 65% of voters",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/datafolha-apoio-de-trump-a-candidato-a-presidencia-no-brasil-e-indiferente-para-65-dos-eleitores.shtml",
-      "published_date": "2026-06-20T15:00:00+00:00"
-    },
-    {
-      "title": "Datafolha: Lula and Flávio Bolsonaro are already contesting elections with the appearance of a second round",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/datafolha-lula-e-flavio-bolsonaro-ja-disputam-eleicao-com-cara-de-segundo-turno.shtml",
-      "published_date": "2026-06-20T15:00:00+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Arrest of Beni Halba leader triggers new escalation in tribal war with Salamat | Thousands of RSF fighters deployed around Obeid, military braces for offensive | RSF torches villages, kills civilians in Zaghawa lands | Senior Hemedti advisor defects from RSF | Democratic Bloc chair joins consultations in Oslo",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/06/20/news/u/sudan-nashra-arrest-of-beni-halba-leader-triggers-new-escalation-in-tribal-war-with-salamat-thousands-of-rsf-fighters-deployed-around-obeid-military-braces-for-offensive-rsf-torches-villages-ki/",
-      "published_date": "2026-06-20T12:28:10+00:00"
     }
   ]
 }
