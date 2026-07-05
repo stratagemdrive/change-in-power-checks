@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-05T00:00:16.830332+00:00",
-    "story_count": 449,
+    "last_updated": "2026-07-05T12:19:58.143569+00:00",
+    "story_count": 455,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,153 @@
   },
   "stories": [
     {
+      "title": "Pakistani FM's relative arrested on alleged kidnapping, rape, extortion charges",
+      "source": "Jerusalem Post",
+      "country": "Pakistan",
+      "url": "https://www.jpost.com/international/article-901457",
+      "published_date": "2026-07-05T13:37:30+00:00"
+    },
+    {
+      "title": "Iranians pray for slain supreme leader Khamenei in son’s absence",
+      "source": "The Punch Nigeria",
+      "country": "Iran",
+      "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-05T12:57:44+00:00"
+    },
+    {
+      "title": "‘US will be paying close attention to Nigeria’s 2027 election’ —Congressman",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/us-will-be-paying-close-attention-to-nigerias-2027-election-congressman/",
+      "published_date": "2026-07-05T12:06:04+00:00"
+    },
+    {
+      "title": "Missing from mourning: Why Iran’s new Supreme Leader skipped father’s funeral",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/mojtaba-khamenei-absent-ayatollah-ali-khamenei-funeral-tehran-trump-10772439/",
+      "published_date": "2026-07-05T12:02:27+00:00"
+    },
+    {
+      "title": "Romanians charged with gold bullion coup worth millions in Copenhagen",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/art10907724/Rum%C3%A6nere-sigtet-for-guldbarre-kup-til-millioner-i-K%C3%B8benhavn",
+      "published_date": "2026-07-05T11:57:58+00:00"
+    },
+    {
+      "title": "US to closely monitor Nigeria’s 2027 elections — Congressman",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/us-to-closely-monitor-nigerias-2027-elections-congressman/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-05T11:37:25+00:00"
+    },
+    {
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
+      "published_date": "2026-07-05T11:05:36+00:00"
+    },
+    {
+      "title": "Annie Walker: the profile and career of the new leader of Walmart in Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/annie-walker-el-perfil-y-la-carrera-de-la-nueva-lider-de-walmart-en-chile/",
+      "published_date": "2026-07-05T11:00:00+00:00"
+    },
+    {
+      "title": "Three sons of Ali Khamenei appear at the funeral, but not his successor",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260705-trois-fils-d-ali-khamenei-apparaissent-aux-obs%C3%A8ques-mais-pas-son-successeur",
+      "published_date": "2026-07-05T10:57:31+00:00"
+    },
+    {
+      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+      "published_date": "2026-07-05T10:40:23+00:00"
+    },
+    {
+      "title": "Iran’s new Supreme Leader Mojtaba Khamenei holds ‘positive’ view of China, ambassador says",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3359478/irans-new-supreme-leader-mojtaba-khamenei-holds-positive-view-china-ambassador-says?utm_source=rss_feed",
+      "published_date": "2026-07-05T10:31:38+00:00"
+    },
+    {
+      "title": "Sisi inaugurates the Octagon – the largest strategic command complex in the Middle East",
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "url": "https://www.egyptindependent.com/sisi-inaugurates-the-octagon-the-largest-strategic-command-complex-in-the-middle-east/",
+      "published_date": "2026-07-05T10:24:08+00:00"
+    },
+    {
+      "title": "Iranians pray for slain Khamenei but son and successor absent",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/07/iranians-pray-for-slain-khamenei-but-son-and-successor-absent/",
+      "published_date": "2026-07-05T10:17:43+00:00"
+    },
+    {
+      "title": "Prashant Kishor to fight election finally, as Jan Suraaj candidate for July 30 bypoll in Bihar BJP fortress Bankipur",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/prashant-kishor-in-election-fray-finally-jan-suraaj-declares-him-as-candidate-for-july-30-bankipur-bypoll-in-bihar-101783242976703.html",
+      "published_date": "2026-07-05T09:19:04+00:00"
+    },
+    {
+      "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/07/05/world/prayers-iran-khamenei-funeral-ceremonies/",
+      "published_date": "2026-07-05T08:37:00+00:00"
+    },
+    {
+      "title": "Ayatollah Ali Khamenei Funeral Updates | Successor Mojtaba still absent, slain leader’s three sons lead funeral prayers",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/khamenei-funeral-live-updates-us-iran-war-trump-israel-iran-peace-talks-10771876/",
+      "published_date": "2026-07-05T03:55:38+00:00"
+    },
+    {
+      "title": "Milei's plan for re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/opinion/el-plan-de-milei-para-la-reeleccion-nid05072026/",
+      "published_date": "2026-07-05T03:10:00+00:00"
+    },
+    {
+      "title": "Global crises cannot be ignored, outgoing UK PM Starmer warns successor",
+      "source": "Dawn Pakistan",
+      "country": "United Kingdom",
+      "url": "https://www.dawn.com/news/2013067/global-crises-cannot-be-ignored-outgoing-uk-pm-starmer-warns-successor",
+      "published_date": "2026-07-05T02:56:28+00:00"
+    },
+    {
+      "title": "India overcame crisis on refining prowess, will keep building: PM Modi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-overcame-crisis-on-refining-prowess-will-keep-building-pm-modi-101783213008235.html",
+      "published_date": "2026-07-05T00:59:37+00:00"
+    },
+    {
+      "title": "Ukraine hits major oil terminal 500 miles inside Russia, disputes Putin’s claim of capturing frontline town",
+      "source": "Indian Express",
+      "country": "Russia",
+      "url": "https://indianexpress.com/article/world/ukraine-russia-war-st-petersburg-oil-terminal-strike-kostiantynivka-10771901/",
+      "published_date": "2026-07-05T00:23:29+00:00"
+    },
+    {
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "source": "BBC World",
+      "country": "France",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T23:17:24+00:00"
+    },
+    {
       "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
       "source": "BBC World",
       "country": "Iran",
@@ -69,7 +216,7 @@
     {
       "title": "Zelensky denies Russia captured key Ukraine city, challenges Putin to meet him there",
       "source": "South China Morning Post",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3359441/zelensky-denies-russia-captured-key-ukraine-city-challenges-putin-meet-him-there?utm_source=rss_feed",
       "published_date": "2026-07-04T19:15:31+00:00"
     },
@@ -993,7 +1140,7 @@
     {
       "title": "More Myanmar garment workers detained in China after resigning over labour complaints",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/more-myanmar-garment-workers-detained-in-china-after-resigning-over-labour-complaints/",
       "published_date": "2026-06-30T09:48:59+00:00"
     },
@@ -3096,111 +3243,6 @@
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/06/colombianos-en-madrid-acudieron-a-las-urnas-para-elegir-a-su-nuevo-presidente-en-segunda-vuelta/",
       "published_date": "2026-06-21T12:21:23+00:00"
-    },
-    {
-      "title": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombias-presidential-runoff-election-will-decide-how-the-country-continues-to-tackle-drug-trafficking",
-      "published_date": "2026-06-21T12:06:08+00:00"
-    },
-    {
-      "title": "Colombia runoff vote shaped by security fears and conflict warnings",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
-      "published_date": "2026-06-21T12:06:08+00:00"
-    },
-    {
-      "title": "This is how the border with Venezuela dawned after the early closure due to elections in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/asi-amanecio-la-frontera-con-venezuela-despues-del-cierre-anticipado-por-elecciones-en-colombia/",
-      "published_date": "2026-06-21T11:28:25+00:00"
-    },
-    {
-      "title": "Ekiti Election: Tinubu congratulates Oyebanji, urges him to be magnanimous in victory",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/06/ekiti-election-tinubu-congratulates-oyebanji-urges-him-to-be-magnanimous-in-victory/",
-      "published_date": "2026-06-21T10:18:30+00:00"
-    },
-    {
-      "title": "Keir Starmer hit by resignation rumors as allies deny he is stepping down",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-pm-keir-starmer-resignation-timetable-andy-burnham-labour-party-chequers-10750463/",
-      "published_date": "2026-06-21T10:08:52+00:00"
-    },
-    {
-      "title": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/who-is-ivan-cepeda-left-wing-candidate-in-colombia-s-presidential-elections",
-      "published_date": "2026-06-21T09:52:05+00:00"
-    },
-    {
-      "title": "Amid buzz over leadership change, Rahul Gandhi meets Punjab Congress leaders",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/amid-buzz-over-leadership-change-rahul-gandhi-meets-leaders-from-punjab-10750429/",
-      "published_date": "2026-06-21T09:46:34+00:00"
-    },
-    {
-      "title": "Colombians to vote in presidential run-off pitting leftist against hardliner - Al Jazeera",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGJaYndEMHdSYjhnYjZGTl9VOHRST3ZSTmtkQVE0RHlyaU40ZUtaYWdWeGtXUmdjbHVrWGZwSWhZN2N2UWQ1RlNDNVRxeGhPU0xJQlI3YjNVdmtfRDhOTDA5elFZWEN4Sk0xazdRNVZvZkI3OEJOX1V1VUk4Mm9UcHY1ZGR2Rnp6Q01Lb3drVW1jWDlOR3o5X3dtWjNhdjhaWXJ1SFpCRGluNllkb2RrUGNEUkJLLWxj0gG-AUFVX3lxTFBwalZvMG1hYzNpTW5oRnhQYVc2Qm5YMUd5TXdyUm44NVd4cFp2Q09nOWxnMVVFZ01jVVdCWk50cGNKR3pzOG1vMllGajVwSG03eEEzOUpoQWY1eWtTRVh3X2dJZXFaNnB5R0tXNm1YQTlyM3hZcWNWQm5pUmVMN2YtVXhzQzZicnE0Q2ZJTGJWYU5HYUExcWgwMXIyUzUwY3hQYy1uRnE0M2FINF8xWG5aVWlSa0l3R0ZmZmZEanc?oc=5",
-      "published_date": "2026-06-21T09:43:25+00:00"
-    },
-    {
-      "title": "Colombians to vote in presidential run-off pitting leftist against hardliner",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
-      "published_date": "2026-06-21T09:38:58+00:00"
-    },
-    {
-      "title": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/who-is-abelardo-de-la-esperiella-far-right-candidate-in-the-colombian-presidential-election",
-      "published_date": "2026-06-21T09:10:26+00:00"
-    },
-    {
-      "title": "Ballot in Colombia: De la Espriella and Cepeda face each other in an election of extremes after a very polarized campaign",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/balotaje-en-colombia-de-la-espriella-y-cepeda-se-enfrentan-en-una-eleccion-de-extremos-tras-una-nid21062026/",
-      "published_date": "2026-06-21T09:00:01+00:00"
-    },
-    {
-      "title": "Presidential election in Colombia: who is the left-wing candidate Ivan Cepeda?",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-pr%C3%A9sidentielle-en-colombie-qui-est-le-candidat-de-gauche-ivan-cepeda",
-      "published_date": "2026-06-21T08:26:23+00:00"
-    },
-    {
-      "title": "Colombia chooses Petro's successor between De La Espriella and Cepeda",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/colombia-elegira-al-sucesor-de-petro-entre-de-la-espriella-y-cepeda/",
-      "published_date": "2026-06-21T08:16:00+00:00"
-    },
-    {
-      "title": "Colombians vote in presidential runoff between Trump-backed hardliner, leftist senator",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260621-high-stakes-colombia-vote-sees-trump-backed-hardliner-face-leftist-senator",
-      "published_date": "2026-06-21T06:31:11+00:00"
-    },
-    {
-      "title": "Europe must not fall into Putin’s traps, Estonia’s FM says",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4136009-europe-must-not-fall-into-putins-traps-estonias-fm-says.html",
-      "published_date": "2026-06-21T04:25:00+00:00"
     }
   ]
 }
