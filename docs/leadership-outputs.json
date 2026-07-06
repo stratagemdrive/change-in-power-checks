@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-06T00:04:21.882266+00:00",
-    "story_count": 432,
+    "last_updated": "2026-07-06T14:27:27.776825+00:00",
+    "story_count": 409,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,195 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Special counsel accuses NIS of actively cooperating in ex-President Yoon's martial law bid",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260706/special-counsel-accuses-nis-of-actively-cooperating-in-ex-president-yoons-martial-law-bid?utm_source=rss",
+      "published_date": "2026-07-06T14:22:04+00:00"
+    },
+    {
+      "title": "Legislative elections in Algeria: a historic abstention, the FLN in the lead",
+      "source": "France 24 FR",
+      "country": "Algeria",
+      "url": "https://www.france24.com/fr/afrique/20260706-l%C3%A9gislatives-alg%C3%A9rie-abstention-historique-fln-en-t%C3%AAte",
+      "published_date": "2026-07-06T14:13:26+00:00"
+    },
+    {
+      "title": "Iran Live Updates: Huge Crowds Gather for Funeral of Ayatollah Ali Khamenei, Supreme Leader Killed in Iran War - The New York Times",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nOHc3ZGJJZEUyV0FnN0thSXc4XzJ1NWZ4eUJ2bkZQQ1duWWtPdDYtQlNra0l1bGpYd2laSjY1RDNHeGIycVE3QTl0cnNUOTNnNk1mWjg1STRnbXdLNXNvZUsxX2xJZGxWYW11MmpLWHBEOWdrTXc?oc=5",
+      "published_date": "2026-07-06T14:10:31+00:00"
+    },
+    {
+      "title": "In Algeria, legislative elections locked and shunned by the population",
+      "source": "Le Monde France",
+      "country": "Algeria",
+      "url": "https://www.lemonde.fr/international/article/2026/07/06/en-algerie-des-elections-legislatives-verrouillees-et-boudees-par-la-population_6721199_3210.html",
+      "published_date": "2026-07-06T14:02:34+00:00"
+    },
+    {
+      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+      "published_date": "2026-07-06T13:57:35+00:00"
+    },
+    {
+      "title": "South Caucasus officials attend Tehran funeral of Iranian Supreme Leader Khamenei",
+      "source": "OC Media Caucasus",
+      "country": "Iran",
+      "url": "https://oc-media.org/south-caucasus-officials-attend-tehran-funeral-of-iranian-supreme-leader-khamenei/",
+      "published_date": "2026-07-06T13:56:38+00:00"
+    },
+    {
+      "title": "Javier Milei and his measures, live: the plan to pay the debt until 2027 and the electoral reform",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
+      "published_date": "2026-07-06T13:54:00+00:00"
+    },
+    {
+      "title": "Does the French right have a chance of defeating the far right in the election?",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
+      "published_date": "2026-07-06T13:48:45+00:00"
+    },
+    {
+      "title": "Oyo Abduction: ‘Makinde told me he never called,’ Peter Obi restates call for Tinubu’s resignation",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/893287-oyo-abduction-makinde-told-me-he-never-called-peter-obi-restates-call-for-tinubus-resignation.html",
+      "published_date": "2026-07-06T13:11:24+00:00"
+    },
+    {
+      "title": "US to watch Nigeria’s 2027 elections, says Congressman",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/893283-us-to-watch-nigerias-2027-elections-says-congressman.html",
+      "published_date": "2026-07-06T12:50:32+00:00"
+    },
+    {
+      "title": "In Tehran, funeral attendees grieve the loss of supreme leader Ali Khamenei",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/in-tehran-funeral-attendees-grieve-the-loss-of-supreme-leader-ali-khamenei",
+      "published_date": "2026-07-06T12:33:19+00:00"
+    },
+    {
+      "title": "Iran begins long farewell to former supreme leader with calls for Trump’s death | First Thing",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/first-thing-iran-supreme-leader-ali-khamenei-funeral-trump",
+      "published_date": "2026-07-06T12:31:08+00:00"
+    },
+    {
+      "title": "Gustavo Petro reiterates the call for civil disobedience and once again ignores the electoral victory of the elected president, Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-reitera-llamado-a-desobediencia-civil-y-vuelve-a-desconocer-triunfo-electoral-de-abelardo-de-la-espriella-3569280",
+      "published_date": "2026-07-06T12:20:10+00:00"
+    },
+    {
+      "title": "Armenian PM Makes First Trip to Russia Since Re-Election, Food Import Ban",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/06/armenian-pm-makes-first-trip-to-russia-since-re-election-food-import-ban-a93174",
+      "published_date": "2026-07-06T11:13:30+00:00"
+    },
+    {
+      "title": "Resign or shelve re-election bid over insecurity, Peter Obi tells Tinubu",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/resign-or-shelve-re-election-bid-over-insecurity-peter-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-06T11:00:59+00:00"
+    },
+    {
+      "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
+      "published_date": "2026-07-06T10:52:55+00:00"
+    },
+    {
+      "title": "'Genuine admiration and emotion' in Tehran's streets as Iran mourns supreme leader",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/genuine-admiration-and-emotion-in-tehran-s-streets-as-iran-mourns-supreme-leader",
+      "published_date": "2026-07-06T10:27:13+00:00"
+    },
+    {
+      "title": "Armenia’s Constitutional Court verifies results of elections as opposition takes up mandates",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenias-constitutional-court-verifies-results-of-elections-as-opposition-takes-up-mandates/",
+      "published_date": "2026-07-06T10:03:29+00:00"
+    },
+    {
+      "title": "Millions gather as funeral procession of Iran's assassinated supreme leader begins in Tehran",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran",
+      "published_date": "2026-07-06T09:48:53+00:00"
+    },
+    {
+      "title": "Iran: at the funeral of former Supreme Guide Ali Khamenei, the notable absence of Mojtaba, his son and successor",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/07/06/iran-aux-funerailles-de-l-ancien-guide-supreme-ali-khamenei-l-absence-remarquee-de-mojtaba-son-fils-et-successeur_6721161_3210.html",
+      "published_date": "2026-07-06T09:35:46+00:00"
+    },
+    {
+      "title": "Rohingya civilians injured, POWs killed by Myanmar junta airstrikes near Bangladesh border",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/rohingya-civilians-injured-pows-killed-by-myanmar-junta-airstrikes-near-bangladesh-border/",
+      "published_date": "2026-07-06T09:33:29+00:00"
+    },
+    {
+      "title": "Pashinyan arrives in Russia in first visit since elections",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/pashinyan-arrives-in-russia-in-first-visit-since-elections/",
+      "published_date": "2026-07-06T09:29:08+00:00"
+    },
+    {
+      "title": "Belarusian opposition leader: The risk of an expansion of the Ukraine war has grown",
+      "source": "Politiken Denmark",
+      "country": "Ukraine",
+      "url": "https://politiken.dk/internationalt/art10902928/Belarusisk-oppositionsleder-Risikoen-for-en-udvidelse-af-Ukraine-krigen-er-vokset",
+      "published_date": "2026-07-06T07:43:37+00:00"
+    },
+    {
+      "title": "Hamas official resigns in first step to dissolve Gaza governing body, hand authority to NCAG",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-901534",
+      "published_date": "2026-07-06T07:36:53+00:00"
+    },
+    {
+      "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
+      "published_date": "2026-07-06T07:28:58+00:00"
+    },
+    {
+      "title": "India news LIVE updates, 6 July 2026: Ram Temple trust accepts chief Champat Rai’s resignation at key meeting",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-6-july-2026-mumbai-pune-landslide-trains-cancelled-neymar-retirement-10773292/",
+      "published_date": "2026-07-06T04:17:41+00:00"
+    },
+    {
+      "title": "Lula's efforts to attract app workers may not yield results in the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/esforco-de-lula-para-atrair-trabalhadores-de-app-pode-nao-render-resultado-nas-eleicoes.shtml",
+      "published_date": "2026-07-06T02:00:00+00:00"
+    },
     {
       "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
       "source": "Google News World",
@@ -107,6 +296,13 @@
       "country": "Iran",
       "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
       "published_date": "2026-07-05T17:39:40+00:00"
+    },
+    {
+      "title": "In first, government vows to disobey High Court ruling, setting up constitutional crisis - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTlodlBIdDdHTVMxa1ctN1FlQ042azE2QUVWRThRdnhKd0I5VzJDOV9UVXJKTXBNNXJKM2RPQkJWSU9sYVJXaFhSTnV6MEZ5ZmM3eFlXS3VkOVhwODZJdDA1TngxMDBLZ3JIcExmN2NGa0wzUHg1OG5JSmtvUXF4SzRsQUNpX1FGZGpFSE1nMEhpTElJR3dLUzdWenpCbnQ1S3BLcmIwUmZNZnM4UjBuMFR1YjVOb29s0gG-AUFVX3lxTE5lVl84anBXc19rUUV1eFFMdWh6YlI0a2d1Rm9WU2ZybG1MSmU4bEgtV0FoSk1tOFgzZ1VuZ2NPekptY2FhaHFSTHYyNDcxR1FJaUxNaEFhR0U5YmNuQTRBZUtHQ0x0SVdBRENsUXIxVkJ2dGc5bTZ4MGFfMVAxTlE0R0wzUFQ0SXVWOG84ME4yaXAzNjNTMU8xb2RBRFBQekRnaXoyZmItcXpid2lfMHZYUjJ6cjFST0JKSi1MTWc?oc=5",
+      "published_date": "2026-07-05T16:16:00+00:00"
     },
     {
       "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not successor Mojtaba",
@@ -2725,363 +2921,6 @@
       "country": "United Kingdom",
       "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
       "published_date": "2026-06-22T14:23:45+00:00"
-    },
-    {
-      "title": "Donald Trump's wink to Abelardo de la Espriella after the results of the Colombian elections",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/estados-unidos/el-guino-de-donald-trump-a-abelardo-de-la-espriella-tras-los-resultados-en-las-elecciones-de-nid22062026/",
-      "published_date": "2026-06-22T14:02:12+00:00"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer resigns",
-      "source": "La Nacion Argentina",
-      "country": "United Kingdom",
-      "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-primer-ministro-del-reino-unido-keir-starmer-nid22062026/",
-      "published_date": "2026-06-22T13:30:35+00:00"
-    },
-    {
-      "title": "How much will the salary of the new president and vice president of Colombia be for the period 2026-2030?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/de-cuanto-sera-el-sueldo-del-nuevo-presidente-y-del-vicepresidente-de-colombia-para-el-periodo-2026-3566055",
-      "published_date": "2026-06-22T13:22:45+00:00"
-    },
-    {
-      "title": "Starmer’s Resignation: Obi asks Tinubu to resign over ‘failure in governance’",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/06/starmers-resignation-obi-asks-tinubu-to-resign-over-failure-in-governance/",
-      "published_date": "2026-06-22T13:21:41+00:00"
-    },
-    {
-      "title": "Trump-backed millionaire lawyer wins Colombia’s presidential election",
-      "source": "The Independent UK",
-      "country": "Colombia",
-      "url": "https://www.independent.co.uk/news/world/americas/colombian-presidential-elections-winner-results-b3000164.html",
-      "published_date": "2026-06-22T13:18:00+00:00"
-    },
-    {
-      "title": "United Kingdom: after the resignation of Keir Starmer, the path clear for Andy Burnham?",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260622-royaume-uni-apr%C3%A8s-la-d%C3%A9mission-de-keir-starmer-la-voie-libre-pour-andy-burnham",
-      "published_date": "2026-06-22T13:17:01+00:00"
-    },
-    {
-      "title": "Trump-backed candidate wins Colombian election",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/trump-backed-candidate-wins-colombian-election",
-      "published_date": "2026-06-22T13:07:33+00:00"
-    },
-    {
-      "title": "Seven PMs in 10 years – Britain’s decade of ‘chaos’",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/06/seven-pms-in-10-years-britains-decade-of-chaos/",
-      "published_date": "2026-06-22T13:00:14+00:00"
-    },
-    {
-      "title": "Change of UK PM likely 'a passing of the crown' while early general election unlikely",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/change-of-uk-pm-likely-a-passing-of-the-crown-while-early-general-election-unlikely",
-      "published_date": "2026-06-22T12:59:33+00:00"
-    },
-    {
-      "title": "'I am going to govern for all Colombians': the 5 phrases of the President-elect's first speech in a conciliatory tone",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/voy-a-gobernar-para-todos-los-colombianos-las-5-frases-del-primer-discurso-en-tono-conciliador-del-presidente-electo-3566052",
-      "published_date": "2026-06-22T12:56:24+00:00"
-    },
-    {
-      "title": "United Kingdom: Keir Starmer resigns after months of pressure",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260622-royaume-uni-keir-starmer-d%C3%A9missionne-apr%C3%A8s-des-mois-de-pression",
-      "published_date": "2026-06-22T12:10:01+00:00"
-    },
-    {
-      "title": "A tough inheritance awaits Keir Starmer’s successor",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/opinion/editorials/keir-starmer-resigns-uk-successor-andy-burnham-epstein-mandelson-10752001/",
-      "published_date": "2026-06-22T11:59:08+00:00"
-    },
-    {
-      "title": "Starmer announces his resignation after 717 days: he is the sixth prime minister to leave office in the last decade",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/starmer-anuncia-su-dimision-tras-717-dias-es-el-sexto-primer-ministro-en-dejar-el-cargo-en-la-ultima-decada/",
-      "published_date": "2026-06-22T11:43:48+00:00"
-    },
-    {
-      "title": "Keir Starmer's resignation: the five files that precipitated his fall",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/europe/20260622-d%C3%A9mission-keir-starmer-les-cinq-dossiers-qui-ont-pr%C3%A9cipit%C3%A9-sa-chute-royaume-uni",
-      "published_date": "2026-06-22T11:37:29+00:00"
-    },
-    {
-      "title": "Andy Burnham sworn in as MP after Keir Starmer announces resignation - live updates - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90bUxSWXhXeFA0aHUxS0N2eXBkcVRiMTNRMXlvQ05DY01IYlBHV3FJelNVNm9qWTM4ZTA0WEtUNVdaYzVkc1hEOFk3R2x3bDFoM1M4ZQ?oc=5",
-      "published_date": "2026-06-22T11:29:44+00:00"
-    },
-    {
-      "title": "Anatomy of a fall: Keir Starmer, from election landslide to precipitous descent",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260622-anatomy-of-a-fall-keir-starmer-from-election-landslide-to-precipitous-descent",
-      "published_date": "2026-06-22T11:28:55+00:00"
-    },
-    {
-      "title": "Starmer announces his resignation as British PM",
-      "source": "Ukrinform",
-      "country": "United Kingdom",
-      "url": "https://www.ukrinform.net/rubric-polytics/4136373-starmer-announces-his-resignation-as-british-pm.html",
-      "published_date": "2026-06-22T11:20:00+00:00"
-    },
-    {
-      "title": "Starmer announces resignation: “The country I love has always come first”",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/keir-starmer-kuendigt-ruecktritt-an-accg-200953483.html",
-      "published_date": "2026-06-22T10:33:03+00:00"
-    },
-    {
-      "title": "British Prime Minister Keir Starmer announced his resignation",
-      "source": "El Nacional Venezuela",
-      "country": "United Kingdom",
-      "url": "https://www.elnacional.com/2026/06/el-primer-ministro-britanico-keir-starmer-anuncio-su-dimision/",
-      "published_date": "2026-06-22T10:32:05+00:00"
-    },
-    {
-      "title": "A decade of chaos: Britain prepares for 7th prime minister after Starmer announces resignation",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2010000/a-decade-of-chaos-britain-prepares-for-7th-prime-minister-after-starmer-announces-resignation",
-      "published_date": "2026-06-22T10:11:12+00:00"
-    },
-    {
-      "title": "US-backed political newcomer wins Colombia election, marking country's right-wing shift",
-      "source": "Euronews",
-      "country": "Colombia",
-      "url": "http://www.euronews.com/2026/06/22/us-backed-political-newcomer-wins-colombia-election-marking-countrys-right-wing-shift",
-      "published_date": "2026-06-22T09:56:59+00:00"
-    },
-    {
-      "title": "UK's Starmer resigns as prime minister",
-      "source": "VN Express International",
-      "country": "United Kingdom",
-      "url": "https://e.vnexpress.net/news/world/uk-s-starmer-resigns-as-prime-minister-5088596.html",
-      "published_date": "2026-06-22T09:33:45+00:00"
-    },
-    {
-      "title": "U.K. Prime Minister Keir Starmer resigns",
-      "source": "Axios World",
-      "country": "United Kingdom",
-      "url": "https://www.axios.com/2026/06/22/keir-starmer-resigns-prime-minister-labour-andy-burnham",
-      "published_date": "2026-06-22T09:27:28+00:00"
-    },
-    {
-      "title": "Expert Explains | Why Keir Starmer resigned as British Prime Minister and leader of the Labour Party",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/explained/explained-global/keir-starmer-resignation-brexit-labour-uk-politics-expert-explains-10751727/",
-      "published_date": "2026-06-22T09:22:26+00:00"
-    },
-    {
-      "title": "Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years",
-      "source": "NPR World",
-      "country": "United Kingdom",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
-      "published_date": "2026-06-22T09:19:02+00:00"
-    },
-    {
-      "title": "Political earthquake in the United Kingdom: Starmer announces his resignation as prime minister two years after his historic electoral victory",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/terremoto-en-reino-unido-starmer-anuncia-su-dimision-como-primer-ministro-dos-anos-despues-de-su-historica-victoria-electoral/",
-      "published_date": "2026-06-22T09:11:12+00:00"
-    },
-    {
-      "title": "Homes of former NMSP members damaged by Myanmar junta airstrike in Mon State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/homes-of-former-nmsp-members-damaged-by-myanmar-junta-airstrike-in-mon-state/",
-      "published_date": "2026-06-22T09:07:21+00:00"
-    },
-    {
-      "title": "UK PM Keir Starmer announces resignation following by-election setback",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-prime-minister-keir-starmer-resigns-britain-seventh-pm-decade-political-crisis-10751693/",
-      "published_date": "2026-06-22T08:56:26+00:00"
-    },
-    {
-      "title": "U.K. Prime Minister Keir Starmer announces resignation",
-      "source": "NPR World",
-      "country": "United Kingdom",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866213/uk-prime-minister-keir-starmer-announces-resignation",
-      "published_date": "2026-06-22T08:52:36+00:00"
-    },
-    {
-      "title": "Keir Starmer resigns as British prime minister",
-      "source": "Middle East Eye",
-      "country": "United Kingdom",
-      "url": "https://www.middleeasteye.net/news/keir-starmer-resigns-british-prime-minister",
-      "published_date": "2026-06-22T08:48:01+00:00"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer resigns as Andy Burnham announces candidacy",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/22/uk-prime-minister-keir-starmer-announces-resignation",
-      "published_date": "2026-06-22T08:47:44+00:00"
-    },
-    {
-      "title": "Keir Starmer announces his resignation as Prime Minister of the United Kingdom",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/06/22/le-premier-ministre-britannique-keir-starmer-annonce-sa-demission_6706580_3210.html",
-      "published_date": "2026-06-22T08:38:38+00:00"
-    },
-    {
-      "title": "Starmer announces resignation, making way for UK’s seventh prime minister in a decade",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3357918/starmer-resigns-making-way-seventh-uk-prime-minister-decade?utm_source=rss_feed",
-      "published_date": "2026-06-22T08:38:06+00:00"
-    },
-    {
-      "title": "South Korea’s ex-justice minister jailed for 25 years over martial law bid",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3357906/south-koreas-ex-justice-minister-jailed-25-years-over-martial-law-bid?utm_source=rss_feed",
-      "published_date": "2026-06-22T07:38:09+00:00"
-    },
-    {
-      "title": "UK's Starmer resigns as prime minister",
-      "source": "RFI English",
-      "country": "United Kingdom",
-      "url": "https://www.rfi.fr/en/international/20260622-uk-s-starmer-resigns-as-prime-minister",
-      "published_date": "2026-06-22T07:18:19+00:00"
-    },
-    {
-      "title": "U.K. Prime Minister Keir Starmer announces resignation, sets out timetable for exit",
-      "source": "CBC News World",
-      "country": "United Kingdom",
-      "url": "https://www.cbc.ca/news/world/livestory/starmer-streeting-labour-party-u-k-politics-9.7199764?cmp=rss",
-      "published_date": "2026-06-22T06:09:12+00:00"
-    },
-    {
-      "title": "Europe Today: Starmer set to step down as US-Iran talks and Moldova summit unfold",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "http://www.euronews.com/my-europe/2026/06/22/europe-today-starmer-set-to-step-down-as-us-iran-talks-and-moldova-summit-unfold",
-      "published_date": "2026-06-22T06:02:21+00:00"
-    },
-    {
-      "title": "Did Myanmar-China talks spawn a more emboldened junta?",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/week-asia/politics/article/3357880/did-myanmar-china-talks-spawn-more-emboldened-junta?utm_source=rss_feed",
-      "published_date": "2026-06-22T05:32:11+00:00"
-    },
-    {
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T03:31:40+00:00"
-    },
-    {
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T03:31:40+00:00"
-    },
-    {
-      "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
-      "published_date": "2026-06-22T02:12:22+00:00"
-    },
-    {
-      "title": "Outgoing Colombian president claims Israel fixed elections after losing to right-wing candidate",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/international/article-900089",
-      "published_date": "2026-06-22T01:49:02+00:00"
-    },
-    {
-      "title": "'Truth must come out at temple': Karnataka BJP plans meeting over MLC election cross-voting",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/truth-must-come-out-at-temple-karnataka-bjp-plans-meeting-over-mlc-election-crossvoting-101782089404850.html",
-      "published_date": "2026-06-22T01:04:00+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella highlights “historic” support and promises “a new stage” after his victory in the Colombian runoff",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/abelardo-de-la-espriella-destaca-respaldo-historico-y-promete-una-nueva-etapa-tras-su-triunfo-en-balotaje-colombiano/",
-      "published_date": "2026-06-22T00:54:23+00:00"
-    },
-    {
-      "title": "Profile | Abelardo de la Espriella, the lawyer who won the presidential elections in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/perfil-abelardo-de-la-espriella-el-abogado-que-gano-las-presidenciales-en-colombia/",
-      "published_date": "2026-06-22T00:47:11+00:00"
-    },
-    {
-      "title": "Runoff election: Trump ally wins presidential election in Colombia",
-      "source": "FAZ Germany",
-      "country": "Colombia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/praesidentenwahl-in-kolumbien-trump-verbuendeter-gewinnt-land-steht-vor-rechtsruck-accg-200952905.html",
-      "published_date": "2026-06-22T00:32:21+00:00"
-    },
-    {
-      "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
-      "published_date": "2026-06-22T00:27:07+00:00"
-    },
-    {
-      "title": "Colombia turns to the right with the election of Abelardo de la Espriella as president",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/colombia-gira-a-la-derecha-con-la-eleccion-de-abelardo-de-la-espriella-como-presidente/",
-      "published_date": "2026-06-22T00:18:12+00:00"
-    },
-    {
-      "title": "Who won the elections in Colombia 2026: official results between Abelardo de la Espriella and Iván Cepeda",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-va-ganando-las-elecciones-en-colombia-2026-resultados-entre-abelardo-de-la-espriella-e-ivan-nid21062026/",
-      "published_date": "2026-06-22T00:03:02+00:00"
-    },
-    {
-      "title": "Elections in Colombia 2026: who is Abelardo “El Tigre” de la Espriella, the new Trump ally president",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-colombia-2026-quien-es-abelardo-el-tigre-de-la-espriella-el-nuevo-presidente-aliado-de-nid21062026/",
-      "published_date": "2026-06-22T00:02:38+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: how to consult the E-14 minutes after the close of voting in the second round?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-como-consultar-las-actas-e-14-tras-el-cierre-de-votaciones-de-la-segunda-vuelta-3565951",
-      "published_date": "2026-06-21T23:59:18+00:00"
     }
   ]
 }
