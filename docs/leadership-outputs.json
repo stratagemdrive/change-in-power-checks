@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-05T12:19:58.143569+00:00",
-    "story_count": 455,
+    "last_updated": "2026-07-06T00:04:21.882266+00:00",
+    "story_count": 432,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
+      "published_date": "2026-07-05T22:30:44+00:00"
+    },
+    {
+      "title": "Are officials exaggerating Hamas threat to impact elections, push for new invasion? - analysis",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-901508",
+      "published_date": "2026-07-05T20:24:21+00:00"
+    },
+    {
+      "title": "Presidential elections: France wants to believe in itself again",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/edouard-philippe-frankreichs-alternative-zu-den-populisten-201000158.html",
+      "published_date": "2026-07-05T18:45:06+00:00"
+    },
+    {
+      "title": "Egypt’s President el-Sisi inaugurates massive new military headquarters",
+      "source": "South China Morning Post",
+      "country": "Egypt",
+      "url": "https://www.scmp.com/news/world/africa/article/3359498/egypts-president-el-sisi-inaugurates-massive-new-military-headquarters?utm_source=rss_feed",
+      "published_date": "2026-07-05T18:20:46+00:00"
+    },
+    {
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-05T17:58:01+00:00"
+    },
+    {
+      "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-05T17:54:47+00:00"
+    },
+    {
+      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+      "published_date": "2026-07-05T17:39:40+00:00"
+    },
+    {
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not successor Mojtaba",
+      "source": "RFI English",
+      "country": "Iran",
+      "url": "https://www.rfi.fr/en/international/20260705-three-sons-of-iran-s-slain-leader-khamenei-appear-at-funeral-not-his-successor-mojtaba",
+      "published_date": "2026-07-05T16:07:33+00:00"
+    },
+    {
+      "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
+      "published_date": "2026-07-05T14:52:34+00:00"
+    },
+    {
+      "title": "Calls for revenge as senior Iranian officials appear in public for supreme leader's funeral",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/israel-tehran-donald-trump-ayatollah-ali-khamenei-strait-of-hormuz-b3009267.html",
+      "published_date": "2026-07-05T14:41:43+00:00"
+    },
+    {
+      "title": "Funeral of Ali Khamenei: his successor absent, senior Iranian officials gathered in Tehran",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/moyen-orient/20260705-iran-fun%C3%A9railles-nationales-ali-khamenei-des-hauts-responsables-iraniens-r%C3%A9unis-t%C3%A9h%C3%A9ran-sans-son-successeur-fils-mojtaba",
+      "published_date": "2026-07-05T14:12:52+00:00"
+    },
+    {
+      "title": "Constitutional crisis? Israeli gov't says it will ignore Supreme Court freeze on media regulator",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-901461",
+      "published_date": "2026-07-05T13:56:17+00:00"
+    },
+    {
+      "title": "Second day of Ali Khamenei's public funeral: Motjaba, his son and successor, has not appeared publicly",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/segundo-dia-de-funerales-publicos-de-ali-jamenei-motjaba-su-hijo-y-sucesor-no-ha-aparecido-publicamente/",
+      "published_date": "2026-07-05T13:51:47+00:00"
+    },
     {
       "title": "Pakistani FM's relative arrested on alleged kidnapping, rape, extortion charges",
       "source": "Jerusalem Post",
@@ -72,6 +163,13 @@
       "country": "Iran",
       "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-07-05T12:57:44+00:00"
+    },
+    {
+      "title": "Khamenei’s three sons attend his funeral in Tehran – but not his successor",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/ayatollah-ali-khamenei-funeral-sons-iran-b3009229.html",
+      "published_date": "2026-07-05T12:55:16+00:00"
     },
     {
       "title": "‘US will be paying close attention to Nigeria’s 2027 election’ —Congressman",
@@ -102,13 +200,6 @@
       "published_date": "2026-07-05T11:37:25+00:00"
     },
     {
-      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
-      "published_date": "2026-07-05T11:05:36+00:00"
-    },
-    {
       "title": "Annie Walker: the profile and career of the new leader of Walmart in Chile",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -123,16 +214,9 @@
       "published_date": "2026-07-05T10:57:31+00:00"
     },
     {
-      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
-      "published_date": "2026-07-05T10:40:23+00:00"
-    },
-    {
       "title": "Iran’s new Supreme Leader Mojtaba Khamenei holds ‘positive’ view of China, ambassador says",
       "source": "South China Morning Post",
-      "country": "Iran",
+      "country": "China",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3359478/irans-new-supreme-leader-mojtaba-khamenei-holds-positive-view-china-ambassador-says?utm_source=rss_feed",
       "published_date": "2026-07-05T10:31:38+00:00"
     },
@@ -163,6 +247,13 @@
       "country": "Iran",
       "url": "https://www.japantimes.co.jp/news/2026/07/05/world/prayers-iran-khamenei-funeral-ceremonies/",
       "published_date": "2026-07-05T08:37:00+00:00"
+    },
+    {
+      "title": "How Iran's new regime is very different to what came before",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-05T05:40:07+00:00"
     },
     {
       "title": "Ayatollah Ali Khamenei Funeral Updates | Successor Mojtaba still absent, slain leader’s three sons lead funeral prayers",
@@ -2991,258 +3082,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-como-consultar-las-actas-e-14-tras-el-cierre-de-votaciones-de-la-segunda-vuelta-3565951",
       "published_date": "2026-06-21T23:59:18+00:00"
-    },
-    {
-      "title": "Bernie Moreno, US senator, spoke after elections in Colombia and said that he finished speaking with Abelardo de la Espriella: 'New chapter'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bernie-moreno-senador-de-ee-uu-se-pronuncio-tras-elecciones-en-colombia-y-dijo-que-acabo-de-hablar-con-abelardo-de-la-espriella-nuevo-capitulo-3565957",
-      "published_date": "2026-06-21T23:56:54+00:00"
-    },
-    {
-      "title": "This is how the international press records the victory of Abelardo de la Espriella in the pre-count of the presidential elections in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-registra-la-prensa-internacional-la-victoria-de-abelardo-de-la-espriella-en-el-preconteo-de-las-elecciones-presidenciales-en-colombia-3565940",
-      "published_date": "2026-06-21T23:54:52+00:00"
-    },
-    {
-      "title": "Javier Milei celebrated the victory of De la Espriella in the Colombian elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-festejo-el-triunfo-de-de-la-espriella-en-las-elecciones-de-colombia-nid21062026/",
-      "published_date": "2026-06-21T23:51:07+00:00"
-    },
-    {
-      "title": "Dirceu says that Jaques Wagner does not threaten Lula's election and that his removal is a matter of private matters",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/jose-dirceu-e-o-entrevistado-do-programa-frente-a-frente-desta-segunda-feira.shtml",
-      "published_date": "2026-06-21T23:28:00+00:00"
-    },
-    {
-      "title": "Colombia live: Abelardo de la Espriella, candidate of the hard right, wins the presidential election",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260621-presidentielle-colombienne-en-direct-un-duel-entre-ivan-cepeda-et-abelardo-de-la-espriella-deuxieme-tour",
-      "published_date": "2026-06-21T23:09:03+00:00"
-    },
-    {
-      "title": "Colombia: Abelardo de la Espriella, ultra-right candidate supported by Donald Trump, elected president",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-abelardo-de-la-espriella-candidat-de-l-utradroite-soutenu-par-donald-trump-elu-president_6706155_3210.html",
-      "published_date": "2026-06-21T23:04:12+00:00"
-    },
-    {
-      "title": "Petro denounces alleged irregularities in the Colombian elections: \"It is still not possible to know who the president is\"",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/petro-denuncia-presuntas-irregularidades-en-las-elecciones-de-colombia/",
-      "published_date": "2026-06-21T23:03:58+00:00"
-    },
-    {
-      "title": "Petro denounces “many irregularities” in elections that De la Espriella wins",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/petro-denuncia-muchas-irregularidades-en-elecciones-que-gana-de-la-espriella/",
-      "published_date": "2026-06-21T23:01:06+00:00"
-    },
-    {
-      "title": "Petro denounces irregularities in Colombia's tight presidential election and calls to wait for definitive scrutiny",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/petro-denuncia-irregularidades-en-ajustada-eleccion-presidencial-de-colombia-y-llama-a-esperar-escrutinio-definitivo/",
-      "published_date": "2026-06-21T22:41:14+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella won the Colombian presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/abelardo-de-la-espriella-es-el-nuevo-presidente-de-colombia/",
-      "published_date": "2026-06-21T22:27:08+00:00"
-    },
-    {
-      "title": "Abelardo De la Espriella wins the Presidency of Colombia in close elections",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-gana-la-presidencia-de-colombia-en-renidas-elecciones/",
-      "published_date": "2026-06-21T22:25:57+00:00"
-    },
-    {
-      "title": "Starmer expected to set out resignation timetable within days",
-      "source": "Japan Times",
-      "country": "United Kingdom",
-      "url": "https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/",
-      "published_date": "2026-06-21T22:12:00+00:00"
-    },
-    {
-      "title": "Presidential runoff: Colombia bets on change in a close election",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/balotaje-presidencial-colombia-elige-entre-dos-modelos-politicos-opuestos-en-una-renida-eleccion-nid21062026/",
-      "published_date": "2026-06-21T21:43:56+00:00"
-    },
-    {
-      "title": "Colombia closed the polls and hopes to meet its new president quickly",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/abren-las-urnas-en-colombia-en-un-balotaje-cargado-de-tension-y-con-dos-modelos-opuestos-nid21062026/",
-      "published_date": "2026-06-21T21:39:57+00:00"
-    },
-    {
-      "title": "Colombians vote in a presidential runoff that pits an outsider against a progressive - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVJHUHV0QWpad1RsZ3czaHFKb1hOU1V4aW5oeGZlbkFfeVNIdHdVdmpqQmRQMUh0cHlFUXFzcnNHdjU1aXNqUFU5NV9lVHZJdVI3QS1aSjJ3LXY3aDlqTnJmeFcyVzZfWVE3a0VOU2VLcU16RzlzQ2hWcTYtWTdHRTM2ODhZby1Od3V4UGM3OXRHbC1XNlRBNGozTUowcFM4N0VYS3IxS3JiVDJNTEpyeHdicw?oc=5",
-      "published_date": "2026-06-21T20:53:00+00:00"
-    },
-    {
-      "title": "🔴 Live | Colombia Runoff: Cepeda acknowledges preliminary results but vows to challenge votes at 33,000 polling stations",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round",
-      "published_date": "2026-06-21T20:23:56+00:00"
-    },
-    {
-      "title": "Colombia: a historic presidential election?",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-colombie-un-scrutin-pr%C3%A9sidentiel-historique",
-      "published_date": "2026-06-21T20:21:47+00:00"
-    },
-    {
-      "title": "Keir Starmer prepares his resignation and would pave the way for Andy Burnham as the new leader of Great Britain",
-      "source": "La Nacion Argentina",
-      "country": "United Kingdom",
-      "url": "https://www.lanacion.com.ar/el-mundo/keir-starmer-prepara-su-renuncia-y-le-allanaria-el-camino-a-andy-burnham-como-nuevo-lider-de-gran-nid21062026/",
-      "published_date": "2026-06-21T19:58:30+00:00"
-    },
-    {
-      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
-      "published_date": "2026-06-21T19:58:00+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella wins Colombia election, continuing rightward trend in Latin America",
-      "source": "CBC News World",
-      "country": "Colombia",
-      "url": "https://www.cbc.ca/news/world/colombia-presidential-race-9.7243896?cmp=rss",
-      "published_date": "2026-06-21T19:54:20+00:00"
-    },
-    {
-      "title": "Colombians mocked the closure of the border with Venezuela to vote in the presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/colombianos-burlaron-el-cierre-de-la-frontera-con-venezuela-para-ir-a-votar-en-las-elecciones-presidenciales/",
-      "published_date": "2026-06-21T19:51:07+00:00"
-    },
-    {
-      "title": "How Colombia's growing and brutal internal conflict defines its presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/como-el-creciente-y-brutal-conflicto-interno-de-colombia-define-sus-elecciones-presidenciales/",
-      "published_date": "2026-06-21T19:13:00+00:00"
-    },
-    {
-      "title": "OAS willing to support new elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/oea-dispuesta-a-apoyar-nuevas-elecciones-en-venezuela/",
-      "published_date": "2026-06-21T18:43:34+00:00"
-    },
-    {
-      "title": "Keir Starmer, facing rumors of resignation in the United Kingdom, increases consultations",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html",
-      "published_date": "2026-06-21T17:54:06+00:00"
-    },
-    {
-      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
-      "published_date": "2026-06-21T16:37:49+00:00"
-    },
-    {
-      "title": "Left versus right: What to know about Colombia’s highly polarised presidential election",
-      "source": "Indian Express",
-      "country": "Colombia",
-      "url": "https://indianexpress.com/article/explained/explained-global/colombia-presidential-election-runoff-cepeda-vs-de-la-espriella-10750770/",
-      "published_date": "2026-06-21T16:19:48+00:00"
-    },
-    {
-      "title": "Relive Spain's landslide victory over Saudi Arabia",
-      "source": "La Tercera Chile",
-      "country": "Saudi Arabia",
-      "url": "https://www.latercera.com/el-deportivo/noticia/en-vivo-la-seleccion-espanola-de-lamine-yamal-quiere-dejar-atras-su-irregular-estreno-contra-arabia-saudita/",
-      "published_date": "2026-06-21T15:45:22+00:00"
-    },
-    {
-      "title": "Economist José Manuel Puente urged Trump to prioritize calling elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/economista-jose-manuel-puente-insto-a-trump-a-priorizar-la-convocatoria-de-elecciones-en-venezuela/",
-      "published_date": "2026-06-21T15:05:30+00:00"
-    },
-    {
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "published_date": "2026-06-21T14:44:36+00:00"
-    },
-    {
-      "title": "Starmer reflecting on 'political realities' amid reports of imminent resignation",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/21/starmer-reflecting-on-political-realities-amid-reports-of-imminent-resignation",
-      "published_date": "2026-06-21T14:09:34+00:00"
-    },
-    {
-      "title": "Trump-backed de la Espriella or leftist Cepeda? Colombians elect a new president",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/trump-backed-de-la-espriella-or-leftist-cepeda-colombians-elect-a-new-president",
-      "published_date": "2026-06-21T13:27:36+00:00"
-    },
-    {
-      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-06-21T13:24:00+00:00"
-    },
-    {
-      "title": "Sybiha urges Polish politicians not to build election campaigns around 'Ukrainian issue'",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4136119-sybiha-urges-polish-politicians-not-to-build-election-campaigns-around-ukrainian-issue.html",
-      "published_date": "2026-06-21T12:55:00+00:00"
-    },
-    {
-      "title": "Result of presidential elections in the second round Colombia 2026: the installation of the polls begins, which open from 8 in the morning",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultado-elecciones-presidenciales-en-segunda-vuelta-colombia-2026-desde-las-8-de-la-manana-se-abren-urnas-siga-la-jornada-de-votacion-3565831",
-      "published_date": "2026-06-21T12:48:40+00:00"
-    },
-    {
-      "title": "Presidential elections in Colombia: check the voting locations enabled in Chile this Sunday, June 21",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/servicios/noticia/elecciones-presidenciales-en-colombia-revisa-los-locales-de-votacion-habilitados-en-chile-este-domingo-21-de-junio/",
-      "published_date": "2026-06-21T12:31:50+00:00"
-    },
-    {
-      "title": "Colombians in Madrid went to the polls to elect their new president in the second round",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/colombianos-en-madrid-acudieron-a-las-urnas-para-elegir-a-su-nuevo-presidente-en-segunda-vuelta/",
-      "published_date": "2026-06-21T12:21:23+00:00"
     }
   ]
 }
