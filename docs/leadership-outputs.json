@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-07T00:07:13.839372+00:00",
-    "story_count": 386,
+    "last_updated": "2026-07-07T13:24:26.963331+00:00",
+    "story_count": 378,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "'Decision time' for far right National Rally as ruling clears Le Pen's way for election run",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/decision-time-for-far-right-national-rally-as-ruling-clears-le-pen-s-way-for-election-run",
+      "published_date": "2026-07-07T13:13:54+00:00"
+    },
+    {
+      "title": "Can Marine Le Pen run in France’s 2027 presidential election? Court says yes, but with an ankle bracelet",
+      "source": "Indian Express",
+      "country": "France",
+      "url": "https://indianexpress.com/article/explained/explained-global/marine-le-pen-france-2027-election-10775901/",
+      "published_date": "2026-07-07T13:11:15+00:00"
+    },
+    {
+      "title": "Le Pen now 'has a choice' to run in the election or not",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/le-pen-now-has-a-choice-to-run-in-the-election-or-not",
+      "published_date": "2026-07-07T13:07:14+00:00"
+    },
+    {
+      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "source": "The Guardian World",
+      "country": "France",
+      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
+      "published_date": "2026-07-07T13:01:21+00:00"
+    },
+    {
+      "title": "Reviving the lost Patna Kalam: How Bihar is bringing back the art that captured everyday India",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/society/patna-kalam-revival-india-bihar-forgotten-art/article70711121.ece",
+      "published_date": "2026-07-07T13:01:17+00:00"
+    },
+    {
+      "title": "Javier Milei and his measures, live: how much June inflation is projected and the progress of the electoral reform",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-en-cuanto-se-proyecta-la-inflacion-de-junio-y-los-avances-de-la-nid07072026/",
+      "published_date": "2026-07-07T13:01:15+00:00"
+    },
+    {
+      "title": "Marine Le Pen could run in French presidential election next year, court rules",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/marine-le-pen-france-election-ban-b3010235.html",
+      "published_date": "2026-07-07T12:42:10+00:00"
+    },
+    {
+      "title": "Germán Ávila, in charge of the connection by the Petro Government, spoke after the suspension order of the elected president Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/german-avila-encargado-del-empalme-por-parte-del-gobierno-petro-se-pronuncio-tras-orden-de-suspension-del-presidente-electo-abelardo-de-la-espriella-3569546",
+      "published_date": "2026-07-07T12:39:25+00:00"
+    },
+    {
+      "title": "Appeal ruling: Le Pen is allowed to run in presidential elections – with an ankle bracelet",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/le-pen-schuldig-darf-2027-aber-bei-praesidentenwahlen-antreten-201003486.html",
+      "published_date": "2026-07-07T12:30:13+00:00"
+    },
+    {
+      "title": "President-elect of Colombia orders to stop the transition process with the “corrupt government” of Gustavo Petro",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/presidente-electo-de-colombia-ordena-detener-el-proceso-de-transicion-con-el-gobierno-corrupto-de-gustavo-petro/",
+      "published_date": "2026-07-07T12:13:55+00:00"
+    },
+    {
+      "title": "🔴 Live: Marine Le Pen convicted on appeal, but may still stand in the 2027 presidential election",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260707-live-french-far-right-leader-marine-le-pen-faces-key-ruling-in-race-for-president",
+      "published_date": "2026-07-07T12:02:14+00:00"
+    },
+    {
+      "title": "Government of the elected president Abelardo de la Espriella: the suspension of the process with the Government of Gustavo Petro is ordered",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-martes-se-instalaran-las-comisiones-de-empalme-sectoriales-3569532",
+      "published_date": "2026-07-07T11:41:20+00:00"
+    },
+    {
+      "title": "Far-right French leader Le Pen able to run in next presidential election after court ruling",
+      "source": "Sky News World",
+      "country": "France",
+      "url": "https://news.sky.com/story/far-right-french-leader-le-pen-able-to-run-in-next-presidential-election-after-court-ruling-13561256",
+      "published_date": "2026-07-07T10:57:00+00:00"
+    },
+    {
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "published_date": "2026-07-07T10:38:03+00:00"
+    },
+    {
+      "title": "Myanmar junta expands crackdown to Aung San statues in bid to erase opposition symbols",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-expands-crackdown-to-aung-san-statues-in-bid-to-erase-opposition-symbols/",
+      "published_date": "2026-07-07T06:26:34+00:00"
+    },
+    {
+      "title": "Petro insists on electoral fraud and assures that Iván Cepeda won the runoff in Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/petro-insiste-en-fraude-electoral-y-asegura-que-ivan-cepeda-gano-el-balotaje-en-colombia/",
+      "published_date": "2026-07-07T04:26:52+00:00"
+    },
+    {
+      "title": "Political parties and other sectors question new attempt by President Gustavo Petro to discredit the election of Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/partidos-politicos-y-otros-sectores-cuestionan-nuevo-intento-del-presidente-gustavo-petro-por-desacreditar-eleccion-de-abelardo-de-la-espriella-3569439",
+      "published_date": "2026-07-07T02:22:49+00:00"
+    },
     {
       "title": "Javier Milei and his measures, live: the plan to pay the debt until 2027 and the electoral reform",
       "source": "La Nacion Argentina",
@@ -72,13 +191,6 @@
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/07/petro-rechaza-la-legitimidad-del-gobierno-de-de-la-espriella-e-insiste-en-fraude-electoral/",
       "published_date": "2026-07-06T21:37:18+00:00"
-    },
-    {
-      "title": "Political parties and other sectors question new attempt by President Gustavo Petro to discredit the election of Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/partidos-politicos-y-otros-sectores-cuestionan-nuevo-intento-del-presidente-gustavo-petro-por-desacreditar-eleccion-de-abelardo-de-la-espriella-3569439",
-      "published_date": "2026-07-06T21:28:40+00:00"
     },
     {
       "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
@@ -205,6 +317,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-reitera-llamado-a-desobediencia-civil-y-vuelve-a-desconocer-triunfo-electoral-de-abelardo-de-la-espriella-3569280",
       "published_date": "2026-07-06T12:20:10+00:00"
+    },
+    {
+      "title": "Thousands on streets in Iranian capital for former supreme leader’s funeral procession - BBC",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RVAxWUxjUlB2Rnh4N1lBODJ4cWotQ09fRmhSZEd6Mjd2SFBSQU5BWjZPX09FZlloSUdRZmJwUUNkRDV2dTJpeGhZWUk1MG9FMkhJOA?oc=5",
+      "published_date": "2026-07-06T11:24:36+00:00"
     },
     {
       "title": "Armenian PM Makes First Trip to Russia Since Re-Election, Food Import Ban",
@@ -2585,181 +2704,6 @@
       "country": "United Kingdom",
       "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
       "published_date": "2026-06-23T13:17:51+00:00"
-    },
-    {
-      "title": "South Ossetian Leader Steps Down to Become Putin Adviser",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/06/23/south-ossetian-leader-steps-down-to-become-putin-adviser-a93077",
-      "published_date": "2026-06-23T12:56:31+00:00"
-    },
-    {
-      "title": "10 years after Brexit, Starmer’s resignation highlights Britain’s deeper issues - NBC News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMF84RFVxaUo3cGVLVDdPWDJNWHhTZjh4M2JNWklidjlmOXp1Y2IyQkkxLTJnT0pPVzhaSTFsRmJ4Q25PYjNRdk9wT0M0ZjdibHFCSzFpS0NGSFVmNjFDYmpfVWZWenBfZUI2ZjhTY3I0blVBQ3ZON092X1lmUXRiaUlpNzlweGJDcEcwMHcxZDRxMElzb0V0ZzFCelkzY2s5NEpFbHNONUh3MVVoN0c5bHh3NjFfNGZF?oc=5",
-      "published_date": "2026-06-23T11:27:04+00:00"
-    },
-    {
-      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
-      "published_date": "2026-06-23T11:16:27+00:00"
-    },
-    {
-      "title": "4 big changes in the United Kingdom 10 years after the referendum on its departure from the European Union (and how possible its return to the bloc is now)",
-      "source": "El Nacional Venezuela",
-      "country": "United Kingdom",
-      "url": "https://www.elnacional.com/2026/06/4-grandes-cambios-en-reino-unido-10-anos-despues-del-referendo-sobre-su-salida-de-la-union-europea-y-que-tan-posible-es-ahora-su-regreso-al-bloque/",
-      "published_date": "2026-06-23T10:39:19+00:00"
-    },
-    {
-      "title": "BJP’s lone Christian minister resigns: Who is George Kurian?",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/bjp-christian-minister-george-kurian-10753436/",
-      "published_date": "2026-06-23T10:33:12+00:00"
-    },
-    {
-      "title": "Trump anticipates better relationship with Colombia under new leader",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T10:27:04+00:00"
-    },
-    {
-      "title": "Protests erupt in Colombia as far-right set to win presidential election",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/protests-erupt-in-colombia-as-far-right-set-to-win-presidential-election",
-      "published_date": "2026-06-23T10:03:42+00:00"
-    },
-    {
-      "title": "Rick Scott: “We must set a date for the elections in Venezuela and it must be soon”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/rick-scott-entrevista-elecciones-venezuela-sanciones-delcy-rodriguez/",
-      "published_date": "2026-06-23T10:00:00+00:00"
-    },
-    {
-      "title": "EXCLUSIVE: 30 witnesses to testify against suspected Nigerian coup plotters (FULL LIST)",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/889960-exclusive-30-witnesses-to-testify-against-suspected-nigerian-coup-plotters-full-list.html",
-      "published_date": "2026-06-23T09:58:45+00:00"
-    },
-    {
-      "title": "UK facing 'pivotal moment' as it prepares for 7th PM since Brexit vote",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/uk-facing-pivotal-moment-as-it-prepares-for-7th-pm-since-brexit-vote",
-      "published_date": "2026-06-23T09:50:03+00:00"
-    },
-    {
-      "title": "United Kingdom: Andy Burnham at the threshold of Downing Street after the resignation of Keir Starmer",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260623-royaume-uni-andy-burnham-au-seuil-de-downing-street-apr%C3%A8s-la-d%C3%A9mission-de-keir-starmer",
-      "published_date": "2026-06-23T09:45:51+00:00"
-    },
-    {
-      "title": "Defection awaiting Lok Sabha Speaker's nod, NDA's number boost on hold: Latest in Sena-UBT rebellion",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/defection-awaiting-lok-sabha-speaker-nod-nda-number-boost-on-hold-latest-sena-ubt-rebellion-uddhav-thackery-101782201963785.html",
-      "published_date": "2026-06-23T09:40:55+00:00"
-    },
-    {
-      "title": "Myanmar junta holds talks with Wa, Mongla leaders amid broader push for ceasefires",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-holds-talks-with-wa-mongla-leaders-amid-broader-push-for-ceasefires/",
-      "published_date": "2026-06-23T09:40:38+00:00"
-    },
-    {
-      "title": "Trump renews his criticism of Starmer after his resignation and charges against his policies on “energy and immigration”",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/trump-renueva-sus-criticas-a-starmer-tras-su-dimision-y-carga-contra-sus-politicas-en-energia-e-inmigracion/",
-      "published_date": "2026-06-23T09:37:59+00:00"
-    },
-    {
-      "title": "Home of opposition Armenia Alliance MP searched amidst post-election recriminations",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/home-of-opposition-armenia-alliance-mp-searched-amidst-post-election-recriminations/",
-      "published_date": "2026-06-23T09:35:30+00:00"
-    },
-    {
-      "title": "Expert Explains | Ten years after referendum, how Brexit has reshaped UK’s economy and politics",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/explained/explained-global/expert-explains-ten-years-after-referendum-how-brexit-has-reshaped-uks-economy-and-politics-10753368/",
-      "published_date": "2026-06-23T09:14:15+00:00"
-    },
-    {
-      "title": "Labour MPs mull leadership challenge after Starmer resigns",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/23/labour-mps-mull-leadership-challenge-after-starmer-resigns",
-      "published_date": "2026-06-23T09:08:06+00:00"
-    },
-    {
-      "title": "Europe Today: Starmer's resignation, Brexit and the Poland-Ukraine row",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/06/23/europe-today-starmers-resignation-brexit-and-the-poland-ukraine-row",
-      "published_date": "2026-06-23T06:01:14+00:00"
-    },
-    {
-      "title": "Peruvian candidate Roberto Sánchez requests the annulment of the presidential elections abroad",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/candidato-peruano-roberto-sanchez-pide-la-nulidad-de-las-elecciones-presidenciales-en-el-extranjero/",
-      "published_date": "2026-06-23T05:33:25+00:00"
-    },
-    {
-      "title": "Taiwan KMT opposition leader falls short on U.S. trip",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/commentary/2026/06/23/world/taiwan-opposition-leader-us-trip/",
-      "published_date": "2026-06-23T05:03:00+00:00"
-    },
-    {
-      "title": "Andy Burnham, 'King of the North', sworn in as MP hours after Starmer's exit; could become next UK PM as early as July",
-      "source": "Hindustan Times",
-      "country": "United Kingdom",
-      "url": "https://www.hindustantimes.com/india-news/andy-burnham-king-of-the-north-sworn-in-as-mp-hours-after-starmers-exit-could-become-next-uk-pm-as-early-as-july-101782188624688.html",
-      "published_date": "2026-06-23T04:39:26+00:00"
-    },
-    {
-      "title": "Minister George Kurian resigns as BJP overlooks him for Rajya Sabha term",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/minister-george-kurian-resigns-as-bjp-skips-him-for-rajya-sabha-term-10752863/",
-      "published_date": "2026-06-23T04:28:46+00:00"
-    },
-    {
-      "title": "Who is George Kurian? BJP leader steps down as Union minister, President accepts resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/who-is-george-kurian-resigns-bjp-union-minister-of-state-for-minority-affairs-rajya-sabha-101782186805359.html",
-      "published_date": "2026-06-23T04:11:18+00:00"
-    },
-    {
-      "title": "UK remembers 10 years of Brexit amid prime minister's resignation",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/reino-unido-recuerda-10-anos-del-brexit-en-medio-de-renuncia-del-primer-ministro/",
-      "published_date": "2026-06-23T00:35:04+00:00"
-    },
-    {
-      "title": "Presidency blasts Obi over call for Tinubu’s resignation",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/presidency-blasts-obi-over-call-for-tinubus-resignation/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-23T00:20:38+00:00"
     }
   ]
 }
