@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-06T14:27:27.776825+00:00",
-    "story_count": 409,
+    "last_updated": "2026-07-07T00:07:13.839372+00:00",
+    "story_count": 386,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei and his measures, live: the plan to pay the debt until 2027 and the electoral reform",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
+      "published_date": "2026-07-06T23:54:29+00:00"
+    },
+    {
+      "title": "Petro rejects the legitimacy of the De la Espriella government and insists on electoral fraud",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/07/petro-rechaza-la-legitimidad-del-gobierno-de-de-la-espriella-e-insiste-en-fraude-electoral/",
+      "published_date": "2026-07-06T21:37:18+00:00"
+    },
+    {
+      "title": "Political parties and other sectors question new attempt by President Gustavo Petro to discredit the election of Abelardo de la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/partidos-politicos-y-otros-sectores-cuestionan-nuevo-intento-del-presidente-gustavo-petro-por-desacreditar-eleccion-de-abelardo-de-la-espriella-3569439",
+      "published_date": "2026-07-06T21:28:40+00:00"
+    },
+    {
+      "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss",
+      "published_date": "2026-07-06T19:56:09+00:00"
+    },
+    {
+      "title": "Body of Iran's slain supreme leader arrives in Qom",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/body-irans-slain-supreme-leader-arrives-qom",
+      "published_date": "2026-07-06T18:46:08+00:00"
+    },
+    {
+      "title": "In Israel, the legal coup of the Netanyahu government: “The final nail in the coffin of democracy”",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/07/06/en-israel-le-coup-d-etat-juridique-du-gouvernement-netanyahou-face-a-la-justice_6721237_3210.html",
+      "published_date": "2026-07-06T17:25:29+00:00"
+    },
+    {
+      "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
+      "published_date": "2026-07-06T17:25:12+00:00"
+    },
+    {
+      "title": "Right-wing shoots itself in the foot by focusing on impeachment of the STF, people want an end to the 6x1, says Lula's new leader in the Senate",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/direita-da-tiro-no-pe-ao-focar-impeachment-do-stf-povao-quer-fim-da-6x1-diz-nova-lider-de-lula-no-senado.shtml",
+      "published_date": "2026-07-06T16:00:00+00:00"
+    },
+    {
+      "title": "Middle East crisis: Funeral procession for supreme leader Ali Khamenei begins in Iran – as it happened",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+      "published_date": "2026-07-06T15:58:04+00:00"
+    },
+    {
+      "title": "'His resilience, his words, his character': Mourners grieve late supreme leader Khamenei",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/asia-pacific/20260706-his-resilience-his-words-his-character-mourners-grieve-late-supreme-leader-khamenei",
+      "published_date": "2026-07-06T14:51:31+00:00"
+    },
     {
       "title": "Special counsel accuses NIS of actively cooperating in ex-President Yoon's martial law bid",
       "source": "Korea Times",
@@ -88,25 +158,11 @@
       "published_date": "2026-07-06T14:02:34+00:00"
     },
     {
-      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
-      "published_date": "2026-07-06T13:57:35+00:00"
-    },
-    {
       "title": "South Caucasus officials attend Tehran funeral of Iranian Supreme Leader Khamenei",
       "source": "OC Media Caucasus",
       "country": "Iran",
       "url": "https://oc-media.org/south-caucasus-officials-attend-tehran-funeral-of-iranian-supreme-leader-khamenei/",
       "published_date": "2026-07-06T13:56:38+00:00"
-    },
-    {
-      "title": "Javier Milei and his measures, live: the plan to pay the debt until 2027 and the electoral reform",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
-      "published_date": "2026-07-06T13:54:00+00:00"
     },
     {
       "title": "Does the French right have a chance of defeating the far right in the election?",
@@ -155,7 +211,7 @@
       "source": "Moscow Times",
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/07/06/armenian-pm-makes-first-trip-to-russia-since-re-election-food-import-ban-a93174",
-      "published_date": "2026-07-06T11:13:30+00:00"
+      "published_date": "2026-07-06T11:13:00+00:00"
     },
     {
       "title": "Resign or shelve re-election bid over insecurity, Peter Obi tells Tinubu",
@@ -221,18 +277,11 @@
       "published_date": "2026-07-06T07:43:37+00:00"
     },
     {
-      "title": "Hamas official resigns in first step to dissolve Gaza governing body, hand authority to NCAG",
+      "title": "Hamas official resigns in first step to dissolve Gaza gov't, source tells 'Post' it is insufficient",
       "source": "Jerusalem Post",
       "country": "Palestine",
       "url": "https://www.jpost.com/middle-east/article-901534",
       "published_date": "2026-07-06T07:36:53+00:00"
-    },
-    {
-      "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
-      "published_date": "2026-07-06T07:28:58+00:00"
     },
     {
       "title": "India news LIVE updates, 6 July 2026: Ram Temple trust accepts chief Champat Rai’s resignation at key meeting",
@@ -2711,216 +2760,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/presidency-blasts-obi-over-call-for-tinubus-resignation/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-23T00:20:38+00:00"
-    },
-    {
-      "title": "President Kast congratulates Abelardo de la Espriella for his victory in the Colombian elections",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-felicita-a-abelardo-de-la-espriella-por-su-triunfo-en-elecciones-de-colombia/",
-      "published_date": "2026-06-22T23:54:28+00:00"
-    },
-    {
-      "title": "Javier Milei and his measures, live: the President's trip to Spain and the repercussions of the election in Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-viaje-del-presidente-a-espana-y-las-repercusiones-de-la-nid22062026/",
-      "published_date": "2026-06-22T23:52:51+00:00"
-    },
-    {
-      "title": "Keir Starmer announces resignation as prime minister and Labour Party leader - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MlJmX1Y5WFpoWUlIZ2IyeGNBZnA0dWVqbTVLYkQ3alpsakJHbDZsdEtQTFlTcHZOZ2I1NFZMeXR4UXhQMjdFYVNWWFVUMERKbTJiLVk3SG1wZw?oc=5",
-      "published_date": "2026-06-22T22:26:12+00:00"
-    },
-    {
-      "title": "An international analyst explained in detail the impact of the resignation of Keir Starmer, Prime Minister of the United Kingdom",
-      "source": "La Nacion Argentina",
-      "country": "United Kingdom",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-el-impacto-de-la-renuncia-de-keir-starmer-primer-nid22062026/",
-      "published_date": "2026-06-22T22:13:14+00:00"
-    },
-    {
-      "title": "Starmer Resigns as Burnham Eyes Top Job",
-      "source": "Foreign Policy",
-      "country": "United Kingdom",
-      "url": "https://foreignpolicy.com/2026/06/22/keir-starmer-uk-prime-minister-resignation-andy-burnham-labour/",
-      "published_date": "2026-06-22T22:13:02+00:00"
-    },
-    {
-      "title": "Trump criticises Keir Starmer after resignation announcement",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/06/trump-criticises-keir-starmer-after-resignation-announcement/",
-      "published_date": "2026-06-22T21:35:25+00:00"
-    },
-    {
-      "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
-      "published_date": "2026-06-22T20:47:55+00:00"
-    },
-    {
-      "title": "Why has Keir Starmer resigned as UK prime minister?",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister?traffic_source=rss",
-      "published_date": "2026-06-22T20:31:12+00:00"
-    },
-    {
-      "title": "Peter Obi’s call for Tinubu’s resignation childish, hollow – Presidency",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/06/peter-obis-call-for-tinubus-resignation-childish-hollow-presidency/",
-      "published_date": "2026-06-22T19:25:08+00:00"
-    },
-    {
-      "title": "China signals openness to Colombia’s Trump-backed president-elect despite US tilt",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/us/article/3357972/china-signals-openness-colombias-trump-backed-president-elect-despite-us-tilt?utm_source=rss_feed",
-      "published_date": "2026-06-22T18:52:29+00:00"
-    },
-    {
-      "title": "Election in Colombia: The Triumph of the Tiger",
-      "source": "FAZ Germany",
-      "country": "Colombia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/abelardo-de-la-espriella-kolumbiens-neuer-praesident-triumphiert-200953955.html",
-      "published_date": "2026-06-22T18:25:13+00:00"
-    },
-    {
-      "title": "Human-rights museum trustee resigns, cites ‘one-sided’ Palestinian exhibit",
-      "source": "Globe and Mail Politics",
-      "country": "Palestine",
-      "url": "https://www.theglobeandmail.com/politics/article-human-rights-museum-trustee-resigns-cites-one-sided-palestinian/",
-      "published_date": "2026-06-22T18:04:19+00:00"
-    },
-    {
-      "title": "UK PM Starmer announces resignation amid mounting pressure, says will give successor 'full, unequivocal support'",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2009971/uk-pm-starmer-announces-resignation-amid-mounting-pressure-says-will-give-successor-full-unequivocal-support",
-      "published_date": "2026-06-22T17:11:24+00:00"
-    },
-    {
-      "title": "In the United Kingdom, after the resignation of Keir Starmer, Andy Burnham could be appointed as early as mid-July",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/06/22/au-royaume-uni-apres-la-demission-de-keir-starmer-andy-burnham-pourrait-etre-nomme-des-la-mi-juillet_6708095_3210.html",
-      "published_date": "2026-06-22T17:07:27+00:00"
-    },
-    {
-      "title": "Colombia: Ivan Cepeda, defeated in the presidential election against the ultra-right candidate Abelardo de la Espriella, launches an appeal for calm in the aftermath of violence",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-ivan-cepeda-defait-a-la-presidentielle-face-au-candidat-d-ultradroite-abelardo-de-la-espriella-lance-un-appel-au-calme-au-lendemain-de-violences_6707561_3211.html",
-      "published_date": "2026-06-22T16:44:55+00:00"
-    },
-    {
-      "title": "Following UK’s Starmer’s exit, Peter Obi demands Tinubu’s resignation, cites governance failure",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/following-uks-starmers-exit-peter-obi-demands-tinubus-resignation-cites-governance-failure/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-22T16:33:35+00:00"
-    },
-    {
-      "title": "UK Labour leadership frontrunner Andy Burnham sworn in as MP",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/uk-labour-leadership-frontrunner-andy-burnham-sworn-in-as-mp/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-22T16:31:12+00:00"
-    },
-    {
-      "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
-      "published_date": "2026-06-22T16:29:48+00:00"
-    },
-    {
-      "title": "'Another day, another leader': Londoners react to Starmer's resignation",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/2026/06/22/another-day-another-leader-londoners-react-to-starmers-resignation",
-      "published_date": "2026-06-22T16:14:39+00:00"
-    },
-    {
-      "title": "UK's Burnham, frontrunner to replace Starmer, says too soon for talk of an election",
-      "source": "Jerusalem Post",
-      "country": "United Kingdom",
-      "url": "https://www.jpost.com/international/article-900154",
-      "published_date": "2026-06-22T16:02:40+00:00"
-    },
-    {
-      "title": "How is the opposition? The role that Iván Cepeda and Gustavo Petro would have after the presidential elections",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-queda-la-oposicion-el-papel-que-tendrian-ivan-cepeda-y-gustavo-petro-luego-de-las-elecciones-presidenciales-3566100",
-      "published_date": "2026-06-22T15:44:16+00:00"
-    },
-    {
-      "title": "United Kingdom without direction after the surprise resignation of Prime Minister Keir Starmer",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "United Kingdom",
-      "url": "https://efectococuyo.com/internacionales/reino-unido-sin-rumbo-tras-la-sorpresiva-renuncia-del-primer-ministro-keir-starmer/",
-      "published_date": "2026-06-22T15:34:53+00:00"
-    },
-    {
-      "title": "How De la Espriella made his fortune and the questioned businesses of the winner of the elections in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/como-hizo-su-fortuna-de-la-espriella-y-los-cuestionados-negocios-del-ganador-de-las-elecciones-en-colombia/",
-      "published_date": "2026-06-22T15:30:00+00:00"
-    },
-    {
-      "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
-      "published_date": "2026-06-22T15:28:29+00:00"
-    },
-    {
-      "title": "EU reviews plans for July summit with UK following Starmer's resignation",
-      "source": "Ukrinform",
-      "country": "United Kingdom",
-      "url": "https://www.ukrinform.net/rubric-polytics/4136448-eu-reviews-plans-for-july-summit-with-uk-following-starmers-resignation.html",
-      "published_date": "2026-06-22T14:59:00+00:00"
-    },
-    {
-      "title": "A look back at Starmer's two years in power following his resignation",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/a-look-back-at-starmer-s-two-years-in-power-following-his-resignation",
-      "published_date": "2026-06-22T14:52:25+00:00"
-    },
-    {
-      "title": "Starmer's resignation: Starmer's penultimate act",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/regierung-in-london-starmer-gibt-auf-burnham-steht-bereit-200954272.html",
-      "published_date": "2026-06-22T14:42:25+00:00"
-    },
-    {
-      "title": "Burnham confirms Starmer succession bid as he is sworn in as MP",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/burnham-confirms-starmer-succession-bid-as-he-is-sworn-in-as-mp",
-      "published_date": "2026-06-22T14:37:35+00:00"
-    },
-    {
-      "title": "De la Espriella president: the keys to the closest election in the history of Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/de-la-espriella-presidente-las-claves-de-la-eleccion-mas-ajustada-de-la-historia-de-colombia-nid22062026/",
-      "published_date": "2026-06-22T14:28:03+00:00"
-    },
-    {
-      "title": "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
-      "published_date": "2026-06-22T14:23:45+00:00"
     }
   ]
 }
