@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-07T23:55:50.204100+00:00",
-    "story_count": 390,
+    "last_updated": "2026-07-08T12:24:51.906526+00:00",
+    "story_count": 407,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "LIVE - Presidential Election 2027: Gabriel Attal accuses Marine Le Pen of leading a “judicial guerrilla”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-marine-le-pen-lance-sa-campagne-avec-jordan-bardella-dans-la-sarthe-ce-mercredi-20260708",
+      "published_date": "2026-07-08T12:15:02+00:00"
+    },
+    {
+      "title": "2027 presidential election: in La Flèche, Marine Le Pen’s thwarted entry into the campaign",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fleche-l-entree-en-campagne-contrariee-de-marine-le-pen-20260708",
+      "published_date": "2026-07-08T12:04:45+00:00"
+    },
+    {
+      "title": "Marine Le Pen’s troops believe that the decision of the Court of Cassation will “override the presidential election”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/les-troupes-de-marine-le-pen-estiment-que-la-decision-de-la-cour-de-cassation-va-enjamber-la-presidentielle-20260708",
+      "published_date": "2026-07-08T11:53:11+00:00"
+    },
+    {
+      "title": "Suspension of splicing makes noise to the transition of power between Gustavo Petro and Abelardo De la Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/suspension-de-empalme-mete-ruido-a-la-transicion-del-poder-entre-gustavo-petro-y-abelardo-de-la-espriella-3569756",
+      "published_date": "2026-07-08T11:10:00+00:00"
+    },
+    {
+      "title": "Presidential election: by appealing to the Court of Cassation, does Marine Le Pen become ineligible again?",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/actualite-france/election-presidentielle-en-se-pourvoyant-en-cassation-marine-le-pen-redevient-elle-ineligible-20260708",
+      "published_date": "2026-07-08T11:07:45+00:00"
+    },
+    {
+      "title": "Egyptian Culture Minister resigns over plagiarism case",
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "url": "https://www.egyptindependent.com/egyptian-culture-minister-resigns-over-plagiarism-case/",
+      "published_date": "2026-07-08T10:59:42+00:00"
+    },
+    {
+      "title": "UK Farage's election gamble could see him face one challenger — Count Binface - Reuters",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5",
+      "published_date": "2026-07-08T10:42:12+00:00"
+    },
+    {
+      "title": "Marine Le Pen: convicted, but candidate for the 2027 presidential election",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-marine-le-pen-condamn%C3%A9e-mais-candidate-%C3%A0-la-pr%C3%A9sidentielle-2027",
+      "published_date": "2026-07-08T10:41:48+00:00"
+    },
+    {
+      "title": "Tinubu’s reforms working, support his re-election — Tompolo",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/tinubus-reforms-working-support-his-re-election-tompolo/",
+      "published_date": "2026-07-08T10:16:13+00:00"
+    },
+    {
+      "title": "France: Marine Le Pen presidential candidate despite her conviction on appeal",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-france-marine-le-pen-candidate-%C3%A0-la-pr%C3%A9sidentielle-malgr%C3%A9-sa-condamnation-en-appel",
+      "published_date": "2026-07-08T09:19:02+00:00"
+    },
+    {
+      "title": "Myanmar junta forces, ethnic ally retake three KIA-held outposts near Indawgyi",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-forces-ethnic-ally-retake-three-kia-held-outposts-near-indawgyi/",
+      "published_date": "2026-07-08T09:16:52+00:00"
+    },
+    {
+      "title": "Fake videos exploit Germany's East-West divide before key elections",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/my-europe/2026/07/08/fake-videos-exploit-germanys-east-west-divide-before-key-elections",
+      "published_date": "2026-07-08T09:13:35+00:00"
+    },
+    {
+      "title": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss",
+      "published_date": "2026-07-08T08:27:43+00:00"
+    },
+    {
+      "title": "The UK public is not shy to call out genocide. Will the new prime minister join them?",
+      "source": "Middle East Eye",
+      "country": "United Kingdom",
+      "url": "https://www.middleeasteye.net/opinion/uk-public-not-shy-call-out-genocide-will-government-join-them",
+      "published_date": "2026-07-08T08:07:54+00:00"
+    },
+    {
+      "title": "Podcast discusses how and why Flávio Bolsonaro brings Trump's price to the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-discute-como-e-por-que-flavio-bolsonaro-traz-tarifaco-de-trump-para-a-eleicao.shtml",
+      "published_date": "2026-07-08T08:00:00+00:00"
+    },
+    {
+      "title": "Can Marine Le Pen really be a presidential candidate whatever the scenario, as she claims?",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/08/marine-le-pen-peut-elle-vraiment-etre-candidate-a-la-presidentielle-quel-que-soit-le-scenario-comme-elle-l-affirme_6721783_4355770.html",
+      "published_date": "2026-07-08T06:01:26+00:00"
+    },
+    {
+      "title": "Tinubu Inaugurates Presidential Working Group on National Policing Bill",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/893698-tinubu-inaugurates-presidential-working-group-on-national-policing-bill.html",
+      "published_date": "2026-07-08T04:13:24+00:00"
+    },
+    {
+      "title": "José Manuel Restrepo: 'The day Gustavo Petro's government recognizes Abelardo de la Espriella as president-elect we will sit down again'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
+      "published_date": "2026-07-08T03:01:00+00:00"
+    },
+    {
+      "title": "Le Pen’s French presidential bid dashes EU hopes for a Meloni-like successor - politico.eu",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0dTWTZlUjQ4dmY1ajZaUVZUREFaWElqamhRajY2dkwwOTY2YXo3ajNWaGstWW43ejVlWnc4TzZKQzBNNkVaWlU1WlFVWFE1UDZyeHpac01Yc3JaVTNMbU12bVJHbkFQMllOMWp6OV9yUm15QVZ0LXN6NzJMTkYtdjdkM1N2b1BfbGYxTzVKTlJWU3Q3TnE5d0oxaVlhZXNMbFVYTV9SYWFuTC1DZDBOTjNXYWFuZnVDaUEtSGw1Qld2eTU3RHI3aFNn?oc=5",
+      "published_date": "2026-07-08T03:00:00+00:00"
+    },
+    {
+      "title": "Lula pays record number of amendments before the election, but expects to increase criticism in the campaign",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-paga-recorde-de-emendas-antes-da-eleicao-mas-preve-ampliar-criticas-na-campanha.shtml",
+      "published_date": "2026-07-08T01:04:00+00:00"
+    },
     {
       "title": "Tinubu fixing economy, will win 2027 election – Kalu",
       "source": "The Punch Nigeria",
@@ -72,13 +212,6 @@
       "country": "Colombia",
       "url": "https://www.lanacion.com.ar/el-mundo/el-presidente-electo-de-colombia-suspende-la-transicion-con-el-gobierno-de-petro-por-gestar-un-golpe-nid07072026/",
       "published_date": "2026-07-07T23:28:51+00:00"
-    },
-    {
-      "title": "José Manuel Restrepo: 'The day Gustavo Petro's government recognizes Abelardo de la Espriella as president-elect we will sit down again'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
-      "published_date": "2026-07-07T22:20:12+00:00"
     },
     {
       "title": "Asocapitales rejects statements by President Gustavo Petro about the legitimacy of the elections and supports Abelardo de la Espriella: 'Serious'",
@@ -148,6 +281,13 @@
       "source": "FAZ Germany",
       "country": "France",
       "url": "https://www.faz.net/aktuell/politik/ausland/le-pen-tritt-trotz-schuldspruch-bei-der-praesidentenwahl-an-201007657.html",
+      "published_date": "2026-07-07T18:33:02+00:00"
+    },
+    {
+      "title": "After appeal ruling: Le Pen runs in the presidential election despite conviction",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-tritt-trotz-schuldspruch-bei-praesidentenwahl-an-201007657.html",
       "published_date": "2026-07-07T18:33:02+00:00"
     },
     {
@@ -2767,27 +2907,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/trump-compartilha-artigo-que-chama-eleicoes-brasileiras-de-grande-teste-na-america-latina.shtml",
       "published_date": "2026-06-24T12:32:00+00:00"
-    },
-    {
-      "title": "Petro commits to a political transition and his move to peaceful resistance",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/petro-se-compromete-con-una-transicion-politica-y-su-paso-a-la-resistencia-pacifica/",
-      "published_date": "2026-06-24T11:59:21+00:00"
-    },
-    {
-      "title": "‘Something could start as early as October’: Russian authorities are discussing a new wave of mobilization after the State Duma elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/06/24/something-could-start-as-early-as-october-russian-authorities-are-discussing-a-new-wave-of-mobilization-after-the-state-duma-elections",
-      "published_date": "2026-06-24T10:57:23+00:00"
-    },
-    {
-      "title": "Sent to die: Myanmar’s conscripts caught between a junta’s war and a nation’s collapse",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/sent-to-die-myanmars-conscripts-caught-between-a-juntas-war-and-a-nations-collapse/",
-      "published_date": "2026-06-24T07:48:49+00:00"
     }
   ]
 }
