@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-09T00:07:19.479561+00:00",
-    "story_count": 399,
+    "last_updated": "2026-07-09T13:52:13.420035+00:00",
+    "story_count": 386,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Khamenei burial will be family-only amid wait for first emergence of new supreme leader",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/khamenei-burial-will-be-family-only-amid-wait-for-first-emergence-of-new-supreme-leader/",
+      "published_date": "2026-07-09T12:02:03+00:00"
+    },
+    {
+      "title": "Hostile actors seeking to undermine Israeli elections, Herzog and Shin Bet chief warn",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-901986",
+      "published_date": "2026-07-09T11:41:11+00:00"
+    },
+    {
+      "title": "Khamenei successor has yet to be seen as late ruler's funeral comes to a close",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/khamenei-successor-has-yet-to-be-seen-as-ex-ayatollah-s-funeral-comes-to-a-close",
+      "published_date": "2026-07-09T11:34:35+00:00"
+    },
+    {
+      "title": "Myanmar junta says it has taken full control of key Sagaing trade route",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-taken-full-control-of-key-sagaing-trade-route/",
+      "published_date": "2026-07-09T11:34:11+00:00"
+    },
+    {
+      "title": "Farage's by-election in Clacton officially confirmed - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQlNidVdPVHhLSHlnQzhwSkpVX2czMVJPMkQ1c2lTN1Q1Q1NJekR0QmlzZEhvNm5PYVktZVg0MW9TMDRJMkxTTXU5QldNLWIweVlmREpPTXNQdw?oc=5",
+      "published_date": "2026-07-09T10:56:01+00:00"
+    },
+    {
+      "title": "Iran bury slain Supreme Leader as mourners chant ‘kill Trump’ slogans",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/trump-funeral-ayatollah-ali-khamenei-b3011766.html",
+      "published_date": "2026-07-09T09:31:03+00:00"
+    },
+    {
+      "title": "Intense clashes reported south of Myawaddy, as Myanmar junta launches new offensive",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/intense-clashes-reported-south-of-myawaddy-as-myanmar-junta-launches-new-offensive/",
+      "published_date": "2026-07-09T09:02:17+00:00"
+    },
+    {
+      "title": "Appeal by Marine Le Pen: “We will do everything” to rule before the first round of the presidential election, assures Rémy Heitz",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/condamnation-de-marine-le-pen-nous-ferons-tout-pour-statuer-avant-le-premier-tour-de-la-presidentielle-assure-remy-heitz-20260709",
+      "published_date": "2026-07-09T08:56:23+00:00"
+    },
+    {
+      "title": "Iran to bury former supreme leader Ali Khamenei in culmination of multi-day funeral",
+      "source": "CBC News World",
+      "country": "Iran",
+      "url": "https://www.cbc.ca/news/world/ayatollah-ali-khamenei-funeral-procession-burial-9.7263906?cmp=rss",
+      "published_date": "2026-07-09T08:42:02+00:00"
+    },
     {
       "title": "DemocraTIA Global Corporation supports legitimacy of the presidential elections in Colombia",
       "source": "El Tiempo Colombia",
@@ -95,7 +158,7 @@
       "published_date": "2026-07-08T19:26:11+00:00"
     },
     {
-      "title": "Serious institutional crisis in Colombia: elected president Abelardo de la Espriella denounces that Gustavo Petro plans a “coup d'état”",
+      "title": "Serious institutional crisis in Colombia: elected president Abelardo de la Espriella denounces that Petro plans a “coup d'état”",
       "source": "El Nacional Venezuela",
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-denuncia-golpe-estado-petro/",
@@ -2697,160 +2760,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900524",
       "published_date": "2026-06-25T14:37:26+00:00"
-    },
-    {
-      "title": "Special counsel again seeks death penalty for ex-President Yoon on insurrection charges",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260625/special-counsel-again-seeks-death-penalty-for-ex-president-yoon-on-insurrection-charges?utm_source=rss",
-      "published_date": "2026-06-25T13:12:03+00:00"
-    },
-    {
-      "title": "Live updates: At least 164 people dead after twin quakes in Venezuela, acting president says - CNN",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5",
-      "published_date": "2026-06-25T13:03:00+00:00"
-    },
-    {
-      "title": "Armenia arrests opposition figure for ‘inciting’ foreign officials to ensure opposition win",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-arrests-opposition-figure-for-inciting-foreign-officials-to-ensure-opposition-win/",
-      "published_date": "2026-06-25T12:32:15+00:00"
-    },
-    {
-      "title": "Lula congratulates Colombia after election with right-wing victory",
-      "source": "Agencia Brasil",
-      "country": "Colombia",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/lula-parabeniza-colombia-apos-eleicao-com-vitoria-da-direita",
-      "published_date": "2026-06-25T12:31:00+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: CNE made Abelardo de la Espriella official as president-elect: former candidates react to results",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-consejo-nacional-electoral-oficializo-a-abelardo-de-la-espriella-como-presidente-electo-del-pais-3566926",
-      "published_date": "2026-06-25T12:17:48+00:00"
-    },
-    {
-      "title": "Peru's Keiko Fujimori celebrates election win as opponent alleges fraud",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud",
-      "published_date": "2026-06-25T12:08:15+00:00"
-    },
-    {
-      "title": "Delcy Rodríguez declared a state of emergency after the two earthquakes that shook Venezuela",
-      "source": "La Nacion Argentina",
-      "country": "Venezuela",
-      "url": "https://www.lanacion.com.ar/el-mundo/delcy-rodriguez-declaro-el-estado-de-emergencia-tras-los-dos-terremotos-que-sacudieron-venezuela-nid24062026/",
-      "published_date": "2026-06-25T11:43:23+00:00"
-    },
-    {
-      "title": "Venezuela declares state of emergency after deadly twin earthquakes",
-      "source": "The Guardian World",
-      "country": "Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "published_date": "2026-06-25T11:40:44+00:00"
-    },
-    {
-      "title": "Ukrenergo clarifies reason for emergency power outages in Kyiv",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-economy/4137517-ukrenergo-clarifies-reason-for-emergency-power-outages-in-kyiv.html",
-      "published_date": "2026-06-25T10:10:00+00:00"
-    },
-    {
-      "title": "Cabinet reshuffle buzz gathers pace after Amit Shah meets President, BJP may assess performance",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/cabinet-reshuffle-buzz-gathers-pace-after-amit-shah-meets-president-bjp-may-assess-performance-101782381619560.html",
-      "published_date": "2026-06-25T10:07:49+00:00"
-    },
-    {
-      "title": "North Korean soldier crosses border into South Korea in suspected defection",
-      "source": "Sky News World",
-      "country": "South Korea",
-      "url": "https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-korea-in-suspected-defection-13557640",
-      "published_date": "2026-06-25T09:29:00+00:00"
-    },
-    {
-      "title": "PM congratulates President al-Sisi, Egyptians on June 30 revolution anniversary",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/pm-congratulates-president-al-sisi-egyptians-on-june-30-revolution-anniversary/",
-      "published_date": "2026-06-25T09:27:30+00:00"
-    },
-    {
-      "title": "Trump reaffirms his support for De la Espriella as president-elect of Colombia: “I didn't like Petro at all”",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/trump-reafirma-su-apoyo-a-de-la-espriella-como-presidente-electo-de-colombia-petro-no-me-gustaba-nada/",
-      "published_date": "2026-06-25T09:27:15+00:00"
-    },
-    {
-      "title": "State of emergency declared as two major earthquakes strike Venezuela",
-      "source": "France 24 English",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/en/video/20260625-state-of-emergency-declared-as-two-major-earthquakes-strike-venezuela",
-      "published_date": "2026-06-25T08:34:29+00:00"
-    },
-    {
-      "title": "Emergency power outages on left bank of Kyiv",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4137448-emergency-power-outages-on-left-bank-of-kyiv.html",
-      "published_date": "2026-06-25T08:20:00+00:00"
-    },
-    {
-      "title": "Uttar Pradesh BJP reshuffle: 64 office bearers named ahead of 2027 polls",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/lucknow/uttar-pradesh-bjp-reshuffle-ahead-2027-assembly-polls-10756631/",
-      "published_date": "2026-06-25T07:36:08+00:00"
-    },
-    {
-      "title": "Myanmar resistance forces destroy junta helicopter in Magway Region",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-resistance-forces-destroy-junta-helicopter-in-magway-region/",
-      "published_date": "2026-06-25T06:23:02+00:00"
-    },
-    {
-      "title": "France's largest startup campus Station F turns nine. Here's why it's nervous about the election",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/next/2026/06/25/frances-largest-startup-campus-station-f-turns-nine-heres-why-its-nervous-about-the-electi",
-      "published_date": "2026-06-25T05:00:35+00:00"
-    },
-    {
-      "title": "Donald Trump and the presidential elections in Brazil",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/06/donald-trump-e-as-eleicoes-presidenciais-no-brasil.shtml",
-      "published_date": "2026-06-25T03:24:00+00:00"
-    },
-    {
-      "title": "Delcy Rodriguez declares a state of emergency after two earthquakes in Venezuela",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/delcy-rodriguez-declara-estado-de-emergencia-tras-dos-terremotos-en-venezuela/",
-      "published_date": "2026-06-25T02:35:12+00:00"
-    },
-    {
-      "title": "They decree a state of emergency and close Maiquetía airport, after two earthquakes in Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/la-humanidad/decretan-estado-de-emergencia-y-cierran-aeropuerto-de-maiquetia/",
-      "published_date": "2026-06-25T02:24:31+00:00"
-    },
-    {
-      "title": "President-elect, Abelardo de la Espriella, sent a message of support to the Venezuelan people after the earthquake",
-      "source": "El Tiempo Colombia",
-      "country": "Venezuela",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-envio-un-mensaje-de-apoyo-al-pueblo-venezolano-tras-terremoto-3566887",
-      "published_date": "2026-06-25T02:08:07+00:00"
     }
   ]
 }
