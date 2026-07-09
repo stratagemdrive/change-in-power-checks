@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-08T12:24:51.906526+00:00",
-    "story_count": 407,
+    "last_updated": "2026-07-09T00:07:19.479561+00:00",
+    "story_count": 399,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "DemocraTIA Global Corporation supports legitimacy of the presidential elections in Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/corporacion-democratia-global-respalda-legitimidad-de-las-elecciones-presidenciales-en-colombia-3569996",
+      "published_date": "2026-07-08T21:31:35+00:00"
+    },
+    {
+      "title": "Russia’s lawmakers will collect their bonuses early this year, just before they face reelection",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/08/russia-s-lawmakers-will-collect-their-bonuses-early-this-year-just-before-they-face-reelection",
+      "published_date": "2026-07-08T20:48:08+00:00"
+    },
+    {
+      "title": "Unions and civil society marched in Caracas to demand elections and question the government's management after the earthquakes",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/sindicatos-y-sociedad-civil-marcharon-en-caracas-para-exigir-elecciones-y-cuestionar-la-gestion-del-gobierno-tras-los-terremotos/",
+      "published_date": "2026-07-08T20:26:53+00:00"
+    },
+    {
+      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "source": "Al Jazeera English",
+      "country": "France",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
+      "published_date": "2026-07-08T20:06:38+00:00"
+    },
+    {
+      "title": "Donation affair: Farage's very personal referendum",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-reform-uk-chef-will-sich-bestaetigen-lassen-201010243.html",
+      "published_date": "2026-07-08T19:26:11+00:00"
+    },
+    {
+      "title": "Serious institutional crisis in Colombia: elected president Abelardo de la Espriella denounces that Gustavo Petro plans a “coup d'état”",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-denuncia-golpe-estado-petro/",
+      "published_date": "2026-07-08T18:23:11+00:00"
+    },
+    {
+      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win",
+      "published_date": "2026-07-08T16:29:11+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Marine Le Pen in the campaign, day 1",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-pr%C3%A9sidentielle-2027-marine-le-pen-en-campagne-jour-1",
+      "published_date": "2026-07-08T16:18:29+00:00"
+    },
+    {
+      "title": "2027 presidential election: RN supporters validate Marine Le Pen's candidacy but fear a disrupted campaign",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-les-sympathisants-rn-valident-la-candidature-de-marine-le-pen-mais-redoutent-une-campagne-perturbee-20260708",
+      "published_date": "2026-07-08T14:27:44+00:00"
+    },
+    {
+      "title": "2027 presidential election: Marine Le Pen candidate",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260708-%C3%A9lection-pr%C3%A9sidentielle-2027-marine-le-pen-candidate",
+      "published_date": "2026-07-08T14:26:31+00:00"
+    },
+    {
+      "title": "UK Farage's election gamble could see him face one challenger... Count Binface - Reuters",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5",
+      "published_date": "2026-07-08T13:23:34+00:00"
+    },
+    {
+      "title": "Reform UK leader Nigel Farage's rivals rule out standing in Clacton by-election",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/07/08/reform-uk-leader-nigel-farages-rivals-rule-out-standing-in-clacton-by-election",
+      "published_date": "2026-07-08T13:12:44+00:00"
+    },
+    {
+      "title": "Calixto Ortega is the new president of the Bank of Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/calixto-ortega-es-nuevo-presidente-del-banco-de-venezuela/",
+      "published_date": "2026-07-08T13:07:37+00:00"
+    },
+    {
+      "title": "FM Sybiha: Putin can avoid collapse by accepting proposals from Ukraine and its allies",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4142184-fm-sybiha-putin-can-avoid-collapse-by-accepting-proposals-from-ukraine-and-its-allies.html",
+      "published_date": "2026-07-08T12:33:00+00:00"
+    },
     {
       "title": "LIVE - Presidential Election 2027: Gabriel Attal accuses Marine Le Pen of leading a “judicial guerrilla”",
       "source": "Le Figaro France",
@@ -100,13 +198,6 @@
       "country": "Egypt",
       "url": "https://www.egyptindependent.com/egyptian-culture-minister-resigns-over-plagiarism-case/",
       "published_date": "2026-07-08T10:59:42+00:00"
-    },
-    {
-      "title": "UK Farage's election gamble could see him face one challenger — Count Binface - Reuters",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5",
-      "published_date": "2026-07-08T10:42:12+00:00"
     },
     {
       "title": "Marine Le Pen: convicted, but candidate for the 2027 presidential election",
@@ -2760,153 +2851,6 @@
       "country": "Venezuela",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-envio-un-mensaje-de-apoyo-al-pueblo-venezolano-tras-terremoto-3566887",
       "published_date": "2026-06-25T02:08:07+00:00"
-    },
-    {
-      "title": "They declare a state of emergency in Venezuela after two earthquakes",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/terremoto-sacude-varias-regiones-de-venezuela-y-remece-fuerte-caracas/",
-      "published_date": "2026-06-24T23:49:01+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella is officially the elected president of Colombia: CNE makes the elections official and promulgates his election",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-es-oficialmente-el-presidente-electo-cne-oficializa-los-escrutinios-y-promulga-su-eleccion-3566824",
-      "published_date": "2026-06-24T23:13:41+00:00"
-    },
-    {
-      "title": "Keiko Fujimori vows to unite a Peru ‘split in two’ as run-off lead holds",
-      "source": "South China Morning Post",
-      "country": "Peru",
-      "url": "https://www.scmp.com/news/world/americas/article/3358260/keiko-fujimori-vows-unite-peru-split-two-run-lead-holds?utm_source=rss_feed",
-      "published_date": "2026-06-24T23:00:43+00:00"
-    },
-    {
-      "title": "Back-to-back Venezuela earthquakes kill at least 164, injure hundreds, acting president says - CBS News",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakhMTTEyZ3oyMEYxYUFWX3hobGpzWGJsWFFpOEhjRzhRd2ZhREZSX2VEclhnVGh3R0UzaVo4NFd1S3ZfWkZ6aWxuRGxTN3ZUUUxSRm9pRERVTHdrUmlyOXlibkxlRkxZLVdEV3V2cklEZ3VlWHI0SjA0UkxVVlUzemIydDJsd2NJeHd5VHVnYVpTcVU5bTFmdjhhX3B0WGp0NTVEWE1ZRVg5RE9f?oc=5",
-      "published_date": "2026-06-24T22:54:00+00:00"
-    },
-    {
-      "title": "Cepeda recognized the victory of the conservative De la Espriella in the presidential runoff of Colombia",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/cepeda-reconocio-el-triunfo-del-conservador-de-la-espriella-en-el-balotaje-presidencial-de-colombia-nid24062026/",
-      "published_date": "2026-06-24T21:46:09+00:00"
-    },
-    {
-      "title": "Venezuela won two Gold awards at the 2026 Cannes Lions festival for a documentary on the 28J elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/venezuela-gano-dos-premios-oro-en-festival-cannes-lions-2026-por-documental-sobre-elecciones-del-28j/",
-      "published_date": "2026-06-24T20:35:11+00:00"
-    },
-    {
-      "title": "What Keir Starmer's resignation means for European security",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/what-keir-starmer-s-resignation-means-for-european-security/a-77698281?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-06-24T19:27:00+00:00"
-    },
-    {
-      "title": "Delcy Rodríguez recognized Abelardo de la Espriella as elected president of Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-reconocio-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia/",
-      "published_date": "2026-06-24T19:21:52+00:00"
-    },
-    {
-      "title": "Kerala High Court invalidates oaths of 20 BJP councillors in Thiruvananthapuram Corporation, fresh swearing-in done for 19",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-invalidates-oaths-of-20-bjp-councillors-in-thiruvananthapuram-corporation-fresh-swearing-in-done-for-19/article71142500.ece",
-      "published_date": "2026-06-24T18:56:05+00:00"
-    },
-    {
-      "title": "Expert dismantles 'proof' of alleged electoral fraud shown by Gustavo Petro: 'Technical disinformation from power'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/experto-desmonta-prueba-de-supuesto-fraude-electoral-que-mostro-gustavo-petro-desinformacion-tecnica-desde-el-poder-3566758",
-      "published_date": "2026-06-24T18:12:34+00:00"
-    },
-    {
-      "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
-      "published_date": "2026-06-24T18:10:16+00:00"
-    },
-    {
-      "title": "PTI calls for 'transparent, judicially supervised' probe into 2018, 2024 elections",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2010567/pti-calls-for-transparent-judicially-supervised-probe-into-2018-2024-elections",
-      "published_date": "2026-06-24T17:05:49+00:00"
-    },
-    {
-      "title": "Moscow court sentences Yabloko opposition party deputy chair to seven years in prison for posts about Russian atrocities in Bucha and Mariupol",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/06/24/moscow-court-sentences-yabloko-opposition-party-deputy-chair-to-seven-years-in-prison-for-posts-about-russian-atrocities-in-bucha-and-mariupol",
-      "published_date": "2026-06-24T16:55:08+00:00"
-    },
-    {
-      "title": "Colombia's left-wing presidential candidate concedes defeat",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-24T15:50:22+00:00"
-    },
-    {
-      "title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
-      "published_date": "2026-06-24T15:48:34+00:00"
-    },
-    {
-      "title": "Iván Cepeda recognizes Abelardo de la Espriella as elected president of Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/06/ivan-cepeda-reconoce-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia/",
-      "published_date": "2026-06-24T15:48:07+00:00"
-    },
-    {
-      "title": "Larry the cat, chief mouser of Downing Street, outlasts sixth UK prime minister as Starmer resigns",
-      "source": "Jerusalem Post",
-      "country": "United Kingdom",
-      "url": "https://www.jpost.com/omg/article-900379",
-      "published_date": "2026-06-24T14:32:57+00:00"
-    },
-    {
-      "title": "Senior UK minister rules out leadership challenge as Burnham edges closer to Downing Street",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/24/senior-uk-minister-rules-out-leadership-challenge-as-burnham-edges-closer-to-downing-stree",
-      "published_date": "2026-06-24T13:25:50+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: Iván Cepeda announces press conference; Former candidates congratulate the elected president Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-el-proceso-se-reanudara-hoy-a-las-9-a-m-3566620",
-      "published_date": "2026-06-24T12:44:30+00:00"
-    },
-    {
-      "title": "Keiko Fujimori: Peru’s biggest political loser poised to win election",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/06/24/world/fujimori-peru-election/",
-      "published_date": "2026-06-24T12:44:00+00:00"
-    },
-    {
-      "title": "Trump shares article that calls Brazilian elections a 'big test' in Latin America",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/trump-compartilha-artigo-que-chama-eleicoes-brasileiras-de-grande-teste-na-america-latina.shtml",
-      "published_date": "2026-06-24T12:32:00+00:00"
     }
   ]
 }
