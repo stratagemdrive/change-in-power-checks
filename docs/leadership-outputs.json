@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-09T13:52:13.420035+00:00",
-    "story_count": 386,
+    "last_updated": "2026-07-10T00:04:32.994946+00:00",
+    "story_count": 390,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran's late supreme leader Khamenei buried in Mashdad",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-late-supreme-leader-khamenei-buried-mashdad",
+      "published_date": "2026-07-09T23:21:47+00:00"
+    },
+    {
+      "title": "Despite the condemnation, Marine Le Pen takes the lead in the polls ahead of the presidential elections in France",
+      "source": "La Nacion Argentina",
+      "country": "France",
+      "url": "https://www.lanacion.com.ar/el-mundo/pese-a-la-condena-marine-le-pen-toma-la-delantera-en-los-sondeos-de-cara-las-presidenciales-en-nid09072026/",
+      "published_date": "2026-07-09T22:49:13+00:00"
+    },
+    {
+      "title": "Digital Markets PL faces resistance from the right that tries to postpone voting until after the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/pl-dos-mercados-digitais-enfrenta-resistencia-da-direita-que-tenta-adiar-votacao-para-depois-das-eleicoes.shtml",
+      "published_date": "2026-07-09T22:24:00+00:00"
+    },
+    {
+      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+      "published_date": "2026-07-09T21:39:54+00:00"
+    },
+    {
+      "title": "Keir Starmer may award resignation honours when he leaves No 10",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/jul/09/keir-starmer-prime-minister-resignation-honours-no-10-politics",
+      "published_date": "2026-07-09T20:43:56+00:00"
+    },
+    {
+      "title": "What's next for Iran after the funeral of their late supreme leader?",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T20:16:13+00:00"
+    },
+    {
+      "title": "Alfonso Prada, Colombian ambassador to France, resigned from his position effective August 6",
+      "source": "El Tiempo Colombia",
+      "country": "France",
+      "url": "https://www.eltiempo.com/politica/gobierno/alfonso-prada-embajador-de-colombia-en-francia-renuncio-a-su-cargo-a-partir-del-6-de-agosto-3570255",
+      "published_date": "2026-07-09T20:13:31+00:00"
+    },
+    {
+      "title": "Alfonso Prada presented his resignation as ambassador of France, his departure will be on August 6",
+      "source": "El Tiempo Colombia",
+      "country": "France",
+      "url": "https://www.eltiempo.com/politica/gobierno/alfonso-prada-presento-su-renuncia-como-embajador-de-francia-su-salida-sera-el-6-de-agosto-3570244",
+      "published_date": "2026-07-09T19:58:11+00:00"
+    },
+    {
+      "title": "Funeral prayers offered for supreme leader Ali Khamenei in Iran's Mashhad",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2014150/funeral-prayers-offered-for-supreme-leader-ali-khamenei-in-irans-mashhad",
+      "published_date": "2026-07-09T19:06:32+00:00"
+    },
+    {
+      "title": "President-elect Abelardo de la Espriella met with the Japanese ambassador in Colombia to strengthen the trade agenda",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-embajador-de-japon-en-colombia-para-fortalecer-la-agenda-comercial-3570220",
+      "published_date": "2026-07-09T17:55:34+00:00"
+    },
+    {
+      "title": "Palestinian legislative elections set for November 28",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
+      "published_date": "2026-07-09T17:32:09+00:00"
+    },
+    {
+      "title": "Canadian fugitive drug trafficker captured while working out in Colombia",
+      "source": "CBC News World",
+      "country": "Colombia",
+      "url": "https://www.cbc.ca/news/world/arif-jhuman-arrested-colombia-9.7264330?cmp=rss",
+      "published_date": "2026-07-09T13:22:24+00:00"
+    },
     {
       "title": "Khamenei burial will be family-only amid wait for first emergence of new supreme leader",
       "source": "Egypt Independent",
@@ -2704,62 +2788,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/con-boric-invitado-fa-concluye-encuentros-para-fijar-hoja-de-ruta-del-partido-e-inicia-proceso-de-elecciones-internas/",
       "published_date": "2026-06-26T00:34:49+00:00"
-    },
-    {
-      "title": "Colombia: far-right president-elect gives “one month” to armed groups to surrender and promises firmness against drug trafficking",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/06/26/colombie-le-president-elu-d-extreme-droite-donne-un-mois-aux-groupes-armes-pour-se-rendre-et-promet-la-fermete-contre-le-narcotrafic_6715468_3210.html",
-      "published_date": "2026-06-25T22:09:12+00:00"
-    },
-    {
-      "title": "Diego Suárez, from historical exile, explains why Cuba does not need to invent anything for its transition",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-06-26-u1-e192519-s27061-nid333354-diego-suarez-exilio-historico-explica-cuba-necesita",
-      "published_date": "2026-06-25T22:02:23+00:00"
-    },
-    {
-      "title": "Volodimir Zelensky, president of Ukraine, congratulated Abelardo de la Espriella on his victory in the presidential election: 'Ready to cooperate'",
-      "source": "El Tiempo Colombia",
-      "country": "Ukraine",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
-      "published_date": "2026-06-25T21:31:44+00:00"
-    },
-    {
-      "title": "MBL councilor calls for impeachment of PT member arrested in operation that targeted PCC",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/vereadora-pede-cassacao-de-petista-preso-em-operacao-que-mirou-pcc.shtml",
-      "published_date": "2026-06-25T20:58:00+00:00"
-    },
-    {
-      "title": "Iran and Oman: A new power struggle has broken out in the Strait of Hormuz",
-      "source": "FAZ Germany",
-      "country": "Iran",
-      "url": "https://www.faz.net/aktuell/politik/ausland/iran-wuetet-gegen-neuen-omanischen-hormus-korridor-200966924.html",
-      "published_date": "2026-06-25T18:13:07+00:00"
-    },
-    {
-      "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
-      "published_date": "2026-06-25T17:41:01+00:00"
-    },
-    {
-      "title": "Farage on Starmer resignation: “I got rid of him”",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-profitiert-nicht-von-starmers-ruecktritt-200964236.html",
-      "published_date": "2026-06-25T17:30:45+00:00"
-    },
-    {
-      "title": "Netanyahu aide Urich allowed to keep working at PMO after court rejects prosecution's request",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900524",
-      "published_date": "2026-06-25T14:37:26+00:00"
     }
   ]
 }
