@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-10T13:16:17.386065+00:00",
-    "story_count": 381,
+    "last_updated": "2026-07-10T23:56:52.598788+00:00",
+    "story_count": 379,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,53 @@
   },
   "stories": [
     {
-      "title": "After false statement: Ten weeks before the Berlin election: Wegner withdraws his candidacy",
+      "title": "The United States and countries of the Shield of the Americas reject questions about elections in Colombia and ask to respect the transition of power: 'A duty'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estados-unidos-y-paises-del-escudo-de-las-americas-rechazan-cuestionamientos-a-elecciones-en-colombia-y-piden-respetar-transicion-de-poder-un-deber-3570570",
+      "published_date": "2026-07-10T23:36:38+00:00"
+    },
+    {
+      "title": "The US approves new sanctions against the entourage of the Iranian supreme leader for the attacks in Hormuz",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/07/ee-uu-aprueba-nuevas-sanciones-contra-el-entorno-del-lider-supremo-irani-por-los-ataques-en-ormuz/",
+      "published_date": "2026-07-10T21:09:36+00:00"
+    },
+    {
+      "title": "BJP councillor R. Sugathan seeks Kerala High Court’s permission to attend July 14 re-swearing-in ceremony",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/bjp-councillor-r-sugathan-seeks-kerala-high-courts-permission-to-attend-july-14-re-swearing-in-ceremony/article71207037.ece",
+      "published_date": "2026-07-10T18:29:32+00:00"
+    },
+    {
+      "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss",
+      "published_date": "2026-07-10T18:18:26+00:00"
+    },
+    {
+      "title": "Berlin’s mayor abandons reelection campaign after ‘tennis-gate’ outcry",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/jul/10/berlin-mayor-abandons-reelection-campaign-after-tennis-gate-outcry",
+      "published_date": "2026-07-10T16:10:20+00:00"
+    },
+    {
+      "title": "Ukraine's commander-in-chief says turning point in war with Russia 'still a long way off'",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/07/10/ukraines-commander-in-chief-says-turning-point-in-war-with-russia-still-a-long-way-off",
+      "published_date": "2026-07-10T14:06:23+00:00"
+    },
+    {
+      "title": "“Communication was crap”: Ten weeks before the Berlin election: Wegner withdraws his candidacy",
       "source": "FAZ Germany",
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/kai-wegner-zieht-kandidatur-zurueck-accg-201018534.html",
-      "published_date": "2026-07-10T13:03:16+00:00"
+      "published_date": "2026-07-10T13:45:08+00:00"
     },
     {
       "title": "Jérôme Fourquet: “Can Jean-Luc Mélenchon dream of the second round of the presidential election in 2027?”",
@@ -2669,62 +2711,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/cartas-al-director/noticia/elecciones-en-la-fen-u-de-chile/",
       "published_date": "2026-06-27T00:54:00+00:00"
-    },
-    {
-      "title": "Burkina Faso breaks with France after the adoption of a critical resolution against the junta in the European Parliament",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/27/le-burkina-faso-rompt-avec-la-france-apres-l-adoption-d-une-resolution-critique-contre-la-junte-au-parlement-europeen_6715923_3212.html",
-      "published_date": "2026-06-26T23:08:40+00:00"
-    },
-    {
-      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "source": "The Guardian World",
-      "country": "Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "published_date": "2026-06-26T22:44:43+00:00"
-    },
-    {
-      "title": "Burkina Faso ruling junta cuts diplomatic ties with ex-ruler France",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france",
-      "published_date": "2026-06-26T21:28:44+00:00"
-    },
-    {
-      "title": "GOP's new election model: Colombia",
-      "source": "Axios World",
-      "country": "Colombia",
-      "url": "https://www.axios.com/2026/06/26/republicans-voter-id-colombia-california",
-      "published_date": "2026-06-26T18:19:33+00:00"
-    },
-    {
-      "title": "Armenia seeks to strip Tsarukyan of immunity as post-election arrests and dismissals continue",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-seeks-to-strip-tsarukyan-of-immunity-as-post-election-arrests-and-dismissals-continue/",
-      "published_date": "2026-06-26T13:57:27+00:00"
-    },
-    {
-      "title": "Russia declares state of emergency in occupied Crimea",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/06/26/russia-declares-state-of-emergency-in-occupied-crimea",
-      "published_date": "2026-06-26T13:50:16+00:00"
-    },
-    {
-      "title": "Kremlin Aware of Viral Video Threatening Armed Uprising Over Alleged Abuses in Army",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/06/26/kremlin-aware-of-viral-video-threatening-armed-uprising-over-alleged-abuses-in-army-a93109",
-      "published_date": "2026-06-26T13:47:00+00:00"
-    },
-    {
-      "title": "Shelve state police till after 2027 election, Obi tells Tinubu",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/shelve-state-police-till-after-2027-election-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-26T13:40:49+00:00"
     }
   ]
 }
