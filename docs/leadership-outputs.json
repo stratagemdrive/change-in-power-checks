@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-10T00:04:32.994946+00:00",
-    "story_count": 390,
+    "last_updated": "2026-07-10T13:16:17.386065+00:00",
+    "story_count": 381,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,102 @@
   },
   "stories": [
     {
+      "title": "After false statement: Ten weeks before the Berlin election: Wegner withdraws his candidacy",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/kai-wegner-zieht-kandidatur-zurueck-accg-201018534.html",
+      "published_date": "2026-07-10T13:03:16+00:00"
+    },
+    {
+      "title": "Jérôme Fourquet: “Can Jean-Luc Mélenchon dream of the second round of the presidential election in 2027?”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/jerome-fourquet-melenchon-peut-il-rever-du-second-tour-en-2027-20260504",
+      "published_date": "2026-07-10T12:58:03+00:00"
+    },
+    {
+      "title": "First Palestinian legislative elections in 20 years announced",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss",
+      "published_date": "2026-07-10T12:28:19+00:00"
+    },
+    {
+      "title": "Keiko Fujimori and interim president Balcázar met in Lima to begin the transfer of government",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-y-el-presidente-interino-balcazar-se-reunieron-en-lima-para-iniciar-la-transferencia-de-gobierno/",
+      "published_date": "2026-07-10T11:40:08+00:00"
+    },
+    {
+      "title": "Iran buries former supreme leader Khamenei in hometown",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/07/iran-buries-former-supreme-leader-khamenei-in-hometown/",
+      "published_date": "2026-07-10T10:02:08+00:00"
+    },
+    {
+      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+      "source": "NPR World",
+      "country": "United Kingdom",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
+      "published_date": "2026-07-10T09:00:00+00:00"
+    },
+    {
+      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election - NPR",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0VLUnBudFA5T0lYcTAzSXlMV3VxZ2ZzdWZ0ZUhjbTVhSFF5MDJiMTljQTBHOGFTckNtOENrZDJrTnh3cWZyOWhwZFNaal90QmJBMTNNamZCaENDMWVZZThEekRsMnctdGd5ZXdaTDZVaVZvUEVDS05SamZtYlY0eFdGRWNZUGU5SVNSU0R1YjFoM1VqUDhwVThFS25ieVQtMklXS3B5TGZPejVsOC1rd0ZyY0pMeW10Wks1ZEpCSGhxSENvZFBv?oc=5",
+      "published_date": "2026-07-10T09:00:00+00:00"
+    },
+    {
+      "title": "Iran’s late supreme leader Khamenei buried in Mashhad after week-long funeral",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/news/irans-late-supreme-leader-khamenei-buried-after-week-long-funeral",
+      "published_date": "2026-07-10T08:37:52+00:00"
+    },
+    {
+      "title": "Presidential election: do you think Jean-Luc Mélenchon will be in the second round?",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/election-presidentielle-pensez-vous-que-jean-luc-melenchon-sera-au-second-tour-20260710",
+      "published_date": "2026-07-10T08:30:53+00:00"
+    },
+    {
+      "title": "US-Iran War Live Updates: Turkey accuses Netanyahu of seeking ‘new enemies’ as Israel nears elections",
+      "source": "Indian Express",
+      "country": "Turkey",
+      "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-us-attacks-iran-retaliation-strike-kuwait-qatar-peace-talks-trump-israel-updates-10779857/",
+      "published_date": "2026-07-10T04:37:29+00:00"
+    },
+    {
+      "title": "Former Iranian supreme leader Ali Khamenei buried in his native Mashhad",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/el-exlider-supremo-irani-ali-jamenei-fue-enterrado-en-su-natal-mashhad/",
+      "published_date": "2026-07-10T03:05:24+00:00"
+    },
+    {
+      "title": "Assassinated Iranian supreme leader Ayatollah Khamenei laid to rest in Mashhad",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2014323/assassinated-iranian-supreme-leader-ayatollah-khamenei-laid-to-rest-in-mashhad",
+      "published_date": "2026-07-10T02:24:00+00:00"
+    },
+    {
       "title": "Iran's late supreme leader Khamenei buried in Mashdad",
       "source": "Middle East Eye",
       "country": "Iran",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-late-supreme-leader-khamenei-buried-mashdad",
       "published_date": "2026-07-09T23:21:47+00:00"
+    },
+    {
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T23:18:18+00:00"
     },
     {
       "title": "Despite the condemnation, Marine Le Pen takes the lead in the polls ahead of the presidential elections in France",
@@ -79,6 +170,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/pl-dos-mercados-digitais-enfrenta-resistencia-da-direita-que-tenta-adiar-votacao-para-depois-das-eleicoes.shtml",
       "published_date": "2026-07-09T22:24:00+00:00"
+    },
+    {
+      "title": "US and Iran trade escalating strikes as supreme leader is buried after days-long funeral",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
+      "published_date": "2026-07-09T22:04:27+00:00"
     },
     {
       "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
@@ -205,6 +303,13 @@
       "country": "Iran",
       "url": "https://www.cbc.ca/news/world/ayatollah-ali-khamenei-funeral-procession-burial-9.7263906?cmp=rss",
       "published_date": "2026-07-09T08:42:02+00:00"
+    },
+    {
+      "title": "South Korea’s Supreme Court upholds prison sentence for Yoon in first martial law case - AP News",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjNhdnZqMWh4SDdnQ0VwdUppSFVBclVyQ0xKYkdtSHpwWVV4Y2VxRU8zZTVsR05IQkl5SGNYT3NrTGV0LVdGQWhOY3U4V0laYVJQWE15NW1waV92Q21LcG5RQ21xRlphekdMMWw2STM2QjRad1JaaTYxMTJFQkI0bFhOS1dqWk9IbzF6eWUzcDhqc3NZWGNBUk5Ma0xvQ2c0bXlHTmtsQQ?oc=5",
+      "published_date": "2026-07-09T06:29:00+00:00"
     },
     {
       "title": "DemocraTIA Global Corporation supports legitimacy of the presidential elections in Colombia",
@@ -2620,174 +2725,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/shelve-state-police-till-after-2027-election-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-26T13:40:49+00:00"
-    },
-    {
-      "title": "Israel's Netanyahu faces election challenge from hawkish ex-general - Yahoo",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1d0aW5zX1RaT0RkMlo4b3FqRlNTSGMyWHByMzBEdDc1clg2MmdBOEtYMmVHbzFpbkhIS3pfQ1p5VXdrcG93SXJyWnktd3dRRkpxOTFmempISDVxelUxWVhscGpBM2FxT2daSThxTzJKWGg1djhURTg3c0lGeEd1TVF2WXNBY2Z6eGticHlpRk9hcDJjMkp3eg?oc=5",
-      "published_date": "2026-06-26T13:08:12+00:00"
-    },
-    {
-      "title": "🔴Death toll from Venezuelan earthquakes rises to at least 589, says interim president Rodriguez",
-      "source": "France 24 English",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/en/americas/20260626-venezuela-earthquakes-live-us-says-sending-military-ships-planes-to-provide-aid-to-venezuela",
-      "published_date": "2026-06-26T12:39:43+00:00"
-    },
-    {
-      "title": "🔴 Earthquakes in Venezuela: death toll rises to 589, announces interim president",
-      "source": "France 24 FR",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260626-en-direct-seismes-venezuela-bilan-morts-recherche-disparus-aide-humanitaire",
-      "published_date": "2026-06-26T12:37:57+00:00"
-    },
-    {
-      "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea - The New York Times",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamNNTzF3NTBuckN1dU44bk1hVXNWUzRRYnJmVDhva2NFakppZkdLN09hUnBBQXItUl9jdlVJTXp1eFcySXg4Ymo4cXg5Tlp1bHpRWDRaSXZtQ2d6ZUhXZmFocmpkdkF5cnZMZlhPRkstZnJKbjliMVg4SmN4Nk1YWmVGRVVNVGxvRDNJ?oc=5",
-      "published_date": "2026-06-26T12:24:44+00:00"
-    },
-    {
-      "title": "Sergey Ivanov, former Russian defense minister and presidential administration chief — once considered a possible successor to Putin — has died",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/06/26/sergey-ivanov-former-russian-defense-minister-and-presidential-administration-chief-once-considered-a-possible-successor-to-putin-has-died",
-      "published_date": "2026-06-26T12:12:06+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: Abelardo de la Espriella will advance bilateral relations with Israel to 'fight organized crime'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
-      "published_date": "2026-06-26T11:49:25+00:00"
-    },
-    {
-      "title": "In Brazil, the Bolsonaro family is torn apart before the October presidential election",
-      "source": "Le Monde France",
-      "country": "Brazil",
-      "url": "https://www.lemonde.fr/international/article/2026/06/26/au-bresil-la-famille-bolsonaro-se-dechire-avant-l-election-presidentielle-d-octobre_6715835_3210.html",
-      "published_date": "2026-06-26T11:46:37+00:00"
-    },
-    {
-      "title": "Mirwaiz says Modi, among longest serving PMs of India, should opt for dialogue, diplomacy to resolve issues",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-says-modi-among-longest-serving-pms-of-india-should-opt-for-dialogue-diplomacy-to-resolve-issues/article71150000.ece",
-      "published_date": "2026-06-26T11:20:12+00:00"
-    },
-    {
-      "title": "Crimea Declares State of Emergency After Ukrainian Attacks Target Energy Grid - The Moscow Times",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkFDeUltcUxOeGhFb2FaSnRUNmt3YV8wWXZkbEJ0OGlDa3BuaHFqaWtRMDlhSmEwX2tSOXZJUDZodUpFMFM0SUVoRHp0anljcE1XaU9pRVpJdGd3dll3aWFSbGhNT1hHMXl4Z0xmMVh3Q1hoV3VDbUttQV9XM3czQmRlcFdnMURXN3paYk9qMWFjbmQ0bUJTUGkyT2ZRWTl4ZGY2UGZseGNsZDd4bmFXUUZYYnJJQ1kzM1RBZDZSWkwycGRs?oc=5",
-      "published_date": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "title": "Crimea Declares State of Emergency After Ukrainian Attacks Target Energy Grid",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukrainian-attacks-target-energy-grid-a93105",
-      "published_date": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "title": "Crimea Declares State of Emergency After Ukraine Strikes Energy Grid",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105",
-      "published_date": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "title": "Crimea Declares State of Emergency After Ukraine Hits Energy Grid - The Moscow Times",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMwejNSREJGSjZHREZHM2dkMExGeU1xRXc1VnZXY21odG5XM0JRM01jOHEtbWtqQ2swY04tUW16MmFOSHdSUDlGM1NMdkNUNTZ0ZWJrRFBCNk0wRTlyQ185SmZnWlF1UjFNLVBtbnVCaXBPa1d6MlBJT3lLMXFLMnI5RGRVdC1xWjRoc3RmaUZLd2ZCT2hoVVRTYVlDTmpqNFQxR2tvQmNQR01PWGxTcTRpcWs?oc=5",
-      "published_date": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "title": "Crimea Declares State of Emergency After Ukraine Hits Energy Grid",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/06/26/crimea-declares-state-of-emergency-after-ukraine-hits-energy-grid-a93105",
-      "published_date": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: State of emergency declared in Crimea",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ausnahmezustand-auf-der-krim-verhaengt-faz-110683325.html",
-      "published_date": "2026-06-26T11:03:07+00:00"
-    },
-    {
-      "title": "Keiko Fujimori considers the elections in Peru won: “Now we have to look at the next five years”",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-da-por-ganadas-las-elecciones-en-peru-ahora-tenemos-que-fijarnos-en-los-proximos-cinco-anos/",
-      "published_date": "2026-06-26T09:23:06+00:00"
-    },
-    {
-      "title": "As Myanmar’s civil war drags on, resistance forces face growing recruitment challenges",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/as-myanmars-civil-war-drags-on-resistance-forces-face-growing-recruitment-challenges/",
-      "published_date": "2026-06-26T09:01:21+00:00"
-    },
-    {
-      "title": "Drawing news: in the United Kingdom, the resignation of Prime Minister Keir Starmer",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/europe/20260626-actu-en-dessin-royaume-uni-d%C3%A9mission-premier-ministre-keir-starmer-brexit-epstein",
-      "published_date": "2026-06-26T08:18:32+00:00"
-    },
-    {
-      "title": "Ex-general seen as main Netanyahu rival ahead of Israel elections",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3358464/ex-general-seen-main-netanyahu-rival-ahead-israel-elections?utm_source=rss_feed",
-      "published_date": "2026-06-26T07:11:14+00:00"
-    },
-    {
-      "title": "UK foreign policy to remain unchanged despite government transition, deputy PM Lammy says",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/26/uk-foreign-policy-to-remain-unchanged-despite-government-transition-deputy-pm-lammy-says",
-      "published_date": "2026-06-26T06:57:31+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella, president-elect of Colombia, said he will guarantee 'absolute respect for criticism and dissent from all' in his mandate",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-dijo-que-garantizara-el-respeto-absoluto-por-la-critica-y-el-disenso-de-todos-en-su-mandato-3567195",
-      "published_date": "2026-06-26T05:17:04+00:00"
-    },
-    {
-      "title": "Francia Márquez, vice president of Colombia, recognized the results of the elections and sent a message to Abelardo de la Espriella: 'All success'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
-      "published_date": "2026-06-26T04:56:00+00:00"
-    },
-    {
-      "title": "India News LIVE Updates, 26 June 2026: Top Ram Temple trust official resigns after allegations of theft",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-june-2026-kota-priest-murder-amit-shah-murmu-venezuela-10758208/",
-      "published_date": "2026-06-26T04:20:57+00:00"
-    },
-    {
-      "title": "High stakes and co-operation: Carney’s Alberta referendum message",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-high-stakes-and-co-operation-carneys-alberta-referendum-message/",
-      "published_date": "2026-06-26T01:27:45+00:00"
-    },
-    {
-      "title": "With Boric invited: FA concludes meetings to establish the party's roadmap and begins the process of internal elections",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/con-boric-invitado-fa-concluye-encuentros-para-fijar-hoja-de-ruta-del-partido-e-inicia-proceso-de-elecciones-internas/",
-      "published_date": "2026-06-26T00:34:49+00:00"
     }
   ]
 }
