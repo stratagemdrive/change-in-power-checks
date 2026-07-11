@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-11T11:55:20.072867+00:00",
-    "story_count": 379,
+    "last_updated": "2026-07-11T23:51:30.092124+00:00",
+    "story_count": 389,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,109 @@
   },
   "stories": [
     {
+      "title": "The Spanish Civil War: 90 years since the beginning of the conflict and its profound impact on Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/culto/noticia/la-guerra-civil-espanola-los-90-anos-del-inicio-del-conflicto-y-su-profundo-impacto-en-chile/",
+      "published_date": "2026-07-11T23:10:43+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Supreme leader vows revenge for slain father following Trump’s threats to ‘decimate and destroy’",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-israel-strait-of-hormuz-b3012370.html",
+      "published_date": "2026-07-11T23:03:08+00:00"
+    },
+    {
+      "title": "Economic shielding and political reform: Milei wants to move forward with a package of laws to support his re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/blindaje-economico-y-reforma-politica-milei-quiere-avanzar-con-un-paquete-de-leyes-para-apuntalar-su-nid11072026/",
+      "published_date": "2026-07-11T20:17:52+00:00"
+    },
+    {
+      "title": "Zelensky announces diplomatic reshuffle to speed up defense agreements",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4143314-zelensky-announces-diplomatic-reshuffle-to-speed-up-defense-agreements.html",
+      "published_date": "2026-07-11T19:49:00+00:00"
+    },
+    {
+      "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father",
+      "published_date": "2026-07-11T16:15:00+00:00"
+    },
+    {
+      "title": "Trump vs Supreme Leader Mojtaba: US warns it will ‘destroy all areas of Iran’; Tehran vows Khamenei revenge",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/us-iran-war-trump-missile-threat-mojtaba-khamenei-strait-of-hormuz-oman-talks-10782271/",
+      "published_date": "2026-07-11T16:06:28+00:00"
+    },
+    {
+      "title": "Mojtaba Khamenei: Iran supreme leader vows revenge for father's killing",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/video/20260711-mojtaba-khamenei-iran-supreme-leader-vows-revenge-for-father-s-killing",
+      "published_date": "2026-07-11T16:04:57+00:00"
+    },
+    {
+      "title": "Election in France: The Countess of Monte Cristo is back",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-die-komplizierte-beziehung-von-marine-le-pen-und-jordan-bardella-accg-201005604.html",
+      "published_date": "2026-07-11T15:24:00+00:00"
+    },
+    {
+      "title": "Iran's supreme leader vows killers of father 'will be held accountable'",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/news/irans-supreme-leader-vows-killers-father-will-be-held-accountable",
+      "published_date": "2026-07-11T14:54:33+00:00"
+    },
+    {
+      "title": "Iran's supreme leader says revenge for Ali Khamenei's death is “inevitable”",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-de-iran-afirma-que-venganza-por-la-muerte-de-ali-jamenei-es-inevitable/",
+      "published_date": "2026-07-11T14:36:14+00:00"
+    },
+    {
       "title": "Iran's Supreme Leader pledges revenge for Ali Khamenei's death, says people worldwide will help",
       "source": "Jerusalem Post",
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-902159",
       "published_date": "2026-07-11T14:00:56+00:00"
+    },
+    {
+      "title": "Iran: Supreme Leader Mojtaba Khamenei vows to avenge his father's death",
+      "source": "France 24 FR",
+      "country": "Iran",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-iran-mojtaba-khamenei-a-jur%C3%A9-de-venger-la-mort-de-son-p%C3%A8re",
+      "published_date": "2026-07-11T13:34:28+00:00"
+    },
+    {
+      "title": "Iran's supreme leader: Revenge \"will most certainly be carried out\"",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/07/11/iran-trump-revenge-assassination",
+      "published_date": "2026-07-11T12:41:42+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader touts “historic” presence at late father’s funeral",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-supreme-leader-touts-historic-presence-at-late-fathers-funeral/",
+      "published_date": "2026-07-11T12:36:12+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader pledges “revenge” for his father’s killing",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-supreme-leader-pledges-revenge-for-his-fathers-killing/",
+      "published_date": "2026-07-11T12:30:27+00:00"
     },
     {
       "title": "LIVE - War in the Middle East: Iran's supreme leader promises to avenge his father, Ali Khamenei",
@@ -79,6 +177,13 @@
       "country": "France",
       "url": "https://www.lefigaro.fr/sports/rugby/rugby-championnat-des-nations-mal-embarque-le-xv-de-france-renverse-l-australie-et-signe-sa-premiere-victoire-dans-la-competition-20260711",
       "published_date": "2026-07-11T11:06:09+00:00"
+    },
+    {
+      "title": "Trump and Iran's supreme leader trade threats as mediators try to save deal",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/middle-east/20260711-trump-and-iran-s-supreme-leader-trade-threats-as-mediators-try-to-save-deal",
+      "published_date": "2026-07-11T10:05:13+00:00"
     },
     {
       "title": "Iran's supreme leader to issue message about slain father's funeral",
@@ -158,9 +263,16 @@
       "published_date": "2026-07-10T16:10:20+00:00"
     },
     {
+      "title": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
+      "source": "CBC News World",
+      "country": "United Kingdom",
+      "url": "https://www.cbc.ca/radio/asithappens/nigel-farage-versus-binface-9.7264908?cmp=rss",
+      "published_date": "2026-07-10T14:51:54+00:00"
+    },
+    {
       "title": "Ukraine's commander-in-chief says turning point in war with Russia 'still a long way off'",
       "source": "Euronews",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "http://www.euronews.com/my-europe/2026/07/10/ukraines-commander-in-chief-says-turning-point-in-war-with-russia-still-a-long-way-off",
       "published_date": "2026-07-10T14:06:23+00:00"
     },
@@ -2669,48 +2781,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
       "published_date": "2026-06-27T23:50:14+00:00"
-    },
-    {
-      "title": "Manuel Adorni, Argentine chief of staff, resigns after months of questions over his wealth declarations",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/mundo/noticia/renuncia-manuel-adorni-jefe-de-gabinete-argentino-tras-meses-de-cuestionamientos-por-sus-declaraciones-de-patrimonio/",
-      "published_date": "2026-06-27T22:46:53+00:00"
-    },
-    {
-      "title": "Netanyahu says he wants broad coalition after Israel election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-broad-coalition-after-israel-election",
-      "published_date": "2026-06-27T19:41:34+00:00"
-    },
-    {
-      "title": "Heatwave, negotiations in the Middle East, war in Sudan and resignation of Keir Starmer",
-      "source": "France 24 FR",
-      "country": "Sudan",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
-      "published_date": "2026-06-27T19:06:48+00:00"
-    },
-    {
-      "title": "With an investment of more than $50 million: Central Station inaugurates an initiative to protect its “Turkish Quarter”",
-      "source": "La Tercera Chile",
-      "country": "Turkey",
-      "url": "https://www.latercera.com/nacional/noticia/con-una-inversion-superior-a-los-50-millones-estacion-central-inaugura-iniciativa-para-proteger-su-barrio-turco/",
-      "published_date": "2026-06-27T17:45:08+00:00"
-    },
-    {
-      "title": "President-elect Abelardo de la Espriella will not attend the Casa de Nariño before his inauguration",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-electo-abelardo-de-la-espriella-no-asistira-a-la-casa-de-narino-antes-de-su-posesion-3567533",
-      "published_date": "2026-06-27T16:33:44+00:00"
-    },
-    {
-      "title": "De la Espriella, president-elect, met with Governor Andrés Julián Rendón: 'Antioquia resisted, voted for Tigre and we saved Colombia'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/de-la-espriella-presidente-electo-se-reunio-con-el-gobernador-andres-julian-rendon-antioquia-resistio-voto-por-el-tigre-y-salvamos-a-colombia-3567538",
-      "published_date": "2026-06-27T16:17:49+00:00"
     }
   ]
 }
