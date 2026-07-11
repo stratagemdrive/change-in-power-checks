@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-10T23:56:52.598788+00:00",
+    "last_updated": "2026-07-11T11:55:20.072867+00:00",
     "story_count": 379,
     "fields": {
       "title": "Headline in English",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Iran's Supreme Leader pledges revenge for Ali Khamenei's death, says people worldwide will help",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-902159",
+      "published_date": "2026-07-11T14:00:56+00:00"
+    },
+    {
+      "title": "LIVE - War in the Middle East: Iran's supreme leader promises to avenge his father, Ali Khamenei",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
+      "published_date": "2026-07-11T11:37:03+00:00"
+    },
+    {
+      "title": "Rugby, Nations Championship: the French XV overthrow Australia and sign their first victory in the competition",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/sports/rugby/rugby-championnat-des-nations-mal-embarque-le-xv-de-france-renverse-l-australie-et-signe-sa-premiere-victoire-dans-la-competition-20260711",
+      "published_date": "2026-07-11T11:06:09+00:00"
+    },
+    {
+      "title": "Iran's supreme leader to issue message about slain father's funeral",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-issue-message-about-slain-fathers-funeral",
+      "published_date": "2026-07-11T09:43:43+00:00"
+    },
+    {
+      "title": "School Abductions: Focus on security, not reelection campaign, Atiku counsels Tinubu",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/school-abductions-focus-on-security-not-reelection-campaign-atiku-counsels-tinubu/",
+      "published_date": "2026-07-11T09:09:46+00:00"
+    },
+    {
+      "title": "‘We are the lost generation of Sudan’: Students in exile",
+      "source": "Al Jazeera English",
+      "country": "Sudan",
+      "url": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "published_date": "2026-07-11T04:41:40+00:00"
+    },
+    {
+      "title": "PL keeps R$ 134 million from the party fund for candidates, and Lula enters the election without a reserve",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/pl-guarda-r-134-milhoes-do-fundo-partidario-para-candidatos-e-lula-chega-a-eleicao-sem-reserva.shtml",
+      "published_date": "2026-07-11T02:00:00+00:00"
+    },
+    {
+      "title": "How the absence of Iran’s new supreme leader is becoming a liability for Tehran",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/07/11/world/politics/iran-supreme-leader-absence-analysis/",
+      "published_date": "2026-07-11T00:03:00+00:00"
+    },
+    {
       "title": "The United States and countries of the Shield of the Americas reject questions about elections in Colombia and ask to respect the transition of power: 'A duty'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estados-unidos-y-paises-del-escudo-de-las-americas-rechazan-cuestionamientos-a-elecciones-en-colombia-y-piden-respetar-transicion-de-poder-un-deber-3570570",
-      "published_date": "2026-07-10T23:36:38+00:00"
+      "published_date": "2026-07-10T23:49:15+00:00"
     },
     {
       "title": "The US approves new sanctions against the entourage of the Iranian supreme leader for the attacks in Hormuz",
@@ -72,6 +128,13 @@
       "country": "Iran",
       "url": "https://www.elnacional.com/2026/07/ee-uu-aprueba-nuevas-sanciones-contra-el-entorno-del-lider-supremo-irani-por-los-ataques-en-ormuz/",
       "published_date": "2026-07-10T21:09:36+00:00"
+    },
+    {
+      "title": "Polls in France place Le Pen as the favorite to win the presidential elections",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/mundo/noticia/encuestas-en-francia-situan-a-le-pen-como-la-favorita-para-ganar-las-elecciones-presidenciales/",
+      "published_date": "2026-07-10T20:19:16+00:00"
     },
     {
       "title": "BJP councillor R. Sugathan seeks Kerala High Court’s permission to attend July 14 re-swearing-in ceremony",
@@ -97,7 +160,7 @@
     {
       "title": "Ukraine's commander-in-chief says turning point in war with Russia 'still a long way off'",
       "source": "Euronews",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "http://www.euronews.com/my-europe/2026/07/10/ukraines-commander-in-chief-says-turning-point-in-war-with-russia-still-a-long-way-off",
       "published_date": "2026-07-10T14:06:23+00:00"
     },
@@ -2648,69 +2711,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/de-la-espriella-presidente-electo-se-reunio-con-el-gobernador-andres-julian-rendon-antioquia-resistio-voto-por-el-tigre-y-salvamos-a-colombia-3567538",
       "published_date": "2026-06-27T16:17:49+00:00"
-    },
-    {
-      "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start",
-      "published_date": "2026-06-27T11:10:39+00:00"
-    },
-    {
-      "title": "Colombia 2026 presidential elections: the first lady, Verónica Alcocer, sent a message to the elected president of the country, Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-la-primera-dama-veronica-alcocer-envio-un-mensaje-al-presidente-electo-del-pais-abelardo-de-la-espriella-3567498",
-      "published_date": "2026-06-27T10:55:06+00:00"
-    },
-    {
-      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
-      "published_date": "2026-06-27T10:35:08+00:00"
-    },
-    {
-      "title": "Power outages, fuel bans and no summer camps: Crimea placed under state of emergency as Ukraine steps up pressure on Putin",
-      "source": "Egypt Independent",
-      "country": "Ukraine",
-      "url": "https://www.egyptindependent.com/power-outages-fuel-bans-and-no-summer-camps-crimea-placed-under-state-of-emergency-as-ukraine-steps-up-pressure-on-putin/",
-      "published_date": "2026-06-27T09:12:53+00:00"
-    },
-    {
-      "title": "Ashok Gehlot questions ‘elusive’ justice in Kanhaiya Lal murder case, says BJP used issue for elections",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/rajasthan/ashok-gehlot-questions-elusive-justice-in-kanhaiya-lal-murder-case-says-bjp-used-issue-for-elections/article71153731.ece",
-      "published_date": "2026-06-27T08:38:15+00:00"
-    },
-    {
-      "title": "Burkina Faso junta cuts diplomatic ties with former colonial ruler France",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/africa/20260627-burkina-faso-junta-cuts-diplomatic-ties-with-former-colonial-ruler-france",
-      "published_date": "2026-06-27T07:59:41+00:00"
-    },
-    {
-      "title": "Dozens arrested in Indonesia after anti-government protest turns violent",
-      "source": "South China Morning Post",
-      "country": "Indonesia",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3358587/dozens-arrested-indonesia-after-anti-government-protest-turns-violent?utm_source=rss_feed",
-      "published_date": "2026-06-27T05:46:18+00:00"
-    },
-    {
-      "title": "President Gustavo Petro spoke about joining with the government of the elected president, Abelardo de la Espriella: 'I abide by the decisions'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-empalme-con-el-gobierno-del-mandatario-electo-abelardo-de-la-espriella-acato-las-decisiones-3567448",
-      "published_date": "2026-06-27T03:43:34+00:00"
-    },
-    {
-      "title": "Elections in the FEN U. of Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/elecciones-en-la-fen-u-de-chile/",
-      "published_date": "2026-06-27T00:54:00+00:00"
     }
   ]
 }
