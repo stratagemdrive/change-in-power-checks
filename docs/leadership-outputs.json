@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-11T23:51:30.092124+00:00",
-    "story_count": 389,
+    "last_updated": "2026-07-12T12:01:32.116506+00:00",
+    "story_count": 383,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,13 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Pakistani doctor elected president of leading mental health body",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2014695/pakistani-doctor-elected-president-of-leading-mental-health-body",
+      "published_date": "2026-07-12T01:55:43+00:00"
+    },
     {
       "title": "The Spanish Civil War: 90 years since the beginning of the conflict and its profound impact on Chile",
       "source": "La Tercera Chile",
@@ -2732,55 +2739,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/has-indias-anti-defection-law-become-biggest-weapon-in-battle-for-political-power-interview-with-dushyant-dave-101782649867135.html",
       "published_date": "2026-06-28T12:46:45+00:00"
-    },
-    {
-      "title": "Israel's Eastern Rail Line opens for partial operations, three new stations inaugurated",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-900684",
-      "published_date": "2026-06-28T11:47:44+00:00"
-    },
-    {
-      "title": "Venezuelan Foreign Policy Forum demands political transition in the face of the emergency due to the double earthquake",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/06/foro-venezolano-de-politica-exterior-exige-transicion-politica-ante-la-emergencia-por-el-doble-terremoto/",
-      "published_date": "2026-06-28T11:00:40+00:00"
-    },
-    {
-      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
-      "published_date": "2026-06-28T10:20:14+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella: Can the elected president of Colombia become the new Bukele?",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/abelardo-de-la-espriella-puede-convertirse-el-presidente-electo-de-colombia-en-el-nuevo-bukele/",
-      "published_date": "2026-06-28T10:00:01+00:00"
-    },
-    {
-      "title": "Milei's sacrifice to save the re-election plan",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/el-sacrificio-de-milei-para-poner-a-salvo-el-plan-de-reeleccion-nid27062026/",
-      "published_date": "2026-06-28T07:34:38+00:00"
-    },
-    {
-      "title": "Argentine President Javier Milei’s top aide and Cabinet chief resigns over spiraling corruption scandal - NBC News",
-      "source": "Google News World",
-      "country": "Argentina",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVl0amZRMjlYanY0aWk1azVDUnViTzE4a0hxd1owNjN3eldZam1PZzJTbGlVQUgwSlpLclI4b19QMjJHdXdIZ3QxZFRlYjdIeVMxakp3THgwN2xiLW1BUGVNN1ltRU16MUhXQm45MFdYb1ZEdEZQa2RoV1MxeFhKMGpEeTBwQmRDTUNEaWZFSWZPcnJQS1l5RHd3R2lrRWU3b2tqMFhzbjh3MFNxQWd5MkRnNUhGN05PZjNabHpn?oc=5",
-      "published_date": "2026-06-28T06:53:00+00:00"
-    },
-    {
-      "title": "Javier Milei and his measures, live: Adorni's resignation and the repercussions of the political arc",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-expectativa-por-la-renuncia-de-adorni-y-el-regreso-de-espana-del-nid27062026/",
-      "published_date": "2026-06-27T23:50:14+00:00"
     }
   ]
 }
