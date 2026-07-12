@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-12T12:01:32.116506+00:00",
-    "story_count": 383,
+    "last_updated": "2026-07-12T23:48:49.937238+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Vice President-elect of Colombia pointed out that his country is key \"for the United States to achieve its mission in Venezuela\"",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/07/vicepresidente-electo-de-colombia-senalo-que-su-pais-es-clave-para-que-ee-uu-logre-su-cometido-en-venezuela/",
+      "published_date": "2026-07-12T22:30:14+00:00"
+    },
+    {
+      "title": "‘Viceroy’ of Venezuela: Rubio runs Caracas with total deference from interim president - report",
+      "source": "Jerusalem Post",
+      "country": "Venezuela",
+      "url": "https://www.jpost.com/international/article-902269",
+      "published_date": "2026-07-12T22:06:04+00:00"
+    },
+    {
+      "title": "Israel to hold national elections on October 27, parliament says",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "published_date": "2026-07-12T21:26:28+00:00"
+    },
+    {
+      "title": "They captured a man with an Interpol red alert on the border with Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/07/capturaron-a-sujeto-con-alerta-roja-de-interpol-en-la-frontera-con-colombia/",
+      "published_date": "2026-07-12T21:18:39+00:00"
+    },
+    {
+      "title": "Shin Bet Chief Zini has first meeting with opposition leader Yair Lapid",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-902278",
+      "published_date": "2026-07-12T20:26:58+00:00"
+    },
+    {
+      "title": "Israel to hold elections on October 27: What it means for Netanyahu",
+      "source": "Indian Express",
+      "country": "Israel",
+      "url": "https://indianexpress.com/article/world/israel-parliamentary-elections-october-benjamin-netanyahu-coalition-term-10783447/",
+      "published_date": "2026-07-12T19:00:25+00:00"
+    },
+    {
+      "title": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
+      "published_date": "2026-07-12T18:59:28+00:00"
+    },
+    {
+      "title": "Israeli legislative elections to be held on October 27",
+      "source": "Le Figaro France",
+      "country": "Israel",
+      "url": "https://www.lefigaro.fr/international/les-elections-legislatives-israeliennes-se-tiendront-le-27-octobre-20260712",
+      "published_date": "2026-07-12T18:08:49+00:00"
+    },
+    {
+      "title": "Ukraine's prime minister resigns, as Zelenskyy says country \"is changing its political strategy\" - CBS News",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGlPakpmLVlOcHR2VFFyWHZBQmJ0ZVlxcjVYczBrVzJKbHRIdDVVbXF5WlVMc1ZJTnJQeUM5bmM1Z1NaR0lCN1BsbnVpak1NVnVsNjg1MHMySS0za3FGX0hxVEs0Q1I3ZXlZLWlaWFZBei1iOGZMTnlRa21laVc5WGZnRExEdkhWM045cFpaaE4xU0UxZ0ZPU3UzRFNWZ2c4czd6NVAxX2NVUQ?oc=5",
+      "published_date": "2026-07-12T17:46:22+00:00"
+    },
+    {
+      "title": "Israel sets election date for October 27, Netanyahu government to complete full term",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902258",
+      "published_date": "2026-07-12T17:20:45+00:00"
+    },
+    {
+      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-12T17:03:00+00:00"
+    },
+    {
+      "title": "Ukraine’s prime minister steps down as Zelensky announces government reshuffle",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3360297/ukraines-prime-minister-steps-down-zelensky-announces-government-reshuffle?utm_source=rss_feed",
+      "published_date": "2026-07-12T16:46:05+00:00"
+    },
+    {
+      "title": "Israel to hold parliamentary elections on October 27 as Netanyahu seeks another term",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3360296/israel-hold-parliamentary-elections-october-27-netanyahu-seeks-another-term?utm_source=rss_feed",
+      "published_date": "2026-07-12T16:22:11+00:00"
+    },
+    {
+      "title": "Criticism of pension reform: This is how SPD help for the AfD election campaign works",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/so-hilft-die-spd-in-sachsen-anhalt-dem-wahlkampf-der-afd-201022211.html",
+      "published_date": "2026-07-12T15:07:36+00:00"
+    },
+    {
+      "title": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
+      "source": "Sky News World",
+      "country": "Ukraine",
+      "url": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826",
+      "published_date": "2026-07-12T14:43:00+00:00"
+    },
+    {
+      "title": "Zelenskyy announces government reshuffle, including new Ukrainian prime minister",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/07/12/zelenskyy-announces-government-reshuffle-including-new-ukrainian-prime-minister",
+      "published_date": "2026-07-12T12:56:14+00:00"
+    },
+    {
+      "title": "Ukraine: Zelensky announces reshuffle with the departure of his Prime Minister, Svyrydenko",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/europe/20260712-ukraine-zelensky-annonce-remaniement-gouvernement-depart-premi%C3%A8re-ministre-svyrydenko",
+      "published_date": "2026-07-12T12:55:06+00:00"
+    },
+    {
+      "title": "Zelensky announces government reshuffle, changes in law enforcement leadership",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4143463-zelensky-announces-government-reshuffle-changes-in-law-enforcement-leadership.html",
+      "published_date": "2026-07-12T12:20:00+00:00"
+    },
+    {
+      "title": "Ukraine's Zelensky proposes new PM in Ukraine government reshuffle",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260712-ukraine-s-zelensky-proposes-new-pm-in-ukraine-government-reshuffle",
+      "published_date": "2026-07-12T12:10:37+00:00"
+    },
     {
       "title": "Pakistani doctor elected president of leading mental health body",
       "source": "Dawn Pakistan",
@@ -93,6 +226,13 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-polytics/4143314-zelensky-announces-diplomatic-reshuffle-to-speed-up-defense-agreements.html",
       "published_date": "2026-07-11T19:49:00+00:00"
+    },
+    {
+      "title": "Iran holds crisis talks in Oman as US issues Strait of Hormuz demand - New York Post",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjEwMWt1QU0tWC11M0o0bVk4aUZueU9PZEZ1WGhheFd4Z3BJVk5wMnNjTF95U1ZHQ2NrcFMteWF0SlViUFJOTmxjajhMamVtQkxGc1dlcEZDZDRHaWRLN3NRc3l1d0NrSVZqX1h4QnE0RnZaMkNHVm50eXhnVlp0emgzd25hcGFLMTctV1dCbVFTN3pPZmxoN0kyc1VTYzdmZy1YNXRta3Y0dVBZTmV3?oc=5",
+      "published_date": "2026-07-11T19:48:20+00:00"
     },
     {
       "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
@@ -2690,55 +2830,6 @@
       "country": "Iran",
       "url": "https://www.hindustantimes.com/india-news/pm-thanks-citizens-for-heeding-iran-war-crisis-appeal-in-mann-ki-baat-101782674139041.html",
       "published_date": "2026-06-29T00:50:13+00:00"
-    },
-    {
-      "title": "Argentina: Milei confirms Diego Santilli as new Chief of Staff after the resignation of Manuel Adorni",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/mundo/noticia/milei-confirma-a-diego-santilli-como-nuevo-jefe-de-gabinete-tras-la-renuncia-de-manuel-adorni/",
-      "published_date": "2026-06-28T23:21:15+00:00"
-    },
-    {
-      "title": "In Argentina, the chief of staff and loyalist of Javier Milei resigns",
-      "source": "Le Monde France",
-      "country": "Argentina",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/en-argentine-le-chef-de-cabinet-et-fidele-de-javier-milei-demissionne_6716593_3210.html",
-      "published_date": "2026-06-28T21:42:57+00:00"
-    },
-    {
-      "title": "Was there a fix? The cameras captured the complaint of the Austrian players when Algeria scored 3-2",
-      "source": "La Nacion Argentina",
-      "country": "Algeria",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/hubo-arreglo-las-camaras-captaron-el-reclamo-de-los-jugadores-de-austria-cuando-marco-el-3-2-argelia-nid28062026/",
-      "published_date": "2026-06-28T19:22:48+00:00"
-    },
-    {
-      "title": "“Audience or uprising”: Another Instagram appeal to Putin",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/alexandr-lunin-instagram-appell-an-wladimir-putin-200975566.html",
-      "published_date": "2026-06-28T18:51:44+00:00"
-    },
-    {
-      "title": "Iran's supreme leader says legal cases must be pursued against US, Israel over 'child killings, war crimes'",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes",
-      "published_date": "2026-06-28T16:30:48+00:00"
-    },
-    {
-      "title": "The week in pictures: Earthquakes in Venezuela, Starmer's resignation and extreme heat in France",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260628-the-week-in-pictures-earthquakes-in-venezuela-starmer-s-resignation-and-extreme-heat-in-france",
-      "published_date": "2026-06-28T13:06:16+00:00"
-    },
-    {
-      "title": "Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/has-indias-anti-defection-law-become-biggest-weapon-in-battle-for-political-power-interview-with-dushyant-dave-101782649867135.html",
-      "published_date": "2026-06-28T12:46:45+00:00"
     }
   ]
 }
