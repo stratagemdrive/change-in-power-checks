@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-13T13:27:23.293775+00:00",
-    "story_count": 397,
+    "last_updated": "2026-07-13T23:49:20.887973+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,84 @@
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
-      "published_date": "2026-07-13T13:07:00+00:00"
+      "published_date": "2026-07-13T23:16:46+00:00"
+    },
+    {
+      "title": "Moraes tries to interfere in the election by banning me from speaking to Bolsonaro, says Flávio",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/moraes-tenta-interferir-na-eleicao-ao-me-proibir-de-falar-com-bolsonaro-diz-flavio.shtml",
+      "published_date": "2026-07-13T22:51:00+00:00"
+    },
+    {
+      "title": "Milei displayed his economic optimism before his own legislators: in the Casa Rosada there were National Team t-shirts and a mate for re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/milei-reunio-a-sus-legisladores-en-la-casa-rosada-hubo-camisetas-de-la-seleccion-y-un-mate-para-la-nid13072026/",
+      "published_date": "2026-07-13T21:45:59+00:00"
+    },
+    {
+      "title": "Brazil court bars Bolsonaro son from visiting father until after election",
+      "source": "Vanguard Nigeria",
+      "country": "Brazil",
+      "url": "https://www.vanguardngr.com/2026/07/brazil-court-bars-bolsonaro-son-from-visiting-father-until-after-election/",
+      "published_date": "2026-07-13T21:22:52+00:00"
+    },
+    {
+      "title": "Pen America chief resigns, accuses literary institution of erasing Palestinians",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/news/pen-america-chief-resigns-accuses-elite-literary-institution-erasing-palestinians",
+      "published_date": "2026-07-13T20:53:33+00:00"
+    },
+    {
+      "title": "Israel’s elections trigger mad dash for scarce plane tickets for Israelis abroad",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/diaspora/article-902402",
+      "published_date": "2026-07-13T20:41:11+00:00"
+    },
+    {
+      "title": "Bukele wins presidential candidacy of his party for the 2027 elections in El Salvador",
+      "source": "El Nacional Venezuela",
+      "country": "El Salvador",
+      "url": "https://www.elnacional.com/2026/07/bukele-gana-candidatura-presidencial-de-su-partido-para-las-elecciones-de-2027-en-el-salvador/",
+      "published_date": "2026-07-13T20:21:34+00:00"
+    },
+    {
+      "title": "Israel sets October date for first elections since Hamas attacks in 2023",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023",
+      "published_date": "2026-07-13T18:08:18+00:00"
+    },
+    {
+      "title": "Prime Minister of Ukraine resigns",
+      "source": "DR News Denmark",
+      "country": "Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/ukraines-premierminister-traeder-tilbage",
+      "published_date": "2026-07-13T17:45:33+00:00"
+    },
+    {
+      "title": "Carney appoints chief operating officer in PMO",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-appoints-chief-operating-officer-in-pmo/",
+      "published_date": "2026-07-13T17:27:40+00:00"
+    },
+    {
+      "title": "The new president of the TC defends that the control of the court “is not political” and highlights Kast's unprecedented attendance at the ceremony",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/nueva-presidenta-del-tc-defiende-que-el-control-del-tribunal-no-es-politico-y-destaca-asistencia-inedita-de-kast-a-la-ceremonia/",
+      "published_date": "2026-07-13T17:25:57+00:00"
+    },
+    {
+      "title": "Syria inaugurates its first session of Parliament since the overthrow of Al Assad",
+      "source": "El Nacional Venezuela",
+      "country": "Syria",
+      "url": "https://www.elnacional.com/2026/07/siria-inauguro-su-primera-sesion-del-parlamento-desde-el-derrocamiento-de-al-asad/",
+      "published_date": "2026-07-13T16:03:13+00:00"
     },
     {
       "title": "Edo APC lauds LG elections, assured Tinubu of 2.5m votes",
@@ -79,6 +156,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902333",
       "published_date": "2026-07-13T11:53:40+00:00"
+    },
+    {
+      "title": "South Korean court sentences ousted President Yoon to 2 years over manipulated opinion polls - AP News",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlRaRmE2V21kdG9iRlFjUFpySGs4NFBjNk1xbWc4VUxvOEt2M0c1NDZJZFZiMDBoM013OURYYk9XTk8zZGxsWTZ6T1daSV9VUTZnQWoxeVFzejBlTzFmVXZsSFR0b3hrTkxFUmx0TGFmX19EYnhWd0p2U2NIeHZoVmcwaVUyMk13Z2xiZ3hHT0RwZXZMYjNWR05kaVdhQQ?oc=5",
+      "published_date": "2026-07-13T11:47:00+00:00"
     },
     {
       "title": "LIVE - Speech to the armies of Emmanuel Macron: France ready to defend “freedom and law, at the cost of blood if necessary”, declares the head of state",
@@ -123,7 +207,7 @@
       "published_date": "2026-07-13T02:00:00+00:00"
     },
     {
-      "title": "Vice President-elect of Colombia pointed out that his country is key \"for the United States to achieve its mission in Venezuela\"",
+      "title": "Vice President-elect of Colombia pointed out that his country is key “for the United States to achieve its mission in Venezuela”",
       "source": "El Nacional Venezuela",
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/07/vicepresidente-electo-de-colombia-senalo-que-su-pais-es-clave-para-que-ee-uu-logre-su-cometido-en-venezuela/",
@@ -2746,97 +2830,6 @@
       "country": "Peru",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFRra1l6ZzJZclBXd2V6UzhEazl6RTZxc0xCWUpoMm9WOEFEQTZTelRlQUNNejNQSXpBaEItS1JPZ0Rla0UxNEdyM212Y2tUWEZnckF6UDZZMV9LZjFVa2hkWlAwZ3E3UzJFV3FwRExqckU5SGphd01Ddnc5NHV1WXppSWFEMU5qbFFtN2p6QXpoR1MwYWlhallpTThCVU43VmhrSG1kNzM?oc=5",
       "published_date": "2026-06-30T00:18:00+00:00"
-    },
-    {
-      "title": "Keiko Fujimori leads Peru’s presidential race after official count concludes",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/06/30/world/politics/keiko-fujimori-peru-presidential-race/",
-      "published_date": "2026-06-29T22:28:00+00:00"
-    },
-    {
-      "title": "Keiko Fujimori is elected president of Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-es-electa-presidenta-de-peru/",
-      "published_date": "2026-06-29T22:25:25+00:00"
-    },
-    {
-      "title": "Keiko Fujimori officially declared president-elect of Peru",
-      "source": "France 24 FR",
-      "country": "Peru",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260629-keiko-fujimori-d%C3%A9claree-officiellement-presidente-election-perou-amerique-latine-roberto-sanchez",
-      "published_date": "2026-06-29T22:05:18+00:00"
-    },
-    {
-      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
-      "source": "France 24 English",
-      "country": "Peru",
-      "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory",
-      "published_date": "2026-06-29T22:04:17+00:00"
-    },
-    {
-      "title": "Keiko Fujimori wins the elections in Peru according to the electoral authority",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Peru",
-      "url": "https://efectococuyo.com/internacionales/keiko-fujimori-gana-las-elecciones-en-peru-de-acuerdo-con-la-autoridad-electoral/",
-      "published_date": "2026-06-29T21:39:44+00:00"
-    },
-    {
-      "title": "In Peru, Keiko Fujimori officially elected president with 50.13% of the vote",
-      "source": "Le Monde France",
-      "country": "Peru",
-      "url": "https://www.lemonde.fr/international/article/2026/06/29/au-perou-keiko-fujimori-officiellement-elue-presidente-avec-50-13-des-voix_6716981_3210.html",
-      "published_date": "2026-06-29T21:20:50+00:00"
-    },
-    {
-      "title": "US believes Israel-Syria normalization chances before Knesset elections 'very slim,' source to Post",
-      "source": "Jerusalem Post",
-      "country": "Syria",
-      "url": "https://www.jpost.com/middle-east/article-900872",
-      "published_date": "2026-06-29T20:24:53+00:00"
-    },
-    {
-      "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "source": "France 24 English",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
-      "published_date": "2026-06-29T18:14:26+00:00"
-    },
-    {
-      "title": "‘He’s clearly pro-war. And people are tired of the war.’ Why Russia’s ruling party left Dmitry Medvedev, its own chairman, off this September’s election list.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/06/29/he-s-clearly-pro-war-and-people-are-tired-of-the-war-why-russia-s-ruling-party-left-dmitry-medvedev-its-own-chairman-off-this-september-s-election-list",
-      "published_date": "2026-06-29T18:01:54+00:00"
-    },
-    {
-      "title": "‘He’s clearly pro-war. And people are tired of the war.’ Why Russia’s ruling party left Dmitry Medvedev, its own chairman, off this September’s election list. - Meduza",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYmx3S0UzR3pNRUNMeGg1bzhzNzlfQkk1YlA0RG8zOGxqREZzYmZKUHBWel9iRWVvSy1lMEdKSFBSXzI2SExnSkk3Vk1BTFllYnAyX2Q4M2ZWcjJSSFUyMVFOdTk3TnV3czR0Q1dLeXVoNHBXRDFyYVBqU3hfQnlTMHlWX01jUDl3bVMtNDFsbGNfcnBVUE16ZTVpNHE5WDlkZXhpb3dsZnZ5SVBMVW93RDlHWkFyWDFCN1BBakI5b0hNSGRGM2FYRl9PQy1qZGFsSkhYVEVEX0lrcmU3eVU5dVVHeGNQV1hYVGRVcTJhU2FTUFBFbkRDdVV2MlZXRnM1Wm1MWW5HUWpSY3NDOXRXZVJLbUlFek41VENR0gGgAkFVX3lxTFBMdUdwVTR6MzNpOWJGWFRyN1d2Nzc4YzZWTmdIbGZCSm1DTzdrM0pEWDB4c3BRQVJkNVpPWjlmdXZVb2ZSd0FKTFRGdnloYzFVQ0liWl9RTUk1dEwxX3d0anRRTF9OemtRb0g3WEJUMjhYb0RmM1dqUy02MW8xV1ZXM044algxZHRSY1Y5LUhfanU2c0V3ZXJBcldlTjdTT3dKRThXX21USjhvZFpOYmhtOVo2V1VTS1pTNU9sdEJBU0hzQTJQN2NTal94NEhXMFdha3NmcldYd3VlQ296UGtJWDRHZHlkUTdoeEQ4UzNiNDFHNHFQaGprWUcxbXlnVjJxRno1ZWpFSlVKX1puQ1poMjFKNGRuUkJGb0RoSHc4Vg?oc=5",
-      "published_date": "2026-06-29T18:01:00+00:00"
-    },
-    {
-      "title": "Ireland head coach Malan resigns a day after historic clean-sweep over India",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/sports/cricket/ireland-coach-malan-resigns-wilson-appointed-india-series-win-10763325/",
-      "published_date": "2026-06-29T16:20:03+00:00"
-    },
-    {
-      "title": "3 PPP lawmakers booked for obstructing Yoon's arrest over martial law bid",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260629/3-ppp-lawmakers-booked-for-obstructing-yoons-arrest-over-martial-law-bid?utm_source=rss",
-      "published_date": "2026-06-29T14:47:03+00:00"
-    },
-    {
-      "title": "Olodo uprising: Tinubu’s aide faults critics of First Lady’s Akara, Kuli kuli comment",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/olodo-uprising-tinubu-aide-faults-critics-of-first-ladys-akara-kuli-kuli-comment/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-06-29T14:13:33+00:00"
     }
   ]
 }
