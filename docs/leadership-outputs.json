@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-12T23:48:49.937238+00:00",
-    "story_count": 396,
+    "last_updated": "2026-07-13T13:27:23.293775+00:00",
+    "story_count": 397,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei and his measures, live: the parliamentary agenda is reactivated and the 2027 elections begin to be defined",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
+      "published_date": "2026-07-13T13:07:00+00:00"
+    },
+    {
+      "title": "Edo APC lauds LG elections, assured Tinubu of 2.5m votes",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/edo-apc-lauds-lg-elections-assured-tin-ubu-of-2-5m-votes/",
+      "published_date": "2026-07-13T12:48:59+00:00"
+    },
+    {
+      "title": "Election season in Israel: Important dates to note before voters head to the polls - explainer",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902333",
+      "published_date": "2026-07-13T11:53:40+00:00"
+    },
+    {
+      "title": "LIVE - Speech to the armies of Emmanuel Macron: France ready to defend “freedom and law, at the cost of blood if necessary”, declares the head of state",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/international/en-direct-le-discours-aux-armees-d-emmanuel-macron-a-la-veille-de-la-ceremonie-du-14-juillet-20260713",
+      "published_date": "2026-07-13T11:32:26+00:00"
+    },
+    {
+      "title": "Ukraine to get new prime minister amid major government reshuffle",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/ukraine-to-get-new-prime-minister-amid-major-government-reshuffle",
+      "published_date": "2026-07-13T10:33:50+00:00"
+    },
+    {
+      "title": "Ten months before the presidential election in France, Marine Le Pen leads in the polls",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260713-dix-mois-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france-marine-le-pen-en-t%C3%AAte-dans-les-sondages",
+      "published_date": "2026-07-13T09:54:43+00:00"
+    },
+    {
+      "title": "In Germany, the president, Frank-Walter Steinmeier, believes that the protocol function of the head of state must evolve in the face of the rise of the far right",
+      "source": "Le Monde France",
+      "country": "Germany",
+      "url": "https://www.lemonde.fr/international/article/2026/07/13/en-allemagne-le-president-frank-walter-steinmeier-estime-que-la-fonction-protocolaire-du-chef-de-l-etat-doit-evoluer-face-a-la-montee-de-l-extreme-droite_6723055_3210.html",
+      "published_date": "2026-07-13T05:25:55+00:00"
+    },
+    {
+      "title": "India News Live Updates, 13 July 2026: Uddhav Thackeray backs CJP protest; demands Dharmendra Pradhan’s resignation",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/india-news-live-updates-13-july-2026-breaking-news-10783687/",
+      "published_date": "2026-07-13T03:34:31+00:00"
+    },
+    {
+      "title": "Former mayor Allyson Bezerra bets on national neutrality and sharp marketing in the election in RN",
+      "source": "Folha de S Paulo",
+      "country": "France",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ex-prefeito-allyson-bezerra-aposta-em-neutralidade-nacional-e-marketing-afiado-na-eleicao-no-rn.shtml",
+      "published_date": "2026-07-13T02:00:00+00:00"
+    },
     {
       "title": "Vice President-elect of Colombia pointed out that his country is key \"for the United States to achieve its mission in Venezuela\"",
       "source": "El Nacional Venezuela",
@@ -106,6 +169,13 @@
       "source": "Euronews",
       "country": "Israel",
       "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
+      "published_date": "2026-07-12T18:59:28+00:00"
+    },
+    {
+      "title": "Israel to hold elections on 27 October with Netanyahu set to run again - Euronews.com",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzl3d3JfVVROdW5aS3NCdzJBMWp1eW4ybldvZTRrLUtBLURMNllfQUk3a3hETFR4Z0dMSC1NaUkxS1dEcWJOWFVlXy1jSmRzTEZSQ2VOaWloQ0NoZXZNaGdyVktNcmdtSzU1eGxCVXUzYzd3aU95UFVYZGpZeUVod3o1YWxLWGV4YjFvVDRBNHJjSzZWdVMwVFlfWmZESFpWMW5PRFhYUjZGRUFmdWtoS3VOaW9CMEdBeVRieGpEMzJvMmhp?oc=5",
       "published_date": "2026-07-12T18:59:28+00:00"
     },
     {
@@ -2767,69 +2837,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/olodo-uprising-tinubu-aide-faults-critics-of-first-ladys-akara-kuli-kuli-comment/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-06-29T14:13:33+00:00"
-    },
-    {
-      "title": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260629-french-2027-presidential-election-can-the-rn-win-without-le-pen-bardella",
-      "published_date": "2026-06-29T11:19:02+00:00"
-    },
-    {
-      "title": "Despite military gains, Myanmar junta struggles to restore border trade",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/despite-military-gains-myanmar-junta-struggles-to-restore-border-trade/",
-      "published_date": "2026-06-29T10:46:25+00:00"
-    },
-    {
-      "title": "Starmer resigns: Which European country has the highest turnover of leaders?",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/06/29/starmer-resigns-which-european-country-has-the-highest-turnover-of-leaders",
-      "published_date": "2026-06-29T10:22:34+00:00"
-    },
-    {
-      "title": "Defense Minister meets Libyan National Army Deputy Commander-in-Chief, Chief of General Staff",
-      "source": "Egypt Independent",
-      "country": "Libya",
-      "url": "https://www.egyptindependent.com/defense-minister-meets-libyan-national-army-deputy-commander-in-chief-chief-of-general-staff/",
-      "published_date": "2026-06-29T09:35:27+00:00"
-    },
-    {
-      "title": "10 years added to sentence of food courier accused of insulting Myanmar junta leader",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/10-years-added-to-sentence-of-food-courier-accused-of-insulting-myanmar-junta-leader/",
-      "published_date": "2026-06-29T08:06:23+00:00"
-    },
-    {
-      "title": "Bukele formalizes pre-candidacy to seek a third consecutive term in the 2027 elections",
-      "source": "La Tercera Chile",
-      "country": "El Salvador",
-      "url": "https://www.latercera.com/mundo/noticia/bukele-formaliza-precandidatura-para-buscar-un-tercer-mandato-consecutivo-en-las-elecciones-de-2027/",
-      "published_date": "2026-06-29T05:52:21+00:00"
-    },
-    {
-      "title": "Electoral observation was fundamental in the 2026 presidential elections in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-observacion-electoral-fue-fundamental-en-las-elecciones-presidenciales-de-2026-en-colombia-3567717",
-      "published_date": "2026-06-29T03:10:00+00:00"
-    },
-    {
-      "title": "STF ministers predict a cut in the spotlight if Lula wins the election and daily clashes if Flávio wins",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/ministros-do-stf-preveem-corte-na-berlinda-se-lula-ganhar-eleicao-e-embates-diarios-se-flavio-vencer.shtml",
-      "published_date": "2026-06-29T02:00:00+00:00"
-    },
-    {
-      "title": "PM thanks citizens for heeding Iran war crisis appeal in Mann Ki Baat",
-      "source": "Hindustan Times",
-      "country": "Iran",
-      "url": "https://www.hindustantimes.com/india-news/pm-thanks-citizens-for-heeding-iran-war-crisis-appeal-in-mann-ki-baat-101782674139041.html",
-      "published_date": "2026-06-29T00:50:13+00:00"
     }
   ]
 }
