@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-14T12:14:52.955384+00:00",
-    "story_count": 393,
+    "last_updated": "2026-07-14T23:48:56.421598+00:00",
+    "story_count": 387,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Withholdings, infrastructure and credit: the request that Nicolás Pino will make to Javier Milei at the inauguration of the Rural",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/campo/retenciones-infraestructura-y-credito-el-pedido-que-nicolas-pino-le-hara-a-javier-milei-en-la-nid14072026/",
+      "published_date": "2026-07-14T22:08:57+00:00"
+    },
+    {
+      "title": "Rick Scott affirms that earthquakes do not justify delaying presidential elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/rick-scott-afirma-que-terremotos-no-justifican-retrasar-elecciones-presidenciales-en-venezuela/",
+      "published_date": "2026-07-14T20:10:58+00:00"
+    },
+    {
+      "title": "How Turkey's 2016 coup attempt changed the country for good",
+      "source": "Deutsche Welle English",
+      "country": "Turkey",
+      "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00"
+    },
+    {
+      "title": "EL TIEMPO did not publish false statements by President Petro about not attending the inauguration of Abelardo De La Espriella; the image is fake",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-tiempo-no-publico-declaraciones-falsas-del-presidente-petro-sobre-no-asistir-a-la-posesion-de-abelardo-de-la-espriella-la-imagen-es-falsa-3571134",
+      "published_date": "2026-07-14T17:54:41+00:00"
+    },
+    {
+      "title": "Ukraine’s parliament passes bill decriminalizing adult pornography and raising penalties for child sexual abuse material",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/14/ukraine-s-parliament-passes-bill-decriminalizing-adult-pornography-and-raising-penalties-for-child-sexual-abuse-material",
+      "published_date": "2026-07-14T16:44:38+00:00"
+    },
+    {
+      "title": "Herman Smetanin resigns as head of Ukroboronprom, Ukraine’s largest defense company, after a Russian strike on one of its warehouses near Kyiv kills nine",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/14/herman-smetanin-resigns-as-head-of-ukroboronprom-ukraine-s-largest-defense-company-after-a-russian-strike-on-one-of-its-warehouses-near-kyiv-kills-nine",
+      "published_date": "2026-07-14T16:01:09+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Parliament approves Svyrydenko's resignation",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-parlament-stimmt-ruecktritt-von-swyrydenko-zu-faz-110683325.html",
+      "published_date": "2026-07-14T14:51:54+00:00"
+    },
+    {
+      "title": "Government reshuffle in Ukraine: Parliament dismisses Prime Minister Yulia Svyrydenko",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/07/14/government-reshuffle-in-ukraine-parliament-dismisses-prime-minister-yulia-svyrydenko",
+      "published_date": "2026-07-14T13:16:23+00:00"
+    },
+    {
+      "title": "St. Petersburg Election Candidate Jailed 10 Days for Old Social Media Posts",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/14/st-petersburg-election-candidate-jailed-10-days-for-old-social-media-posts-a93242",
+      "published_date": "2026-07-14T12:12:00+00:00"
+    },
     {
       "title": "Seoul mayor denied chance to speak on housing at 1st Cabinet meeting since reelection",
       "source": "Korea Times",
@@ -2704,111 +2767,6 @@
       "country": "Myanmar",
       "url": "https://politiken.dk/internationalt/art10902489/Organisation-100.000-er-blevet-dr%C3%A6bt-siden-milit%C3%A6rkup-i-Myanmar",
       "published_date": "2026-07-01T06:35:25+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Édouard Philippe refutes promising the French “blood and tears”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-refute-promettre-aux-francais-du-sang-et-des-larmes-20260630",
-      "published_date": "2026-06-30T23:07:01+00:00"
-    },
-    {
-      "title": "Milei and Adorni gave each other a effusive hug during Santilli's inauguration",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/el-momento-del-abrazo-entre-milei-y-adorni-durante-la-asuncion-de-santilli-nid30062026/",
-      "published_date": "2026-06-30T22:58:59+00:00"
-    },
-    {
-      "title": "France sets presidential election date as Macron finishes final term",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term",
-      "published_date": "2026-06-30T22:09:22+00:00"
-    },
-    {
-      "title": "France sets presidential election date as Macron finishes final term - France 24",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmJuMUFXeEtsZVhONkRKN2h1a25jN2RNMEU1WHYtM094RUdnWENFRzRFbVhmYktLVWxTMUlnZDJJVmdBeEppMGZlTHgtQTZTb0Q4ZzQyYktycnBuZFY0Sng5UGxOeFNJMTI2dXVoU21rLXdyYnAwd2lGZE1fRFJHbktmTl9DeURmWEZ6eTRTdGREQTloeWxZTmlRQTNEbUZfX0lPdy1hdm1mR3Fxc2RjMk93?oc=5",
-      "published_date": "2026-06-30T22:09:00+00:00"
-    },
-    {
-      "title": "Explosion in Monaco: since his golden exile, Vadim Ermolaev has continued his activities in Ukraine despite sanctions",
-      "source": "Le Figaro France",
-      "country": "Ukraine",
-      "url": "https://www.lefigaro.fr/actualite-france/attentat-a-monaco-depuis-son-exil-dore-vadim-ermolaev-poursuivait-ses-activites-en-ukraine-malgre-les-sanctions-20260630",
-      "published_date": "2026-06-30T21:26:30+00:00"
-    },
-    {
-      "title": "France: the 2027 presidential election will take place on April 18 and May 2",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/france/20260630-france-l-%C3%A9lection-pr%C3%A9sidentielle-2027-aura-lieu-les-18-avril-et-2-mai",
-      "published_date": "2026-06-30T20:52:34+00:00"
-    },
-    {
-      "title": "This is how the connection between Gustavo Petro's government and the team of the president-elect, Abelardo de la Espriella, progresses: this week the first meeting will take place",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/asi-avanza-el-empalme-del-gobierno-de-gustavo-petro-con-el-equipo-del-presidente-electo-abelardo-de-la-espriella-esta-semana-se-dara-la-primera-cita-3567986",
-      "published_date": "2026-06-30T20:07:59+00:00"
-    },
-    {
-      "title": "Laura Sarabia presented her resignation as Colombian ambassador to the United Kingdom; will leave office on August 7",
-      "source": "El Tiempo Colombia",
-      "country": "United Kingdom",
-      "url": "https://www.eltiempo.com/politica/gobierno/laura-sarabia-presento-su-renuncia-como-embajadora-de-colombia-en-el-reino-unido-dejara-el-cargo-el-7-de-agosto-3567975",
-      "published_date": "2026-06-30T19:07:22+00:00"
-    },
-    {
-      "title": "Employees have resigned: Now more than every third fountain in Copenhagen is empty of water",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/art10902052/Medarbejdere-har-sagt-op-Nu-er-mere-end-hvert-tredje-springvand-i-K%C3%B8benhavn-tomt-for-vand",
-      "published_date": "2026-06-30T19:00:14+00:00"
-    },
-    {
-      "title": "PPP, JUI-F announce they will jointly contest upcoming AJK elections",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2011985/ppp-jui-f-announce-they-will-jointly-contest-upcoming-ajk-elections",
-      "published_date": "2026-06-30T17:55:44+00:00"
-    },
-    {
-      "title": "On the eve of the legislative elections in Algeria, the new faces of the diaspora in France, confronted with latent “Algerophobia”",
-      "source": "Le Monde France",
-      "country": "Algeria",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/30/a-la-veille-des-legislatives-en-algerie-les-nouveaux-visages-de-la-diaspora-en-france-confrontes-a-une-algerophobie-latente_6717304_3212.html",
-      "published_date": "2026-06-30T16:00:10+00:00"
-    },
-    {
-      "title": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/06/30/a-third-russian-region-declares-high-alert-over-fuel-crisis-a-status-that-allows-elections-to-be-postponed",
-      "published_date": "2026-06-30T15:11:11+00:00"
-    },
-    {
-      "title": "India's Cockroach party seeking education minister's ouster awaits cabinet reshuffle",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle",
-      "published_date": "2026-06-30T13:11:22+00:00"
-    },
-    {
-      "title": "Bukele will seek a third consecutive term in 2027 in El Salvador after the constitutional reform",
-      "source": "La Nacion Argentina",
-      "country": "El Salvador",
-      "url": "https://www.lanacion.com.ar/el-mundo/bukele-buscara-un-tercer-mandato-consecutivo-en-2027-en-el-salvador-tras-la-reforma-constitucional-nid30062026/",
-      "published_date": "2026-06-30T12:48:13+00:00"
-    },
-    {
-      "title": "Keiko Fujimori won the runoff in Peru by less than 50,000 votes and will be the next president",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/el-mundo/keiko-fujimori-gano-el-balotaje-en-peru-por-menos-de-50000-votos-y-sera-la-proxima-presidenta-nid29062026/",
-      "published_date": "2026-06-30T12:09:42+00:00"
     }
   ]
 }
