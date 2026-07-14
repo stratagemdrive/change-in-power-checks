@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-13T23:49:20.887973+00:00",
-    "story_count": 396,
+    "last_updated": "2026-07-14T12:14:52.955384+00:00",
+    "story_count": 393,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Seoul mayor denied chance to speak on housing at 1st Cabinet meeting since reelection",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260714/seoul-mayor-denied-chance-to-speak-on-housing-at-1st-cabinet-meeting-since-reelection?utm_source=rss",
+      "published_date": "2026-07-14T12:07:02+00:00"
+    },
+    {
+      "title": "Who is María Nohemí Arboleda, the new Minister of Mines and Energy appointed by the elected president of Colombia, Abelardo de la Espriella?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-maria-nohemi-arboleda-la-nueva-ministra-de-minas-y-energia-designada-por-el-presidente-electo-de-colombia-abelardo-de-la-espriella-3571012",
+      "published_date": "2026-07-14T12:02:38+00:00"
+    },
+    {
+      "title": "Netanyahu seeking electoral stalemate, new elections to stay in power, former adviser says",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902438",
+      "published_date": "2026-07-14T11:39:19+00:00"
+    },
+    {
+      "title": "Israel to hold national elections on 27 October, Knesset says",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-hold-elections-october-27-knesset-says",
+      "published_date": "2026-07-14T10:00:28+00:00"
+    },
+    {
+      "title": "Nigeria contradicts US claim on huge electronic materials ‘captured’ from terrorists",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/foreign/895158-nigeria-contradicts-us-claim-on-huge-electronic-materials-captured-from-terrorists.html",
+      "published_date": "2026-07-14T07:44:03+00:00"
+    },
+    {
+      "title": "South Korea’s lost Canadian deal; BN’s election win in Malaysia’s Johor: 7 Asia highlights",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/article/3360459/south-koreas-lost-canadian-deal-bns-election-win-malaysias-johor-7-asia-highlights?utm_source=rss_feed",
+      "published_date": "2026-07-14T04:34:05+00:00"
+    },
+    {
+      "title": "Trump set to address Iran, election integrity in prime-time speech",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/07/14/trump-speech-iran-election",
+      "published_date": "2026-07-14T01:10:59+00:00"
+    },
     {
       "title": "Javier Milei and his measures, live: the parliamentary agenda is reactivated and the 2027 elections begin to be defined",
       "source": "La Nacion Argentina",
@@ -2760,76 +2809,6 @@
       "country": "Peru",
       "url": "https://www.lanacion.com.ar/el-mundo/keiko-fujimori-gano-el-balotaje-en-peru-por-menos-de-50000-votos-y-sera-la-proxima-presidenta-nid29062026/",
       "published_date": "2026-06-30T12:09:42+00:00"
-    },
-    {
-      "title": "More Myanmar garment workers detained in China after resigning over labour complaints",
-      "source": "Myanmar Now",
-      "country": "China",
-      "url": "https://myanmar-now.org/en/news/more-myanmar-garment-workers-detained-in-china-after-resigning-over-labour-complaints/",
-      "published_date": "2026-06-30T09:48:59+00:00"
-    },
-    {
-      "title": "Venezuela’s opposition leader in exile says she will do ‘whatever it takes’ to return to help earthquake victims",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-maria-corina-machado-victims-aid-b3005523.html",
-      "published_date": "2026-06-30T06:09:58+00:00"
-    },
-    {
-      "title": "Serbia heads for elections as EU-China trade tensions grow",
-      "source": "Euronews",
-      "country": "China",
-      "url": "http://www.euronews.com/my-europe/2026/06/30/serbia-heads-for-elections-as-eu-china-trade-tensions-grow",
-      "published_date": "2026-06-30T06:02:34+00:00"
-    },
-    {
-      "title": "Kast, Milei, Paz and De la Espriella congratulate Fujimori for his electoral victory in the Peruvian runoff",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-felicita-a-keiko-fujimori-por-su-triunfo-electoral-en-el-balotaje-peruano/",
-      "published_date": "2026-06-30T03:17:13+00:00"
-    },
-    {
-      "title": "President's daughter: Right-wing conservative Fujimori wins presidential election in Peru",
-      "source": "FAZ Germany",
-      "country": "Peru",
-      "url": "https://www.faz.net/aktuell/politik/ausland/keiko-fujimori-gewinnt-praesidentenwahl-in-peru-knapp-accg-200981605.html",
-      "published_date": "2026-06-30T02:49:24+00:00"
-    },
-    {
-      "title": "Lula releases R$520 million for advertising before the election, more than twice as much as Bolsonaro in 2022",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-libera-r-520-mi-para-propaganda-antes-da-eleicao-mais-que-o-dobro-de-bolsonaro-em-2022.shtml",
-      "published_date": "2026-06-30T02:00:00+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella, president-elect of Colombia, held a call with Keiko Fujimori after his victory in Peru: 'We are going to strengthen ties'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-sostuvo-llamada-con-keiko-fujimori-tras-su-victoria-en-peru-vamos-a-estrechar-los-lazos-3567813",
-      "published_date": "2026-06-30T00:58:31+00:00"
-    },
-    {
-      "title": "Venezuelan opposition leader: The government prevents me from entering the country after the earthquake",
-      "source": "DR News Denmark",
-      "country": "Venezuela",
-      "url": "https://www.dr.dk/nyheder/seneste/venezuelansk-oppositionsleder-regeringen-forhindrer-mig-i-rejse-ind-i-landet-efter-jordskaelv",
-      "published_date": "2026-06-30T00:43:40+00:00"
-    },
-    {
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "source": "The Guardian World",
-      "country": "Peru",
-      "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
-      "published_date": "2026-06-30T00:18:15+00:00"
-    },
-    {
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right - The Guardian",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFRra1l6ZzJZclBXd2V6UzhEazl6RTZxc0xCWUpoMm9WOEFEQTZTelRlQUNNejNQSXpBaEItS1JPZ0Rla0UxNEdyM212Y2tUWEZnckF6UDZZMV9LZjFVa2hkWlAwZ3E3UzJFV3FwRExqckU5SGphd01Ddnc5NHV1WXppSWFEMU5qbFFtN2p6QXpoR1MwYWlhallpTThCVU43VmhrSG1kNzM?oc=5",
-      "published_date": "2026-06-30T00:18:00+00:00"
     }
   ]
 }
