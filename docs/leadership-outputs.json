@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-15T12:18:13.536556+00:00",
-    "story_count": 396,
+    "last_updated": "2026-07-15T23:57:35.310560+00:00",
+    "story_count": 408,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,167 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "White House weighs releasing controversial intel on Chinese election interference",
+      "source": "Jerusalem Post",
+      "country": "China",
+      "url": "https://www.jpost.com/american-politics/article-902651",
+      "published_date": "2026-07-16T01:36:30+00:00"
+    },
+    {
+      "title": "\"The regime owes an apology and compensation to the Cuban people,\" says exiled journalist",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-07-16-u1-e208933-s27061-nid335233-regimen-le-debe-disculpa-indemnizacion-al-pueblo",
+      "published_date": "2026-07-15T22:39:55+00:00"
+    },
+    {
+      "title": "Keiko Fujimori celebrates her proclamation: “Proud to be the first woman elected president in Peru”",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-celebra-su-proclamacion-orgullosa-de-ser-la-primera-mujer-elegida-presidenta-en-el-peru/",
+      "published_date": "2026-07-15T21:59:17+00:00"
+    },
+    {
+      "title": "Marco Rubio meets with vice president-elect of Colombia to seal a new bilateral stage",
+      "source": "CiberCuba",
+      "country": "Colombia",
+      "url": "https://www.cibercuba.com/noticias/2026-07-15-u1-e199894-s27061-nid335228-marco-rubio-reune-vicepresidente-electo-colombia",
+      "published_date": "2026-07-15T21:54:01+00:00"
+    },
+    {
+      "title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
+      "published_date": "2026-07-15T21:49:52+00:00"
+    },
+    {
+      "title": "The reshuffle continues in Ukraine, Defense Minister Mykhailo Fedorov has resigned",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/europe/20260715-remaniement-poursuit-ukraine-ministre-defense-mykhailo-fedorov-annonce-demission-politique-drones-guerre-russie",
+      "published_date": "2026-07-15T21:29:18+00:00"
+    },
+    {
+      "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
+      "source": "Al Jazeera English",
+      "country": "Turkey",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/10-years-on-from-turkiyes-failed-coup-attempt-on-erdogan?traffic_source=rss",
+      "published_date": "2026-07-15T20:35:09+00:00"
+    },
+    {
+      "title": "French Parliament approves the right to assisted dying for people with incurable diseases",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/mundo/noticia/parlamento-frances-aprueba-el-derecho-a-la-muerte-asistida-para-personas-con-enfermedades-incurables/",
+      "published_date": "2026-07-15T20:14:04+00:00"
+    },
+    {
+      "title": "French Parliament approves landmark assisted-dying bill",
+      "source": "Al Jazeera English",
+      "country": "France",
+      "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+      "published_date": "2026-07-15T19:58:53+00:00"
+    },
+    {
+      "title": "Keiko Fujimori receives official credentials as president-elect of Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-recibe-credenciales-oficiales-como-presidenta-electa-de-peru/",
+      "published_date": "2026-07-15T19:23:38+00:00"
+    },
+    {
+      "title": "2027 presidential election: who faces Le Pen?",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260715-pr%C3%A9sidentielle-2027-qui-face-%C3%A0-le-pen",
+      "published_date": "2026-07-15T19:05:31+00:00"
+    },
+    {
+      "title": "Ukrainian defense minister resigns",
+      "source": "DR News Denmark",
+      "country": "Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-forsvarsminister-traeder-tilbage",
+      "published_date": "2026-07-15T18:55:42+00:00"
+    },
+    {
+      "title": "Germany warns US against election interference after it announces grants scheme",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
+      "published_date": "2026-07-15T18:45:24+00:00"
+    },
+    {
+      "title": "French parliament passes assisted dying bill for some terminally ill adults",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/07/15/french-parliament-passes-assisted-dying-bill-for-some-terminally-ill-adults",
+      "published_date": "2026-07-15T17:56:54+00:00"
+    },
+    {
+      "title": "Three months before the elections, Lula reaches his best approval rating since 2024 and is eight points ahead of Flávio Bolsonaro",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/a-tres-meses-de-las-elecciones-lula-alcanza-su-mejor-indice-aprobacion-desde-2024-y-queda-ocho-puntos-sobre-flavio-bolsonaro/",
+      "published_date": "2026-07-15T17:30:00+00:00"
+    },
+    {
+      "title": "Former Hungarian foreign minister Szijjártó resigns from parliament to join Chinese carmaker",
+      "source": "Euronews",
+      "country": "China",
+      "url": "http://www.euronews.com/my-europe/2026/07/15/former-hungarian-foreign-minister-szijjarto-resigns-from-parliament-to-join-chinese-carmak",
+      "published_date": "2026-07-15T16:48:45+00:00"
+    },
+    {
+      "title": "Colombians with approved immigrant visas asked President-elect Abelardo de la Espriella to intervene before the United States.",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombianos-con-visas-de-inmigrante-aprobadas-pidieron-al-presidente-electo-abelardo-de-la-espriella-intervenir-ante-ee-uu-3571392",
+      "published_date": "2026-07-15T16:38:53+00:00"
+    },
+    {
+      "title": "Russia may announce general mobilization after elections – Zelensky",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4144653-russia-may-announce-general-mobilization-after-elections-zelensky.html",
+      "published_date": "2026-07-15T16:23:00+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Zelenskyj proposes Serhiy Koretskyj as new prime minister",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-schlaegt-serhij-korezkyj-als-neuen-ministerpraesidenten-vor-faz-110683325.html",
+      "published_date": "2026-07-15T16:04:39+00:00"
+    },
+    {
+      "title": "Dinorah Figuera: Today there are no conditions in Venezuela for a presidential election",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/dinorah-figuera-hoy-no-hay-en-venezuela-condiciones-para-una-eleccion-presidencial/",
+      "published_date": "2026-07-15T14:36:32+00:00"
+    },
+    {
+      "title": "Merz reaches out to AfD voters before pivotal German regional election - Reuters",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2YwYXE5a244NUNCYUJRNndKNkdfaFFlSXl5NVd6WEx0UGdsVHFrZGZROXVGb0VOZng5aUY1VER6bnhGNWZiSGJ5TVdmTmtrV0pWVHZXa3BiWmk1a1lxcWE0NjNrYXVXemlMR3dTS1RnUHdNNFJ2d2pTVzU3bl9hZlV2ZXdWZmJTN3lJWWp5UTZOeVVobXN5U0E5OEc0Znhibk9CMmo1RzJRSjRET2lQUm5PWnQ?oc=5",
+      "published_date": "2026-07-15T14:04:23+00:00"
+    },
+    {
+      "title": "Former Hungarian foreign minister resigns from parliament for job with Chinese automaker",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/europe/peter-szijjarto-viktor-orban-chinese-european-union-peter-magyar-b3015443.html",
+      "published_date": "2026-07-15T13:59:01+00:00"
+    },
+    {
+      "title": "Erdogan calls for deportation of suspects linked to failed coup a decade ago",
+      "source": "The Independent UK",
+      "country": "Turkey",
+      "url": "https://www.independent.co.uk/news/world/recep-erdogan-turkiye-failed-coup-b3015291.html",
+      "published_date": "2026-07-15T13:38:08+00:00"
+    },
     {
       "title": "Hardliners in Tehran are running the show while the Iran's supreme leader watches - opinion",
       "source": "Jerusalem Post",
@@ -176,6 +337,13 @@
       "source": "Deutsche Welle English",
       "country": "Turkey",
       "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00"
+    },
+    {
+      "title": "Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today",
+      "source": "Deutsche Welle English",
+      "country": "Turkey",
+      "url": "https://www.dw.com/en/ten-years-ago-parts-of-the-turkish-military-tried-to-overthrow-the-erdogan-government-the-consequences-are-still-shaping-turkey-today/a-77955154?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-07-14T19:00:00+00:00"
     },
     {
@@ -2746,90 +2914,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/santilli-renovo-la-pelea-con-kicillof-es-el-peor-gobernador-de-la-historia-de-la-provincia-de-buenos-nid01072026/",
       "published_date": "2026-07-01T23:57:10+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Arnaud Montebourg calls for “emergency neutralization” of Jean-Luc Mélenchon, whom he describes as “rabid”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-arnaud-montebourg-appelle-a-neutraliser-d-urgence-jean-luc-melenchon-qu-il-qualifie-de-fou-furieux-20260701",
-      "published_date": "2026-07-01T23:05:07+00:00"
-    },
-    {
-      "title": "Iranian president insists supreme leader did not bar negotiations",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-insists-supreme-leader-did-not-bar-negotiations",
-      "published_date": "2026-07-01T18:40:44+00:00"
-    },
-    {
-      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
-      "published_date": "2026-07-01T18:22:37+00:00"
-    },
-    {
-      "title": "Chechen leader Ramzan Kadyrov has topped the republic’s United Russia party list every election since 2007. Not this year.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/01/chechen-leader-ramzan-kadyrov-has-topped-the-republic-s-united-russia-party-list-every-election-since-2007-not-this-year",
-      "published_date": "2026-07-01T17:50:09+00:00"
-    },
-    {
-      "title": "Legislative elections in Algeria: the locking of the electoral game raises fears of massive abstention",
-      "source": "Le Monde France",
-      "country": "Algeria",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/01/en-algerie-des-elections-legislatives-privees-d-enjeu_6717583_3212.html",
-      "published_date": "2026-07-01T17:00:02+00:00"
-    },
-    {
-      "title": "Xi Jinping, president of China, congratulates Abelardo de la Espriella on his election as president of Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "China",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/xi-jinping-presidente-de-china-felicita-a-abelardo-de-la-espriella-por-su-eleccion-como-presidente-de-colombia-3568202",
-      "published_date": "2026-07-01T15:08:10+00:00"
-    },
-    {
-      "title": "Ukraine’s former commander-in-chief to run for president, reports say - Euronews",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU9nTVYybVE1YnNlRFZFNkZ4aUFJR052eEwyTlhIOTZqZ0NCT29YVm4tWGJGWGx4TFJUck1CbU13cms4bXdnM3lqTkV4RlN0Vk9BSHVwc0c1a0hLUU1JekF4NlJHVVdISkJYaUNUQ1czZmg2dmo5WlJYNFRiR3NHRkotWGhrWlVWb0Vtdmg2TlByaThCZ3lJY2NuZldITU1KOHZERkdweFVENGsxQXVoRFEzZw?oc=5",
-      "published_date": "2026-07-01T14:48:55+00:00"
-    },
-    {
-      "title": "France confirms dates for 2027 presidential election",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260701-france-confirms-dates-for-2027-presidential-election-april-may",
-      "published_date": "2026-07-01T14:41:06+00:00"
-    },
-    {
-      "title": "‘I will’: Zaluzhnyi reportedly tells Zelensky he’ll run for president if Ukraine holds elections this fall",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/07/01/i-will-zaluzhnyi-reportedly-tells-zelensky-he-ll-run-for-president-if-ukraine-holds-elections-this-fall",
-      "published_date": "2026-07-01T13:43:06+00:00"
-    },
-    {
-      "title": "Lee, Moon stress party unity ahead of DPK leadership race",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260701/lee-moon-stress-party-unity-ahead-of-dpk-leadership-race?utm_source=rss",
-      "published_date": "2026-07-01T13:32:03+00:00"
-    },
-    {
-      "title": "Algeria's parliamentary vote raises questions on real change",
-      "source": "Deutsche Welle English",
-      "country": "Algeria",
-      "url": "https://www.dw.com/en/algeria-s-parliamentary-vote-raises-questions-on-real-change/a-77787095?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-01T13:04:00+00:00"
-    },
-    {
-      "title": "Myriad of French presidential candidates to face off in late April election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election",
-      "published_date": "2026-07-01T12:50:25+00:00"
     }
   ]
 }
