@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-14T23:48:56.421598+00:00",
-    "story_count": 387,
+    "last_updated": "2026-07-15T12:18:13.536556+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,102 @@
   },
   "stories": [
     {
+      "title": "Hardliners in Tehran are running the show while the Iran's supreme leader watches - opinion",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/opinion/article-902329",
+      "published_date": "2026-07-15T13:00:00+00:00"
+    },
+    {
+      "title": "Starmer shares tributes and offers ‘full support’ to his successor in his final PMQs before stepping down – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
+      "published_date": "2026-07-15T11:54:14+00:00"
+    },
+    {
+      "title": "‘You want me to have heart attack, I’ll live to see your end': Mamata to BJP amid TMC rebellion",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-bjp-wants-me-to-have-heart-attack-will-see-your-end-madan-mitra-tmc-ritabrata-banerjee-abhishek-banerjee-101784115115012.html",
+      "published_date": "2026-07-15T11:47:17+00:00"
+    },
+    {
+      "title": "Venezuela’s interim government and opposition to begin formal talks",
+      "source": "The Guardian World",
+      "country": "Venezuela",
+      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+      "published_date": "2026-07-15T11:46:23+00:00"
+    },
+    {
+      "title": "ASEAN envoy meets Myanmar junta, ethnic armed groups in Thailand as NUG questions exclusion",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/asean-envoy-meets-myanmar-junta-ethnic-armed-groups-in-thailand-as-nug-questions-exclusion/",
+      "published_date": "2026-07-15T10:46:09+00:00"
+    },
+    {
+      "title": "‘For whom?’: Congress accuses BJP of delaying Pune Metro Line 3 inauguration",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/pune/pune-metro-line-3-launch-delayed-cmrs-clearance-congress-bjp-10787616/",
+      "published_date": "2026-07-15T10:11:34+00:00"
+    },
+    {
+      "title": "Russian troops, Myanmar junta forces hold small-scale joint military exercise in Naypyitaw",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/russian-troops-myanmar-junta-forces-hold-small-scale-joint-military-exercise-in-naypyitaw/",
+      "published_date": "2026-07-15T08:44:22+00:00"
+    },
+    {
+      "title": "Thursday July 23 will be national holiday to commemorate July 23 Revolution: Egyptian PM",
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "url": "https://www.egyptindependent.com/thursday-july-23-will-be-national-holiday-to-commemorate-july-23-revolution-egyptian-pm/",
+      "published_date": "2026-07-15T08:04:02+00:00"
+    },
+    {
+      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-15T06:34:00+00:00"
+    },
+    {
+      "title": "2016 coup attempt: How one night changed Turkey",
+      "source": "FAZ Germany",
+      "country": "Turkey",
+      "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-offene-fragen-zehn-jahre-nach-dem-putschversuch-accg-201026509.html",
+      "published_date": "2026-07-15T06:15:25+00:00"
+    },
+    {
+      "title": "Interim President of Peru requests Congress to grant a lifetime pension",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/presidente-interino-de-peru-solicita-al-congreso-el-otorgamiento-de-una-pension-vitalicia/",
+      "published_date": "2026-07-15T01:08:19+00:00"
+    },
+    {
+      "title": "“People are not going to invest in the long term if there is no democratic government”: the US seeks a middle ground for Venezuelan elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/la-gente-no-va-a-invertir-a-largo-plazo-si-no-hay-un-gobierno-democratico-estados-unidos-busca-punto-medio-para-elecciones-venezolanas/",
+      "published_date": "2026-07-15T00:56:08+00:00"
+    },
+    {
       "title": "Withholdings, infrastructure and credit: the request that Nicolás Pino will make to Javier Milei at the inauguration of the Rural",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/economia/campo/retenciones-infraestructura-y-credito-el-pedido-que-nicolas-pino-le-hara-a-javier-milei-en-la-nid14072026/",
       "published_date": "2026-07-14T22:08:57+00:00"
+    },
+    {
+      "title": "Michael Kozak: The US does not want elections “too soon” or “too far away” in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/michael-kozak-eeuu-no-quiere-elecciones-demasiado-pronto-ni-demasiado-lejos-en-venezuela/",
+      "published_date": "2026-07-14T21:54:39+00:00"
     },
     {
       "title": "Rick Scott affirms that earthquakes do not justify delaying presidential elections in Venezuela",
@@ -78,6 +169,13 @@
       "source": "Deutsche Welle English",
       "country": "Turkey",
       "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-14T19:00:00+00:00"
+    },
+    {
+      "title": "How the 2016 coup attempt changed Turkey for good",
+      "source": "Deutsche Welle English",
+      "country": "Turkey",
+      "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-07-14T19:00:00+00:00"
     },
     {
@@ -114,6 +212,13 @@
       "country": "Ukraine",
       "url": "http://www.euronews.com/my-europe/2026/07/14/government-reshuffle-in-ukraine-parliament-dismisses-prime-minister-yulia-svyrydenko",
       "published_date": "2026-07-14T13:16:23+00:00"
+    },
+    {
+      "title": "Bulgaria has no place in Coalition of the Willing backing Ukraine, says PM - politico.eu",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJwRmtYMkgwOEdVaDZXMXM2SnAzY0Fta05oX1dKeVd3VW9UUkpkenNmYVNEVVhyWTB1UklyOGVpME9Oa2tKN3hid1JBcHcwQnVQRUdSeWhGMnNneGg0bVVjanhWNHgtdUljU3E3Z2d2d1RyTzZ2d2hqOVk5TmszTHc4SVgzTEFtWkNhbTMwdk56ZlI2RWNhOXdCdw?oc=5",
+      "published_date": "2026-07-14T12:47:00+00:00"
     },
     {
       "title": "St. Petersburg Election Candidate Jailed 10 Days for Old Social Media Posts",
@@ -2725,48 +2830,6 @@
       "country": "France",
       "url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election",
       "published_date": "2026-07-01T12:50:25+00:00"
-    },
-    {
-      "title": "Zelensky Urged Zaluzhny to Avoid Election Race, Report Says - Kyiv Post",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tdXN4Mk95Z0R0cUlnSnhzUTdwZ0NBSVNPY2dYZjRuTC1Wc1NWWHpKYTdzcGZSSGhaYnZNMl9US20wY21zdlJLcVpRcw?oc=5",
-      "published_date": "2026-07-01T10:36:11+00:00"
-    },
-    {
-      "title": "Indian opposition demands defence minister's resignation for 'lying' about soldiers' deaths in 2025 conflict with Pakistan",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2012157/indian-opposition-demands-defence-ministers-resignation-for-lying-about-soldiers-deaths-in-2025-conflict-with-pakistan",
-      "published_date": "2026-07-01T08:47:00+00:00"
-    },
-    {
-      "title": "Three girls killed in Myanmar junta airstrike as fighting intensifies in southern Chin State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/three-girls-killed-in-myanmar-junta-airstrike-as-fighting-intensifies-in-southern-chin-state/",
-      "published_date": "2026-07-01T08:13:26+00:00"
-    },
-    {
-      "title": "Podcast: the weight of Minas Gerais in the election and the uncertainty of Lula and Flávio Bolsonaro in the state",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-o-peso-de-minas-gerais-na-eleicao-e-a-indefinicao-de-lula-e-flavio-bolsonaro-no-estado.shtml",
-      "published_date": "2026-07-01T08:00:00+00:00"
-    },
-    {
-      "title": "Iran prepares grand funeral for late supreme leader killed on war’s first day",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3359013/iran-prepares-grand-funeral-late-supreme-leader-killed-wars-first-day?utm_source=rss_feed",
-      "published_date": "2026-07-01T06:48:02+00:00"
-    },
-    {
-      "title": "Organization: 100,000 have been killed since military coup in Myanmar",
-      "source": "Politiken Denmark",
-      "country": "Myanmar",
-      "url": "https://politiken.dk/internationalt/art10902489/Organisation-100.000-er-blevet-dr%C3%A6bt-siden-milit%C3%A6rkup-i-Myanmar",
-      "published_date": "2026-07-01T06:35:25+00:00"
     }
   ]
 }
