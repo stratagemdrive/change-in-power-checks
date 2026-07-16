@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-15T23:57:35.310560+00:00",
-    "story_count": 408,
+    "last_updated": "2026-07-16T12:24:03.573815+00:00",
+    "story_count": 414,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+      "source": "NPR World",
+      "country": "Ukraine",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
+      "published_date": "2026-07-16T11:33:11+00:00"
+    },
+    {
+      "title": "MNDAA hands 41 POWs to Myanmar junta in Lashio amid ongoing talks",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/mndaa-hands-41-pows-to-myanmar-junta-in-lashio-amid-ongoing-talks/",
+      "published_date": "2026-07-16T11:26:10+00:00"
+    },
+    {
+      "title": "Ukraine: Serguiï Koretsky, head of the energy group Naftogaz, appointed prime minister",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/international/ukraine-serguii-koretsky-chef-du-groupe-energetique-naftogaz-nomme-premier-ministre-20260716",
+      "published_date": "2026-07-16T11:23:56+00:00"
+    },
+    {
+      "title": "Live blog Ukraine war: Rada votes to appoint new prime minister",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-proteste-in-kiew-gegen-die-absetzung-von-verteidigungsminister-fedorow-faz-110683325.html",
+      "published_date": "2026-07-16T10:50:39+00:00"
+    },
+    {
+      "title": "Netanyahu races to pass key laws as Israel’s October 27 election campaign begins",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/podcast/article-902672",
+      "published_date": "2026-07-16T10:14:53+00:00"
+    },
+    {
+      "title": "New Prime Minister appointed in Ukraine",
+      "source": "DR News Denmark",
+      "country": "Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-premierminister-udpeget-i-ukraine",
+      "published_date": "2026-07-16T10:08:31+00:00"
+    },
+    {
+      "title": "Myanmar resistance resumes attacks north of Mandalay as junta expands offensives to the south",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-resistance-resumes-attacks-north-of-mandalay-as-junta-expands-offensives-to-the-south/",
+      "published_date": "2026-07-16T09:56:08+00:00"
+    },
+    {
+      "title": "FM Sybiha briefs Pope's envoy on humanitarian crisis in Russian-occupied Kherson region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4144861-fm-sybiha-briefs-popes-envoy-on-humanitarian-crisis-in-russianoccupied-kherson-region.html",
+      "published_date": "2026-07-16T09:54:00+00:00"
+    },
+    {
+      "title": "US slaps 25% tariffs on Brazil with election looming",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-16T09:47:00+00:00"
+    },
+    {
+      "title": "🔴 Ukraine: protests after the departure of Defense Minister Sergii Koretsky appointed Prime Minister",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/europe/20260716-manifestations-ukraine-contre-d%C3%A9part-du-tr%C3%A8s-populaire-ministre-d%C3%A9fense-zelensky",
+      "published_date": "2026-07-16T09:46:58+00:00"
+    },
+    {
+      "title": "Parliament appoints Koretskyi as Ukraine's new Prime Minister",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4144865-parliament-appoints-koretskyi-as-ukraines-new-prime-minister.html",
+      "published_date": "2026-07-16T09:37:00+00:00"
+    },
+    {
+      "title": "Germany warns US against election interference with Maga-aligned grants scheme",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
+      "published_date": "2026-07-16T09:24:57+00:00"
+    },
+    {
+      "title": "War in Ukraine: opposed to the dismissal of the Minister of Defense, the number two in the air force resigns",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-oppose-au-limogeage-du-ministre-de-la-defense-le-numero-deux-de-l-armee-de-l-air-demissionne-20260716",
+      "published_date": "2026-07-16T09:19:33+00:00"
+    },
+    {
+      "title": "TMC MP Koel Mallick resigns from Rajya Sabha in fresh blow to Mamata Banerjee",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tmc-mp-koel-mallick-resigns-from-rajya-sabha-in-fresh-blow-to-mamata-banerjee-trinamool-congress-west-bengal-actor-101784192994301.html",
+      "published_date": "2026-07-16T09:17:51+00:00"
+    },
+    {
+      "title": "Ukraine’s innovative defense minister ousted, sparking protests",
+      "source": "Egypt Independent",
+      "country": "Ukraine",
+      "url": "https://www.egyptindependent.com/ukraines-innovative-defense-minister-ousted-sparking-protests/",
+      "published_date": "2026-07-16T09:14:08+00:00"
+    },
+    {
+      "title": "Dismissal of Ukraine's defence chief sparks political crisis - Reuters",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
+      "published_date": "2026-07-16T09:03:10+00:00"
+    },
+    {
+      "title": "Ukraine approves Sergiy Koretsky as new PM amid protests over cabinet reshuffle",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
+      "published_date": "2026-07-16T07:34:49+00:00"
+    },
+    {
+      "title": "French parliament passes assisted dying law after years of wrangling",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260716-france-passes-assisted-dying-law-after-years-of-wrangling",
+      "published_date": "2026-07-16T06:10:19+00:00"
+    },
     {
       "title": "White House weighs releasing controversial intel on Chinese election interference",
       "source": "Jerusalem Post",
@@ -142,13 +268,6 @@
       "country": "Ukraine",
       "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-forsvarsminister-traeder-tilbage",
       "published_date": "2026-07-15T18:55:42+00:00"
-    },
-    {
-      "title": "Germany warns US against election interference after it announces grants scheme",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
-      "published_date": "2026-07-15T18:45:24+00:00"
     },
     {
       "title": "French parliament passes assisted dying bill for some terminally ill adults",
@@ -2837,83 +2956,6 @@
       "country": "France",
       "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260702-pr%C3%A9sidentielle-2027-%C3%A9pisode-1-la-france-%C3%A0-l-heure-du-doute",
       "published_date": "2026-07-02T12:36:22+00:00"
-    },
-    {
-      "title": "Medvedev to Lead Russian Delegation at Iranian Supreme Leader’s Funeral",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/02/medvedev-to-lead-russian-delegation-at-iranian-supreme-leaders-funeral-a93149",
-      "published_date": "2026-07-02T12:17:50+00:00"
-    },
-    {
-      "title": "Algerians vote in parliamentary elections overshadowed by candidate bans",
-      "source": "France 24 English",
-      "country": "Algeria",
-      "url": "https://www.france24.com/en/africa/20260702-algerians-vote-in-parliamentary-elections-overshadowed-by-candidate-bans",
-      "published_date": "2026-07-02T12:13:29+00:00"
-    },
-    {
-      "title": "Will Supreme Leader Mojtaba Khamenei attend his father’s funeral?",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/will-supreme-leader-mojtaba-khamenei-attend-his-fathers-funeral/",
-      "published_date": "2026-07-02T12:11:45+00:00"
-    },
-    {
-      "title": "“Which side were you on during Brexit in 2016? All candidates in the French presidential election must be asked this question.\"",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/02/de-quel-cote-etiez-vous-lors-du-brexit-en-2016-tous-les-candidats-a-l-election-presidentielle-francaise-doivent-etre-soumis-a-cette-question_6717847_3232.html",
-      "published_date": "2026-07-02T11:54:19+00:00"
-    },
-    {
-      "title": "Pashinyan holds call with Russian Prime Minister Mishustin in first contact since elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/pashinyan-holds-call-with-russian-prime-minister-mishustin-in-first-contact-since-elections/",
-      "published_date": "2026-07-02T10:51:05+00:00"
-    },
-    {
-      "title": "In Algeria, voting day for legislative elections and fear of massive abstention",
-      "source": "France 24 FR",
-      "country": "Algeria",
-      "url": "https://www.france24.com/fr/afrique/20260702-en-alg%C3%A9rie-jour-de-vote-pour-les-l%C3%A9gislatives-et-crainte-d-une-abstention-massive",
-      "published_date": "2026-07-02T10:47:26+00:00"
-    },
-    {
-      "title": "Venezuelan exile asks Trump to review relationship with the Delcy government for its handling of the tragedy",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/exilio-venezolano-pide-a-trump-revisar-relacion-con-el-gobierno-de-dlecy-por-su-manejo-tras-terremotos/",
-      "published_date": "2026-07-02T10:46:00+00:00"
-    },
-    {
-      "title": "Indonesia’s Widodo backs son’s party for 2029 election with political tour",
-      "source": "South China Morning Post",
-      "country": "Indonesia",
-      "url": "https://www.scmp.com/week-asia/politics/article/3359159/indonesias-widodo-backs-sons-party-2029-election-new-political-tour?utm_source=rss_feed",
-      "published_date": "2026-07-02T08:00:40+00:00"
-    },
-    {
-      "title": "Algeria votes in parliamentary elections amid public apathy and football fever",
-      "source": "RFI English",
-      "country": "Algeria",
-      "url": "https://www.rfi.fr/en/africa/20260702-algeria-votes-in-parliamentary-elections-amid-public-apathy-and-football-fever",
-      "published_date": "2026-07-02T07:12:43+00:00"
-    },
-    {
-      "title": "Kast lands in Uruguay and meets with his counterpart Yamandú Orsi in his first visit to a head of state of a different political nature",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-aterriza-en-uruguay-y-se-reune-con-su-par-yamandu-orsi-en-su-primera-visita-a-un-jefe-de-estado-de-signo-politico-distinto/",
-      "published_date": "2026-07-02T01:03:39+00:00"
-    },
-    {
-      "title": "Santilli spoke about the elections and the opposition: “Milei is going to beat them again”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/santilli-renovo-la-pelea-con-kicillof-es-el-peor-gobernador-de-la-historia-de-la-provincia-de-buenos-nid01072026/",
-      "published_date": "2026-07-01T23:57:10+00:00"
     }
   ]
 }
