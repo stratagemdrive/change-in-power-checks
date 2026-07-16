@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-16T12:24:03.573815+00:00",
-    "story_count": 414,
+    "last_updated": "2026-07-16T23:57:49.205852+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/american-politics/article-902809",
+      "published_date": "2026-07-17T02:19:38+00:00"
+    },
+    {
+      "title": "Trump’s speech rumored to feature elections or Iran after president teases ‘really big news’ – live updates",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
+      "published_date": "2026-07-16T23:25:57+00:00"
+    },
+    {
+      "title": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine",
+      "source": "Foreign Policy",
+      "country": "Ukraine",
+      "url": "https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/",
+      "published_date": "2026-07-16T20:51:49+00:00"
+    },
+    {
+      "title": "APC Delta mandate passes vote of confidence on Tinubu, Oborevwori",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/apc-delta-mandate-passes-vote-of-confidence-on-tinubu-oborevwori/",
+      "published_date": "2026-07-16T20:38:00+00:00"
+    },
+    {
+      "title": "Zelensky's dismissal of Ukraine's defence chief sparks political crisis",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/zelensky-s-dismissal-of-ukraine-s-defence-chief-sparks-political-crisis",
+      "published_date": "2026-07-16T20:08:01+00:00"
+    },
+    {
+      "title": "President Zelensky outlines key priorities for Ukraine's new government",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4145117-president-zelensky-outlines-key-priorities-for-ukraines-new-government.html",
+      "published_date": "2026-07-16T19:39:00+00:00"
+    },
+    {
+      "title": "Bitter row splits Ukraine's military leadership after defence minister ousted",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted",
+      "published_date": "2026-07-16T19:32:27+00:00"
+    },
+    {
+      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
+      "source": "The Guardian World",
+      "country": "Ukraine",
+      "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov",
+      "published_date": "2026-07-16T18:25:48+00:00"
+    },
+    {
+      "title": "Israeli Government Pushes Through Divisive Laws Before Election - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1VzbjRYbGYtS01SWE9BT3dDVF9YVVIxQ2dMSU9yUWh3UzZQQ1lGa0EybFkyVi1TMk5EUWJ2Sk1lcExHT1MzcThSLU03b0VsWkp1SnBhd1NsS1RkeTlHeHNDc3V3OUFOSjN3MGgyc0Y2R0xGX09rOWZnS2FEX2Iyc3UxTFM0blU1?oc=5",
+      "published_date": "2026-07-16T18:12:44+00:00"
+    },
+    {
+      "title": "Chinese interference, voting machines, 2020 election... Donald Trump promises revelations in his speech to Americans",
+      "source": "Le Figaro France",
+      "country": "China",
+      "url": "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
+      "published_date": "2026-07-16T17:26:42+00:00"
+    },
+    {
+      "title": "Colombia president-elect to open Israel embassy in Jerusalem",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-president-elect-open-israel-embassy-jerusalem",
+      "published_date": "2026-07-16T16:52:30+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Bernard Cazeneuve “presents his candidacy” in a letter to the French",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-dans-une-lettre-aux-francais-20260716",
+      "published_date": "2026-07-16T16:29:47+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Zelensky names successor after defense minister is removed",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-nennt-nachfolger-nach-absetzung-des-verteidigungsministers-faz-110683325.html",
+      "published_date": "2026-07-16T16:13:00+00:00"
+    },
+    {
+      "title": "Julio César Rivas, the first student leader imprisoned by Chavismo, returns to Venezuela: “The priority today is not the elections”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/julio-cesar-rivas-regresa-a-venezuela-para-ayudar-en-la-guaira/",
+      "published_date": "2026-07-16T15:29:30+00:00"
+    },
+    {
+      "title": "Ukraine is putting pressure on Russia. So why is the country's defence minister being ousted now?",
+      "source": "CBC News World",
+      "country": "Ukraine",
+      "url": "https://www.cbc.ca/news/world/fedorov-ukraine-defence-9.7272575?cmp=rss",
+      "published_date": "2026-07-16T14:39:06+00:00"
+    },
+    {
+      "title": "Supreme Court cancels Karnataka BJP MLC Pranesh’s election, Congress wins seat",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-karnataka-mlc-election-mk-pranesh-gayathri-shanthegowda-verdict-10789823/",
+      "published_date": "2026-07-16T14:18:30+00:00"
+    },
+    {
+      "title": "Mykhailo Fedorov: Ousted defence chief's reforms riled Ukrainian army bosses",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260716-ousted-defence-chief-mykhailo-fedorov-whose-reforms-riled-ukraine-s-army-bosses",
+      "published_date": "2026-07-16T14:15:14+00:00"
+    },
+    {
+      "title": "Demonstrations in Ukraine after the resignation of the popular Defense Minister",
+      "source": "La Tercera Chile",
+      "country": "Ukraine",
+      "url": "https://www.latercera.com/mundo/noticia/manifestaciones-en-ucrania-tras-la-dimision-del-popular-ministro-de-defensa/",
+      "published_date": "2026-07-16T13:54:28+00:00"
+    },
+    {
+      "title": "Dismissal of Ukraine’s defense chief sparks political crisis",
+      "source": "Japan Times",
+      "country": "Ukraine",
+      "url": "https://www.japantimes.co.jp/news/2026/07/16/world/politics/ukraine-protests-defense-chief-ouster/",
+      "published_date": "2026-07-16T12:09:00+00:00"
+    },
     {
       "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
       "source": "NPR World",
@@ -2844,118 +2977,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/kast-cierra-su-gira-mas-extensa-como-presidente-en-ejercicio-con-un-llamado-a-empresarios-uruguayos-a-invertir-en-chile/",
       "published_date": "2026-07-03T01:23:44+00:00"
-    },
-    {
-      "title": "Tinubu inaugurates lithium plant in Nasarawa, favours local mineral processing",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/business/business-news/892498-tinubu-inaugurates-lithium-plant-in-nasarawa-favours-local-mineral-processing.html",
-      "published_date": "2026-07-02T20:44:25+00:00"
-    },
-    {
-      "title": "Lula calls Flávio a traitor to the country after rival suggests Trump decide on tariffs after the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-chama-flavio-de-traidor-da-patria-apos-rival-sugerir-a-trump-decisao-sobre-tarifaco-depois-da-eleicao.shtml",
-      "published_date": "2026-07-02T20:27:00+00:00"
-    },
-    {
-      "title": "Algerians vote in parliamentary elections",
-      "source": "France 24 English",
-      "country": "Algeria",
-      "url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections",
-      "published_date": "2026-07-02T20:23:06+00:00"
-    },
-    {
-      "title": "Venezuela earthquake rescue efforts continue as acting president faces criticism over response",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-rescue-delcy-rodriguez-b3007894.html",
-      "published_date": "2026-07-02T20:10:28+00:00"
-    },
-    {
-      "title": "The last time Iran held a funeral for the Supreme Leader",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
-      "published_date": "2026-07-02T19:11:16+00:00"
-    },
-    {
-      "title": "Lula inaugurates tunnel to transpose the waters of the São Francisco in RN",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/lula-inaugura-tunel-de-transposicao-das-aguas-do-sao-francisco-no-rn",
-      "published_date": "2026-07-02T17:32:00+00:00"
-    },
-    {
-      "title": "Lula mocks electoral law on the inauguration of works and says there is 'parrot'",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-cita-veto-da-lei-eleitoral-sobre-inauguracao-de-obras-e-ironiza-papagaiada.shtml",
-      "published_date": "2026-07-02T16:33:00+00:00"
-    },
-    {
-      "title": "German press points to Nagelsmann's departure and names possible successor",
-      "source": "El Nacional Venezuela",
-      "country": "Germany",
-      "url": "https://www.elnacional.com/2026/07/prensa-alemana-apunta-a-la-salida-de-nagelsmann-y-nombra-al-posible-sucesor/",
-      "published_date": "2026-07-02T16:05:21+00:00"
-    },
-    {
-      "title": "Vice President-elect José Manuel Restrepo issues a warning in the first joint meeting with the Petro government: 'We will not stop alerting and investigating'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/vicepresidente-electo-jose-manuel-restrepo-advierte-que-no-dejaremos-de-alertar-e-investigar-durante-primera-reunion-de-empalme-con-gobierno-petro-3568493",
-      "published_date": "2026-07-02T15:40:51+00:00"
-    },
-    {
-      "title": "Russian State Duma deputy accuses government of concealing scale of fuel crisis, warns it could cost certain officials their seats in September elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/02/russian-state-duma-deputy-accuses-government-of-concealing-scale-of-fuel-crisis-warns-it-could-cost-certain-officials-their-seats-in-september-elections",
-      "published_date": "2026-07-02T15:20:33+00:00"
-    },
-    {
-      "title": "Russian State Duma deputy accuses government of concealing scale of fuel crisis, warns it could cost certain officials their seats in September elections - Meduza",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSnpuMTdISnZ0WEE1VzAzN2JCS1k4OVhmQnppTVlsOWxydW9xSFkyUGZVZ3M0eFRjZDJnT1Bma2h1U1dEdG1hYjl0dFdQNjRBSlAtVUtXWHpfcEZjOVZOT0RORkh6RlZvbW5Ed1M2WmNtY1BOZE1zZmxHM3dXakdaSlc5UFppTW8tclZqbktmV2E1V3FFSUF1SWlZYURHOTJ1NjU2bjQ5SnctcWNFRE5LLWZ1YnNwd1dyT3d2bWZ6dlF3V1E0QzYyeGhnNzAyVUJRbTUzOUhZa0JPT0lqb1JPOUlwV1A1bVVxNmhBVk5LUHVyeWVMWGNwaHZwQ3BRbjFnaUhSckpaQ2JjZG9RbWZUaXptZk5LdVNp0gGeAkFVX3lxTFBQU2pVVWwtNTByUzRqeFo2THVET29mZ0t3RUllb05XZ2pZTTZFTVpKM2NrM2ZkcXlPam1POXByMDRoa1ZsUDhIMDYzdjRZZl94b3pzMFoxNEVlVTlxalZLa2pDOVdGVXNLNFB6SlZsbVNiVDBRaUNxbDRVTWJERW50bk5waGt1Umh6TVNfNnZLVHE3ZGpoSUg3Nzh2T0p1V2U2X3MzbXEzZ040QWU1Ylh0V0tUX2VtWlA0YUV0RnlHLWRQNENQblllQWkxYTdmWUpyRktTSHRGdGRHTEUwWEZTVmh0UkxNYjZSMWxUYi1wS0xITkxudnFya0thTGNrRTltLWZuYWlFOFhiT3IwVFhTN1E4Q3JQdWFMcmhjX2c?oc=5",
-      "published_date": "2026-07-02T15:20:00+00:00"
-    },
-    {
-      "title": "Russia Is Gearing Up for Nationwide Elections. This Is What You Need to Know.",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/02/russia-is-gearing-up-for-nationwide-elections-this-is-what-you-need-to-know-a93142",
-      "published_date": "2026-07-02T15:09:00+00:00"
-    },
-    {
-      "title": "Palestinian Authority prepares for first election in two decades, as Abbas preps final date",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-901222",
-      "published_date": "2026-07-02T14:11:05+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro tells Trump that the tariff would give Lula a political victory and asks for a decision after the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-diz-a-governo-trump-que-tarifaco-daria-vitoria-politica-a-lula.shtml",
-      "published_date": "2026-07-02T14:09:00+00:00"
-    },
-    {
-      "title": "The six points that José Manuel Restrepo, vice president-elect, asks Gustavo Petro to comply with in the connection process that begins today, July 2",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/los-seis-puntos-que-jose-manuel-restrepo-vicepresidente-electo-pide-a-gustavo-petro-cumplir-en-proceso-de-empalme-que-inicia-hoy-2-de-julio-3568441",
-      "published_date": "2026-07-02T13:17:45+00:00"
-    },
-    {
-      "title": "Presidential election 2027 - episode 1: France in times of doubt",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260702-pr%C3%A9sidentielle-2027-%C3%A9pisode-1-la-france-%C3%A0-l-heure-du-doute",
-      "published_date": "2026-07-02T12:36:22+00:00"
     }
   ]
 }
