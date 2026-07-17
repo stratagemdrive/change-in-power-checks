@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-17T12:12:16.950460+00:00",
-    "story_count": 446,
+    "last_updated": "2026-07-17T23:49:42.972300+00:00",
+    "story_count": 450,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,172 @@
   },
   "stories": [
     {
+      "title": "From Lviv to Kharkiv, Ukrainians were back in the streets on Friday for a second straight day, demanding the return of their ousted defense minister",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/18/from-lviv-to-kharkiv-ukrainians-were-back-in-the-streets-on-friday-for-a-second-straight-day-demanding-the-return-of-their-ousted-defense-minister",
+      "published_date": "2026-07-17T22:39:59+00:00"
+    },
+    {
+      "title": "President-elect Abelardo de la Espriella appointed Silvia Tcherassi as Ad Honorem Ambassador of Colombian Fashion and Creativity",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-de-colombia-nombro-a-silvia-tcherassi-como-embajadora-ad-honorem-de-la-moda-y-la-creatividad-colombiana-3572055",
+      "published_date": "2026-07-17T22:36:26+00:00"
+    },
+    {
+      "title": "Zelensky appoints Poklad as acting head of SSU",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4145452-zelensky-appoints-poklad-as-acting-head-of-ssu.html",
+      "published_date": "2026-07-17T19:40:00+00:00"
+    },
+    {
+      "title": "Many allegations, little evidence: unpacking the China election-interference records",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records?utm_source=rss_feed",
+      "published_date": "2026-07-17T19:31:27+00:00"
+    },
+    {
+      "title": "Japan revises imperial succession rules, but still excludes women",
+      "source": "Deutsche Welle English",
+      "country": "Japan",
+      "url": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-17T18:15:00+00:00"
+    },
+    {
+      "title": "Court fines Boris Nadezhdin, the antiwar politician who tried to challenge Putin in Russia’s 2024 presidential race, over a Navalny photo",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/07/17/court-fines-boris-nadezhdin-the-antiwar-politician-who-tried-to-challenge-putin-in-russia-s-2024-presidential-race-over-a-navalny-photo",
+      "published_date": "2026-07-17T18:06:50+00:00"
+    },
+    {
+      "title": "US forces destroy Iranian surveillance tower, no troops killed, captured in Syria, CENTCOM says",
+      "source": "Jerusalem Post",
+      "country": "Syria",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-902845",
+      "published_date": "2026-07-17T18:01:30+00:00"
+    },
+    {
+      "title": "What's behind Trump's speech in which he accused China of “interfering” in the 2020 elections",
+      "source": "La Tercera Chile",
+      "country": "China",
+      "url": "https://www.latercera.com/mundo/noticia/que-hay-detras-del-discurso-de-trump-en-que-acuso-a-china-de-interferir-en-las-elecciones-de-2020/",
+      "published_date": "2026-07-17T17:30:00+00:00"
+    },
+    {
+      "title": "Iran enters Trump's election controversy by blaming Israel for perverting US policy",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/iran-entra-en-la-polemica-electoral-de-trump-culpando-a-israel-de-pervertir-la-politica-de-estados-unidos/",
+      "published_date": "2026-07-17T16:24:16+00:00"
+    },
+    {
+      "title": "Zelensky announces special meeting of Supreme Commander-in-Chief's Staff on drones and weapons production",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4145413-zelensky-announces-special-meeting-of-supreme-commanderinchiefs-staff-on-drones-and-weapons-production.html",
+      "published_date": "2026-07-17T16:19:00+00:00"
+    },
+    {
+      "title": "Within days, Zelensky has fired his cabinet, ousted his defense minister, and is now replacing his security council chief",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/17/within-days-zelensky-has-fired-his-cabinet-ousted-his-defense-minister-and-is-now-replacing-his-security-council-chief",
+      "published_date": "2026-07-17T16:14:16+00:00"
+    },
+    {
+      "title": "UK: Andy Burnham elected leader of the Labor Party",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/reino-unido-andy-burnham-es-elegido-lider-del-partido-laborista/",
+      "published_date": "2026-07-17T16:05:20+00:00"
+    },
+    {
+      "title": "Israel: Parliament dissolved, the country turns to the legislative elections in October",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-isra%C3%ABl-le-parlement-dissous-le-pays-se-tourne-vers-les-l%C3%A9gislatives-d-octobre",
+      "published_date": "2026-07-17T15:49:31+00:00"
+    },
+    {
+      "title": "China rejects Trump's election interference accusations as 'groundless'",
+      "source": "Euronews",
+      "country": "China",
+      "url": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
+      "published_date": "2026-07-17T15:23:52+00:00"
+    },
+    {
+      "title": "Donald Trump accuses China of 'biggest election hack'",
+      "source": "France 24 FR",
+      "country": "China",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-donald-trump-accuse-la-chine-du-plus-grand-piratage-%C3%A9lectoral",
+      "published_date": "2026-07-17T15:01:04+00:00"
+    },
+    {
+      "title": "Trump targets China and Russia with baseless claims of election interference",
+      "source": "France 24 English",
+      "country": "China",
+      "url": "https://www.france24.com/en/trump-targets-china-and-russia-with-baseless-claims-of-election-interference",
+      "published_date": "2026-07-17T14:38:07+00:00"
+    },
+    {
+      "title": "China blasts ‘unfounded smears’ as Trump’s election claims threaten diplomatic thaw",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360994/china-blasts-unfounded-smears-trumps-election-claims-threaten-diplomatic-thaw?utm_source=rss_feed",
+      "published_date": "2026-07-17T14:00:09+00:00"
+    },
+    {
+      "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow - The New York Times",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVBheG1oek9sRHBXcmlCQ1dLOXBmRGJ3T3VqOTluaS1pNEFxTzBPN2gyQjNOUXRyN1RmVG5RZ3o1Sng1ejg1RzlaUEU3SXZYdERhb3VLT3dBVFBnX1NFMkV1NVA5eFhoSVd0MHFpWnVOR0NSR1ZxUTZPUTZzRFZXdHgzcXZ2Z3paaDRHQQ?oc=5",
+      "published_date": "2026-07-17T12:50:10+00:00"
+    },
+    {
+      "title": "Zelensky meets with new Prime Minister Koretskyi: Government's priority is preparing for winter",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4145343-zelensky-meets-with-new-prime-minister-koretskyi-governments-priority-is-preparing-for-winter.html",
+      "published_date": "2026-07-17T12:37:00+00:00"
+    },
+    {
+      "title": "Kremlin Rejects Trump’s Election Interference Claim",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/17/kremlin-rejects-trumps-election-interference-claim-a93277",
+      "published_date": "2026-07-17T12:27:00+00:00"
+    },
+    {
+      "title": "A crisis of his own: Zelenskyy’s wartime reshuffle backfires and leads to protests",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/a-crisis-of-his-own-zelenskyys-wartime-reshuffle-backfires-and-leads-to-protests",
+      "published_date": "2026-07-17T12:17:22+00:00"
+    },
+    {
+      "title": "CIA declassifies evidence of alleged Venezuelan election fraud in 2012",
+      "source": "Euronews",
+      "country": "Venezuela",
+      "url": "http://www.euronews.com/2026/07/17/cia-declassifies-evidence-of-electoral-machinery-used-by-chavismo-in-venezuela-since-2012",
+      "published_date": "2026-07-17T11:48:19+00:00"
+    },
+    {
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "source": "BBC World",
       "country": "China",
       "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-17T11:37:00+00:00"
+    },
+    {
+      "title": "Zelensky's government reshuffle was even more chaotic than you think - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmZVZll4Y3B1WVJ0eEt1NENYOVZOLUNVZThSNDhwUVhqTGZ4eWp5OVBfOVFhaGhTVF9XWkNMOHdoQlR5RVNmWlJkMmZVaW5fWFd3UzVoSDFtSXlObkRQMVNaUms5OWx4em0wb2c0T2tQVGVQM2RYV1ZGWjV1TldpRDVUSXUzZFpBZlE3d3lNMm5qYzBiY2Fib25qeHNQLUFtV0NqSmZHX1dud28?oc=5",
+      "published_date": "2026-07-17T11:30:48+00:00"
     },
     {
       "title": "How new PM Andy Burnham will change UK's international role",
@@ -228,13 +389,6 @@
       "published_date": "2026-07-17T04:19:31+00:00"
     },
     {
-      "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow - The New York Times",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVBheG1oek9sRHBXcmlCQ1dLOXBmRGJ3T3VqOTluaS1pNEFxTzBPN2gyQjNOUXRyN1RmVG5RZ3o1Sng1ejg1RzlaUEU3SXZYdERhb3VLT3dBVFBnX1NFMkV1NVA5eFhoSVd0MHFpWnVOR0NSR1ZxUTZPUTZzRFZXdHgzcXZ2Z3paaDRHQQ?oc=5",
-      "published_date": "2026-07-17T04:00:35+00:00"
-    },
-    {
       "title": "Japan changes imperial succession law but keeps ban on female emperor",
       "source": "France 24 English",
       "country": "Japan",
@@ -268,13 +422,6 @@
       "country": "Ukraine",
       "url": "https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html",
       "published_date": "2026-07-17T03:00:17+00:00"
-    },
-    {
-      "title": "Trump claims ‘deep state plot’ covered up efforts by China to ‘undermine’ the 2020 election that he lost",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-election-china-venezuela-speech-plot-conspiracy-b3016566.html",
-      "published_date": "2026-07-17T02:48:14+00:00"
     },
     {
       "title": "READ: Trump documents allege China interfered in U.S. elections",
@@ -317,6 +464,13 @@
       "country": "China",
       "url": "https://www.elnacional.com/2026/07/donald-trump-acusa-china-interferencia-elecciones-venezuela/",
       "published_date": "2026-07-17T01:57:11+00:00"
+    },
+    {
+      "title": "Trump claims ‘deep state plot’ covered up efforts by China to ‘undermine’ the 2020 election that he lost",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-election-china-venezuela-speech-plot-conspiracy-b3016566.html",
+      "published_date": "2026-07-17T01:47:17+00:00"
     },
     {
       "title": "Trump launches rare broadside against China on US election interference – as it happened",
@@ -433,7 +587,7 @@
     {
       "title": "Ukraine is putting pressure on Russia. So why is the country's defence minister being ousted now?",
       "source": "CBC News World",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.cbc.ca/news/world/fedorov-ukraine-defence-9.7272575?cmp=rss",
       "published_date": "2026-07-16T14:39:06+00:00"
     },
@@ -3054,132 +3208,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
       "published_date": "2026-07-03T23:50:00+00:00"
-    },
-    {
-      "title": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3FKcmxXQ3lQTHVFQ1JpTTBFdnp5QmhyVXZaSVlSSHBZSUNIYkpRMmExRDJzcTFSRXF0TDdtbE1BV0xfMlNqLVpkMUFjVm1Za2xIRmRTa19CMkhRNU9zbGJqUzJ2SGs0cmNQakxTV3ktcFpueGdkZ0hEdU8tbWs0QnF5VUo3T3NveHYyNW5iSGRidmpURTBvVWR5QWlleU1KWFJCN3UzWjRvWnNsRURwYzhJUHZNT2w0dnp3?oc=5",
-      "published_date": "2026-07-03T22:07:00+00:00"
-    },
-    {
-      "title": "Keiko Fujimori officially declared winner of Peru presidential race - Al Jazeera",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRU9wVm9XNW90WnNWT1pzakpNRXlJWnVCSnpDNUJkUWt1VlJpOTFrZkQwXzRsU3hvWG5Tczk3TVkxX3g2TzdZNWt1UUkyZ25jT0hfbG90SmgzT0tEbVdDUlBxUHNFZ2NYTDhtbE90M1BxVFBWZk1rdjJZdTFEVndIM0tzbFNpaE9LZWpRYm9qYkllRFhsZG5VdU5FQVJmRzVqTlE5bFYtZ1M4RlHSAbABQVVfeXFMUHFOeE9saHY2MXNVcWs0aDFibmhORFpRZkFiT3RvOXhkVGs5WWppX2pyOVBxMlROSUp2eEo0dTl6YUt5dlhQOFp5R2JkQW5YV0ZnOGQ2NnNyWWMxWkNFSUZSV0F5d2RfTG92MFZ5ZXZTdnZqYzJrQ3lZRVRGNjdwOG15UzhrMEh0d1pvcTU4X1Bid3Zxb29pUnZBd2NJdUpjc0tDQjVmUlMxUk96ak1IWm0?oc=5",
-      "published_date": "2026-07-03T21:30:13+00:00"
-    },
-    {
-      "title": "Fallout from Venezuela’s quakes turns political, as opposition leader Machado seeks return",
-      "source": "South China Morning Post",
-      "country": "Venezuela",
-      "url": "https://www.scmp.com/news/world/americas/article/3359384/fallout-venezuelas-quakes-turns-political-opposition-leader-machado-seeks-return?utm_source=rss_feed",
-      "published_date": "2026-07-03T21:13:21+00:00"
-    },
-    {
-      "title": "In Peru, Keiko Fujimori officially proclaimed president-elect",
-      "source": "Le Monde France",
-      "country": "Peru",
-      "url": "https://www.lemonde.fr/international/article/2026/07/03/au-perou-keiko-fujimori-officiellement-proclamee-presidente-elue_6720489_3210.html",
-      "published_date": "2026-07-03T21:00:58+00:00"
-    },
-    {
-      "title": "Electoral Jury makes official the triumph of Keiko Fujimori as president-elect of Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/jurado-electoral-oficializa-triunfo-de-keiko-fujimori-como-presidenta-electa-de-peru/",
-      "published_date": "2026-07-03T20:45:07+00:00"
-    },
-    {
-      "title": "Prospective UK Prime Minister Andy Burnham rules out early general election",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/07/03/prospective-uk-prime-minister-andy-burnham-rules-out-early-general-election",
-      "published_date": "2026-07-03T20:40:41+00:00"
-    },
-    {
-      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-      "source": "NPR World",
-      "country": "Iran",
-      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-      "published_date": "2026-07-03T19:45:24+00:00"
-    },
-    {
-      "title": "“A new stage begins”: Keiko Fujimori is proclaimed president-elect of Peru by the National Election Jury",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/keiko-fujimori-es-proclamada-como-presidenta-electa-de-peru/",
-      "published_date": "2026-07-03T19:06:52+00:00"
-    },
-    {
-      "title": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
-      "source": "Euronews",
-      "country": "Peru",
-      "url": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
-      "published_date": "2026-07-03T19:06:12+00:00"
-    },
-    {
-      "title": "In pictures: Scenes from the state funeral for Iran's assassinated supreme leader Ali Khamenei in Tehran",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2012742/in-pictures-scenes-from-the-state-funeral-for-irans-assassinated-supreme-leader-ali-khamenei-in-tehran",
-      "published_date": "2026-07-03T18:42:54+00:00"
-    },
-    {
-      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-      "published_date": "2026-07-03T18:39:31+00:00"
-    },
-    {
-      "title": "What to know about the funeral and burial of Iran’s supreme leader Ayatollah Ali Khamenei",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/asia/iran-ayatollah-ali-khamenei-funeral-b3008108.html",
-      "published_date": "2026-07-03T18:38:28+00:00"
-    },
-    {
-      "title": "Keiko Fujimori officially declared winner of Peru presidential race",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
-      "published_date": "2026-07-03T18:14:45+00:00"
-    },
-    {
-      "title": "Israel prevents exiled Palestinian detainees from reuniting with their families",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
-      "published_date": "2026-07-03T18:13:53+00:00"
-    },
-    {
-      "title": "Eyes of the key: Kast adds a new granddaughter, Moreira's coup of authority and Minister Duco's unexpected enemy",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-kast-suma-nueva-nieta-el-golpe-de-autoridad-de-moreira-y-el-enemigo-inesperado-de-la-ministra-duco/",
-      "published_date": "2026-07-03T17:30:00+00:00"
-    },
-    {
-      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
-      "source": "France 24 English",
-      "country": "Sudan",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
-      "published_date": "2026-07-03T17:22:29+00:00"
-    },
-    {
-      "title": "Algeria: An election that leaves the country cold",
-      "source": "FAZ Germany",
-      "country": "Algeria",
-      "url": "https://www.faz.net/aktuell/politik/ausland/in-algerien-hat-nur-jeder-fuenfte-gewaehlt-200994501.html",
-      "published_date": "2026-07-03T13:34:40+00:00"
-    },
-    {
-      "title": "Lagarde mulls leaving ECB early to play a role in French elections",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/07/03/lagarde-mulls-leaving-ecb-early-to-play-a-role-in-french-elections",
-      "published_date": "2026-07-03T12:52:11+00:00"
     }
   ]
 }
