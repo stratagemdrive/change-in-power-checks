@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-16T23:57:49.205852+00:00",
-    "story_count": 417,
+    "last_updated": "2026-07-17T12:12:16.950460+00:00",
+    "story_count": 446,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,244 @@
   },
   "stories": [
     {
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "source": "BBC World",
+      "country": "China",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T11:37:00+00:00"
+    },
+    {
+      "title": "How new PM Andy Burnham will change UK's international role",
+      "source": "Deutsche Welle English",
+      "country": "United Kingdom",
+      "url": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-17T11:29:00+00:00"
+    },
+    {
+      "title": "China slams Trump claims of US election meddling as ‘fabrications’",
+      "source": "Vanguard Nigeria",
+      "country": "China",
+      "url": "https://www.vanguardngr.com/2026/07/china-slams-trump-claims-of-us-election-meddling-as-fabrications/",
+      "published_date": "2026-07-17T11:07:04+00:00"
+    },
+    {
+      "title": "Trump-China latest: Beijing responds to president’s unverified election interference and ‘deep state’ conspiracy claims",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-speech-election-interference-live-updates-b3016691.html",
+      "published_date": "2026-07-17T10:28:38+00:00"
+    },
+    {
+      "title": "Knesset dissolves: How will Israel vote in October’s general election? - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVVo5WGc1TnQtck16YmoweWQ0THV3eWlSeFFXSjh1NGtxbU1mb2c4MU93M0c0Y2pSY0ZuUF9kYnE4UHVUbFBscHJuSTJDTV8tdm1vODQxV2JrX0o2ZWY4TlFaaWJVeG15TmRKQTRQeEpLallYM2JhLUNBTjRrV3R5Q283NW1ic1Mzczl3OUJLM1dGQ0JVTGV4ZXlFVlN5VnA3cDQtc1NoUUpEcWZa0gGyAUFVX3lxTFBBYUxoTU5PMUd5cVMwOXJveTBEaVRNdDNwdmRYNmEwbVRQTTlYZ014Z3QycDlBRkRValNsQ2xVRDNlblJEWllnNjFTR0M0dXUzX3k3U0xrMFFPUTJhNFRTblQ4UUNhRnpxTWdkWkZCM1cxUHJ0ejJCcGR4ZnpMSVRRMS1teGJiWGhjQkR3TU45d0JfVGVVR3JLR3N5VS1MSXVqU19CV0FEMFJxanEzUExnVmc?oc=5",
+      "published_date": "2026-07-17T10:11:56+00:00"
+    },
+    {
+      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "published_date": "2026-07-17T10:10:25+00:00"
+    },
+    {
+      "title": "‘Let them fight’: Chinese social media reacts to Trump’s election interference claims",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360935/let-them-fight-chinese-social-media-reacts-trumps-election-interference-claims?utm_source=rss_feed",
+      "published_date": "2026-07-17T10:00:25+00:00"
+    },
+    {
+      "title": "Israel headed for October election as parliament dissolved",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "published_date": "2026-07-17T09:42:05+00:00"
+    },
+    {
+      "title": "China rejects Trump’s election meddling claims as ‘fabricated’ and ‘slanderous’",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360958/china-rejects-trumps-election-meddling-claims-fabricated-and-slanderous?utm_source=rss_feed",
+      "published_date": "2026-07-17T09:33:28+00:00"
+    },
+    {
+      "title": "Ukraine's top general is splitting country, says ousted defence minister",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/ukraine-s-defence-minister-is-splitting-country-says-ousted-defence-minister",
+      "published_date": "2026-07-17T09:27:23+00:00"
+    },
+    {
+      "title": "Ethnic armed groups say ASEAN envoy meeting was not dialogue with Myanmar junta",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/ethnic-armed-groups-say-asean-envoy-meeting-was-not-dialogue-with-myanmar-junta/",
+      "published_date": "2026-07-17T09:23:18+00:00"
+    },
+    {
+      "title": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb",
+      "published_date": "2026-07-17T08:16:57+00:00"
+    },
+    {
+      "title": "Israeli parliament passes law enshrining gender segregation in universities",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israeli-parliament-approves-law-enshrining-gender-segregation-universities",
+      "published_date": "2026-07-17T07:51:43+00:00"
+    },
+    {
+      "title": "Trump revives sweeping election fraud claims ahead of US midterms, accuses China of meddling",
+      "source": "Dawn Pakistan",
+      "country": "China",
+      "url": "https://www.dawn.com/news/2016135/trump-revives-sweeping-election-fraud-claims-ahead-of-us-midterms-accuses-china-of-meddling",
+      "published_date": "2026-07-17T07:44:44+00:00"
+    },
+    {
+      "title": "Japan’s parliament passes bill to revise retrial system",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/07/17/japan/politics/retrial-system-revision-bill-enacted/",
+      "published_date": "2026-07-17T06:50:00+00:00"
+    },
+    {
+      "title": "Japan adopts reform of imperial succession, the idea of ​​an empress still excluded",
+      "source": "Le Monde France",
+      "country": "Japan",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/le-japon-adopte-une-reforme-de-la-succession-imperiale-l-idee-d-une-imperatrice-toujours-exclue_6724141_3210.html",
+      "published_date": "2026-07-17T06:35:27+00:00"
+    },
+    {
+      "title": "Japan revises imperial succession law but retains ban on female emperors",
+      "source": "Euronews",
+      "country": "Japan",
+      "url": "http://www.euronews.com/2026/07/17/japan-revises-imperial-succession-law-but-retains-ban-on-female-emperors",
+      "published_date": "2026-07-17T06:31:23+00:00"
+    },
+    {
+      "title": "Trump accused China of intervening in the 2020 elections and warned of the “vulnerability” of the electoral system",
+      "source": "La Nacion Argentina",
+      "country": "China",
+      "url": "https://www.lanacion.com.ar/el-mundo/donald-trump-habla-en-cadena-nacional-y-asegura-que-compartira-documentos-sobre-el-fraude-de-las-nid16072026/",
+      "published_date": "2026-07-17T06:26:06+00:00"
+    },
+    {
+      "title": "Trump’s China election-interference claims spark scapegoat fears among Asian-Americans",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360909/trumps-china-election-interference-claims-spark-scapegoat-fears-among-asian-americans?utm_source=rss_feed",
+      "published_date": "2026-07-17T06:18:36+00:00"
+    },
+    {
+      "title": "Video capturing Chinese firefighter eating in rain during flood relief goes viral",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3360898/video-capturing-chinese-firefighter-eating-rain-during-flood-relief-goes-viral?utm_source=rss_feed",
+      "published_date": "2026-07-17T06:00:18+00:00"
+    },
+    {
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "source": "BBC World",
+      "country": "Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T05:16:34+00:00"
+    },
+    {
+      "title": "Bill to dissolve Knesset passes unanimously, officially beginning election recess",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902816",
+      "published_date": "2026-07-17T05:05:44+00:00"
+    },
+    {
+      "title": "Trump announces declassification of documents that attribute alleged interference in US elections to China since 2020",
+      "source": "La Tercera Chile",
+      "country": "China",
+      "url": "https://www.latercera.com/mundo/noticia/trump-anuncia-desclasificacion-de-documentos-que-atribuyen-a-china-presunta-injerencia-en-elecciones-de-eeuu-desde-2020/",
+      "published_date": "2026-07-17T04:26:40+00:00"
+    },
+    {
+      "title": "Not many words about Iran. Trump's speech about election fraud was a source of inspiration for conspiracy theorists",
+      "source": "Politiken Denmark",
+      "country": "Iran",
+      "url": "https://politiken.dk/internationalt/art10917743/Ikke-mange-ord-om-Iran.-Trumps-tale-om-valgsvindel-var-guf-for-konspirationsteoretikere",
+      "published_date": "2026-07-17T04:19:31+00:00"
+    },
+    {
+      "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow - The New York Times",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVBheG1oek9sRHBXcmlCQ1dLOXBmRGJ3T3VqOTluaS1pNEFxTzBPN2gyQjNOUXRyN1RmVG5RZ3o1Sng1ejg1RzlaUEU3SXZYdERhb3VLT3dBVFBnX1NFMkV1NVA5eFhoSVd0MHFpWnVOR0NSR1ZxUTZPUTZzRFZXdHgzcXZ2Z3paaDRHQQ?oc=5",
+      "published_date": "2026-07-17T04:00:35+00:00"
+    },
+    {
+      "title": "Japan changes imperial succession law but keeps ban on female emperor",
+      "source": "France 24 English",
+      "country": "Japan",
+      "url": "https://www.france24.com/en/asia-pacific/20260717-japan-imperial-succession-law-female-emperor-ban",
+      "published_date": "2026-07-17T03:32:26+00:00"
+    },
+    {
+      "title": "Days after making FBI’s ‘Most Wanted’ list, Indian-origin man is ‘captured’",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/world/us-news/on-fbis-most-wanted-list-indian-origin-nitish-kaushal-in-rico-conspiracy-case-10790371/",
+      "published_date": "2026-07-17T03:07:46+00:00"
+    },
+    {
+      "title": "Trump denounces plan for years to alter elections in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/trump-analisis-cia-elecciones/",
+      "published_date": "2026-07-17T03:07:16+00:00"
+    },
+    {
+      "title": "‘China stole 220 million voter files, largest compromise’: Trump’s 5 claims on US election fraud",
+      "source": "Indian Express",
+      "country": "China",
+      "url": "https://indianexpress.com/article/world/220-million-voters-18-states-sensitive-info-leaked-trump-claims-china-meddling-us-election-10790395/",
+      "published_date": "2026-07-17T03:05:41+00:00"
+    },
+    {
+      "title": "In Ukraine, Volodymyr Zelensky assumes opening a political crisis with his reshuffle",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html",
+      "published_date": "2026-07-17T03:00:17+00:00"
+    },
+    {
+      "title": "Trump claims ‘deep state plot’ covered up efforts by China to ‘undermine’ the 2020 election that he lost",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-election-china-venezuela-speech-plot-conspiracy-b3016566.html",
+      "published_date": "2026-07-17T02:48:14+00:00"
+    },
+    {
+      "title": "READ: Trump documents allege China interfered in U.S. elections",
+      "source": "Axios World",
+      "country": "China",
+      "url": "https://www.axios.com/2026/07/17/trump-china-us-election-interference-documents",
+      "published_date": "2026-07-17T02:26:48+00:00"
+    },
+    {
+      "title": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
+      "source": "France 24 English",
+      "country": "China",
+      "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence",
+      "published_date": "2026-07-17T02:22:15+00:00"
+    },
+    {
+      "title": "Could Trump’s ‘last-gasp’ China election claims derail Xi’s US trip?",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360861/trumps-china-election-claims-mark-new-front-rivalry-analysts-say?utm_source=rss_feed",
+      "published_date": "2026-07-17T02:21:04+00:00"
+    },
+    {
       "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul",
       "source": "Jerusalem Post",
       "country": "Iran",
@@ -67,11 +305,46 @@
       "published_date": "2026-07-17T02:19:38+00:00"
     },
     {
+      "title": "China, elections and Iran: the takeaways from Trump’s White House address",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360859/china-elections-and-iran-takeaways-trumps-white-house-address?utm_source=rss_feed",
+      "published_date": "2026-07-17T02:06:36+00:00"
+    },
+    {
+      "title": "Trump accuses China of interference and compares vulnerabilities to Venezuelan election rigging",
+      "source": "El Nacional Venezuela",
+      "country": "China",
+      "url": "https://www.elnacional.com/2026/07/donald-trump-acusa-china-interferencia-elecciones-venezuela/",
+      "published_date": "2026-07-17T01:57:11+00:00"
+    },
+    {
+      "title": "Trump launches rare broadside against China on US election interference – as it happened",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/us/article/3360854/trump-address-nation-iran-crisis-china-tensions-and-election-fight-intensify?utm_source=rss_feed",
+      "published_date": "2026-07-17T00:44:21+00:00"
+    },
+    {
+      "title": "US tariffs shake up Brazilian presidential race as Lula and Flávio Bolsonaro blame each other",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/aranceles-de-eeuu-sacuden-la-carrera-presidencial-brasilena-mientras-lula-y-flavio-bolsonaro-se-culpan-mutuamente/",
+      "published_date": "2026-07-17T00:30:00+00:00"
+    },
+    {
       "title": "Trump’s speech rumored to feature elections or Iran after president teases ‘really big news’ – live updates",
       "source": "The Guardian World",
       "country": "Iran",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
       "published_date": "2026-07-16T23:25:57+00:00"
+    },
+    {
+      "title": "Trump accuses China of interfering in 2020 U.S. election during televised address",
+      "source": "CBC News World",
+      "country": "China",
+      "url": "https://www.cbc.ca/news/world/trump-primetime-address-election-security-china-9.7273603?cmp=rss",
+      "published_date": "2026-07-16T22:35:00+00:00"
     },
     {
       "title": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine",
@@ -541,6 +814,13 @@
       "country": "Turkey",
       "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-offene-fragen-zehn-jahre-nach-dem-putschversuch-accg-201026509.html",
       "published_date": "2026-07-15T06:15:25+00:00"
+    },
+    {
+      "title": "Myanmar junta leader to visit Thailand next month",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-thailand-next-month/",
+      "published_date": "2026-07-15T05:27:55+00:00"
     },
     {
       "title": "Interim President of Peru requests Congress to grant a lifetime pension",
@@ -2900,83 +3180,6 @@
       "country": "France",
       "url": "http://www.euronews.com/my-europe/2026/07/03/lagarde-mulls-leaving-ecb-early-to-play-a-role-in-french-elections",
       "published_date": "2026-07-03T12:52:11+00:00"
-    },
-    {
-      "title": "Iranian leaders pay respects to supreme leader as Tehran prepares for funeral",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/07/iranian-leaders-pay-respects-to-supreme-leader-as-tehran-prepares-for-funeral/",
-      "published_date": "2026-07-03T11:56:14+00:00"
-    },
-    {
-      "title": "Lagarde does not rule out bringing forward her departure from the ECB in view of the 2027 French presidential race",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/pulso/noticia/lagarde-no-descarta-adelantar-su-salida-del-bce-de-cara-a-la-carrera-presidencial-francesa-de-2027/",
-      "published_date": "2026-07-03T11:45:55+00:00"
-    },
-    {
-      "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
-      "published_date": "2026-07-03T11:15:00+00:00"
-    },
-    {
-      "title": "First Thing: Iran to show defiance in six-day funeral for supreme leader",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader",
-      "published_date": "2026-07-03T10:29:51+00:00"
-    },
-    {
-      "title": "Coming to terms with the war: How much will October 7th determine the election in Israel?",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wie-sehr-wird-der-7-oktober-die-wahl-in-israel-bestimmen-accg-200994175.html",
-      "published_date": "2026-07-03T10:18:25+00:00"
-    },
-    {
-      "title": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
-      "source": "Euronews",
-      "country": "Venezuela",
-      "url": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500",
-      "published_date": "2026-07-03T10:17:08+00:00"
-    },
-    {
-      "title": "Funeral of Ali Khamenei: millions of Iranians expected in Tehran for the tribute to the Supreme Leader, which will begin on Saturday",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/07/03/funerailles-historiques-a-teheran-des-millions-d-iraniens-attendus-pour-l-hommage-au-guide-supreme-ali-khamenei-qui-commencera-samedi_6719147_3210.html",
-      "published_date": "2026-07-03T09:15:52+00:00"
-    },
-    {
-      "title": "Defense Forces refute Russian claims of capturing Kopani in Zaporizhzhia region",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4140310-defense-forces-refute-russian-claims-of-capturing-kopani-in-zaporizhzhia-region.html",
-      "published_date": "2026-07-03T07:56:00+00:00"
-    },
-    {
-      "title": "Tradition vs. change: Japan’s imperial succession debate intensifies",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/commentary/2026/07/03/japan/future-of-japans-imperial-family/",
-      "published_date": "2026-07-03T03:06:00+00:00"
-    },
-    {
-      "title": "PTI boycotts AJK elections, citing regional crisis",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2012583/pti-boycotts-ajk-elections-citing-regional-crisis",
-      "published_date": "2026-07-03T02:45:05+00:00"
-    },
-    {
-      "title": "Kast closes his most extensive tour as acting president with a call to Uruguayan businessmen to invest in Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-cierra-su-gira-mas-extensa-como-presidente-en-ejercicio-con-un-llamado-a-empresarios-uruguayos-a-invertir-en-chile/",
-      "published_date": "2026-07-03T01:23:44+00:00"
     }
   ]
 }
