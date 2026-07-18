@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-17T23:49:42.972300+00:00",
-    "story_count": 450,
+    "last_updated": "2026-07-18T11:56:06.646908+00:00",
+    "story_count": 423,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Germany live blog: Jens Spahn resigns",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-jens-spahn-tritt-zurueck-faz-110093143.html",
+      "published_date": "2026-07-18T11:44:26+00:00"
+    },
+    {
+      "title": "Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5",
+      "published_date": "2026-07-18T10:10:18+00:00"
+    },
+    {
+      "title": "US Democrats divided over support for Israel ahead of midterm elections",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections",
+      "published_date": "2026-07-18T09:05:45+00:00"
+    },
+    {
+      "title": "Israeli Parliament votes for its own dissolution, heading towards legislative elections",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-le-parlement-isra%C3%A9lien-vote-sa-propre-dissolution-cap-vers-les-l%C3%A9gislatives",
+      "published_date": "2026-07-18T08:19:50+00:00"
+    },
+    {
+      "title": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes?utm_source=rss_feed",
+      "published_date": "2026-07-18T06:00:05+00:00"
+    },
     {
       "title": "From Lviv to Kharkiv, Ukrainians were back in the streets on Friday for a second straight day, demanding the return of their ousted defense minister",
       "source": "Meduza EN",
@@ -2984,230 +3019,6 @@
       "country": "Iran",
       "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
       "published_date": "2026-07-04T12:51:41+00:00"
-    },
-    {
-      "title": "In pictures, the funeral of Iranian Supreme Leader Ali Khamenei",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/video/2026/07/04/en-images-les-funerailles-du-guide-supreme-iranien-ali-khamenei_6720660_3210.html",
-      "published_date": "2026-07-04T11:37:31+00:00"
-    },
-    {
-      "title": "AtlasIntel Survey: Venezuelans consider elections more urgent than the reconstruction of the country after the earthquakes",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/encuesta-atlasintel-venezolanos-priorizan-elecciones-que-la-reconstruccion-del-pais-tras-los-terremotos/",
-      "published_date": "2026-07-04T11:22:53+00:00"
-    },
-    {
-      "title": "India overcame West Asia energy crisis through timely decisions, diplomacy: PM Modi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-overcame-west-asia-energy-crisis-through-timely-decisions-diplomacy-pm-modi-101783164150973.html",
-      "published_date": "2026-07-04T11:22:30+00:00"
-    },
-    {
-      "title": "Thousands flock to Tehran to mourn slain Supreme Leader",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-flock-tehran-mourn-slain-supreme-leader",
-      "published_date": "2026-07-04T11:12:36+00:00"
-    },
-    {
-      "title": "PM Modi credits ‘jalwa’ of India’s diplomacy for beating West Asia fuel crisis: ‘history will record it’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/pm-narendra-modi-rajasthan-balotra-refinery-lpg-price-west-asia-energy-crisis-10771377/",
-      "published_date": "2026-07-04T11:09:37+00:00"
-    },
-    {
-      "title": "UK’s Starmer warns successor he will have to stay on international stage",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/07/uks-starmer-warns-successor-he-will-have-to-stay-on-international-stage/",
-      "published_date": "2026-07-04T11:04:42+00:00"
-    },
-    {
-      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ayatollah-khamenei-funeral-israel-news-b3008826.html",
-      "published_date": "2026-07-04T10:55:53+00:00"
-    },
-    {
-      "title": "Labour should win next election under Burnham after work already done, Starmer says",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
-      "published_date": "2026-07-04T10:09:32+00:00"
-    },
-    {
-      "title": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss",
-      "published_date": "2026-07-04T10:04:35+00:00"
-    },
-    {
-      "title": "Why Algeria still holds elections when the outcomes are predetermined",
-      "source": "Middle East Eye",
-      "country": "Algeria",
-      "url": "https://www.middleeasteye.net/opinion/why-algeria-still-holds-elections-when-outcomes-are-predetermined",
-      "published_date": "2026-07-04T09:38:47+00:00"
-    },
-    {
-      "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
-      "source": "Sky News World",
-      "country": "Iran",
-      "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
-      "published_date": "2026-07-04T09:20:00+00:00"
-    },
-    {
-      "title": "Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2012933/outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-on-foreign-affairs",
-      "published_date": "2026-07-04T09:10:47+00:00"
-    },
-    {
-      "title": "In pictures: Iranians chant ‘revenge, revenge’ as they gather for supreme leader Khamenei’s funeral",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2012928/in-pictures-iranians-chant-revenge-revenge-as-they-gather-for-supreme-leader-khameneis-funeral",
-      "published_date": "2026-07-04T09:02:59+00:00"
-    },
-    {
-      "title": "A hot shower, running water, light: In exile, each one returns me to Gaza",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/opinion/hot-shower-running-water-light-exile-each-one-returns-me-gaza",
-      "published_date": "2026-07-04T09:01:17+00:00"
-    },
-    {
-      "title": "Born from smuggled sperm, these Palestinian children await reunion with exiled fathers",
-      "source": "Indian Express",
-      "country": "Palestine",
-      "url": "https://indianexpress.com/article/world/palestinian-children-exiled-fathers-israel-prisoners-10770959/",
-      "published_date": "2026-07-04T08:46:59+00:00"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "source": "BBC World",
-      "country": "Peru",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T07:52:55+00:00"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote - BBC",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSUFKRDgwU3RhN3hqdXdIZEctYjJvV21hcjFiOENPbElvWVVsOE5vZEF0UW8xbVI2bHphZGxTR01WZG00Wi14UXBIcFEtSXN0YzFZUTJiZUhqZw?oc=5",
-      "published_date": "2026-07-04T07:52:55+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader Khamenei’s funeral ceremonies begin",
-      "source": "The Punch Nigeria",
-      "country": "Iran",
-      "url": "https://punchng.com/irans-supreme-leader-khameneis-funeral-ceremonies-begin/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-04T06:52:20+00:00"
-    },
-    {
-      "title": "Huge crowds gather as funeral ceremonies for Iranian supreme leader Khamenei begin",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/funeral-ceremonies-iran-ali-khamenei/",
-      "published_date": "2026-07-04T06:49:00+00:00"
-    },
-    {
-      "title": "Public tribute to Iranian Supreme Leader Ali Khamenei begins in Tehran",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-d%C3%A9but-officiel-de-l-hommage-public-au-guide-supr%C3%AAme-iranien-ali-khamenei-%C3%A0-t%C3%A9h%C3%A9ran",
-      "published_date": "2026-07-04T06:35:44+00:00"
-    },
-    {
-      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
-      "published_date": "2026-07-04T06:00:05+00:00"
-    },
-    {
-      "title": "Middle East live: Thousands flock to Iran's funeral rites for late supreme leader Khamenei",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/middle-east/20260704-middle-east-live-iran-begins-days-long-funeral-for-late-supreme-leader-ayatollah-ali-khamenei",
-      "published_date": "2026-07-04T05:14:07+00:00"
-    },
-    {
-      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
-      "source": "NPR World",
-      "country": "Iran",
-      "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
-      "published_date": "2026-07-04T05:04:16+00:00"
-    },
-    {
-      "title": "Iran live: thousands of faithful pay tribute to the late Supreme Leader Ali Khamenei",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/moyen-orient/20260704-en-direct-d%C3%A9but-de-l-hommage-de-trois-jours-pour-le-d%C3%A9funt-guide-supr%C3%AAme-iranien-ali-khamenei",
-      "published_date": "2026-07-04T04:52:29+00:00"
-    },
-    {
-      "title": "The RN discreetly cultivates its diplomatic networks, one year before the 2027 presidential election",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/international/article/2026/07/04/le-rn-cultive-discretement-ses-reseaux-diplomatiques-un-an-avant-l-election-presidentielle-de-2027_6720610_3210.html",
-      "published_date": "2026-07-04T04:00:29+00:00"
-    },
-    {
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/americas/ayatollah-ali-khamenei-iran-ayatollah-ruhollah-khomeini-tehran-united-states-b3008802.html",
-      "published_date": "2026-07-04T03:48:55+00:00"
-    },
-    {
-      "title": "Who represented India at slain Iran supreme leader Khamenei's funeral? Govt answers",
-      "source": "Hindustan Times",
-      "country": "Iran",
-      "url": "https://www.hindustantimes.com/india-news/who-represented-india-at-slain-iran-supreme-leader-ayatollah-ali-khamenei-funeral-tehran-govt-answers-101783135688645.html",
-      "published_date": "2026-07-04T03:46:40+00:00"
-    },
-    {
-      "title": "Venezuelans frustrated by quake response want new presidential elections",
-      "source": "Japan Times",
-      "country": "Venezuela",
-      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/venezuela-quake-response-presidential-elections/",
-      "published_date": "2026-07-04T01:32:00+00:00"
-    },
-    {
-      "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine - Yahoo News UK",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWF9ValBiY3NoY0prR3BhYlJXRkNxZzlhS2Y1cF9sT2JjLTJ6aV96WDRoZFlvQjdyU1ZvaW9tNVFyajdzQ1QzZGZBQkJoUzJVZUNfR1kxc1ZMcEpvaGxacHBfcnhWWDFsZG04bVRRU3hpSjBkc24yaGFfWjdjTUExOTdfUQ?oc=5",
-      "published_date": "2026-07-04T00:36:00+00:00"
-    },
-    {
-      "title": "Community leader hails Nigerians over US elections",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/community-leader-hails-nigerians-over-us-elections/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-04T00:11:49+00:00"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru presidential race",
-      "source": "Japan Times",
-      "country": "Peru",
-      "url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/keiko-fujimori-declared-winner-peru/",
-      "published_date": "2026-07-04T00:04:00+00:00"
-    },
-    {
-      "title": "President-elect Abelardo de la Espriella referred to military service and stated that 'Colombia deserves a better future'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
-      "published_date": "2026-07-03T23:50:00+00:00"
     }
   ]
 }
