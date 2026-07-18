@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-18T11:56:06.646908+00:00",
-    "story_count": 423,
+    "last_updated": "2026-07-18T23:49:54.591194+00:00",
+    "story_count": 432,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Cuban dissident artist Otero Alcantara lands in US exile",
+      "source": "South China Morning Post",
+      "country": "Cuba",
+      "url": "https://www.scmp.com/news/world/americas/article/3361070/cuban-dissident-artist-otero-alcantara-lands-us-exile?utm_source=rss_feed",
+      "published_date": "2026-07-18T23:18:23+00:00"
+    },
+    {
+      "title": "Iran-US war latest: Two US service members killed as supreme leader issues warning to Trump",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-strikes-airport-water-b3017324.html",
+      "published_date": "2026-07-18T23:12:10+00:00"
+    },
+    {
+      "title": "Former presidential candidate, Soraya Thronicke announces pre-candidacy for re-election in the Senate with support from Lula",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ex-presidenciavel-soraya-thronicke-anuncia-pre-candidatura-a-reeleicao-no-senado-com-apoio-de-lula.shtml",
+      "published_date": "2026-07-18T21:49:00+00:00"
+    },
+    {
+      "title": "The Cuban exile in Miami awaits the arrival of Luis Manuel Otero Alcántara after five years in prison",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-07-18-u1-e209363-s27061-nid335506-exilio-cubano-miami-espera-llegada-luis-manuel-otero",
+      "published_date": "2026-07-18T21:24:22+00:00"
+    },
+    {
+      "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
+      "source": "Deutsche Welle English",
+      "country": "Germany",
+      "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-18T19:57:00+00:00"
+    },
+    {
+      "title": "Thousands rally in London in support of Gaza, demand new PM take action",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
+      "published_date": "2026-07-18T19:30:30+00:00"
+    },
+    {
+      "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
+      "published_date": "2026-07-18T18:55:05+00:00"
+    },
+    {
+      "title": "Kast mourns the death of a police officer shot in an operation that allowed “El Rana” to be captured",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/kast-lamenta-muerte-de-carabinero-baleado-en-operativo-que-permitio-capturar-a-el-rana/",
+      "published_date": "2026-07-18T18:42:12+00:00"
+    },
+    {
+      "title": "Iran's supreme leader accuses the US of violating memorandum and threatens unforgettable lessons",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/07/lider-supremo-de-iran-acusa-a-ee-uu-de-violar-memorando-y-amenaza-con-lecciones-inolvidables/",
+      "published_date": "2026-07-18T18:35:36+00:00"
+    },
+    {
+      "title": "Iran supreme leader accuses Trump of violating deal, vows forceful response",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/07/18/iran-khamenei-trump-war",
+      "published_date": "2026-07-18T17:14:26+00:00"
+    },
+    {
+      "title": "German politician resigns over surrogacy child controversy",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T15:23:31+00:00"
+    },
+    {
+      "title": "FT and Meduza: Zelensky weighs firing top general Oleksandr Syrsky amid protests over ousted defense minister",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/18/ft-and-meduza-zelensky-weighs-firing-top-general-oleksandr-syrsky-amid-protests-over-ousted-defense-minister",
+      "published_date": "2026-07-18T15:13:46+00:00"
+    },
+    {
+      "title": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
+      "published_date": "2026-07-18T15:09:33+00:00"
+    },
+    {
+      "title": "German conservative parliamentary leader resigns over surrogate baby controversy",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/europe/20260718-german-conservative-parliamentary-leader-resigns-over-surrogate-baby-controversy",
+      "published_date": "2026-07-18T14:03:22+00:00"
+    },
+    {
+      "title": "CDU's Jens Spahn resigns amid growing scrutiny over surrogate baby",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/cdus-jens-spahn-resigns-amid-growing-scrutiny-over-surrogate-baby",
+      "published_date": "2026-07-18T13:19:54+00:00"
+    },
+    {
+      "title": "Why Iran hardliners are alleging a ‘coup’ after the US agreement",
+      "source": "Indian Express",
+      "country": "Iran",
+      "url": "https://indianexpress.com/article/world/iran-soft-coup-hardliners-threaten-president-pezeshkian-mojtaba-khamenei-hidden-10792706/",
+      "published_date": "2026-07-18T13:12:19+00:00"
+    },
+    {
+      "title": "UK by-election: Nigel Farage faces 'record' number of rivals",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals",
+      "published_date": "2026-07-18T12:52:20+00:00"
+    },
+    {
+      "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-hardliners-warn-of-a-coup-as-us-truce-comes-under-pressure/",
+      "published_date": "2026-07-18T12:34:38+00:00"
+    },
+    {
+      "title": "Germany live blog: Merz wants to clarify Spahn's successor in July",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-will-spahn-nachfolge-noch-im-juli-klaeren-faz-110093143.html",
+      "published_date": "2026-07-18T12:23:48+00:00"
+    },
     {
       "title": "Germany live blog: Jens Spahn resigns",
       "source": "FAZ Germany",
@@ -79,6 +212,13 @@
       "country": "Israel",
       "url": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections",
       "published_date": "2026-07-18T09:05:45+00:00"
+    },
+    {
+      "title": "Iran supreme leader threatens to teach U.S. 'unforgettable lessons' if attacks continue",
+      "source": "CBC News World",
+      "country": "Iran",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317?cmp=rss",
+      "published_date": "2026-07-18T08:22:58+00:00"
     },
     {
       "title": "Israeli Parliament votes for its own dissolution, heading towards legislative elections",
@@ -107,6 +247,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-de-colombia-nombro-a-silvia-tcherassi-como-embajadora-ad-honorem-de-la-moda-y-la-creatividad-colombiana-3572055",
       "published_date": "2026-07-17T22:36:26+00:00"
+    },
+    {
+      "title": "Japan enshrines in law male-only succession for its shrinking imperial family - PBS",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdi11d2FlMm9LcWNCc1lOdW40WUNhckUzc0RLazdscEE2d1hFaUM4WmRXaTZMUkVzSy1YcUJQUWhCRXNJalBScVFtQzQ0N3hJdUkwdnFycUFTTTgxS1JkMzUySW9Sb3ptZFhEek5JMFdUUGh2RTd3TlozTmpNWllUSUY5TmxtQmxuWFp0VGl5RmF1YkVVUnlFSE1vYVZYNEFGUEh0MVlZUlI3ejFaektUT3pn0gG3AUFVX3lxTE5YcmQ2ckhrbWJNWVFDSG13bVJMRTl5bWpxdVplTUw3OEROeE1OWkszM1NMZGtFd1VnNGRVOHRndUNQS2g4emludXJSVEFrRU5vQnRXQ2xOLWhRZVRvNkRZNmtHYjJpOTFubE9HU09HakZjRFN6U2w5UXZjS2M2czlPN3h4OHBPSDBkR1JvRFdpTXBPdXpkOHhCbUJEY25SZlZTdzQxMTBjdVVqZ2dUY1NtdE56dnZwdw?oc=5",
+      "published_date": "2026-07-17T22:19:37+00:00"
     },
     {
       "title": "Zelensky appoints Poklad as acting head of SSU",
@@ -368,6 +515,13 @@
       "published_date": "2026-07-17T06:35:27+00:00"
     },
     {
+      "title": "Israel’s parliament dissolves ahead of Oct. 27 elections - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVlKd0tvVkdSdUIyMndadGp1c0NRS1pOYVowNmFZdDhxdUxvZDhzUl9OM0x0cDBiUHVGbTRRdDYwLXFidXVzZXc2cTNwMWQyeVF4LVBTbmkxZDdtOUFia29WRURZaWlWR0pPYlNzWk9jQ3ExakxPQjZvWHB5X3VXTUNQS3RBaDlaWkw2bHRmTVdiLVAzajN1UnVn?oc=5",
+      "published_date": "2026-07-17T06:32:00+00:00"
+    },
+    {
       "title": "Japan revises imperial succession law but retains ban on female emperors",
       "source": "Euronews",
       "country": "Japan",
@@ -622,7 +776,7 @@
     {
       "title": "Ukraine is putting pressure on Russia. So why is the country's defence minister being ousted now?",
       "source": "CBC News World",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.cbc.ca/news/world/fedorov-ukraine-defence-9.7272575?cmp=rss",
       "published_date": "2026-07-16T14:39:06+00:00"
     },
@@ -2928,97 +3082,6 @@
       "country": "Russia",
       "url": "https://indianexpress.com/article/world/ukraine-russia-war-st-petersburg-oil-terminal-strike-kostiantynivka-10771901/",
       "published_date": "2026-07-05T00:23:29+00:00"
-    },
-    {
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "source": "BBC World",
-      "country": "France",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T23:17:24+00:00"
-    },
-    {
-      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T21:46:43+00:00"
-    },
-    {
-      "title": "Zelensky denies Russia captured key Ukraine city, challenges Putin to meet him there",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3359441/zelensky-denies-russia-captured-key-ukraine-city-challenges-putin-meet-him-there?utm_source=rss_feed",
-      "published_date": "2026-07-04T19:15:31+00:00"
-    },
-    {
-      "title": "Karina Milei visited Misiones to launch a school for leaders and called for the “re-election” of the President in 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/karina-milei-visito-misiones-para-lanzar-una-escuela-de-dirigentes-y-pidio-la-reeleccion-del-nid04072026/",
-      "published_date": "2026-07-04T17:56:02+00:00"
-    },
-    {
-      "title": "Mamata loyalist Chandrima Bhattacharya resigns as Bengal State president of Trinamool Congress",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/chandrima-bhattacharya-resigns-as-tmc-mamata-banerjee-faction-bengal-chief/article71182273.ece",
-      "published_date": "2026-07-04T17:55:21+00:00"
-    },
-    {
-      "title": "India weathered West Asia crisis through strategic decision-making, diplomacy: PM Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/india-navigated-one-of-the-biggest-energy-crises-with-little-burden-on-citizens-pm-modi-in-rajasthan/article71182628.ece",
-      "published_date": "2026-07-04T17:12:36+00:00"
-    },
-    {
-      "title": "In Mali, jihadists and separatists relaunch their offensive against the junta and its Russian allies",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-les-djihadistes-et-les-independantistes-relancent-leur-offensive-contre-la-junte-et-ses-allies-russes_6720694_3212.html",
-      "published_date": "2026-07-04T17:11:39+00:00"
-    },
-    {
-      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T16:49:36+00:00"
-    },
-    {
-      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-ali-khamenei-funeral-hormuz-b3008931.html",
-      "published_date": "2026-07-04T14:15:13+00:00"
-    },
-    {
-      "title": "Huge crowds gather in Iran as funeral ceremonies for assassinated supreme leader begin",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2012913/huge-crowds-gather-in-iran-as-funeral-ceremonies-for-assassinated-supreme-leader-begin",
-      "published_date": "2026-07-04T13:49:24+00:00"
-    },
-    {
-      "title": "PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis",
-      "source": "Hindustan Times",
-      "country": "Iran",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-lauds-140-crore-indians-for-defeating-attempts-to-destabilise-nation-amid-us-iran-war-induced-energy-crisis-101783168732452.html",
-      "published_date": "2026-07-04T13:40:21+00:00"
-    },
-    {
-      "title": "Keir Starmer calls decision to resign as British PM 'intensely personal'",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/07/04/keir-starmer-calls-decision-to-resign-as-british-pm-intensely-personal",
-      "published_date": "2026-07-04T13:07:48+00:00"
-    },
-    {
-      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
-      "published_date": "2026-07-04T12:51:41+00:00"
     }
   ]
 }
