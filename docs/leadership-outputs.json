@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-18T23:49:54.591194+00:00",
-    "story_count": 432,
+    "last_updated": "2026-07-19T12:01:28.431048+00:00",
+    "story_count": 433,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "'Start packing': Ben Gvir vows to fire A-G as she restricts government power ahead of election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902948",
+      "published_date": "2026-07-19T13:24:39+00:00"
+    },
+    {
+      "title": "Amit Shah inaugurates India's first immersive language museum in Kolkata",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-inaugurates-indias-first-immersive-language-museum-in-kolkata/article71241179.ece",
+      "published_date": "2026-07-19T11:33:42+00:00"
+    },
+    {
+      "title": "AfD's election campaign launch: “We used to be looked at strangely for that”",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahlkampfauftakt-der-afd-sachsen-anhalt-soll-nur-der-anfang-sein-accg-201040704.html",
+      "published_date": "2026-07-19T11:29:15+00:00"
+    },
+    {
+      "title": "Germany live blog: Merz does not rule out cabinet reshuffle after Spahn's resignation",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-schliesst-kabinettsumbau-nach-spahn-ruecktritt-nicht-aus-faz-110093143.html",
+      "published_date": "2026-07-19T10:30:12+00:00"
+    },
+    {
+      "title": "Germany: CDU MP leader resigns following recourse to surrogacy",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260719-allemagne-le-chef-des-d%C3%A9put%C3%A9s-cdu-d%C3%A9missionne-suite-%C3%A0-un-recours-%C3%A0-la-gpa",
+      "published_date": "2026-07-19T09:42:19+00:00"
+    },
+    {
+      "title": "War in Ukraine: Will Volodymyr Zelensky part ways with Army Commander-in-Chief General Syrsky?",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-va-t-il-se-separer-du-commandant-en-chef-de-l-armee-le-general-syrsky-20260719",
+      "published_date": "2026-07-19T09:21:23+00:00"
+    },
+    {
+      "title": "India-UK ties expected to stay the course with Andy Burnham as new PM: Reports",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-uk-expected-to-stay-the-course-with-andy-burnham-as-new-pm-reports-101784438257983.html",
+      "published_date": "2026-07-19T08:17:52+00:00"
+    },
+    {
+      "title": "Before the election: What Berlin's bears tell us about the situation in the capital",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/was-berliner-baeren-ueber-den-zustand-der-stadt-verraten-accg-201025623.html",
+      "published_date": "2026-07-19T08:04:30+00:00"
+    },
+    {
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "source": "BBC World",
+      "country": "Cuba",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T07:47:02+00:00"
+    },
+    {
+      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "source": "NPR World",
+      "country": "Cuba",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+      "published_date": "2026-07-19T07:27:59+00:00"
+    },
+    {
+      "title": "The artist Luis Manuel Otero Alcantara, figure of Cuban dissidence, goes into exile in Miami",
+      "source": "Le Monde France",
+      "country": "Cuba",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/l-artiste-luis-manuel-otero-alcantara-figure-de-la-dissidence-cubaine-s-exile-a-miami_6725548_3210.html",
+      "published_date": "2026-07-19T07:25:31+00:00"
+    },
+    {
+      "title": "From Bruce Lee craze to regional hub: how China’s kung fu captured Ivory Coast",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361059/bruce-lee-craze-regional-hub-how-chinas-kung-fu-captured-ivory-coast?utm_source=rss_feed",
+      "published_date": "2026-07-19T04:00:17+00:00"
+    },
+    {
+      "title": "Trump could interfere in the election to favor Flávio Bolsonaro and generate chaos, says Brazilianist",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/trump-pode-interferir-na-eleicao-para-favorecer-flavio-bolsonaro-e-gerar-caos-diz-brasilianista.shtml",
+      "published_date": "2026-07-19T02:00:00+00:00"
+    },
     {
       "title": "Cuban dissident artist Otero Alcantara lands in US exile",
       "source": "South China Morning Post",
@@ -179,6 +270,13 @@
       "published_date": "2026-07-18T12:52:20+00:00"
     },
     {
+      "title": "UK by-election: Nigel Farage faces 'record' number of rivals - Euronews",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDh3cTN3V01kbHdPcUZzeWhoaUR2LV9YYUozcWtaemt6MksyNm1jeFcwelhtZmNRWld0MFUxU2RlUkpOdTFURkJOQUpQZjRhZ3F1aFYySjdDUkVqeEU3RjltTEtNbGI2UkdRU1hxcHNvT2d3QXJydEVubl9UeExoN1cyTE4xU29YeDR5a3E4eUZ2Ql9Yb1BfTm5ycTFLWkRWSU1Lcld3?oc=5",
+      "published_date": "2026-07-18T12:52:20+00:00"
+    },
+    {
       "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure",
       "source": "Egypt Independent",
       "country": "Iran",
@@ -205,6 +303,13 @@
       "country": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5",
       "published_date": "2026-07-18T10:10:18+00:00"
+    },
+    {
+      "title": "Japan votes to keep emperor succession male-only, blocking Princess Aiko from throne - New York Post",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVAwb1NsaTd2YnVfZTJPMXE2bjVEeGhJanJEbmNXSGM1ZlVNU2xZZ1RYY2NLRy1WeXhKNF8xNVhKUU5RSHZ5QTJIU0dla3RKbmpZVzFLQ2FVRmFZTm5aMWlZSWl6UXpMSlBINVRzTzZlbTJ2emo1OEhBVURwRnh1R0stX1F6UGxzb0tqX1ZDYVQ3ZDg5ckktTGpRd0luc2dLN292V0pzUWUwZy1TR0FqcTNvdVlVN2Rmb1pwQXhaSjJWaWs?oc=5",
+      "published_date": "2026-07-18T09:44:00+00:00"
     },
     {
       "title": "US Democrats divided over support for Israel ahead of midterm elections",
@@ -2984,104 +3089,6 @@
       "country": "Denmark",
       "url": "https://politiken.dk/danmark/art10907724/Rum%C3%A6nere-sigtet-for-guldbarre-kup-til-millioner-i-K%C3%B8benhavn",
       "published_date": "2026-07-05T11:57:58+00:00"
-    },
-    {
-      "title": "US to closely monitor Nigeria’s 2027 elections — Congressman",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/us-to-closely-monitor-nigerias-2027-elections-congressman/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-05T11:37:25+00:00"
-    },
-    {
-      "title": "Annie Walker: the profile and career of the new leader of Walmart in Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/annie-walker-el-perfil-y-la-carrera-de-la-nueva-lider-de-walmart-en-chile/",
-      "published_date": "2026-07-05T11:00:00+00:00"
-    },
-    {
-      "title": "Three sons of Ali Khamenei appear at the funeral, but not his successor",
-      "source": "France 24 FR",
-      "country": "Iran",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260705-trois-fils-d-ali-khamenei-apparaissent-aux-obs%C3%A8ques-mais-pas-son-successeur",
-      "published_date": "2026-07-05T10:57:31+00:00"
-    },
-    {
-      "title": "Iran’s new Supreme Leader Mojtaba Khamenei holds ‘positive’ view of China, ambassador says",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3359478/irans-new-supreme-leader-mojtaba-khamenei-holds-positive-view-china-ambassador-says?utm_source=rss_feed",
-      "published_date": "2026-07-05T10:31:38+00:00"
-    },
-    {
-      "title": "Sisi inaugurates the Octagon – the largest strategic command complex in the Middle East",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/sisi-inaugurates-the-octagon-the-largest-strategic-command-complex-in-the-middle-east/",
-      "published_date": "2026-07-05T10:24:08+00:00"
-    },
-    {
-      "title": "Iranians pray for slain Khamenei but son and successor absent",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/07/iranians-pray-for-slain-khamenei-but-son-and-successor-absent/",
-      "published_date": "2026-07-05T10:17:43+00:00"
-    },
-    {
-      "title": "Prashant Kishor to fight election finally, as Jan Suraaj candidate for July 30 bypoll in Bihar BJP fortress Bankipur",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/prashant-kishor-in-election-fray-finally-jan-suraaj-declares-him-as-candidate-for-july-30-bankipur-bypoll-in-bihar-101783242976703.html",
-      "published_date": "2026-07-05T09:19:04+00:00"
-    },
-    {
-      "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/07/05/world/prayers-iran-khamenei-funeral-ceremonies/",
-      "published_date": "2026-07-05T08:37:00+00:00"
-    },
-    {
-      "title": "How Iran's new regime is very different to what came before",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-05T05:40:07+00:00"
-    },
-    {
-      "title": "Ayatollah Ali Khamenei Funeral Updates | Successor Mojtaba still absent, slain leader’s three sons lead funeral prayers",
-      "source": "Indian Express",
-      "country": "Iran",
-      "url": "https://indianexpress.com/article/world/khamenei-funeral-live-updates-us-iran-war-trump-israel-iran-peace-talks-10771876/",
-      "published_date": "2026-07-05T03:55:38+00:00"
-    },
-    {
-      "title": "Milei's plan for re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/opinion/el-plan-de-milei-para-la-reeleccion-nid05072026/",
-      "published_date": "2026-07-05T03:10:00+00:00"
-    },
-    {
-      "title": "Global crises cannot be ignored, outgoing UK PM Starmer warns successor",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2013067/global-crises-cannot-be-ignored-outgoing-uk-pm-starmer-warns-successor",
-      "published_date": "2026-07-05T02:56:28+00:00"
-    },
-    {
-      "title": "India overcame crisis on refining prowess, will keep building: PM Modi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-overcame-crisis-on-refining-prowess-will-keep-building-pm-modi-101783213008235.html",
-      "published_date": "2026-07-05T00:59:37+00:00"
-    },
-    {
-      "title": "Ukraine hits major oil terminal 500 miles inside Russia, disputes Putin’s claim of capturing frontline town",
-      "source": "Indian Express",
-      "country": "Russia",
-      "url": "https://indianexpress.com/article/world/ukraine-russia-war-st-petersburg-oil-terminal-strike-kostiantynivka-10771901/",
-      "published_date": "2026-07-05T00:23:29+00:00"
     }
   ]
 }
