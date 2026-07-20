@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-20T13:07:51.634037+00:00",
-    "story_count": 424,
+    "last_updated": "2026-07-20T23:56:12.826811+00:00",
+    "story_count": 427,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,123 @@
   },
   "stories": [
     {
-      "title": "Over 112,000 registered Democrats eligible to vote in party primaries ahead of Knesset election",
+      "title": "Team of the elected president of Colombia denounces a plan by armed groups to attack him",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/07/equipo-del-presidente-electo-de-colombia-denuncia-plan-de-grupos-armados-para-atentar-en-su-contra/",
+      "published_date": "2026-07-20T23:12:24+00:00"
+    },
+    {
+      "title": "Colombia: the president-elect claims to be the target of an attack",
+      "source": "Le Figaro France",
+      "country": "Colombia",
+      "url": "https://www.lefigaro.fr/international/colombie-le-president-elu-assure-etre-la-cible-d-un-attentat-20260721",
+      "published_date": "2026-07-20T22:28:24+00:00"
+    },
+    {
+      "title": "The presidents who will attend the inauguration of Keiko Fujimori in Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/los-presidentes-que-asistiran-a-la-toma-de-posesion-de-keiko-fujimori-en-peru/",
+      "published_date": "2026-07-20T22:06:40+00:00"
+    },
+    {
+      "title": "Zelensky reviews 11 candidates to replace Ukraine’s commander-in-chief Oleksandr Syrsky, Bloomberg reports",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/21/zelensky-reviews-11-candidates-to-replace-ukraine-s-commander-in-chief-oleksandr-syrsky-bloomberg-reports",
+      "published_date": "2026-07-20T21:15:42+00:00"
+    },
+    {
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "published_date": "2026-07-20T20:53:29+00:00"
+    },
+    {
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "published_date": "2026-07-20T20:50:31+00:00"
+    },
+    {
+      "title": "Senator Bernie Moreno proposes holding presidential elections in Venezuela on July 24, 2027",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/senador-bernie-moreno-propone-celebrar-elecciones-presidenciales-en-venezuela-el-24-de-julio-de-2027/",
+      "published_date": "2026-07-20T20:20:38+00:00"
+    },
+    {
+      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+      "published_date": "2026-07-20T19:43:02+00:00"
+    },
+    {
+      "title": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister?utm_source=rss_feed",
+      "published_date": "2026-07-20T19:09:19+00:00"
+    },
+    {
+      "title": "Spahn's successor: Where are the tough guys in the CDU now?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/spahns-nachfolge-wo-sind-jetzt-die-harten-typen-in-der-cdu-201047260.html",
+      "published_date": "2026-07-20T18:46:34+00:00"
+    },
+    {
+      "title": "Ukraine: High-risk reshuffle?",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260720-ukraine-remaniement-%C3%A0-haut-risque",
+      "published_date": "2026-07-20T18:10:11+00:00"
+    },
+    {
+      "title": "Destitution and economic recovery: the promises of Andy Burnham's inauguration speech as British Prime Minister",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/indigencia-y-reactivacion-economica-las-promesas-del-discurso-de-asuncion-de-andy-burnham-como-primer-ministro-britanico/",
+      "published_date": "2026-07-20T17:30:00+00:00"
+    },
+    {
+      "title": "Who is Andy Burnham, the “king of the north” elected as prime minister of the United Kingdom",
+      "source": "El Nacional Venezuela",
+      "country": "United Kingdom",
+      "url": "https://www.elnacional.com/2026/07/quien-es-andy-burnham-el-rey-del-norte-elegido-como-primer-ministro-de-reino-unido/",
+      "published_date": "2026-07-20T16:01:28+00:00"
+    },
+    {
+      "title": "State Duma Expected to Vote on Updated Bill Cutting Off Exiled Critics From Banking and Property Services, Report Says",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/20/state-duma-expected-to-vote-on-updated-bill-cutting-off-exiled-critics-from-banking-and-property-services-report-says-a93292",
+      "published_date": "2026-07-20T14:59:49+00:00"
+    },
+    {
+      "title": "Democrats announce Knesset slate ahead of elections, MK Lazimi takes second spot after Golan",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-903068",
       "published_date": "2026-07-20T14:11:46+00:00"
+    },
+    {
+      "title": "Who is Khalil al-Hayya, Hamas’s new leader?",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader",
+      "published_date": "2026-07-20T14:05:17+00:00"
+    },
+    {
+      "title": "After getting a new PM, the UK waits for his government and first policies",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies",
+      "published_date": "2026-07-20T13:55:20+00:00"
     },
     {
       "title": "Keir Starmer resigns as UK Prime minister, backs successor Andy Burnham",
@@ -72,6 +184,13 @@
       "country": "United Kingdom",
       "url": "https://punchng.com/keir-starmer-resigns-as-uk-prime-minister-backs-successor-andy-burnham/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-07-20T13:32:19+00:00"
+    },
+    {
+      "title": "Hamas names top negotiator Khalil Al-Hayya as new leader, succeeding Yahya Sinwar",
+      "source": "The Independent UK",
+      "country": "Palestine",
+      "url": "https://www.independent.co.uk/news/world/middle-east/hamas-leader-2026-khalil-al-hayya-b3018168.html",
+      "published_date": "2026-07-20T12:58:00+00:00"
     },
     {
       "title": "New PM Andy Burnham vows 10-year plan to stabilise UK",
@@ -86,6 +205,13 @@
       "country": "United Kingdom",
       "url": "https://www.scmp.com/news/world/europe/article/3361245/uks-new-pm-andy-burnham-vows-end-years-instability?utm_source=rss_feed",
       "published_date": "2026-07-20T12:51:11+00:00"
+    },
+    {
+      "title": "Britain’s New Prime Minister Must Stand Up to Trump",
+      "source": "Foreign Policy",
+      "country": "United Kingdom",
+      "url": "https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/",
+      "published_date": "2026-07-20T12:35:34+00:00"
     },
     {
       "title": "5 things to know about Andy Burnham, the UK’s new prime minister",
@@ -174,7 +300,7 @@
     {
       "title": "TNLA, Myanmar junta hold talks in Naypyitaw amid China-backed peace efforts",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/tnla-myanmar-junta-hold-talks-in-naypyitaw-amid-china-backed-peace-efforts/",
       "published_date": "2026-07-20T09:30:55+00:00"
     },
@@ -195,7 +321,7 @@
     {
       "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
       "published_date": "2026-07-20T07:50:25+00:00"
     },
@@ -2921,111 +3047,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
       "published_date": "2026-07-06T23:54:29+00:00"
-    },
-    {
-      "title": "Petro rejects the legitimacy of the De la Espriella government and insists on electoral fraud",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/07/petro-rechaza-la-legitimidad-del-gobierno-de-de-la-espriella-e-insiste-en-fraude-electoral/",
-      "published_date": "2026-07-06T21:37:18+00:00"
-    },
-    {
-      "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss",
-      "published_date": "2026-07-06T19:56:09+00:00"
-    },
-    {
-      "title": "Body of Iran's slain supreme leader arrives in Qom",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/body-irans-slain-supreme-leader-arrives-qom",
-      "published_date": "2026-07-06T18:46:08+00:00"
-    },
-    {
-      "title": "In Israel, the legal coup of the Netanyahu government: “The final nail in the coffin of democracy”",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/07/06/en-israel-le-coup-d-etat-juridique-du-gouvernement-netanyahou-face-a-la-justice_6721237_3210.html",
-      "published_date": "2026-07-06T17:25:29+00:00"
-    },
-    {
-      "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
-      "published_date": "2026-07-06T17:25:12+00:00"
-    },
-    {
-      "title": "Right-wing shoots itself in the foot by focusing on impeachment of the STF, people want an end to the 6x1, says Lula's new leader in the Senate",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/direita-da-tiro-no-pe-ao-focar-impeachment-do-stf-povao-quer-fim-da-6x1-diz-nova-lider-de-lula-no-senado.shtml",
-      "published_date": "2026-07-06T16:00:00+00:00"
-    },
-    {
-      "title": "Middle East crisis: Funeral procession for supreme leader Ali Khamenei begins in Iran – as it happened",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
-      "published_date": "2026-07-06T15:58:04+00:00"
-    },
-    {
-      "title": "'His resilience, his words, his character': Mourners grieve late supreme leader Khamenei",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/asia-pacific/20260706-his-resilience-his-words-his-character-mourners-grieve-late-supreme-leader-khamenei",
-      "published_date": "2026-07-06T14:51:31+00:00"
-    },
-    {
-      "title": "Special counsel accuses NIS of actively cooperating in ex-President Yoon's martial law bid",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260706/special-counsel-accuses-nis-of-actively-cooperating-in-ex-president-yoons-martial-law-bid?utm_source=rss",
-      "published_date": "2026-07-06T14:22:04+00:00"
-    },
-    {
-      "title": "Legislative elections in Algeria: a historic abstention, the FLN in the lead",
-      "source": "France 24 FR",
-      "country": "Algeria",
-      "url": "https://www.france24.com/fr/afrique/20260706-l%C3%A9gislatives-alg%C3%A9rie-abstention-historique-fln-en-t%C3%AAte",
-      "published_date": "2026-07-06T14:13:26+00:00"
-    },
-    {
-      "title": "Iran Live Updates: Huge Crowds Gather for Funeral of Ayatollah Ali Khamenei, Supreme Leader Killed in Iran War - The New York Times",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nOHc3ZGJJZEUyV0FnN0thSXc4XzJ1NWZ4eUJ2bkZQQ1duWWtPdDYtQlNra0l1bGpYd2laSjY1RDNHeGIycVE3QTl0cnNUOTNnNk1mWjg1STRnbXdLNXNvZUsxX2xJZGxWYW11MmpLWHBEOWdrTXc?oc=5",
-      "published_date": "2026-07-06T14:10:31+00:00"
-    },
-    {
-      "title": "In Algeria, legislative elections locked and shunned by the population",
-      "source": "Le Monde France",
-      "country": "Algeria",
-      "url": "https://www.lemonde.fr/international/article/2026/07/06/en-algerie-des-elections-legislatives-verrouillees-et-boudees-par-la-population_6721199_3210.html",
-      "published_date": "2026-07-06T14:02:34+00:00"
-    },
-    {
-      "title": "South Caucasus officials attend Tehran funeral of Iranian Supreme Leader Khamenei",
-      "source": "OC Media Caucasus",
-      "country": "Iran",
-      "url": "https://oc-media.org/south-caucasus-officials-attend-tehran-funeral-of-iranian-supreme-leader-khamenei/",
-      "published_date": "2026-07-06T13:56:38+00:00"
-    },
-    {
-      "title": "Does the French right have a chance of defeating the far right in the election?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
-      "published_date": "2026-07-06T13:48:45+00:00"
-    },
-    {
-      "title": "Oyo Abduction: ‘Makinde told me he never called,’ Peter Obi restates call for Tinubu’s resignation",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/893287-oyo-abduction-makinde-told-me-he-never-called-peter-obi-restates-call-for-tinubus-resignation.html",
-      "published_date": "2026-07-06T13:11:24+00:00"
     }
   ]
 }
