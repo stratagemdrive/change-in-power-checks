@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-19T23:55:35.435353+00:00",
-    "story_count": 420,
+    "last_updated": "2026-07-20T13:07:51.634037+00:00",
+    "story_count": 424,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,153 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Over 112,000 registered Democrats eligible to vote in party primaries ahead of Knesset election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-903068",
+      "published_date": "2026-07-20T14:11:46+00:00"
+    },
+    {
+      "title": "Keir Starmer resigns as UK Prime minister, backs successor Andy Burnham",
+      "source": "The Punch Nigeria",
+      "country": "United Kingdom",
+      "url": "https://punchng.com/keir-starmer-resigns-as-uk-prime-minister-backs-successor-andy-burnham/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-20T13:32:19+00:00"
+    },
+    {
+      "title": "New PM Andy Burnham vows 10-year plan to stabilise UK",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/07/20/new-pm-andy-burnham-vows-10-year-plan-to-stabilise-uk",
+      "published_date": "2026-07-20T12:52:39+00:00"
+    },
+    {
+      "title": "UK’s new PM Andy Burnham vows to end years of instability",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3361245/uks-new-pm-andy-burnham-vows-end-years-instability?utm_source=rss_feed",
+      "published_date": "2026-07-20T12:51:11+00:00"
+    },
+    {
+      "title": "5 things to know about Andy Burnham, the UK’s new prime minister",
+      "source": "Vanguard Nigeria",
+      "country": "United Kingdom",
+      "url": "https://www.vanguardngr.com/2026/07/5-things-to-know-about-andy-burnham-the-uks-new-prime-minister/",
+      "published_date": "2026-07-20T12:31:07+00:00"
+    },
+    {
+      "title": "Hamas elects new supreme leader",
+      "source": "DR News Denmark",
+      "country": "Palestine",
+      "url": "https://www.dr.dk/nyheder/seneste/hamas-vaelger-ny-oeverste-leder",
+      "published_date": "2026-07-20T12:18:33+00:00"
+    },
+    {
+      "title": "Sinwar's successor: Khalil al-Haja becomes the new leader of Hamas",
+      "source": "FAZ Germany",
+      "country": "Palestine",
+      "url": "https://www.faz.net/aktuell/politik/ausland/chalil-al-haja-wird-neuer-anfuehrer-der-hamas-accg-201047509.html",
+      "published_date": "2026-07-20T12:01:59+00:00"
+    },
+    {
+      "title": "Hamas says lead negotiator in Israel talks elected as group’s new leader",
+      "source": "Vanguard Nigeria",
+      "country": "Israel",
+      "url": "https://www.vanguardngr.com/2026/07/hamas-says-lead-negotiator-in-israel-talks-elected-as-groups-new-leader/",
+      "published_date": "2026-07-20T11:59:33+00:00"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/news/hamas-names-khalil-al-hayya-new-leader",
+      "published_date": "2026-07-20T11:58:47+00:00"
+    },
+    {
+      "title": "President Murmu arrives in Moldova; first by any Indian head of State",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/president-murmu-arrives-in-moldovafirst-by-any-indian-head-of-state/article71244420.ece",
+      "published_date": "2026-07-20T11:53:31+00:00"
+    },
+    {
+      "title": "🔴 United Kingdom: follow the speech of new Prime Minister Andy Burnham live",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/europe/20260720-royaume-uni-andy-burnham-succ%C3%A8de-%C3%A0-keir-starmer-au-poste-de-premier-ministre",
+      "published_date": "2026-07-20T11:48:10+00:00"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
+      "published_date": "2026-07-20T11:27:04+00:00"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-names-khalil-al-hayyah-new-leader",
+      "published_date": "2026-07-20T11:12:18+00:00"
+    },
+    {
+      "title": "The “King of the North” to Downing Street: Andy Burnham's challenges as the new Prime Minister of the United Kingdom",
+      "source": "La Tercera Chile",
+      "country": "United Kingdom",
+      "url": "https://www.latercera.com/mundo/noticia/el-rey-del-norte-a-downing-street-los-desafios-de-andy-burnham-como-nuevo-primer-ministro-de-reino-unido/",
+      "published_date": "2026-07-20T11:00:00+00:00"
+    },
+    {
+      "title": "Turkey marks a decade since the coup that never was, but never really ended",
+      "source": "RFI English",
+      "country": "Turkey",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260720-turkey-marks-a-decade-since-the-coup-that-never-was-but-never-really-ended",
+      "published_date": "2026-07-20T10:40:54+00:00"
+    },
+    {
+      "title": "China and US still in contact on Xi summit trip despite Trump’s election claims",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361215/china-us-talks-ahead-xi-jinpings-planned-september-visit-maintained-beijing?utm_source=rss_feed",
+      "published_date": "2026-07-20T09:39:28+00:00"
+    },
+    {
+      "title": "TNLA, Myanmar junta hold talks in Naypyitaw amid China-backed peace efforts",
+      "source": "Myanmar Now",
+      "country": "China",
+      "url": "https://myanmar-now.org/en/news/tnla-myanmar-junta-hold-talks-in-naypyitaw-amid-china-backed-peace-efforts/",
+      "published_date": "2026-07-20T09:30:55+00:00"
+    },
+    {
+      "title": "Kostiantynivka not captured: Skelia Regiment responds to video of captured soldiers shown under the Russian tricolor",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4146041-kostiantynivka-not-captured-skelia-regiment-responds-to-video-of-captured-soldiers-shown-under-the-russian-tricolor.html",
+      "published_date": "2026-07-20T08:17:00+00:00"
+    },
+    {
+      "title": "Elections in Russia: There is no end in sight for Putin's regime",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/vor-der-wahl-ist-putins-regime-in-schwierigkeiten-201025701.html",
+      "published_date": "2026-07-20T08:03:17+00:00"
+    },
+    {
+      "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
+      "published_date": "2026-07-20T07:50:25+00:00"
+    },
+    {
+      "title": "“I’m ready, I have a plan”: the coronation of Andy Burnham, the “King of the North” new Prime Minister of the United Kingdom",
+      "source": "Le Figaro France",
+      "country": "United Kingdom",
+      "url": "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
+      "published_date": "2026-07-20T04:19:41+00:00"
+    },
     {
       "title": "New haredi party launches, aiming to secure spot in Knesset ahead of elections",
       "source": "Jerusalem Post",
@@ -106,6 +253,13 @@
       "source": "FAZ Germany",
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/afd-wahlkampfauftakt-in-sachsen-anhalt-widersprueche-fuerchtet-sie-nicht-201044790.html",
+      "published_date": "2026-07-19T14:46:27+00:00"
+    },
+    {
+      "title": "AfD in Saxony-Anhalt: The others have to do the election campaign",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/warum-die-afd-in-sachsen-anhalt-kaum-noch-wahlkampf-braucht-201044790.html",
       "published_date": "2026-07-19T14:46:27+00:00"
     },
     {
@@ -2872,132 +3026,6 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/news/top-news/893287-oyo-abduction-makinde-told-me-he-never-called-peter-obi-restates-call-for-tinubus-resignation.html",
       "published_date": "2026-07-06T13:11:24+00:00"
-    },
-    {
-      "title": "US to watch Nigeria’s 2027 elections, says Congressman",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/893283-us-to-watch-nigerias-2027-elections-says-congressman.html",
-      "published_date": "2026-07-06T12:50:32+00:00"
-    },
-    {
-      "title": "In Tehran, funeral attendees grieve the loss of supreme leader Ali Khamenei",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/in-tehran-funeral-attendees-grieve-the-loss-of-supreme-leader-ali-khamenei",
-      "published_date": "2026-07-06T12:33:19+00:00"
-    },
-    {
-      "title": "Iran begins long farewell to former supreme leader with calls for Trump’s death | First Thing",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/first-thing-iran-supreme-leader-ali-khamenei-funeral-trump",
-      "published_date": "2026-07-06T12:31:08+00:00"
-    },
-    {
-      "title": "Gustavo Petro reiterates the call for civil disobedience and once again ignores the electoral victory of the elected president, Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-reitera-llamado-a-desobediencia-civil-y-vuelve-a-desconocer-triunfo-electoral-de-abelardo-de-la-espriella-3569280",
-      "published_date": "2026-07-06T12:20:10+00:00"
-    },
-    {
-      "title": "Thousands on streets in Iranian capital for former supreme leader’s funeral procession - BBC",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RVAxWUxjUlB2Rnh4N1lBODJ4cWotQ09fRmhSZEd6Mjd2SFBSQU5BWjZPX09FZlloSUdRZmJwUUNkRDV2dTJpeGhZWUk1MG9FMkhJOA?oc=5",
-      "published_date": "2026-07-06T11:24:36+00:00"
-    },
-    {
-      "title": "Armenian PM Makes First Trip to Russia Since Re-Election, Food Import Ban",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/06/armenian-pm-makes-first-trip-to-russia-since-re-election-food-import-ban-a93174",
-      "published_date": "2026-07-06T11:13:00+00:00"
-    },
-    {
-      "title": "Resign or shelve re-election bid over insecurity, Peter Obi tells Tinubu",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/resign-or-shelve-re-election-bid-over-insecurity-peter-obi-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-06T11:00:59+00:00"
-    },
-    {
-      "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
-      "published_date": "2026-07-06T10:52:55+00:00"
-    },
-    {
-      "title": "'Genuine admiration and emotion' in Tehran's streets as Iran mourns supreme leader",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/genuine-admiration-and-emotion-in-tehran-s-streets-as-iran-mourns-supreme-leader",
-      "published_date": "2026-07-06T10:27:13+00:00"
-    },
-    {
-      "title": "Armenia’s Constitutional Court verifies results of elections as opposition takes up mandates",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenias-constitutional-court-verifies-results-of-elections-as-opposition-takes-up-mandates/",
-      "published_date": "2026-07-06T10:03:29+00:00"
-    },
-    {
-      "title": "Millions gather as funeral procession of Iran's assassinated supreme leader begins in Tehran",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran",
-      "published_date": "2026-07-06T09:48:53+00:00"
-    },
-    {
-      "title": "Iran: at the funeral of former Supreme Guide Ali Khamenei, the notable absence of Mojtaba, his son and successor",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/07/06/iran-aux-funerailles-de-l-ancien-guide-supreme-ali-khamenei-l-absence-remarquee-de-mojtaba-son-fils-et-successeur_6721161_3210.html",
-      "published_date": "2026-07-06T09:35:46+00:00"
-    },
-    {
-      "title": "Rohingya civilians injured, POWs killed by Myanmar junta airstrikes near Bangladesh border",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/rohingya-civilians-injured-pows-killed-by-myanmar-junta-airstrikes-near-bangladesh-border/",
-      "published_date": "2026-07-06T09:33:29+00:00"
-    },
-    {
-      "title": "Pashinyan arrives in Russia in first visit since elections",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/pashinyan-arrives-in-russia-in-first-visit-since-elections/",
-      "published_date": "2026-07-06T09:29:08+00:00"
-    },
-    {
-      "title": "Belarusian opposition leader: The risk of an expansion of the Ukraine war has grown",
-      "source": "Politiken Denmark",
-      "country": "Ukraine",
-      "url": "https://politiken.dk/internationalt/art10902928/Belarusisk-oppositionsleder-Risikoen-for-en-udvidelse-af-Ukraine-krigen-er-vokset",
-      "published_date": "2026-07-06T07:43:37+00:00"
-    },
-    {
-      "title": "Hamas official resigns in first step to dissolve Gaza gov't, source tells 'Post' it is insufficient",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-901534",
-      "published_date": "2026-07-06T07:36:53+00:00"
-    },
-    {
-      "title": "India news LIVE updates, 6 July 2026: Ram Temple trust accepts chief Champat Rai’s resignation at key meeting",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-6-july-2026-mumbai-pune-landslide-trains-cancelled-neymar-retirement-10773292/",
-      "published_date": "2026-07-06T04:17:41+00:00"
-    },
-    {
-      "title": "Lula's efforts to attract app workers may not yield results in the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/esforco-de-lula-para-atrair-trabalhadores-de-app-pode-nao-render-resultado-nas-eleicoes.shtml",
-      "published_date": "2026-07-06T02:00:00+00:00"
     }
   ]
 }
