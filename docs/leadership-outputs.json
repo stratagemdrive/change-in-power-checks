@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-21T12:27:26.376823+00:00",
-    "story_count": 433,
+    "last_updated": "2026-07-21T23:56:57.171137+00:00",
+    "story_count": 432,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,223 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Zelensky names new commander-in-chief of Ukraine's military in major shakeup of military leadership",
+      "source": "Jerusalem Post",
+      "country": "Ukraine",
+      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-903242",
+      "published_date": "2026-07-22T00:59:36+00:00"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Zelensky names new commander-in-chief and vows ‘deep strikes’ on Moscow will continue",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-moscow-drone-attack-b3018561.html",
+      "published_date": "2026-07-21T22:30:35+00:00"
+    },
+    {
+      "title": "Lula accused Rubio of wanting to interfere in Brazil's elections: “Set up a committee”",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/estados-unidos/lula-acuso-a-rubio-de-querer-interferir-en-las-elecciones-de-brasil-monte-un-comite-nid21072026/",
+      "published_date": "2026-07-21T22:16:24+00:00"
+    },
+    {
+      "title": "They ask for the impeachment of the vice-governor of Mendoza for her statements about the French team",
+      "source": "La Nacion Argentina",
+      "country": "France",
+      "url": "https://www.lanacion.com.ar/politica/piden-el-juicio-politico-para-la-vicegobernadora-de-mendoza-por-sus-dichos-sobre-la-seleccion-de-nid21072026/",
+      "published_date": "2026-07-21T21:53:29+00:00"
+    },
+    {
+      "title": "Kast evaluates declaring a state of emergency for catastrophe in Tierra Amarilla and Copiapó",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/kast-evalua-decretar-estado-de-excepcion-de-catastrofe-en-tierra-amarilla-y-copiapo/",
+      "published_date": "2026-07-21T21:12:03+00:00"
+    },
+    {
+      "title": "Zelensky: Drapatyi appointed as Ukraine's New Commander-in-Chief of Armed Forces",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4146652-zelensky-drapatyi-appointed-as-ukraines-new-commanderinchief-of-armed-forces.html",
+      "published_date": "2026-07-21T20:57:00+00:00"
+    },
+    {
+      "title": "French parliament passes social media ban for under-15s",
+      "source": "Al Jazeera English",
+      "country": "France",
+      "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
+      "published_date": "2026-07-21T20:44:48+00:00"
+    },
+    {
+      "title": "Deposed Turkish opposition leader plans new party",
+      "source": "Al Jazeera English",
+      "country": "Turkey",
+      "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+      "published_date": "2026-07-21T20:23:45+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Zelenskyj dismisses Commander-in-Chief Syrskyj",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-tauscht-oberbefehlshaber-des-ukrainischen-militaers-aus-faz-110683325.html",
+      "published_date": "2026-07-21T20:21:22+00:00"
+    },
+    {
+      "title": "Government rescinds incorrect Rajya Sabha election results notification",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/government-rescinds-incorrect-rajya-sabha-election-results-notification-10797423/",
+      "published_date": "2026-07-21T20:10:34+00:00"
+    },
+    {
+      "title": "Zelenskyy replaces Oleksandr Syrskyi with Mykhailo Drapatyi as Ukraine's commander-in-chief",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/07/21/zelenskyy-replaces-oleksandr-syrskyi-with-mykhailo-drapatyi-as-ukraines-commander-in-chief",
+      "published_date": "2026-07-21T20:08:47+00:00"
+    },
+    {
+      "title": "French Parliament approves a general ban on social networks for children under 15 years of age",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/mundo/noticia/parlamento-frances-aprueba-una-prohibicion-generalizada-de-las-redes-sociales-para-menores-de-15-anos/",
+      "published_date": "2026-07-21T20:06:12+00:00"
+    },
+    {
+      "title": "Ukraine: Volodymyr Zelensky announces the departure of Commander-in-Chief of the Army Oleksandr Syrsky",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/europe/20260721-ukraine-zelensky-annonce-le-d%C3%A9part-du-commandant-en-chef-de-l-arm%C3%A9e-oleksandre-syrsky",
+      "published_date": "2026-07-21T19:57:56+00:00"
+    },
+    {
+      "title": "Zelensky dismisses Oleksandr Syrsky as commander-in-chief of Ukraine’s armed forces",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/21/zelensky-dismisses-oleksandr-syrsky-as-commander-in-chief-of-ukraine-s-armed-forces",
+      "published_date": "2026-07-21T19:51:42+00:00"
+    },
+    {
+      "title": "Netanyahu’s haredi gamble may become his biggest election liability - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-903220",
+      "published_date": "2026-07-21T19:47:26+00:00"
+    },
+    {
+      "title": "Russia’s National Guard proposes amendments adding ‘martial law’ and ‘mobilization’ to its rule book",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/21/russia-s-national-guard-proposes-amendments-adding-martial-law-and-mobilization-to-its-rule-book",
+      "published_date": "2026-07-21T19:35:12+00:00"
+    },
+    {
+      "title": "France’s parliament approves social media ban for children under 15, in EU first",
+      "source": "South China Morning Post",
+      "country": "France",
+      "url": "https://www.scmp.com/news/world/europe/article/3361394/frances-parliament-approves-social-media-ban-children-under-15-eu-first?utm_source=rss_feed",
+      "published_date": "2026-07-21T19:32:09+00:00"
+    },
+    {
+      "title": "Trump waffles on punishing China after claiming massive election interference: ‘We do things to them, too’",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-election-interference-punish-b3018987.html",
+      "published_date": "2026-07-21T18:51:59+00:00"
+    },
+    {
+      "title": "Revision against verdict: Le Pen begins election campaign without ankle bracelets",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-startet-wahlkampf-ohne-fussfessel-201052333.html",
+      "published_date": "2026-07-21T18:46:39+00:00"
+    },
+    {
+      "title": "Zelensky faces deepening political crisis as protests dig in",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
+      "published_date": "2026-07-21T18:38:29+00:00"
+    },
+    {
+      "title": "Indian opposition leader Rahul Gandhi arrested outside PM Modi's Delhi residence amid mass protest",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2017219/indian-opposition-leader-rahul-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest",
+      "published_date": "2026-07-21T17:55:39+00:00"
+    },
+    {
+      "title": "Starmer allies see ‘hint of retribution’ in Burnham reshuffle",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/jul/21/keir-starmer-allies-retribution-andy-burnham-reshuffle",
+      "published_date": "2026-07-21T17:40:18+00:00"
+    },
+    {
+      "title": "Trump softens tone on alleged China election meddling before Rubio-Wang talks",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3361391/trump-softens-tone-alleged-china-election-meddling-rubio-wang-talks?utm_source=rss_feed",
+      "published_date": "2026-07-21T17:35:24+00:00"
+    },
+    {
+      "title": "Panama rules out reestablishing relations with the Government of Delcy Rodríguez until new elections",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Panama",
+      "url": "https://efectococuyo.com/internacionales/panama-descarta-restablecer-relaciones-con-el-gobierno-de-delcy-rodriguez-hasta-nuevas-elecciones/",
+      "published_date": "2026-07-21T16:22:39+00:00"
+    },
+    {
+      "title": "Setback for De la Espriella before taking office: Uribe's candidate is elected as president of the Senate after receiving support from Petro's party",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/reves-para-de-la-espriella-antes-de-asumir-eligen-como-presidente-del-senado-al-candidato-de-uribe-tras-recibir-apoyo-del-partido-de-petro/",
+      "published_date": "2026-07-21T16:22:14+00:00"
+    },
+    {
+      "title": "Turkish opposition leader to create breakaway party to take on Erdoğan - Financial Times",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdllqQ3VOejBrSXNCYjJNVW5DNFJ0M1E3YXFucWZUR3Ftb1YtdUNNcWpuX0ZZeE4tLXNLdElYMFlLNnFKaWlLZzBnMUVpSHplVEVVOG83WnRBdERybmMxTHZfcENEeVVHREhNUENpVTdVX2J3MzBlUjJUVlZkMFA1cHdrX00?oc=5",
+      "published_date": "2026-07-21T15:56:35+00:00"
+    },
+    {
+      "title": "Panama rules out reestablishing relations with the interim government of Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/panama-descarta-restablecer-relaciones-con-el-gobierno-de-delcy-hasta-nuevas-elecciones/",
+      "published_date": "2026-07-21T15:14:36+00:00"
+    },
+    {
+      "title": "PML-N supremo Nawaz kicks off party's election campaign in AJK",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk",
+      "published_date": "2026-07-21T13:52:04+00:00"
+    },
+    {
+      "title": "Indian-origin scientist resigns from California’s Salk Institute after sexual misconduct allegations",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/world/satchidananda-panda-salk-institute-resignation-sexual-misconduct-allegations-10796977/",
+      "published_date": "2026-07-21T13:42:08+00:00"
+    },
+    {
+      "title": "Germany live blog: Merz wants to “take some time” with a proposal for Spahn’s successor",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-will-zeitnah-spahn-nachfolger-vorschlagen-faz-110093143.html",
+      "published_date": "2026-07-21T12:55:26+00:00"
+    },
+    {
+      "title": "Yabloko Candidates Disqualified in St. Petersburg Elections Over Missing Paperwork",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/21/yabloko-candidates-disqualified-in-st-petersburg-elections-over-missing-paperwork-a93299",
+      "published_date": "2026-07-21T12:40:15+00:00"
+    },
     {
       "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live",
       "source": "The Guardian World",
@@ -426,7 +643,7 @@
     {
       "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
       "source": "Myanmar Now",
-      "country": "India",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
       "published_date": "2026-07-20T07:50:25+00:00"
     },
@@ -2865,230 +3082,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/tinubu-fixing-economy-will-win-2027-election-kalu/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-07-08T00:30:11+00:00"
-    },
-    {
-      "title": "The elected president of Colombia suspends the transition with the Petro government for planning a “coup d’état”",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-presidente-electo-de-colombia-suspende-la-transicion-con-el-gobierno-de-petro-por-gestar-un-golpe-nid07072026/",
-      "published_date": "2026-07-07T23:28:51+00:00"
-    },
-    {
-      "title": "Asocapitales rejects statements by President Gustavo Petro about the legitimacy of the elections and supports Abelardo de la Espriella: 'Serious'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/asocapitales-expresa-su-rechazo-por-declaraciones-de-gustavo-petro-sobre-las-elecciones-expresamos-nuestro-respaldo-al-presidente-electo-3569698",
-      "published_date": "2026-07-07T21:14:19+00:00"
-    },
-    {
-      "title": "LIVE - RN appeal trial: Marine Le Pen announces her candidacy for the 2027 presidential election and her appeal to the Court of Cassation",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-le-sort-de-marine-le-pen-entre-les-mains-des-juges-20260707",
-      "published_date": "2026-07-07T20:51:02+00:00"
-    },
-    {
-      "title": "Reform UK’s Farage says he’ll quit as lawmaker and seek reelection amid donation allegations - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXhvN0NNNHFpS0hKOWRJV05kLXVxWFh2MmhjMjFtUUZfUWp0anZ3MUpqaXZmREVMTkdTZG5oX1hRUEVRZXNsZVJyemF0ZEg3NW1GNTlSel8wX29ZYXM1dUpweGFWUnVhY2FLanRQOVpERkQyU2JFSk1qeUZfUHRYaUFSeUo2ZzdkaF9SMmRBQTZwZXlmV0g4UkJ0RXMwWTBTcGZvRHBfdTFKdE0?oc=5",
-      "published_date": "2026-07-07T20:25:00+00:00"
-    },
-    {
-      "title": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
-      "published_date": "2026-07-07T19:23:14+00:00"
-    },
-    {
-      "title": "Colombia’s president-elect endorsed by Trump, suspends transition after alleging coup",
-      "source": "The Independent UK",
-      "country": "Colombia",
-      "url": "https://www.independent.co.uk/news/world/americas/colombia-president-elect-transition-fraud-abelardo-de-la-espriella-gustavo-petro-b3010729.html",
-      "published_date": "2026-07-07T18:55:13+00:00"
-    },
-    {
-      "title": "Colombia’s president-elect suspends transition after outgoing leader Petro’s fraud claims",
-      "source": "South China Morning Post",
-      "country": "Colombia",
-      "url": "https://www.scmp.com/news/world/americas/article/3359779/colombias-president-elect-suspends-transition-after-outgoing-leader-petros-fraud-claims?utm_source=rss_feed",
-      "published_date": "2026-07-07T18:47:37+00:00"
-    },
-    {
-      "title": "Marine Le Pen vows to run in France’s 2027 presidential election despite fraud conviction",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/07/07/marine-le-pen-vows-to-remain-a-candidate-for-frances-2027-election-despite-conviction",
-      "published_date": "2026-07-07T18:42:24+00:00"
-    },
-    {
-      "title": "Do you approve of Marine Le Pen's decision to run in the next presidential election?",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/approuvez-vous-la-decision-de-marine-le-pen-de-se-presenter-a-la-prochaine-election-presidentielle-20260707",
-      "published_date": "2026-07-07T18:39:37+00:00"
-    },
-    {
-      "title": "Marine Le Pen announces that she is a presidential candidate and will appeal to the Court of Cassation",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/france/20260707-marine-le-pen-annonce-%C3%AAtre-candidate-%C3%A0-la-pr%C3%A9sidentielle-et-va-se-pourvoir-en-cassation",
-      "published_date": "2026-07-07T18:39:13+00:00"
-    },
-    {
-      "title": "After appeal ruling: Le Pen runs in the presidential election despite conviction",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/le-pen-tritt-trotz-schuldspruch-bei-der-praesidentenwahl-an-201007657.html",
-      "published_date": "2026-07-07T18:33:02+00:00"
-    },
-    {
-      "title": "After appeal ruling: Le Pen runs in the presidential election despite conviction",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-tritt-trotz-schuldspruch-bei-praesidentenwahl-an-201007657.html",
-      "published_date": "2026-07-07T18:33:02+00:00"
-    },
-    {
-      "title": "French far-right leader Le Pen says will run in 2027 presidential election",
-      "source": "Al Jazeera English",
-      "country": "France",
-      "url": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss",
-      "published_date": "2026-07-07T18:17:13+00:00"
-    },
-    {
-      "title": "🔴 Live: Marine Le Pen announces that she will appeal to the Supreme Court and be a candidate in the presidential election",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/france/20260707-en-direct-fin-suspense-marine-le-pen-bientot-fixee-avenir-presidentielle-proces-appel-affaire-assistants-parlementaires",
-      "published_date": "2026-07-07T18:13:51+00:00"
-    },
-    {
-      "title": "Marine Le Pen: I am a candidate for next year's presidential election",
-      "source": "Politiken Denmark",
-      "country": "France",
-      "url": "https://politiken.dk/internationalt/art10910037/Marine-Le-Pen-Jeg-er-kandidat-til-n%C3%A6ste-%C3%A5rs-pr%C3%A6sidentvalg",
-      "published_date": "2026-07-07T18:10:13+00:00"
-    },
-    {
-      "title": "Three goals in fifteen minutes, Messi's Argentina overthrow Egypt and reach the quarter-finals",
-      "source": "France 24 FR",
-      "country": "Argentina",
-      "url": "https://www.france24.com/fr/sports/20260707-trois-buts-en-quinze-minutes-argentine-messi-renverse-egypte-quarts-de-finale",
-      "published_date": "2026-07-07T18:05:12+00:00"
-    },
-    {
-      "title": "A Russian lawmaker offered to make Stoptime’s teenage frontwoman a patriotic star — if she’d repent on camera. Diana Loginova chose exile instead, and the band just released its first album.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/07/07/a-russian-lawmaker-offered-to-make-stoptime-s-teenage-frontwoman-a-patriotic-star-if-she-d-repent-on-camera-diana-loginova-chose-exile-instead-and-the-band-just-released-its-first-album",
-      "published_date": "2026-07-07T17:14:27+00:00"
-    },
-    {
-      "title": "De la Espriella accuses Petro of coup plotting and appeals to the Army to protect the Constitution of Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/de-la-espriella-acusa-a-petro-de-golpismo-y-apela-al-ejercito-para-que-proteja-la-constitucion-de-colombia/",
-      "published_date": "2026-07-07T17:02:11+00:00"
-    },
-    {
-      "title": "‘Robot uprising’ video goes viral: What really happened in this wild office footage from Indonesia",
-      "source": "Indian Express",
-      "country": "Indonesia",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/robot-uprising-video-goes-viral-what-really-happened-in-this-wild-office-footage-from-indonesia-10776015/",
-      "published_date": "2026-07-07T14:46:32+00:00"
-    },
-    {
-      "title": "Controversial donations: Brexit campaigner Nigel Farage resigns from his mandate",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-legt-mandat-nieder-und-plant-antritt-bei-nachwahl-201007073.html",
-      "published_date": "2026-07-07T14:02:12+00:00"
-    },
-    {
-      "title": "UK’s Nigel Farage to quit as lawmaker, seeks re-election to clear name",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3359767/uks-nigel-farage-quit-lawmaker-seeks-re-election-clear-name?utm_source=rss_feed",
-      "published_date": "2026-07-07T13:54:42+00:00"
-    },
-    {
-      "title": "Nigel Farage says he's resigning as MP and will run in 'people vs. the establishment' by-election",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/07/07/nigel-farage-says-hes-resigning-as-mp-and-will-run-in-people-vs-the-establishment-by-elect",
-      "published_date": "2026-07-07T13:48:00+00:00"
-    },
-    {
-      "title": "Nigel Farage is retiring as a member of parliament - but is running for new elections for his own seat",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/nigel-farage-traekker-sig-som-medlem-af-parlamentet-men-stiller-op-til-nyvalg-om-sin-egen-plads",
-      "published_date": "2026-07-07T13:43:58+00:00"
-    },
-    {
-      "title": "Appeal ruling: Le Pen is allowed to run in presidential elections – with an ankle bracelet",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/le-pen-schuldig-darf-2027-aber-bei-praesidentenwahlen-antreten-201003486.html",
-      "published_date": "2026-07-07T13:38:28+00:00"
-    },
-    {
-      "title": "'Decision time' for far right National Rally as ruling clears Le Pen's way for election run",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/decision-time-for-far-right-national-rally-as-ruling-clears-le-pen-s-way-for-election-run",
-      "published_date": "2026-07-07T13:13:54+00:00"
-    },
-    {
-      "title": "Can Marine Le Pen run in France’s 2027 presidential election? Court says yes, but with an ankle bracelet",
-      "source": "Indian Express",
-      "country": "France",
-      "url": "https://indianexpress.com/article/explained/explained-global/marine-le-pen-france-2027-election-10775901/",
-      "published_date": "2026-07-07T13:11:15+00:00"
-    },
-    {
-      "title": "Le Pen now 'has a choice' to run in the election or not",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/le-pen-now-has-a-choice-to-run-in-the-election-or-not",
-      "published_date": "2026-07-07T13:07:14+00:00"
-    },
-    {
-      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
-      "source": "The Guardian World",
-      "country": "France",
-      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-      "published_date": "2026-07-07T13:01:21+00:00"
-    },
-    {
-      "title": "Reviving the lost Patna Kalam: How Bihar is bringing back the art that captured everyday India",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/society/patna-kalam-revival-india-bihar-forgotten-art/article70711121.ece",
-      "published_date": "2026-07-07T13:01:17+00:00"
-    },
-    {
-      "title": "Javier Milei and his measures, live: how much June inflation is projected and the progress of the electoral reform",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-en-cuanto-se-proyecta-la-inflacion-de-junio-y-los-avances-de-la-nid07072026/",
-      "published_date": "2026-07-07T13:01:15+00:00"
-    },
-    {
-      "title": "Marine Le Pen could run in French presidential election next year, court rules",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/marine-le-pen-france-election-ban-b3010235.html",
-      "published_date": "2026-07-07T12:42:10+00:00"
-    },
-    {
-      "title": "Germán Ávila, in charge of the connection by the Petro Government, spoke after the suspension order of the elected president Abelardo de la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/german-avila-encargado-del-empalme-por-parte-del-gobierno-petro-se-pronuncio-tras-orden-de-suspension-del-presidente-electo-abelardo-de-la-espriella-3569546",
-      "published_date": "2026-07-07T12:39:25+00:00"
     }
   ]
 }
