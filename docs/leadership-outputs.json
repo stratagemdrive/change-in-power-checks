@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-21T23:56:57.171137+00:00",
-    "story_count": 432,
+    "last_updated": "2026-07-22T12:28:24.486811+00:00",
+    "story_count": 428,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Armenian opposition leader Narek Karapetyan stripped of immunity and placed under investigation",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-leader-narek-karapetyan-stripped-of-immunity-and-placed-under-investigation/",
+      "published_date": "2026-07-22T12:11:42+00:00"
+    },
+    {
+      "title": "“Urgency to act”: the resigning Minister of Ecology, Monique Barbut, ultimately remains in post “at the request” of Emmanuel Macron",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
+      "published_date": "2026-07-22T10:51:56+00:00"
+    },
+    {
+      "title": "Amid NDA buzz, Sharad Pawar meets PM Modi, flags Maharashtra farm crisis",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/mumbai/amid-nda-buzz-sharad-pawar-meets-pm-modi-flags-maharashtra-farm-crisis-10798345/",
+      "published_date": "2026-07-22T10:38:20+00:00"
+    },
+    {
+      "title": "France: the Minister of Ecology who disagrees with the agricultural law resigns",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-france-la-ministre-de-l-%C3%A9cologie-en-d%C3%A9saccord-avec-la-loi-agricole-d%C3%A9missionne",
+      "published_date": "2026-07-22T09:30:25+00:00"
+    },
+    {
+      "title": "Ukraine: under pressure, Zelensky dismisses the commander-in-chief of his army",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-ukraine-sous-pression-zelensky-limoge-le-commandant-en-chef-de-son-arm%C3%A9e",
+      "published_date": "2026-07-22T09:05:15+00:00"
+    },
+    {
+      "title": "Britain's new prime minister must solve the old riddle of how to reinvigorate a slow-growing economy - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTZlU0xDNVNBOVRuQWFYanJ2RlBNdnVQeHJKTXZVQWVka2Y1N3pXWUJYbjJCU2wzUkJsQnREOFBYbW9ncTBtVzhPN0lkb1RsVTJyOEN4b3Q3WkVxRXlubVY1aVI1QVlpdzM4bk9RV3JyQ0l6Q09aZmNuZm1WVVV6WkdfWEZmVFBLd0xTNURTa0w?oc=5",
+      "published_date": "2026-07-22T07:45:00+00:00"
+    },
+    {
+      "title": "Zelensky appoints Mykhailo Drapatyi as Ukraine’s new commander-in-chief, dismissing Oleksandr Syrskyi",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/07/22/zelensky-appoints-mykhailo-drapatyi-as-ukraine-s-new-commander-in-chief-dismissing-oleksandr-syrskyi",
+      "published_date": "2026-07-22T07:35:36+00:00"
+    },
+    {
+      "title": "India opposition leader Gandhi freed after detention at student-led protest",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest?traffic_source=rss",
+      "published_date": "2026-07-22T07:20:38+00:00"
+    },
+    {
+      "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle - CNBC",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGxsd2h5Q0ZNaTdjRkEySXFOOTNWSWpNNm14NkFqRVEwSWRXWl94czRHQk9Oem1RRy01TFp4d0pFVkgyZjBldmdpV1JPOWdZZU5FSDZQTDNZSWpZc2RBbHlBR1FMMk1PS2V2OGxLOHVtY2E5cmRHdTgxakFXNWR5bUppVnBwOGfSAYwBQVVfeXFMTmE5UGM3OGJneVhINk9RYkVxNS1hYWpESkVEcW5JdlNzbVlrbUpXUGlMVGRjY0Q2clljZVhDQ3lYSTFZdzI2ZEdJaUkzWndqQVBscWk0TWxnaG5CdzFESDJhZjlmc0h5eDBydmt0WHk5cWRlSGYxQ2JYMWVDSExFelJOWGNHWWRzUlVpSmE?oc=5",
+      "published_date": "2026-07-22T06:41:15+00:00"
+    },
+    {
+      "title": "Syrskyi sums up his work as Commander-in-Chief of Armed Forces of Ukraine: I hand over army on offensive",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4146710-syrskyi-sums-up-his-work-as-commanderinchief-of-armed-forces-of-ukraine-i-hand-over-army-on-offensive.html",
+      "published_date": "2026-07-22T06:39:00+00:00"
+    },
+    {
+      "title": "Israel election: Who is Gadi Eisenkot, the retired general challenging Netanyahu?",
+      "source": "Indian Express",
+      "country": "Israel",
+      "url": "https://indianexpress.com/article/explained/explained-global/israel-election-2026-netanyahu-eisenkot-10797833/",
+      "published_date": "2026-07-22T06:13:42+00:00"
+    },
+    {
+      "title": "Japan’s imperial succession and the invention of tradition",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/commentary/2026/07/22/japan/japan-new-imperial-house-law/",
+      "published_date": "2026-07-22T05:49:00+00:00"
+    },
+    {
+      "title": "Parliament Monsoon Session 2026 Day 3 Live Updates: ‘No discussion till Dharmendra Pradhan resigns’, says LoP Kharge in Rajya Sabha",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/parliament-monsoon-session-2026-day-3-live-updates-lok-rajya-sabha-delhi-protest-dharmendra-pradhan-narebdra-modi-congress-10797698/",
+      "published_date": "2026-07-22T05:28:41+00:00"
+    },
+    {
+      "title": "Head of Indonesia’s troubled free meals agency resigns, citing health and stress",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3361427/head-indonesias-troubled-free-meals-agency-resigns-citing-health-and-stress?utm_source=rss_feed",
+      "published_date": "2026-07-22T05:15:21+00:00"
+    },
+    {
+      "title": "LIVE, war in Ukraine: Volodymyr Zelensky announces a reshuffle at the head of the Ukrainian army after several days of protests",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+      "published_date": "2026-07-22T04:51:06+00:00"
+    },
+    {
+      "title": "Andrés Idárraga, Secretary of Transparency of the Presidency, presented his 'irrevocable' resignation to the outgoing president Gustavo Petro",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/andres-idarraga-secretario-de-transparencia-de-la-presidencia-presento-renuncia-irrevocable-a-su-cargo-al-presidente-saliente-gustavo-petro-3572871",
+      "published_date": "2026-07-22T03:55:00+00:00"
+    },
     {
       "title": "Zelensky names new commander-in-chief of Ukraine's military in major shakeup of military leadership",
       "source": "Jerusalem Post",
@@ -244,7 +356,7 @@
     {
       "title": "Panama rules out reestablishing relations with the interim government of Venezuela",
       "source": "El Nacional Venezuela",
-      "country": "Venezuela",
+      "country": "Panama",
       "url": "https://www.elnacional.com/2026/07/panama-descarta-restablecer-relaciones-con-el-gobierno-de-delcy-hasta-nuevas-elecciones/",
       "published_date": "2026-07-21T15:14:36+00:00"
     },
@@ -622,7 +734,7 @@
     {
       "title": "TNLA, Myanmar junta hold talks in Naypyitaw amid China-backed peace efforts",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/tnla-myanmar-junta-hold-talks-in-naypyitaw-amid-china-backed-peace-efforts/",
       "published_date": "2026-07-20T09:30:55+00:00"
     },
@@ -2942,146 +3054,6 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-polytics/4142184-fm-sybiha-putin-can-avoid-collapse-by-accepting-proposals-from-ukraine-and-its-allies.html",
       "published_date": "2026-07-08T12:33:00+00:00"
-    },
-    {
-      "title": "LIVE - Presidential Election 2027: Gabriel Attal accuses Marine Le Pen of leading a “judicial guerrilla”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-marine-le-pen-lance-sa-campagne-avec-jordan-bardella-dans-la-sarthe-ce-mercredi-20260708",
-      "published_date": "2026-07-08T12:15:02+00:00"
-    },
-    {
-      "title": "2027 presidential election: in La Flèche, Marine Le Pen’s thwarted entry into the campaign",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fleche-l-entree-en-campagne-contrariee-de-marine-le-pen-20260708",
-      "published_date": "2026-07-08T12:04:45+00:00"
-    },
-    {
-      "title": "Marine Le Pen’s troops believe that the decision of the Court of Cassation will “override the presidential election”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/les-troupes-de-marine-le-pen-estiment-que-la-decision-de-la-cour-de-cassation-va-enjamber-la-presidentielle-20260708",
-      "published_date": "2026-07-08T11:53:11+00:00"
-    },
-    {
-      "title": "Suspension of splicing makes noise to the transition of power between Gustavo Petro and Abelardo De la Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/suspension-de-empalme-mete-ruido-a-la-transicion-del-poder-entre-gustavo-petro-y-abelardo-de-la-espriella-3569756",
-      "published_date": "2026-07-08T11:10:00+00:00"
-    },
-    {
-      "title": "Presidential election: by appealing to the Court of Cassation, does Marine Le Pen become ineligible again?",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/actualite-france/election-presidentielle-en-se-pourvoyant-en-cassation-marine-le-pen-redevient-elle-ineligible-20260708",
-      "published_date": "2026-07-08T11:07:45+00:00"
-    },
-    {
-      "title": "Egyptian Culture Minister resigns over plagiarism case",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/egyptian-culture-minister-resigns-over-plagiarism-case/",
-      "published_date": "2026-07-08T10:59:42+00:00"
-    },
-    {
-      "title": "Marine Le Pen: convicted, but candidate for the 2027 presidential election",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-marine-le-pen-condamn%C3%A9e-mais-candidate-%C3%A0-la-pr%C3%A9sidentielle-2027",
-      "published_date": "2026-07-08T10:41:48+00:00"
-    },
-    {
-      "title": "Tinubu’s reforms working, support his re-election — Tompolo",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/07/tinubus-reforms-working-support-his-re-election-tompolo/",
-      "published_date": "2026-07-08T10:16:13+00:00"
-    },
-    {
-      "title": "France: Marine Le Pen presidential candidate despite her conviction on appeal",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-france-marine-le-pen-candidate-%C3%A0-la-pr%C3%A9sidentielle-malgr%C3%A9-sa-condamnation-en-appel",
-      "published_date": "2026-07-08T09:19:02+00:00"
-    },
-    {
-      "title": "Myanmar junta forces, ethnic ally retake three KIA-held outposts near Indawgyi",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-forces-ethnic-ally-retake-three-kia-held-outposts-near-indawgyi/",
-      "published_date": "2026-07-08T09:16:52+00:00"
-    },
-    {
-      "title": "Fake videos exploit Germany's East-West divide before key elections",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/my-europe/2026/07/08/fake-videos-exploit-germanys-east-west-divide-before-key-elections",
-      "published_date": "2026-07-08T09:13:35+00:00"
-    },
-    {
-      "title": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss",
-      "published_date": "2026-07-08T08:27:43+00:00"
-    },
-    {
-      "title": "The UK public is not shy to call out genocide. Will the new prime minister join them?",
-      "source": "Middle East Eye",
-      "country": "United Kingdom",
-      "url": "https://www.middleeasteye.net/opinion/uk-public-not-shy-call-out-genocide-will-government-join-them",
-      "published_date": "2026-07-08T08:07:54+00:00"
-    },
-    {
-      "title": "Podcast discusses how and why Flávio Bolsonaro brings Trump's price to the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-discute-como-e-por-que-flavio-bolsonaro-traz-tarifaco-de-trump-para-a-eleicao.shtml",
-      "published_date": "2026-07-08T08:00:00+00:00"
-    },
-    {
-      "title": "Can Marine Le Pen really be a presidential candidate whatever the scenario, as she claims?",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/08/marine-le-pen-peut-elle-vraiment-etre-candidate-a-la-presidentielle-quel-que-soit-le-scenario-comme-elle-l-affirme_6721783_4355770.html",
-      "published_date": "2026-07-08T06:01:26+00:00"
-    },
-    {
-      "title": "Tinubu Inaugurates Presidential Working Group on National Policing Bill",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/893698-tinubu-inaugurates-presidential-working-group-on-national-policing-bill.html",
-      "published_date": "2026-07-08T04:13:24+00:00"
-    },
-    {
-      "title": "José Manuel Restrepo: 'The day Gustavo Petro's government recognizes Abelardo de la Espriella as president-elect we will sit down again'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
-      "published_date": "2026-07-08T03:01:00+00:00"
-    },
-    {
-      "title": "Le Pen’s French presidential bid dashes EU hopes for a Meloni-like successor - politico.eu",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0dTWTZlUjQ4dmY1ajZaUVZUREFaWElqamhRajY2dkwwOTY2YXo3ajNWaGstWW43ejVlWnc4TzZKQzBNNkVaWlU1WlFVWFE1UDZyeHpac01Yc3JaVTNMbU12bVJHbkFQMllOMWp6OV9yUm15QVZ0LXN6NzJMTkYtdjdkM1N2b1BfbGYxTzVKTlJWU3Q3TnE5d0oxaVlhZXNMbFVYTV9SYWFuTC1DZDBOTjNXYWFuZnVDaUEtSGw1Qld2eTU3RHI3aFNn?oc=5",
-      "published_date": "2026-07-08T03:00:00+00:00"
-    },
-    {
-      "title": "Lula pays record number of amendments before the election, but expects to increase criticism in the campaign",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-paga-recorde-de-emendas-antes-da-eleicao-mas-preve-ampliar-criticas-na-campanha.shtml",
-      "published_date": "2026-07-08T01:04:00+00:00"
-    },
-    {
-      "title": "Tinubu fixing economy, will win 2027 election – Kalu",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubu-fixing-economy-will-win-2027-election-kalu/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-08T00:30:11+00:00"
     }
   ]
 }
