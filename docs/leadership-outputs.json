@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-22T12:28:24.486811+00:00",
-    "story_count": 428,
+    "last_updated": "2026-07-23T00:01:52.770136+00:00",
+    "story_count": 437,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,160 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Abelardo De La Espriella, president-elect, announces that he will present a constitutional reform so that Barranquilla is the alternate capital of Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-que-presentara-reforma-en-el-congreso-para-que-barranquilla-sea-capital-alterna-de-colombia-3573128",
+      "published_date": "2026-07-22T23:46:25+00:00"
+    },
+    {
+      "title": "Rajya Sabha impasse on: Government says ready for debate, Opposition wants Pradhan resignation first",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/india/rajya-sabha-impasse-on-government-says-ready-for-debate-opposition-wants-pradhan-resignation-first-10799292/",
+      "published_date": "2026-07-22T23:08:36+00:00"
+    },
+    {
+      "title": "The elected president, Abelardo De La Espriella, appointed former senator Carlos Felipe Mejía as the new ambassador of Colombia in Spain",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
+      "published_date": "2026-07-22T22:29:37+00:00"
+    },
+    {
+      "title": "US court sets June 2027 trial for Venezuela’s ousted Maduro",
+      "source": "Vanguard Nigeria",
+      "country": "Venezuela",
+      "url": "https://www.vanguardngr.com/2026/07/us-court-sets-june-2027-trial-for-venezuelas-ousted-maduro/",
+      "published_date": "2026-07-22T22:14:26+00:00"
+    },
+    {
+      "title": "How does a general who resigned over the deaths of 12 soldiers return a year later to lead Ukraine’s army? Meet Mykhailo Drapatyi, the new commander-in-chief.",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/07/23/how-does-a-general-who-resigned-over-the-deaths-of-12-soldiers-return-a-year-later-to-lead-ukraine-s-army-meet-mykhailo-drapatyi-the-new-commander-in-chief",
+      "published_date": "2026-07-22T22:04:43+00:00"
+    },
+    {
+      "title": "Senate steps down bill to establish Nigerian Coast Guard",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/897482-senate-steps-down-bill-to-establish-nigerian-coast-guard.html",
+      "published_date": "2026-07-22T21:36:37+00:00"
+    },
+    {
+      "title": "Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the government to fall",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/delhi/anna-hazare-writes-to-pm-narendra-modi-says-dharmendra-pradhans-resignation-will-not-cause-the-govt-to-fall-10799215/",
+      "published_date": "2026-07-22T20:33:45+00:00"
+    },
+    {
+      "title": "The unique rise of Michelle Bolsonaro and her sudden prominence before the Brazilian presidential elections",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/el-singular-ascenso-de-michelle-bolsonaro-y-su-subito-protagonismo-ante-las-presidenciales-de-brasil/",
+      "published_date": "2026-07-22T20:00:00+00:00"
+    },
+    {
+      "title": "PM should apologise to students, Education Minister must resign: Rahul Gandhi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/pm-should-apologise-to-students-education-minister-must-resign-rahul-gandhi/article71255008.ece",
+      "published_date": "2026-07-22T17:47:45+00:00"
+    },
+    {
+      "title": "Ukraine’s new commander-in-chief, Mykhailo Drapatyi draws reactions from Kyiv, Moscow, and the West — including visible concern from Russian war bloggers",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/07/22/ukraine-s-new-commander-in-chief-mykhailo-drapatyi-draws-reactions-from-kyiv-moscow-and-the-west-including-visible-concern-from-russian-war-bloggers",
+      "published_date": "2026-07-22T17:08:37+00:00"
+    },
+    {
+      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+      "published_date": "2026-07-22T17:02:50+00:00"
+    },
+    {
+      "title": "Why Turkey's new opposition party is both good and bad news for Erdogan",
+      "source": "Middle East Eye",
+      "country": "Turkey",
+      "url": "https://www.middleeasteye.net/news/why-turkey-new-opposition-party-both-good-and-bad-news-erdogan",
+      "published_date": "2026-07-22T15:48:03+00:00"
+    },
+    {
+      "title": "Ukraine: Mykhailo Drapatyi appointed new commander-in-chief of the army",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-ukraine-mykhailo-drapatyi-nomm%C3%A9-nouveau-commandant-en-chef-de-l-arm%C3%A9e",
+      "published_date": "2026-07-22T15:43:09+00:00"
+    },
+    {
+      "title": "Who is Mikhailo Drapaty, Ukraine's new commander-in-chief?",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/who-is-mikhailo-drapaty-ukraine-s-new-commander-in-chief",
+      "published_date": "2026-07-22T15:21:46+00:00"
+    },
+    {
+      "title": "US trial date set for Venezuela's ousted president Maduro",
+      "source": "Sky News World",
+      "country": "Venezuela",
+      "url": "https://news.sky.com/story/us-trial-date-set-for-venezuelas-ousted-president-nicolas-maduro-over-drugs-trafficking-charges-13566011",
+      "published_date": "2026-07-22T14:42:00+00:00"
+    },
+    {
+      "title": "France: Macron refuses environment minister's resignation over pesticide law",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france-macron-refuses-environment-minister-s-resignation-over-pesticide-law",
+      "published_date": "2026-07-22T14:31:13+00:00"
+    },
+    {
+      "title": "‘A minister’s resignation won’t bring down the government’: Anna Hazare to PM Modi",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/pune/minister-resignation-wont-bring-down-government-anna-hazare-pm-narendra-modi-10798713/",
+      "published_date": "2026-07-22T14:19:11+00:00"
+    },
+    {
+      "title": "Armenian opposition leader Tsarukyan loses lawyer over conflict of interest in case",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-leader-tsarukyan-loses-lawyer-over-conflict-of-interest-in-case/",
+      "published_date": "2026-07-22T14:03:32+00:00"
+    },
+    {
+      "title": "District election in Friesland: Sichert is not allowed to run – AfD outraged",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-sichert-darf-nicht-als-landrat-kandidieren-das-sind-die-gruende-201054724.html",
+      "published_date": "2026-07-22T13:53:51+00:00"
+    },
+    {
+      "title": "PT says that Flávio Bolsonaro has his father's 'coup culture' and considers going to court for talking about ballot boxes",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/pt-diz-que-flavio-bolsonaro-tem-cultura-golpista-do-pai-e-avalia-ir-a-justica-por-fala-sobre-urnas.shtml",
+      "published_date": "2026-07-22T13:19:00+00:00"
+    },
+    {
+      "title": "State Duma Passes ‘Civic Death’ Bills Cutting Off Exiled Critics From Banking and Consular Services",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
+      "published_date": "2026-07-22T13:13:00+00:00"
+    },
+    {
+      "title": "French environment minister convinced to stay on after announcing resignation",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/07/22/french-environment-minister-convinced-to-stay-on-after-announcing-resignation",
+      "published_date": "2026-07-22T12:42:33+00:00"
+    },
     {
       "title": "Armenian opposition leader Narek Karapetyan stripped of immunity and placed under investigation",
       "source": "OC Media Caucasus",
@@ -128,6 +282,13 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-ato/4146710-syrskyi-sums-up-his-work-as-commanderinchief-of-armed-forces-of-ukraine-i-hand-over-army-on-offensive.html",
       "published_date": "2026-07-22T06:39:00+00:00"
+    },
+    {
+      "title": "Parliament session highlights: ‘Happy to take more punches,’ says Rahul Gandhi after detention outside PM's residence",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-live-updates-opposition-congress-rahul-gandhi-lok-sabha-rajya-sabha-modi-cjp-protest-news-101784699885662.html",
+      "published_date": "2026-07-22T06:21:56+00:00"
     },
     {
       "title": "Israel election: Who is Gadi Eisenkot, the retired general challenging Netanyahu?",
@@ -734,7 +895,7 @@
     {
       "title": "TNLA, Myanmar junta hold talks in Naypyitaw amid China-backed peace efforts",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/tnla-myanmar-junta-hold-talks-in-naypyitaw-amid-china-backed-peace-efforts/",
       "published_date": "2026-07-20T09:30:55+00:00"
     },
@@ -755,7 +916,7 @@
     {
       "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
       "published_date": "2026-07-20T07:50:25+00:00"
     },
@@ -2956,104 +3117,6 @@
       "country": "South Korea",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjNhdnZqMWh4SDdnQ0VwdUppSFVBclVyQ0xKYkdtSHpwWVV4Y2VxRU8zZTVsR05IQkl5SGNYT3NrTGV0LVdGQWhOY3U4V0laYVJQWE15NW1waV92Q21LcG5RQ21xRlphekdMMWw2STM2QjRad1JaaTYxMTJFQkI0bFhOS1dqWk9IbzF6eWUzcDhqc3NZWGNBUk5Ma0xvQ2c0bXlHTmtsQQ?oc=5",
       "published_date": "2026-07-09T06:29:00+00:00"
-    },
-    {
-      "title": "DemocraTIA Global Corporation supports legitimacy of the presidential elections in Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/corporacion-democratia-global-respalda-legitimidad-de-las-elecciones-presidenciales-en-colombia-3569996",
-      "published_date": "2026-07-08T21:31:35+00:00"
-    },
-    {
-      "title": "Russia’s lawmakers will collect their bonuses early this year, just before they face reelection",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/08/russia-s-lawmakers-will-collect-their-bonuses-early-this-year-just-before-they-face-reelection",
-      "published_date": "2026-07-08T20:48:08+00:00"
-    },
-    {
-      "title": "Unions and civil society marched in Caracas to demand elections and question the government's management after the earthquakes",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/sindicatos-y-sociedad-civil-marcharon-en-caracas-para-exigir-elecciones-y-cuestionar-la-gestion-del-gobierno-tras-los-terremotos/",
-      "published_date": "2026-07-08T20:26:53+00:00"
-    },
-    {
-      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-      "source": "Al Jazeera English",
-      "country": "France",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
-      "published_date": "2026-07-08T20:06:38+00:00"
-    },
-    {
-      "title": "Donation affair: Farage's very personal referendum",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-reform-uk-chef-will-sich-bestaetigen-lassen-201010243.html",
-      "published_date": "2026-07-08T19:26:11+00:00"
-    },
-    {
-      "title": "Serious institutional crisis in Colombia: elected president Abelardo de la Espriella denounces that Petro plans a “coup d'état”",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-denuncia-golpe-estado-petro/",
-      "published_date": "2026-07-08T18:23:11+00:00"
-    },
-    {
-      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win",
-      "published_date": "2026-07-08T16:29:11+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Marine Le Pen in the campaign, day 1",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-pr%C3%A9sidentielle-2027-marine-le-pen-en-campagne-jour-1",
-      "published_date": "2026-07-08T16:18:29+00:00"
-    },
-    {
-      "title": "2027 presidential election: RN supporters validate Marine Le Pen's candidacy but fear a disrupted campaign",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-les-sympathisants-rn-valident-la-candidature-de-marine-le-pen-mais-redoutent-une-campagne-perturbee-20260708",
-      "published_date": "2026-07-08T14:27:44+00:00"
-    },
-    {
-      "title": "2027 presidential election: Marine Le Pen candidate",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260708-%C3%A9lection-pr%C3%A9sidentielle-2027-marine-le-pen-candidate",
-      "published_date": "2026-07-08T14:26:31+00:00"
-    },
-    {
-      "title": "UK Farage's election gamble could see him face one challenger... Count Binface - Reuters",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5",
-      "published_date": "2026-07-08T13:23:34+00:00"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage's rivals rule out standing in Clacton by-election",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/07/08/reform-uk-leader-nigel-farages-rivals-rule-out-standing-in-clacton-by-election",
-      "published_date": "2026-07-08T13:12:44+00:00"
-    },
-    {
-      "title": "Calixto Ortega is the new president of the Bank of Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/calixto-ortega-es-nuevo-presidente-del-banco-de-venezuela/",
-      "published_date": "2026-07-08T13:07:37+00:00"
-    },
-    {
-      "title": "FM Sybiha: Putin can avoid collapse by accepting proposals from Ukraine and its allies",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4142184-fm-sybiha-putin-can-avoid-collapse-by-accepting-proposals-from-ukraine-and-its-allies.html",
-      "published_date": "2026-07-08T12:33:00+00:00"
     }
   ]
 }
