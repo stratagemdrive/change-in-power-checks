@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-23T00:01:52.770136+00:00",
-    "story_count": 437,
+    "last_updated": "2026-07-23T12:28:15.604158+00:00",
+    "story_count": 434,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Iran regime change 'back on the menu' for Trump as diplomatic pressure falters - report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/article-903428",
+      "published_date": "2026-07-23T13:26:13+00:00"
+    },
+    {
+      "title": "Why Trump’s claim that Beijing meddled in US election hasn’t put ties on ice",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361597/why-trumps-claim-beijing-meddled-us-election-hasnt-put-ties-ice?utm_source=rss_feed",
+      "published_date": "2026-07-23T12:00:06+00:00"
+    },
+    {
       "title": "Abelardo De La Espriella, president-elect, announces that he will present a constitutional reform so that Barranquilla is the alternate capital of Colombia",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-que-presentara-reforma-en-el-congreso-para-que-barranquilla-sea-capital-alterna-de-colombia-3573128",
-      "published_date": "2026-07-22T23:46:25+00:00"
+      "published_date": "2026-07-23T11:47:24+00:00"
+    },
+    {
+      "title": "President-elect Abelardo De La Espriella will send a delegation to Peru for the inauguration of Keiko Fujimori: who will attend?",
+      "source": "El Tiempo Colombia",
+      "country": "Peru",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-enviara-una-delegacion-a-peru-para-la-posesion-de-keiko-fujimori-quienes-asistiran-3573196",
+      "published_date": "2026-07-23T11:37:05+00:00"
+    },
+    {
+      "title": "Kerala Opposition Leader Pinarayi Vijayan targets PM Modi over NEET irregularities; hits out at Centre for police crackdown on student protests in New Delhi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/leader-of-the-opposition-in-kerala-pinarayi-vijayan-targets-prime-minister-narendra-modi-over-neet-irregularities-hits-out-at-centre-for-police-crackdown-on-student-protests-in-new-delhi/article71257352.ece",
+      "published_date": "2026-07-23T11:08:42+00:00"
+    },
+    {
+      "title": "What is missing for the presidential inauguration to take place in Cauca, as Abelardo De La Espriella seeks, and not in Bogotá?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-falta-para-que-la-posesion-presidencial-se-realice-en-el-cauca-como-lo-busca-abelardo-de-la-espriella-y-no-en-bogota-3573148",
+      "published_date": "2026-07-23T11:05:00+00:00"
+    },
+    {
+      "title": "As support for Putin slips, the Kremlin lowers the ruling party’s election target amid fears a landslide victory would look suspicious",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/07/23/as-support-for-putin-slips-the-kremlin-lowers-the-ruling-party-s-election-target-amid-fears-a-landslide-victory-would-look-suspicious",
+      "published_date": "2026-07-23T09:22:10+00:00"
+    },
+    {
+      "title": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3361535/ex-hong-kong-opposition-leader-reportedly-denied-uk-entry-faces-deportation?utm_source=rss_feed",
+      "published_date": "2026-07-23T02:57:48+00:00"
+    },
+    {
+      "title": "The elected president, Abelardo De La Espriella, appointed former senator Carlos Felipe Mejía as the new ambassador of Colombia in Spain",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
+      "published_date": "2026-07-23T00:15:33+00:00"
     },
     {
       "title": "Rajya Sabha impasse on: Government says ready for debate, Opposition wants Pradhan resignation first",
@@ -72,13 +128,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/india/rajya-sabha-impasse-on-government-says-ready-for-debate-opposition-wants-pradhan-resignation-first-10799292/",
       "published_date": "2026-07-22T23:08:36+00:00"
-    },
-    {
-      "title": "The elected president, Abelardo De La Espriella, appointed former senator Carlos Felipe Mejía as the new ambassador of Colombia in Spain",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
-      "published_date": "2026-07-22T22:29:37+00:00"
     },
     {
       "title": "US court sets June 2027 trial for Venezuela’s ousted Maduro",
@@ -916,7 +965,7 @@
     {
       "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
       "source": "Myanmar Now",
-      "country": "India",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
       "published_date": "2026-07-20T07:50:25+00:00"
     },
@@ -3047,76 +3096,6 @@
       "country": "Colombia",
       "url": "https://www.cbc.ca/news/world/arif-jhuman-arrested-colombia-9.7264330?cmp=rss",
       "published_date": "2026-07-09T13:22:24+00:00"
-    },
-    {
-      "title": "Khamenei burial will be family-only amid wait for first emergence of new supreme leader",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/khamenei-burial-will-be-family-only-amid-wait-for-first-emergence-of-new-supreme-leader/",
-      "published_date": "2026-07-09T12:02:03+00:00"
-    },
-    {
-      "title": "Hostile actors seeking to undermine Israeli elections, Herzog and Shin Bet chief warn",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-901986",
-      "published_date": "2026-07-09T11:41:11+00:00"
-    },
-    {
-      "title": "Khamenei successor has yet to be seen as late ruler's funeral comes to a close",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/khamenei-successor-has-yet-to-be-seen-as-ex-ayatollah-s-funeral-comes-to-a-close",
-      "published_date": "2026-07-09T11:34:35+00:00"
-    },
-    {
-      "title": "Myanmar junta says it has taken full control of key Sagaing trade route",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-taken-full-control-of-key-sagaing-trade-route/",
-      "published_date": "2026-07-09T11:34:11+00:00"
-    },
-    {
-      "title": "Farage's by-election in Clacton officially confirmed - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQlNidVdPVHhLSHlnQzhwSkpVX2czMVJPMkQ1c2lTN1Q1Q1NJekR0QmlzZEhvNm5PYVktZVg0MW9TMDRJMkxTTXU5QldNLWIweVlmREpPTXNQdw?oc=5",
-      "published_date": "2026-07-09T10:56:01+00:00"
-    },
-    {
-      "title": "Iran bury slain Supreme Leader as mourners chant ‘kill Trump’ slogans",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/trump-funeral-ayatollah-ali-khamenei-b3011766.html",
-      "published_date": "2026-07-09T09:31:03+00:00"
-    },
-    {
-      "title": "Intense clashes reported south of Myawaddy, as Myanmar junta launches new offensive",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/intense-clashes-reported-south-of-myawaddy-as-myanmar-junta-launches-new-offensive/",
-      "published_date": "2026-07-09T09:02:17+00:00"
-    },
-    {
-      "title": "Appeal by Marine Le Pen: “We will do everything” to rule before the first round of the presidential election, assures Rémy Heitz",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/condamnation-de-marine-le-pen-nous-ferons-tout-pour-statuer-avant-le-premier-tour-de-la-presidentielle-assure-remy-heitz-20260709",
-      "published_date": "2026-07-09T08:56:23+00:00"
-    },
-    {
-      "title": "Iran to bury former supreme leader Ali Khamenei in culmination of multi-day funeral",
-      "source": "CBC News World",
-      "country": "Iran",
-      "url": "https://www.cbc.ca/news/world/ayatollah-ali-khamenei-funeral-procession-burial-9.7263906?cmp=rss",
-      "published_date": "2026-07-09T08:42:02+00:00"
-    },
-    {
-      "title": "South Korea’s Supreme Court upholds prison sentence for Yoon in first martial law case - AP News",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjNhdnZqMWh4SDdnQ0VwdUppSFVBclVyQ0xKYkdtSHpwWVV4Y2VxRU8zZTVsR05IQkl5SGNYT3NrTGV0LVdGQWhOY3U4V0laYVJQWE15NW1waV92Q21LcG5RQ21xRlphekdMMWw2STM2QjRad1JaaTYxMTJFQkI0bFhOS1dqWk9IbzF6eWUzcDhqc3NZWGNBUk5Ma0xvQ2c0bXlHTmtsQQ?oc=5",
-      "published_date": "2026-07-09T06:29:00+00:00"
     }
   ]
 }
