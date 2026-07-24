@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-23T12:28:15.604158+00:00",
-    "story_count": 434,
+    "last_updated": "2026-07-24T00:00:27.394215+00:00",
+    "story_count": 433,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "New PM cuts business rates for UK pubs in latest cost-of-living measure",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260723-new-pm-cuts-business-rates-for-uk-pubs-in-latest-cost-of-living-measure",
+      "published_date": "2026-07-23T23:26:54+00:00"
+    },
+    {
+      "title": "France will present Deschamps' successor next week",
+      "source": "El Nacional Venezuela",
+      "country": "France",
+      "url": "https://www.elnacional.com/2026/07/francia-presentara-al-sucesor-de-deschamps-la-proxima-semana/",
+      "published_date": "2026-07-23T22:57:34+00:00"
+    },
+    {
+      "title": "Russia passes ‘civil death’ legislation to freeze exiled critics’ money, block their passports, and cut off consular aid",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/cards/russia-passes-civil-death-legislation-to-freeze-exiled-critics-money-block-their-passports-and-cut-off-consular-aid",
+      "published_date": "2026-07-23T22:47:25+00:00"
+    },
+    {
+      "title": "Opposition MK warns government against restricting entry of Israelis to country prior to elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-903450",
+      "published_date": "2026-07-23T22:44:02+00:00"
+    },
+    {
+      "title": "Javier Milei's agenda in Brazil to support Bolsonaro's son in the presidential elections",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/politica/la-agenda-de-javier-milei-en-brasil-para-apoyar-al-hijo-de-bolsonaro-en-las-elecciones-nid23072026/",
+      "published_date": "2026-07-23T21:29:45+00:00"
+    },
+    {
+      "title": "United Russia’s top Duma candidate, war correspondent Yevgeny Poddubny, declared stock in Apple, Intel, and Nebius Group in his election filing",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/23/united-russia-s-top-duma-candidate-war-correspondent-yevgeny-poddubny-declared-stock-in-apple-intel-and-nebius-group-in-his-election-filing",
+      "published_date": "2026-07-23T18:01:39+00:00"
+    },
+    {
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-23T17:37:59+00:00"
+    },
+    {
+      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-07-23T17:25:05+00:00"
+    },
+    {
+      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
+      "source": "The Guardian World",
+      "country": "Ukraine",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
+      "published_date": "2026-07-23T16:13:00+00:00"
+    },
+    {
+      "title": "Regions Calling: Russia’s Independent Candidates Face Their Toughest Election Yet",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/23/russias-independent-candidates-face-their-toughest-election-yet-a93322",
+      "published_date": "2026-07-23T15:44:00+00:00"
+    },
+    {
+      "title": "Ted Cruz calls for free and fair elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/07/senador-republicano-ted-cruz-pide-la-realizacion-de-elecciones-libres-y-justas-en-venezuela/",
+      "published_date": "2026-07-23T15:29:00+00:00"
+    },
+    {
+      "title": "In an old interview, Ukraine’s new commander-in-chief Mykhailo Drapatyi said Russia ‘has no right to exist’",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/07/23/in-an-old-interview-ukraine-s-new-commander-in-chief-mykhailo-drapatyi-said-russia-has-no-right-to-exist",
+      "published_date": "2026-07-23T14:15:54+00:00"
+    },
+    {
+      "title": "'Your resignation demand next': Abhijeet Dipke's message to PM Modi amid calls to remove Pradhan",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/your-resignation-demand-next-abhijeet-dipkes-message-to-pm-modi-amid-pradhans-removal-calls-101784812637396.html",
+      "published_date": "2026-07-23T13:42:27+00:00"
+    },
     {
       "title": "Iran regime change 'back on the menu' for Trump as diplomatic pressure falters - report",
       "source": "Jerusalem Post",
@@ -965,7 +1056,7 @@
     {
       "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "India",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
       "published_date": "2026-07-20T07:50:25+00:00"
     },
@@ -2998,104 +3089,6 @@
       "country": "Iran",
       "url": "https://www.dawn.com/news/2014323/assassinated-iranian-supreme-leader-ayatollah-khamenei-laid-to-rest-in-mashhad",
       "published_date": "2026-07-10T02:24:00+00:00"
-    },
-    {
-      "title": "Iran's late supreme leader Khamenei buried in Mashdad",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-late-supreme-leader-khamenei-buried-mashdad",
-      "published_date": "2026-07-09T23:21:47+00:00"
-    },
-    {
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T23:18:18+00:00"
-    },
-    {
-      "title": "Despite the condemnation, Marine Le Pen takes the lead in the polls ahead of the presidential elections in France",
-      "source": "La Nacion Argentina",
-      "country": "France",
-      "url": "https://www.lanacion.com.ar/el-mundo/pese-a-la-condena-marine-le-pen-toma-la-delantera-en-los-sondeos-de-cara-las-presidenciales-en-nid09072026/",
-      "published_date": "2026-07-09T22:49:13+00:00"
-    },
-    {
-      "title": "Digital Markets PL faces resistance from the right that tries to postpone voting until after the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/pl-dos-mercados-digitais-enfrenta-resistencia-da-direita-que-tenta-adiar-votacao-para-depois-das-eleicoes.shtml",
-      "published_date": "2026-07-09T22:24:00+00:00"
-    },
-    {
-      "title": "US and Iran trade escalating strikes as supreme leader is buried after days-long funeral",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
-      "published_date": "2026-07-09T22:04:27+00:00"
-    },
-    {
-      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
-      "source": "Al Jazeera English",
-      "country": "Syria",
-      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
-      "published_date": "2026-07-09T21:39:54+00:00"
-    },
-    {
-      "title": "Keir Starmer may award resignation honours when he leaves No 10",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/jul/09/keir-starmer-prime-minister-resignation-honours-no-10-politics",
-      "published_date": "2026-07-09T20:43:56+00:00"
-    },
-    {
-      "title": "What's next for Iran after the funeral of their late supreme leader?",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T20:16:13+00:00"
-    },
-    {
-      "title": "Alfonso Prada, Colombian ambassador to France, resigned from his position effective August 6",
-      "source": "El Tiempo Colombia",
-      "country": "France",
-      "url": "https://www.eltiempo.com/politica/gobierno/alfonso-prada-embajador-de-colombia-en-francia-renuncio-a-su-cargo-a-partir-del-6-de-agosto-3570255",
-      "published_date": "2026-07-09T20:13:31+00:00"
-    },
-    {
-      "title": "Alfonso Prada presented his resignation as ambassador of France, his departure will be on August 6",
-      "source": "El Tiempo Colombia",
-      "country": "France",
-      "url": "https://www.eltiempo.com/politica/gobierno/alfonso-prada-presento-su-renuncia-como-embajador-de-francia-su-salida-sera-el-6-de-agosto-3570244",
-      "published_date": "2026-07-09T19:58:11+00:00"
-    },
-    {
-      "title": "Funeral prayers offered for supreme leader Ali Khamenei in Iran's Mashhad",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2014150/funeral-prayers-offered-for-supreme-leader-ali-khamenei-in-irans-mashhad",
-      "published_date": "2026-07-09T19:06:32+00:00"
-    },
-    {
-      "title": "President-elect Abelardo de la Espriella met with the Japanese ambassador in Colombia to strengthen the trade agenda",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-embajador-de-japon-en-colombia-para-fortalecer-la-agenda-comercial-3570220",
-      "published_date": "2026-07-09T17:55:34+00:00"
-    },
-    {
-      "title": "Palestinian legislative elections set for November 28",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
-      "published_date": "2026-07-09T17:32:09+00:00"
-    },
-    {
-      "title": "Canadian fugitive drug trafficker captured while working out in Colombia",
-      "source": "CBC News World",
-      "country": "Colombia",
-      "url": "https://www.cbc.ca/news/world/arif-jhuman-arrested-colombia-9.7264330?cmp=rss",
-      "published_date": "2026-07-09T13:22:24+00:00"
     }
   ]
 }
