@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-26T12:06:00.626011+00:00",
-    "story_count": 481,
+    "last_updated": "2026-07-26T23:58:51.802295+00:00",
+    "story_count": 468,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Court set to rule on ex-President Yoon's election law violation case",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260727/court-set-to-rule-on-ex-president-yoons-election-law-violation-case?utm_source=rss",
+      "published_date": "2026-07-26T23:52:04+00:00"
+    },
+    {
+      "title": "Venezuela opposition leader Machado says she will not take part in US-backed talks",
+      "source": "South China Morning Post",
+      "country": "Venezuela",
+      "url": "https://www.scmp.com/news/world/americas/article/3361923/venezuela-opposition-leader-machado-says-she-will-not-take-part-us-backed-talks?utm_source=rss_feed",
+      "published_date": "2026-07-26T23:05:30+00:00"
+    },
+    {
+      "title": "Netanyahu putting election interests ahead of curbing settler violence, Nablus governor to 'Post'",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-903716",
+      "published_date": "2026-07-26T20:06:09+00:00"
+    },
+    {
+      "title": "Cabinet reshuffle: In the CDU they complain about Merz's personnel policy",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/patrick-schnieder-chaos-und-unmut-in-der-unionsfraktion-accg-201066092.html",
+      "published_date": "2026-07-26T17:55:41+00:00"
+    },
+    {
+      "title": "Coveted by PL and Novo, Podemos tends towards neutrality in the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/cobicado-por-pl-e-novo-podemos-tende-a-neutralidade-nas-eleicoes.shtml",
+      "published_date": "2026-07-26T15:00:00+00:00"
+    },
+    {
+      "title": "The week in pictures: Wildfires rage in Europe, youth protests rock India and UK names new PM",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/europe/20260726-the-week-in-pictures-wildfires-rage-in-europe-youth-protests-rock-india-and-uk-names-new-pm",
+      "published_date": "2026-07-26T14:49:56+00:00"
+    },
+    {
+      "title": "Three by-elections set for Aug. 31 in Ontario, B.C., Quebec ridings, Carney announces",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-ottawa-announces-august-by-elections-in-ontario-bc-quebec/",
+      "published_date": "2026-07-26T14:37:36+00:00"
+    },
     {
       "title": "UK’s Burnham ‘putting Britain first’ as he rules out 2029 election",
       "source": "South China Morning Post",
@@ -3285,146 +3334,6 @@
       "country": "France",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ex-prefeito-allyson-bezerra-aposta-em-neutralidade-nacional-e-marketing-afiado-na-eleicao-no-rn.shtml",
       "published_date": "2026-07-13T02:00:00+00:00"
-    },
-    {
-      "title": "Vice President-elect of Colombia pointed out that his country is key “for the United States to achieve its mission in Venezuela”",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/07/vicepresidente-electo-de-colombia-senalo-que-su-pais-es-clave-para-que-ee-uu-logre-su-cometido-en-venezuela/",
-      "published_date": "2026-07-12T22:30:14+00:00"
-    },
-    {
-      "title": "‘Viceroy’ of Venezuela: Rubio runs Caracas with total deference from interim president - report",
-      "source": "Jerusalem Post",
-      "country": "Venezuela",
-      "url": "https://www.jpost.com/international/article-902269",
-      "published_date": "2026-07-12T22:06:04+00:00"
-    },
-    {
-      "title": "Israel to hold national elections on October 27, parliament says",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
-      "published_date": "2026-07-12T21:26:28+00:00"
-    },
-    {
-      "title": "They captured a man with an Interpol red alert on the border with Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/07/capturaron-a-sujeto-con-alerta-roja-de-interpol-en-la-frontera-con-colombia/",
-      "published_date": "2026-07-12T21:18:39+00:00"
-    },
-    {
-      "title": "Shin Bet Chief Zini has first meeting with opposition leader Yair Lapid",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-902278",
-      "published_date": "2026-07-12T20:26:58+00:00"
-    },
-    {
-      "title": "Israel to hold elections on October 27: What it means for Netanyahu",
-      "source": "Indian Express",
-      "country": "Israel",
-      "url": "https://indianexpress.com/article/world/israel-parliamentary-elections-october-benjamin-netanyahu-coalition-term-10783447/",
-      "published_date": "2026-07-12T19:00:25+00:00"
-    },
-    {
-      "title": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
-      "source": "Euronews",
-      "country": "Israel",
-      "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
-      "published_date": "2026-07-12T18:59:28+00:00"
-    },
-    {
-      "title": "Israel to hold elections on 27 October with Netanyahu set to run again - Euronews.com",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzl3d3JfVVROdW5aS3NCdzJBMWp1eW4ybldvZTRrLUtBLURMNllfQUk3a3hETFR4Z0dMSC1NaUkxS1dEcWJOWFVlXy1jSmRzTEZSQ2VOaWloQ0NoZXZNaGdyVktNcmdtSzU1eGxCVXUzYzd3aU95UFVYZGpZeUVod3o1YWxLWGV4YjFvVDRBNHJjSzZWdVMwVFlfWmZESFpWMW5PRFhYUjZGRUFmdWtoS3VOaW9CMEdBeVRieGpEMzJvMmhp?oc=5",
-      "published_date": "2026-07-12T18:59:28+00:00"
-    },
-    {
-      "title": "Israeli legislative elections to be held on October 27",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/les-elections-legislatives-israeliennes-se-tiendront-le-27-octobre-20260712",
-      "published_date": "2026-07-12T18:08:49+00:00"
-    },
-    {
-      "title": "Ukraine's prime minister resigns, as Zelenskyy says country \"is changing its political strategy\" - CBS News",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGlPakpmLVlOcHR2VFFyWHZBQmJ0ZVlxcjVYczBrVzJKbHRIdDVVbXF5WlVMc1ZJTnJQeUM5bmM1Z1NaR0lCN1BsbnVpak1NVnVsNjg1MHMySS0za3FGX0hxVEs0Q1I3ZXlZLWlaWFZBei1iOGZMTnlRa21laVc5WGZnRExEdkhWM045cFpaaE4xU0UxZ0ZPU3UzRFNWZ2c4czd6NVAxX2NVUQ?oc=5",
-      "published_date": "2026-07-12T17:46:22+00:00"
-    },
-    {
-      "title": "Israel sets election date for October 27, Netanyahu government to complete full term",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902258",
-      "published_date": "2026-07-12T17:20:45+00:00"
-    },
-    {
-      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-12T17:03:00+00:00"
-    },
-    {
-      "title": "Ukraine’s prime minister steps down as Zelensky announces government reshuffle",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3360297/ukraines-prime-minister-steps-down-zelensky-announces-government-reshuffle?utm_source=rss_feed",
-      "published_date": "2026-07-12T16:46:05+00:00"
-    },
-    {
-      "title": "Israel to hold parliamentary elections on October 27 as Netanyahu seeks another term",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3360296/israel-hold-parliamentary-elections-october-27-netanyahu-seeks-another-term?utm_source=rss_feed",
-      "published_date": "2026-07-12T16:22:11+00:00"
-    },
-    {
-      "title": "Criticism of pension reform: This is how SPD help for the AfD election campaign works",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/so-hilft-die-spd-in-sachsen-anhalt-dem-wahlkampf-der-afd-201022211.html",
-      "published_date": "2026-07-12T15:07:36+00:00"
-    },
-    {
-      "title": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
-      "source": "Sky News World",
-      "country": "Ukraine",
-      "url": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826",
-      "published_date": "2026-07-12T14:43:00+00:00"
-    },
-    {
-      "title": "Zelenskyy announces government reshuffle, including new Ukrainian prime minister",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/07/12/zelenskyy-announces-government-reshuffle-including-new-ukrainian-prime-minister",
-      "published_date": "2026-07-12T12:56:14+00:00"
-    },
-    {
-      "title": "Ukraine: Zelensky announces reshuffle with the departure of his Prime Minister, Svyrydenko",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/europe/20260712-ukraine-zelensky-annonce-remaniement-gouvernement-depart-premi%C3%A8re-ministre-svyrydenko",
-      "published_date": "2026-07-12T12:55:06+00:00"
-    },
-    {
-      "title": "Zelensky announces government reshuffle, changes in law enforcement leadership",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4143463-zelensky-announces-government-reshuffle-changes-in-law-enforcement-leadership.html",
-      "published_date": "2026-07-12T12:20:00+00:00"
-    },
-    {
-      "title": "Ukraine's Zelensky proposes new PM in Ukraine government reshuffle",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260712-ukraine-s-zelensky-proposes-new-pm-in-ukraine-government-reshuffle",
-      "published_date": "2026-07-12T12:10:37+00:00"
     }
   ]
 }
