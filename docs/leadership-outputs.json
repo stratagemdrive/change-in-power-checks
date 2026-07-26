@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-25T23:59:28.319086+00:00",
-    "story_count": 470,
+    "last_updated": "2026-07-26T12:06:00.626011+00:00",
+    "story_count": 481,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "UK’s Burnham ‘putting Britain first’ as he rules out 2029 election",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3361902/uks-burnham-putting-britain-first-he-rules-out-2029-election?utm_source=rss_feed",
+      "published_date": "2026-07-26T11:36:50+00:00"
+    },
+    {
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "source": "Deutsche Welle English",
+      "country": "Pakistan",
+      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-26T10:11:00+00:00"
+    },
+    {
+      "title": "BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party: Report",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/wont-delete-bjp-mps-daughter-defends-critical-post-on-pradhans-resignation-instagram-account-now-taken-down-101785055587170.html",
+      "published_date": "2026-07-26T10:02:12+00:00"
+    },
+    {
+      "title": "Sudan civil war: Civilians used as 'human shields'",
+      "source": "Deutsche Welle English",
+      "country": "Sudan",
+      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-26T09:56:00+00:00"
+    },
+    {
+      "title": "Brazil denies entry to senior Trump officials ahead of elections",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-26T05:45:00+00:00"
+    },
+    {
+      "title": "Bolsonaro's son has been nominated as presidential candidate in Brazil",
+      "source": "Politiken Denmark",
+      "country": "Brazil",
+      "url": "https://politiken.dk/internationalt/art10927676/Bolsonaros-s%C3%B8n-er-udpeget-som-pr%C3%A6sidentkandidat-i-Brasilien",
+      "published_date": "2026-07-26T05:09:19+00:00"
+    },
+    {
+      "title": "In Brazil, “heir” Flavio Bolsonaro invested in the October presidential election",
+      "source": "Le Monde France",
+      "country": "Brazil",
+      "url": "https://www.lemonde.fr/international/article/2026/07/26/au-bresil-l-heritier-flavio-bolsonaro-investi-pour-la-presidentielle-d-octobre_6732875_3210.html",
+      "published_date": "2026-07-26T04:34:16+00:00"
+    },
+    {
+      "title": "EXCLUSIVE: How coup suspect mocked Tinubu after Independence Day parade was cancelled",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/898199-exclusive-how-coup-suspect-mocked-tinubu-after-independence-day-parade-was-cancelled.html",
+      "published_date": "2026-07-26T04:17:30+00:00"
+    },
+    {
+      "title": "President-elect Abelardo de la Espriella recalled the verses that Rafael Escalona dedicated to him 25 years ago in France: 'I can't help but get emotional'",
+      "source": "El Tiempo Colombia",
+      "country": "France",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-recordo-los-versos-que-rafael-escalona-le-dedico-hace-25-anos-en-francia-no-puedo-evitar-emocionarme-3573894",
+      "published_date": "2026-07-26T03:37:31+00:00"
+    },
+    {
+      "title": "Milei in Rural: the exhibition is officially inaugurated and the countryside is excited with an announcement to lower withholdings for meat",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/campo/milei-en-la-rural-manana-se-inaugura-la-muestra-el-presidente-destacara-logros-y-el-campo-se-nid25072026/",
+      "published_date": "2026-07-26T03:28:44+00:00"
+    },
+    {
+      "title": "Fear of losing Gen Z, poll math forced BJP's hand in Dharmendra Pradhan's resignation",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/fear-of-losing-gen-z-poll-math-forced-bjp-hand-in-dharmendra-pradhans-resignation-cjp-neet-protests-101785026877933.html",
+      "published_date": "2026-07-26T00:55:16+00:00"
+    },
+    {
+      "title": "UK cabinet reshuffle 2026: 3 Indian-origin ministers named under Andy Burnham",
+      "source": "Indian Express",
+      "country": "United Kingdom",
+      "url": "https://indianexpress.com/article/world/uk-cabinet-reshuffle-indian-origin-mps-burnham-10803794/",
+      "published_date": "2026-07-26T00:47:09+00:00"
+    },
     {
       "title": "American government denies intention to 'undermine' elections in Brazil",
       "source": "Folha de S Paulo",
@@ -198,6 +282,13 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2018276/pml-ns-gift-buses-promised-by-maryam-reach-ajk-as-election-commission-warns-against-violating-electoral-code",
       "published_date": "2026-07-25T13:19:27+00:00"
+    },
+    {
+      "title": "‘Cockroaches won’: India’s youth protest leaders declare victory as minister resigns - NBC News",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzNmUDVORHBMVFpHMTdCUE1mU0NvZ2trdkpsWkJqUl9HM1NtZWpNUTRrZUxzcHM1X0NBbnVJTHJpVDRJVXVfZVExUTE4X2N4STlmTy1hVGtnZFMxZ2hZWmxJNld2VlVERllWQkxTal9aLUJSQUVJTlU4YnlWNGlQQ2I4QnFZVkpnS2w3dkVTMHZ0UTFyS2dyYlRxMXowbE1qcHFhVjlIenRiNFQ5M1Y0Njk2ckU3NmtU?oc=5",
+      "published_date": "2026-07-25T13:10:40+00:00"
     },
     {
       "title": "After Pradhan's resignation, PM Modi's first X post celebrates Unesco recognition: ‘Proud moment for every Indian’",
@@ -534,13 +625,6 @@
       "country": "India",
       "url": "https://www.dawn.com/news/2018062/indian-government-seeks-time-on-youth-protesters-minister-resignation-demand",
       "published_date": "2026-07-24T13:17:25+00:00"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "source": "Deutsche Welle English",
-      "country": "Pakistan",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-24T12:46:00+00:00"
     },
     {
       "title": "Ruling DPK leadership race narrows to 3-way competition",
@@ -3341,13 +3425,6 @@
       "country": "Ukraine",
       "url": "https://www.france24.com/en/europe/20260712-ukraine-s-zelensky-proposes-new-pm-in-ukraine-government-reshuffle",
       "published_date": "2026-07-12T12:10:37+00:00"
-    },
-    {
-      "title": "Pakistani doctor elected president of leading mental health body",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2014695/pakistani-doctor-elected-president-of-leading-mental-health-body",
-      "published_date": "2026-07-12T01:55:43+00:00"
     }
   ]
 }
