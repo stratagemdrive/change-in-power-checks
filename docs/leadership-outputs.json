@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-28T00:03:00.177382+00:00",
-    "story_count": 478,
+    "last_updated": "2026-07-28T12:56:05.276449+00:00",
+    "story_count": 479,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Pahlavi remains Iran’s main opposition figure, lack of US backing causing failure at regime change",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-903902",
+      "published_date": "2026-07-28T14:08:43+00:00"
+    },
+    {
+      "title": "Russian city declares state of emergency over flooding. Residents have complained about foul-smelling water and dead fish in the river.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/28/russian-city-declares-state-of-emergency-over-flooding-residents-have-complained-about-foul-smelling-water-and-dead-fish-in-the-river",
+      "published_date": "2026-07-28T11:37:40+00:00"
+    },
+    {
+      "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+      "source": "Al Jazeera English",
+      "country": "Pakistan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "published_date": "2026-07-28T11:29:18+00:00"
+    },
+    {
+      "title": "AJK elections: PML-N grabs 9 out of 13 seats across Mirpur division, unofficial results show",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2018960/ajk-elections-pml-n-grabs-9-out-of-13-seats-across-mirpur-division-unofficial-results-show",
+      "published_date": "2026-07-28T11:02:49+00:00"
+    },
+    {
+      "title": "Junta airstrike kills woman, injures two in birthplace of Myanmar’s top Catholic cleric",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/junta-airstrike-kills-woman-injures-two-in-birthplace-of-myanmars-top-catholic-cleric/",
+      "published_date": "2026-07-28T10:02:47+00:00"
+    },
+    {
+      "title": "Pashinyan talks Russian import bans, possible EU referendum in first call with Putin since elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/pashinyan-holds-first-call-with-putin-since-elections/",
+      "published_date": "2026-07-28T09:49:57+00:00"
+    },
+    {
+      "title": "Colombia’s president-elect to suspend Palestine embassy",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
+      "published_date": "2026-07-28T08:19:12+00:00"
+    },
+    {
+      "title": "Why regime change won't save free speech in Pakistan",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2018717/why-regime-change-wont-save-free-speech-in-pakistan",
+      "published_date": "2026-07-28T06:37:10+00:00"
+    },
     {
       "title": "Vice President-elect José Manuel Restrepo met with AmCham Colombia to strengthen investment and employment",
       "source": "El Tiempo Colombia",
@@ -184,6 +240,13 @@
       "country": "Turkey",
       "url": "https://www.jpost.com/israel-news/article-903779",
       "published_date": "2026-07-27T12:38:41+00:00"
+    },
+    {
+      "title": "Fugitive in 1973 torture and murder of iconic singer Victor Jara is captured in Chile - CBS News",
+      "source": "Google News World",
+      "country": "Chile",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFFiUHdMaUdZMkMtS2FDUlppUy00aWRfWEVpQTVQQm84ZjI3a1h2RlRjMDItOUtnVllrTEMwaVZFM2tUSzZZMk9RcHJnUVZBcGFkTkhpR2NkZk03SF9aRER3aTlhVllfTU5YM0NmQ1VSeS1YRzhCTUtVeE5jcEhXV2VZdTFjZWVBWHEwV3Jn?oc=5",
+      "published_date": "2026-07-27T12:32:52+00:00"
     },
     {
       "title": "Ahead of Israel's elections, Bennett rejects two-state solution as Eisenkot surges in polls",
@@ -2041,6 +2104,13 @@
       "published_date": "2026-07-19T14:46:27+00:00"
     },
     {
+      "title": "AfD in Saxony-Anhalt: The others have to do the election campaign",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/warum-die-afd-in-sachsen-anhalt-kaum-noch-wahlkampf-braucht-201044790.html",
+      "published_date": "2026-07-19T14:46:27+00:00"
+    },
+    {
       "title": "After Spahn's resignation: How is Merz rebuilding his team now?",
       "source": "FAZ Germany",
       "country": "Germany",
@@ -3341,69 +3411,6 @@
       "country": "Ukraine",
       "url": "http://www.euronews.com/my-europe/2026/07/14/government-reshuffle-in-ukraine-parliament-dismisses-prime-minister-yulia-svyrydenko",
       "published_date": "2026-07-14T13:16:23+00:00"
-    },
-    {
-      "title": "Bulgaria has no place in Coalition of the Willing backing Ukraine, says PM - politico.eu",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJwRmtYMkgwOEdVaDZXMXM2SnAzY0Fta05oX1dKeVd3VW9UUkpkenNmYVNEVVhyWTB1UklyOGVpME9Oa2tKN3hid1JBcHcwQnVQRUdSeWhGMnNneGg0bVVjanhWNHgtdUljU3E3Z2d2d1RyTzZ2d2hqOVk5TmszTHc4SVgzTEFtWkNhbTMwdk56ZlI2RWNhOXdCdw?oc=5",
-      "published_date": "2026-07-14T12:47:00+00:00"
-    },
-    {
-      "title": "St. Petersburg Election Candidate Jailed 10 Days for Old Social Media Posts",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/14/st-petersburg-election-candidate-jailed-10-days-for-old-social-media-posts-a93242",
-      "published_date": "2026-07-14T12:12:00+00:00"
-    },
-    {
-      "title": "Seoul mayor denied chance to speak on housing at 1st Cabinet meeting since reelection",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/20260714/seoul-mayor-denied-chance-to-speak-on-housing-at-1st-cabinet-meeting-since-reelection?utm_source=rss",
-      "published_date": "2026-07-14T12:07:02+00:00"
-    },
-    {
-      "title": "Who is María Nohemí Arboleda, the new Minister of Mines and Energy appointed by the elected president of Colombia, Abelardo de la Espriella?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-maria-nohemi-arboleda-la-nueva-ministra-de-minas-y-energia-designada-por-el-presidente-electo-de-colombia-abelardo-de-la-espriella-3571012",
-      "published_date": "2026-07-14T12:02:38+00:00"
-    },
-    {
-      "title": "Netanyahu seeking electoral stalemate, new elections to stay in power, former adviser says",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902438",
-      "published_date": "2026-07-14T11:39:19+00:00"
-    },
-    {
-      "title": "Israel to hold national elections on 27 October, Knesset says",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-hold-elections-october-27-knesset-says",
-      "published_date": "2026-07-14T10:00:28+00:00"
-    },
-    {
-      "title": "Nigeria contradicts US claim on huge electronic materials ‘captured’ from terrorists",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/foreign/895158-nigeria-contradicts-us-claim-on-huge-electronic-materials-captured-from-terrorists.html",
-      "published_date": "2026-07-14T07:44:03+00:00"
-    },
-    {
-      "title": "South Korea’s lost Canadian deal; BN’s election win in Malaysia’s Johor: 7 Asia highlights",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/article/3360459/south-koreas-lost-canadian-deal-bns-election-win-malaysias-johor-7-asia-highlights?utm_source=rss_feed",
-      "published_date": "2026-07-14T04:34:05+00:00"
-    },
-    {
-      "title": "Trump set to address Iran, election integrity in prime-time speech",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/07/14/trump-speech-iran-election",
-      "published_date": "2026-07-14T01:10:59+00:00"
     }
   ]
 }
