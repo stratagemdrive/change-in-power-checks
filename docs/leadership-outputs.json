@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-27T13:42:08.355500+00:00",
-    "story_count": 476,
+    "last_updated": "2026-07-28T00:03:00.177382+00:00",
+    "story_count": 478,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Vice President-elect José Manuel Restrepo met with AmCham Colombia to strengthen investment and employment",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-se-reunio-con-amcham-colombia-para-fortalecer-inversion-y-empleo-3574201",
+      "published_date": "2026-07-27T22:22:04+00:00"
+    },
+    {
+      "title": "Housing: Adeyanju writes Tinubu to declare state of emergency over high rentals",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/07/housing-adeyanju-writes-tinubu-to-declare-state-of-emergency-over-high-rentals/",
+      "published_date": "2026-07-27T21:21:54+00:00"
+    },
+    {
+      "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+      "published_date": "2026-07-27T20:47:26+00:00"
+    },
+    {
+      "title": "MDB releases state directories and will not support any presidential candidate",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/mdb-libera-diretorios-estaduais-e-nao-apoiara-nenhum-presidenciavel.shtml",
+      "published_date": "2026-07-27T20:47:00+00:00"
+    },
+    {
+      "title": "Iran, Turkey seeking regime change in Israel via foreign interference, Likud MK tells 'Post'",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/israel-news/article-903828",
+      "published_date": "2026-07-27T20:06:02+00:00"
+    },
+    {
+      "title": "Israeli election campaign billboards in Cyprus spark debate",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-election-campaign-billboards-cyprus-spark-debate",
+      "published_date": "2026-07-27T19:13:50+00:00"
+    },
+    {
+      "title": "Zelenskyy and Britain’s new leader discuss drone projects and missile defense for Kyiv - AP News",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmVmd3oweVB6T2JmQ0FObm1ZNWVOckF2eGR2VVNxdXdpNU9DeUNTU3RxclBTbktIUjZaZ1JoZTNMREFSdzdLYUNrRlM0enJHZUtXWVhmUmFNaW4xTjZRTGgxNU5XdXFqRlVhZkhpZWlPSEJXcUJnVGRrbDdDUDNkYWtER2pycVV5RmFmWGswa1JjdE1fTlhaLXpoOHktTnZVWmRUSXpOZWF0X3lNdmJF?oc=5",
+      "published_date": "2026-07-27T18:11:00+00:00"
+    },
+    {
+      "title": "MDB decides not to enter the presidential race",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mdb-decide-nao-entrar-na-corrida-presidencial",
+      "published_date": "2026-07-27T17:33:00+00:00"
+    },
+    {
+      "title": "Cypriot lawmaker slams Eisenkot billboards ahead of Israeli election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-903815",
+      "published_date": "2026-07-27T17:25:04+00:00"
+    },
+    {
+      "title": "Israeli election campaign billboards in Cyprus spark debate",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
+      "published_date": "2026-07-27T17:07:05+00:00"
+    },
+    {
+      "title": "Government adds new departure: Kast accepts resignation of Seremi from Tarapacá Labor",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/gobierno-suma-nueva-salida-kast-acepta-renuncia-de-seremi-del-trabajo-de-tarapaca/",
+      "published_date": "2026-07-27T16:55:06+00:00"
+    },
+    {
+      "title": "Colombia's president-elect to close embassies in three European countries in diplomatic overhaul",
+      "source": "Euronews",
+      "country": "Colombia",
+      "url": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
+      "published_date": "2026-07-27T15:03:38+00:00"
+    },
+    {
+      "title": "Trump, tariffs and ties with China at stake in Brazilian presidential race",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362030/trump-tariffs-and-ties-china-stake-brazilian-presidential-race?utm_source=rss_feed",
+      "published_date": "2026-07-27T15:00:08+00:00"
+    },
     {
       "title": "Court set to rule on ex-President Yoon's election law violation case",
       "source": "Korea Times",
@@ -123,7 +214,7 @@
       "published_date": "2026-07-27T10:53:49+00:00"
     },
     {
-      "title": "Ex-Hong Kong opposition leader appeals UK order to leave as he seeks BN(O) route",
+      "title": "Ex-Hong Kong opposition leader granted 6-month UK stay",
       "source": "South China Morning Post",
       "country": "United Kingdom",
       "url": "https://www.scmp.com/news/hong-kong/politics/article/3362011/ex-hong-kong-opposition-leader-appeals-uk-order-leave-he-seeks-bno-route?utm_source=rss_feed",
@@ -144,6 +235,13 @@
       "published_date": "2026-07-27T09:50:05+00:00"
     },
     {
+      "title": "South Korean court gives ousted President Yoon suspended jail term for lying during campaign - AP News",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPak1sNDFiLUhocTNVdElKWkEzNGpZUWIyVXM3NFVLSS1EdEZzTzQyN1A5SWZsMUhzU2o4NU9Fc1VKRnBzOWJYZ3hGTFo2eDRxQnAxMEFDX1lzbHd2ZDZJZGoxcF85VFFKMVdqZHRGT3VtT3dFWjc3czFUS2s0NUFWMVdXdFhMcVhabUdsdTJnNzJTbGZFUXNrNU9KbjM3VzdlMzVjdzh3?oc=5",
+      "published_date": "2026-07-27T09:10:00+00:00"
+    },
+    {
       "title": "India protesters celebrate as education minister resigns, Modi announces exam system reform",
       "source": "France 24 English",
       "country": "India",
@@ -153,7 +251,7 @@
     {
       "title": "In Colombia, the president-elect announces that he will break diplomatic relations with Cuba and Nicaragua",
       "source": "Le Monde France",
-      "country": "Cuba",
+      "country": "Colombia",
       "url": "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html",
       "published_date": "2026-07-27T06:55:23+00:00"
     },
@@ -867,7 +965,7 @@
     {
       "title": "Myanmar junta launches first official jade sale in China amid sanctions and conflict",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-first-official-jade-sale-in-china-amid-sanctions-and-conflict/",
       "published_date": "2026-07-24T07:25:26+00:00"
     },
@@ -3306,90 +3404,6 @@
       "country": "Iran",
       "url": "https://www.axios.com/2026/07/14/trump-speech-iran-election",
       "published_date": "2026-07-14T01:10:59+00:00"
-    },
-    {
-      "title": "Javier Milei and his measures, live: the parliamentary agenda is reactivated and the 2027 elections begin to be defined",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
-      "published_date": "2026-07-13T23:16:46+00:00"
-    },
-    {
-      "title": "Moraes tries to interfere in the election by banning me from speaking to Bolsonaro, says Flávio",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/moraes-tenta-interferir-na-eleicao-ao-me-proibir-de-falar-com-bolsonaro-diz-flavio.shtml",
-      "published_date": "2026-07-13T22:51:00+00:00"
-    },
-    {
-      "title": "Milei displayed his economic optimism before his own legislators: in the Casa Rosada there were National Team t-shirts and a mate for re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/milei-reunio-a-sus-legisladores-en-la-casa-rosada-hubo-camisetas-de-la-seleccion-y-un-mate-para-la-nid13072026/",
-      "published_date": "2026-07-13T21:45:59+00:00"
-    },
-    {
-      "title": "Brazil court bars Bolsonaro son from visiting father until after election",
-      "source": "Vanguard Nigeria",
-      "country": "Brazil",
-      "url": "https://www.vanguardngr.com/2026/07/brazil-court-bars-bolsonaro-son-from-visiting-father-until-after-election/",
-      "published_date": "2026-07-13T21:22:52+00:00"
-    },
-    {
-      "title": "Pen America chief resigns, accuses literary institution of erasing Palestinians",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/news/pen-america-chief-resigns-accuses-elite-literary-institution-erasing-palestinians",
-      "published_date": "2026-07-13T20:53:33+00:00"
-    },
-    {
-      "title": "Israel’s elections trigger mad dash for scarce plane tickets for Israelis abroad",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/diaspora/article-902402",
-      "published_date": "2026-07-13T20:41:11+00:00"
-    },
-    {
-      "title": "Bukele wins presidential candidacy of his party for the 2027 elections in El Salvador",
-      "source": "El Nacional Venezuela",
-      "country": "El Salvador",
-      "url": "https://www.elnacional.com/2026/07/bukele-gana-candidatura-presidencial-de-su-partido-para-las-elecciones-de-2027-en-el-salvador/",
-      "published_date": "2026-07-13T20:21:34+00:00"
-    },
-    {
-      "title": "Israel sets October date for first elections since Hamas attacks in 2023",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023",
-      "published_date": "2026-07-13T18:08:18+00:00"
-    },
-    {
-      "title": "Prime Minister of Ukraine resigns",
-      "source": "DR News Denmark",
-      "country": "Ukraine",
-      "url": "https://www.dr.dk/nyheder/seneste/ukraines-premierminister-traeder-tilbage",
-      "published_date": "2026-07-13T17:45:33+00:00"
-    },
-    {
-      "title": "Carney appoints chief operating officer in PMO",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-appoints-chief-operating-officer-in-pmo/",
-      "published_date": "2026-07-13T17:27:40+00:00"
-    },
-    {
-      "title": "The new president of the TC defends that the control of the court “is not political” and highlights Kast's unprecedented attendance at the ceremony",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/nueva-presidenta-del-tc-defiende-que-el-control-del-tribunal-no-es-politico-y-destaca-asistencia-inedita-de-kast-a-la-ceremonia/",
-      "published_date": "2026-07-13T17:25:57+00:00"
-    },
-    {
-      "title": "Syria inaugurates its first session of Parliament since the overthrow of Al Assad",
-      "source": "El Nacional Venezuela",
-      "country": "Syria",
-      "url": "https://www.elnacional.com/2026/07/siria-inauguro-su-primera-sesion-del-parlamento-desde-el-derrocamiento-de-al-asad/",
-      "published_date": "2026-07-13T16:03:13+00:00"
     }
   ]
 }
