@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-28T23:57:44.497607+00:00",
-    "story_count": 489,
+    "last_updated": "2026-07-29T13:03:18.983844+00:00",
+    "story_count": 494,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ex-President Yoon referred to prosecution on new election law violation charges",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260729/ex-president-yoon-referred-to-prosecution-on-new-election-law-violation-charges?utm_source=rss",
+      "published_date": "2026-07-29T12:57:02+00:00"
+    },
+    {
+      "title": "Re-polling demand, Form-47 jibe and doomsday talk — PPP, PML-N continue to trade barbs over Mirpur election results",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results",
+      "published_date": "2026-07-29T12:54:31+00:00"
+    },
+    {
+      "title": "BJP forms special committees for local body elections in Andhra Pradesh",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-forms-special-committees-for-local-body-elections-in-andhra-pradesh/article71281532.ece",
+      "published_date": "2026-07-29T12:48:15+00:00"
+    },
+    {
+      "title": "Myanmar junta hands election boycott activists prison terms of up to 37 years",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-hands-election-boycott-activists-prison-terms-of-up-to-37-years/",
+      "published_date": "2026-07-29T11:38:30+00:00"
+    },
+    {
+      "title": "Putin Replaces Head of Udmurtia Republic Following Surprise Resignation",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/29/putin-replaces-head-of-udmurtia-republic-following-surprise-resignation-a93368",
+      "published_date": "2026-07-29T11:33:13+00:00"
+    },
+    {
+      "title": "We’ll deliver Ondo for Tinubu’s reelection – Aiyedatiwa",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/well-deliver-ondo-for-tinubus-reelection-aiyedatiwa/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-07-29T11:12:07+00:00"
+    },
+    {
+      "title": "Election Commission Clears Yabloko to Run Pro-Peace Candidates in State Duma Races",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/29/election-commission-clears-yabloko-to-run-pro-peace-candidates-in-state-duma-races-a93367",
+      "published_date": "2026-07-29T10:30:00+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike kills at least eight civilians in Bago Region village: NUG",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-eight-civilians-in-bago-region-village-nug/",
+      "published_date": "2026-07-29T10:19:31+00:00"
+    },
+    {
+      "title": "Israel clears Jewish supremacist party to contest election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-clears-jewish-supremacist-party-contest-election",
+      "published_date": "2026-07-29T10:08:52+00:00"
+    },
+    {
+      "title": "US dollar jumps to LD 8.80 as Libya’s power cuts crisis risks tipping into a full political crisis",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/07/us-dollar-jumps-to-ld-880-as-libyas-power-cuts-crisis-risks-tipping-into-a-full-political-crisis/",
+      "published_date": "2026-07-29T08:50:00+00:00"
+    },
+    {
+      "title": "Germany live blog: Steinmeier calls for swearing in before parliament",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-steinmeier-ernennt-neue-minister-leise-kritik-an-merz-faz-110093143.html",
+      "published_date": "2026-07-29T08:35:57+00:00"
+    },
+    {
+      "title": "'Pradhan never ran education ministry, RSS did': Rahul Gandhi's dig over resignation",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pradhan-never-ran-education-ministry-rss-did-rahul-gandhis-dig-over-big-resignation-101785312085276.html",
+      "published_date": "2026-07-29T08:02:34+00:00"
+    },
+    {
+      "title": "Podcast analyzes how Bolsonaro's avatar tests rules for AI in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-analisa-como-avatar-de-bolsonaro-testa-regras-para-ia-na-eleicao.shtml",
+      "published_date": "2026-07-29T08:00:00+00:00"
+    },
+    {
+      "title": "Angie Rodríguez will denounce the outgoing president Gustavo Petro before the Chamber's Impeachment Commission",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-denunciara-al-presidente-gustavo-petro-ante-la-comision-de-acusacion-de-la-camara-3574579",
+      "published_date": "2026-07-29T04:08:08+00:00"
+    },
+    {
+      "title": "The key issues that will shape Israel’s elections",
+      "source": "Japan Times",
+      "country": "Israel",
+      "url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/israel-election-key-issues/",
+      "published_date": "2026-07-29T04:03:00+00:00"
+    },
+    {
+      "title": "Elections in Pak-occupied J&K effort to cover up illegal occupation: India",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/elections-in-pak-occupied-j-k-effort-to-cover-up-illegal-occupation-india-101785267367769.html",
+      "published_date": "2026-07-29T03:31:08+00:00"
+    },
+    {
+      "title": "Keiko Fujimori is inaugurated as Peru’s president following a narrow election victory - AP News",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1hDLWhPNzZlZVN2c3lJX0NlSndaSGpTazdfUkZQQ1QyUzVCZHFpNTNldUMwcWszdzB0LVFhLUNZQ3pCVjBBbnRlTFpIMW1QSUMyc3Z5U3BJNjZxOXpRNVY0MWtsQ29VQm83SjVVS3FNUnlIdGpCRlJiNDQ1Q2lpdEhRQ2F5UWEwTGlsclRLUjlqSF9wR0pV?oc=5",
+      "published_date": "2026-07-29T02:59:00+00:00"
+    },
     {
       "title": "Netanyahu and Lapid court US support as Israeli election campaign heats up",
       "source": "Jerusalem Post",
@@ -71,7 +190,7 @@
       "source": "El Tiempo Colombia",
       "country": "Argentina",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/javier-milei-presidente-de-argentina-confirmo-que-asistira-a-la-posesion-de-abelardo-de-la-espriella-3574551",
-      "published_date": "2026-07-28T23:20:23+00:00"
+      "published_date": "2026-07-28T23:58:56+00:00"
     },
     {
       "title": "Milei attended the swearing-in of Keiko Fujimori as president of Peru and had no contact with the Brazilian delegation",
@@ -3397,90 +3516,6 @@
       "country": "Iran",
       "url": "https://www.jpost.com/opinion/article-902329",
       "published_date": "2026-07-15T13:00:00+00:00"
-    },
-    {
-      "title": "Starmer shares tributes and offers ‘full support’ to his successor in his final PMQs before stepping down – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
-      "published_date": "2026-07-15T11:54:14+00:00"
-    },
-    {
-      "title": "‘You want me to have heart attack, I’ll live to see your end': Mamata to BJP amid TMC rebellion",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-bjp-wants-me-to-have-heart-attack-will-see-your-end-madan-mitra-tmc-ritabrata-banerjee-abhishek-banerjee-101784115115012.html",
-      "published_date": "2026-07-15T11:47:17+00:00"
-    },
-    {
-      "title": "Venezuela’s interim government and opposition to begin formal talks",
-      "source": "The Guardian World",
-      "country": "Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
-      "published_date": "2026-07-15T11:46:23+00:00"
-    },
-    {
-      "title": "ASEAN envoy meets Myanmar junta, ethnic armed groups in Thailand as NUG questions exclusion",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/asean-envoy-meets-myanmar-junta-ethnic-armed-groups-in-thailand-as-nug-questions-exclusion/",
-      "published_date": "2026-07-15T10:46:09+00:00"
-    },
-    {
-      "title": "‘For whom?’: Congress accuses BJP of delaying Pune Metro Line 3 inauguration",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/pune/pune-metro-line-3-launch-delayed-cmrs-clearance-congress-bjp-10787616/",
-      "published_date": "2026-07-15T10:11:34+00:00"
-    },
-    {
-      "title": "Russian troops, Myanmar junta forces hold small-scale joint military exercise in Naypyitaw",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/russian-troops-myanmar-junta-forces-hold-small-scale-joint-military-exercise-in-naypyitaw/",
-      "published_date": "2026-07-15T08:44:22+00:00"
-    },
-    {
-      "title": "Thursday July 23 will be national holiday to commemorate July 23 Revolution: Egyptian PM",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/thursday-july-23-will-be-national-holiday-to-commemorate-july-23-revolution-egyptian-pm/",
-      "published_date": "2026-07-15T08:04:02+00:00"
-    },
-    {
-      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-15T06:34:00+00:00"
-    },
-    {
-      "title": "2016 coup attempt: How one night changed Turkey",
-      "source": "FAZ Germany",
-      "country": "Turkey",
-      "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-offene-fragen-zehn-jahre-nach-dem-putschversuch-accg-201026509.html",
-      "published_date": "2026-07-15T06:15:25+00:00"
-    },
-    {
-      "title": "Myanmar junta leader to visit Thailand next month",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-thailand-next-month/",
-      "published_date": "2026-07-15T05:27:55+00:00"
-    },
-    {
-      "title": "Interim President of Peru requests Congress to grant a lifetime pension",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/presidente-interino-de-peru-solicita-al-congreso-el-otorgamiento-de-una-pension-vitalicia/",
-      "published_date": "2026-07-15T01:08:19+00:00"
-    },
-    {
-      "title": "“People are not going to invest in the long term if there is no democratic government”: the US seeks a middle ground for Venezuelan elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/la-gente-no-va-a-invertir-a-largo-plazo-si-no-hay-un-gobierno-democratico-estados-unidos-busca-punto-medio-para-elecciones-venezolanas/",
-      "published_date": "2026-07-15T00:56:08+00:00"
     }
   ]
 }
