@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-29T13:03:18.983844+00:00",
-    "story_count": 494,
+    "last_updated": "2026-07-30T00:00:27.978744+00:00",
+    "story_count": 482,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,88 @@
   },
   "stories": [
     {
-      "title": "Ex-President Yoon referred to prosecution on new election law violation charges",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260729/ex-president-yoon-referred-to-prosecution-on-new-election-law-violation-charges?utm_source=rss",
-      "published_date": "2026-07-29T12:57:02+00:00"
+      "title": "Bennett losing ground as Eisenkot, Netanyahu neck-and-neck for upcoming elections - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904051",
+      "published_date": "2026-07-30T00:31:22+00:00"
+    },
+    {
+      "title": "Patriarch Kirill was about to exile Metropolitan Hilarion to Brazil. Now he’s sending him to a convent near Moscow instead.",
+      "source": "Meduza EN",
+      "country": "Brazil",
+      "url": "https://meduza.io/en/news/2026/07/30/patriarch-kirill-was-about-to-exile-metropolitan-hilarion-to-brazil-now-he-s-sending-him-to-a-convent-near-moscow-instead",
+      "published_date": "2026-07-29T22:22:49+00:00"
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera English",
+      "country": "Myanmar",
+      "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+      "published_date": "2026-07-29T21:29:33+00:00"
+    },
+    {
+      "title": "Carlos Cuenca is the new president of the Commission of Accusations: he had several of the processes against President Gustavo Petro",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/congreso/carlos-cuenca-es-el-nuevo-presidente-de-la-comision-de-acusaciones-tenia-varios-de-los-procesos-contra-el-presidente-gustavo-petro-3574762",
+      "published_date": "2026-07-29T20:35:28+00:00"
+    },
+    {
+      "title": "Expert on the rebellion in India: \"I don't know if the genie can be put back in the bottle so easily\"",
+      "source": "Politiken Denmark",
+      "country": "India",
+      "url": "https://politiken.dk/internationalt/art10926851/Ekspert-om-opr%C3%B8ret-i-Indien-%C2%BBJeg-ved-ikke-om-%C3%A5nden-s%C3%A5-let-kan-puttes-tilbage-i-flasken%C2%AB",
+      "published_date": "2026-07-29T19:02:30+00:00"
+    },
+    {
+      "title": "Education minister resigns: 'Exhilarating moment' for India's youth as they demand accountability",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/education-minister-resigns-exhilarating-moment-for-india-s-youth-as-they-demand-accountability",
+      "published_date": "2026-07-29T17:59:28+00:00"
+    },
+    {
+      "title": "Rahul Gandhi demands Amit Shah’s resignation over police brutality during Delhi protests",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-parliament-monsoon-session-lok-sabha-police-brutality-delhi-student-protests-amit-shah-july-29-2026/article71281681.ece",
+      "published_date": "2026-07-29T17:09:10+00:00"
+    },
+    {
+      "title": "Attack on Berlin CSD: First anger, then election campaign",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/wie-der-berliner-anschlag-zum-wahlkampfthema-wird-201076051.html",
+      "published_date": "2026-07-29T16:12:47+00:00"
     },
     {
       "title": "Re-polling demand, Form-47 jibe and doomsday talk — PPP, PML-N continue to trade barbs over Mirpur election results",
       "source": "Dawn Pakistan",
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results",
-      "published_date": "2026-07-29T12:54:31+00:00"
+      "published_date": "2026-07-29T15:15:15+00:00"
+    },
+    {
+      "title": "Russia’s Central Election Commission registers anti-war Yabloko party for State Duma elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/07/29/russia-s-central-election-commission-registers-anti-war-yabloko-party-for-state-duma-elections",
+      "published_date": "2026-07-29T14:55:01+00:00"
+    },
+    {
+      "title": "Government congratulates Keiko Fujimori after being sworn in as president of Peru",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/07/gobierno-felicita-a-keiko-fujimori-tras-ser-juramentada-como-presidenta-de-peru/",
+      "published_date": "2026-07-29T14:25:25+00:00"
+    },
+    {
+      "title": "Ex-President Yoon referred to prosecution on new election law violation charges",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260729/ex-president-yoon-referred-to-prosecution-on-new-election-law-violation-charges?utm_source=rss",
+      "published_date": "2026-07-29T12:57:02+00:00"
     },
     {
       "title": "BJP forms special committees for local body elections in Andhra Pradesh",
@@ -92,7 +162,7 @@
       "source": "Moscow Times",
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/07/29/putin-replaces-head-of-udmurtia-republic-following-surprise-resignation-a93368",
-      "published_date": "2026-07-29T11:33:13+00:00"
+      "published_date": "2026-07-29T11:33:00+00:00"
     },
     {
       "title": "We’ll deliver Ondo for Tinubu’s reelection – Aiyedatiwa",
@@ -202,7 +272,7 @@
     {
       "title": "Cuba criticizes the elected president of Colombia for announcing the breaking of diplomatic relations",
       "source": "El Nacional Venezuela",
-      "country": "Colombia",
+      "country": "Cuba",
       "url": "https://www.elnacional.com/2026/07/cuba-critica-al-presidente-electo-de-colombia-por-anunciar-la-ruptura-de-relaciones-diplomaticas/",
       "published_date": "2026-07-28T22:32:40+00:00"
     },
@@ -3362,160 +3432,6 @@
       "country": "China",
       "url": "https://www.jpost.com/american-politics/article-902651",
       "published_date": "2026-07-16T01:36:30+00:00"
-    },
-    {
-      "title": "\"The regime owes an apology and compensation to the Cuban people,\" says exiled journalist",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-07-16-u1-e208933-s27061-nid335233-regimen-le-debe-disculpa-indemnizacion-al-pueblo",
-      "published_date": "2026-07-15T22:39:55+00:00"
-    },
-    {
-      "title": "Keiko Fujimori celebrates her proclamation: “Proud to be the first woman elected president in Peru”",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-celebra-su-proclamacion-orgullosa-de-ser-la-primera-mujer-elegida-presidenta-en-el-peru/",
-      "published_date": "2026-07-15T21:59:17+00:00"
-    },
-    {
-      "title": "Marco Rubio meets with vice president-elect of Colombia to seal a new bilateral stage",
-      "source": "CiberCuba",
-      "country": "Colombia",
-      "url": "https://www.cibercuba.com/noticias/2026-07-15-u1-e199894-s27061-nid335228-marco-rubio-reune-vicepresidente-electo-colombia",
-      "published_date": "2026-07-15T21:54:01+00:00"
-    },
-    {
-      "title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
-      "published_date": "2026-07-15T21:49:52+00:00"
-    },
-    {
-      "title": "The reshuffle continues in Ukraine, Defense Minister Mykhailo Fedorov has resigned",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/europe/20260715-remaniement-poursuit-ukraine-ministre-defense-mykhailo-fedorov-annonce-demission-politique-drones-guerre-russie",
-      "published_date": "2026-07-15T21:29:18+00:00"
-    },
-    {
-      "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
-      "source": "Al Jazeera English",
-      "country": "Turkey",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/10-years-on-from-turkiyes-failed-coup-attempt-on-erdogan?traffic_source=rss",
-      "published_date": "2026-07-15T20:35:09+00:00"
-    },
-    {
-      "title": "French Parliament approves the right to assisted dying for people with incurable diseases",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/mundo/noticia/parlamento-frances-aprueba-el-derecho-a-la-muerte-asistida-para-personas-con-enfermedades-incurables/",
-      "published_date": "2026-07-15T20:14:04+00:00"
-    },
-    {
-      "title": "French Parliament approves landmark assisted-dying bill",
-      "source": "Al Jazeera English",
-      "country": "France",
-      "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
-      "published_date": "2026-07-15T19:58:53+00:00"
-    },
-    {
-      "title": "Keiko Fujimori receives official credentials as president-elect of Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-recibe-credenciales-oficiales-como-presidenta-electa-de-peru/",
-      "published_date": "2026-07-15T19:23:38+00:00"
-    },
-    {
-      "title": "2027 presidential election: who faces Le Pen?",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260715-pr%C3%A9sidentielle-2027-qui-face-%C3%A0-le-pen",
-      "published_date": "2026-07-15T19:05:31+00:00"
-    },
-    {
-      "title": "Ukrainian defense minister resigns",
-      "source": "DR News Denmark",
-      "country": "Ukraine",
-      "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-forsvarsminister-traeder-tilbage",
-      "published_date": "2026-07-15T18:55:42+00:00"
-    },
-    {
-      "title": "French parliament passes assisted dying bill for some terminally ill adults",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/07/15/french-parliament-passes-assisted-dying-bill-for-some-terminally-ill-adults",
-      "published_date": "2026-07-15T17:56:54+00:00"
-    },
-    {
-      "title": "Three months before the elections, Lula reaches his best approval rating since 2024 and is eight points ahead of Flávio Bolsonaro",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/a-tres-meses-de-las-elecciones-lula-alcanza-su-mejor-indice-aprobacion-desde-2024-y-queda-ocho-puntos-sobre-flavio-bolsonaro/",
-      "published_date": "2026-07-15T17:30:00+00:00"
-    },
-    {
-      "title": "Former Hungarian foreign minister Szijjártó resigns from parliament to join Chinese carmaker",
-      "source": "Euronews",
-      "country": "China",
-      "url": "http://www.euronews.com/my-europe/2026/07/15/former-hungarian-foreign-minister-szijjarto-resigns-from-parliament-to-join-chinese-carmak",
-      "published_date": "2026-07-15T16:48:45+00:00"
-    },
-    {
-      "title": "Colombians with approved immigrant visas asked President-elect Abelardo de la Espriella to intervene before the United States.",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombianos-con-visas-de-inmigrante-aprobadas-pidieron-al-presidente-electo-abelardo-de-la-espriella-intervenir-ante-ee-uu-3571392",
-      "published_date": "2026-07-15T16:38:53+00:00"
-    },
-    {
-      "title": "Russia may announce general mobilization after elections – Zelensky",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4144653-russia-may-announce-general-mobilization-after-elections-zelensky.html",
-      "published_date": "2026-07-15T16:23:00+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Zelenskyj proposes Serhiy Koretskyj as new prime minister",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-schlaegt-serhij-korezkyj-als-neuen-ministerpraesidenten-vor-faz-110683325.html",
-      "published_date": "2026-07-15T16:04:39+00:00"
-    },
-    {
-      "title": "Dinorah Figuera: Today there are no conditions in Venezuela for a presidential election",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/dinorah-figuera-hoy-no-hay-en-venezuela-condiciones-para-una-eleccion-presidencial/",
-      "published_date": "2026-07-15T14:36:32+00:00"
-    },
-    {
-      "title": "Merz reaches out to AfD voters before pivotal German regional election - Reuters",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2YwYXE5a244NUNCYUJRNndKNkdfaFFlSXl5NVd6WEx0UGdsVHFrZGZROXVGb0VOZng5aUY1VER6bnhGNWZiSGJ5TVdmTmtrV0pWVHZXa3BiWmk1a1lxcWE0NjNrYXVXemlMR3dTS1RnUHdNNFJ2d2pTVzU3bl9hZlV2ZXdWZmJTN3lJWWp5UTZOeVVobXN5U0E5OEc0Znhibk9CMmo1RzJRSjRET2lQUm5PWnQ?oc=5",
-      "published_date": "2026-07-15T14:04:23+00:00"
-    },
-    {
-      "title": "Former Hungarian foreign minister resigns from parliament for job with Chinese automaker",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/europe/peter-szijjarto-viktor-orban-chinese-european-union-peter-magyar-b3015443.html",
-      "published_date": "2026-07-15T13:59:01+00:00"
-    },
-    {
-      "title": "Erdogan calls for deportation of suspects linked to failed coup a decade ago",
-      "source": "The Independent UK",
-      "country": "Turkey",
-      "url": "https://www.independent.co.uk/news/world/recep-erdogan-turkiye-failed-coup-b3015291.html",
-      "published_date": "2026-07-15T13:38:08+00:00"
-    },
-    {
-      "title": "Hardliners in Tehran are running the show while the Iran's supreme leader watches - opinion",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/opinion/article-902329",
-      "published_date": "2026-07-15T13:00:00+00:00"
     }
   ]
 }
