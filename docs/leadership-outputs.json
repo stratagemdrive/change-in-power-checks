@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-30T12:34:52.007744+00:00",
-    "story_count": 474,
+    "last_updated": "2026-07-31T00:00:51.348761+00:00",
+    "story_count": 463,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lula admits risk of Trump interference in elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml",
+      "published_date": "2026-07-30T23:43:00+00:00"
+    },
+    {
+      "title": "Parliament passes paper leak Bill as Opposition walks out of Rajya Sabha",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
+      "published_date": "2026-07-30T20:48:48+00:00"
+    },
+    {
+      "title": "Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/cities/chandigarh/court-dismisses-second-bail-plea-of-hyderabad-man-arrested-for-circulating-misleading-video-linked-to-pm-modi-10811163/",
+      "published_date": "2026-07-30T19:26:01+00:00"
+    },
+    {
+      "title": "Boric is betting, until now, on a dispensable role in the internal election of the FA",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/boric-apuesta-hasta-ahora-por-rol-prescindente-en-la-eleccion-interna-del-fa/",
+      "published_date": "2026-07-30T17:30:08+00:00"
+    },
+    {
+      "title": "La Moneda sets its sights on the Fundamental Charter: Arrau's other constitutional reform to create a new state of exception",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/la-moneda-pone-la-mira-en-la-carta-fundamental-la-otra-reforma-constitucional-de-arrau-para-crear-un-nuevo-estado-de-excepcion/",
+      "published_date": "2026-07-30T17:30:00+00:00"
+    },
+    {
+      "title": "The battlefield Ukraine’s new commander-in-chief inherits as Russian troops push toward Ukraine’s main defensive stronghold in Donbas",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/07/30/the-battlefield-ukraine-s-new-commander-in-chief-inherits-as-russian-troops-push-toward-ukraine-s-main-defensive-stronghold-in-donbas",
+      "published_date": "2026-07-30T15:14:18+00:00"
+    },
+    {
+      "title": "Election audit: The AfD is playing with the dilemma",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-niedersachsen-das-dilemma-um-kandidaten-201080392.html",
+      "published_date": "2026-07-30T13:34:33+00:00"
+    },
     {
       "title": "Japan shopping mall explosion after 7.1 quake captured on dashcam footage",
       "source": "Euronews",
@@ -3250,132 +3299,6 @@
       "country": "Brazil",
       "url": "https://www.latercera.com/mundo/noticia/aranceles-de-eeuu-sacuden-la-carrera-presidencial-brasilena-mientras-lula-y-flavio-bolsonaro-se-culpan-mutuamente/",
       "published_date": "2026-07-17T00:30:00+00:00"
-    },
-    {
-      "title": "Trump’s speech rumored to feature elections or Iran after president teases ‘really big news’ – live updates",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
-      "published_date": "2026-07-16T23:25:57+00:00"
-    },
-    {
-      "title": "Trump accuses China of interfering in 2020 U.S. election during televised address",
-      "source": "CBC News World",
-      "country": "China",
-      "url": "https://www.cbc.ca/news/world/trump-primetime-address-election-security-china-9.7273603?cmp=rss",
-      "published_date": "2026-07-16T22:35:00+00:00"
-    },
-    {
-      "title": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine",
-      "source": "Foreign Policy",
-      "country": "Ukraine",
-      "url": "https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/",
-      "published_date": "2026-07-16T20:51:49+00:00"
-    },
-    {
-      "title": "APC Delta mandate passes vote of confidence on Tinubu, Oborevwori",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/07/apc-delta-mandate-passes-vote-of-confidence-on-tinubu-oborevwori/",
-      "published_date": "2026-07-16T20:38:00+00:00"
-    },
-    {
-      "title": "Zelensky's dismissal of Ukraine's defence chief sparks political crisis",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/zelensky-s-dismissal-of-ukraine-s-defence-chief-sparks-political-crisis",
-      "published_date": "2026-07-16T20:08:01+00:00"
-    },
-    {
-      "title": "President Zelensky outlines key priorities for Ukraine's new government",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4145117-president-zelensky-outlines-key-priorities-for-ukraines-new-government.html",
-      "published_date": "2026-07-16T19:39:00+00:00"
-    },
-    {
-      "title": "Bitter row splits Ukraine's military leadership after defence minister ousted",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted",
-      "published_date": "2026-07-16T19:32:27+00:00"
-    },
-    {
-      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov",
-      "published_date": "2026-07-16T18:25:48+00:00"
-    },
-    {
-      "title": "Israeli Government Pushes Through Divisive Laws Before Election - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1VzbjRYbGYtS01SWE9BT3dDVF9YVVIxQ2dMSU9yUWh3UzZQQ1lGa0EybFkyVi1TMk5EUWJ2Sk1lcExHT1MzcThSLU03b0VsWkp1SnBhd1NsS1RkeTlHeHNDc3V3OUFOSjN3MGgyc0Y2R0xGX09rOWZnS2FEX2Iyc3UxTFM0blU1?oc=5",
-      "published_date": "2026-07-16T18:12:44+00:00"
-    },
-    {
-      "title": "Chinese interference, voting machines, 2020 election... Donald Trump promises revelations in his speech to Americans",
-      "source": "Le Figaro France",
-      "country": "China",
-      "url": "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
-      "published_date": "2026-07-16T17:26:42+00:00"
-    },
-    {
-      "title": "Colombia president-elect to open Israel embassy in Jerusalem",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-president-elect-open-israel-embassy-jerusalem",
-      "published_date": "2026-07-16T16:52:30+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Bernard Cazeneuve “presents his candidacy” in a letter to the French",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-dans-une-lettre-aux-francais-20260716",
-      "published_date": "2026-07-16T16:29:47+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Zelensky names successor after defense minister is removed",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-nennt-nachfolger-nach-absetzung-des-verteidigungsministers-faz-110683325.html",
-      "published_date": "2026-07-16T16:13:00+00:00"
-    },
-    {
-      "title": "Julio César Rivas, the first student leader imprisoned by Chavismo, returns to Venezuela: “The priority today is not the elections”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/julio-cesar-rivas-regresa-a-venezuela-para-ayudar-en-la-guaira/",
-      "published_date": "2026-07-16T15:29:30+00:00"
-    },
-    {
-      "title": "Ukraine is putting pressure on Russia. So why is the country's defence minister being ousted now?",
-      "source": "CBC News World",
-      "country": "Ukraine",
-      "url": "https://www.cbc.ca/news/world/fedorov-ukraine-defence-9.7272575?cmp=rss",
-      "published_date": "2026-07-16T14:39:06+00:00"
-    },
-    {
-      "title": "Supreme Court cancels Karnataka BJP MLC Pranesh’s election, Congress wins seat",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/legal-news/supreme-court-karnataka-mlc-election-mk-pranesh-gayathri-shanthegowda-verdict-10789823/",
-      "published_date": "2026-07-16T14:18:30+00:00"
-    },
-    {
-      "title": "Mykhailo Fedorov: Ousted defence chief's reforms riled Ukrainian army bosses",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260716-ousted-defence-chief-mykhailo-fedorov-whose-reforms-riled-ukraine-s-army-bosses",
-      "published_date": "2026-07-16T14:15:14+00:00"
-    },
-    {
-      "title": "Demonstrations in Ukraine after the resignation of the popular Defense Minister",
-      "source": "La Tercera Chile",
-      "country": "Ukraine",
-      "url": "https://www.latercera.com/mundo/noticia/manifestaciones-en-ucrania-tras-la-dimision-del-popular-ministro-de-defensa/",
-      "published_date": "2026-07-16T13:54:28+00:00"
     }
   ]
 }
