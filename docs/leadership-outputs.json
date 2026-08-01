@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-07-31T12:58:44.960199+00:00",
-    "story_count": 424,
+    "last_updated": "2026-08-01T00:00:20.473518+00:00",
+    "story_count": 413,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Venezuela government and opposition to hold talks aimed at path to election",
+      "source": "Al Jazeera English",
+      "country": "Venezuela",
+      "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+      "published_date": "2026-07-31T20:28:39+00:00"
+    },
+    {
+      "title": "Eisenkot election billboard in Cyprus vandalized with Palestinian flag colors",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904232",
+      "published_date": "2026-07-31T17:12:48+00:00"
+    },
+    {
+      "title": "PM Modi, UK PM Andy Burnham discuss trade deal, West Asia crisis",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-uk-pm-andy-burnham-discuss-trade-deal-west-asia-crisis-101785515281875.html",
+      "published_date": "2026-07-31T16:28:01+00:00"
+    },
+    {
+      "title": "Over 4,000 police personnel to be deployed for security during AJK Assembly elections in Rawalpindi division",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2019728/over-4000-police-personnel-to-be-deployed-for-security-during-ajk-assembly-elections-in-rawalpindi-division",
+      "published_date": "2026-07-31T14:59:09+00:00"
+    },
+    {
+      "title": "Sudan civil war: When drones strike the classroom",
+      "source": "Deutsche Welle English",
+      "country": "Sudan",
+      "url": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-07-31T14:38:00+00:00"
+    },
+    {
+      "title": "Central Election Commission Bars Yabloko Candidates From St. Petersburg Ballot",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
+      "published_date": "2026-07-31T14:16:07+00:00"
+    },
     {
       "title": "Eisenkot leads Netanyahu by 10 points, Likud gains two seats in latest election poll",
       "source": "Jerusalem Post",
@@ -86,6 +128,13 @@
       "country": "Israel",
       "url": "https://www.france24.com/fr/moyen-orient/20260731-elections-l%C3%A9gislatives-isra%C3%ABl-gadi-eisenkot-ancien-chef-arm%C3%A9e-qui-veut-d%C3%A9tr%C3%B4ner-benjamin-netanyahu",
       "published_date": "2026-07-31T05:14:17+00:00"
+    },
+    {
+      "title": "Peru swears in new president and other top photos from Latin America and the Caribbean - apnews.com",
+      "source": "Google News World",
+      "country": "Peru",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWFfV1hDaTR3WHRST2U4MEl6UTFSckotTHBYX2wtWUlEeGJ3NnktQkV5Zm8wY3ZwNE0wTlY5QzZxbmQ3a0sxQ1BWUGpFLXhuYmlnd25pZUZOTnE4NGN0SjJteEVPdjRYSTgtXzZac1NoUHBUNUZWU2dPeGZidG9TVVd1RFRrUzRNcEJfMktYRVJWaHFMOGhQT1VhTU9IU040WkRNdkNqMnM3OEhEOVE?oc=5",
+      "published_date": "2026-07-31T04:26:00+00:00"
     },
     {
       "title": "Bengaluru student at NEET protest assaulted for demanding PM Modi resign",
@@ -2900,132 +2949,6 @@
       "country": "Taiwan",
       "url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes?utm_source=rss_feed",
       "published_date": "2026-07-18T06:00:05+00:00"
-    },
-    {
-      "title": "From Lviv to Kharkiv, Ukrainians were back in the streets on Friday for a second straight day, demanding the return of their ousted defense minister",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/18/from-lviv-to-kharkiv-ukrainians-were-back-in-the-streets-on-friday-for-a-second-straight-day-demanding-the-return-of-their-ousted-defense-minister",
-      "published_date": "2026-07-17T22:39:59+00:00"
-    },
-    {
-      "title": "President-elect Abelardo de la Espriella appointed Silvia Tcherassi as Ad Honorem Ambassador of Colombian Fashion and Creativity",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-de-colombia-nombro-a-silvia-tcherassi-como-embajadora-ad-honorem-de-la-moda-y-la-creatividad-colombiana-3572055",
-      "published_date": "2026-07-17T22:36:26+00:00"
-    },
-    {
-      "title": "Japan enshrines in law male-only succession for its shrinking imperial family - PBS",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdi11d2FlMm9LcWNCc1lOdW40WUNhckUzc0RLazdscEE2d1hFaUM4WmRXaTZMUkVzSy1YcUJQUWhCRXNJalBScVFtQzQ0N3hJdUkwdnFycUFTTTgxS1JkMzUySW9Sb3ptZFhEek5JMFdUUGh2RTd3TlozTmpNWllUSUY5TmxtQmxuWFp0VGl5RmF1YkVVUnlFSE1vYVZYNEFGUEh0MVlZUlI3ejFaektUT3pn0gG3AUFVX3lxTE5YcmQ2ckhrbWJNWVFDSG13bVJMRTl5bWpxdVplTUw3OEROeE1OWkszM1NMZGtFd1VnNGRVOHRndUNQS2g4emludXJSVEFrRU5vQnRXQ2xOLWhRZVRvNkRZNmtHYjJpOTFubE9HU09HakZjRFN6U2w5UXZjS2M2czlPN3h4OHBPSDBkR1JvRFdpTXBPdXpkOHhCbUJEY25SZlZTdzQxMTBjdVVqZ2dUY1NtdE56dnZwdw?oc=5",
-      "published_date": "2026-07-17T22:19:37+00:00"
-    },
-    {
-      "title": "Zelensky appoints Poklad as acting head of SSU",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4145452-zelensky-appoints-poklad-as-acting-head-of-ssu.html",
-      "published_date": "2026-07-17T19:40:00+00:00"
-    },
-    {
-      "title": "Many allegations, little evidence: unpacking the China election-interference records",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records?utm_source=rss_feed",
-      "published_date": "2026-07-17T19:31:27+00:00"
-    },
-    {
-      "title": "Japan revises imperial succession rules, but still excludes women",
-      "source": "Deutsche Welle English",
-      "country": "Japan",
-      "url": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-17T18:15:00+00:00"
-    },
-    {
-      "title": "Court fines Boris Nadezhdin, the antiwar politician who tried to challenge Putin in Russia’s 2024 presidential race, over a Navalny photo",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/07/17/court-fines-boris-nadezhdin-the-antiwar-politician-who-tried-to-challenge-putin-in-russia-s-2024-presidential-race-over-a-navalny-photo",
-      "published_date": "2026-07-17T18:06:50+00:00"
-    },
-    {
-      "title": "US forces destroy Iranian surveillance tower, no troops killed, captured in Syria, CENTCOM says",
-      "source": "Jerusalem Post",
-      "country": "Syria",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-902845",
-      "published_date": "2026-07-17T18:01:30+00:00"
-    },
-    {
-      "title": "What's behind Trump's speech in which he accused China of “interfering” in the 2020 elections",
-      "source": "La Tercera Chile",
-      "country": "China",
-      "url": "https://www.latercera.com/mundo/noticia/que-hay-detras-del-discurso-de-trump-en-que-acuso-a-china-de-interferir-en-las-elecciones-de-2020/",
-      "published_date": "2026-07-17T17:30:00+00:00"
-    },
-    {
-      "title": "Iran enters Trump's election controversy by blaming Israel for perverting US policy",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/iran-entra-en-la-polemica-electoral-de-trump-culpando-a-israel-de-pervertir-la-politica-de-estados-unidos/",
-      "published_date": "2026-07-17T16:24:16+00:00"
-    },
-    {
-      "title": "Zelensky announces special meeting of Supreme Commander-in-Chief's Staff on drones and weapons production",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4145413-zelensky-announces-special-meeting-of-supreme-commanderinchiefs-staff-on-drones-and-weapons-production.html",
-      "published_date": "2026-07-17T16:19:00+00:00"
-    },
-    {
-      "title": "Within days, Zelensky has fired his cabinet, ousted his defense minister, and is now replacing his security council chief",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/17/within-days-zelensky-has-fired-his-cabinet-ousted-his-defense-minister-and-is-now-replacing-his-security-council-chief",
-      "published_date": "2026-07-17T16:14:16+00:00"
-    },
-    {
-      "title": "UK: Andy Burnham elected leader of the Labor Party",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/reino-unido-andy-burnham-es-elegido-lider-del-partido-laborista/",
-      "published_date": "2026-07-17T16:05:20+00:00"
-    },
-    {
-      "title": "Israel: Parliament dissolved, the country turns to the legislative elections in October",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-isra%C3%ABl-le-parlement-dissous-le-pays-se-tourne-vers-les-l%C3%A9gislatives-d-octobre",
-      "published_date": "2026-07-17T15:49:31+00:00"
-    },
-    {
-      "title": "China rejects Trump's election interference accusations as 'groundless'",
-      "source": "Euronews",
-      "country": "China",
-      "url": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
-      "published_date": "2026-07-17T15:23:52+00:00"
-    },
-    {
-      "title": "Donald Trump accuses China of 'biggest election hack'",
-      "source": "France 24 FR",
-      "country": "China",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-donald-trump-accuse-la-chine-du-plus-grand-piratage-%C3%A9lectoral",
-      "published_date": "2026-07-17T15:01:04+00:00"
-    },
-    {
-      "title": "Trump targets China and Russia with baseless claims of election interference",
-      "source": "France 24 English",
-      "country": "China",
-      "url": "https://www.france24.com/en/trump-targets-china-and-russia-with-baseless-claims-of-election-interference",
-      "published_date": "2026-07-17T14:38:07+00:00"
-    },
-    {
-      "title": "China blasts ‘unfounded smears’ as Trump’s election claims threaten diplomatic thaw",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360994/china-blasts-unfounded-smears-trumps-election-claims-threaten-diplomatic-thaw?utm_source=rss_feed",
-      "published_date": "2026-07-17T14:00:09+00:00"
     }
   ]
 }
