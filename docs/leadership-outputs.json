@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-01T00:00:20.473518+00:00",
-    "story_count": 413,
+    "last_updated": "2026-08-01T12:06:05.134418+00:00",
+    "story_count": 412,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Colombia: truck bomb explodes six days before inauguration of president-elect",
+      "source": "Le Figaro France",
+      "country": "Colombia",
+      "url": "https://www.lefigaro.fr/international/colombie-un-camion-piege-explose-a-six-jours-de-l-investiture-du-president-elu-20260801",
+      "published_date": "2026-08-01T11:55:41+00:00"
+    },
+    {
+      "title": "Libya Development and Reconstruction Fund inaugurates 120 housing unit residential complex project in Sabha",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/08/libya-development-and-reconstruction-fund-inaugurates-120-housing-unit-residential-complex-project-in-sabha/",
+      "published_date": "2026-08-01T11:44:00+00:00"
+    },
+    {
+      "title": "PML-N never won a general election without rigging, alleges PPP's Saeed Ghani",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2019925/pml-n-never-won-a-general-election-without-rigging-alleges-ppps-saeed-ghani",
+      "published_date": "2026-08-01T10:01:51+00:00"
+    },
+    {
+      "title": "Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’ - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkpsZ3BhUXhCSHdDUVBTQ09faGxGQV8xZmhhN3NIVm1jQXU3U1hPLWpIMnYxUVlEdzY0VkRIbEk3RUs5Tzh2dFFOY1JFYmttX1FfOWlvb0xtS1g1WGZ3TzRoQTZIbzlaVmlOcHUzeEprUDk2NEVPZUQ3QVdUcWpMRXVFR1NFRlZwSkxIQWo5VjdWbXBad1F0eEc1R2xPZkZJ?oc=5",
+      "published_date": "2026-08-01T09:22:00+00:00"
+    },
+    {
+      "title": "“It was the chance of our lives”: after an exile of only a few hours in Ceuta, tens of thousands of young people return to Morocco",
+      "source": "Le Monde France",
+      "country": "Morocco",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/01/c-etait-la-chance-de-notre-vie-apres-un-exil-de-seulement-quelques-heures-a-ceuta-des-dizaines-de-milliers-de-jeunes-regagnent-le-maroc_6737202_3212.html",
+      "published_date": "2026-08-01T07:28:42+00:00"
+    },
+    {
+      "title": "Green Party officially supports Lula's candidacy for re-election",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-verde-oficializa-apoio-candidatura-de-lula-reeleicao",
+      "published_date": "2026-08-01T00:16:00+00:00"
+    },
     {
       "title": "Venezuela government and opposition to hold talks aimed at path to election",
       "source": "Al Jazeera English",
@@ -130,7 +172,7 @@
       "published_date": "2026-07-31T05:14:17+00:00"
     },
     {
-      "title": "Peru swears in new president and other top photos from Latin America and the Caribbean - apnews.com",
+      "title": "Peru swears in new president and other top photos from Latin America and the Caribbean - AP News",
       "source": "Google News World",
       "country": "Peru",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWFfV1hDaTR3WHRST2U4MEl6UTFSckotTHBYX2wtWUlEeGJ3NnktQkV5Zm8wY3ZwNE0wTlY5QzZxbmQ3a0sxQ1BWUGpFLXhuYmlnd25pZUZOTnE4NGN0SjJteEVPdjRYSTgtXzZac1NoUHBUNUZWU2dPeGZidG9TVVd1RFRrUzRNcEJfMktYRVJWaHFMOGhQT1VhTU9IU040WkRNdkNqMnM3OEhEOVE?oc=5",
@@ -2900,55 +2942,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-will-spahn-nachfolge-noch-im-juli-klaeren-faz-110093143.html",
       "published_date": "2026-07-18T12:23:48+00:00"
-    },
-    {
-      "title": "Germany live blog: Jens Spahn resigns",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-jens-spahn-tritt-zurueck-faz-110093143.html",
-      "published_date": "2026-07-18T11:44:26+00:00"
-    },
-    {
-      "title": "Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5",
-      "published_date": "2026-07-18T10:10:18+00:00"
-    },
-    {
-      "title": "Japan votes to keep emperor succession male-only, blocking Princess Aiko from throne - New York Post",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVAwb1NsaTd2YnVfZTJPMXE2bjVEeGhJanJEbmNXSGM1ZlVNU2xZZ1RYY2NLRy1WeXhKNF8xNVhKUU5RSHZ5QTJIU0dla3RKbmpZVzFLQ2FVRmFZTm5aMWlZSWl6UXpMSlBINVRzTzZlbTJ2emo1OEhBVURwRnh1R0stX1F6UGxzb0tqX1ZDYVQ3ZDg5ckktTGpRd0luc2dLN292V0pzUWUwZy1TR0FqcTNvdVlVN2Rmb1pwQXhaSjJWaWs?oc=5",
-      "published_date": "2026-07-18T09:44:00+00:00"
-    },
-    {
-      "title": "US Democrats divided over support for Israel ahead of midterm elections",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections",
-      "published_date": "2026-07-18T09:05:45+00:00"
-    },
-    {
-      "title": "Iran supreme leader threatens to teach U.S. 'unforgettable lessons' if attacks continue",
-      "source": "CBC News World",
-      "country": "Iran",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317?cmp=rss",
-      "published_date": "2026-07-18T08:22:58+00:00"
-    },
-    {
-      "title": "Israeli Parliament votes for its own dissolution, heading towards legislative elections",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-le-parlement-isra%C3%A9lien-vote-sa-propre-dissolution-cap-vers-les-l%C3%A9gislatives",
-      "published_date": "2026-07-18T08:19:50+00:00"
-    },
-    {
-      "title": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes?utm_source=rss_feed",
-      "published_date": "2026-07-18T06:00:05+00:00"
     }
   ]
 }
