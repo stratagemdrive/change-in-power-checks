@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-02T12:06:33.892113+00:00",
-    "story_count": 394,
+    "last_updated": "2026-08-02T23:56:21.491823+00:00",
+    "story_count": 395,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "President Gustavo Petro landed at the Tolú airport for his inauguration, but the presidential plane took off a few minutes later and the event was cancelled.",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-aterrizo-en-aeropuerto-de-tolu-para-su-inauguracion-pero-avion-presidencial-despego-a-los-pocos-minutos-y-se-cancelo-evento-3575567",
+      "published_date": "2026-08-02T22:46:27+00:00"
+    },
+    {
+      "title": "Indefinite re-elections: the Buenos Aires ruling party denies that it seeks to expand the Legislature as part of a political reform to benefit the mayors",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/reelecciones-indefinidas-el-oficialismo-bonaerense-niega-que-busque-ampliar-la-legislatura-como-nid02082026/",
+      "published_date": "2026-08-02T22:43:30+00:00"
+    },
+    {
+      "title": "Brazil’s Lula launches reelection bid as concerns rise over foreign interference - AP News",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhVOWVPWk5lVnU3TGw4ZGtCTkNxVkN1VG92cVlJU0YydG1vbk9uVTFuUzZuMFQzQlYyVmEzRG83bnM3MTR1cDNsSzRZMmhldU14d0dMVTZaSDk2VFZKUERDLXJZcE5iWjVtQXBIS2VKSHM4ZHNEYThRbm1ONDhMang2MzhWUlhkVjBuTnp4aWVVNWp3Yzhyci1HbFFhRXZrb2h2MDVoVnZJNG1mTkdMZUM1ZVhGN0ZLSmc?oc=5",
+      "published_date": "2026-08-02T22:36:00+00:00"
+    },
+    {
+      "title": "Kicillof accused Milei of using “extortion as a state policy” to seek his re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/kicillof-acuso-a-milei-de-usar-la-extorsion-como-politica-de-estado-para-buscar-su-reeleccion-nid02082026/",
+      "published_date": "2026-08-02T20:17:59+00:00"
+    },
+    {
+      "title": "Lula launches his candidacy for re-election in a campaign marked by polarization and complaints of interference",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-lanza-su-candidatura-a-la-reeleccion-en-una-campana-marcada-por-la-polarizacion-y-las-denuncias-nid02082026/",
+      "published_date": "2026-08-02T19:29:59+00:00"
+    },
+    {
+      "title": "Lula exposes legacy and succession dilemmas in speech",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-expoe-dilemas-do-legado-e-da-sucessao-em-discurso.shtml",
+      "published_date": "2026-08-02T17:44:00+00:00"
+    },
+    {
+      "title": "Mexican authorities captured leader of the Los Reyes cartel wanted by the US",
+      "source": "El Nacional Venezuela",
+      "country": "Mexico",
+      "url": "https://www.elnacional.com/2026/08/autoridades-mexicanas-capturaron-a-lider-del-cartel-los-reyes-buscado-por-ee-uu/",
+      "published_date": "2026-08-02T17:14:31+00:00"
+    },
+    {
+      "title": "Presidential election in Brazil: Lula candidate for a fourth and final term at the head of the country",
+      "source": "France 24 FR",
+      "country": "Brazil",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260802-br%C3%A9sil-lula-candidat-pour-un-quatri%C3%A8me-et-dernier-mandat-%C3%A0-la-t%C3%AAte-du-pays",
+      "published_date": "2026-08-02T17:12:01+00:00"
+    },
+    {
+      "title": "Martínez seeks re-election in the FA: he aims to “resist” the Kast government and “retake” the Executive in 2030",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/martinez-busca-la-reeleccion-en-el-fa-apunta-a-resistir-al-gobierno-de-kast-y-retomar-el-ejecutivo-en-2030/",
+      "published_date": "2026-08-02T16:48:25+00:00"
+    },
+    {
+      "title": "Elizabeth May optimistic Greens can win by-election by campaigning on Carney’s climate record",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-may-optimistic-greens-can-win-by-election-by-campaigning-on-carneys/",
+      "published_date": "2026-08-02T14:46:18+00:00"
+    },
+    {
+      "title": "Lula will seek re-election in Brazil against Flávio Bolsonaro amid intense and controversial relationship with Trump",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/08/lula-buscara-su-reeleccion-en-brasil-contra-flavio-bolsonaro-en-medio-de-intensa-y-polemica-relacion-con-trump/",
+      "published_date": "2026-08-02T14:39:47+00:00"
+    },
+    {
+      "title": "Lula runs for re-election, says he doesn't want to be president of Bolsa Família and promises to fight for amendments",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-oficializado-candidato-a-reeleicao-e-tentara-4-mandato-em-novo-embate-com-cla-bolsonaro.shtml",
+      "published_date": "2026-08-02T14:06:00+00:00"
+    },
     {
       "title": "Ex-DPK leader Jung wins southeastern party-member primary in leadership race",
       "source": "Korea Times",
@@ -172,7 +256,7 @@
       "published_date": "2026-08-01T10:01:51+00:00"
     },
     {
-      "title": "Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’ - apnews.com",
+      "title": "Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’ - AP News",
       "source": "Google News World",
       "country": "United Kingdom",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkpsZ3BhUXhCSHdDUVBTQ09faGxGQV8xZmhhN3NIVm1jQXU3U1hPLWpIMnYxUVlEdzY0VkRIbEk3RUs5Tzh2dFFOY1JFYmttX1FfOWlvb0xtS1g1WGZ3TzRoQTZIbzlaVmlOcHUzeEprUDk2NEVPZUQ3QVdUcWpMRXVFR1NFRlZwSkxIQWo5VjdWbXBad1F0eEc1R2xPZkZJ?oc=5",
@@ -2739,83 +2823,6 @@
       "country": "United Kingdom",
       "url": "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
       "published_date": "2026-07-20T04:19:41+00:00"
-    },
-    {
-      "title": "New haredi party launches, aiming to secure spot in Knesset ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902998",
-      "published_date": "2026-07-19T21:06:44+00:00"
-    },
-    {
-      "title": "Why Tinubu lost Lagos in 2023 election – Obanikoro",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/why-tinubu-lost-lagos-in-2023-election-obanikoro/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-19T19:17:49+00:00"
-    },
-    {
-      "title": "German Chancellor Merz hints at possible cabinet reshuffle after top CDU figure resigns",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/my-europe/2026/07/19/german-chancellor-merz-hints-at-possible-cabinet-reshuffle-after-top-cdu-figure-resigns",
-      "published_date": "2026-07-19T19:11:49+00:00"
-    },
-    {
-      "title": "Didier Deschamps spoke after resigning from the France team and denounced a “suffocating atmosphere”",
-      "source": "La Nacion Argentina",
-      "country": "France",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/hablo-deschamps-tras-renunciar-a-la-seleccion-de-francia-y-denuncio-un-ambiente-asfixiante-nid19072026/",
-      "published_date": "2026-07-19T18:54:00+00:00"
-    },
-    {
-      "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss",
-      "published_date": "2026-07-19T18:29:47+00:00"
-    },
-    {
-      "title": "Amit Shah inaugurates India’s first immersive language museum in Kolkata",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-inaugurates-indias-first-immersive-language-museum-in-kolkata/article71241179.ece",
-      "published_date": "2026-07-19T16:21:08+00:00"
-    },
-    {
-      "title": "AfD in Saxony-Anhalt: The others have to do the election campaign",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-wahlkampfauftakt-in-sachsen-anhalt-widersprueche-fuerchtet-sie-nicht-201044790.html",
-      "published_date": "2026-07-19T14:46:27+00:00"
-    },
-    {
-      "title": "AfD in Saxony-Anhalt: The others have to do the election campaign",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/warum-die-afd-in-sachsen-anhalt-kaum-noch-wahlkampf-braucht-201044790.html",
-      "published_date": "2026-07-19T14:46:27+00:00"
-    },
-    {
-      "title": "AfD in Saxony-Anhalt: The others have to do the election campaign",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/warum-die-afd-in-sachsen-anhalt-kaum-noch-wahlkampf-braucht-201044790.html",
-      "published_date": "2026-07-19T14:46:27+00:00"
-    },
-    {
-      "title": "After Spahn's resignation: How is Merz rebuilding his team now?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/ruecktritt-von-jens-spahn-wie-baut-merz-jetzt-seine-mannschaft-um-accg-201044084.html",
-      "published_date": "2026-07-19T14:41:32+00:00"
-    },
-    {
-      "title": "'Start packing': Ben Gvir vows to fire A-G as she restricts government power ahead of election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902948",
-      "published_date": "2026-07-19T13:24:39+00:00"
     }
   ]
 }
