@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-02T23:56:21.491823+00:00",
-    "story_count": 395,
+    "last_updated": "2026-08-03T13:44:29.597921+00:00",
+    "story_count": 391,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Exiled Palestinian official walks back Jared Kushner ceasefire claim as Israeli strikes hit Gaza",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-904441",
+      "published_date": "2026-08-03T14:17:51+00:00"
+    },
+    {
+      "title": "Abelardo De La Espriella today, August 3: president-elect indicated that he will increase Colombia Mayor's subsidy to 400,000 pesos per month",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-3-de-agosto-presidente-electo-nombra-a-los-18-ministros-que-conformaran-su-gabinete-nueve-son-hombres-y-nueve-mujeres-3575719",
+      "published_date": "2026-08-03T13:30:00+00:00"
+    },
+    {
+      "title": "2027: Nigerians, not Obasanjo, ‘ll decide election — ADC",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/2027-nigerians-not-obasanjo-ll-decide-election-adc/",
+      "published_date": "2026-08-03T13:29:30+00:00"
+    },
+    {
+      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
+      "source": "Al Jazeera English",
+      "country": "Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
+      "published_date": "2026-08-03T12:27:27+00:00"
+    },
+    {
+      "title": "Milei's main phrases about Chiqui Tapia, Cristina Kirchner, Axel Kicillof and his eventual re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/las-principales-frases-de-milei-sobre-chiqui-tapia-cristina-kirchner-axel-kicillof-y-su-eventual-nid02082026/",
+      "published_date": "2026-08-03T12:15:41+00:00"
+    },
+    {
+      "title": "Senatorial elections in Gard: on the right and on the left, unity to obstruct the RN",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-le-gard-a-droite-comme-a-gauche-l-union-pour-faire-obstacle-au-rn_6737365_823448.html",
+      "published_date": "2026-08-03T12:00:03+00:00"
+    },
+    {
+      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
+      "source": "Al Jazeera English",
+      "country": "Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+      "published_date": "2026-08-03T11:51:30+00:00"
+    },
+    {
+      "title": "President-elect, Abelardo De La Espriella, announces that his presidential inauguration will cost less than half of Gustavo Petro's in 2022",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-afirma-que-su-posesion-en-cali-sera-mas-austera-que-la-de-petro-en-2022-estos-fueron-sus-anuncios-antes-de-jurar-como-presidente-3575701",
+      "published_date": "2026-08-03T11:00:25+00:00"
+    },
+    {
+      "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
+      "source": "Meduza EN",
+      "country": "France",
+      "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
+      "published_date": "2026-08-03T10:43:05+00:00"
+    },
+    {
+      "title": "'It's going to be a very close election': Brazil's Lula launches fourth term bid",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid",
+      "published_date": "2026-08-03T09:48:53+00:00"
+    },
+    {
+      "title": "For his seventh election campaign, Brazil's president focuses on sovereignty",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty",
+      "published_date": "2026-08-03T09:43:15+00:00"
+    },
+    {
+      "title": "Brazil: the Brazilian president was inaugurated by his party and is aiming for a fourth term",
+      "source": "France 24 FR",
+      "country": "Brazil",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260803-br%C3%A9sil-le-pr%C3%A9sident-br%C3%A9silien-a-%C3%A9t%C3%A9-investi-par-son-parti-et-vise-un-quatri%C3%A8me-mandat",
+      "published_date": "2026-08-03T09:20:04+00:00"
+    },
+    {
+      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "source": "Al Jazeera English",
+      "country": "Myanmar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+      "published_date": "2026-08-03T09:05:04+00:00"
+    },
+    {
+      "title": "Convicted coup ex-president's wife is running for Brazilian elections",
+      "source": "Politiken Denmark",
+      "country": "Brazil",
+      "url": "https://politiken.dk/internationalt/art10934212/Kupd%C3%B8mt-ekspr%C3%A6sidents-hustru-stiller-op-til-brasiliansk-valg",
+      "published_date": "2026-08-03T07:38:07+00:00"
+    },
+    {
+      "title": "‘She is alive’: Myanmar’s Suu Kyi meets Red Cross official in first post-coup visit",
+      "source": "South China Morning Post",
+      "country": "Myanmar",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362767/she-alive-myanmars-suu-kyi-meets-red-cross-official-first-post-coup-visit?utm_source=rss_feed",
+      "published_date": "2026-08-03T06:59:04+00:00"
+    },
+    {
+      "title": "DeepState: Russia captured more territory than Ukraine liberated in July",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4150453-deepstate-russia-captured-more-territory-than-ukraine-liberated-in-july.html",
+      "published_date": "2026-08-03T06:23:00+00:00"
+    },
+    {
+      "title": "France is burning: the climate election campaign is canceled",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-im-klima-wahlkampf-was-macht-marine-le-pen-201081070.html",
+      "published_date": "2026-08-03T04:15:24+00:00"
+    },
+    {
+      "title": "In Brazil, Lula formalizes his candidacy for the presidential election",
+      "source": "Le Monde France",
+      "country": "Brazil",
+      "url": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html",
+      "published_date": "2026-08-03T04:00:14+00:00"
+    },
+    {
+      "title": "Bankipur, Datia election results LIVE: BJP concedes as Prashant Kishor delivers mega blow in Bankipur",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bankipur-election-result-live-updates-eci-prashant-kishor-jan-suraaj-datia-bypoll-ashutosh-tiwari-bjp-congress-manjalpur-101785718353017.html",
+      "published_date": "2026-08-03T01:37:09+00:00"
+    },
     {
       "title": "President Gustavo Petro landed at the Tolú airport for his inauguration, but the presidential plane took off a few minutes later and the event was cancelled.",
       "source": "El Tiempo Colombia",
@@ -2662,167 +2795,6 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies",
       "published_date": "2026-07-20T13:55:20+00:00"
-    },
-    {
-      "title": "Keir Starmer resigns as UK Prime minister, backs successor Andy Burnham",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/keir-starmer-resigns-as-uk-prime-minister-backs-successor-andy-burnham/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-20T13:32:19+00:00"
-    },
-    {
-      "title": "Hamas names top negotiator Khalil Al-Hayya as new leader, succeeding Yahya Sinwar",
-      "source": "The Independent UK",
-      "country": "Palestine",
-      "url": "https://www.independent.co.uk/news/world/middle-east/hamas-leader-2026-khalil-al-hayya-b3018168.html",
-      "published_date": "2026-07-20T12:58:00+00:00"
-    },
-    {
-      "title": "New PM Andy Burnham vows 10-year plan to stabilise UK",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/07/20/new-pm-andy-burnham-vows-10-year-plan-to-stabilise-uk",
-      "published_date": "2026-07-20T12:52:39+00:00"
-    },
-    {
-      "title": "UK’s new PM Andy Burnham vows to end years of instability",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3361245/uks-new-pm-andy-burnham-vows-end-years-instability?utm_source=rss_feed",
-      "published_date": "2026-07-20T12:51:11+00:00"
-    },
-    {
-      "title": "Britain’s New Prime Minister Must Stand Up to Trump",
-      "source": "Foreign Policy",
-      "country": "United Kingdom",
-      "url": "https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/",
-      "published_date": "2026-07-20T12:35:34+00:00"
-    },
-    {
-      "title": "5 things to know about Andy Burnham, the UK’s new prime minister",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/07/5-things-to-know-about-andy-burnham-the-uks-new-prime-minister/",
-      "published_date": "2026-07-20T12:31:07+00:00"
-    },
-    {
-      "title": "Hamas elects new supreme leader",
-      "source": "DR News Denmark",
-      "country": "Palestine",
-      "url": "https://www.dr.dk/nyheder/seneste/hamas-vaelger-ny-oeverste-leder",
-      "published_date": "2026-07-20T12:18:33+00:00"
-    },
-    {
-      "title": "Sinwar's successor: Khalil al-Haja becomes the new leader of Hamas",
-      "source": "FAZ Germany",
-      "country": "Palestine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/chalil-al-haja-wird-neuer-anfuehrer-der-hamas-accg-201047509.html",
-      "published_date": "2026-07-20T12:01:59+00:00"
-    },
-    {
-      "title": "Hamas says lead negotiator in Israel talks elected as group’s new leader",
-      "source": "Vanguard Nigeria",
-      "country": "Israel",
-      "url": "https://www.vanguardngr.com/2026/07/hamas-says-lead-negotiator-in-israel-talks-elected-as-groups-new-leader/",
-      "published_date": "2026-07-20T11:59:33+00:00"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new leader",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/news/hamas-names-khalil-al-hayya-new-leader",
-      "published_date": "2026-07-20T11:58:47+00:00"
-    },
-    {
-      "title": "President Murmu arrives in Moldova; first by any Indian head of State",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/president-murmu-arrives-in-moldovafirst-by-any-indian-head-of-state/article71244420.ece",
-      "published_date": "2026-07-20T11:53:31+00:00"
-    },
-    {
-      "title": "🔴 United Kingdom: follow the speech of new Prime Minister Andy Burnham live",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/europe/20260720-royaume-uni-andy-burnham-succ%C3%A8de-%C3%A0-keir-starmer-au-poste-de-premier-ministre",
-      "published_date": "2026-07-20T11:48:10+00:00"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's new prime minister",
-      "source": "Deutsche Welle English",
-      "country": "United Kingdom",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-20T11:37:00+00:00"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "published_date": "2026-07-20T11:27:04+00:00"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new leader",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-names-khalil-al-hayyah-new-leader",
-      "published_date": "2026-07-20T11:12:18+00:00"
-    },
-    {
-      "title": "The “King of the North” to Downing Street: Andy Burnham's challenges as the new Prime Minister of the United Kingdom",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/el-rey-del-norte-a-downing-street-los-desafios-de-andy-burnham-como-nuevo-primer-ministro-de-reino-unido/",
-      "published_date": "2026-07-20T11:00:00+00:00"
-    },
-    {
-      "title": "Turkey marks a decade since the coup that never was, but never really ended",
-      "source": "RFI English",
-      "country": "Turkey",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260720-turkey-marks-a-decade-since-the-coup-that-never-was-but-never-really-ended",
-      "published_date": "2026-07-20T10:40:54+00:00"
-    },
-    {
-      "title": "China and US still in contact on Xi summit trip despite Trump’s election claims",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361215/china-us-talks-ahead-xi-jinpings-planned-september-visit-maintained-beijing?utm_source=rss_feed",
-      "published_date": "2026-07-20T09:39:28+00:00"
-    },
-    {
-      "title": "TNLA, Myanmar junta hold talks in Naypyitaw amid China-backed peace efforts",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/tnla-myanmar-junta-hold-talks-in-naypyitaw-amid-china-backed-peace-efforts/",
-      "published_date": "2026-07-20T09:30:55+00:00"
-    },
-    {
-      "title": "Kostiantynivka not captured: Skelia Regiment responds to video of captured soldiers shown under the Russian tricolor",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4146041-kostiantynivka-not-captured-skelia-regiment-responds-to-video-of-captured-soldiers-shown-under-the-russian-tricolor.html",
-      "published_date": "2026-07-20T08:17:00+00:00"
-    },
-    {
-      "title": "Elections in Russia: There is no end in sight for Putin's regime",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/vor-der-wahl-ist-putins-regime-in-schwierigkeiten-201025701.html",
-      "published_date": "2026-07-20T08:03:17+00:00"
-    },
-    {
-      "title": "Myanmar junta says it has retaken Thantlang, near Chin State’s border with India",
-      "source": "Myanmar Now",
-      "country": "India",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-it-has-retaken-thantlang-near-chin-states-border-with-india/",
-      "published_date": "2026-07-20T07:50:25+00:00"
-    },
-    {
-      "title": "“I’m ready, I have a plan”: the coronation of Andy Burnham, the “King of the North” new Prime Minister of the United Kingdom",
-      "source": "Le Figaro France",
-      "country": "United Kingdom",
-      "url": "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
-      "published_date": "2026-07-20T04:19:41+00:00"
     }
   ]
 }
