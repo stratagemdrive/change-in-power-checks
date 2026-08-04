@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-03T13:44:29.597921+00:00",
-    "story_count": 391,
+    "last_updated": "2026-08-04T00:05:07.681895+00:00",
+    "story_count": 381,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,74 @@
   },
   "stories": [
     {
+      "title": "Hamás condiciona su desarme a la retirada oficial de Israel y exige aclaraciones a la Junta de Paz",
+      "source": "El Nacional Venezuela",
+      "country": "Israel",
+      "url": "https://www.elnacional.com/2026/08/hamas-condiciona-su-desarme-a-la-retirada-oficial-de-israel-y-exige-aclaraciones-a-la-junta-de-paz/",
+      "published_date": "2026-08-03T23:53:38+00:00"
+    },
+    {
+      "title": "“This is my own decision”: Stefanishyna on her resignation as Ukraine’s ambassador to U.S.",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4150784-this-is-my-own-decision-stefanishyna-on-her-resignation-as-ukraines-ambassador-to-us.html",
+      "published_date": "2026-08-03T19:59:00+00:00"
+    },
+    {
+      "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
+      "published_date": "2026-08-03T18:45:20+00:00"
+    },
+    {
+      "title": "Osun Election: Don’t allow a repeat of 1983 crisis – Adeleke warns Tinubu",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-dont-allow-a-repeat-of-1983-crisis-adeleke-warns-tinubu/",
+      "published_date": "2026-08-03T18:33:04+00:00"
+    },
+    {
+      "title": "Can Netanyahu survive Israel’s most consequential election?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+      "published_date": "2026-08-03T18:16:00+00:00"
+    },
+    {
+      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
+      "published_date": "2026-08-03T15:49:50+00:00"
+    },
+    {
+      "title": "2 losses, 1 win: BJP election scorecard days after Gen Z delivered a setback to Modi govt",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/its-two-losses-one-win-for-bjp-in-bypolls-days-after-jantar-mantar-setback-cjp-protests-prashant-kishor-bankipur-101785766069216.html",
+      "published_date": "2026-08-03T15:31:36+00:00"
+    },
+    {
+      "title": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
+      "source": "France 24 English",
+      "country": "Myanmar",
+      "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
+      "published_date": "2026-08-03T14:56:22+00:00"
+    },
+    {
       "title": "Exiled Palestinian official walks back Jared Kushner ceasefire claim as Israeli strikes hit Gaza",
       "source": "Jerusalem Post",
       "country": "Palestine",
       "url": "https://www.jpost.com/middle-east/article-904441",
       "published_date": "2026-08-03T14:17:51+00:00"
+    },
+    {
+      "title": "Trump election claims debunked, US critical minerals fears: 7 US-China relations reads",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
+      "published_date": "2026-08-03T14:00:10+00:00"
     },
     {
       "title": "Abelardo De La Espriella today, August 3: president-elect indicated that he will increase Colombia Mayor's subsidy to 400,000 pesos per month",
@@ -95,7 +158,7 @@
       "published_date": "2026-08-03T12:15:41+00:00"
     },
     {
-      "title": "Senatorial elections in Gard: on the right and on the left, unity to obstruct the RN",
+      "title": "Elections sénatoriales dans le Gard : à droite comme à gauche, l’union pour faire obstacle au RN",
       "source": "Le Monde France",
       "country": "France",
       "url": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-le-gard-a-droite-comme-a-gauche-l-union-pour-faire-obstacle-au-rn_6737365_823448.html",
@@ -118,7 +181,7 @@
     {
       "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
       "source": "Meduza EN",
-      "country": "France",
+      "country": "Russia",
       "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
       "published_date": "2026-08-03T10:43:05+00:00"
     },
@@ -2662,139 +2725,6 @@
       "country": "United Kingdom",
       "url": "https://indianexpress.com/article/explained/explained-global/king-of-the-north-to-the-uks-new-pm-the-rise-of-andy-burnham-10795832/",
       "published_date": "2026-07-21T02:00:30+00:00"
-    },
-    {
-      "title": "Team of the elected president of Colombia denounces a plan by armed groups to attack him",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/07/equipo-del-presidente-electo-de-colombia-denuncia-plan-de-grupos-armados-para-atentar-en-su-contra/",
-      "published_date": "2026-07-20T23:12:24+00:00"
-    },
-    {
-      "title": "Colombia: the president-elect claims to be the target of an attack",
-      "source": "Le Figaro France",
-      "country": "Colombia",
-      "url": "https://www.lefigaro.fr/international/colombie-le-president-elu-assure-etre-la-cible-d-un-attentat-20260721",
-      "published_date": "2026-07-20T22:28:24+00:00"
-    },
-    {
-      "title": "The presidents who will attend the inauguration of Keiko Fujimori in Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/los-presidentes-que-asistiran-a-la-toma-de-posesion-de-keiko-fujimori-en-peru/",
-      "published_date": "2026-07-20T22:06:40+00:00"
-    },
-    {
-      "title": "Zelensky reviews 11 candidates to replace Ukraine’s commander-in-chief Oleksandr Syrsky, Bloomberg reports",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/21/zelensky-reviews-11-candidates-to-replace-ukraine-s-commander-in-chief-oleksandr-syrsky-bloomberg-reports",
-      "published_date": "2026-07-20T21:15:42+00:00"
-    },
-    {
-      "title": "Zelensky reviews 11 candidates to replace Ukraine’s commander-in-chief Oleksandr Syrsky, Bloomberg reports - Meduza",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOTdnVnNkN0VnMVpvZnV0Z0ZqV0pFaUpSYVhMMmJyYjdlWm9BVGYxS3cwSHNMRjBDVEwyRDJYaVAwaUlrMzVoaHo0QWZFdzVYX3l5elN2ZnBSV0VoOXY3U2FxbGFVMHQzUTZVa1l0LUFMTThINV9famV5Qk1pTUFSb2dVWEZCZkdUazMxcFYxLUJ2UU5vd2xTLUZydFNRcnlfUy0xU3R4TGkzSE0tVDRod2NvS2JQbkZxQTdxYWE4YWVJMDNlRzFSc0lxWGdmM0tHTndtMk1IWjBrUdIB3wFBVV95cUxQdW5jVEdVOFBEZnVlVHk5T1U3UXh5RzZweFpUelNheUluNHZWWjhxdjdmakxueHdCWWRMOUdjbXk4Zlk4cXpISzBzOUFKRnlyNDd1bUNmWklmd0dHMmI3V1l3YUhtWUZGRU9Gd3RKb0FLamtrTlNFM2ZKUEI2MEl0ZWVjZDJIc3JHWTc0NmtaRHBFOEl3RVpZWHBpeDIxeVBQMDBNY29qU3VWb1pDQTV4bmVVWTFhei1sMDhzc2ZlMEdyNThQVC1ndFYzWDRROVljTG1BeFRHTHRyZ3llX0Jv?oc=5",
-      "published_date": "2026-07-20T21:15:00+00:00"
-    },
-    {
-      "title": "In Israel, Benjamin Netanyahu undermines the foundations of the rule of law before the elections",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/en-israel-benyamin-netanyahou-sape-les-bases-de-l-etat-de-droit-avant-les-elections-20260720",
-      "published_date": "2026-07-20T21:09:13+00:00"
-    },
-    {
-      "title": "Gaza residents weigh in on election of new Hamas leader",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-      "published_date": "2026-07-20T20:53:29+00:00"
-    },
-    {
-      "title": "How will Zelenskyy handle the growing political crisis at home?",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "published_date": "2026-07-20T20:50:31+00:00"
-    },
-    {
-      "title": "Senator Bernie Moreno proposes holding presidential elections in Venezuela on July 24, 2027",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/senador-bernie-moreno-propone-celebrar-elecciones-presidenciales-en-venezuela-el-24-de-julio-de-2027/",
-      "published_date": "2026-07-20T20:20:38+00:00"
-    },
-    {
-      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-      "published_date": "2026-07-20T19:43:02+00:00"
-    },
-    {
-      "title": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister?utm_source=rss_feed",
-      "published_date": "2026-07-20T19:09:19+00:00"
-    },
-    {
-      "title": "Spahn's successor: Where are the tough guys in the CDU now?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/spahns-nachfolge-wo-sind-jetzt-die-harten-typen-in-der-cdu-201047260.html",
-      "published_date": "2026-07-20T18:46:34+00:00"
-    },
-    {
-      "title": "Ukraine: High-risk reshuffle?",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260720-ukraine-remaniement-%C3%A0-haut-risque",
-      "published_date": "2026-07-20T18:10:11+00:00"
-    },
-    {
-      "title": "Destitution and economic recovery: the promises of Andy Burnham's inauguration speech as British Prime Minister",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/indigencia-y-reactivacion-economica-las-promesas-del-discurso-de-asuncion-de-andy-burnham-como-primer-ministro-britanico/",
-      "published_date": "2026-07-20T17:30:00+00:00"
-    },
-    {
-      "title": "Who is Andy Burnham, the “king of the north” elected as prime minister of the United Kingdom",
-      "source": "El Nacional Venezuela",
-      "country": "United Kingdom",
-      "url": "https://www.elnacional.com/2026/07/quien-es-andy-burnham-el-rey-del-norte-elegido-como-primer-ministro-de-reino-unido/",
-      "published_date": "2026-07-20T16:01:28+00:00"
-    },
-    {
-      "title": "State Duma Expected to Vote on Updated Bill Cutting Off Exiled Critics From Banking and Property Services, Report Says",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/20/state-duma-expected-to-vote-on-updated-bill-cutting-off-exiled-critics-from-banking-and-property-services-report-says-a93292",
-      "published_date": "2026-07-20T14:59:49+00:00"
-    },
-    {
-      "title": "Democrats announce Knesset slate ahead of elections, MK Lazimi takes second spot after Golan",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-903068",
-      "published_date": "2026-07-20T14:11:46+00:00"
-    },
-    {
-      "title": "Who is Khalil al-Hayya, Hamas’s new leader?",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader",
-      "published_date": "2026-07-20T14:05:17+00:00"
-    },
-    {
-      "title": "After getting a new PM, the UK waits for his government and first policies",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies",
-      "published_date": "2026-07-20T13:55:20+00:00"
     }
   ]
 }
