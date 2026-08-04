@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-04T00:05:07.681895+00:00",
-    "story_count": 381,
+    "last_updated": "2026-08-04T13:05:01.970601+00:00",
+    "story_count": 379,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,74 @@
   },
   "stories": [
     {
+      "title": "Iranian leadership would accept if Pezeshkian resigned again, relative of Khamenei claims - report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-904539",
+      "published_date": "2026-08-04T13:23:08+00:00"
+    },
+    {
+      "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
+      "published_date": "2026-08-04T12:21:05+00:00"
+    },
+    {
+      "title": "Chin resistance group dismisses chairman over unauthorised talks with Myanmar junta",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/chin-resistance-group-dismisses-chairman-over-unauthorised-talks-with-myanmar-junta/",
+      "published_date": "2026-08-04T09:02:26+00:00"
+    },
+    {
+      "title": "Bangladesh asks India to clarify stance on ousted PM Hasina's planned speech in New Delhi",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2020541/bangladesh-asks-india-to-clarify-stance-on-ousted-pm-hasinas-planned-speech-in-new-delhi",
+      "published_date": "2026-08-04T07:42:14+00:00"
+    },
+    {
+      "title": "Modi’s party loses key India by-election in wake of protests",
+      "source": "Japan Times",
+      "country": "India",
+      "url": "https://www.japantimes.co.jp/news/2026/08/04/asia-pacific/politics/modi-india-by-election-protests/",
+      "published_date": "2026-08-04T06:58:00+00:00"
+    },
+    {
+      "title": "Myanmar junta chief set for first Thailand visit as self-appointed president",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-set-for-first-thailand-visit-as-self-appointed-president/",
+      "published_date": "2026-08-04T05:51:46+00:00"
+    },
+    {
+      "title": "Over 180 Russian disinformation posts uncovered ahead of German elections – DW",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4150658-over-180-russian-disinformation-posts-uncovered-ahead-of-german-elections-dw.html",
+      "published_date": "2026-08-04T01:33:00+00:00"
+    },
+    {
+      "title": "Airlines report 352 major flight defects till June, Akasa and Air India top list",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/airlines-report-352-major-flight-defects-till-june-akasa-and-air-india-top-list-101785804510467.html",
+      "published_date": "2026-08-04T00:59:20+00:00"
+    },
+    {
       "title": "Hamás condiciona su desarme a la retirada oficial de Israel y exige aclaraciones a la Junta de Paz",
       "source": "El Nacional Venezuela",
       "country": "Israel",
       "url": "https://www.elnacional.com/2026/08/hamas-condiciona-su-desarme-a-la-retirada-oficial-de-israel-y-exige-aclaraciones-a-la-junta-de-paz/",
       "published_date": "2026-08-03T23:53:38+00:00"
+    },
+    {
+      "title": "Republicans tell Flávio Bolsonaro that the party does not want an alliance and will remain neutral in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml",
+      "published_date": "2026-08-03T21:41:00+00:00"
     },
     {
       "title": "“This is my own decision”: Stefanishyna on her resignation as Ukraine’s ambassador to U.S.",
@@ -107,6 +170,20 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/its-two-losses-one-win-for-bjp-in-bypolls-days-after-jantar-mantar-setback-cjp-protests-prashant-kishor-bankipur-101785766069216.html",
       "published_date": "2026-08-03T15:31:36+00:00"
+    },
+    {
+      "title": "Academy of Political Sciences maintains that Delcy Rodríguez's interim government cannot withdraw Venezuela from the Rome Statute",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/academia-de-ciencias-politicas-sostiene-que-gobierno-interino-de-delcy-rodriguez-no-puede-retirar-a-venezuela-del-estatuto-de-roma/",
+      "published_date": "2026-08-03T15:22:34+00:00"
+    },
+    {
+      "title": "Lula sees difficulty in expanding the electorate, and PT fears 2nd round in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-ve-dificuldade-para-ampliar-eleitorado-e-pt-teme-2o-turno-na-eleicao.shtml",
+      "published_date": "2026-08-03T15:03:00+00:00"
     },
     {
       "title": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
@@ -177,6 +254,13 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-afirma-que-su-posesion-en-cali-sera-mas-austera-que-la-de-petro-en-2022-estos-fueron-sus-anuncios-antes-de-jurar-como-presidente-3575701",
       "published_date": "2026-08-03T11:00:25+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro closes in on Lula in Nexus/BTG poll for Brazil election - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJrRmJXYTNvdjNmT3FFVkJLQWp4d09SSmtEVGdtN19xU0dqTnF1RlE5UUxsNkltMGlPR0d1U0c1cVZodW5BMEp1VTAyTkRlNGQ4VmkyR3htdEE0Y3YyMVQ0WVBrd2tUbEhtTldVTEl4REpqc2VFTWdiRjlwaWVJQl8zN0R2TE1zUzdtNHpWS3gyelJ2MHY2QllES3BFclhQX2pLZEdWN0FhNHFVV2c?oc=5",
+      "published_date": "2026-08-03T10:57:59+00:00"
     },
     {
       "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
@@ -2627,104 +2711,6 @@
       "country": "India",
       "url": "https://indianexpress.com/article/world/satchidananda-panda-salk-institute-resignation-sexual-misconduct-allegations-10796977/",
       "published_date": "2026-07-21T13:42:08+00:00"
-    },
-    {
-      "title": "Germany live blog: Merz wants to “take some time” with a proposal for Spahn’s successor",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-will-zeitnah-spahn-nachfolger-vorschlagen-faz-110093143.html",
-      "published_date": "2026-07-21T12:55:26+00:00"
-    },
-    {
-      "title": "Yabloko Candidates Disqualified in St. Petersburg Elections Over Missing Paperwork",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/21/yabloko-candidates-disqualified-in-st-petersburg-elections-over-missing-paperwork-a93299",
-      "published_date": "2026-07-21T12:40:15+00:00"
-    },
-    {
-      "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
-      "published_date": "2026-07-21T12:02:13+00:00"
-    },
-    {
-      "title": "Russia begins widespread freezing of bank accounts belonging to exiled cultural figures",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/07/21/russia-begins-widespread-freezing-of-bank-accounts-belonging-to-exiled-cultural-figures",
-      "published_date": "2026-07-21T12:01:45+00:00"
-    },
-    {
-      "title": "At national convention, PDT officially supports Lula in the elections",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/em-convencao-nacional-pdt-oficializa-apoio-lula-nas-eleicoes",
-      "published_date": "2026-07-21T11:57:00+00:00"
-    },
-    {
-      "title": "Iran's president says communication with the supreme leader is increasing, state media reports",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-says-communication-supreme-leader-increasing-state-media",
-      "published_date": "2026-07-21T11:34:39+00:00"
-    },
-    {
-      "title": "Former President Álvaro Uribe congratulated Honorio Henríquez after being elected president of the Senate: 'It will do good for Colombia'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/congreso/expresidente-alvaro-uribe-felicito-a-honorio-henriquez-tras-ser-elegido-como-presidente-del-senado-le-hara-bien-a-colombia-3572571",
-      "published_date": "2026-07-21T11:32:11+00:00"
-    },
-    {
-      "title": "Hamas’s new leader must bridge a movement divided over Iran",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
-      "published_date": "2026-07-21T11:24:05+00:00"
-    },
-    {
-      "title": "The UK gets a new government as its prime minister vows to be a 'circuit-breaker'",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/video/20260721-the-uk-gets-a-new-government-as-its-prime-minister-vows-to-be-a-circuit-breaker",
-      "published_date": "2026-07-21T09:35:19+00:00"
-    },
-    {
-      "title": "Listed as Flávio's vice president, she uses tariffs to ask for Lula's impeachment",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/cotada-para-vice-de-flavio-usa-tarifaco-para-pedir-impeachment-de-lula.shtml",
-      "published_date": "2026-07-21T09:00:00+00:00"
-    },
-    {
-      "title": "Israel’s far-right openly boasts of resettling Gaza as election looms",
-      "source": "Egypt Independent",
-      "country": "Israel",
-      "url": "https://www.egyptindependent.com/israels-far-right-openly-boasts-of-resettling-gaza-as-election-looms/",
-      "published_date": "2026-07-21T08:39:47+00:00"
-    },
-    {
-      "title": "'We won't stop': India's 'Cockroach' movement vows to protest until education minister resigns",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2017219/we-wont-stop-indias-cockroach-movement-vows-to-protest-until-education-minister-resigns",
-      "published_date": "2026-07-21T06:11:07+00:00"
-    },
-    {
-      "title": "UK Prime Minister Andy Burnham unveils new government, replacing Starmer era",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260721-uk-prime-minister-andy-burnham-unveils-new-government-replacing-starmer-era",
-      "published_date": "2026-07-21T03:21:53+00:00"
-    },
-    {
-      "title": "‘King of the North’ to the UK’s new PM: The rise of Andy Burnham",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/explained/explained-global/king-of-the-north-to-the-uks-new-pm-the-rise-of-andy-burnham-10795832/",
-      "published_date": "2026-07-21T02:00:30+00:00"
     }
   ]
 }
