@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-05T00:01:21.284684+00:00",
-    "story_count": 358,
+    "last_updated": "2026-08-05T12:55:02.115636+00:00",
+    "story_count": 353,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "IDF to deploy voting stations behind enemy lines in Lebanon, Syria, Gaza ahead of October election",
+      "source": "Jerusalem Post",
+      "country": "Syria",
+      "url": "https://www.jpost.com/israel-election-2026/article-904658",
+      "published_date": "2026-08-05T13:33:43+00:00"
+    },
+    {
+      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid04082026/",
+      "published_date": "2026-08-05T12:39:03+00:00"
+    },
+    {
+      "title": "Defense Forces refute Russian claims of “capturing” Ryzhivka in Sumy region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4151342-defense-forces-refute-russian-claims-of-capturing-ryzhivka-in-sumy-region.html",
+      "published_date": "2026-08-05T11:45:00+00:00"
+    },
+    {
+      "title": "Election campaign in Brazil: Trump and his father are no help",
+      "source": "FAZ Germany",
+      "country": "Brazil",
+      "url": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-trump-und-sein-vater-sind-ihm-keine-hilfe-accg-201095953.html",
+      "published_date": "2026-08-05T11:06:16+00:00"
+    },
+    {
+      "title": "US Senate demands the beginning of the political transition and free elections in Venezuela",
+      "source": "CiberCuba",
+      "country": "Venezuela",
+      "url": "https://www.cibercuba.com/noticias/2026-08-05-u1-e207888-s27061-nid337068-senado-eeuu-exige-comienzo-transicion-politica",
+      "published_date": "2026-08-05T10:49:11+00:00"
+    },
+    {
+      "title": "Wa delegation holds talks with Myanmar junta as analysts see possible political concessions",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/wa-delegation-holds-talks-with-myanmar-junta-as-analysts-see-possible-political-concessions/",
+      "published_date": "2026-08-05T10:41:02+00:00"
+    },
+    {
+      "title": "AJK elections: PML-N, PPP secure one seat each following delayed polls in Muzaffarabad constituencies",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies",
+      "published_date": "2026-08-05T10:12:37+00:00"
+    },
+    {
+      "title": "Fighting intensifies as Myanmar junta pushes into former DKBA territory near Myawaddy",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/fighting-intensifies-as-myanmar-junta-pushes-into-former-dkba-territory-near-myawaddy/",
+      "published_date": "2026-08-05T08:04:07+00:00"
+    },
+    {
+      "title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/08/05/world/politics/lula-trump-milei-election-meddling/",
+      "published_date": "2026-08-05T06:07:00+00:00"
+    },
+    {
+      "title": "Kremlin critic leaves Moscow for Paris after ban from running for election",
+      "source": "RFI English",
+      "country": "Russia",
+      "url": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
+      "published_date": "2026-08-05T06:06:02+00:00"
+    },
+    {
+      "title": "US senators present bipartisan resolution to demand free elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/senadores-de-ee-uu-presentan-resolucion-bipartidista-para-exigir-elecciones-libres-en-venezuela/",
+      "published_date": "2026-08-05T00:09:57+00:00"
+    },
     {
       "title": "Miguel Ángel Broda: “The re-election of President Milei depends on the rest of the economy growing 2%”",
       "source": "La Nacion Argentina",
@@ -88,6 +165,13 @@
       "published_date": "2026-08-04T18:08:08+00:00"
     },
     {
+      "title": "La Moneda corrige reforma antidrogas e incluye al Presidente de la República, a jueces, contralor, policías y FF.AA.",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/incluye-al-presidente-gobierno-ingresa-a-la-camara-reforma-para-cesacion-del-cargo-de-autoridades-por-consumo-de-drogas/",
+      "published_date": "2026-08-04T17:20:12+00:00"
+    },
+    {
       "title": "Jim Jarrassé's editorial: \"Presidential election 2027, the twelve works of Marine Le Pen\"",
       "source": "Le Figaro France",
       "country": "France",
@@ -107,6 +191,20 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/08/04/putin-signs-law-targeting-exiled-russians-convicted-in-absentia-a93414",
       "published_date": "2026-08-04T15:14:00+00:00"
+    },
+    {
+      "title": "Putin Signs Law Targeting Exiled Russians Convicted in Absentia - themoscowtimes.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVBvaUVseHpFMnltQkYyVFZrWTZyWTJkWlVzMXI4dnF0dkFYUUlIVUp0TUNicEhkOXV2dUVIeF8tcVFQU0trQ195N09yMjR5bEVIMlBmejZaYlBxQ3RPV2RiOHhzX3B5MXJLX1BsMTUyRV9FSGdQRGpIcHZhUEQ3clJlSFkxcXEzYmt0Nms2UzNmR0YzLWxnTnRTT1o4SUJiZ1prVzlNUjdGOWZwVW1icHdB?oc=5",
+      "published_date": "2026-08-04T15:14:00+00:00"
+    },
+    {
+      "title": "Ukraine becomes fault line in Italy’s next election - politico.eu",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0xqTTVYTFlIcEMzeWwzNWhqTWlsQ01ZTEozNnE0SXdMa0dxOGRBTWd5RXdWS2RNYWNjWUMtRTBVaUJ4OElLQ255WGpqRl9iN1R3emVhOE9DRFhYalBhNWVCdFh0U2dYXzNlOUlaYzE3d3ZxZkRTUVJKaTFtOE5CX0hNMDFXQQ?oc=5",
+      "published_date": "2026-08-04T14:50:00+00:00"
     },
     {
       "title": "Iranian leadership would accept if Pezeshkian resigned again, relative of Khamenei claims - report",
@@ -2431,139 +2529,6 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
       "published_date": "2026-07-22T13:13:00+00:00"
-    },
-    {
-      "title": "French environment minister convinced to stay on after announcing resignation",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/07/22/french-environment-minister-convinced-to-stay-on-after-announcing-resignation",
-      "published_date": "2026-07-22T12:42:33+00:00"
-    },
-    {
-      "title": "Armenian opposition leader Narek Karapetyan stripped of immunity and placed under investigation",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-opposition-leader-narek-karapetyan-stripped-of-immunity-and-placed-under-investigation/",
-      "published_date": "2026-07-22T12:11:42+00:00"
-    },
-    {
-      "title": "“Urgency to act”: the resigning Minister of Ecology, Monique Barbut, ultimately remains in post “at the request” of Emmanuel Macron",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
-      "published_date": "2026-07-22T10:51:56+00:00"
-    },
-    {
-      "title": "Amid NDA buzz, Sharad Pawar meets PM Modi, flags Maharashtra farm crisis",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/mumbai/amid-nda-buzz-sharad-pawar-meets-pm-modi-flags-maharashtra-farm-crisis-10798345/",
-      "published_date": "2026-07-22T10:38:20+00:00"
-    },
-    {
-      "title": "France: the Minister of Ecology who disagrees with the agricultural law resigns",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-france-la-ministre-de-l-%C3%A9cologie-en-d%C3%A9saccord-avec-la-loi-agricole-d%C3%A9missionne",
-      "published_date": "2026-07-22T09:30:25+00:00"
-    },
-    {
-      "title": "Ukraine: under pressure, Zelensky dismisses the commander-in-chief of his army",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-ukraine-sous-pression-zelensky-limoge-le-commandant-en-chef-de-son-arm%C3%A9e",
-      "published_date": "2026-07-22T09:05:15+00:00"
-    },
-    {
-      "title": "Britain's new prime minister must solve the old riddle of how to reinvigorate a slow-growing economy - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTZlU0xDNVNBOVRuQWFYanJ2RlBNdnVQeHJKTXZVQWVka2Y1N3pXWUJYbjJCU2wzUkJsQnREOFBYbW9ncTBtVzhPN0lkb1RsVTJyOEN4b3Q3WkVxRXlubVY1aVI1QVlpdzM4bk9RV3JyQ0l6Q09aZmNuZm1WVVV6WkdfWEZmVFBLd0xTNURTa0w?oc=5",
-      "published_date": "2026-07-22T07:45:00+00:00"
-    },
-    {
-      "title": "Zelensky appoints Mykhailo Drapatyi as Ukraine’s new commander-in-chief, dismissing Oleksandr Syrskyi",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/07/22/zelensky-appoints-mykhailo-drapatyi-as-ukraine-s-new-commander-in-chief-dismissing-oleksandr-syrskyi",
-      "published_date": "2026-07-22T07:35:36+00:00"
-    },
-    {
-      "title": "India opposition leader Gandhi freed after detention at student-led protest",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest?traffic_source=rss",
-      "published_date": "2026-07-22T07:20:38+00:00"
-    },
-    {
-      "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle - CNBC",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGxsd2h5Q0ZNaTdjRkEySXFOOTNWSWpNNm14NkFqRVEwSWRXWl94czRHQk9Oem1RRy01TFp4d0pFVkgyZjBldmdpV1JPOWdZZU5FSDZQTDNZSWpZc2RBbHlBR1FMMk1PS2V2OGxLOHVtY2E5cmRHdTgxakFXNWR5bUppVnBwOGfSAYwBQVVfeXFMTmE5UGM3OGJneVhINk9RYkVxNS1hYWpESkVEcW5JdlNzbVlrbUpXUGlMVGRjY0Q2clljZVhDQ3lYSTFZdzI2ZEdJaUkzWndqQVBscWk0TWxnaG5CdzFESDJhZjlmc0h5eDBydmt0WHk5cWRlSGYxQ2JYMWVDSExFelJOWGNHWWRzUlVpSmE?oc=5",
-      "published_date": "2026-07-22T06:41:15+00:00"
-    },
-    {
-      "title": "Syrskyi sums up his work as Commander-in-Chief of Armed Forces of Ukraine: I hand over army on offensive",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4146710-syrskyi-sums-up-his-work-as-commanderinchief-of-armed-forces-of-ukraine-i-hand-over-army-on-offensive.html",
-      "published_date": "2026-07-22T06:39:00+00:00"
-    },
-    {
-      "title": "Parliament session highlights: ‘Happy to take more punches,’ says Rahul Gandhi after detention outside PM's residence",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-live-updates-opposition-congress-rahul-gandhi-lok-sabha-rajya-sabha-modi-cjp-protest-news-101784699885662.html",
-      "published_date": "2026-07-22T06:21:56+00:00"
-    },
-    {
-      "title": "Israel election: Who is Gadi Eisenkot, the retired general challenging Netanyahu?",
-      "source": "Indian Express",
-      "country": "Israel",
-      "url": "https://indianexpress.com/article/explained/explained-global/israel-election-2026-netanyahu-eisenkot-10797833/",
-      "published_date": "2026-07-22T06:13:42+00:00"
-    },
-    {
-      "title": "Japan’s imperial succession and the invention of tradition",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/commentary/2026/07/22/japan/japan-new-imperial-house-law/",
-      "published_date": "2026-07-22T05:49:00+00:00"
-    },
-    {
-      "title": "Parliament Monsoon Session 2026 Day 3 Live Updates: ‘No discussion till Dharmendra Pradhan resigns’, says LoP Kharge in Rajya Sabha",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/parliament-monsoon-session-2026-day-3-live-updates-lok-rajya-sabha-delhi-protest-dharmendra-pradhan-narebdra-modi-congress-10797698/",
-      "published_date": "2026-07-22T05:28:41+00:00"
-    },
-    {
-      "title": "Head of Indonesia’s troubled free meals agency resigns, citing health and stress",
-      "source": "South China Morning Post",
-      "country": "Indonesia",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3361427/head-indonesias-troubled-free-meals-agency-resigns-citing-health-and-stress?utm_source=rss_feed",
-      "published_date": "2026-07-22T05:15:21+00:00"
-    },
-    {
-      "title": "LIVE, war in Ukraine: Volodymyr Zelensky announces a reshuffle at the head of the Ukrainian army after several days of protests",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
-      "published_date": "2026-07-22T04:51:06+00:00"
-    },
-    {
-      "title": "Andrés Idárraga, Secretary of Transparency of the Presidency, presented his 'irrevocable' resignation to the outgoing president Gustavo Petro",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/andres-idarraga-secretario-de-transparencia-de-la-presidencia-presento-renuncia-irrevocable-a-su-cargo-al-presidente-saliente-gustavo-petro-3572871",
-      "published_date": "2026-07-22T03:55:00+00:00"
-    },
-    {
-      "title": "Zelensky names new commander-in-chief of Ukraine's military in major shakeup of military leadership",
-      "source": "Jerusalem Post",
-      "country": "Ukraine",
-      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-903242",
-      "published_date": "2026-07-22T00:59:36+00:00"
     }
   ]
 }
