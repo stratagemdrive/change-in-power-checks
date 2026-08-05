@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-05T12:55:02.115636+00:00",
-    "story_count": 353,
+    "last_updated": "2026-08-05T23:57:59.446771+00:00",
+    "story_count": 343,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran's president says interaction with supreme leader is currently 'very difficult'",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-904704",
+      "published_date": "2026-08-05T22:01:56+00:00"
+    },
+    {
+      "title": "‘Interaction’ with Iran’s supreme leader very difficult, president admits",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-khamenei-alive-president-b3028258.html",
+      "published_date": "2026-08-05T21:42:11+00:00"
+    },
+    {
+      "title": "Communication with Iran's Supreme Leader 'very difficult at the moment,' says Iranian president",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/08/05/la-communication-avec-le-guide-supreme-iranien-est-tres-difficile-en-ce-moment-affirme-le-president-iranien_6739465_3210.html",
+      "published_date": "2026-08-05T20:11:08+00:00"
+    },
+    {
+      "title": "Ex-French PM Attal targeted by Russian 'interference' ahead of 2027 vote",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260805-ex-french-pm-attal-targeted-by-russian-interference-ahead-of-2027-vote",
+      "published_date": "2026-08-05T18:55:38+00:00"
+    },
+    {
+      "title": "Brazilian presidential candidate Bolsonaro names surprise running mate - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEhCVXZlazNQMnQyWkc2TVNpSzNlaVhVZDZhY2w2Y1ZWM2JpMFdHLVhybWpGTGVxMlQyMm1hTTN1YXlxWEYzTHhNaWZJdFJGbVk1eXRNVmRYWXhBd1YwMVJzbW1hR2hoLWVZWG5oVHhwcUlfVEpIRW1DeXYwREgyV3NQcUdOUDhlVW5UZDNRaTFvV00zdEJpY2dfOU95VnBiZEFNeEZMTDNDVGtNX3hKQ2t1UTlkcEw1NVVrU0htWXFaSVgtQ3c?oc=5",
+      "published_date": "2026-08-05T18:48:38+00:00"
+    },
+    {
+      "title": "Iran president met supreme leader in darkness — and isn’t convinced it was him: report - New York Post",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOThUQlNPc3pIaktBbGRrTzUzbUYwTjFvWHNfbGxWSFFUVU9jWHN1QlBnQ2hkQ1ZyQmxIOWhLQ1Z5Qms0TnpJMUZ6Y1VIbURKVjNwMGd3UVk2QUJhRlBwRVpuQ1ZmeTU4LUF6WEhHQjFMY3Q4WlFDSERic3ZDZnhxTnljdkJhUmZsZEJIZEg1aDNZaEQ0UU9fUFU4dTNYbGJIUk1GQm1ySmZmSXdtOXpwaDgyenZqUmNL?oc=5",
+      "published_date": "2026-08-05T18:10:00+00:00"
+    },
+    {
+      "title": "New prime minister considers digging up Epstein's British connections",
+      "source": "Politiken Denmark",
+      "country": "United Kingdom",
+      "url": "https://politiken.dk/internationalt/art10936417/Ny-premierminister-overvejer-kulegravning-af-Epsteins-britiske-forbindelser",
+      "published_date": "2026-08-05T18:04:26+00:00"
+    },
+    {
+      "title": "UK Conservatives defend picking former neo-Nazi as election candidate",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3363086/uk-conservatives-defend-picking-former-neo-nazi-election-candidate?utm_source=rss_feed",
+      "published_date": "2026-08-05T14:30:59+00:00"
+    },
     {
       "title": "IDF to deploy voting stations behind enemy lines in Lebanon, Syria, Gaza ahead of October election",
       "source": "Jerusalem Post",
@@ -81,7 +137,14 @@
       "published_date": "2026-08-05T11:45:00+00:00"
     },
     {
-      "title": "Election campaign in Brazil: Trump and his father are no help",
+      "title": "Israel Captured 230 Square Miles of Lebanon, Razed Villages and Built New Bases - Haaretz",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcF9yMmoyaHI2QkRMeHVscXFjMGNucFRDSi12Tkhwa0tZOTRvdXRLcXd3aHV5RGlZV1R0RmQwV2N6YUxheDdUQUdMcEdzMTJPTWRFS3BvWlVBcDFIY21Va2FsdWVMT1hNcC1HeWZLYzh2QmRXblRZT0VyTWJORUl3YjY3aUtXbFEzbzM2QTdBdElIOG9SSzFhbUlYRks2R2xtMFA1WmFDSm5pVUZVYVNoYk9VejZmbzNHZERKeWhzZTJ5X1Vja2paalJJV3V0V1R3OXZsQUMydkttM0k3VGdpX2JWY3dxemdoU0FUTnFYU1RIQXFFYWo2bG5xYkk4OTRsMEM2WTI1dmZRdkFTTnMyODV6M2JkSW9PYWdMaVBuak5ZM0RHUS1r?oc=5",
+      "published_date": "2026-08-05T11:42:00+00:00"
+    },
+    {
+      "title": "Election campaign in Brazil: Trump and his father are no help to Flávio Bolsonaro",
       "source": "FAZ Germany",
       "country": "Brazil",
       "url": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-trump-und-sein-vater-sind-ihm-keine-hilfe-accg-201095953.html",
@@ -2396,139 +2459,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
       "published_date": "2026-07-23T00:15:33+00:00"
-    },
-    {
-      "title": "Rajya Sabha impasse on: Government says ready for debate, Opposition wants Pradhan resignation first",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/rajya-sabha-impasse-on-government-says-ready-for-debate-opposition-wants-pradhan-resignation-first-10799292/",
-      "published_date": "2026-07-22T23:08:36+00:00"
-    },
-    {
-      "title": "US court sets June 2027 trial for Venezuela’s ousted Maduro",
-      "source": "Vanguard Nigeria",
-      "country": "Venezuela",
-      "url": "https://www.vanguardngr.com/2026/07/us-court-sets-june-2027-trial-for-venezuelas-ousted-maduro/",
-      "published_date": "2026-07-22T22:14:26+00:00"
-    },
-    {
-      "title": "How does a general who resigned over the deaths of 12 soldiers return a year later to lead Ukraine’s army? Meet Mykhailo Drapatyi, the new commander-in-chief.",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/07/23/how-does-a-general-who-resigned-over-the-deaths-of-12-soldiers-return-a-year-later-to-lead-ukraine-s-army-meet-mykhailo-drapatyi-the-new-commander-in-chief",
-      "published_date": "2026-07-22T22:04:43+00:00"
-    },
-    {
-      "title": "Senate steps down bill to establish Nigerian Coast Guard",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/897482-senate-steps-down-bill-to-establish-nigerian-coast-guard.html",
-      "published_date": "2026-07-22T21:36:37+00:00"
-    },
-    {
-      "title": "Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the government to fall",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/delhi/anna-hazare-writes-to-pm-narendra-modi-says-dharmendra-pradhans-resignation-will-not-cause-the-govt-to-fall-10799215/",
-      "published_date": "2026-07-22T20:33:45+00:00"
-    },
-    {
-      "title": "The unique rise of Michelle Bolsonaro and her sudden prominence before the Brazilian presidential elections",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/el-singular-ascenso-de-michelle-bolsonaro-y-su-subito-protagonismo-ante-las-presidenciales-de-brasil/",
-      "published_date": "2026-07-22T20:00:00+00:00"
-    },
-    {
-      "title": "PM should apologise to students, Education Minister must resign: Rahul Gandhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/pm-should-apologise-to-students-education-minister-must-resign-rahul-gandhi/article71255008.ece",
-      "published_date": "2026-07-22T17:47:45+00:00"
-    },
-    {
-      "title": "Ukraine’s new commander-in-chief, Mykhailo Drapatyi draws reactions from Kyiv, Moscow, and the West — including visible concern from Russian war bloggers",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/07/22/ukraine-s-new-commander-in-chief-mykhailo-drapatyi-draws-reactions-from-kyiv-moscow-and-the-west-including-visible-concern-from-russian-war-bloggers",
-      "published_date": "2026-07-22T17:08:37+00:00"
-    },
-    {
-      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-22T17:02:50+00:00"
-    },
-    {
-      "title": "Why Turkey's new opposition party is both good and bad news for Erdogan",
-      "source": "Middle East Eye",
-      "country": "Turkey",
-      "url": "https://www.middleeasteye.net/news/why-turkey-new-opposition-party-both-good-and-bad-news-erdogan",
-      "published_date": "2026-07-22T15:48:03+00:00"
-    },
-    {
-      "title": "Ukraine: Mykhailo Drapatyi appointed new commander-in-chief of the army",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260722-ukraine-mykhailo-drapatyi-nomm%C3%A9-nouveau-commandant-en-chef-de-l-arm%C3%A9e",
-      "published_date": "2026-07-22T15:43:09+00:00"
-    },
-    {
-      "title": "Who is Mikhailo Drapaty, Ukraine's new commander-in-chief?",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/who-is-mikhailo-drapaty-ukraine-s-new-commander-in-chief",
-      "published_date": "2026-07-22T15:21:46+00:00"
-    },
-    {
-      "title": "US trial date set for Venezuela's ousted president Maduro",
-      "source": "Sky News World",
-      "country": "Venezuela",
-      "url": "https://news.sky.com/story/us-trial-date-set-for-venezuelas-ousted-president-nicolas-maduro-over-drugs-trafficking-charges-13566011",
-      "published_date": "2026-07-22T14:42:00+00:00"
-    },
-    {
-      "title": "France: Macron refuses environment minister's resignation over pesticide law",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france-macron-refuses-environment-minister-s-resignation-over-pesticide-law",
-      "published_date": "2026-07-22T14:31:13+00:00"
-    },
-    {
-      "title": "‘A minister’s resignation won’t bring down the government’: Anna Hazare to PM Modi",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/pune/minister-resignation-wont-bring-down-government-anna-hazare-pm-narendra-modi-10798713/",
-      "published_date": "2026-07-22T14:19:11+00:00"
-    },
-    {
-      "title": "Armenian opposition leader Tsarukyan loses lawyer over conflict of interest in case",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-opposition-leader-tsarukyan-loses-lawyer-over-conflict-of-interest-in-case/",
-      "published_date": "2026-07-22T14:03:32+00:00"
-    },
-    {
-      "title": "District election in Friesland: Sichert is not allowed to run – AfD outraged",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-sichert-darf-nicht-als-landrat-kandidieren-das-sind-die-gruende-201054724.html",
-      "published_date": "2026-07-22T13:53:51+00:00"
-    },
-    {
-      "title": "PT says that Flávio Bolsonaro has his father's 'coup culture' and considers going to court for talking about ballot boxes",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/pt-diz-que-flavio-bolsonaro-tem-cultura-golpista-do-pai-e-avalia-ir-a-justica-por-fala-sobre-urnas.shtml",
-      "published_date": "2026-07-22T13:19:00+00:00"
-    },
-    {
-      "title": "State Duma Passes ‘Civic Death’ Bills Cutting Off Exiled Critics From Banking and Consular Services",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
-      "published_date": "2026-07-22T13:13:00+00:00"
     }
   ]
 }
