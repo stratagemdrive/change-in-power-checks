@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-04T13:05:01.970601+00:00",
-    "story_count": 379,
+    "last_updated": "2026-08-05T00:01:21.284684+00:00",
+    "story_count": 358,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Miguel Ángel Broda: “The re-election of President Milei depends on the rest of the economy growing 2%”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/miguel-angel-broda-la-reeleccion-del-presidente-milei-depende-de-que-el-resto-de-la-economia-crezca-nid04082026/",
+      "published_date": "2026-08-04T23:15:26+00:00"
+    },
+    {
+      "title": "Deadly protests overshadow Pakistan’s elections in Kashmir",
+      "source": "Japan Times",
+      "country": "Pakistan",
+      "url": "https://www.japantimes.co.jp/news/2026/08/05/asia-pacific/politics/protests-pakistan-elections-kashmir/",
+      "published_date": "2026-08-04T22:44:00+00:00"
+    },
+    {
+      "title": "US senators call for a peaceful transition in Venezuela through elections",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/senadores-de-eeuu-piden-una-transicion-pacifica-en-venezuela-a-traves-de-elecciones/",
+      "published_date": "2026-08-04T22:40:33+00:00"
+    },
+    {
+      "title": "Israel election pressure fuels settlement push as West Bank violence surges",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
+      "published_date": "2026-08-04T18:08:08+00:00"
+    },
+    {
+      "title": "Jim Jarrassé's editorial: \"Presidential election 2027, the twelve works of Marine Le Pen\"",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/vox/politique/l-editorial-de-jim-jarrasse-presidentielle-2027-les-douze-travaux-de-marine-le-pen-20260804",
+      "published_date": "2026-08-04T16:58:08+00:00"
+    },
+    {
+      "title": "Podemos refuses to support Flávio Bolsonaro and also decides to remain neutral in the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/podemos-recusa-apoio-a-flavio-bolsonaro-e-tambem-decide-ficar-neutro-na-eleicao.shtml",
+      "published_date": "2026-08-04T16:20:00+00:00"
+    },
+    {
+      "title": "Putin Signs Law Targeting Exiled Russians Convicted in Absentia",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/04/putin-signs-law-targeting-exiled-russians-convicted-in-absentia-a93414",
+      "published_date": "2026-08-04T15:14:00+00:00"
+    },
     {
       "title": "Iranian leadership would accept if Pezeshkian resigned again, relative of Khamenei claims - report",
       "source": "Jerusalem Post",
@@ -265,7 +314,7 @@
     {
       "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "France",
       "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
       "published_date": "2026-08-03T10:43:05+00:00"
     },
@@ -2515,202 +2564,6 @@
       "country": "Ukraine",
       "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-903242",
       "published_date": "2026-07-22T00:59:36+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Zelensky names new commander-in-chief and vows ‘deep strikes’ on Moscow will continue",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-moscow-drone-attack-b3018561.html",
-      "published_date": "2026-07-21T22:30:35+00:00"
-    },
-    {
-      "title": "Lula accused Rubio of wanting to interfere in Brazil's elections: “Set up a committee”",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/estados-unidos/lula-acuso-a-rubio-de-querer-interferir-en-las-elecciones-de-brasil-monte-un-comite-nid21072026/",
-      "published_date": "2026-07-21T22:16:24+00:00"
-    },
-    {
-      "title": "They ask for the impeachment of the vice-governor of Mendoza for her statements about the French team",
-      "source": "La Nacion Argentina",
-      "country": "France",
-      "url": "https://www.lanacion.com.ar/politica/piden-el-juicio-politico-para-la-vicegobernadora-de-mendoza-por-sus-dichos-sobre-la-seleccion-de-nid21072026/",
-      "published_date": "2026-07-21T21:53:29+00:00"
-    },
-    {
-      "title": "Kast evaluates declaring a state of emergency for catastrophe in Tierra Amarilla and Copiapó",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/kast-evalua-decretar-estado-de-excepcion-de-catastrofe-en-tierra-amarilla-y-copiapo/",
-      "published_date": "2026-07-21T21:12:03+00:00"
-    },
-    {
-      "title": "Zelensky: Drapatyi appointed as Ukraine's New Commander-in-Chief of Armed Forces",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4146652-zelensky-drapatyi-appointed-as-ukraines-new-commanderinchief-of-armed-forces.html",
-      "published_date": "2026-07-21T20:57:00+00:00"
-    },
-    {
-      "title": "French parliament passes social media ban for under-15s",
-      "source": "Al Jazeera English",
-      "country": "France",
-      "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-      "published_date": "2026-07-21T20:44:48+00:00"
-    },
-    {
-      "title": "Deposed Turkish opposition leader plans new party",
-      "source": "Al Jazeera English",
-      "country": "Turkey",
-      "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
-      "published_date": "2026-07-21T20:23:45+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Zelenskyj dismisses Commander-in-Chief Syrskyj",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-tauscht-oberbefehlshaber-des-ukrainischen-militaers-aus-faz-110683325.html",
-      "published_date": "2026-07-21T20:21:22+00:00"
-    },
-    {
-      "title": "Government rescinds incorrect Rajya Sabha election results notification",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/government-rescinds-incorrect-rajya-sabha-election-results-notification-10797423/",
-      "published_date": "2026-07-21T20:10:34+00:00"
-    },
-    {
-      "title": "Zelenskyy replaces Oleksandr Syrskyi with Mykhailo Drapatyi as Ukraine's commander-in-chief",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/07/21/zelenskyy-replaces-oleksandr-syrskyi-with-mykhailo-drapatyi-as-ukraines-commander-in-chief",
-      "published_date": "2026-07-21T20:08:47+00:00"
-    },
-    {
-      "title": "French Parliament approves a general ban on social networks for children under 15 years of age",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/mundo/noticia/parlamento-frances-aprueba-una-prohibicion-generalizada-de-las-redes-sociales-para-menores-de-15-anos/",
-      "published_date": "2026-07-21T20:06:12+00:00"
-    },
-    {
-      "title": "Ukraine: Volodymyr Zelensky announces the departure of Commander-in-Chief of the Army Oleksandr Syrsky",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/europe/20260721-ukraine-zelensky-annonce-le-d%C3%A9part-du-commandant-en-chef-de-l-arm%C3%A9e-oleksandre-syrsky",
-      "published_date": "2026-07-21T19:57:56+00:00"
-    },
-    {
-      "title": "Zelensky dismisses Oleksandr Syrsky as commander-in-chief of Ukraine’s armed forces",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/21/zelensky-dismisses-oleksandr-syrsky-as-commander-in-chief-of-ukraine-s-armed-forces",
-      "published_date": "2026-07-21T19:51:42+00:00"
-    },
-    {
-      "title": "Netanyahu’s haredi gamble may become his biggest election liability - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-903220",
-      "published_date": "2026-07-21T19:47:26+00:00"
-    },
-    {
-      "title": "Russia’s National Guard proposes amendments adding ‘martial law’ and ‘mobilization’ to its rule book",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/21/russia-s-national-guard-proposes-amendments-adding-martial-law-and-mobilization-to-its-rule-book",
-      "published_date": "2026-07-21T19:35:12+00:00"
-    },
-    {
-      "title": "France’s parliament approves social media ban for children under 15, in EU first",
-      "source": "South China Morning Post",
-      "country": "France",
-      "url": "https://www.scmp.com/news/world/europe/article/3361394/frances-parliament-approves-social-media-ban-children-under-15-eu-first?utm_source=rss_feed",
-      "published_date": "2026-07-21T19:32:09+00:00"
-    },
-    {
-      "title": "Trump waffles on punishing China after claiming massive election interference: ‘We do things to them, too’",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-election-interference-punish-b3018987.html",
-      "published_date": "2026-07-21T18:51:59+00:00"
-    },
-    {
-      "title": "Revision against verdict: Le Pen begins election campaign without ankle bracelets",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-startet-wahlkampf-ohne-fussfessel-201052333.html",
-      "published_date": "2026-07-21T18:46:39+00:00"
-    },
-    {
-      "title": "Zelensky faces deepening political crisis as protests dig in",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
-      "published_date": "2026-07-21T18:38:29+00:00"
-    },
-    {
-      "title": "Indian opposition leader Rahul Gandhi arrested outside PM Modi's Delhi residence amid mass protest",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2017219/indian-opposition-leader-rahul-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest",
-      "published_date": "2026-07-21T17:55:39+00:00"
-    },
-    {
-      "title": "Starmer allies see ‘hint of retribution’ in Burnham reshuffle",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/jul/21/keir-starmer-allies-retribution-andy-burnham-reshuffle",
-      "published_date": "2026-07-21T17:40:18+00:00"
-    },
-    {
-      "title": "Trump softens tone on alleged China election meddling before Rubio-Wang talks",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3361391/trump-softens-tone-alleged-china-election-meddling-rubio-wang-talks?utm_source=rss_feed",
-      "published_date": "2026-07-21T17:35:24+00:00"
-    },
-    {
-      "title": "Panama rules out reestablishing relations with the Government of Delcy Rodríguez until new elections",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Panama",
-      "url": "https://efectococuyo.com/internacionales/panama-descarta-restablecer-relaciones-con-el-gobierno-de-delcy-rodriguez-hasta-nuevas-elecciones/",
-      "published_date": "2026-07-21T16:22:39+00:00"
-    },
-    {
-      "title": "Setback for De la Espriella before taking office: Uribe's candidate is elected as president of the Senate after receiving support from Petro's party",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/reves-para-de-la-espriella-antes-de-asumir-eligen-como-presidente-del-senado-al-candidato-de-uribe-tras-recibir-apoyo-del-partido-de-petro/",
-      "published_date": "2026-07-21T16:22:14+00:00"
-    },
-    {
-      "title": "Turkish opposition leader to create breakaway party to take on Erdoğan - Financial Times",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdllqQ3VOejBrSXNCYjJNVW5DNFJ0M1E3YXFucWZUR3Ftb1YtdUNNcWpuX0ZZeE4tLXNLdElYMFlLNnFKaWlLZzBnMUVpSHplVEVVOG83WnRBdERybmMxTHZfcENEeVVHREhNUENpVTdVX2J3MzBlUjJUVlZkMFA1cHdrX00?oc=5",
-      "published_date": "2026-07-21T15:56:35+00:00"
-    },
-    {
-      "title": "Panama rules out reestablishing relations with the interim government of Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Panama",
-      "url": "https://www.elnacional.com/2026/07/panama-descarta-restablecer-relaciones-con-el-gobierno-de-delcy-hasta-nuevas-elecciones/",
-      "published_date": "2026-07-21T15:14:36+00:00"
-    },
-    {
-      "title": "PML-N supremo Nawaz kicks off party's election campaign in AJK",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk",
-      "published_date": "2026-07-21T13:52:04+00:00"
-    },
-    {
-      "title": "Indian-origin scientist resigns from California’s Salk Institute after sexual misconduct allegations",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/world/satchidananda-panda-salk-institute-resignation-sexual-misconduct-allegations-10796977/",
-      "published_date": "2026-07-21T13:42:08+00:00"
     }
   ]
 }
