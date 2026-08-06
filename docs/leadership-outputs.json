@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-05T23:57:59.446771+00:00",
-    "story_count": 343,
+    "last_updated": "2026-08-06T12:59:14.374683+00:00",
+    "story_count": 352,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid04082026/",
+      "published_date": "2026-08-06T12:46:56+00:00"
+    },
+    {
+      "title": "Thailand backs greater ASEAN role for Myanmar junta as Min Aung Hlaing visits Bangkok",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/thailand-backs-greater-asean-role-for-myanmar-junta-as-min-aung-hlaing-visits-bangkok/",
+      "published_date": "2026-08-06T12:04:06+00:00"
+    },
+    {
+      "title": "England recall Dan Lawrence from two years of Test exile to face Pakistan",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan",
+      "published_date": "2026-08-06T11:49:53+00:00"
+    },
+    {
+      "title": "Germán Ávila, Minister of Finance, presented his 'inevitable' resignation to the outgoing president, Gustavo Petro: 'We leave with a calm soul'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-le-presento-su-renuncia-inevitable-al-presidente-de-colombia-gustavo-petro-salimos-con-el-alma-tranquila-3576554",
+      "published_date": "2026-08-06T11:16:37+00:00"
+    },
+    {
+      "title": "Before the September elections: Who the AfD owes its rise to",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-von-welchen-parteien-kommen-ihre-waehler-accg-201047156.html",
+      "published_date": "2026-08-06T11:03:28+00:00"
+    },
+    {
+      "title": "Trump and Milei target Lula two months before the Brazilian presidential election",
+      "source": "Le Monde France",
+      "country": "Argentina",
+      "url": "https://www.lemonde.fr/international/article/2026/08/06/trump-et-milei-ciblent-lula-a-deux-mois-de-l-election-presidentielle-bresilienne_6739941_3210.html",
+      "published_date": "2026-08-06T11:00:11+00:00"
+    },
+    {
+      "title": "Sheikh Hasina, the deposed leader of Bangladesh, announces from India her return to the country",
+      "source": "Le Monde France",
+      "country": "India",
+      "url": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html",
+      "published_date": "2026-08-06T11:00:03+00:00"
+    },
+    {
+      "title": "Rick Scott: \"The people of Venezuela deserve free and fair elections\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/rick-scott-el-pueblo-de-venezuela-merece-elecciones-libres-y-justas/",
+      "published_date": "2026-08-06T10:15:31+00:00"
+    },
+    {
+      "title": "France's DZ mafia suspected founder captured in Algeria",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france-s-dz-mafia-suspected-founder-captured-in-algeria",
+      "published_date": "2026-08-06T10:00:35+00:00"
+    },
+    {
+      "title": "From Exile to Damascus: Our New Chapter Begins",
+      "source": "Syria Direct",
+      "country": "Syria",
+      "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
+      "published_date": "2026-08-06T08:45:12+00:00"
+    },
+    {
+      "title": "Myanmar junta raids online scam hub in southern Shan, arrests 49 including 38 Chinese nationals",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-raids-online-scam-hub-in-southern-shan-arrests-49-including-38-chinese-nationals/",
+      "published_date": "2026-08-06T08:37:31+00:00"
+    },
+    {
+      "title": "Myanmar junta launches counteroffensive after KIA, allies seize outpost near Shwegu",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-counteroffensive-after-kia-allies-seize-outpost-near-shwegu/",
+      "published_date": "2026-08-06T07:46:56+00:00"
+    },
+    {
+      "title": "Presidential election 2027: France on alert in the face of increasing Russian interference",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/france/20260806-pr%C3%A9sidentielle-fran%C3%A7aise-2027-les-ing%C3%A9rences-russes-visant-des-candidats-se-multiplient",
+      "published_date": "2026-08-06T07:11:14+00:00"
+    },
+    {
+      "title": "Myanmar ex-junta chief seeks political legitimacy on first Thailand trip as civilian leader",
+      "source": "Euronews",
+      "country": "Myanmar",
+      "url": "http://www.euronews.com/2026/08/06/myanmar-ex-junta-chief-seeks-political-legitimacy-on-first-thailand-trip-as-civilian-leade",
+      "published_date": "2026-08-06T05:33:54+00:00"
+    },
+    {
+      "title": "Iran president admits interaction with supreme leader Mojtaba Khamenei is ‘very difficult’",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-khamenei-alive-president-b3028363.html",
+      "published_date": "2026-08-06T04:15:46+00:00"
+    },
+    {
+      "title": "Investment, energy sector talks to dominate Myanmar junta leader’s visit to Thailand",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/investment-energy-sector-talks-to-dominate-myanmar-junta-leaders-visit-to-thailand/",
+      "published_date": "2026-08-06T03:25:59+00:00"
+    },
+    {
+      "title": "President Kast announces security agenda that includes constitutional reform",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/presidente-kast-anuncia-agenda-de-seguridad-que-incluye-reforma-constitucional/",
+      "published_date": "2026-08-06T01:43:59+00:00"
+    },
+    {
+      "title": "Kast endorses security as a priority on the government agenda and confirms constitutional reform on the matter",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-reafirma-seguridad-como-prioridad-de-la-agenda-de-gobierno-y-confirma-reforma-constitucional-en-la-materia/",
+      "published_date": "2026-08-06T01:19:51+00:00"
+    },
     {
       "title": "Iran's president says interaction with supreme leader is currently 'very difficult'",
       "source": "Jerusalem Post",
@@ -121,13 +247,6 @@
       "country": "Syria",
       "url": "https://www.jpost.com/israel-election-2026/article-904658",
       "published_date": "2026-08-05T13:33:43+00:00"
-    },
-    {
-      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid04082026/",
-      "published_date": "2026-08-05T12:39:03+00:00"
     },
     {
       "title": "Defense Forces refute Russian claims of “capturing” Ryzhivka in Sumy region",
@@ -2403,62 +2522,6 @@
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/article-903428",
       "published_date": "2026-07-23T13:26:13+00:00"
-    },
-    {
-      "title": "Why Trump’s claim that Beijing meddled in US election hasn’t put ties on ice",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361597/why-trumps-claim-beijing-meddled-us-election-hasnt-put-ties-ice?utm_source=rss_feed",
-      "published_date": "2026-07-23T12:00:06+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella, president-elect, announces that he will present a constitutional reform so that Barranquilla is the alternate capital of Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-que-presentara-reforma-en-el-congreso-para-que-barranquilla-sea-capital-alterna-de-colombia-3573128",
-      "published_date": "2026-07-23T11:47:24+00:00"
-    },
-    {
-      "title": "President-elect Abelardo De La Espriella will send a delegation to Peru for the inauguration of Keiko Fujimori: who will attend?",
-      "source": "El Tiempo Colombia",
-      "country": "Peru",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-enviara-una-delegacion-a-peru-para-la-posesion-de-keiko-fujimori-quienes-asistiran-3573196",
-      "published_date": "2026-07-23T11:37:05+00:00"
-    },
-    {
-      "title": "Kerala Opposition Leader Pinarayi Vijayan targets PM Modi over NEET irregularities; hits out at Centre for police crackdown on student protests in New Delhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/leader-of-the-opposition-in-kerala-pinarayi-vijayan-targets-prime-minister-narendra-modi-over-neet-irregularities-hits-out-at-centre-for-police-crackdown-on-student-protests-in-new-delhi/article71257352.ece",
-      "published_date": "2026-07-23T11:08:42+00:00"
-    },
-    {
-      "title": "What is missing for the presidential inauguration to take place in Cauca, as Abelardo De La Espriella seeks, and not in Bogotá?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-falta-para-que-la-posesion-presidencial-se-realice-en-el-cauca-como-lo-busca-abelardo-de-la-espriella-y-no-en-bogota-3573148",
-      "published_date": "2026-07-23T11:05:00+00:00"
-    },
-    {
-      "title": "As support for Putin slips, the Kremlin lowers the ruling party’s election target amid fears a landslide victory would look suspicious",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/07/23/as-support-for-putin-slips-the-kremlin-lowers-the-ruling-party-s-election-target-amid-fears-a-landslide-victory-would-look-suspicious",
-      "published_date": "2026-07-23T09:22:10+00:00"
-    },
-    {
-      "title": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3361535/ex-hong-kong-opposition-leader-reportedly-denied-uk-entry-faces-deportation?utm_source=rss_feed",
-      "published_date": "2026-07-23T02:57:48+00:00"
-    },
-    {
-      "title": "The elected president, Abelardo De La Espriella, appointed former senator Carlos Felipe Mejía as the new ambassador of Colombia in Spain",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
-      "published_date": "2026-07-23T00:15:33+00:00"
     }
   ]
 }
