@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-07T11:49:07.450783+00:00",
-    "story_count": 359,
+    "last_updated": "2026-08-07T23:31:50.755381+00:00",
+    "story_count": 360,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump ally de la Espriella sworn in as Colombia president",
+      "source": "The Punch Nigeria",
+      "country": "Colombia",
+      "url": "https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-07T23:20:13+00:00"
+    },
+    {
+      "title": "Video | The exact moment when Abelardo De La Espriella is sworn in, receives the sash and assumes office as President of Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-el-momento-exacto-cuando-abelardo-de-la-espriella-juramenta-recibe-la-banda-y-asume-como-presidente-de-colombia-3576921",
+      "published_date": "2026-08-07T23:04:31+00:00"
+    },
+    {
+      "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
+      "source": "South China Morning Post",
+      "country": "Colombia",
+      "url": "https://www.scmp.com/news/world/americas/article/3363371/trump-ally-abelardo-de-la-espriella-sworn-colombia-president?utm_source=rss_feed",
+      "published_date": "2026-08-07T22:46:04+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella is sworn in as the new president of Colombia",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/abelardo-de-la-espriella-jura-como-nuevo-presidente-de-colombia/",
+      "published_date": "2026-08-07T22:27:53+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Colombia",
+      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-jura-como-presidente/",
+      "published_date": "2026-08-07T22:23:21+00:00"
+    },
+    {
+      "title": "Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
+      "published_date": "2026-08-07T22:14:00+00:00"
+    },
+    {
+      "title": "This was the arrival of Javier Milei, president of Argentina, at the inauguration ceremony of Abelardo De La Espriella in Cali",
+      "source": "El Tiempo Colombia",
+      "country": "Argentina",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llegada-de-javier-milei-presidente-de-argentina-a-la-ceremonia-de-posesion-de-abelardo-de-la-espriella-en-cali-3576913",
+      "published_date": "2026-08-07T21:48:53+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-jura-como-presidente-de-colombia-para-el-periodo-2026-2030/",
+      "published_date": "2026-08-07T21:41:06+00:00"
+    },
+    {
+      "title": "Osun Election: Reps minority caucus accuses Tinubu of using federal agencies to intimidate state",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/901391-osun-election-reps-minority-caucus-accuses-tinubu-of-using-federal-agencies-to-intimidate-state.html",
+      "published_date": "2026-08-07T21:40:37+00:00"
+    },
+    {
+      "title": "Big techs reduce election measures and face new judicial rules in Brazil",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/big-techs-reduzem-medidas-para-eleicao-e-encaram-novas-regras-judiciais-no-brasil.shtml",
+      "published_date": "2026-08-07T20:32:00+00:00"
+    },
+    {
+      "title": "Why Tinubu will win in 2027 — Accord presidential candidate",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/why-tinubu-will-win-in-2027-accord-presidential-candidate/",
+      "published_date": "2026-08-07T18:40:32+00:00"
+    },
+    {
+      "title": "Iran officials 'would not be surprised' if Supreme Leader Mojtaba Khamenei dies soon: Report - The Times of India",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbHpTNlBrX2dQUjJJY2w5dEpoR2VMd19RTzBweHlGMFM2NE0zMDZCV1JQczFoeDJOenEtcXFsQVlCaHN0QnVLNllEU2ZLUGZhMWg4WlFzMTZ1UTA3Vm9LUFljb2xmYkkyX0VEREdMYkt6TEhLcldmRlEyZE1lZml1THBtS3p3M09wQVJWMVFhLU9OVnVPdElycm15Vkp4WndFUjIwRDUxaFloOEw2RDlhMXl2NkVTeTA2UVZIS0dyNkZ1OEpJSWFpQjJzN2RqRkEyWDdoV2J4RTN2ajZibTNCbmpqQmpzQkd4WE5zVjhCb01VOWVzVUxxcl9hS3ZqZw?oc=5",
+      "published_date": "2026-08-07T15:48:00+00:00"
+    },
+    {
+      "title": "Guanipa: \"The US is the guarantor of the negotiation that will lead to a political transition in Venezuela\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/guanipa-ee-uu-es-el-garante-de-la-negociacion-que-conducira-hacia-una-transicion-politica-en-venezuela/",
+      "published_date": "2026-08-07T15:47:15+00:00"
+    },
+    {
+      "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+      "source": "NPR World",
+      "country": "Colombia",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+      "published_date": "2026-08-07T15:41:45+00:00"
+    },
+    {
+      "title": "Senator Bianchi and constitutional reform of the Kast security plan: “It is absolutely unnecessary in practice”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/senador-bianchi-y-reforma-constitucional-del-plan-de-seguridad-de-kast-es-absolutamente-innecesaria-en-lo-practico/",
+      "published_date": "2026-08-07T15:34:11+00:00"
+    },
+    {
+      "title": "Crossing Israel's dividing lines: New Arab, haredi alliances can reshape the elections - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-904641",
+      "published_date": "2026-08-07T14:32:37+00:00"
+    },
+    {
+      "title": "Colombia: Abelardo de la Espriella promises rupture during his inauguration in Cali",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260807-colombie-abelardo-de-la-espriella-promet-la-rupture-lors-de-son-investiture-%C3%A0-cali",
+      "published_date": "2026-08-07T12:43:58+00:00"
+    },
+    {
+      "title": "Nationalist Rodina Party Sues to Disqualify Yabloko From State Duma Elections",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/07/nationalist-rodina-party-sues-to-disqualify-yabloko-from-state-duma-elections-a93438",
+      "published_date": "2026-08-07T12:11:00+00:00"
+    },
     {
       "title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
       "source": "Meduza EN",
@@ -235,7 +361,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2452,125 +2578,6 @@
       "country": "Brazil",
       "url": "https://www.lanacion.com.ar/politica/la-agenda-de-javier-milei-en-brasil-para-apoyar-al-hijo-de-bolsonaro-en-las-elecciones-nid23072026/",
       "published_date": "2026-07-24T23:32:48+00:00"
-    },
-    {
-      "title": "Kremlin prepares for elections it fears more than sanctions — intelligence",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4147417-kremlin-prepares-for-elections-it-fears-more-than-sanctions-intelligence.html",
-      "published_date": "2026-07-24T21:38:00+00:00"
-    },
-    {
-      "title": "Will Netanyahu step down quietly like Hungary's Orbán? Hard to imagine - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-903290",
-      "published_date": "2026-07-24T21:24:00+00:00"
-    },
-    {
-      "title": "How a Summer of War With Iran Could Shape the Fall Elections - The New York Times",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpLVm5ldG5pNDNMaTNUekdfY0NrelBBS1B6a2VVLVVUZUN3eDNxM1l3SHR6aHJlbHZ2Vk5BM3lxYWZERWE3cFQyaFZHeGg3Z3lQWFBCTnh4NnhlRVZDbnk1WjVGdXdPTzNKaXRfbjVIaFA0MzFKTWR6RTRXWmdzRDhmQ3EtQ3piUmJpbEtENHQ?oc=5",
-      "published_date": "2026-07-24T21:21:53+00:00"
-    },
-    {
-      "title": "Trump says that Venezuela is not prepared for elections but that there is progress",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/trump-dice-que-venezuela-no-esta-preparada-para-elecciones-pero-que-hay-avances/",
-      "published_date": "2026-07-24T21:11:36+00:00"
-    },
-    {
-      "title": "Trump says Venezuela “is not ready” for elections",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/trump-dice-que-venezuela-no-esta-lista-para-unas-elecciones/",
-      "published_date": "2026-07-24T20:45:24+00:00"
-    },
-    {
-      "title": "Interim government announces “definitive withdrawal” of Venezuela from the International Criminal Court",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/gobierno-interino-anuncia-retiro-definitivo-de-venezuela-de-la-corte-penal-internacional/",
-      "published_date": "2026-07-24T19:18:47+00:00"
-    },
-    {
-      "title": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "published_date": "2026-07-24T18:55:37+00:00"
-    },
-    {
-      "title": "Russian disinformation network Storm-1516 accused of targeting French presidential candidate Édouard Philippe with fake health claims",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/24/russian-disinformation-network-storm-1516-accused-of-targeting-french-presidential-candidate-edouard-philippe-with-fake-health-claims",
-      "published_date": "2026-07-24T18:28:53+00:00"
-    },
-    {
-      "title": "Ravneet Singh Bittu resigns as Union Minister after his Rajya Sabha tenure ends",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/union-minister-ravneet-singh-bittu-resigns/article71263390.ece",
-      "published_date": "2026-07-24T18:27:13+00:00"
-    },
-    {
-      "title": "Germany live blog: Frei: There will be no second opportunity for a cabinet reshuffle",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-frei-zweite-moeglichkeit-fuer-kabinettsumbildung-wird-es-nicht-geben-faz-110093143.html",
-      "published_date": "2026-07-24T17:48:54+00:00"
-    },
-    {
-      "title": "Case of pro-Bolsonaro messages in PR has not yet been judged, less than 3 months before a new election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/caso-de-mensagens-pro-bolsonaro-no-pr-ainda-nao-foi-julgado-a-menos-de-3-meses-de-nova-eleicao.shtml",
-      "published_date": "2026-07-24T16:00:00+00:00"
-    },
-    {
-      "title": "St. Petersburg election commission denies Yabloko registration for city legislature race",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/24/st-petersburg-election-commission-denies-yabloko-registration-for-city-legislature-race",
-      "published_date": "2026-07-24T15:56:47+00:00"
-    },
-    {
-      "title": "Ousted Turkish opposition leader forms second-largest party - DW.com",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnpMcUNmTDVmcVVfbHFEcEozWktvakpDMzhHNVJvM25ub0txbkUwcFpCTHVKSkd5ZjFOM1Vwd01IX2tWZzlpY3BxVFRSUURkWGpmTEx5NGlobkdnX1NMaTVCczA4NG5ZOEt4UG1UQXQ0T3ZPRnNpb1QxUVZTel9TWTBhVUgyd0RablHSAYoBQVVfeXFMTVF0Z1p6WDJ4dVpVR3ZhYXkwdjRaTl9mM2dNN2NxcVNYQnhvUHFKVjNkZ1lGMURIVmZINU1STERDVkZpazJUZHJNcDFFNGV3REVPZFdfZ0tNcWpVUkFDMjBoS1RDYUpDTEJOM0hIS1VjbzZ5RlZxSEFwTTFzYk1jazZtekk4TzV3X2JB?oc=5",
-      "published_date": "2026-07-24T14:12:25+00:00"
-    },
-    {
-      "title": "Indian government seeks time on youth protesters' minister resignation demand",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2018062/indian-government-seeks-time-on-youth-protesters-minister-resignation-demand",
-      "published_date": "2026-07-24T13:17:25+00:00"
-    },
-    {
-      "title": "Ruling DPK leadership race narrows to 3-way competition",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260724/ruling-dpk-leadership-race-narrows-to-3-way-competition?utm_source=rss",
-      "published_date": "2026-07-24T12:17:03+00:00"
-    },
-    {
-      "title": "Former adult film star sworn in as Colombia senator",
-      "source": "Vanguard Nigeria",
-      "country": "Colombia",
-      "url": "https://www.vanguardngr.com/2026/07/former-adult-film-star-sworn-in-as-colombia-senator/",
-      "published_date": "2026-07-24T12:10:51+00:00"
-    },
-    {
-      "title": "Russians shoot captured Ukrainian defender in Donetsk region",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4147599-russians-shoot-captured-ukrainian-defender-in-donetsk-region.html",
-      "published_date": "2026-07-24T12:00:00+00:00"
     }
   ]
 }
