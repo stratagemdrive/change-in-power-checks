@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-07T01:44:34.445750+00:00",
-    "story_count": 355,
+    "last_updated": "2026-08-07T11:49:07.450783+00:00",
+    "story_count": 359,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/07/lithuanian-defense-minister-warns-of-possible-russian-strikes-on-baltic-countries-using-captured-ukrainian-drones",
+      "published_date": "2026-08-07T11:23:45+00:00"
+    },
+    {
+      "title": "What time will the inauguration of the elected president of Colombia, Abelardo De La Espriella, take place on August 7? See where to watch the ceremony",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
+      "published_date": "2026-08-07T11:16:19+00:00"
+    },
+    {
+      "title": "Lula will be the only presidential candidate in Brazil supported by a coalition of parties",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/08/lula-sera-el-unico-candidato-presidencial-de-brasil-apoyado-por-una-coalicion-de-partidos/",
+      "published_date": "2026-08-07T10:32:00+00:00"
+    },
+    {
+      "title": "Explainer: Who are the companies and cronies backing Myanmar junta leader’s Thailand visit?",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/explainer-who-are-the-companies-and-cronies-backing-myanmar-junta-leaders-thailand-visit/",
+      "published_date": "2026-08-07T09:59:50+00:00"
+    },
+    {
+      "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/08/07/how-russia-is-impersonating-french-news-outlets-in-a-bid-to-influence-france-s-next-presidential-election",
+      "published_date": "2026-08-07T09:33:52+00:00"
+    },
+    {
+      "title": "From palace stages to exile: A Myanmar dancer who chose conscience over ceremony",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/from-palace-stages-to-exile-a-myanmar-dancer-who-chose-conscience-over-ceremony/",
+      "published_date": "2026-08-07T08:49:04+00:00"
+    },
+    {
+      "title": "Tamaki faces challenge in DPP leadership race",
+      "source": "Japan Times",
+      "country": "Taiwan",
+      "url": "https://www.japantimes.co.jp/news/2026/08/07/japan/politics/tamaki-dpp-race/",
+      "published_date": "2026-08-07T08:17:00+00:00"
+    },
+    {
+      "title": "“Save my little one!” : the reception of Spanish children in France during the civil war (2/4)",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
+      "published_date": "2026-08-07T06:01:07+00:00"
+    },
+    {
+      "title": "Editor's Notes: With elections near, every Israeli must watch this pre-Oct. 7 documentary",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-904826",
+      "published_date": "2026-08-07T05:59:28+00:00"
+    },
+    {
+      "title": "Mossad and CIA work to track Iran's new supreme leader: “He hasn't used a phone in more than 150 days”",
+      "source": "La Nacion Argentina",
+      "country": "Iran",
+      "url": "https://www.lanacion.com.ar/estados-unidos/el-mossad-y-la-cia-trabajan-para-rastrear-al-nuevo-lider-supremo-de-iran-no-uso-un-telefono-en-mas-nid07082026/",
+      "published_date": "2026-08-07T05:44:00+00:00"
+    },
+    {
+      "title": "Kast arrives in Colombia to participate in the inauguration of Abelardo de la Espriella",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/politica/noticia/kast-arriba-a-colombia-para-participar-en-la-asuncion-de-abelardo-de-la-espriella/",
+      "published_date": "2026-08-07T03:03:28+00:00"
+    },
     {
       "title": "Russian troops execute another captured Ukrainian defender in Donetsk region",
       "source": "Ukrinform",
@@ -102,7 +179,7 @@
       "published_date": "2026-08-06T21:22:54+00:00"
     },
     {
-      "title": "Presidente Kast inicia visita a Colombia para asistir a la asunción de Abelardo de la Espriella",
+      "title": "President Kast begins a visit to Colombia to attend the inauguration of Abelardo de la Espriella",
       "source": "La Tercera Chile",
       "country": "Colombia",
       "url": "https://www.latercera.com/politica/noticia/presidente-kast-emprende-vuelo-a-colombia-para-asistir-al-cambio-de-mando-asumira-abelardo-de-la-espriella/",
@@ -137,6 +214,13 @@
       "published_date": "2026-08-06T15:48:47+00:00"
     },
     {
+      "title": "Minister Wulf asks for the non-voluntary resignation of the director of Mejor Niñez appointed by Boric due to “loss of trust”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/ministra-wulf-pide-renuncia-no-voluntaria-al-jefe-de-mejor-ninez-nombrado-por-boric-por-perdida-de-confianza/",
+      "published_date": "2026-08-06T14:43:56+00:00"
+    },
+    {
       "title": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
       "source": "The Guardian World",
       "country": "India",
@@ -149,6 +233,13 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/08/meganalisis-9-de-cada-10-venezolanos-considera-mala-la-respuesta-del-gobierno-interino-a-los-terremotos/",
       "published_date": "2026-08-06T14:21:15+00:00"
+    },
+    {
+      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
+      "published_date": "2026-08-06T14:11:00+00:00"
     },
     {
       "title": "Court warns Bundestag: election auditing must not just be a tiresome duty",
@@ -184,6 +275,13 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan",
       "published_date": "2026-08-06T11:49:53+00:00"
+    },
+    {
+      "title": "Myanmar leader breaks diplomatic isolation on first official visit to Thailand since coup - BBC",
+      "source": "Google News World",
+      "country": "Myanmar",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85bmF4dU1tbUEwckpKcF9LOWxGcUtrSllJMFI4OEZydnpXSjA0WUQwUno4YjJxeGZCR2Z4R01xNHNHVXphWG03OFQwdENhcXpPcXQzZDRfdVVhZw?oc=5",
+      "published_date": "2026-08-06T11:19:31+00:00"
     },
     {
       "title": "Germán Ávila, Minister of Finance, presented his 'inevitable' resignation to the outgoing president, Gustavo Petro: 'We leave with a calm soul'",
@@ -2473,76 +2571,6 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-ato/4147599-russians-shoot-captured-ukrainian-defender-in-donetsk-region.html",
       "published_date": "2026-07-24T12:00:00+00:00"
-    },
-    {
-      "title": "What's Dharmendra Pradhan doing amid ‘resign’ chorus by CJP, Cong: Group photos with MPs, reposting PM Modi's video",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/meeting-mps-reposting-pm-modis-promises-what-dharmendra-pradhan-is-doing-amid-resign-chorus-by-cjp-cong-led-oppn-101784890259680.html",
-      "published_date": "2026-07-24T11:40:27+00:00"
-    },
-    {
-      "title": "Martial law and mobilization extended in Ukraine: Zelensky signs laws",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4147594-martial-law-and-mobilization-extended-in-ukraine-zelensky-signs-laws.html",
-      "published_date": "2026-07-24T11:40:00+00:00"
-    },
-    {
-      "title": "Turkey: What chances does Ozel's new opposition party have?",
-      "source": "Deutsche Welle English",
-      "country": "Turkey",
-      "url": "https://www.dw.com/en/turkey-what-chances-does-ozel-s-new-opposition-party-have/a-78091681?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-24T11:28:00+00:00"
-    },
-    {
-      "title": "Ex-porn star sworn in as senator in Colombia",
-      "source": "The Punch Nigeria",
-      "country": "Colombia",
-      "url": "https://punchng.com/ex-porn-star-sworn-in-as-senator-in-colombia/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-24T10:34:21+00:00"
-    },
-    {
-      "title": "Premium Times to bring rare, intriguing details of 2025 alleged coup plot against Tinubu administration",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/897842-premium-times-to-bring-rare-intriguing-details-of-2025-alleged-coup-plot-against-tinubu-administration.html",
-      "published_date": "2026-07-24T10:00:25+00:00"
-    },
-    {
-      "title": "Germany live blog: Güntzler first says yes to Merz as Schnieder's successor - and then turns him down",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-schnieder-nachfolge-guentzler-sagt-merz-doch-ab-faz-110093143.html",
-      "published_date": "2026-07-24T09:29:08+00:00"
-    },
-    {
-      "title": "Power struggle: What's behind the AfD's bizarre dispute in North Rhine-Westphalia",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/was-hinter-dem-machtkampf-der-afd-in-nrw-steckt-accg-201055404.html",
-      "published_date": "2026-07-24T08:22:17+00:00"
-    },
-    {
-      "title": "Myanmar junta launches first official jade sale in China amid sanctions and conflict",
-      "source": "Myanmar Now",
-      "country": "China",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-first-official-jade-sale-in-china-amid-sanctions-and-conflict/",
-      "published_date": "2026-07-24T07:25:26+00:00"
-    },
-    {
-      "title": "Khalil al-Hayya: Who is the new leader of Hamas?",
-      "source": "FAZ Germany",
-      "country": "Palestine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wer-ist-der-neue-hamas-anfuehrer-khalil-al-hayya-accg-201057028.html",
-      "published_date": "2026-07-24T06:08:04+00:00"
-    },
-    {
-      "title": "British Prime Minister establishes new government headquarters in Manchester as a sign of his declared desire for decentralization",
-      "source": "La Tercera Chile",
-      "country": "United Kingdom",
-      "url": "https://www.latercera.com/mundo/noticia/primer-ministro-britanico-establece-nueva-sede-gubernamental-en-manchester-como-signo-de-su-declarado-afan-descentralizador/",
-      "published_date": "2026-07-24T05:48:29+00:00"
     }
   ]
 }
