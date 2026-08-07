@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-06T12:59:14.374683+00:00",
-    "story_count": 352,
+    "last_updated": "2026-08-07T01:44:34.445750+00:00",
+    "story_count": 355,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Russian troops execute another captured Ukrainian defender in Donetsk region",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4151773-russian-troops-execute-another-captured-ukrainian-defender-in-donetsk-region.html",
+      "published_date": "2026-08-07T00:45:00+00:00"
+    },
+    {
+      "title": "MK Yoav Segalovitz announces resignation from Knesset, departure from Yesh Atid party",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-904829",
+      "published_date": "2026-08-06T23:57:51+00:00"
+    },
+    {
+      "title": "US-backed Venezuela political transition talks begin without Nobel laureate Machado",
+      "source": "France 24 English",
+      "country": "Venezuela",
+      "url": "https://www.france24.com/en/americas/20260806-us-backed-venezuela-political-transition-talks-begin-without-nobel-laureate-machado",
+      "published_date": "2026-08-06T22:55:59+00:00"
+    },
+    {
+      "title": "Chavismo and the Venezuelan opposition hold their first dialogue to advance towards the political transition",
+      "source": "La Nacion Argentina",
+      "country": "Venezuela",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-chavismo-y-la-oposicion-venezolana-sostienen-su-primer-dialogo-para-avanzar-hacia-la-transicion-nid06082026/",
+      "published_date": "2026-08-06T22:41:51+00:00"
+    },
+    {
+      "title": "In Venezuela, start of talks between power and opposition, which could lead to a political transition and elections",
+      "source": "Le Monde France",
+      "country": "Venezuela",
+      "url": "https://www.lemonde.fr/international/article/2026/08/07/au-venezuela-debut-des-pourparlers-entre-pouvoir-et-opposition-qui-pourraient-deboucher-sur-une-transition-politique-et-des-elections_6740279_3210.html",
+      "published_date": "2026-08-06T22:20:12+00:00"
+    },
+    {
+      "title": "Chavismo and opposition begin dialogue to address the political transition in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/chavismo-y-oposicion-inician-dialogo-para-abordar-la-transicion-politica-en-venezuela/",
+      "published_date": "2026-08-06T21:22:54+00:00"
+    },
+    {
+      "title": "Presidente Kast inicia visita a Colombia para asistir a la asunción de Abelardo de la Espriella",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-emprende-vuelo-a-colombia-para-asistir-al-cambio-de-mando-asumira-abelardo-de-la-espriella/",
+      "published_date": "2026-08-06T21:14:34+00:00"
+    },
+    {
+      "title": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians/",
+      "published_date": "2026-08-06T19:13:16+00:00"
+    },
+    {
+      "title": "As the world looks away, Iran continues brutal hangings of protesters to crush the next uprising",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-904794",
+      "published_date": "2026-08-06T18:55:30+00:00"
+    },
+    {
+      "title": "Kast announces constitutional reform in security and promises actions against organized crime",
+      "source": "El Nacional Venezuela",
+      "country": "Chile",
+      "url": "https://www.elnacional.com/2026/08/kast-anuncia-reforma-constitucional-en-seguridad-y-promete-acciones-contra-el-crimen-organizado/",
+      "published_date": "2026-08-06T17:43:48+00:00"
+    },
+    {
+      "title": "Election campaign in Berlin: They are already drawing red lines",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/schwerdtner-macht-enteignungen-zur-koalitionsbedingung-201101327.html",
+      "published_date": "2026-08-06T15:48:47+00:00"
+    },
+    {
+      "title": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
+      "source": "The Guardian World",
+      "country": "India",
+      "url": "https://www.theguardian.com/world/2026/aug/06/india-bangladesh-relations-exiled-pm-speech-delhi-sheikh-hasina",
+      "published_date": "2026-08-06T14:30:43+00:00"
+    },
+    {
+      "title": "Meganalisis: 9 out of 10 Venezuelans consider the interim government's response to the earthquakes to be bad",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/meganalisis-9-de-cada-10-venezolanos-considera-mala-la-respuesta-del-gobierno-interino-a-los-terremotos/",
+      "published_date": "2026-08-06T14:21:15+00:00"
+    },
+    {
+      "title": "Court warns Bundestag: election auditing must not just be a tiresome duty",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-mahnt-den-bundestag-zur-pflicht-201101637.html",
+      "published_date": "2026-08-06T14:04:28+00:00"
+    },
+    {
+      "title": "Russia ramps up disinformation war as French presidential elections draw nearer",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/russia-ramps-up-disinformation-war-as-french-presidential-elections-draw-nearer",
+      "published_date": "2026-08-06T13:57:55+00:00"
+    },
     {
       "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today",
       "source": "La Nacion Argentina",
@@ -240,6 +345,13 @@
       "country": "United Kingdom",
       "url": "https://www.scmp.com/news/world/europe/article/3363086/uk-conservatives-defend-picking-former-neo-nazi-election-candidate?utm_source=rss_feed",
       "published_date": "2026-08-05T14:30:59+00:00"
+    },
+    {
+      "title": "Why these elections are the last chance to save Israel from its ‘spiral of collapse’ - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2ZIaGczVDdUVUs0STJYcUQ2MlNxV3BkM3lRNXVhVFQ3T2xWV2YxYWozQlBBYjRBcm9zbFhLQU4yY0JIZHR4STdGSlBWU0o0MUM4X1JzaW9pQjVqc3F6d3N3ZHRmSzAxa3l0VE05NTdfUUxKbjBLS3ZWaEFhb2lSblkzZEZ1bDNMU3VrX3BLMlRWUEZ2bXhjRWl3Wl9tZldaRXRGRXVlRU9iVUNiM2NrRmRISdIBuAFBVV95cUxOYXhPMHVVTnUzQXJSYU1Db2NuNDJlcmRBbmRqV0ZLeF94M3dUdWFucmJ3MERFUENBVS1MUEJ5T2JsVE1GRmlMV3EzTHAzbGMxUFhLdllQTG5peWNybnNFcTlVRHQxMElFeFFGcjIyZktlaUdZMmVQUVhtNUhNckVSajY4YmMxX3F0X1QxYWwwZDBFblVJeThjT05oT1B1M3BpenVmYzBSZ2REX29rR3JFRk9JMk8tY1Za?oc=5",
+      "published_date": "2026-08-05T14:14:00+00:00"
     },
     {
       "title": "IDF to deploy voting stations behind enemy lines in Lebanon, Syria, Gaza ahead of October election",
@@ -2431,97 +2543,6 @@
       "country": "United Kingdom",
       "url": "https://www.latercera.com/mundo/noticia/primer-ministro-britanico-establece-nueva-sede-gubernamental-en-manchester-como-signo-de-su-declarado-afan-descentralizador/",
       "published_date": "2026-07-24T05:48:29+00:00"
-    },
-    {
-      "title": "New PM cuts business rates for UK pubs in latest cost-of-living measure",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260723-new-pm-cuts-business-rates-for-uk-pubs-in-latest-cost-of-living-measure",
-      "published_date": "2026-07-23T23:26:54+00:00"
-    },
-    {
-      "title": "France will present Deschamps' successor next week",
-      "source": "El Nacional Venezuela",
-      "country": "France",
-      "url": "https://www.elnacional.com/2026/07/francia-presentara-al-sucesor-de-deschamps-la-proxima-semana/",
-      "published_date": "2026-07-23T22:57:34+00:00"
-    },
-    {
-      "title": "Russia passes ‘civil death’ legislation to freeze exiled critics’ money, block their passports, and cut off consular aid",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/cards/russia-passes-civil-death-legislation-to-freeze-exiled-critics-money-block-their-passports-and-cut-off-consular-aid",
-      "published_date": "2026-07-23T22:47:25+00:00"
-    },
-    {
-      "title": "Opposition MK warns government against restricting entry of Israelis to country prior to elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-903450",
-      "published_date": "2026-07-23T22:44:02+00:00"
-    },
-    {
-      "title": "United Russia’s top Duma candidate, war correspondent Yevgeny Poddubny, declared stock in Apple, Intel, and Nebius Group in his election filing",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/23/united-russia-s-top-duma-candidate-war-correspondent-yevgeny-poddubny-declared-stock-in-apple-intel-and-nebius-group-in-his-election-filing",
-      "published_date": "2026-07-23T18:01:39+00:00"
-    },
-    {
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T17:37:59+00:00"
-    },
-    {
-      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-07-23T17:25:05+00:00"
-    },
-    {
-      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "published_date": "2026-07-23T16:13:00+00:00"
-    },
-    {
-      "title": "Regions Calling: Russia’s Independent Candidates Face Their Toughest Election Yet",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/23/russias-independent-candidates-face-their-toughest-election-yet-a93322",
-      "published_date": "2026-07-23T15:44:00+00:00"
-    },
-    {
-      "title": "Ted Cruz calls for free and fair elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/senador-republicano-ted-cruz-pide-la-realizacion-de-elecciones-libres-y-justas-en-venezuela/",
-      "published_date": "2026-07-23T15:29:00+00:00"
-    },
-    {
-      "title": "In an old interview, Ukraine’s new commander-in-chief Mykhailo Drapatyi said Russia ‘has no right to exist’",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/23/in-an-old-interview-ukraine-s-new-commander-in-chief-mykhailo-drapatyi-said-russia-has-no-right-to-exist",
-      "published_date": "2026-07-23T14:15:54+00:00"
-    },
-    {
-      "title": "'Your resignation demand next': Abhijeet Dipke's message to PM Modi amid calls to remove Pradhan",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/your-resignation-demand-next-abhijeet-dipkes-message-to-pm-modi-amid-pradhans-removal-calls-101784812637396.html",
-      "published_date": "2026-07-23T13:42:27+00:00"
-    },
-    {
-      "title": "Iran regime change 'back on the menu' for Trump as diplomatic pressure falters - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/article-903428",
-      "published_date": "2026-07-23T13:26:13+00:00"
     }
   ]
 }
