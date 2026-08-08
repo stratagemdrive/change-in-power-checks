@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-07T23:31:50.755381+00:00",
-    "story_count": 360,
+    "last_updated": "2026-08-08T11:30:46.992873+00:00",
+    "story_count": 349,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Runway defect: Passengers stranded as UK airport suspends flights",
+      "source": "The Punch Nigeria",
+      "country": "United Kingdom",
+      "url": "https://punchng.com/runway-defect-passengers-stranded-as-uk-airport-suspends-flights/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-08T12:22:22+00:00"
+    },
+    {
+      "title": "Turkey's new opposition party offers hope, but its future is already in jeopardy",
+      "source": "RFI English",
+      "country": "Turkey",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260808-turkey-s-new-opposition-party-offers-hope-but-its-future-is-already-in-jeopardy",
+      "published_date": "2026-08-08T10:20:56+00:00"
+    },
+    {
+      "title": "An appeal to President Bola Ahmed Tinubu and all Nigerians: Stop the NFF elections, please! By Segun Odegbami",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/an-appeal-to-president-bola-ahmed-tinubu-and-all-nigerians-stop-the-nff-elections-please-by-segun-odegbami/",
+      "published_date": "2026-08-08T10:03:27+00:00"
+    },
+    {
+      "title": "Colombia’s new president ends dialogue, vows war on narco-terrorism",
+      "source": "The Punch Nigeria",
+      "country": "Colombia",
+      "url": "https://punchng.com/colombias-new-president-ends-dialogue-vows-war-on-narco-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-08T09:16:31+00:00"
+    },
+    {
+      "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
+      "source": "Euronews",
+      "country": "Colombia",
+      "url": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
+      "published_date": "2026-08-08T07:33:08+00:00"
+    },
+    {
+      "title": "The RN mayor of Montargis resigns, just four months after his election",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/08/le-maire-rn-de-montargis-demissionne-quatre-mois-seulement-apres-son-election_6741027_823448.html",
+      "published_date": "2026-08-08T07:30:02+00:00"
+    },
+    {
+      "title": "Russia’s only anti-war party eyes support boost at elections",
+      "source": "Japan Times",
+      "country": "Russia",
+      "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party/",
+      "published_date": "2026-08-08T06:33:00+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella: Colombia's new president goes into battle",
+      "source": "FAZ Germany",
+      "country": "Colombia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/abelardo-de-la-espriella-kolumbiens-neuer-praesident-zieht-in-den-kampf-accg-201107244.html",
+      "published_date": "2026-08-08T06:12:38+00:00"
+    },
+    {
+      "title": "Presidential candidate, Gabriel Attal files a complaint for “foreign interference” from Russia",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/france/20260808-candidat-%C3%A0-la-pr%C3%A9sidentielle-gabriel-attal-porte-plainte-pour-ing%C3%A9rence-%C3%A9trange-en-provenance-de-la-russie",
+      "published_date": "2026-08-08T05:49:13+00:00"
+    },
+    {
+      "title": "Abelardo De La Espriella appointed the 18 ministers who will accompany him during his administration as the new president of Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
+      "published_date": "2026-08-08T05:37:51+00:00"
+    },
+    {
+      "title": "Russia’s sole anti-war party targets coming elections, favours ceasefire",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
+      "published_date": "2026-08-08T03:09:30+00:00"
+    },
+    {
+      "title": "Until what time does the Prohibition Law extend in Colombia due to the presidential inauguration of Abelardo De La Espriella this Friday, August 7?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hasta-que-hora-se-extiende-la-ley-seca-en-colombia-por-la-posesion-presidencial-de-abelardo-de-la-espriella-este-viernes-7-de-agosto-3576983",
+      "published_date": "2026-08-08T02:37:28+00:00"
+    },
+    {
+      "title": "State election: Frei confirms ban on cooperation with AfD for CDU in Saxony-Anhalt",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/frei-bekraeftigt-kooperationsverbot-mit-afd-fuer-cdu-in-sachsen-anhalt-201107204.html",
+      "published_date": "2026-08-07T23:38:29+00:00"
+    },
     {
       "title": "Trump ally de la Espriella sworn in as Colombia president",
       "source": "The Punch Nigeria",
@@ -139,7 +230,7 @@
     {
       "title": "Iran officials 'would not be surprised' if Supreme Leader Mojtaba Khamenei dies soon: Report - The Times of India",
       "source": "Google News World",
-      "country": "India",
+      "country": "Iran",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbHpTNlBrX2dQUjJJY2w5dEpoR2VMd19RTzBweHlGMFM2NE0zMDZCV1JQczFoeDJOenEtcXFsQVlCaHN0QnVLNllEU2ZLUGZhMWg4WlFzMTZ1UTA3Vm9LUFljb2xmYkkyX0VEREdMYkt6TEhLcldmRlEyZE1lZml1THBtS3p3M09wQVJWMVFhLU9OVnVPdElycm15Vkp4WndFUjIwRDUxaFloOEw2RDlhMXl2NkVTeTA2UVZIS0dyNkZ1OEpJSWFpQjJzN2RqRkEyWDdoV2J4RTN2ajZibTNCbmpqQmpzQkd4WE5zVjhCb01VOWVzVUxxcl9hS3ZqZw?oc=5",
       "published_date": "2026-08-07T15:48:00+00:00"
     },
@@ -361,7 +452,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2410,174 +2501,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/videos/shorts/watch-rahul-says-pradhans-resignation-is-a-major-step-toward-reforming-indias-education-system/article71265978.ece",
       "published_date": "2026-07-25T11:34:34+00:00"
-    },
-    {
-      "title": "‘Time has come to remove this government’, Rahul Gandhi says as Dharmendra Pradhan resigns amid CJP protest",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/time-has-come-to-remove-this-government-rahul-says-as-dharmendra-pradhan-resigns-amid-cjp-protest-101784977347847.html",
-      "published_date": "2026-07-25T11:05:47+00:00"
-    },
-    {
-      "title": "After student protests: Indian education minister resigns",
-      "source": "FAZ Germany",
-      "country": "India",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nach-protesten-indiens-bildungsminister-zurueckgetreten-accg-201064510.html",
-      "published_date": "2026-07-25T10:58:12+00:00"
-    },
-    {
-      "title": "India’s Education Minister Steps Down, Handing Win to Protesters - The New York Times",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTVY4V1dQS01YZE9Ra3luR3NFcExfMTY4NkZwdktuR3FNZHNYdU5GTURweDRqVndSS2M5U0pFWTBIbmZNaTBSQS1CeUtqQ0J0aVdtTGpNWDNrTl9LYTF5V21ia1hoRGY1QlRnS0JYSS1aeVpnMzlLZDcyWXlfZU03MFVpQkhjSjIwdXJuV3ZsaExkR3FqYWNwTEEycVREUUJ2RXVyYg?oc=5",
-      "published_date": "2026-07-25T10:41:22+00:00"
-    },
-    {
-      "title": "India: faced with the revolt of the “cockroach party”, the Minister of Education resigns",
-      "source": "France 24 FR",
-      "country": "India",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260725-inde-face-%C3%A0-la-fronde-du-parti-des-cafards-le-ministre-de-l-%C3%A9ducation-d%C3%A9missionne",
-      "published_date": "2026-07-25T10:27:16+00:00"
-    },
-    {
-      "title": "‘Congratulations to India’: How politicians reacted to Pradhan's resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dharmendra-pradhan-resigns-leaders-reaction-arvind-kejriwal-bjp-congress-aap-tmc-rahul-gandhi-neet-protest-101784972856659.html",
-      "published_date": "2026-07-25T10:24:11+00:00"
-    },
-    {
-      "title": "Victory for protest movement - Indian minister resigns",
-      "source": "DR News Denmark",
-      "country": "India",
-      "url": "https://www.dr.dk/nyheder/seneste/sejr-til-protestbevaegelse-indisk-minister-traeder-tilbage",
-      "published_date": "2026-07-25T10:19:22+00:00"
-    },
-    {
-      "title": "‘Not the end’: Rahul Gandhi, Arvind Kejriwal’s plans after Pradhan’s resignation",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/opposition-reacts-dharmendra-pradhan-resigns-kejriwal-kharge-congress-cjp-protest-modi-10803177/",
-      "published_date": "2026-07-25T10:02:51+00:00"
-    },
-    {
-      "title": "‘Thanks for calling us cockroaches’: Abhijeet Dipke's message for CJI Surya Kant as Modi govt gives in, minister resigns",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/thanks-for-calling-us-cockroaches-abhijeet-dipkes-message-for-cji-surya-kant-as-modi-govt-gives-in-minister-resigns-101784973109257.html",
-      "published_date": "2026-07-25T10:01:22+00:00"
-    },
-    {
-      "title": "Gadi Eisenkot, the former general who challenges Netanyahu in the Israeli elections",
-      "source": "La Tercera Chile",
-      "country": "Israel",
-      "url": "https://www.latercera.com/mundo/noticia/gadi-eisenkot-el-exgeneral-que-desafia-a-netanyahu-en-las-elecciones-de-israel/",
-      "published_date": "2026-07-25T10:00:00+00:00"
-    },
-    {
-      "title": "The odyssey of reaching Junta de Valeriano between mud and snow",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/nacional/noticia/la-odisea-de-llegar-a-junta-de-valeriano/",
-      "published_date": "2026-07-25T10:00:00+00:00"
-    },
-    {
-      "title": "Full text of Dharmendra Pradhan’s resignation letter to PM Modi: ‘Took responsibility, never turned my back’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/dharmendra-pradhan-resignation-to-pm-modi-letter-full-text-10803197/",
-      "published_date": "2026-07-25T09:41:23+00:00"
-    },
-    {
-      "title": "Indian education minister resigns after mass protests over exam paper leaks",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
-      "published_date": "2026-07-25T09:38:35+00:00"
-    },
-    {
-      "title": "Dharmendra Pradhan's resignation breaks with Modi govt's long-held line, ‘this is not UPA’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dharmendra-pradhans-resignation-breaks-with-modi-govts-long-held-line-on-this-is-not-upa-101784971363667.html",
-      "published_date": "2026-07-25T09:37:09+00:00"
-    },
-    {
-      "title": "India's education minister resigns after mass protests led by 'Cockroach' movement",
-      "source": "Sky News World",
-      "country": "India",
-      "url": "https://news.sky.com/story/indias-education-minister-resigns-after-mass-protests-led-by-cockroach-movement-13566842",
-      "published_date": "2026-07-25T09:05:00+00:00"
-    },
-    {
-      "title": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "published_date": "2026-07-25T08:54:20+00:00"
-    },
-    {
-      "title": "Italy's defense minister has offered a deposed Ukrainian colleague a job as an adviser",
-      "source": "DR News Denmark",
-      "country": "Ukraine",
-      "url": "https://www.dr.dk/nyheder/seneste/italiens-forsvarsminister-har-tilbudt-afsat-ukrainsk-kollega-job-som-raadgiver",
-      "published_date": "2026-07-25T08:45:16+00:00"
-    },
-    {
-      "title": "Youth protesters celebrate after India's education minister resigns following exam leak scandal",
-      "source": "CBC News World",
-      "country": "India",
-      "url": "https://www.cbc.ca/news/world/india-education-minister-resigns-9.7283715?cmp=rss",
-      "published_date": "2026-07-25T08:18:59+00:00"
-    },
-    {
-      "title": "In Germany, Friedrich Merz reshuffles his government a few weeks before regional elections where an unprecedented surge from the far right is expected",
-      "source": "Le Monde France",
-      "country": "Germany",
-      "url": "https://www.lemonde.fr/international/article/2026/07/25/en-allemagne-friedrich-merz-remanie-son-gouvernement-a-quelques-semaines-d-elections-regionales-ou-une-poussee-inedite-de-l-extreme-droite-est-attendue_6732030_3210.html",
-      "published_date": "2026-07-25T08:00:14+00:00"
-    },
-    {
-      "title": "AJK Election Commission warns against violating code after PML-N’s pre-poll promises",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2018276/ajk-election-commission-warns-against-violating-code-after-pml-ns-pre-poll-promises",
-      "published_date": "2026-07-25T07:59:36+00:00"
-    },
-    {
-      "title": "Punjab AAP hits reset in seats before 2027 elections, sparks ticket struggle",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/punjab-aap-hits-reset-in-seats-before-2027-elections-sparks-ticket-struggle-10803021/",
-      "published_date": "2026-07-25T07:25:09+00:00"
-    },
-    {
-      "title": "‘No reshuffle, sack Pradhan’: Rahul Gandhi backs protesting students",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/india/no-reshuffle-sack-pradhan-rahul-gandhi-backs-protesting-students-10802991/",
-      "published_date": "2026-07-25T07:09:07+00:00"
-    },
-    {
-      "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
-      "source": "France 24 English",
-      "country": "Syria",
-      "url": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
-      "published_date": "2026-07-25T06:08:03+00:00"
-    },
-    {
-      "title": "Trump says Venezuela is not ready for elections and praises Delcy Rodríguez for her “fantastic work”",
-      "source": "CiberCuba",
-      "country": "Venezuela",
-      "url": "https://www.cibercuba.com/noticias/2026-07-25-u1-e209363-s27061-nid336085-trump-dice-venezuela-esta-lista-elecciones-elogia",
-      "published_date": "2026-07-25T03:49:45+00:00"
-    },
-    {
-      "title": "Javier Milei's agenda in Brazil to support Bolsonaro's son in the presidential elections",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/politica/la-agenda-de-javier-milei-en-brasil-para-apoyar-al-hijo-de-bolsonaro-en-las-elecciones-nid23072026/",
-      "published_date": "2026-07-24T23:32:48+00:00"
     }
   ]
 }
