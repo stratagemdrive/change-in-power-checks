@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-08T11:30:46.992873+00:00",
-    "story_count": 349,
+    "last_updated": "2026-08-08T23:25:16.201700+00:00",
+    "story_count": 328,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "The Argentine ambassador is leaving Brazil and the forecast is that the relationship will continue in crisis, at least until the October elections",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/politica/el-embajador-argentino-se-va-de-brasil-y-el-pronostico-es-que-la-relacion-seguira-en-crisis-al-menos-nid08082026/",
+      "published_date": "2026-08-08T22:30:55+00:00"
+    },
+    {
+      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "published_date": "2026-08-08T22:22:36+00:00"
+    },
+    {
+      "title": "Colombia: attack on a tollbooth attributed to Farc dissidents the day after the inauguration of the new president",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html",
+      "published_date": "2026-08-08T19:27:49+00:00"
+    },
+    {
+      "title": "Dutchman takes over Tour de France lead after big coup",
+      "source": "Politiken Denmark",
+      "country": "France",
+      "url": "https://politiken.dk/sport/cykling/art10940487/Holl%C3%A6nder-overtager-Tour-de-France-f%C3%B8ring-efter-stort-kup",
+      "published_date": "2026-08-08T16:25:59+00:00"
+    },
+    {
+      "title": "Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready?",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/features-and-interviews/901533-nigerias-2027-election-will-be-fought-in-the-age-of-ai-is-the-country-ready.html",
+      "published_date": "2026-08-08T16:16:04+00:00"
+    },
+    {
+      "title": "Elections in Brazil: Trump's disservice",
+      "source": "FAZ Germany",
+      "country": "Brazil",
+      "url": "https://www.faz.net/aktuell/politik/ausland/donald-trump-im-brasilien-wahlkampf-hilft-er-lula-201094579.html",
+      "published_date": "2026-08-08T14:05:17+00:00"
+    },
+    {
+      "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom - Al Jazeera",
+      "source": "Google News World",
+      "country": "Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdy1HZGEtU0x3MkxkNEFha2lYSmdxWFV1RldMRjNwSmhYYTI4R3pFbXRqR1hNb2wxVl9kbEdOXzZWZ0hrOThZSElvN1p6OGhPcFlaQ3Y5dmRRR2pSRkdUMnlYOFNmTE9yUHNHRTBNTTgwX09YNGpVSFltMTF2T3F1dnZjSVBGWDd0MEluQ1kwUFRVVDVOaHJwY3VMV0I4OHpPYTdmdk9YZmQzQjNER2fSAbMBQVVfeXFMTjcwS1laaURYRkF3WlRuTjhmRG9GYUpVMDdNLXpaSHBtRWpqUHJ6UkJuOFp2T2VkenlLT0lFQ1JDemhzNGJ4Q3RBWDJqNWRkTzJ1RmxIQ2t6eFB6V2o3MkhCX2c2RDNjSjduRFpWV3g3LVEwcGhDVEpKNzZ2OEVHbzBIX3k3and0R0xnWEdGT0xoRllvSFlrSlA3ZlpSZlk3SV9jSFQ5dVd0MEsxdXpTdk52NWc?oc=5",
+      "published_date": "2026-08-08T13:50:05+00:00"
+    },
+    {
+      "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
+      "source": "Al Jazeera English",
+      "country": "Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+      "published_date": "2026-08-08T13:42:06+00:00"
+    },
+    {
       "title": "Runway defect: Passengers stranded as UK airport suspends flights",
       "source": "The Punch Nigeria",
       "country": "United Kingdom",
       "url": "https://punchng.com/runway-defect-passengers-stranded-as-uk-airport-suspends-flights/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-08-08T12:22:22+00:00"
+    },
+    {
+      "title": "Abelardo De La Espriella appointed the 18 ministers who will accompany him during his administration as the new president of Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
+      "published_date": "2026-08-08T12:14:15+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella, the new head of state of Colombia",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-abelardo-de-la-espriella-le-nouveau-chef-d-etat-de-la-colombie",
+      "published_date": "2026-08-08T11:18:47+00:00"
     },
     {
       "title": "Turkey's new opposition party offers hope, but its future is already in jeopardy",
@@ -123,18 +193,18 @@
       "published_date": "2026-08-08T05:49:13+00:00"
     },
     {
-      "title": "Abelardo De La Espriella appointed the 18 ministers who will accompany him during his administration as the new president of Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
-      "published_date": "2026-08-08T05:37:51+00:00"
-    },
-    {
       "title": "Russia’s sole anti-war party targets coming elections, favours ceasefire",
       "source": "South China Morning Post",
       "country": "Russia",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
       "published_date": "2026-08-08T03:09:30+00:00"
+    },
+    {
+      "title": "Presidential 2027: ten years after the election of Emmanuel Macron, the candidates are betting on an “experience bonus”",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/08/presidentielle-2027-dix-ans-apres-l-election-d-emmanuel-macron-les-candidats-parient-sur-une-prime-a-l-experience_6740710_823448.html",
+      "published_date": "2026-08-08T03:00:01+00:00"
     },
     {
       "title": "Until what time does the Prohibition Law extend in Colombia due to the presidential inauguration of Abelardo De La Espriella this Friday, August 7?",
@@ -452,7 +522,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2284,223 +2354,6 @@
       "country": "United Kingdom",
       "url": "https://indianexpress.com/article/world/uk-cabinet-reshuffle-indian-origin-mps-burnham-10803794/",
       "published_date": "2026-07-26T00:47:09+00:00"
-    },
-    {
-      "title": "American government denies intention to 'undermine' elections in Brazil",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml",
-      "published_date": "2026-07-25T23:05:00+00:00"
-    },
-    {
-      "title": "'The only ones who benefit from the distance between us are Petro and Cepeda': Hernán Cadavid on clashes between Uribism and the new government",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/congreso/a-los-unicos-que-les-sirve-la-distancia-entre-nosotros-es-a-petro-y-cepeda-hernan-cadavid-sobre-choques-entre-el-uribismo-y-el-nuevo-gobierno-3573843",
-      "published_date": "2026-07-25T19:14:13+00:00"
-    },
-    {
-      "title": "Presidential election in Brazil: Jair Bolsonaro's son nominated as candidate against Lula",
-      "source": "France 24 FR",
-      "country": "Brazil",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260725-pr%C3%A9sidentielle-au-br%C3%A9sil-le-fils-de-jair-bolsonaro-investi-candidat-face-%C3%A0-lula",
-      "published_date": "2026-07-25T18:51:13+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro is invested as a candidate for the Brazilian presidential elections",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/07/flavio-bolsonaro-es-investido-como-candidato-a-las-presidenciales-de-brasil/",
-      "published_date": "2026-07-25T17:57:50+00:00"
-    },
-    {
-      "title": "India's 'cockroach' party says ending protest after minister resigns",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/india-s-cockroach-party-says-ending-protest-after-minister-resigns",
-      "published_date": "2026-07-25T16:37:34+00:00"
-    },
-    {
-      "title": "India’s 'Cockroach' movement ends protests after education minister resigns",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/india-s-cockroach-movement-ends-protests-after-education-minister-resigns",
-      "published_date": "2026-07-25T16:24:18+00:00"
-    },
-    {
-      "title": "Brazil's Liberal Party proclaims Flávio Bolsonaro as presidential candidate to face Lula",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/partido-liberal-de-brasil-proclama-a-flavio-bolsonaro-como-candidato-presidencial-para-enfrentar-a-lula/",
-      "published_date": "2026-07-25T16:18:03+00:00"
-    },
-    {
-      "title": "In pictures: Indian youth supporting Cockroach Janta Party celebrate education minister's resignation",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2018313/in-pictures-indian-youth-supporting-cockroach-janta-party-celebrate-education-ministers-resignation",
-      "published_date": "2026-07-25T15:50:55+00:00"
-    },
-    {
-      "title": "'Cockroaches won': India's education minister resigns after days of youth protests",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2018286/cockroaches-won-indias-education-minister-resigns-after-days-of-youth-protests",
-      "published_date": "2026-07-25T15:49:31+00:00"
-    },
-    {
-      "title": "Brazil denies visas to Trump officials over election interference fears",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-trump-officials-visa-denied-lula-bolsonaro-b3021518.html",
-      "published_date": "2026-07-25T15:43:51+00:00"
-    },
-    {
-      "title": "India's 'Cockroach' movement ends protests after education minister resigns",
-      "source": "Euronews",
-      "country": "India",
-      "url": "http://www.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns",
-      "published_date": "2026-07-25T15:39:46+00:00"
-    },
-    {
-      "title": "Dharmendra Pradhan resignation: AAP calls it victory for democracy, demands education reforms",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dharmendra-pradhan-resignation-aap-calls-it-victory-for-democracy-demands-education-reforms-101784993168124.html",
-      "published_date": "2026-07-25T15:28:26+00:00"
-    },
-    {
-      "title": "Indian Education Minister resigns after massive student protests over irregularities",
-      "source": "La Tercera Chile",
-      "country": "India",
-      "url": "https://www.latercera.com/mundo/noticia/renuncia-ministro-de-educacion-de-india-tras-masivas-protestas-estudiantiles-por-irregularidades-en-el-sistema-educativo/",
-      "published_date": "2026-07-25T15:02:24+00:00"
-    },
-    {
-      "title": "Tour de France: Carapaz winner of the queen stage, Seixas failed to overthrow the podium",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/sports/20260725-tour-de-france-carapaz-vainqueur-de-l-%C3%A9tape-reine-seixas-n-a-pas-r%C3%A9ussi-%C3%A0-renverser-le-podium",
-      "published_date": "2026-07-25T14:52:30+00:00"
-    },
-    {
-      "title": "Here's the last time a Union minister resigned under Modi govt because of protests",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dharemendra-pradhan-mj-akbar-modi-government-the-last-time-a-union-minister-had-to-quit-because-of-protests-cjp-dipke-101784988642931.html",
-      "published_date": "2026-07-25T14:40:12+00:00"
-    },
-    {
-      "title": "'Dharmendra Pradhan resigned under no pressure,' says BJP leader; urges parents not to send students to ‘such protests’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dharmendra-pradhan-s-resignation-was-not-under-pressure-says-bjp-mp-nishikant-dubey-cjp-protest-jantar-mantar-modi-govt-101784987470148.html",
-      "published_date": "2026-07-25T14:31:35+00:00"
-    },
-    {
-      "title": "India’s education minister resigns in victory for Cockroach youth movement protests",
-      "source": "The Guardian World",
-      "country": "India",
-      "url": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
-      "published_date": "2026-07-25T13:54:33+00:00"
-    },
-    {
-      "title": "K C Venugopal: ‘Pradhan’s resignation is a united victory of youth, students, Rahul Gandhi and Oppn’",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/political-pulse/k-c-venugopal-pradhan-resignation-victory-youth-students-rahul-gandhi-oppn-10803517/",
-      "published_date": "2026-07-25T13:52:50+00:00"
-    },
-    {
-      "title": "Protesters celebrate resignation of India's education minister",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T13:44:01+00:00"
-    },
-    {
-      "title": "PML-N's 'gift': Buses promised by Maryam reach AJK as election commission warns against violating electoral code",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2018276/pml-ns-gift-buses-promised-by-maryam-reach-ajk-as-election-commission-warns-against-violating-electoral-code",
-      "published_date": "2026-07-25T13:19:27+00:00"
-    },
-    {
-      "title": "‘Cockroaches won’: India’s youth protest leaders declare victory as minister resigns - NBC News",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzNmUDVORHBMVFpHMTdCUE1mU0NvZ2trdkpsWkJqUl9HM1NtZWpNUTRrZUxzcHM1X0NBbnVJTHJpVDRJVXVfZVExUTE4X2N4STlmTy1hVGtnZFMxZ2hZWmxJNld2VlVERllWQkxTal9aLUJSQUVJTlU4YnlWNGlQQ2I4QnFZVkpnS2w3dkVTMHZ0UTFyS2dyYlRxMXowbE1qcHFhVjlIenRiNFQ5M1Y0Njk2ckU3NmtU?oc=5",
-      "published_date": "2026-07-25T13:10:40+00:00"
-    },
-    {
-      "title": "After Pradhan's resignation, PM Modi's first X post celebrates Unesco recognition: ‘Proud moment for every Indian’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/after-pradhans-resignation-pm-modis-first-x-post-celebrates-unesco-recognition-proud-moment-for-every-indian-101784983566233.html",
-      "published_date": "2026-07-25T13:03:45+00:00"
-    },
-    {
-      "title": "India's education minister resigns in major victory for youth protesters",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/india-s-education-minister-resigns-in-major-victory-for-youth-protesters",
-      "published_date": "2026-07-25T12:47:33+00:00"
-    },
-    {
-      "title": "India’s ‘Cockroach’ movement ends protests after education minister resigns - AP News",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
-      "published_date": "2026-07-25T12:47:00+00:00"
-    },
-    {
-      "title": "India’s education minister resigns after days of ‘Cockroach’ youth protests over exam paper leaks",
-      "source": "Egypt Independent",
-      "country": "India",
-      "url": "https://www.egyptindependent.com/indias-education-minister-resigns-after-days-of-cockroach-youth-protests-over-exam-paper-leaks/",
-      "published_date": "2026-07-25T12:34:50+00:00"
-    },
-    {
-      "title": "Ukrainians back ousted defence minister as political crisis brews",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
-      "published_date": "2026-07-25T12:28:17+00:00"
-    },
-    {
-      "title": "Trump tries to send advisors to Brazil to question elections, but Itamaraty denies visas",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml",
-      "published_date": "2026-07-25T12:12:00+00:00"
-    },
-    {
-      "title": "‘Historic day for youth in India’: Norwegian journalist Helle Lyng celebrates Dharmendra Pradhan's resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/historic-day-for-youth-in-india-norwegian-journalist-helle-lyng-celebrates-dharmendra-pradhans-resign-cjp-protest-101784978737658.html",
-      "published_date": "2026-07-25T11:44:19+00:00"
-    },
-    {
-      "title": "Student revolt in India: the Minister of Education ends up resigning",
-      "source": "Le Figaro France",
-      "country": "India",
-      "url": "https://www.lefigaro.fr/international/fronde-des-etudiants-en-inde-le-ministre-de-l-education-finit-par-demissionner-20260725",
-      "published_date": "2026-07-25T11:43:17+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Burhan in Asmara, ceasefire initiative tops agenda | Museveni invites Burhan to Uganda over South Sudan elections, Burhan-Hemedti channel | Burhan accelerates state-led dialogue plan | Deadly RSF drone strikes along Chad border as forces prepare for possible battle over Tina",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/07/25/news/politics/sudan-nashra-burhan-in-asmara-ceasefire-initiative-tops-agenda-museveni-invites-burhan-to-uganda-over-south-sudan-elections-burhan-hemedti-channel-burhan-accelerates-state-led-dialogue-plan-d/",
-      "published_date": "2026-07-25T11:34:41+00:00"
-    },
-    {
-      "title": "Rahul says Pradhan’s resignation is a major step toward reforming India’s education system",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/videos/shorts/watch-rahul-says-pradhans-resignation-is-a-major-step-toward-reforming-indias-education-system/article71265978.ece",
-      "published_date": "2026-07-25T11:34:34+00:00"
     }
   ]
 }
