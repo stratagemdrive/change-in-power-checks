@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-08T23:25:16.201700+00:00",
-    "story_count": 328,
+    "last_updated": "2026-08-09T11:31:23.837390+00:00",
+    "story_count": 327,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Publish your assets before election, SERAP urges Tinubu, Atiku, Obi, others",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/publish-your-assets-before-election-serap-urges-tinubu-atiku-obi-others/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-09T09:47:08+00:00"
+    },
+    {
+      "title": "Colombia: two attacks after the election of the new president",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260809-colombie-deux-attaques-apr%C3%A8s-l-%C3%A9lection-du-nouveau-pr%C3%A9sident",
+      "published_date": "2026-08-09T09:40:36+00:00"
+    },
+    {
+      "title": "Wildfires: British Columbia declares state of emergency, thousands forced to flee homes",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/wildfires-british-columbia-declares-state-of-emergency-thousands-forced-to-flee-homes",
+      "published_date": "2026-08-09T08:58:09+00:00"
+    },
+    {
+      "title": "Demi Vollering topples the Tour de France on the eve of the finish",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260809-demi-vollering-renverse-le-tour-de-france-%C3%A0-la-veille-de-l-arriv%C3%A9e",
+      "published_date": "2026-08-09T08:18:36+00:00"
+    },
+    {
+      "title": "Tens of thousands flee British Columbia wildfire as state of emergency declared",
+      "source": "The Independent UK",
+      "country": "United Kingdom",
+      "url": "https://www.independent.co.uk/news/world/americas/british-columbia-bald-range-fire-b3029919.html",
+      "published_date": "2026-08-09T07:49:50+00:00"
+    },
+    {
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "source": "BBC World",
+      "country": "Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T06:46:40+00:00"
+    },
+    {
+      "title": "Car bomb hits Colombia highway day after new president sworn in",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-09T04:32:32+00:00"
+    },
+    {
+      "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
+      "source": "Japan Times",
+      "country": "United Kingdom",
+      "url": "https://www.japantimes.co.jp/environment/2026/08/09/british-columbia-emergency-wildfires/",
+      "published_date": "2026-08-09T01:04:00+00:00"
+    },
     {
       "title": "The Argentine ambassador is leaving Brazil and the forecast is that the relationship will continue in crisis, at least until the October elections",
       "source": "La Nacion Argentina",
@@ -93,6 +149,13 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/features-and-interviews/901533-nigerias-2027-election-will-be-fought-in-the-age-of-ai-is-the-country-ready.html",
       "published_date": "2026-08-08T16:16:04+00:00"
+    },
+    {
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance - nytimes.com",
+      "source": "Google News World",
+      "country": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnQ0d3FCSjl6MlhMSDhaY05wTEJwa0ZsVm9CUFQ4d1NfcWtPdERNM3ZIdzI4LUxITEI4TXEtdDRvNzBjdmJ6YkxoYmRna1BGTi1qOXJ3R1ZxS2QyaWxLQW9OV1JiVFhzWk1fWjNMSGJKMkU5ZmJSU2hUWjBoOFNPa2V1THduTjR5WWM0bXJuRWI2OGM?oc=5",
+      "published_date": "2026-08-08T14:57:24+00:00"
     },
     {
       "title": "Elections in Brazil: Trump's disservice",
@@ -149,6 +212,13 @@
       "country": "Nigeria",
       "url": "https://www.vanguardngr.com/2026/08/an-appeal-to-president-bola-ahmed-tinubu-and-all-nigerians-stop-the-nff-elections-please-by-segun-odegbami/",
       "published_date": "2026-08-08T10:03:27+00:00"
+    },
+    {
+      "title": "Weekend reads: Second gene editing death in China reported; Jason Arday’s resignation from Cambridge; Retraction Watch’s sweet 16 - Retraction Watch",
+      "source": "Google News World",
+      "country": "China",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFBzd3ZybElZNHktdjFqUDBGOHlaSXVrZElLanB1RVQ0R0ZNYkJxSVhJZEExZlVWZkJGMlJwQjl5RElmdzVmTURMZ29ZeG5la0MyaFhUNUhZdVpPWEVYRWc3SW96ZlpWLVE5Mk0yNUwtWFhLb2daekJKSGdfZWl4MEIwZmpRMlRwZjd4T0VhbHRkZUN5eUhXQmpfU2xLTHJzU3ltMWFPX0RMN01qalBTUVU0bVJwdGFkbVQwLUh2MTBFMXRXQVd5WER2TFVsYTFDRUVPblctM21yeXlhdS1Dd2hEaGh4RmRKb0dURkxuTndqNl9HdVAw?oc=5",
+      "published_date": "2026-08-08T10:00:00+00:00"
     },
     {
       "title": "Colombia’s new president ends dialogue, vows war on narco-terrorism",
@@ -377,7 +447,7 @@
     {
       "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "France",
       "url": "https://meduza.io/en/feature/2026/08/07/how-russia-is-impersonating-french-news-outlets-in-a-bid-to-influence-france-s-next-presidential-election",
       "published_date": "2026-08-07T09:33:52+00:00"
     },
@@ -522,7 +592,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2277,83 +2347,6 @@
       "country": "United Kingdom",
       "url": "https://www.scmp.com/news/world/europe/article/3361902/uks-burnham-putting-britain-first-he-rules-out-2029-election?utm_source=rss_feed",
       "published_date": "2026-07-26T11:36:50+00:00"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "source": "Deutsche Welle English",
-      "country": "Pakistan",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-26T10:11:00+00:00"
-    },
-    {
-      "title": "BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party: Report",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/wont-delete-bjp-mps-daughter-defends-critical-post-on-pradhans-resignation-instagram-account-now-taken-down-101785055587170.html",
-      "published_date": "2026-07-26T10:02:12+00:00"
-    },
-    {
-      "title": "Sudan civil war: Civilians used as 'human shields'",
-      "source": "Deutsche Welle English",
-      "country": "Sudan",
-      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-26T09:56:00+00:00"
-    },
-    {
-      "title": "Brazil denies entry to senior Trump officials ahead of elections",
-      "source": "Deutsche Welle English",
-      "country": "Brazil",
-      "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-26T05:45:00+00:00"
-    },
-    {
-      "title": "Bolsonaro's son has been nominated as presidential candidate in Brazil",
-      "source": "Politiken Denmark",
-      "country": "Brazil",
-      "url": "https://politiken.dk/internationalt/art10927676/Bolsonaros-s%C3%B8n-er-udpeget-som-pr%C3%A6sidentkandidat-i-Brasilien",
-      "published_date": "2026-07-26T05:09:19+00:00"
-    },
-    {
-      "title": "In Brazil, “heir” Flavio Bolsonaro invested in the October presidential election",
-      "source": "Le Monde France",
-      "country": "Brazil",
-      "url": "https://www.lemonde.fr/international/article/2026/07/26/au-bresil-l-heritier-flavio-bolsonaro-investi-pour-la-presidentielle-d-octobre_6732875_3210.html",
-      "published_date": "2026-07-26T04:34:16+00:00"
-    },
-    {
-      "title": "EXCLUSIVE: How coup suspect mocked Tinubu after Independence Day parade was cancelled",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/898199-exclusive-how-coup-suspect-mocked-tinubu-after-independence-day-parade-was-cancelled.html",
-      "published_date": "2026-07-26T04:17:30+00:00"
-    },
-    {
-      "title": "President-elect Abelardo de la Espriella recalled the verses that Rafael Escalona dedicated to him 25 years ago in France: 'I can't help but get emotional'",
-      "source": "El Tiempo Colombia",
-      "country": "France",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-recordo-los-versos-que-rafael-escalona-le-dedico-hace-25-anos-en-francia-no-puedo-evitar-emocionarme-3573894",
-      "published_date": "2026-07-26T03:37:31+00:00"
-    },
-    {
-      "title": "Milei in Rural: the exhibition is officially inaugurated and the countryside is excited with an announcement to lower withholdings for meat",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/campo/milei-en-la-rural-manana-se-inaugura-la-muestra-el-presidente-destacara-logros-y-el-campo-se-nid25072026/",
-      "published_date": "2026-07-26T03:28:44+00:00"
-    },
-    {
-      "title": "Fear of losing Gen Z, poll math forced BJP's hand in Dharmendra Pradhan's resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/fear-of-losing-gen-z-poll-math-forced-bjp-hand-in-dharmendra-pradhans-resignation-cjp-neet-protests-101785026877933.html",
-      "published_date": "2026-07-26T00:55:16+00:00"
-    },
-    {
-      "title": "UK cabinet reshuffle 2026: 3 Indian-origin ministers named under Andy Burnham",
-      "source": "Indian Express",
-      "country": "United Kingdom",
-      "url": "https://indianexpress.com/article/world/uk-cabinet-reshuffle-indian-origin-mps-burnham-10803794/",
-      "published_date": "2026-07-26T00:47:09+00:00"
     }
   ]
 }
