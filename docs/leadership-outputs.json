@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-09T11:31:23.837390+00:00",
-    "story_count": 327,
+    "last_updated": "2026-08-09T23:29:12.409319+00:00",
+    "story_count": 330,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3363469/uk-pm-burnham-vows-end-subscription-traps-amid-cost-living-crisis?utm_source=rss_feed",
+      "published_date": "2026-08-09T22:08:46+00:00"
+    },
+    {
+      "title": "Abelardo de la Espriella responded to María Corina Machado for her message after the presidential inauguration in Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-respondio-a-maria-corina-machado-por-su-mensaje-tras-toma-posesion-presidencial-en-colombia/",
+      "published_date": "2026-08-09T19:01:52+00:00"
+    },
+    {
+      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+      "published_date": "2026-08-09T15:20:18+00:00"
+    },
+    {
+      "title": "French presidential candidate files lawsuit over alleged Russian interference",
+      "source": "Ukrinform",
+      "country": "France",
+      "url": "https://www.ukrinform.net/rubric-polytics/4152564-french-presidential-candidate-files-lawsuit-over-alleged-russian-interference.html",
+      "published_date": "2026-08-09T14:07:00+00:00"
+    },
+    {
+      "title": "Over 20,000 flee wildfires as British Columbia declares state of emergency",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/2026/08/09/over-20000-flee-wildfires-as-british-columbia-declares-state-of-emergency",
+      "published_date": "2026-08-09T14:03:34+00:00"
+    },
+    {
+      "title": "Ricardo Montaner's request to the new president of Colombia: \"Help Venezuela recover its freedom and democracy\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/la-peticion-de-ricardo-montaner-al-nuevo-presidente-de-colombia-ayuda-a-venezuela-a-que-recupere-su-libertad-y-su-democracia/",
+      "published_date": "2026-08-09T12:56:14+00:00"
+    },
+    {
+      "title": "Pezeshkian recently met Supreme Leader Khamenei, state media reports",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recently-met-supreme-leader-khamenei-state-media-reports",
+      "published_date": "2026-08-09T12:46:48+00:00"
+    },
     {
       "title": "Publish your assets before election, SERAP urges Tinubu, Atiku, Obi, others",
       "source": "The Punch Nigeria",
@@ -109,11 +158,25 @@
       "published_date": "2026-08-09T04:32:32+00:00"
     },
     {
+      "title": "Missile Barrages Against Ukraine, Switching Off Crimea, Russia’s Military Reshuffle and Preparing for War in Taiwan. The Big Five, 9 August edition - Futura Doctrina | Mick Ryan",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNXhua0JrWnVFa2xFMVQwN0JPdnIwek5YSWdpdjZySGgxaFB5czJIWVRPNkI3Um1SUjdsV2c3UmdwdFZtd0t4cHhhcVI0T3FyenprQXM1Z2xQcWRDWVJYdnpCaXl3Q0hiQmpVU010cWZyQQ?oc=5",
+      "published_date": "2026-08-09T02:38:50+00:00"
+    },
+    {
       "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
       "source": "Japan Times",
       "country": "United Kingdom",
       "url": "https://www.japantimes.co.jp/environment/2026/08/09/british-columbia-emergency-wildfires/",
       "published_date": "2026-08-09T01:04:00+00:00"
+    },
+    {
+      "title": "Car bomb attack rattles Colombia after inauguration of hardline president - Al Jazeera",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlg3LXBnaVVlVWMtRWc1V0J6bVZUZEs5ZHFHNk9HT3hvYUdHTnVCYjhrZWdLUWpvdmhDS3hpRkVud0l5MkRpUjhpRkd5TWtNRmVxbVV0czlzQ3ZRc2ZKUGtxWktXVjZiWHhvdkQzLVhHTDd4LV9Vd0ViNDJxb0JIeHMtNVJ3bURYc2NPLWExNkVvN09Rc1JPTjdST1ZzakhZTEN4ckxsNTJ3dnBhWWw1QjVtd9IBuAFBVV95cUxOLW1MT1RwWkFQZ0ZpM3BXU1VHd0ViYl8zc0k3Uk85NE9NUk02dHdpN1AzckhFNzhHcXk0QWhpRHhaZkFYS25yUmRsX3ZuYS1oMF90MkY4YmhBekpRUHgwNGZUYlpkUFpmUnNqTWFfdW56ck02OW1WMjZNeXFFb2NwMGtEOGJlSEU5R3hjVGhMY29uU213eW9FbWhDd19zUDNXZXVBQ1o0MWlfb3lwTWtqOUY1T0liMEg5?oc=5",
+      "published_date": "2026-08-08T22:38:35+00:00"
     },
     {
       "title": "The Argentine ambassador is leaving Brazil and the forecast is that the relationship will continue in crisis, at least until the October elections",
@@ -219,6 +282,13 @@
       "country": "China",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFBzd3ZybElZNHktdjFqUDBGOHlaSXVrZElLanB1RVQ0R0ZNYkJxSVhJZEExZlVWZkJGMlJwQjl5RElmdzVmTURMZ29ZeG5la0MyaFhUNUhZdVpPWEVYRWc3SW96ZlpWLVE5Mk0yNUwtWFhLb2daekJKSGdfZWl4MEIwZmpRMlRwZjd4T0VhbHRkZUN5eUhXQmpfU2xLTHJzU3ltMWFPX0RMN01qalBTUVU0bVJwdGFkbVQwLUh2MTBFMXRXQVd5WER2TFVsYTFDRUVPblctM21yeXlhdS1Dd2hEaGh4RmRKb0dURkxuTndqNl9HdVAw?oc=5",
       "published_date": "2026-08-08T10:00:00+00:00"
+    },
+    {
+      "title": "Cambridge students demand to have grades reviewed after professor resigns amid plagiarism row - lbc.co.uk",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0NjYXdNNmNmQWN5ZzlieFZ3Vms2aVY0RFItbndKeXVxSlI5TFZWOUYzSDB1RnlGZjByTm80QkxnS2I3TmJrQmFlQzBjQVpPbE5PWVF6SGZvcGdfQlJ2RFlpelM2ZjJObVJBdnpkTXhrd0ZxUlhIaVRPU1BlcmV3QklNanU3RlV0?oc=5",
+      "published_date": "2026-08-08T09:45:03+00:00"
     },
     {
       "title": "Colombia’s new president ends dialogue, vows war on narco-terrorism",
@@ -447,7 +517,7 @@
     {
       "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
       "source": "Meduza EN",
-      "country": "France",
+      "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/08/07/how-russia-is-impersonating-french-news-outlets-in-a-bid-to-influence-france-s-next-presidential-election",
       "published_date": "2026-08-07T09:33:52+00:00"
     },
@@ -592,7 +662,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2298,55 +2368,6 @@
       "country": "United Kingdom",
       "url": "https://www.dr.dk/nyheder/seneste/storbritanniens-nyindsatte-premierminister-faar-i-dag-sit-foerste-internationale-besoeg",
       "published_date": "2026-07-26T23:58:00+00:00"
-    },
-    {
-      "title": "Venezuela opposition leader Machado says she will not take part in US-backed talks",
-      "source": "South China Morning Post",
-      "country": "Venezuela",
-      "url": "https://www.scmp.com/news/world/americas/article/3361923/venezuela-opposition-leader-machado-says-she-will-not-take-part-us-backed-talks?utm_source=rss_feed",
-      "published_date": "2026-07-26T23:05:30+00:00"
-    },
-    {
-      "title": "Netanyahu putting election interests ahead of curbing settler violence, Nablus governor to 'Post'",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-903716",
-      "published_date": "2026-07-26T20:06:09+00:00"
-    },
-    {
-      "title": "Cabinet reshuffle: In the CDU they complain about Merz's personnel policy",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/patrick-schnieder-chaos-und-unmut-in-der-unionsfraktion-accg-201066092.html",
-      "published_date": "2026-07-26T17:55:41+00:00"
-    },
-    {
-      "title": "Coveted by PL and Novo, Podemos tends towards neutrality in the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/cobicado-por-pl-e-novo-podemos-tende-a-neutralidade-nas-eleicoes.shtml",
-      "published_date": "2026-07-26T15:00:00+00:00"
-    },
-    {
-      "title": "The week in pictures: Wildfires rage in Europe, youth protests rock India and UK names new PM",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/europe/20260726-the-week-in-pictures-wildfires-rage-in-europe-youth-protests-rock-india-and-uk-names-new-pm",
-      "published_date": "2026-07-26T14:49:56+00:00"
-    },
-    {
-      "title": "Three by-elections set for Aug. 31 in Ontario, B.C., Quebec ridings, Carney announces",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-ottawa-announces-august-by-elections-in-ontario-bc-quebec/",
-      "published_date": "2026-07-26T14:37:36+00:00"
-    },
-    {
-      "title": "UK’s Burnham ‘putting Britain first’ as he rules out 2029 election",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3361902/uks-burnham-putting-britain-first-he-rules-out-2029-election?utm_source=rss_feed",
-      "published_date": "2026-07-26T11:36:50+00:00"
     }
   ]
 }
