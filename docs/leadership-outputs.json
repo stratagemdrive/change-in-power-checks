@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-10T11:50:15.123277+00:00",
-    "story_count": 332,
+    "last_updated": "2026-08-10T23:32:37.064562+00:00",
+    "story_count": 333,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,172 @@
   },
   "stories": [
     {
+      "title": "Tinubu’s performance deserves re-election, says Presidency",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubus-performance-deserves-re-election-says-presidency/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-10T22:40:09+00:00"
+    },
+    {
+      "title": "Turkey's parliament passes limited amnesty law for Kurdish PKK militants",
+      "source": "France 24 English",
+      "country": "Turkey",
+      "url": "https://www.france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants",
+      "published_date": "2026-08-10T21:36:10+00:00"
+    },
+    {
+      "title": "Iranian Supreme Leader Appoints Ali Abdulahi as New Chief of the General Staff of the Armed Forces",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-irani-nombra-a-ali-abdulahi-nuevo-jefe-del-estado-mayor-de-las-fuerzas-armadas/",
+      "published_date": "2026-08-10T21:16:08+00:00"
+    },
+    {
+      "title": "Navalny’s widow Yulia Navalnaya urges Russians to vote for any party except United Russia in State Duma election",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/11/navalny-s-widow-yulia-navalnaya-urges-russians-to-vote-for-any-party-except-united-russia-in-state-duma-election",
+      "published_date": "2026-08-10T21:12:22+00:00"
+    },
+    {
+      "title": "Turkey’s parliament approves a pardon-like bill for thousands of PKK militants - AP News",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
+      "published_date": "2026-08-10T20:38:00+00:00"
+    },
+    {
+      "title": "Nigeria was near collapse, says colonel accused of coup plot against Tinubu",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-10T20:00:40+00:00"
+    },
+    {
+      "title": "3rd phase of AJK elections: PML-N poised for gains in Poonch amid rigging allegations",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-pml-n-poised-for-gains-in-poonch-amid-rigging-allegations",
+      "published_date": "2026-08-10T19:56:36+00:00"
+    },
+    {
+      "title": "Iran supreme leader names new military chief, Guards commander",
+      "source": "The Punch Nigeria",
+      "country": "Iran",
+      "url": "https://punchng.com/iran-supreme-leader-names-new-military-chief-guards-commander/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-10T19:54:28+00:00"
+    },
+    {
+      "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+      "published_date": "2026-08-10T19:47:13+00:00"
+    },
+    {
+      "title": "Russia blocks only anti-war party from elections",
+      "source": "Vanguard Nigeria",
+      "country": "Russia",
+      "url": "https://www.vanguardngr.com/2026/08/russia-blocks-only-anti-war-party-from-elections/",
+      "published_date": "2026-08-10T19:09:36+00:00"
+    },
+    {
+      "title": "Colombia earthquake: at least 111 dead; President Abelardo de la Espriella declares “state of emergency”",
+      "source": "Le Monde France",
+      "country": "Colombia",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+      "published_date": "2026-08-10T18:45:06+00:00"
+    },
+    {
+      "title": "Iran supreme leader names IRGC General Abdollahi military chief",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-names-guards-general-abdollahi-military-chief",
+      "published_date": "2026-08-10T18:23:48+00:00"
+    },
+    {
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "source": "BBC World",
+      "country": "Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T18:19:41+00:00"
+    },
+    {
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections - BBC",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUGw0SU1EX2c4U0NXUXdsY0dsM1hlMFFta1pSQm5FRU1UQlM1Yi0tWS16UFhmVS1INHNXOXN1SGdwNV93WHBnNXJUUlh6MHZZd3d4TGRDT3ZEZw?oc=5",
+      "published_date": "2026-08-10T18:19:41+00:00"
+    },
+    {
+      "title": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections",
+      "published_date": "2026-08-10T17:49:13+00:00"
+    },
+    {
+      "title": "Before the Duma election in Russia: an apple as a symbol of resistance",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/russisches-gericht-schliesst-oppositionspartei-jabloko-von-wahl-aus-201111269.html",
+      "published_date": "2026-08-10T17:37:49+00:00"
+    },
+    {
+      "title": "Russia bars anti-war party from parliamentary election",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363576/russia-bars-anti-war-party-parliamentary-election?utm_source=rss_feed",
+      "published_date": "2026-08-10T17:36:07+00:00"
+    },
+    {
+      "title": "Strongest earthquake in a decade in Colombia tests the leadership of newly inaugurated President De la Espriella",
+      "source": "La Tercera Chile",
+      "country": "Colombia",
+      "url": "https://www.latercera.com/mundo/noticia/terremoto-mas-fuerte-en-una-decada-en-colombia-pone-a-prueba-liderazgo-de-recien-asumido-presidente-de-la-espriella/",
+      "published_date": "2026-08-10T17:30:00+00:00"
+    },
+    {
+      "title": "Russian Supreme Court Bars Yabloko Party From State Duma Elections",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/10/russian-supreme-court-bars-yabloko-party-from-election-a93452",
+      "published_date": "2026-08-10T16:58:00+00:00"
+    },
+    {
+      "title": "Presidente Kast revive sus críticas a la última encuesta Casen y pone en duda las cifras de pobreza en Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-revive-sus-criticas-a-la-ultima-encuesta-casen-y-pone-en-duda-las-cifras-de-pobreza-en-chile/",
+      "published_date": "2026-08-10T15:50:00+00:00"
+    },
+    {
+      "title": "More than 100 dead after earthquake in Colombia, state of emergency declared",
+      "source": "France 24 FR",
+      "country": "Colombia",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-colombie-frapp%C3%A9e-s%C3%A9isme-magnitude-7-4",
+      "published_date": "2026-08-10T14:25:30+00:00"
+    },
+    {
+      "title": "State of emergency declared as 111 confirmed dead in major earthquake in Colombia",
+      "source": "Euronews",
+      "country": "Colombia",
+      "url": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
+      "published_date": "2026-08-10T13:42:57+00:00"
+    },
+    {
       "title": "Israeli elections: Ex-mayor of Beit Shemesh Aliza Bloch joins Erdan, Edelstein's right-wing party",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-905064",
       "published_date": "2026-08-10T12:56:32+00:00"
+    },
+    {
+      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
+      "published_date": "2026-08-10T12:13:00+00:00"
     },
     {
       "title": "Audit of RJ's interim government is sent to the PGR citing Douglas Ruas and PL deputy",
@@ -128,13 +289,6 @@
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-905032",
       "published_date": "2026-08-10T08:11:40+00:00"
-    },
-    {
-      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
-      "published_date": "2026-08-10T07:14:00+00:00"
     },
     {
       "title": "Kast presents his constitutional reform on security in La Moneda and bets on agreements with the opposition",
@@ -2235,153 +2389,6 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2018717/why-regime-change-wont-save-free-speech-in-pakistan",
       "published_date": "2026-07-28T06:37:10+00:00"
-    },
-    {
-      "title": "Vice President-elect José Manuel Restrepo met with AmCham Colombia to strengthen investment and employment",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-se-reunio-con-amcham-colombia-para-fortalecer-inversion-y-empleo-3574201",
-      "published_date": "2026-07-27T22:22:04+00:00"
-    },
-    {
-      "title": "Housing: Adeyanju writes Tinubu to declare state of emergency over high rentals",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/07/housing-adeyanju-writes-tinubu-to-declare-state-of-emergency-over-high-rentals/",
-      "published_date": "2026-07-27T21:21:54+00:00"
-    },
-    {
-      "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
-      "published_date": "2026-07-27T20:47:26+00:00"
-    },
-    {
-      "title": "MDB releases state directories and will not support any presidential candidate",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/mdb-libera-diretorios-estaduais-e-nao-apoiara-nenhum-presidenciavel.shtml",
-      "published_date": "2026-07-27T20:47:00+00:00"
-    },
-    {
-      "title": "Iran, Turkey seeking regime change in Israel via foreign interference, Likud MK tells 'Post'",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-news/article-903828",
-      "published_date": "2026-07-27T20:06:02+00:00"
-    },
-    {
-      "title": "Israeli election campaign billboards in Cyprus spark debate",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-election-campaign-billboards-cyprus-spark-debate",
-      "published_date": "2026-07-27T19:13:50+00:00"
-    },
-    {
-      "title": "Zelenskyy and Britain’s new leader discuss drone projects and missile defense for Kyiv - AP News",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmVmd3oweVB6T2JmQ0FObm1ZNWVOckF2eGR2VVNxdXdpNU9DeUNTU3RxclBTbktIUjZaZ1JoZTNMREFSdzdLYUNrRlM0enJHZUtXWVhmUmFNaW4xTjZRTGgxNU5XdXFqRlVhZkhpZWlPSEJXcUJnVGRrbDdDUDNkYWtER2pycVV5RmFmWGswa1JjdE1fTlhaLXpoOHktTnZVWmRUSXpOZWF0X3lNdmJF?oc=5",
-      "published_date": "2026-07-27T18:11:00+00:00"
-    },
-    {
-      "title": "MDB decides not to enter the presidential race",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mdb-decide-nao-entrar-na-corrida-presidencial",
-      "published_date": "2026-07-27T17:33:00+00:00"
-    },
-    {
-      "title": "Cypriot lawmaker slams Eisenkot billboards ahead of Israeli election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-903815",
-      "published_date": "2026-07-27T17:25:04+00:00"
-    },
-    {
-      "title": "Israeli election campaign billboards in Cyprus spark debate",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
-      "published_date": "2026-07-27T17:07:05+00:00"
-    },
-    {
-      "title": "Government adds new departure: Kast accepts resignation of Seremi from Tarapacá Labor",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/gobierno-suma-nueva-salida-kast-acepta-renuncia-de-seremi-del-trabajo-de-tarapaca/",
-      "published_date": "2026-07-27T16:55:06+00:00"
-    },
-    {
-      "title": "Colombia's president-elect to close embassies in three European countries in diplomatic overhaul",
-      "source": "Euronews",
-      "country": "Colombia",
-      "url": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
-      "published_date": "2026-07-27T15:03:38+00:00"
-    },
-    {
-      "title": "Trump, tariffs and ties with China at stake in Brazilian presidential race",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3362030/trump-tariffs-and-ties-china-stake-brazilian-presidential-race?utm_source=rss_feed",
-      "published_date": "2026-07-27T15:00:08+00:00"
-    },
-    {
-      "title": "Court set to rule on ex-President Yoon's election law violation case",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260727/court-set-to-rule-on-ex-president-yoons-election-law-violation-case?utm_source=rss",
-      "published_date": "2026-07-27T13:37:03+00:00"
-    },
-    {
-      "title": "Yoon Suk Yeol found guilty of violating election law; PPP faces $27 mil. repayment",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260727/yoon-suk-yeol-convicted-of-violating-election-law-ppp-faces-27-mil-repayment?utm_source=rss",
-      "published_date": "2026-07-27T13:37:03+00:00"
-    },
-    {
-      "title": "ABC: The US and the opposition negotiate in Madrid the route to elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/abc-ee-uu-y-la-oposicion-negocian-en-madrid-ruta-hacia-elecciones-en-venezuela/",
-      "published_date": "2026-07-27T13:22:44+00:00"
-    },
-    {
-      "title": "Tinubu sued over security threats to NDC’s presidential candidate Obi",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/07/tinubu-sued-over-security-threats-to-ndcs-presidential-candidate-obi/",
-      "published_date": "2026-07-27T13:06:36+00:00"
-    },
-    {
-      "title": "Turkey working to influence Israel's upcoming elections through social media - exclusive",
-      "source": "Jerusalem Post",
-      "country": "Turkey",
-      "url": "https://www.jpost.com/israel-news/article-903779",
-      "published_date": "2026-07-27T12:38:41+00:00"
-    },
-    {
-      "title": "Fugitive in 1973 torture and murder of iconic singer Victor Jara is captured in Chile - CBS News",
-      "source": "Google News World",
-      "country": "Chile",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFFiUHdMaUdZMkMtS2FDUlppUy00aWRfWEVpQTVQQm84ZjI3a1h2RlRjMDItOUtnVllrTEMwaVZFM2tUSzZZMk9RcHJnUVZBcGFkTkhpR2NkZk03SF9aRER3aTlhVllfTU5YM0NmQ1VSeS1YRzhCTUtVeE5jcEhXV2VZdTFjZWVBWHEwV3Jn?oc=5",
-      "published_date": "2026-07-27T12:32:52+00:00"
-    },
-    {
-      "title": "Ahead of Israel's elections, Bennett rejects two-state solution as Eisenkot surges in polls",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/ahead-israel-elections-bennett-rejects-two-state-solution-eisenkot-surges-polls",
-      "published_date": "2026-07-27T12:26:02+00:00"
-    },
-    {
-      "title": "Powerful storm kills one, injures about 30 in southern Russia. See the flooded streets, toppled trees, and wrecked cars.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/07/27/powerful-storm-kills-one-injures-about-30-in-southern-russia-see-the-flooded-streets-toppled-trees-and-wrecked-cars",
-      "published_date": "2026-07-27T12:23:01+00:00"
     }
   ]
 }
