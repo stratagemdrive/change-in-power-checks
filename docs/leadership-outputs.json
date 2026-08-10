@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-09T23:29:12.409319+00:00",
-    "story_count": 330,
+    "last_updated": "2026-08-10T11:50:15.123277+00:00",
+    "story_count": 332,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israeli elections: Ex-mayor of Beit Shemesh Aliza Bloch joins Erdan, Edelstein's right-wing party",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905064",
+      "published_date": "2026-08-10T12:56:32+00:00"
+    },
+    {
+      "title": "Audit of RJ's interim government is sent to the PGR citing Douglas Ruas and PL deputy",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/auditoria-de-governo-interino-do-rj-e-enviada-a-pgr-ao-citar-douglas-ruas-e-deputado-do-pl.shtml",
+      "published_date": "2026-08-10T11:41:00+00:00"
+    },
+    {
+      "title": "Six Colombian rebels killed in 'message' by President Abelardo de la Espriella's new government",
+      "source": "Euronews",
+      "country": "Colombia",
+      "url": "http://www.euronews.com/2026/08/10/six-colombian-rebels-killed-in-message-by-president-abelardo-de-la-espriellas-new-governme",
+      "published_date": "2026-08-10T11:15:05+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-08-10T10:29:03+00:00"
+    },
+    {
+      "title": "Millions in Great Britain can now face emergency power cuts at short notice",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
+      "published_date": "2026-08-10T10:27:26+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-08-10T10:26:31+00:00"
+    },
+    {
+      "title": "Netanyahu eyes election base as friction with Trump grows over Gaza deal",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal",
+      "published_date": "2026-08-10T09:55:44+00:00"
+    },
+    {
+      "title": "EXCLUSIVE: Why I planned coup against Tinubu – Colonel Ma’aji",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/901830-exclusive-why-i-planned-coup-against-tinubu-colonel-maaji.html",
+      "published_date": "2026-08-10T09:42:12+00:00"
+    },
+    {
+      "title": "Who should get to vote? Plans for 70,000 Israelis abroad to fly home for election sparks debate",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905037",
+      "published_date": "2026-08-10T09:20:17+00:00"
+    },
+    {
+      "title": "After months out of public view, Iran releases undated video of Supreme Leader Mojtaba Khamenei",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-905032",
+      "published_date": "2026-08-10T08:11:40+00:00"
+    },
+    {
+      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
+      "published_date": "2026-08-10T07:14:00+00:00"
+    },
+    {
+      "title": "Kast presents his constitutional reform on security in La Moneda and bets on agreements with the opposition",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-presenta-en-la-moneda-su-reforma-constitucional-sobre-seguridad-y-apuesta-a-acuerdos-con-la-oposicion/",
+      "published_date": "2026-08-10T06:00:13+00:00"
+    },
+    {
+      "title": "Election campaign in the East: Sven Schulze pushes himself to the limits - and to those of the CDU",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-sven-schulze-kaempft-gegen-die-uhr-accg-201104870.html",
+      "published_date": "2026-08-10T04:16:49+00:00"
+    },
+    {
+      "title": "Netanyahu strengthens bid for prime minister, Likud overtakes Yashar! ahead of election - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905027",
+      "published_date": "2026-08-10T03:50:35+00:00"
+    },
     {
       "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
       "source": "South China Morning Post",
@@ -517,7 +615,7 @@
     {
       "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "France",
       "url": "https://meduza.io/en/feature/2026/08/07/how-russia-is-impersonating-french-news-outlets-in-a-bid-to-influence-france-s-next-presidential-election",
       "published_date": "2026-08-07T09:33:52+00:00"
     },
@@ -662,7 +760,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2284,90 +2382,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/07/27/powerful-storm-kills-one-injures-about-30-in-southern-russia-see-the-flooded-streets-toppled-trees-and-wrecked-cars",
       "published_date": "2026-07-27T12:23:01+00:00"
-    },
-    {
-      "title": "“We are trapped in hell”: the testimonies of Iranians after months of internal political crisis and war",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/estamos-atrapados-en-el-infierno-los-testimonios-de-iranies-tras-meses-de-crisis-politica-interna-y-guerra/",
-      "published_date": "2026-07-27T11:00:00+00:00"
-    },
-    {
-      "title": "Why Kebbi gov is backing Tinubu’s re-election — Aide",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/why-kebbi-gov-is-backing-tinubus-re-election-aide/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-27T10:53:49+00:00"
-    },
-    {
-      "title": "Ex-Hong Kong opposition leader granted 6-month UK stay",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3362011/ex-hong-kong-opposition-leader-appeals-uk-order-leave-he-seeks-bno-route?utm_source=rss_feed",
-      "published_date": "2026-07-27T10:51:01+00:00"
-    },
-    {
-      "title": "South Korea’s ex-president found guilty of election disinformation",
-      "source": "Japan Times",
-      "country": "South Korea",
-      "url": "https://www.japantimes.co.jp/news/2026/07/27/asia-pacific/south-korea-ex-president-guilty-disinformation/",
-      "published_date": "2026-07-27T10:51:00+00:00"
-    },
-    {
-      "title": "Junta tightens restrictions on Myanmar political parties after elections",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/junta-tightens-restrictions-on-myanmar-political-parties-after-elections/",
-      "published_date": "2026-07-27T09:50:05+00:00"
-    },
-    {
-      "title": "South Korean court gives ousted President Yoon suspended jail term for lying during campaign - AP News",
-      "source": "Google News World",
-      "country": "South Korea",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPak1sNDFiLUhocTNVdElKWkEzNGpZUWIyVXM3NFVLSS1EdEZzTzQyN1A5SWZsMUhzU2o4NU9Fc1VKRnBzOWJYZ3hGTFo2eDRxQnAxMEFDX1lzbHd2ZDZJZGoxcF85VFFKMVdqZHRGT3VtT3dFWjc3czFUS2s0NUFWMVdXdFhMcVhabUdsdTJnNzJTbGZFUXNrNU9KbjM3VzdlMzVjdzh3?oc=5",
-      "published_date": "2026-07-27T09:10:00+00:00"
-    },
-    {
-      "title": "India protesters celebrate as education minister resigns, Modi announces exam system reform",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/video/20260727-india-protesters-celebrate-as-education-minister-resigns-modi-announces-exam-system-reform",
-      "published_date": "2026-07-27T08:52:14+00:00"
-    },
-    {
-      "title": "In Colombia, the president-elect announces that he will break diplomatic relations with Cuba and Nicaragua",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html",
-      "published_date": "2026-07-27T06:55:23+00:00"
-    },
-    {
-      "title": "President-elect Abelardo De La Espriella announced the assignment of a special manager for Bogotá to attend to projects and needs of the capital",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncio-la-asignacion-de-un-gerente-especial-para-bogota-para-atender-proyectos-y-necesidades-de-la-capital-3574050",
-      "published_date": "2026-07-27T06:33:24+00:00"
-    },
-    {
-      "title": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260727-burnham-to-welcome-zelensky-on-first-foreign-leader-visit-to-london-since-taking-office",
-      "published_date": "2026-07-27T03:15:20+00:00"
-    },
-    {
-      "title": "Israeli ex-army chief emerges as main rival to Netanyahu ahead of general election",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20260727-ex-army-chief-emerges-as-main-rival-to-netanyahu-in-upcoming-israel-general-election",
-      "published_date": "2026-07-27T01:41:10+00:00"
-    },
-    {
-      "title": "Britain's newly appointed Prime Minister will make his first international visit today",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/storbritanniens-nyindsatte-premierminister-faar-i-dag-sit-foerste-internationale-besoeg",
-      "published_date": "2026-07-26T23:58:00+00:00"
     }
   ]
 }
