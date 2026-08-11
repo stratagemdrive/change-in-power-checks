@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-11T11:45:50.118174+00:00",
-    "story_count": 347,
+    "last_updated": "2026-08-11T23:38:53.306944+00:00",
+    "story_count": 341,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Alcolumbre signals a truce with Lula and may vote to end the 6x1 after the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alcolumbre-sinaliza-tregua-com-lula-e-pode-votar-fim-da-6x1-depois-da-eleicao.shtml",
+      "published_date": "2026-08-11T23:29:00+00:00"
+    },
+    {
+      "title": "Half of Brazilians support banning AI video in elections, says CNT/MDA survey",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/metade-dos-brasileiros-defende-proibir-video-com-ia-nas-eleicoes-diz-pesquisa-cntmda.shtml",
+      "published_date": "2026-08-11T22:47:00+00:00"
+    },
+    {
+      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+      "published_date": "2026-08-11T22:08:00+00:00"
+    },
+    {
+      "title": "The National Understanding Front demands an end to Delcy Rodríguez's interim term and sets the first quarter of 2027 as a limit for elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/el-frente-de-entendimiento-nacional-exige-poner-fin-al-interinato-de-delcy-rodriguez-y-fija-como-limite-el-primer-trimestre-de-2027-para-elecciones-en-venezuela/",
+      "published_date": "2026-08-11T21:37:07+00:00"
+    },
+    {
+      "title": "Public Ministry calls for impeachment of candidate who wants to use the names of Enéas and Bolsonaro",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ministerio-publico-pede-impugnacao-de-candidato-que-quer-usar-nomes-de-eneas-e-bolsonaro.shtml",
+      "published_date": "2026-08-11T21:15:00+00:00"
+    },
+    {
+      "title": "Colombia’s deadly earthquake tests new president as search for thousands of missing continues",
+      "source": "The Independent UK",
+      "country": "Colombia",
+      "url": "https://www.independent.co.uk/news/world/americas/colombia-earthquake-death-toll-abelardo-de-la-espriella-b3031395.html",
+      "published_date": "2026-08-11T20:16:10+00:00"
+    },
+    {
+      "title": "Colombia’s New President Faces His First Major Test",
+      "source": "Foreign Policy",
+      "country": "Colombia",
+      "url": "https://foreignpolicy.com/2026/08/11/colombia-earthquakes-de-la-espriella-yemen-houthis-russia-yabloko-court-syria-assad/",
+      "published_date": "2026-08-11T19:52:24+00:00"
+    },
+    {
+      "title": "Interim government reestablishes consular relations with Israel",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Israel",
+      "url": "https://efectococuyo.com/politica/gobierno-interino-restablece-relaciones-consulares-con-israel/",
+      "published_date": "2026-08-11T16:44:19+00:00"
+    },
+    {
+      "title": "Senatorial elections 2026: Gabriel Amard, son-in-law of Jean-Luc Mélenchon and main Insoumis hope in the Rhône",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/senatoriales-2026-gabriel-amard-gendre-de-jean-luc-melenchon-et-principal-espoir-insoumis-dans-le-rhone-20260811",
+      "published_date": "2026-08-11T16:30:00+00:00"
+    },
+    {
+      "title": "Mohammed Dahlan, the ambitious Gazan exile who used his connections with the Trump administration to negotiate the disarmament of Hamas",
+      "source": "Le Monde France",
+      "country": "Palestine",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/mohammed-dahlan-l-ambitieux-exile-gazaoui-qui-a-joue-de-ses-relations-avec-l-administration-trump-pour-negocier-le-desarmement-du-hamas_6744015_3210.html",
+      "published_date": "2026-08-11T16:00:02+00:00"
+    },
+    {
+      "title": "Live updates: Donald Trump evaded Iranian threat in Turkey; primary elections in SC, Wisconsin - The Hill",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdERpMS03MFlhOC01dG5kcnZmY3d1UmxFczh1ODVsMEROLWpiS0gzTExXTVN0YnhKOW9ubHFla2ZVWXp5UzY1Sm1oTDRIU3FJbGsyU041TlFjbjNHdlZCd3oxYzlUX1dacjNCOVNIS2VOMmVHMjZxTkFxRDdWQTJYUkprcy1VUm5KM0dmT1VjVHBMcTl0MXZMRVNocDVhSGR3Z3ZsLXoyTzZvN0FEQW1meXFsVHpVV0FPUm50d2RMZmRxY3UwR0lvOdIBzgFBVV95cUxNaGlZV3Q4SnlDR2lQdk1oODh0M3hXbGIyRXJxdGs2eVdONkNpUVQyRmJkT1BBQ1A0LVhaUkJsUlN2R1NDN0sydnNlQ211QlRsQlV5OUZzSlBSQ1lxZFNZWENjNk1sQi1WWmx5RkFKNFZvOHp2czdsdHM1R2tscEdpMFRWaWFveV9KclNsVTJQckF4Qno4Qk50WXhNNEFrU19QY3plVklxQnlPN0tLRGdKQWdiM290OTBhcENKRE5TZDdtUUxfMTJtXzlsckh4Zw?oc=5",
+      "published_date": "2026-08-11T15:50:00+00:00"
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC World",
+      "country": "Syria",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T14:50:10+00:00"
+    },
+    {
+      "title": "Renan Santos: why part of Faria Lima embarked on the radical speech of the debutant candidate in elections",
+      "source": "Folha de S Paulo",
+      "country": "Peru",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/renan-santos-por-que-parte-da-faria-lima-embarcou-no-discurso-radical-do-candidato-estreante-em-eleicoes.shtml",
+      "published_date": "2026-08-11T14:18:00+00:00"
+    },
+    {
+      "title": "As Russia Strips Rights from Exiled Regime Opponents, Many Don’t Know if They Should Worry",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/11/as-russia-strips-rights-from-exiled-regime-opponents-many-dont-know-if-they-should-worry-a93459",
+      "published_date": "2026-08-11T14:02:47+00:00"
+    },
+    {
+      "title": "Election in Russia: The Kremlin cannot rule without repression",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/jabloko-warum-putin-die-partei-unterdruecken-muss-201115729.html",
+      "published_date": "2026-08-11T13:46:38+00:00"
+    },
+    {
+      "title": "Senatorial elections: the RN prepares to enter the Luxembourg Palace in force, the Insoumis in ambush",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/elections-senatoriales-le-rn-se-prepare-a-entrer-en-force-au-palais-du-luxembourg-les-insoumis-en-embuscade-20260811",
+      "published_date": "2026-08-11T13:31:05+00:00"
+    },
     {
       "title": "Israel elections 2026: What does Tropper and Hendel's Zionist Home–The Reservists stand for?",
       "source": "Jerusalem Post",
@@ -72,13 +184,6 @@
       "country": "Syria",
       "url": "https://www.lefigaro.fr/international/syrie-le-president-dechu-bachar-el-assad-condamne-a-la-peine-de-mort-par-contumace-20260811",
       "published_date": "2026-08-11T10:58:26+00:00"
-    },
-    {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "source": "BBC World",
-      "country": "Syria",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T10:43:07+00:00"
     },
     {
       "title": "Myanmar junta airstrike kills 14 in Rakhine State’s Thandwe Township",
@@ -200,6 +305,13 @@
       "published_date": "2026-08-11T00:34:19+00:00"
     },
     {
+      "title": "Turkey’s parliament approves a pardon-like bill for thousands of PKK militants - AP News",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
+      "published_date": "2026-08-11T00:16:27+00:00"
+    },
+    {
       "title": "Tinubu’s performance deserves re-election, says Presidency",
       "source": "The Punch Nigeria",
       "country": "Nigeria",
@@ -226,13 +338,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/08/11/navalny-s-widow-yulia-navalnaya-urges-russians-to-vote-for-any-party-except-united-russia-in-state-duma-election",
       "published_date": "2026-08-10T21:12:22+00:00"
-    },
-    {
-      "title": "Turkey’s parliament approves a pardon-like bill for thousands of PKK militants - AP News",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
-      "published_date": "2026-08-10T20:38:00+00:00"
     },
     {
       "title": "Nigeria was near collapse, says colonel accused of coup plot against Tinubu",
@@ -2340,153 +2445,6 @@
       "country": "Argentina",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/javier-milei-presidente-de-argentina-confirmo-que-asistira-a-la-posesion-de-abelardo-de-la-espriella-3574551",
       "published_date": "2026-07-28T23:58:56+00:00"
-    },
-    {
-      "title": "Milei attended the swearing-in of Keiko Fujimori as president of Peru and had no contact with the Brazilian delegation",
-      "source": "La Nacion Argentina",
-      "country": "Peru",
-      "url": "https://www.lanacion.com.ar/politica/milei-asistio-a-la-jura-de-keiko-fujimori-como-presidenta-de-peru-y-no-tuvo-contactos-publicos-con-nid28072026/",
-      "published_date": "2026-07-28T23:20:06+00:00"
-    },
-    {
-      "title": "Cuba criticizes the elected president of Colombia for announcing the breaking of diplomatic relations",
-      "source": "El Nacional Venezuela",
-      "country": "Cuba",
-      "url": "https://www.elnacional.com/2026/07/cuba-critica-al-presidente-electo-de-colombia-por-anunciar-la-ruptura-de-relaciones-diplomaticas/",
-      "published_date": "2026-07-28T22:32:40+00:00"
-    },
-    {
-      "title": "Likud demands prohibition on freely hosting citizens flying to Israel for election - report",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-903933",
-      "published_date": "2026-07-28T21:53:01+00:00"
-    },
-    {
-      "title": "Hundreds of ex-CIA officials question memo behind Trump’s Chinese election interference claims",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-election-cia-memo-investigation-b3023353.html",
-      "published_date": "2026-07-28T21:27:43+00:00"
-    },
-    {
-      "title": "Citizens demand elections two years after the 28J fraud: We will not stop protesting until Venezuela is free",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/07/ciudadanos-exigen-elecciones-a-dos-anos-del-fraude-del-28j-no-dejaremos-de-protestar-hasta-que-venezuela-sea-libre/",
-      "published_date": "2026-07-28T21:20:53+00:00"
-    },
-    {
-      "title": "Fátima Flórez went to the inauguration of Keiko Fujimori and increased rumors of reconciliation with Milei: her explanation",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/fatima-florez-fue-a-la-asuncion-de-keiko-fujimori-y-acrecento-rumores-de-reconciliacion-con-milei-su-nid28072026/",
-      "published_date": "2026-07-28T20:43:56+00:00"
-    },
-    {
-      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-      "source": "NPR World",
-      "country": "Peru",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
-      "published_date": "2026-07-28T20:30:50+00:00"
-    },
-    {
-      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory - NPR",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDA4X1lVd3RsSzZSSTFyakh4RkhBRFF6OWNOZnZCWjBGc1VfUzBsdFhmc0NzWnhKb0dBUWprblN3ZG5GQTl5T2FEQlZ4S0Z0WFh2eGtvWVZIY3hwOUdEd2Y2WF91S2JOaXpsaWZxVFJZV3FwQzJfV3ZVRVlKZkRBME1Vbnd6ZE9qZGlqWnJJMA?oc=5",
-      "published_date": "2026-07-28T20:30:50+00:00"
-    },
-    {
-      "title": "This was the moment when Keiko Fujimori was sworn in as President of Peru",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/videos/noticia/asi-fue-el-momento-en-que-keiko-fujimori-tomo-juramento-como-presidenta-del-peru/",
-      "published_date": "2026-07-28T20:26:56+00:00"
-    },
-    {
-      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
-      "published_date": "2026-07-28T20:14:09+00:00"
-    },
-    {
-      "title": "Vente Venezuela demands elections “now” and the return of María Corina Machado",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/la-humanidad/simpatizantes-de-vente-venezuela-se-concentraron-para-exigir-elecciones-ya-y-el-regreso-de-maria-corina-machado/",
-      "published_date": "2026-07-28T20:03:08+00:00"
-    },
-    {
-      "title": "Colombia and Peru promise to relaunch their bilateral relationship with the arrival of De La Espriella and Fujimori to power: these are the challenges for the new government",
-      "source": "El Tiempo Colombia",
-      "country": "Peru",
-      "url": "https://www.eltiempo.com/politica/gobierno/colombia-y-peru-prometen-relanzar-su-relacion-bilateral-con-la-llegada-de-la-espriella-y-fujimori-al-poder-estos-son-los-retos-para-el-nuevo-gobierno-3574481",
-      "published_date": "2026-07-28T19:57:10+00:00"
-    },
-    {
-      "title": "Keiko Fujimori is sworn in as president of Peru and promises to defend sovereignty, freedom and democracy",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-jura-como-presidenta-de-peru-y-promete-defender-la-soberania-la-libertad-y-la-democracia/",
-      "published_date": "2026-07-28T19:45:14+00:00"
-    },
-    {
-      "title": "India’s ‘cockroach’ protesters explain how they toppled one of Modi’s ministers",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/asia-pacific/20260728-india-cockroach-protesters-explain-toppled-modi-ministers",
-      "published_date": "2026-07-28T19:14:04+00:00"
-    },
-    {
-      "title": "Keiko Fujimori sworn in as president of Peru following narrow election victory",
-      "source": "South China Morning Post",
-      "country": "Peru",
-      "url": "https://www.scmp.com/news/world/americas/article/3362181/keiko-fujimori-sworn-president-peru-following-narrow-election-victory?utm_source=rss_feed",
-      "published_date": "2026-07-28T18:50:15+00:00"
-    },
-    {
-      "title": "Russian newspaper Vedomosti tags 1825 Decembrist uprising ‘undesirable,’ apparently after its software confused the historical rebels with an unrelated, banned German NGO",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/28/russian-newspaper-vedomosti-tags-1825-decembrist-uprising-undesirable-apparently-after-its-software-confused-the-historical-rebels-with-an-unrelated-banned-german-ngo",
-      "published_date": "2026-07-28T17:47:38+00:00"
-    },
-    {
-      "title": "El Burhan visits newly captured North Kordofan towns",
-      "source": "Radio Dabanga Sudan",
-      "country": "Sudan",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-visits-newly-captured-north-kordofan-towns",
-      "published_date": "2026-07-28T16:21:38+00:00"
-    },
-    {
-      "title": "Coalition partners PPP, PML-N spar after first phase of AJK elections as political temperatures rise",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2019014/coalition-partners-ppp-pml-n-spar-after-first-phase-of-ajk-elections-as-political-temperatures-rise",
-      "published_date": "2026-07-28T15:38:26+00:00"
-    },
-    {
-      "title": "Pahlavi remains Iran’s main opposition figure, lack of US backing causing failure at regime change",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-903902",
-      "published_date": "2026-07-28T14:08:43+00:00"
-    },
-    {
-      "title": "AJK elections: PML-N grabs 9 out of 13 seats across Mirpur division, unofficial results show",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2018960/ajk-elections-pml-n-grabs-9-out-of-13-seats-across-mirpur-division-unofficial-results-show",
-      "published_date": "2026-07-28T13:58:09+00:00"
-    },
-    {
-      "title": "India mocks sham election in PoK, says cosmetic exercise to cover up violations",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-mocks-sham-election-in-pok-says-cosmetic-exercise-to-cover-up-violations-101785246422508.html",
-      "published_date": "2026-07-28T13:47:02+00:00"
     }
   ]
 }
