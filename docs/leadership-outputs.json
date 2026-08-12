@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-11T23:38:53.306944+00:00",
-    "story_count": 341,
+    "last_updated": "2026-08-12T11:47:48.562856+00:00",
+    "story_count": 340,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Special counsel indicts ex-President Yoon over messages justifying martial law",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/special-counsel-indicts-ex-president-yoon-over-messages-justifying-martial-law?utm_source=rss",
+      "published_date": "2026-08-12T11:42:04+00:00"
+    },
+    {
+      "title": "Contenders in DPK leadership race make final push in televised debate",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/contenders-in-dpk-leadership-race-make-final-push-in-televised-debate?utm_source=rss",
+      "published_date": "2026-08-12T11:42:04+00:00"
+    },
+    {
+      "title": "COUP SERIES ROUND-UP: What we know about alleged failed plot against Tinubu",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/902304-coup-series-round-up-what-we-know-about-alleged-failed-plot-against-tinubu.html",
+      "published_date": "2026-08-12T09:53:18+00:00"
+    },
+    {
+      "title": "Iranian factions squabble over war aims as supreme leader maintains low profile",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/08/12/world/politics/khamenei-absence-iranian-factions/",
+      "published_date": "2026-08-12T09:37:00+00:00"
+    },
+    {
+      "title": "Zelensky foresees a new military mobilization in Russia after the parliamentary elections in September",
+      "source": "La Tercera Chile",
+      "country": "Russia",
+      "url": "https://www.latercera.com/mundo/noticia/zelenski-preve-una-nueva-movilizacion-militar-en-rusia-tras-las-elecciones-parlamentarias-de-septiembre/",
+      "published_date": "2026-08-12T09:34:15+00:00"
+    },
+    {
+      "title": "Mette Frederiksen rejects plans for a referendum on the reservation of rights",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/politik/art10943900/Mette-Frederiksen-afviser-planer-om-folkeafstemning-om-retsforbeholdet",
+      "published_date": "2026-08-12T09:00:32+00:00"
+    },
+    {
+      "title": "Fake videos and false allegations target candidates in French 2027 presidential election",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/08/12/fake-videos-and-false-allegations-target-candidates-in-french-2027-presidential-election",
+      "published_date": "2026-08-12T08:16:13+00:00"
+    },
+    {
+      "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "published_date": "2026-08-12T08:14:07+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader elevates military veterans willing to confront the US",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/irans-supreme-leader-elevates-military-veterans-willing-to-confront-the-us/",
+      "published_date": "2026-08-12T06:39:11+00:00"
+    },
+    {
+      "title": "Earthquake response strains Colombia's new government and rescuers",
+      "source": "NPR World",
+      "country": "Colombia",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+      "published_date": "2026-08-12T05:13:06+00:00"
+    },
+    {
+      "title": "“I suspect that this government would not sign…”: Boric's attacks on the right and Kast after evoking an agreement for the 50th anniversary of the coup d'état",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/sospecho-que-este-gobierno-no-firmaria-los-dardos-de-boric-a-la-derecha-y-a-kast-tras-evocar-acuerdo-por-los-50-anos-del-golpe-de-estado/",
+      "published_date": "2026-08-12T03:01:08+00:00"
+    },
+    {
+      "title": "UK's Count Binface, the 'joke' candidate challenging far-right Farage in Clacton by-election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics",
+      "published_date": "2026-08-12T01:27:17+00:00"
+    },
     {
       "title": "Alcolumbre signals a truce with Lula and may vote to end the 6x1 after the election",
       "source": "Folha de S Paulo",
@@ -107,6 +191,13 @@
       "country": "Colombia",
       "url": "https://foreignpolicy.com/2026/08/11/colombia-earthquakes-de-la-espriella-yemen-houthis-russia-yabloko-court-syria-assad/",
       "published_date": "2026-08-11T19:52:24+00:00"
+    },
+    {
+      "title": "Russia Preparing Autumn Mobilization Immediately After “Imitation” Elections, Zelenskyy Says - united24media.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEUybi1wbG9Valg2Y3FndlUwRUtrR1ZwOUlzbEJRTFdTa3IwQWFKMzhDY2pneWJwNGcxVUtDQjZqbWlIZEZwTDBGLXJ5VU9oYWc4ejlscWVGcE80WVZDTkpPaWVVY3VScVFxQVFQSW9RbW9JWGgtOVYySHBGa0VGek0xNGVZaXNNZUc4cXlsS3FBSElxbDI0NjA4NUgwN1ZDYVBfbHF6X1owSnk1cFU5VWgyb0JhM2I4TEdHUFNHSms2NS1hY20wd0xEN1htazJXSnc?oc=5",
+      "published_date": "2026-08-11T18:01:45+00:00"
     },
     {
       "title": "Interim government reestablishes consular relations with Israel",
@@ -1138,6 +1229,13 @@
       "published_date": "2026-08-06T15:48:47+00:00"
     },
     {
+      "title": "Election campaign in Berlin: They are already drawing red lines",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/schwerdtner-macht-enteignungen-zur-koalitionsbedingung-201101327.html",
+      "published_date": "2026-08-06T15:48:47+00:00"
+    },
+    {
       "title": "Minister Wulf asks for the non-voluntary resignation of the director of Mejor Niñez appointed by Boric due to “loss of trust”",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -1159,7 +1257,7 @@
       "published_date": "2026-08-06T14:21:15+00:00"
     },
     {
-      "title": "PSOL-Rede Federation officially supports Lula's candidacy for re-election",
+      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
       "source": "Agencia Brasil",
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
@@ -2300,6 +2398,13 @@
       "published_date": "2026-07-29T16:12:47+00:00"
     },
     {
+      "title": "Attack on Berlin CSD: First anger, then election campaign",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/wie-der-berliner-anschlag-zum-wahlkampfthema-wird-201076051.html",
+      "published_date": "2026-07-29T16:12:47+00:00"
+    },
+    {
       "title": "Re-polling demand, Form-47 jibe and doomsday talk — PPP, PML-N continue to trade barbs over Mirpur election results",
       "source": "Dawn Pakistan",
       "country": "Pakistan",
@@ -2333,118 +2438,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-forms-special-committees-for-local-body-elections-in-andhra-pradesh/article71281532.ece",
       "published_date": "2026-07-29T12:48:15+00:00"
-    },
-    {
-      "title": "Myanmar junta hands election boycott activists prison terms of up to 37 years",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-hands-election-boycott-activists-prison-terms-of-up-to-37-years/",
-      "published_date": "2026-07-29T11:38:30+00:00"
-    },
-    {
-      "title": "Putin Replaces Head of Udmurtia Republic Following Surprise Resignation",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/29/putin-replaces-head-of-udmurtia-republic-following-surprise-resignation-a93368",
-      "published_date": "2026-07-29T11:33:00+00:00"
-    },
-    {
-      "title": "We’ll deliver Ondo for Tinubu’s reelection – Aiyedatiwa",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/well-deliver-ondo-for-tinubus-reelection-aiyedatiwa/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-07-29T11:12:07+00:00"
-    },
-    {
-      "title": "Election Commission Clears Yabloko to Run Pro-Peace Candidates in State Duma Races",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/29/election-commission-clears-yabloko-to-run-pro-peace-candidates-in-state-duma-races-a93367",
-      "published_date": "2026-07-29T10:30:00+00:00"
-    },
-    {
-      "title": "Myanmar junta airstrike kills at least eight civilians in Bago Region village: NUG",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-eight-civilians-in-bago-region-village-nug/",
-      "published_date": "2026-07-29T10:19:31+00:00"
-    },
-    {
-      "title": "Israel clears Jewish supremacist party to contest election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-clears-jewish-supremacist-party-contest-election",
-      "published_date": "2026-07-29T10:08:52+00:00"
-    },
-    {
-      "title": "US dollar jumps to LD 8.80 as Libya’s power cuts crisis risks tipping into a full political crisis",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/07/us-dollar-jumps-to-ld-880-as-libyas-power-cuts-crisis-risks-tipping-into-a-full-political-crisis/",
-      "published_date": "2026-07-29T08:50:00+00:00"
-    },
-    {
-      "title": "Germany live blog: Steinmeier calls for swearing in before parliament",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-steinmeier-ernennt-neue-minister-leise-kritik-an-merz-faz-110093143.html",
-      "published_date": "2026-07-29T08:35:57+00:00"
-    },
-    {
-      "title": "'Pradhan never ran education ministry, RSS did': Rahul Gandhi's dig over resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pradhan-never-ran-education-ministry-rss-did-rahul-gandhis-dig-over-big-resignation-101785312085276.html",
-      "published_date": "2026-07-29T08:02:34+00:00"
-    },
-    {
-      "title": "Podcast analyzes how Bolsonaro's avatar tests rules for AI in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/07/podcast-analisa-como-avatar-de-bolsonaro-testa-regras-para-ia-na-eleicao.shtml",
-      "published_date": "2026-07-29T08:00:00+00:00"
-    },
-    {
-      "title": "Angie Rodríguez will denounce the outgoing president Gustavo Petro before the Chamber's Impeachment Commission",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-denunciara-al-presidente-gustavo-petro-ante-la-comision-de-acusacion-de-la-camara-3574579",
-      "published_date": "2026-07-29T04:08:08+00:00"
-    },
-    {
-      "title": "The key issues that will shape Israel’s elections",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/israel-election-key-issues/",
-      "published_date": "2026-07-29T04:03:00+00:00"
-    },
-    {
-      "title": "Elections in Pak-occupied J&K effort to cover up illegal occupation: India",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/elections-in-pak-occupied-j-k-effort-to-cover-up-illegal-occupation-india-101785267367769.html",
-      "published_date": "2026-07-29T03:31:08+00:00"
-    },
-    {
-      "title": "Keiko Fujimori is inaugurated as Peru’s president following a narrow election victory - apnews.com",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1hDLWhPNzZlZVN2c3lJX0NlSndaSGpTazdfUkZQQ1QyUzVCZHFpNTNldUMwcWszdzB0LVFhLUNZQ3pCVjBBbnRlTFpIMW1QSUMyc3Z5U3BJNjZxOXpRNVY0MWtsQ29VQm83SjVVS3FNUnlIdGpCRlJiNDQ1Q2lpdEhRQ2F5UWEwTGlsclRLUjlqSF9wR0pV?oc=5",
-      "published_date": "2026-07-29T02:59:00+00:00"
-    },
-    {
-      "title": "Netanyahu and Lapid court US support as Israeli election campaign heats up",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-903952",
-      "published_date": "2026-07-29T01:34:52+00:00"
-    },
-    {
-      "title": "Javier Milei, president of Argentina, confirmed that he will attend the inauguration of Abelardo De La Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Argentina",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/javier-milei-presidente-de-argentina-confirmo-que-asistira-a-la-posesion-de-abelardo-de-la-espriella-3574551",
-      "published_date": "2026-07-28T23:58:56+00:00"
     }
   ]
 }
