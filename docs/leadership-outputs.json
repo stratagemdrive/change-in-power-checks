@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-12T11:47:48.562856+00:00",
-    "story_count": 340,
+    "last_updated": "2026-08-12T23:37:36.606546+00:00",
+    "story_count": 335,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "China offers Colombia quake relief as new president’s US pivot leaves Beijing waiting",
+      "source": "South China Morning Post",
+      "country": "Colombia",
+      "url": "https://www.scmp.com/news/china/article/3363834/china-offers-colombia-quake-relief-new-presidents-us-pivot-leaves-beijing-waiting?utm_source=rss_feed",
+      "published_date": "2026-08-12T22:15:12+00:00"
+    },
+    {
+      "title": "They protest in Caracas to demand transparency in the negotiations between the interim government and a sector of the opposition",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/protestan-en-caracas-para-exigir-transparencia-en-las-negociaciones-entre-el-gobierno-interino-y-la-oposicion/",
+      "published_date": "2026-08-12T20:28:58+00:00"
+    },
+    {
+      "title": "Osun Election: NHRC seeks Fadahunsi’s arrest as Adeyanju writes UK, US for visa ban",
+      "source": "Vanguard Nigeria",
+      "country": "United Kingdom",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-nhrc-seeks-fadahunsis-arrest-as-adeyanju-writes-uk-us-for-visa-ban/",
+      "published_date": "2026-08-12T18:59:58+00:00"
+    },
+    {
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-12T18:37:00+00:00"
+    },
+    {
+      "title": "Lula appears with a hat in an image for the ballot box; remember photos of him in previous elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-aparece-com-chapeu-em-imagem-para-urna-relembre-fotos-dele-em-eleicoes-anteriores.shtml",
+      "published_date": "2026-08-12T17:25:00+00:00"
+    },
+    {
+      "title": "Berlin election: If the AfD becomes strong, its top candidate will be required",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-wird-die-afd-stark-ist-ihre-spitzenkandidatin-gefordert-201116602.html",
+      "published_date": "2026-08-12T16:28:27+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: “The BSW is making itself the AfD’s bedside rug”",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-in-sachsen-anhalt-sahra-wagenknecht-bleibt-mit-der-afd-im-gespraech-201118408.html",
+      "published_date": "2026-08-12T14:27:00+00:00"
+    },
     {
       "title": "Special counsel indicts ex-President Yoon over messages justifying martial law",
       "source": "Korea Times",
@@ -93,6 +142,13 @@
       "country": "Russia",
       "url": "https://www.latercera.com/mundo/noticia/zelenski-preve-una-nueva-movilizacion-militar-en-rusia-tras-las-elecciones-parlamentarias-de-septiembre/",
       "published_date": "2026-08-12T09:34:15+00:00"
+    },
+    {
+      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election - NBC News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXNLVXNJbElhMkRHT3BvRmMxV2VkNHRoX21vVFlJMmI4cE9HQzN0VzRUcXdrdW1SQm4yN0c5dW8tRG9uTnZKRHZTcUdGZTZKREd2V2c3MUhSM3NvNk9GT3BHaGZ0c05zUjBmWVJsNDd0V3dtaGJJVURFZFdZZmFTSXdFYldNdXlHYTVWSENNVGpDUmp6bjFORTV1TllreHJGU0E3ME83bWlGZ3RhOGhma2UtS0hHZm5fSVhiRzRn?oc=5",
+      "published_date": "2026-08-12T09:00:41+00:00"
     },
     {
       "title": "Mette Frederiksen rejects plans for a referendum on the reservation of rights",
@@ -193,7 +249,7 @@
       "published_date": "2026-08-11T19:52:24+00:00"
     },
     {
-      "title": "Russia Preparing Autumn Mobilization Immediately After “Imitation” Elections, Zelenskyy Says - united24media.com",
+      "title": "Russia Preparing Autumn Mobilization Immediately After “Imitation” Elections, Zelenskyy Says - UNITED24 Media",
       "source": "Google News World",
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEUybi1wbG9Valg2Y3FndlUwRUtrR1ZwOUlzbEJRTFdTa3IwQWFKMzhDY2pneWJwNGcxVUtDQjZqbWlIZEZwTDBGLXJ5VU9oYWc4ejlscWVGcE80WVZDTkpPaWVVY3VScVFxQVFQSW9RbW9JWGgtOVYySHBGa0VGek0xNGVZaXNNZUc4cXlsS3FBSElxbDI0NjA4NUgwN1ZDYVBfbHF6X1owSnk1cFU5VWgyb0JhM2I4TEdHUFNHSms2NS1hY20wd0xEN1htazJXSnc?oc=5",
@@ -2347,97 +2403,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904051",
       "published_date": "2026-07-30T00:31:22+00:00"
-    },
-    {
-      "title": "Patriarch Kirill was about to exile Metropolitan Hilarion to Brazil. Now he’s sending him to a convent near Moscow instead.",
-      "source": "Meduza EN",
-      "country": "Brazil",
-      "url": "https://meduza.io/en/news/2026/07/30/patriarch-kirill-was-about-to-exile-metropolitan-hilarion-to-brazil-now-he-s-sending-him-to-a-convent-near-moscow-instead",
-      "published_date": "2026-07-29T22:22:49+00:00"
-    },
-    {
-      "title": "Myanmar court sentences activists to 37 years over election protest",
-      "source": "Al Jazeera English",
-      "country": "Myanmar",
-      "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
-      "published_date": "2026-07-29T21:29:33+00:00"
-    },
-    {
-      "title": "Carlos Cuenca is the new president of the Commission of Accusations: he had several of the processes against President Gustavo Petro",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/congreso/carlos-cuenca-es-el-nuevo-presidente-de-la-comision-de-acusaciones-tenia-varios-de-los-procesos-contra-el-presidente-gustavo-petro-3574762",
-      "published_date": "2026-07-29T20:35:28+00:00"
-    },
-    {
-      "title": "Expert on the rebellion in India: \"I don't know if the genie can be put back in the bottle so easily\"",
-      "source": "Politiken Denmark",
-      "country": "India",
-      "url": "https://politiken.dk/internationalt/art10926851/Ekspert-om-opr%C3%B8ret-i-Indien-%C2%BBJeg-ved-ikke-om-%C3%A5nden-s%C3%A5-let-kan-puttes-tilbage-i-flasken%C2%AB",
-      "published_date": "2026-07-29T19:02:30+00:00"
-    },
-    {
-      "title": "Education minister resigns: 'Exhilarating moment' for India's youth as they demand accountability",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/education-minister-resigns-exhilarating-moment-for-india-s-youth-as-they-demand-accountability",
-      "published_date": "2026-07-29T17:59:28+00:00"
-    },
-    {
-      "title": "Rahul Gandhi demands Amit Shah’s resignation over police brutality during Delhi protests",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/rahul-gandhi-parliament-monsoon-session-lok-sabha-police-brutality-delhi-student-protests-amit-shah-july-29-2026/article71281681.ece",
-      "published_date": "2026-07-29T17:09:10+00:00"
-    },
-    {
-      "title": "Attack on Berlin CSD: First anger, then election campaign",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/wie-der-berliner-anschlag-zum-wahlkampfthema-wird-201076051.html",
-      "published_date": "2026-07-29T16:12:47+00:00"
-    },
-    {
-      "title": "Attack on Berlin CSD: First anger, then election campaign",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/wie-der-berliner-anschlag-zum-wahlkampfthema-wird-201076051.html",
-      "published_date": "2026-07-29T16:12:47+00:00"
-    },
-    {
-      "title": "Re-polling demand, Form-47 jibe and doomsday talk — PPP, PML-N continue to trade barbs over Mirpur election results",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results",
-      "published_date": "2026-07-29T15:15:15+00:00"
-    },
-    {
-      "title": "Russia’s Central Election Commission registers anti-war Yabloko party for State Duma elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/07/29/russia-s-central-election-commission-registers-anti-war-yabloko-party-for-state-duma-elections",
-      "published_date": "2026-07-29T14:55:01+00:00"
-    },
-    {
-      "title": "Government congratulates Keiko Fujimori after being sworn in as president of Peru",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/07/gobierno-felicita-a-keiko-fujimori-tras-ser-juramentada-como-presidenta-de-peru/",
-      "published_date": "2026-07-29T14:25:25+00:00"
-    },
-    {
-      "title": "Ex-President Yoon referred to prosecution on new election law violation charges",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260729/ex-president-yoon-referred-to-prosecution-on-new-election-law-violation-charges?utm_source=rss",
-      "published_date": "2026-07-29T12:57:02+00:00"
-    },
-    {
-      "title": "BJP forms special committees for local body elections in Andhra Pradesh",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-forms-special-committees-for-local-body-elections-in-andhra-pradesh/article71281532.ece",
-      "published_date": "2026-07-29T12:48:15+00:00"
     }
   ]
 }
