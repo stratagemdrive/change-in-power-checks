@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-12T23:37:36.606546+00:00",
-    "story_count": 335,
+    "last_updated": "2026-08-13T11:48:11.376817+00:00",
+    "story_count": 331,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Hamas plans to run in upcoming Palestinian elections, to prioritize status quo at Al-Aqsa Mosque",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-905406",
+      "published_date": "2026-08-13T11:45:40+00:00"
+    },
+    {
+      "title": "Reform UK's Farage faces off against Count Binface in election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/video/20260813-reform-uk-s-farage-faces-off-against-count-binface-in-election",
+      "published_date": "2026-08-13T09:45:09+00:00"
+    },
+    {
+      "title": "United Kingdom: Nigel Farage facing Tête-de-poubelle in an extraordinary legislative election",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260813-royaume-uni-nigel-farage-face-%C3%A0-t%C3%AAte-de-poubelle-dans-une-l%C3%A9gislative-hors-du-commun",
+      "published_date": "2026-08-13T09:04:20+00:00"
+    },
+    {
+      "title": "Controversial topic in the election campaign: A spy house in the middle of the German capital?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/berlin-wahl-2026-ein-russisches-spionagehaus-mitten-in-der-deutschen-hauptstadt-accg-201120817.html",
+      "published_date": "2026-08-13T07:10:33+00:00"
+    },
+    {
+      "title": "Can UK's hard-right Farage bin financial probe with by-election win?",
+      "source": "RFI English",
+      "country": "United Kingdom",
+      "url": "https://www.rfi.fr/en/international/20260813-can-uk-s-hard-right-farage-bin-financial-probe-with-snap-poll",
+      "published_date": "2026-08-13T05:38:47+00:00"
+    },
+    {
+      "title": "\"Doesn't the Cuban government have a heavy conscience?\": Exiled journalist on the psychological damage of the blackouts",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-08-13-u1-e208574-s27061-nid337691-al-gobierno-cubano-le-pesa-conciencia-periodista",
+      "published_date": "2026-08-13T03:32:59+00:00"
+    },
+    {
+      "title": "Reform UK's Farage and joke candidate Count Binface go head-to-head in snap election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
+      "published_date": "2026-08-13T02:25:12+00:00"
+    },
     {
       "title": "China offers Colombia quake relief as new president’s US pivot leaves Beijing waiting",
       "source": "South China Morning Post",
@@ -2326,83 +2375,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/delhi-bjp-protests-against-aap-demands-punjab-education-ministers-resignation-over-paper-leaks/article71285110.ece",
       "published_date": "2026-07-30T11:58:59+00:00"
-    },
-    {
-      "title": "Cuban regime once again postpones the election of delegates of Popular Power",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-07-30-u1-e207888-s27061-nid336582-regimen-cubano-vuelve-posponer-eleccion-delegados",
-      "published_date": "2026-07-30T11:25:28+00:00"
-    },
-    {
-      "title": "Congress says Rot in India's education system deep; Pradhan's resignation only beginning",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/congress-says-rot-in-indias-education-system-deep-pradhans-resignation-only-beginning/article71285153.ece",
-      "published_date": "2026-07-30T10:46:56+00:00"
-    },
-    {
-      "title": "Ukraine’s former defense minister Fedorov says he had no personal conflict with former armed forces commander-in-chief Syrskyi. ‘It’s an ideological conflict.’",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/07/30/ukraine-s-former-defense-minister-fedorov-says-he-had-no-personal-conflict-with-former-armed-forces-commander-in-chief-syrskyi-it-s-an-ideological-conflict",
-      "published_date": "2026-07-30T09:40:20+00:00"
-    },
-    {
-      "title": "Popular movements create 'agitation and propaganda brigades' in defense of Lula's re-election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/movimentos-populares-criam-brigadas-de-agitacao-e-propaganda-em-defesa-da-reeleicao-de-lula.shtml",
-      "published_date": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "title": "Delhi BJP protests against Punjab education minister, demands his resignation over 'paper leaks'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/delhi-bjp-protests-against-punjab-education-minister-demands-his-resignation-over-paper-leaks-101785395696556.html",
-      "published_date": "2026-07-30T07:52:33+00:00"
-    },
-    {
-      "title": "Germany live blog: Brandenburg JU leader resigns from CDU: “I have lost faith”",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-brandenburger-ju-chefin-tritt-aus-cdu-aus-faz-110093143.html",
-      "published_date": "2026-07-30T07:41:19+00:00"
-    },
-    {
-      "title": "Guru Ravidas 650th Parkash Purab: AAP, BJP step up Dalit connect before Punjab elections",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/guru-ravidas-650th-parkash-purab-aap-bjp-step-up-dalit-connect-before-punjab-elections-10810055/",
-      "published_date": "2026-07-30T06:52:39+00:00"
-    },
-    {
-      "title": "Russian athletes falling behind rivals amid ongoing exile from world athletics",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/sports/2026/07/30/more-sports/russia-world-athletics-exile/",
-      "published_date": "2026-07-30T03:52:00+00:00"
-    },
-    {
-      "title": "Lula uses Petrobras to inflate investment and construction agenda in election year",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-usa-petrobras-para-inflar-agenda-de-investimentos-e-obras-em-ano-eleitoral.shtml",
-      "published_date": "2026-07-30T02:00:00+00:00"
-    },
-    {
-      "title": "'No one is going to interfere in the elections', says Lula when criticizing US and Argentine actions",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ninguem-vai-meter-o-bedelho-nas-eleicoes-diz-lula-ao-criticar-acoes-dos-eua-e-da-argentina.shtml",
-      "published_date": "2026-07-30T00:53:00+00:00"
-    },
-    {
-      "title": "Bennett losing ground as Eisenkot, Netanyahu neck-and-neck for upcoming elections - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904051",
-      "published_date": "2026-07-30T00:31:22+00:00"
     }
   ]
 }
