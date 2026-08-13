@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-13T11:48:11.376817+00:00",
-    "story_count": 331,
+    "last_updated": "2026-08-13T23:38:44.773559+00:00",
+    "story_count": 340,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Karina Milei inaugurated the libertarian premises for the Province and Pareja is already talking about Santilli as a candidate",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
+      "published_date": "2026-08-13T23:01:09+00:00"
+    },
+    {
+      "title": "Israeli defence minister inaugurates new illegal settlement in Jenin",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-inaugurates-new-illegal-settlement-jenin",
+      "published_date": "2026-08-13T22:46:35+00:00"
+    },
+    {
+      "title": "WATCH: RZP will not ally with Ben-Gvir in 2026 elections, Smotrich tells 'Post'",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905489",
+      "published_date": "2026-08-13T22:39:19+00:00"
+    },
+    {
+      "title": "Clacton by-election polls close as Farage bids to become MP again - BBC",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ST3RSMFdQb25lRzFLT0ZFdW9BX0xidlJMY3RBX2pjUHhCRnVMWDZscVFpLTAyZDNSelU4TlM4RFotN2U0Rzg3YWtYT1BjM21fN2ctR0NlRlA4dw?oc=5",
+      "published_date": "2026-08-13T21:06:27+00:00"
+    },
+    {
+      "title": "Polls close in UK by-election with Nigel Farage and Count Binface going head-to-head",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/my-europe/2026/08/13/reform-uk-leader-nigel-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
+      "published_date": "2026-08-13T21:05:42+00:00"
+    },
+    {
+      "title": "Doria inaugurates Lide Angola and invites the president of the African country to come to Brazil",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/doria-inaugura-lide-angola-e-convida-presidente-do-pais-africano-a-vir-ao-brasil.shtml",
+      "published_date": "2026-08-13T20:12:00+00:00"
+    },
+    {
+      "title": "Yadgar-i-Fatah monument inaugurated in Islamabad on eve of Independence Day",
+      "source": "Dawn Pakistan",
+      "country": "Palestine",
+      "url": "https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day",
+      "published_date": "2026-08-13T19:27:29+00:00"
+    },
+    {
+      "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+      "published_date": "2026-08-13T16:04:46+00:00"
+    },
+    {
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "source": "BBC World",
+      "country": "France",
+      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T15:50:49+00:00"
+    },
+    {
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup - BBC",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zLXRjOXZTU2ZQVDNPcW04QlZnY0dDa2pyRTMtODk3bFk3RDNXNjhGSXVJajJsT2tKOGNqUUduMlg0cndPWVF3NmJpZEN6VVZCdVNJWWt6bDVKUQ?oc=5",
+      "published_date": "2026-08-13T15:50:49+00:00"
+    },
+    {
+      "title": "Lula changes tone and nods to agribusiness in new government program",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-muda-tom-e-acena-ao-agronegocio-em-novo-programa-de-governo.shtml",
+      "published_date": "2026-08-13T15:20:00+00:00"
+    },
+    {
+      "title": "Bangladesh turns to India for help as power crisis forces 8 pm shutdown for malls, shops",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bangladesh-power-crisis-gas-shortage-turns-to-india-for-diesel-forces-8-pm-shutdown-for-malls-shops-energy-us-iran-war-101786630000162.html",
+      "published_date": "2026-08-13T14:53:05+00:00"
+    },
+    {
+      "title": "Explosion kills Russian serviceman in occupied Sevastopol. Unconfirmed reports identify the victim as a former Ukrainian submarine commander who defected to Russia.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/08/13/explosion-kills-russian-serviceman-in-occupied-sevastopol-unconfirmed-reports-identify-the-victim-as-a-former-ukrainian-submarine-commander-who-defected-to-russia",
+      "published_date": "2026-08-13T14:11:57+00:00"
+    },
+    {
+      "title": "Palestinian territories: Hamas wants to take part in parliamentary elections",
+      "source": "FAZ Germany",
+      "country": "Palestine",
+      "url": "https://www.faz.net/aktuell/politik/ausland/hamas-will-an-palaestinensischen-wahlen-teilnehmen-201122080.html",
+      "published_date": "2026-08-13T12:42:52+00:00"
+    },
+    {
+      "title": "Former commander of Zaporizhzhia submarine who defected to Russia killed in explosion in Sevastopol — media",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4153842-former-commander-of-zaporizhzhia-submarine-who-defected-to-russia-killed-in-explosion-in-sevastopol-media.html",
+      "published_date": "2026-08-13T12:38:00+00:00"
+    },
+    {
+      "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - AP News",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
+      "published_date": "2026-08-13T12:26:00+00:00"
+    },
     {
       "title": "Hamas plans to run in upcoming Palestinian elections, to prioritize status quo at Al-Aqsa Mosque",
       "source": "Jerusalem Post",
@@ -85,6 +197,13 @@
       "source": "FAZ Germany",
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/berlin-wahl-2026-ein-russisches-spionagehaus-mitten-in-der-deutschen-hauptstadt-accg-201120817.html",
+      "published_date": "2026-08-13T07:10:33+00:00"
+    },
+    {
+      "title": "Controversial topic in the election campaign: A spy house in the middle of the German capital?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/russisches-haus-spionage-mitten-in-berlin-accg-201120817.html",
       "published_date": "2026-08-13T07:10:33+00:00"
     },
     {
@@ -134,6 +253,13 @@
       "source": "Deutsche Welle English",
       "country": "Russia",
       "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-12T18:37:00+00:00"
+    },
+    {
+      "title": "Why is Russia's Yabloko party barred from upcoming election?",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-08-12T18:37:00+00:00"
     },
     {
@@ -1453,7 +1579,7 @@
       "published_date": "2026-08-06T10:00:35+00:00"
     },
     {
-      "title": "From Exile to Damascus: Our New Chapter Begins",
+      "title": "From Exile to Damascus: Our new chapter begins",
       "source": "Syria Direct",
       "country": "Syria",
       "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
@@ -2312,69 +2438,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml",
       "published_date": "2026-07-30T23:43:00+00:00"
-    },
-    {
-      "title": "Parliament passes paper leak Bill as Opposition walks out of Rajya Sabha",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
-      "published_date": "2026-07-30T20:48:48+00:00"
-    },
-    {
-      "title": "Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/chandigarh/court-dismisses-second-bail-plea-of-hyderabad-man-arrested-for-circulating-misleading-video-linked-to-pm-modi-10811163/",
-      "published_date": "2026-07-30T19:26:01+00:00"
-    },
-    {
-      "title": "Boric is betting, until now, on a dispensable role in the internal election of the FA",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/boric-apuesta-hasta-ahora-por-rol-prescindente-en-la-eleccion-interna-del-fa/",
-      "published_date": "2026-07-30T17:30:08+00:00"
-    },
-    {
-      "title": "La Moneda sets its sights on the Fundamental Charter: Arrau's other constitutional reform to create a new state of exception",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/la-moneda-pone-la-mira-en-la-carta-fundamental-la-otra-reforma-constitucional-de-arrau-para-crear-un-nuevo-estado-de-excepcion/",
-      "published_date": "2026-07-30T17:30:00+00:00"
-    },
-    {
-      "title": "The battlefield Ukraine’s new commander-in-chief inherits as Russian troops push toward Ukraine’s main defensive stronghold in Donbas",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/07/30/the-battlefield-ukraine-s-new-commander-in-chief-inherits-as-russian-troops-push-toward-ukraine-s-main-defensive-stronghold-in-donbas",
-      "published_date": "2026-07-30T15:14:18+00:00"
-    },
-    {
-      "title": "Election audit: The AfD is playing with the dilemma",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-niedersachsen-das-dilemma-um-kandidaten-201080392.html",
-      "published_date": "2026-07-30T13:34:33+00:00"
-    },
-    {
-      "title": "Election audit: The AfD is playing with the dilemma",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-niedersachsen-das-dilemma-um-den-wahlausschluss-201080392.html",
-      "published_date": "2026-07-30T13:34:33+00:00"
-    },
-    {
-      "title": "Japan shopping mall explosion after 7.1 quake captured on dashcam footage",
-      "source": "Euronews",
-      "country": "Japan",
-      "url": "http://www.euronews.com/video/2026/07/30/japan-shopping-mall-explosion-after-71-quake-captured-on-dashcam-footage",
-      "published_date": "2026-07-30T12:02:53+00:00"
-    },
-    {
-      "title": "Delhi BJP protests against AAP, demands Punjab Education Minister's resignation over 'paper leaks'",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/delhi-bjp-protests-against-aap-demands-punjab-education-ministers-resignation-over-paper-leaks/article71285110.ece",
-      "published_date": "2026-07-30T11:58:59+00:00"
     }
   ]
 }
