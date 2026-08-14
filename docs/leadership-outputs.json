@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-14T11:46:38.569969+00:00",
-    "story_count": 354,
+    "last_updated": "2026-08-14T23:18:13.900416+00:00",
+    "story_count": 360,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "The lie of apartheid: The 2026 Israel election is a display of the country's diversity - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-905394",
+      "published_date": "2026-08-14T22:04:32+00:00"
+    },
+    {
+      "title": "Meta alertó a la PDI y fue detenida: mujer formalizada por amenazas al Presidente Kast queda con arraigo y firma mensual",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/meta-alerto-a-la-pdi-y-fue-detenida-mujer-formalizada-por-amenazas-al-presidente-kast-queda-con-arraigo-y-firma-mensual/",
+      "published_date": "2026-08-14T21:53:57+00:00"
+    },
+    {
+      "title": "Osun Election: Every lawful vote must be properly recorded – Tinubu tells INEC",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-every-lawful-vote-must-be-properly-recorded-tinubu-tells-inec/",
+      "published_date": "2026-08-14T21:44:16+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro's coordinator wants to discuss the end of the 6x1 scale only after the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/coordenador-de-flavio-bolsonaro-quer-discutir-fim-da-escala-6x1-so-apos-eleicao.shtml",
+      "published_date": "2026-08-14T20:59:00+00:00"
+    },
+    {
+      "title": "OAS will send international mission to monitor elections in Brazil",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil",
+      "published_date": "2026-08-14T18:25:00+00:00"
+    },
+    {
+      "title": "Sudan Nashra: In cross-border offensive, RSF seizes Blue Nile’s Geisan, recaptures Kurmuk | Military repels major RSF attack on North Kordofan’s Gabra al-Sheikh | After clashes inside Kauda, SPLM-N-Otoro fighting spreads to nearby villages | Kordofan governor in RSF-led govt defects | Back-to-back Sudanese visits to Juba in mutual push to contain border, Abyei tensions",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/08/14/news/politics/sudan-nashra-in-cross-border-offensive-rsf-seizes-blue-niles-geisan-recaptures-kurmuk-military-repels-major-rsf-attack-on-north-kordofans-gabra-al-sheikh-after-clashes-inside/",
+      "published_date": "2026-08-14T17:41:39+00:00"
+    },
+    {
+      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+      "published_date": "2026-08-14T16:35:45+00:00"
+    },
+    {
+      "title": "Count Binface wins hearts, if not the election, in bid to defeat Trump ally Nigel Farage in U.K. - CBS News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzcmVZalJIcWdoLW52RG44bjBsRnVIWmFwOFI3a01Fb3p4S3Z4WG15TmZCd0E0RlRtM0M4ZGxtMWJKSmlDbTczLWh5QmZia3VIZmJjdUR1T29ib0VLQmRaMF9MdWxMMmpVRHpKb21Qa3pDcVFMVl8w?oc=5",
+      "published_date": "2026-08-14T14:19:00+00:00"
+    },
+    {
+      "title": "Yabloko Appeals Russian Supreme Court Ruling Barring It From State Duma Elections",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/14/yabloko-appeals-russian-supreme-court-ruling-barring-it-from-state-duma-elections-a93500",
+      "published_date": "2026-08-14T13:42:07+00:00"
+    },
+    {
+      "title": "Lula still tries to vote 6x1 before the election and has another meeting with Alcolumbre",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-tem-novo-encontro-com-alcolumbre-em-meio-a-pressao-para-votar-6x1-antes-da-eleicao.shtml",
+      "published_date": "2026-08-14T13:34:00+00:00"
+    },
+    {
+      "title": "Farage's election victory: circus of vanity",
+      "source": "FAZ Germany",
+      "country": "United Kingdom",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-hat-einen-pfeiler-der-demokratie-ins-laecherliche-gezogen-201126614.html",
+      "published_date": "2026-08-14T13:06:01+00:00"
+    },
     {
       "title": "As foreign elections shape Israel’s alliances, Jerusalem seeks to control the diplomatic whiplash",
       "source": "Jerusalem Post",
@@ -170,6 +247,13 @@
       "country": "Ukraine",
       "url": "https://www.independent.co.uk/news/world/europe/russia-navy-officer-bin-bomb-crimea-b3032936.html",
       "published_date": "2026-08-14T06:16:41+00:00"
+    },
+    {
+      "title": "Russian Navy officer who defected from Ukraine killed by hidden bin bomb in Crimea, officials say - The Independent",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTAtdVNmZXBOUnB0Sk96VUF5TU90cTV6c2dWdzRVRmxlTXJuSkpYQzNnVFQ1RU9VTnVKb0xLX25rbTFDclIxZkFVamVQUlJNeWFxTDVkR0VLRldsWE9sYm11dDFGQnFTdk5rbjJCcWRaSmI0eGtoYVRnZUtQcGV2RmVCeGpFSWxNbE9GYjNKT2dGSkZCQ1g5STk0VW94UQ?oc=5",
+      "published_date": "2026-08-14T06:16:00+00:00"
     },
     {
       "title": "Farage wins UK by-election as investigation into undeclared €5.8m gift resumes",
@@ -2494,48 +2578,6 @@
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-verde-oficializa-apoio-candidatura-de-lula-reeleicao",
       "published_date": "2026-08-01T00:16:00+00:00"
-    },
-    {
-      "title": "Venezuela government and opposition to hold talks aimed at path to election",
-      "source": "Al Jazeera English",
-      "country": "Venezuela",
-      "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
-      "published_date": "2026-07-31T20:28:39+00:00"
-    },
-    {
-      "title": "Eisenkot election billboard in Cyprus vandalized with Palestinian flag colors",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904232",
-      "published_date": "2026-07-31T17:12:48+00:00"
-    },
-    {
-      "title": "PM Modi, UK PM Andy Burnham discuss trade deal, West Asia crisis",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-uk-pm-andy-burnham-discuss-trade-deal-west-asia-crisis-101785515281875.html",
-      "published_date": "2026-07-31T16:28:01+00:00"
-    },
-    {
-      "title": "Over 4,000 police personnel to be deployed for security during AJK Assembly elections in Rawalpindi division",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2019728/over-4000-police-personnel-to-be-deployed-for-security-during-ajk-assembly-elections-in-rawalpindi-division",
-      "published_date": "2026-07-31T14:59:09+00:00"
-    },
-    {
-      "title": "Sudan civil war: When drones strike the classroom",
-      "source": "Deutsche Welle English",
-      "country": "Sudan",
-      "url": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-07-31T14:38:00+00:00"
-    },
-    {
-      "title": "Central Election Commission Bars Yabloko Candidates From St. Petersburg Ballot",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
-      "published_date": "2026-07-31T14:16:07+00:00"
     }
   ]
 }
