@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-13T23:38:44.773559+00:00",
-    "story_count": 340,
+    "last_updated": "2026-08-14T11:46:38.569969+00:00",
+    "story_count": 354,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,151 @@
   },
   "stories": [
     {
+      "title": "As foreign elections shape Israel’s alliances, Jerusalem seeks to control the diplomatic whiplash",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-905487",
+      "published_date": "2026-08-14T12:29:40+00:00"
+    },
+    {
+      "title": "Video: Israel inaugurates new illegal settlement in Jenin",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-inaugurates-new-illegal-settlement-jenin",
+      "published_date": "2026-08-14T11:24:39+00:00"
+    },
+    {
+      "title": "Osun election must be free, fair, Tinubu charges INEC ahead of Saturday poll",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/osun-election-must-be-free-fair-tinubu-charges-inec-ahead-of-saturday-poll/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-14T11:16:18+00:00"
+    },
+    {
+      "title": "UK: Farage wins controversial by-election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election",
+      "published_date": "2026-08-14T10:29:22+00:00"
+    },
+    {
+      "title": "Cuban soldier asked the resignation of Fidel and Raúl Castro in a meeting and sentenced him to 20 years in prison",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-08-14-u1-e192519-s27061-nid337732-militar-cubano-pidio-renuncia-fidel-raul-castro",
+      "published_date": "2026-08-14T10:29:03+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike kills eight family members in southern Rakhine State",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-eight-family-members-in-southern-rakhine-state/",
+      "published_date": "2026-08-14T10:28:40+00:00"
+    },
+    {
+      "title": "Ebola in DR Congo, French agent pardoned in Mali, presidential election in Zambia: Africa Weekly",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/afrique/20260814-ebola-en-rd-congo-agent-fran%C3%A7ais-graci%C3%A9-au-mali-pr%C3%A9sidentielle-en-zambie-l-hebdo-afrique",
+      "published_date": "2026-08-14T09:37:01+00:00"
+    },
+    {
+      "title": "UK far-right leader Farage re-elected in boycotted by-election",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "published_date": "2026-08-14T09:24:24+00:00"
+    },
+    {
+      "title": "UN atrocity report adds friction to Myanmar junta’s diplomatic push for legitimacy",
+      "source": "South China Morning Post",
+      "country": "Myanmar",
+      "url": "https://www.scmp.com/week-asia/politics/article/3364049/un-atrocity-report-adds-friction-myanmar-juntas-diplomatic-push-legitimacy?utm_source=rss_feed",
+      "published_date": "2026-08-14T08:58:50+00:00"
+    },
+    {
+      "title": "Mali junta pardons French agent jailed for 'undermining state security'",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/africa/20260814-mali-junta-pardons-french-agent-jailed-for-undermining-state-security-yann-v%C3%A9zilier",
+      "published_date": "2026-08-14T08:25:16+00:00"
+    },
+    {
+      "title": "Election in France: When Russian disinformation suddenly becomes an advantage",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-frankreich-wenn-russische-desinformation-ploetzlich-zum-vorteil-wird-accg-201118262.html",
+      "published_date": "2026-08-14T08:17:23+00:00"
+    },
+    {
+      "title": "Farage wins Clacton by-election, defeats rival Count Binface",
+      "source": "The Punch Nigeria",
+      "country": "United Kingdom",
+      "url": "https://punchng.com/farage-wins-clacton-by-election-defeats-rival-count-binface/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-14T07:41:39+00:00"
+    },
+    {
+      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected - The New York Times",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1RsbUtMSUxsbnlDRV9kOElMeUZ5QURmWV9HSC1vR3VwLXBZTGxFYzVzZFBydnZpT3NuSjhnazNmclY0X2ZPaWRtcG9nZE5jY3NmMEZhSkVMSF8zTzNaWWIzMXBHTm84TllTRm16bS1hVG9NVkxYSlRkTGhfZllDR2Q5eW9xYXVVbnE4QkhrU3U1cThzWE1jTA?oc=5",
+      "published_date": "2026-08-14T07:35:29+00:00"
+    },
+    {
       "title": "Karina Milei inaugurated the libertarian premises for the Province and Pareja is already talking about Santilli as a candidate",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
-      "published_date": "2026-08-13T23:01:09+00:00"
+      "published_date": "2026-08-14T06:54:19+00:00"
+    },
+    {
+      "title": "Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
+      "published_date": "2026-08-14T06:34:35+00:00"
+    },
+    {
+      "title": "Russian Navy officer who defected from Ukraine killed by hidden bin bomb in Crimea, officials say",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-navy-officer-bin-bomb-crimea-b3032936.html",
+      "published_date": "2026-08-14T06:16:41+00:00"
+    },
+    {
+      "title": "Farage wins UK by-election as investigation into undeclared €5.8m gift resumes",
+      "source": "Euronews",
+      "country": "United Kingdom",
+      "url": "http://www.euronews.com/2026/08/14/farage-wins-uk-by-election-to-return-to-parliament",
+      "published_date": "2026-08-14T05:39:02+00:00"
+    },
+    {
+      "title": "Nigel Farage wins a by-election for a seat in the British Parliament",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/nigel-farage-vinder-suppleringsvalg-om-plads-i-det-britiske-parlament",
+      "published_date": "2026-08-14T05:22:04+00:00"
+    },
+    {
+      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "source": "CBC News World",
+      "country": "United Kingdom",
+      "url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss",
+      "published_date": "2026-08-14T04:51:39+00:00"
+    },
+    {
+      "title": "The economy, Milei's only challenge in the elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/opinion/la-economia-el-unico-desafio-de-milei-en-las-elecciones-nid14082026/",
+      "published_date": "2026-08-14T03:05:00+00:00"
+    },
+    {
+      "title": "Partial legislative election in the United Kingdom: Nigel Farage re-elected against candidate Tête-de-bubelle",
+      "source": "France 24 FR",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire",
+      "published_date": "2026-08-14T02:53:12+00:00"
     },
     {
       "title": "Israeli defence minister inaugurates new illegal settlement in Jenin",
@@ -74,7 +214,7 @@
       "published_date": "2026-08-13T22:46:35+00:00"
     },
     {
-      "title": "WATCH: RZP will not ally with Ben-Gvir in 2026 elections, Smotrich tells 'Post'",
+      "title": "WATCH: 'I know how to act responsibly': Smotrich outlines election strategy, plan to draft haredim",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-905489",
@@ -165,7 +305,7 @@
       "published_date": "2026-08-13T12:38:00+00:00"
     },
     {
-      "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - AP News",
+      "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - apnews.com",
       "source": "Google News World",
       "country": "Japan",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
@@ -219,6 +359,13 @@
       "country": "Cuba",
       "url": "https://www.cibercuba.com/noticias/2026-08-13-u1-e208574-s27061-nid337691-al-gobierno-cubano-le-pesa-conciencia-periodista",
       "published_date": "2026-08-13T03:32:59+00:00"
+    },
+    {
+      "title": "Farage wins UK by-election as Count Binface claims 'moral victory'",
+      "source": "RFI English",
+      "country": "United Kingdom",
+      "url": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
+      "published_date": "2026-08-13T02:26:10+00:00"
     },
     {
       "title": "Reform UK's Farage and joke candidate Count Binface go head-to-head in snap election",
@@ -2389,55 +2536,6 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
       "published_date": "2026-07-31T14:16:07+00:00"
-    },
-    {
-      "title": "Eisenkot leads Netanyahu by 10 points, Likud gains two seats in latest election poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904206",
-      "published_date": "2026-07-31T09:47:47+00:00"
-    },
-    {
-      "title": "'Only BJP can give self-made person like Modi': Shehzad Poonawalla amid resignation buzz",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/only-bjp-can-give-self-made-person-like-modi-shehzad-poonawalla-after-quitting-party-101785488668916.html",
-      "published_date": "2026-07-31T09:20:58+00:00"
-    },
-    {
-      "title": "Dharmendra Pradhan’s resignation was a victory for CJP — and Modi. Here’s why",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/opinion/columns/dharmendra-pradhan-resign-cjp-modi-rahul-gandhi-kejriwal-10811736/",
-      "published_date": "2026-07-31T07:14:10+00:00"
-    },
-    {
-      "title": "Legislative elections in Israel: Gadi Eisenkot, the former army chief who wants to dethrone Netanyahu",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/moyen-orient/20260731-elections-l%C3%A9gislatives-isra%C3%ABl-gadi-eisenkot-ancien-chef-arm%C3%A9e-qui-veut-d%C3%A9tr%C3%B4ner-benjamin-netanyahu",
-      "published_date": "2026-07-31T05:14:17+00:00"
-    },
-    {
-      "title": "Peru swears in new president and other top photos from Latin America and the Caribbean - AP News",
-      "source": "Google News World",
-      "country": "Peru",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWFfV1hDaTR3WHRST2U4MEl6UTFSckotTHBYX2wtWUlEeGJ3NnktQkV5Zm8wY3ZwNE0wTlY5QzZxbmQ3a0sxQ1BWUGpFLXhuYmlnd25pZUZOTnE4NGN0SjJteEVPdjRYSTgtXzZac1NoUHBUNUZWU2dPeGZidG9TVVd1RFRrUzRNcEJfMktYRVJWaHFMOGhQT1VhTU9IU040WkRNdkNqMnM3OEhEOVE?oc=5",
-      "published_date": "2026-07-31T04:26:00+00:00"
-    },
-    {
-      "title": "Bengaluru student at NEET protest assaulted for demanding PM Modi resign",
-      "source": "Indian Express",
-      "country": "India",
-      "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-aisa-student-assault-jalahalli-fir-unidentified-men-10811475/",
-      "published_date": "2026-07-31T03:51:35+00:00"
-    },
-    {
-      "title": "Lula admits risk of Trump interference in elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml",
-      "published_date": "2026-07-30T23:43:00+00:00"
     }
   ]
 }
