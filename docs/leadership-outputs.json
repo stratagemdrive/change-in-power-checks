@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-15T11:23:19.490399+00:00",
-    "story_count": 360,
+    "last_updated": "2026-08-15T23:18:18.081857+00:00",
+    "story_count": 359,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran denounces the detention of three fighter pilots by Qatar which denies having captured them",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+      "published_date": "2026-08-15T22:48:14+00:00"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T21:03:57+00:00"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets - BBC",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMnYxWlJhWl9nQUFJdHhDT24yYXdkSkY3OVZ1V004ckdPNVdseV9xVm8wa3NfazZ3YTAxQ0xyNkEtRktxWDVxLXU3VE5iaTZlWVpKaTNIVDJaZw?oc=5",
+      "published_date": "2026-08-15T21:03:57+00:00"
+    },
+    {
+      "title": "Osun election: Adeleke raises alarm, calls on Tinubu to ensure votes count",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-adeleke-raises-alarm-calls-on-tinubu-to-ensure-votes-count/",
+      "published_date": "2026-08-15T18:56:04+00:00"
+    },
+    {
+      "title": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2023001/ajk-elections-ppp-pml-n-candidates-retain-lead-in-bagh-after-repolling",
+      "published_date": "2026-08-15T16:49:13+00:00"
+    },
+    {
+      "title": "FA elections: Yeomans reinforces ideas of his candidacy and aims to build a party that is an alternative to Kast",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
+      "published_date": "2026-08-15T15:56:33+00:00"
+    },
+    {
+      "title": "Kherson Regional Council warns of risk of large-scale mobilization in occupied territories after 'State Duma elections'",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4154424-kherson-regional-council-warns-of-risk-of-largescale-mobilization-in-occupied-territories-after-state-duma-elections.html",
+      "published_date": "2026-08-15T13:31:00+00:00"
+    },
+    {
+      "title": "Report warns about the risks of a hard-line military strategy before the arrival of the new president of Colombia",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/08/informe-alerta-sobre-los-riesgos-de-una-estrategia-militar-de-linea-dura-ante-la-llegada-del-nuevo-presidente-de-colombia/",
+      "published_date": "2026-08-15T13:16:16+00:00"
+    },
     {
       "title": "Don’t give up on elections; 97-year-old voter urges Nigerians",
       "source": "Vanguard Nigeria",
@@ -2515,69 +2571,6 @@
       "country": "Venezuela",
       "url": "https://www.lanacion.com.ar/el-mundo/bajo-tutela-de-eeuu-el-chavismo-y-la-oposicion-iniciaron-un-dialogo-para-una-transicion-politica-en-nid01082026/",
       "published_date": "2026-08-01T23:30:21+00:00"
-    },
-    {
-      "title": "Kremlin seeks to show there is no anti-war agenda in September elections – political analyst",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4150006-kremlin-seeks-to-show-there-is-no-antiwar-agenda-in-september-elections-political-analyst.html",
-      "published_date": "2026-08-01T21:27:00+00:00"
-    },
-    {
-      "title": "PPP, PML-N continue war of words on eve of Muzaffarabad elections",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2019925/ppp-pml-n-continue-war-of-words-on-eve-of-muzaffarabad-elections",
-      "published_date": "2026-08-01T19:13:27+00:00"
-    },
-    {
-      "title": "Colombia truck bomb near police station wounds 14 ahead of presidential inauguration",
-      "source": "South China Morning Post",
-      "country": "Colombia",
-      "url": "https://www.scmp.com/news/world/americas/article/3362664/truck-explodes-outside-colombia-police-base-injuring-11-officers-and-killing-dog?utm_source=rss_feed",
-      "published_date": "2026-08-01T18:49:49+00:00"
-    },
-    {
-      "title": "Help in the election campaign: Federal CDU distances itself from election campaign appearances with Dieter Hallervorden",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/bundes-cdu-distanziert-sich-von-wahlkampfauftritten-mit-dieter-hallervorden-accg-201087155.html",
-      "published_date": "2026-08-01T16:49:29+00:00"
-    },
-    {
-      "title": "Lula will be proclaimed presidential candidate of the PT to seek a fourth term in Brazil",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/lula-sera-proclamado-candidato-presidencial-del-pt-para-buscar-un-cuarto-mandato-en-brasil/",
-      "published_date": "2026-08-01T16:26:38+00:00"
-    },
-    {
-      "title": "At least 11 wounded by Colombia car bomb days before presidential election",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-      "published_date": "2026-08-01T15:48:39+00:00"
-    },
-    {
-      "title": "Avi Lewis puts preparing NDP for next general election ahead of bid for House of Commons seat",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-avi-lewis-puts-preparing-ndp-for-next-general-election-ahead-of-bid/",
-      "published_date": "2026-08-01T14:05:06+00:00"
-    },
-    {
-      "title": "Colombia: truck bomb explodes six days before inauguration of president-elect",
-      "source": "Le Figaro France",
-      "country": "Colombia",
-      "url": "https://www.lefigaro.fr/international/colombie-un-camion-piege-explose-a-six-jours-de-l-investiture-du-president-elu-20260801",
-      "published_date": "2026-08-01T11:55:41+00:00"
-    },
-    {
-      "title": "Libya Development and Reconstruction Fund inaugurates 120 housing unit residential complex project in Sabha",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/08/libya-development-and-reconstruction-fund-inaugurates-120-housing-unit-residential-complex-project-in-sabha/",
-      "published_date": "2026-08-01T11:44:00+00:00"
     }
   ]
 }
