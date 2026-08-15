@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-14T23:18:13.900416+00:00",
+    "last_updated": "2026-08-15T11:23:19.490399+00:00",
     "story_count": 360,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,20 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Don’t give up on elections; 97-year-old voter urges Nigerians",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/dont-give-up-on-elections-97-year-old-voter-urges-nigerians/",
+      "published_date": "2026-08-15T10:56:46+00:00"
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
+      "source": "Google News World",
+      "country": "Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+      "published_date": "2026-08-15T09:34:00+00:00"
+    },
     {
       "title": "The lie of apartheid: The 2026 Israel election is a display of the country's diversity - opinion",
       "source": "Jerusalem Post",
@@ -93,6 +107,13 @@
       "country": "Brazil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil",
       "published_date": "2026-08-14T18:25:00+00:00"
+    },
+    {
+      "title": "Lula says he will only accept nomination for US ambassador after elections",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes",
+      "published_date": "2026-08-14T17:58:00+00:00"
     },
     {
       "title": "Sudan Nashra: In cross-border offensive, RSF seizes Blue Nile’s Geisan, recaptures Kurmuk | Military repels major RSF attack on North Kordofan’s Gabra al-Sheikh | After clashes inside Kauda, SPLM-N-Otoro fighting spreads to nearby villages | Kordofan governor in RSF-led govt defects | Back-to-back Sudanese visits to Juba in mutual push to contain border, Abyei tensions",
@@ -289,6 +310,13 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire",
       "published_date": "2026-08-14T02:53:12+00:00"
+    },
+    {
+      "title": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’ - The Guardian",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzVaMzNiOUpnV0xuS1VEYVhWeFlBd2EzN29yWGpIY09GejhodS1VRXRKSmZ6SlBaa3NtalJ0Tk5QTHVVNU9kUWJyQWZjZUhFZk9GemRZTGpfRk03Z09GcGh1MEtkLUo1UHlmXzlyeUJrRUhjXzhQT3ptcmVOd0FJSUVpM0hBMS1rZjVjc0pQTml1eldPVnQtTVBQelBqVmZheWJmZ2p3?oc=5",
+      "published_date": "2026-08-14T02:05:00+00:00"
     },
     {
       "title": "Israeli defence minister inaugurates new illegal settlement in Jenin",
@@ -2550,34 +2578,6 @@
       "country": "Libya",
       "url": "https://libyaherald.com/2026/08/libya-development-and-reconstruction-fund-inaugurates-120-housing-unit-residential-complex-project-in-sabha/",
       "published_date": "2026-08-01T11:44:00+00:00"
-    },
-    {
-      "title": "PML-N never won a general election without rigging, alleges PPP's Saeed Ghani",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2019925/pml-n-never-won-a-general-election-without-rigging-alleges-ppps-saeed-ghani",
-      "published_date": "2026-08-01T10:01:51+00:00"
-    },
-    {
-      "title": "Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’ - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkpsZ3BhUXhCSHdDUVBTQ09faGxGQV8xZmhhN3NIVm1jQXU3U1hPLWpIMnYxUVlEdzY0VkRIbEk3RUs5Tzh2dFFOY1JFYmttX1FfOWlvb0xtS1g1WGZ3TzRoQTZIbzlaVmlOcHUzeEprUDk2NEVPZUQ3QVdUcWpMRXVFR1NFRlZwSkxIQWo5VjdWbXBad1F0eEc1R2xPZkZJ?oc=5",
-      "published_date": "2026-08-01T09:22:00+00:00"
-    },
-    {
-      "title": "“It was the chance of our lives”: after an exile of only a few hours in Ceuta, tens of thousands of young people return to Morocco",
-      "source": "Le Monde France",
-      "country": "Morocco",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/01/c-etait-la-chance-de-notre-vie-apres-un-exil-de-seulement-quelques-heures-a-ceuta-des-dizaines-de-milliers-de-jeunes-regagnent-le-maroc_6737202_3212.html",
-      "published_date": "2026-08-01T07:28:42+00:00"
-    },
-    {
-      "title": "Green Party officially supports Lula's candidacy for re-election",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-verde-oficializa-apoio-candidatura-de-lula-reeleicao",
-      "published_date": "2026-08-01T00:16:00+00:00"
     }
   ]
 }
