@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-16T11:22:39.741747+00:00",
-    "story_count": 368,
+    "last_updated": "2026-08-16T23:17:51.033927+00:00",
+    "story_count": 366,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,7 +60,70 @@
   },
   "stories": [
     {
-      "title": "Iranian Army Chief Amir Hatami announces $30,000 reward for killed, captured US soldiers - report",
+      "title": "Trump administration official accuses Brazil of censorship after X changes algorithm for election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/autoridade-do-governo-trump-acusa-brasil-de-censura-apos-x-alterar-algoritmo-para-eleicao.shtml",
+      "published_date": "2026-08-16T21:50:00+00:00"
+    },
+    {
+      "title": "Likud Party threatens Central Elections Committee petition over Fly&Vote initiative",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-905700",
+      "published_date": "2026-08-16T21:01:34+00:00"
+    },
+    {
+      "title": "Arab-Israeli activist Yoseph Haddad enters politics with new party ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905705",
+      "published_date": "2026-08-16T20:56:02+00:00"
+    },
+    {
+      "title": "Likud election billboard puts Mamdani alongside Erdogan, Khamenei, and Qassem as Israel's enemies",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-905696",
+      "published_date": "2026-08-16T19:17:24+00:00"
+    },
+    {
+      "title": "2027: Why I’m supporting Tinubu for re-election — Adeleke",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-why-im-supporting-tinubu-for-re-election-adeleke/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-16T19:09:50+00:00"
+    },
+    {
+      "title": "Iran offers $30,000 reward for capturing or killing US soldiers",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/iran-ofrece-recompensa-de-30-mil-dolares-por-capturar-o-matar-a-soldados-estadounidenses/",
+      "published_date": "2026-08-16T17:22:18+00:00"
+    },
+    {
+      "title": "Iran offers US$30,000 bounty for killing or capturing US soldiers",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3364216/iran-offers-us30000-bounty-killing-or-capturing-us-soldiers?utm_source=rss_feed",
+      "published_date": "2026-08-16T17:12:43+00:00"
+    },
+    {
+      "title": "Parisi harshens criticism of Kast: he accuses that “he has no leadership” and rules out PDG support for constitutional reform",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/parisi-rechaza-reforma-constitucional-por-plan-cancerbero-no-se-necesita/",
+      "published_date": "2026-08-16T17:10:39+00:00"
+    },
+    {
+      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "published_date": "2026-08-16T15:40:26+00:00"
+    },
+    {
+      "title": "Iranian army chief places $30,000 bounty on killed, captured US soldiers",
       "source": "Jerusalem Post",
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/article-905660",
@@ -72,6 +135,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-905648",
       "published_date": "2026-08-16T12:54:03+00:00"
+    },
+    {
+      "title": "Escalating conflicts point to Netanyahu smelling elections",
+      "source": "Politiken Denmark",
+      "country": "Israel",
+      "url": "https://politiken.dk/internationalt/art10948549/Eskalerende-konflikter-peger-p%C3%A5-at-Netanyahu-lugter-valg",
+      "published_date": "2026-08-16T12:05:43+00:00"
     },
     {
       "title": "2027: Gov Adeleke reaffirms support for Tinubu’s re-election",
@@ -93,6 +163,20 @@
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-905628",
       "published_date": "2026-08-16T10:54:45+00:00"
+    },
+    {
+      "title": "Brazil election: Lula and the new face of Bolsonaro's right",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
+      "published_date": "2026-08-16T10:46:32+00:00"
+    },
+    {
+      "title": "Iranian parliament votes to further criminalize interviews with ‘hostile media’",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/08/16/world/iran-foreign-media-laws/",
+      "published_date": "2026-08-16T10:07:00+00:00"
     },
     {
       "title": "The fall of young support for Milei: the disenchantment that could complicate his re-election",
@@ -193,7 +277,7 @@
       "published_date": "2026-08-15T13:31:00+00:00"
     },
     {
-      "title": "Report warns about the risks of a hard-line military strategy before the arrival of the new president of Colombia",
+      "title": "Informe alerta sobre los riesgos de una estrategia militar de línea dura ante la llegada del nuevo presidente de Colombia",
       "source": "El Nacional Venezuela",
       "country": "Colombia",
       "url": "https://www.elnacional.com/2026/08/informe-alerta-sobre-los-riesgos-de-una-estrategia-militar-de-linea-dura-ante-la-llegada-del-nuevo-presidente-de-colombia/",
@@ -499,6 +583,13 @@
       "country": "Palestine",
       "url": "https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day",
       "published_date": "2026-08-13T19:27:29+00:00"
+    },
+    {
+      "title": "Crimea bomb attack reportedly kills former Ukrainian submarine commander who defected to Russia - CNN",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0FidlRLazhqRXZ2LWVobjZULVpUcDF1ZDdTeHJTRFRvbTFTRHdXX1JUMWktZXEyamdWMzdkeTZMU0w3ZHJrSmN2dkNPaENDQlNwTElaaUdRWUk2RzItN0NXZktTck9MTkRNTXdfVU11OS1UUFRCYmNIYjBTVS1RTHVQNEpEYUhFOXRHOHhLR2Z2OG96?oc=5",
+      "published_date": "2026-08-13T16:17:19+00:00"
     },
     {
       "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
@@ -2529,111 +2620,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bankipur-election-result-live-updates-eci-prashant-kishor-jan-suraaj-datia-bypoll-ashutosh-tiwari-bjp-congress-manjalpur-101785718353017.html",
       "published_date": "2026-08-03T01:37:09+00:00"
-    },
-    {
-      "title": "President Gustavo Petro landed at the Tolú airport for his inauguration, but the presidential plane took off a few minutes later and the event was cancelled.",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-aterrizo-en-aeropuerto-de-tolu-para-su-inauguracion-pero-avion-presidencial-despego-a-los-pocos-minutos-y-se-cancelo-evento-3575567",
-      "published_date": "2026-08-02T22:46:27+00:00"
-    },
-    {
-      "title": "Indefinite re-elections: the Buenos Aires ruling party denies that it seeks to expand the Legislature as part of a political reform to benefit the mayors",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/reelecciones-indefinidas-el-oficialismo-bonaerense-niega-que-busque-ampliar-la-legislatura-como-nid02082026/",
-      "published_date": "2026-08-02T22:43:30+00:00"
-    },
-    {
-      "title": "Brazil’s Lula launches reelection bid as concerns rise over foreign interference - AP News",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhVOWVPWk5lVnU3TGw4ZGtCTkNxVkN1VG92cVlJU0YydG1vbk9uVTFuUzZuMFQzQlYyVmEzRG83bnM3MTR1cDNsSzRZMmhldU14d0dMVTZaSDk2VFZKUERDLXJZcE5iWjVtQXBIS2VKSHM4ZHNEYThRbm1ONDhMang2MzhWUlhkVjBuTnp4aWVVNWp3Yzhyci1HbFFhRXZrb2h2MDVoVnZJNG1mTkdMZUM1ZVhGN0ZLSmc?oc=5",
-      "published_date": "2026-08-02T22:36:00+00:00"
-    },
-    {
-      "title": "Kicillof accused Milei of using “extortion as a state policy” to seek his re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/kicillof-acuso-a-milei-de-usar-la-extorsion-como-politica-de-estado-para-buscar-su-reeleccion-nid02082026/",
-      "published_date": "2026-08-02T20:17:59+00:00"
-    },
-    {
-      "title": "Lula launches his candidacy for re-election in a campaign marked by polarization and complaints of interference",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/lula-lanza-su-candidatura-a-la-reeleccion-en-una-campana-marcada-por-la-polarizacion-y-las-denuncias-nid02082026/",
-      "published_date": "2026-08-02T19:29:59+00:00"
-    },
-    {
-      "title": "Lula exposes legacy and succession dilemmas in speech",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-expoe-dilemas-do-legado-e-da-sucessao-em-discurso.shtml",
-      "published_date": "2026-08-02T17:44:00+00:00"
-    },
-    {
-      "title": "Mexican authorities captured leader of the Los Reyes cartel wanted by the US",
-      "source": "El Nacional Venezuela",
-      "country": "Mexico",
-      "url": "https://www.elnacional.com/2026/08/autoridades-mexicanas-capturaron-a-lider-del-cartel-los-reyes-buscado-por-ee-uu/",
-      "published_date": "2026-08-02T17:14:31+00:00"
-    },
-    {
-      "title": "Presidential election in Brazil: Lula candidate for a fourth and final term at the head of the country",
-      "source": "France 24 FR",
-      "country": "Brazil",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260802-br%C3%A9sil-lula-candidat-pour-un-quatri%C3%A8me-et-dernier-mandat-%C3%A0-la-t%C3%AAte-du-pays",
-      "published_date": "2026-08-02T17:12:01+00:00"
-    },
-    {
-      "title": "Martínez seeks re-election in the FA: he aims to “resist” the Kast government and “retake” the Executive in 2030",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/martinez-busca-la-reeleccion-en-el-fa-apunta-a-resistir-al-gobierno-de-kast-y-retomar-el-ejecutivo-en-2030/",
-      "published_date": "2026-08-02T16:48:25+00:00"
-    },
-    {
-      "title": "Elizabeth May optimistic Greens can win by-election by campaigning on Carney’s climate record",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-may-optimistic-greens-can-win-by-election-by-campaigning-on-carneys/",
-      "published_date": "2026-08-02T14:46:18+00:00"
-    },
-    {
-      "title": "Lula will seek re-election in Brazil against Flávio Bolsonaro amid intense and controversial relationship with Trump",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/08/lula-buscara-su-reeleccion-en-brasil-contra-flavio-bolsonaro-en-medio-de-intensa-y-polemica-relacion-con-trump/",
-      "published_date": "2026-08-02T14:39:47+00:00"
-    },
-    {
-      "title": "Lula runs for re-election, says he doesn't want to be president of Bolsa Família and promises to fight for amendments",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-oficializado-candidato-a-reeleicao-e-tentara-4-mandato-em-novo-embate-com-cla-bolsonaro.shtml",
-      "published_date": "2026-08-02T14:06:00+00:00"
-    },
-    {
-      "title": "Ex-DPK leader Jung wins southeastern party-member primary in leadership race",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260802/ex-dpk-leader-jung-wins-southeastern-party-member-primary-in-leadership-race?utm_source=rss",
-      "published_date": "2026-08-02T12:02:04+00:00"
-    },
-    {
-      "title": "Marco Rubio on the transition in Venezuela: \"At some point there must be elections\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/marco-rubio-sobre-la-transicion-en-venezuela-en-algun-momento-debe-haber-elecciones/",
-      "published_date": "2026-08-02T11:55:01+00:00"
-    },
-    {
-      "title": "Opposition thanks the US for its support to achieve a political transition in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/oposicion-agradece-a-ee-uu-por-acompanamiento-para-lograr-una-transicion-politica-en-venezuela/",
-      "published_date": "2026-08-02T11:26:16+00:00"
     }
   ]
 }
