@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-15T23:18:18.081857+00:00",
-    "story_count": 359,
+    "last_updated": "2026-08-16T11:22:39.741747+00:00",
+    "story_count": 368,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,102 @@
   },
   "stories": [
     {
-      "title": "Iran denounces the detention of three fighter pilots by Qatar which denies having captured them",
-      "source": "Le Monde France",
+      "title": "Iranian Army Chief Amir Hatami announces $30,000 reward for killed, captured US soldiers - report",
+      "source": "Jerusalem Post",
       "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
-      "published_date": "2026-08-15T22:48:14+00:00"
+      "url": "https://www.jpost.com/middle-east/article-905660",
+      "published_date": "2026-08-16T14:05:28+00:00"
+    },
+    {
+      "title": "How a Jewish ex-police probes chief could revive Mansour Abbas as Israeli Arab kingmaker - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905648",
+      "published_date": "2026-08-16T12:54:03+00:00"
+    },
+    {
+      "title": "2027: Gov Adeleke reaffirms support for Tinubu’s re-election",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/2027-gov-adeleke-reaffirms-support-for-tinubus-re-election/",
+      "published_date": "2026-08-16T11:09:20+00:00"
+    },
+    {
+      "title": "Marcel, one year after his resignation: “I don't regret (having been in Boric's government), because I feel like I managed to make a difference”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/marcel-a-un-ano-de-su-renuncia-no-me-arrepiento-de-haber-estado-en-el-gobierno-de-boric-porque-siento-que-logre-hacer-una-diferencia/",
+      "published_date": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel, demands to investigate",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-905628",
+      "published_date": "2026-08-16T10:54:45+00:00"
+    },
+    {
+      "title": "The fall of young support for Milei: the disenchantment that could complicate his re-election",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/mundo/noticia/la-caida-del-apoyo-joven-a-milei-el-desencanto-que-puede-complicar-su-reeleccion/",
+      "published_date": "2026-08-16T10:00:00+00:00"
+    },
+    {
+      "title": "Jackson's bet and Boric's absence in the FA's internal election",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/la-apuesta-de-jackson-y-la-ausencia-de-boric-en-la-eleccion-interna-del-fa/",
+      "published_date": "2026-08-16T10:00:00+00:00"
     },
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "source": "BBC World",
       "country": "Iran",
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T21:03:57+00:00"
+      "published_date": "2026-08-16T09:27:58+00:00"
+    },
+    {
+      "title": "How the opposition strengthened the defense of the vote and why the CIA document would not reveal anything new about the elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/como-la-oposicion-fortalecio-la-defensa-del-voto-y-por-que-el-documento-de-la-cia-no-revelaria-nada-nuevo-sobre-las-elecciones-en-venezuela/",
+      "published_date": "2026-08-16T07:00:00+00:00"
+    },
+    {
+      "title": "Protests for Fedorov: How Zelensky defused a political crisis",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/federow-proteste-wie-selenskyj-eine-krise-entschaerft-hat-accg-201129244.html",
+      "published_date": "2026-08-16T06:33:37+00:00"
+    },
+    {
+      "title": "A nation divided: What do Israelis want in October’s elections?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+      "published_date": "2026-08-16T06:06:31+00:00"
+    },
+    {
+      "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+      "source": "France 24 English",
+      "country": "Colombia",
+      "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
+      "published_date": "2026-08-16T05:39:51+00:00"
+    },
+    {
+      "title": "Kremlin hardens rejection of negotiations with Ukraine ahead of State Duma elections — ISW",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4154377-kremlin-hardens-rejection-of-negotiations-with-ukraine-ahead-of-state-duma-elections-isw.html",
+      "published_date": "2026-08-15T23:33:00+00:00"
+    },
+    {
+      "title": "Iran denounces the detention of three fighter pilots by Qatar which denies having captured them",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+      "published_date": "2026-08-15T22:48:14+00:00"
     },
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets - BBC",
@@ -2550,27 +2634,6 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/08/oposicion-agradece-a-ee-uu-por-acompanamiento-para-lograr-una-transicion-politica-en-venezuela/",
       "published_date": "2026-08-02T11:26:16+00:00"
-    },
-    {
-      "title": "The coup by the United States that calls into question Kast's international commitment",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/el-golpe-de-estados-unidos-que-pone-en-cuestion-la-apuesta-internacional-de-kast/",
-      "published_date": "2026-08-02T10:00:00+00:00"
-    },
-    {
-      "title": "PT says that agreement to leave Master case out of the election in Bahia collapsed",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/pt-diz-que-acordo-para-deixar-caso-master-de-fora-da-eleicao-na-bahia-ruiu.shtml",
-      "published_date": "2026-08-02T02:00:00+00:00"
-    },
-    {
-      "title": "Under US tutelage, Chavismo and the opposition began a dialogue for a political transition in Venezuela",
-      "source": "La Nacion Argentina",
-      "country": "Venezuela",
-      "url": "https://www.lanacion.com.ar/el-mundo/bajo-tutela-de-eeuu-el-chavismo-y-la-oposicion-iniciaron-un-dialogo-para-una-transicion-politica-en-nid01082026/",
-      "published_date": "2026-08-01T23:30:21+00:00"
     }
   ]
 }
