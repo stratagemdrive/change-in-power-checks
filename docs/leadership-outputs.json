@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-17T11:27:02.797160+00:00",
-    "story_count": 369,
+    "last_updated": "2026-08-17T23:21:10.235154+00:00",
+    "story_count": 362,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "2027: Oyebanji rallies Ekiti APC for Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-oyebanji-rallies-ekiti-apc-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-17T19:35:18+00:00"
+    },
+    {
+      "title": "UK mission praises Osun voters, urges lessons from election",
+      "source": "The Punch Nigeria",
+      "country": "United Kingdom",
+      "url": "https://punchng.com/uk-mission-praises-osun-voters-urges-lessons-from-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-17T19:12:55+00:00"
+    },
+    {
+      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "published_date": "2026-08-17T18:46:12+00:00"
+    },
+    {
+      "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
+      "published_date": "2026-08-17T17:51:07+00:00"
+    },
+    {
+      "title": "Flávio accuses Caiado of helping Lula, after Kassab said he has 'zero chance' in the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-acusa-caiado-de-ajudar-lula-depois-de-kassab-ter-dito-que-ele-tem-chance-zero-nas-eleicoes.shtml",
+      "published_date": "2026-08-17T17:41:00+00:00"
+    },
+    {
+      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+      "published_date": "2026-08-17T17:07:29+00:00"
+    },
+    {
+      "title": "Russia already drove TV Rain into exile. Now it’s coming for the two executives who kept the channel alive.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/17/russia-already-drove-tv-rain-into-exile-now-it-s-coming-for-the-two-executives-who-kept-the-channel-alive",
+      "published_date": "2026-08-17T16:29:45+00:00"
+    },
+    {
+      "title": "For PT, Lula seeks re-election with a focus on social issues",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pelo-pt-lula-busca-reeleicao-com-foco-em-pautas-sociais",
+      "published_date": "2026-08-17T16:12:00+00:00"
+    },
+    {
+      "title": "Russia’s Supreme Court upholds ruling barring anti-war Yabloko party from State Duma election",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/17/russia-s-supreme-court-upholds-ruling-barring-anti-war-yabloko-party-from-state-duma-election",
+      "published_date": "2026-08-17T15:49:41+00:00"
+    },
+    {
+      "title": "“It is shameful that a country at war does not know who will head the Ministry of Defense”: in kyiv, Volodymyr Zelensky tries to escape the political crisis",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/international/il-est-honteux-qu-un-pays-en-guerre-ignore-qui-dirigera-le-ministere-de-la-defense-a-kiev-volodymyr-zelensky-tente-de-sortir-de-la-crise-politique-20260817",
+      "published_date": "2026-08-17T15:00:00+00:00"
+    },
     {
       "title": "Kim Min-seok wins DPK leadership race over Jung Chung-rae",
       "source": "Korea Times",
@@ -323,6 +393,13 @@
       "source": "FAZ Germany",
       "country": "Ukraine",
       "url": "https://www.faz.net/aktuell/politik/ukraine/federow-proteste-wie-selenskyj-eine-krise-entschaerft-hat-accg-201129244.html",
+      "published_date": "2026-08-16T06:33:37+00:00"
+    },
+    {
+      "title": "Protests for Fedorov: How Zelensky defused a political crisis",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/wie-selenskyj-die-krise-um-den-entlassenen-verteidigungsminister-entschaerft-hat-accg-201129244.html",
       "published_date": "2026-08-16T06:33:37+00:00"
     },
     {
@@ -2515,132 +2592,6 @@
       "country": "Israel",
       "url": "https://www.elnacional.com/2026/08/hamas-condiciona-su-desarme-a-la-retirada-oficial-de-israel-y-exige-aclaraciones-a-la-junta-de-paz/",
       "published_date": "2026-08-03T23:53:38+00:00"
-    },
-    {
-      "title": "Republicans tell Flávio Bolsonaro that the party does not want an alliance and will remain neutral in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml",
-      "published_date": "2026-08-03T21:41:00+00:00"
-    },
-    {
-      "title": "“This is my own decision”: Stefanishyna on her resignation as Ukraine’s ambassador to U.S.",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4150784-this-is-my-own-decision-stefanishyna-on-her-resignation-as-ukraines-ambassador-to-us.html",
-      "published_date": "2026-08-03T19:59:00+00:00"
-    },
-    {
-      "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
-      "published_date": "2026-08-03T18:45:20+00:00"
-    },
-    {
-      "title": "Osun Election: Don’t allow a repeat of 1983 crisis – Adeleke warns Tinubu",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-dont-allow-a-repeat-of-1983-crisis-adeleke-warns-tinubu/",
-      "published_date": "2026-08-03T18:33:04+00:00"
-    },
-    {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-      "published_date": "2026-08-03T18:16:00+00:00"
-    },
-    {
-      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-      "published_date": "2026-08-03T15:49:50+00:00"
-    },
-    {
-      "title": "2 losses, 1 win: BJP election scorecard days after Gen Z delivered a setback to Modi govt",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/its-two-losses-one-win-for-bjp-in-bypolls-days-after-jantar-mantar-setback-cjp-protests-prashant-kishor-bankipur-101785766069216.html",
-      "published_date": "2026-08-03T15:31:36+00:00"
-    },
-    {
-      "title": "Academy of Political Sciences maintains that Delcy Rodríguez's interim government cannot withdraw Venezuela from the Rome Statute",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/academia-de-ciencias-politicas-sostiene-que-gobierno-interino-de-delcy-rodriguez-no-puede-retirar-a-venezuela-del-estatuto-de-roma/",
-      "published_date": "2026-08-03T15:22:34+00:00"
-    },
-    {
-      "title": "Lula sees difficulty in expanding the electorate, and PT fears 2nd round in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-ve-dificuldade-para-ampliar-eleitorado-e-pt-teme-2o-turno-na-eleicao.shtml",
-      "published_date": "2026-08-03T15:03:00+00:00"
-    },
-    {
-      "title": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
-      "source": "France 24 English",
-      "country": "Myanmar",
-      "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
-      "published_date": "2026-08-03T14:56:22+00:00"
-    },
-    {
-      "title": "Exiled Palestinian official walks back Jared Kushner ceasefire claim as Israeli strikes hit Gaza",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-904441",
-      "published_date": "2026-08-03T14:17:51+00:00"
-    },
-    {
-      "title": "Trump election claims debunked, US critical minerals fears: 7 US-China relations reads",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
-      "published_date": "2026-08-03T14:00:10+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella today, August 3: president-elect indicated that he will increase Colombia Mayor's subsidy to 400,000 pesos per month",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-3-de-agosto-presidente-electo-nombra-a-los-18-ministros-que-conformaran-su-gabinete-nueve-son-hombres-y-nueve-mujeres-3575719",
-      "published_date": "2026-08-03T13:30:00+00:00"
-    },
-    {
-      "title": "2027: Nigerians, not Obasanjo, ‘ll decide election — ADC",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/2027-nigerians-not-obasanjo-ll-decide-election-adc/",
-      "published_date": "2026-08-03T13:29:30+00:00"
-    },
-    {
-      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-      "source": "Al Jazeera English",
-      "country": "Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
-      "published_date": "2026-08-03T12:27:27+00:00"
-    },
-    {
-      "title": "Milei's main phrases about Chiqui Tapia, Cristina Kirchner, Axel Kicillof and his eventual re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/las-principales-frases-de-milei-sobre-chiqui-tapia-cristina-kirchner-axel-kicillof-y-su-eventual-nid02082026/",
-      "published_date": "2026-08-03T12:15:41+00:00"
-    },
-    {
-      "title": "Elections sénatoriales dans le Gard : à droite comme à gauche, l’union pour faire obstacle au RN",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-le-gard-a-droite-comme-a-gauche-l-union-pour-faire-obstacle-au-rn_6737365_823448.html",
-      "published_date": "2026-08-03T12:00:03+00:00"
-    },
-    {
-      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
-      "source": "Al Jazeera English",
-      "country": "Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
-      "published_date": "2026-08-03T11:51:30+00:00"
     }
   ]
 }
