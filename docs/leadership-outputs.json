@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-16T23:17:51.033927+00:00",
-    "story_count": 366,
+    "last_updated": "2026-08-17T11:27:02.797160+00:00",
+    "story_count": 369,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Kim Min-seok wins DPK leadership race over Jung Chung-rae",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260817/kim-min-seok-wins-dpk-leadership-race-over-jung-chung-rae?utm_source=rss",
+      "published_date": "2026-08-17T11:22:03+00:00"
+    },
+    {
+      "title": "Myanmar junta column kills nearly 30 civilians in offensive to retake Magway oil field",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-column-kills-nearly-30-civilians-in-offensive-to-retake-magway-oil-field/",
+      "published_date": "2026-08-17T11:10:25+00:00"
+    },
+    {
+      "title": "‘Middle class is being looted’: Shehzad Poonawalla’s last remarks before official resignation from BJP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/middle-class-is-being-looted-shehzad-poonawallas-last-remarks-before-official-resignation-from-bjp-101786960536846.html",
+      "published_date": "2026-08-17T10:30:59+00:00"
+    },
+    {
+      "title": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
+      "published_date": "2026-08-17T10:26:24+00:00"
+    },
+    {
+      "title": "BJP chief Nitin Nabin announces party reshuffle; Smriti Irani, Ram Madhav among list",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-reshuffle-nitin-nabin-announcement-smriti-irani-vasundhara-raje-vinod-tawde-full-list-latest-news-101786959828672.html",
+      "published_date": "2026-08-17T09:45:23+00:00"
+    },
+    {
+      "title": "Opposition BJP demands judicial probe, resignation of Forest Minister Ramalinga Reddy for killing of three suspected poachers in Hanur",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/opposition-bjp-demands-judicial-probe-resignation-of-forest-minister-ramalinga-reddy-for-killing-of-three-suspected-poachers-in-hanur/article71355457.ece",
+      "published_date": "2026-08-17T09:45:18+00:00"
+    },
+    {
+      "title": "How Tinubu, Adeleke, Davido emerged as defining personalities in Osun election — APC youth leader",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/903494-how-tinubu-adeleke-davido-emerged-as-defining-personalities-in-osun-election-apc-youth-leader.html",
+      "published_date": "2026-08-17T08:38:47+00:00"
+    },
+    {
+      "title": "Myanmar junta awards major trade software contract to sanctioned Russian tech group",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-awards-major-trade-software-contract-to-sanctioned-russian-tech-group/",
+      "published_date": "2026-08-17T08:25:22+00:00"
+    },
+    {
+      "title": "Junta chief makes trip to Russia",
+      "source": "Myanmar Now",
+      "country": "Russia",
+      "url": "https://myanmar-now.org/en/news/junta-chief-makes-trip-to-russia/",
+      "published_date": "2026-08-17T07:05:41+00:00"
+    },
+    {
+      "title": "‘Leaving vyavastha, not vyakti’: Shehzad Poonawalla resignation letter to BJP. Full text",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/leaving-vyavastha-not-vyakti-shehzad-poonawalla-s-full-letter-to-bjp-on-his-exit-modi-amit-shah-101786944516475.html",
+      "published_date": "2026-08-17T06:23:23+00:00"
+    },
+    {
+      "title": "The cost of student living has increased by 1.66% over one year, and by more than 35% since the election of Emmanuel Macron in 2017, warns Unef",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/campus/article/2026/08/17/le-cout-de-la-vie-etudiante-a-augmente-de-1-66-sur-un-an-et-de-plus-de-35-depuis-l-election-d-emmanuel-macron-en-2017-alerte-l-unef_6747977_4401467.html",
+      "published_date": "2026-08-17T06:19:09+00:00"
+    },
+    {
+      "title": "Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/shehzad-poonawalla-presses-bjp-to-accept-resignation-after-first-letter-rejected-101786941015700.html",
+      "published_date": "2026-08-17T04:30:47+00:00"
+    },
+    {
+      "title": "BJP leader PC George makes U-turn on allegations of misappropriation of election funds",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-leader-pc-george-makes-u-turn-on-allegations-of-misappropriation-of-election-funds-101786907819681.html",
+      "published_date": "2026-08-17T02:55:30+00:00"
+    },
+    {
+      "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
+      "published_date": "2026-08-17T02:55:01+00:00"
+    },
+    {
+      "title": "“We have to live up to it”: Boric's message after Yeomans' victory in the Frente Amplio elections",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/tenemos-que-estar-a-la-altura-el-mensaje-de-boric-tras-triunfo-de-yeomans-en-elecciones-del-frente-amplio/",
+      "published_date": "2026-08-16T23:48:35+00:00"
+    },
     {
       "title": "Trump administration official accuses Brazil of censorship after X changes algorithm for election",
       "source": "Folha de S Paulo",
@@ -142,6 +247,13 @@
       "country": "Israel",
       "url": "https://politiken.dk/internationalt/art10948549/Eskalerende-konflikter-peger-p%C3%A5-at-Netanyahu-lugter-valg",
       "published_date": "2026-08-16T12:05:43+00:00"
+    },
+    {
+      "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
+      "published_date": "2026-08-16T11:27:57+00:00"
     },
     {
       "title": "2027: Gov Adeleke reaffirms support for Tinubu’s re-election",
@@ -2529,97 +2641,6 @@
       "country": "Pakistan",
       "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
       "published_date": "2026-08-03T11:51:30+00:00"
-    },
-    {
-      "title": "President-elect, Abelardo De La Espriella, announces that his presidential inauguration will cost less than half of Gustavo Petro's in 2022",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-afirma-que-su-posesion-en-cali-sera-mas-austera-que-la-de-petro-en-2022-estos-fueron-sus-anuncios-antes-de-jurar-como-presidente-3575701",
-      "published_date": "2026-08-03T11:00:25+00:00"
-    },
-    {
-      "title": "Flavio Bolsonaro closes in on Lula in Nexus/BTG poll for Brazil election - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJrRmJXYTNvdjNmT3FFVkJLQWp4d09SSmtEVGdtN19xU0dqTnF1RlE5UUxsNkltMGlPR0d1U0c1cVZodW5BMEp1VTAyTkRlNGQ4VmkyR3htdEE0Y3YyMVQ0WVBrd2tUbEhtTldVTEl4REpqc2VFTWdiRjlwaWVJQl8zN0R2TE1zUzdtNHpWS3gyelJ2MHY2QllES3BFclhQX2pLZEdWN0FhNHFVV2c?oc=5",
-      "published_date": "2026-08-03T10:57:59+00:00"
-    },
-    {
-      "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
-      "source": "Meduza EN",
-      "country": "France",
-      "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
-      "published_date": "2026-08-03T10:43:05+00:00"
-    },
-    {
-      "title": "'It's going to be a very close election': Brazil's Lula launches fourth term bid",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid",
-      "published_date": "2026-08-03T09:48:53+00:00"
-    },
-    {
-      "title": "For his seventh election campaign, Brazil's president focuses on sovereignty",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty",
-      "published_date": "2026-08-03T09:43:15+00:00"
-    },
-    {
-      "title": "Brazil: the Brazilian president was inaugurated by his party and is aiming for a fourth term",
-      "source": "France 24 FR",
-      "country": "Brazil",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260803-br%C3%A9sil-le-pr%C3%A9sident-br%C3%A9silien-a-%C3%A9t%C3%A9-investi-par-son-parti-et-vise-un-quatri%C3%A8me-mandat",
-      "published_date": "2026-08-03T09:20:04+00:00"
-    },
-    {
-      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-      "source": "Al Jazeera English",
-      "country": "Myanmar",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
-      "published_date": "2026-08-03T09:05:04+00:00"
-    },
-    {
-      "title": "Convicted coup ex-president's wife is running for Brazilian elections",
-      "source": "Politiken Denmark",
-      "country": "Brazil",
-      "url": "https://politiken.dk/internationalt/art10934212/Kupd%C3%B8mt-ekspr%C3%A6sidents-hustru-stiller-op-til-brasiliansk-valg",
-      "published_date": "2026-08-03T07:38:07+00:00"
-    },
-    {
-      "title": "‘She is alive’: Myanmar’s Suu Kyi meets Red Cross official in first post-coup visit",
-      "source": "South China Morning Post",
-      "country": "Myanmar",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362767/she-alive-myanmars-suu-kyi-meets-red-cross-official-first-post-coup-visit?utm_source=rss_feed",
-      "published_date": "2026-08-03T06:59:04+00:00"
-    },
-    {
-      "title": "DeepState: Russia captured more territory than Ukraine liberated in July",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4150453-deepstate-russia-captured-more-territory-than-ukraine-liberated-in-july.html",
-      "published_date": "2026-08-03T06:23:00+00:00"
-    },
-    {
-      "title": "France is burning: the climate election campaign is canceled",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-im-klima-wahlkampf-was-macht-marine-le-pen-201081070.html",
-      "published_date": "2026-08-03T04:15:24+00:00"
-    },
-    {
-      "title": "In Brazil, Lula formalizes his candidacy for the presidential election",
-      "source": "Le Monde France",
-      "country": "Brazil",
-      "url": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html",
-      "published_date": "2026-08-03T04:00:14+00:00"
-    },
-    {
-      "title": "Bankipur, Datia election results LIVE: BJP concedes as Prashant Kishor delivers mega blow in Bankipur",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bankipur-election-result-live-updates-eci-prashant-kishor-jan-suraaj-datia-bypoll-ashutosh-tiwari-bjp-congress-manjalpur-101785718353017.html",
-      "published_date": "2026-08-03T01:37:09+00:00"
     }
   ]
 }
