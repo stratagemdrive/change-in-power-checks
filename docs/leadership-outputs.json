@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-17T23:21:10.235154+00:00",
-    "story_count": 362,
+    "last_updated": "2026-08-18T11:28:23.131925+00:00",
+    "story_count": 368,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Shehu Sani defends Governor Adeleke’s gratitude, endorsement of Tinubu for reelection",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/903760-shehu-sani-defends-governor-adelekes-gratitude-endorsement-of-tinubu-for-reelection.html",
+      "published_date": "2026-08-18T11:14:53+00:00"
+    },
+    {
+      "title": "Israel Election 2026: What does Bezalel Smotrich’s Religious Zionist Party stand for?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-905686",
+      "published_date": "2026-08-18T11:12:37+00:00"
+    },
+    {
+      "title": "Somali army repels troups loyal to ousted leader and Islamist insurgents",
+      "source": "France 24 English",
+      "country": "Somalia",
+      "url": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
+      "published_date": "2026-08-18T10:02:18+00:00"
+    },
+    {
+      "title": "In Russia, the Supreme Court blocks the country's only anti-war party from running in the next elections",
+      "source": "Le Monde France",
+      "country": "Russia",
+      "url": "https://www.lemonde.fr/international/video/2026/08/18/en-russie-la-cour-supreme-empeche-le-seul-parti-antiguerre-du-pays-a-se-presenter-aux-prochaines-elections_6748939_3210.html",
+      "published_date": "2026-08-18T09:41:39+00:00"
+    },
+    {
+      "title": "Syria sentences to death detained cousin of ousted president Assad",
+      "source": "France 24 English",
+      "country": "Syria",
+      "url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
+      "published_date": "2026-08-18T09:24:46+00:00"
+    },
+    {
+      "title": "Russia’s Central Election Commission removes anti-war Yabloko party from the ballot. The ballot now jumps from No. 1 (United Russia) to No. 3 (LDPR).",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/18/russia-s-central-election-commission-removes-anti-war-yabloko-party-from-the-ballot-the-ballot-now-jumps-from-no-1-united-russia-to-no-3-ldpr",
+      "published_date": "2026-08-18T09:17:17+00:00"
+    },
+    {
+      "title": "Syria sentences Wassim al-Assad, cousin of ousted president, to death",
+      "source": "France 24 FR",
+      "country": "Syria",
+      "url": "https://www.france24.com/fr/moyen-orient/20260818-la-syrie-condamne-%C3%A0-mort-wassim-al-assad-cousin-de-l-ex-pr%C3%A9sident",
+      "published_date": "2026-08-18T09:16:10+00:00"
+    },
+    {
+      "title": "BJP announces leaders in-charge for Assembly elections in U.P., Punjab, and Gujarat",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/bjp-announces-poll-in-charges-for-assembly-elections-in-up-punjab-and-gujarat/article71359143.ece",
+      "published_date": "2026-08-18T08:55:27+00:00"
+    },
+    {
+      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+      "published_date": "2026-08-18T08:05:42+00:00"
+    },
+    {
+      "title": "Top British scientist steps down from WHO",
+      "source": "The Telegraph UK",
+      "country": "United Kingdom",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/top-uk-scientist-steps-down-from-who/",
+      "published_date": "2026-08-18T07:23:15+00:00"
+    },
+    {
+      "title": "Trump leans on India’s election playbook in push to change how Americans vote",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364400/trump-leans-indias-election-playbook-push-change-how-americans-vote?utm_source=rss_feed",
+      "published_date": "2026-08-18T06:49:55+00:00"
+    },
+    {
+      "title": "There was an imminent risk of a coup, says former FAB commander in the Bolsonaro government",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/houve-risco-iminente-de-golpe-diz-ex-comandante-da-fab-no-governo-bolsonaro.shtml",
+      "published_date": "2026-08-18T02:58:00+00:00"
+    },
     {
       "title": "2027: Oyebanji rallies Ekiti APC for Tinubu’s re-election",
       "source": "The Punch Nigeria",
@@ -85,6 +169,13 @@
       "source": "Euronews",
       "country": "Russia",
       "url": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
+      "published_date": "2026-08-17T17:51:07+00:00"
+    },
+    {
+      "title": "Russia upholds Yabloko party's election ban and jails its deputy chair - Euronews.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSU5UYUJFWjNtUWJCZllrbVdZU3IzTjZRaXA1WXM2Nk1kRHUxdmdPcFBrQWZVMURDYzFFcnZEdDhGOEQ4N0t0eFlFY240b3pOenZaZnpwUUwxcHFvMUExVVZNMmdwbzFOXzYxVkRMNTNlSndQdHNjdTlxeWlXRU96ZWgwNWpJU3h6TUVwZ2R2LUFwOGlkbGVNYkpmaGctR3hzYzRDejFIT3A?oc=5",
       "published_date": "2026-08-17T17:51:07+00:00"
     },
     {
@@ -2543,55 +2634,6 @@
       "country": "United Kingdom",
       "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
       "published_date": "2026-08-04T12:21:05+00:00"
-    },
-    {
-      "title": "Chin resistance group dismisses chairman over unauthorised talks with Myanmar junta",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/chin-resistance-group-dismisses-chairman-over-unauthorised-talks-with-myanmar-junta/",
-      "published_date": "2026-08-04T09:02:26+00:00"
-    },
-    {
-      "title": "Bangladesh asks India to clarify stance on ousted PM Hasina's planned speech in New Delhi",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2020541/bangladesh-asks-india-to-clarify-stance-on-ousted-pm-hasinas-planned-speech-in-new-delhi",
-      "published_date": "2026-08-04T07:42:14+00:00"
-    },
-    {
-      "title": "Modi’s party loses key India by-election in wake of protests",
-      "source": "Japan Times",
-      "country": "India",
-      "url": "https://www.japantimes.co.jp/news/2026/08/04/asia-pacific/politics/modi-india-by-election-protests/",
-      "published_date": "2026-08-04T06:58:00+00:00"
-    },
-    {
-      "title": "Myanmar junta chief set for first Thailand visit as self-appointed president",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-chief-set-for-first-thailand-visit-as-self-appointed-president/",
-      "published_date": "2026-08-04T05:51:46+00:00"
-    },
-    {
-      "title": "Over 180 Russian disinformation posts uncovered ahead of German elections – DW",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4150658-over-180-russian-disinformation-posts-uncovered-ahead-of-german-elections-dw.html",
-      "published_date": "2026-08-04T01:33:00+00:00"
-    },
-    {
-      "title": "Airlines report 352 major flight defects till June, Akasa and Air India top list",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/airlines-report-352-major-flight-defects-till-june-akasa-and-air-india-top-list-101785804510467.html",
-      "published_date": "2026-08-04T00:59:20+00:00"
-    },
-    {
-      "title": "Hamás condiciona su desarme a la retirada oficial de Israel y exige aclaraciones a la Junta de Paz",
-      "source": "El Nacional Venezuela",
-      "country": "Israel",
-      "url": "https://www.elnacional.com/2026/08/hamas-condiciona-su-desarme-a-la-retirada-oficial-de-israel-y-exige-aclaraciones-a-la-junta-de-paz/",
-      "published_date": "2026-08-03T23:53:38+00:00"
     }
   ]
 }
