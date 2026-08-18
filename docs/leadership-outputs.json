@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-18T11:28:23.131925+00:00",
-    "story_count": 368,
+    "last_updated": "2026-08-18T23:19:14.839092+00:00",
+    "story_count": 371,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ousted Ukraine defense chief Fedorov calls for wartime elections in challenge to Zelensky",
+      "source": "Jerusalem Post",
+      "country": "Ukraine",
+      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-905934",
+      "published_date": "2026-08-19T00:45:58+00:00"
+    },
+    {
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "source": "The Guardian World",
+      "country": "Ukraine",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "published_date": "2026-08-18T22:21:59+00:00"
+    },
+    {
+      "title": "‘Democracy cannot be held hostage by Russia’: Ousted after clashing with Ukraine’s top general, Mykhailo Fedorov now argues elections can’t wait for peace",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/19/democracy-cannot-be-held-hostage-by-russia-ousted-after-clashing-with-ukraine-s-top-general-mykhailo-fedorov-now-argues-elections-can-t-wait-for-peace",
+      "published_date": "2026-08-18T22:13:10+00:00"
+    },
+    {
+      "title": "LIVE, war in Ukraine: Mykhaïlo Fedorov, the popular ex-defense minister dismissed by Volodymyr Zelensky, asks to open the way to elections",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-mykhailo-fedorov-le-populaire-ex-ministre-de-la-defense-ecarte-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_6746952_3210.html",
+      "published_date": "2026-08-18T22:12:24+00:00"
+    },
+    {
+      "title": "Ukraine's ousted defence minister calls for wartime elections - reuters.com",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
+      "published_date": "2026-08-18T21:41:20+00:00"
+    },
+    {
+      "title": "‘I defeated 17 governors with my phone’ — Davido speaks on Osun election, Tinubu, Akpabio, Okpebholo",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/903903-i-defeated-17-governors-with-my-phone-davido-speaks-on-osun-election-tinubu-akpabio-okpebholo.html",
+      "published_date": "2026-08-18T21:37:45+00:00"
+    },
+    {
+      "title": "Unions ask the United Kingdom not to release Venezuelan gold until there is a new government",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "United Kingdom",
+      "url": "https://efectococuyo.com/politica/sindicatos-piden-al-reino-unido-no-liberar-oro/",
+      "published_date": "2026-08-18T21:12:16+00:00"
+    },
+    {
+      "title": "Liveblog Ukraine War: Fedorov calls for early elections in Ukraine",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-fedorow-fordert-baldige-wahlen-in-der-ukraine-faz-110683325.html",
+      "published_date": "2026-08-18T20:38:31+00:00"
+    },
+    {
+      "title": "President Kast decrees a state of emergency in Tocopilla through a frontal system",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-decreta-estado-de-excepcion-en-tocopilla-por-sistema-frontal/",
+      "published_date": "2026-08-18T20:01:19+00:00"
+    },
+    {
+      "title": "Restriction of rights to those convicted of “organized crime”: Kast's constitutional reform affects former DINA and CNI agents",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/restriccion-de-derechos-a-condenados-por-crimen-organizado-reforma-constitucional-de-kast-salpica-a-exagentes-de-la-dina-y-la-cni/",
+      "published_date": "2026-08-18T17:30:56+00:00"
+    },
+    {
+      "title": "Parliamentary rebellion: Kast's security reform does not convince the ruling party",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/rebelion-parlamentaria-reforma-de-seguridad-de-kast-no-convence-al-oficialismo/",
+      "published_date": "2026-08-18T17:30:00+00:00"
+    },
+    {
+      "title": "Occupied West Bank: Palestinian Christians increasingly consider exile",
+      "source": "France 24 FR",
+      "country": "Palestine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260818-cisjordanie-occup%C3%A9e-les-chr%C3%A9tiens-palestiniens-envisagent-de-plus-en-plus-l-exil",
+      "published_date": "2026-08-18T15:16:41+00:00"
+    },
+    {
+      "title": "Edouard Philippe and the strategy of rallies, first stage of his campaign to counter the RN in the 2027 presidential election",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/18/edouard-philippe-et-la-strategie-des-ralliements-premiere-etape-de-sa-campagne-pour-contrer-le-rn-a-la-presidentielle-2027_6749066_823448.html",
+      "published_date": "2026-08-18T14:34:40+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike kills four near Pinlebu after BNRA commanders escape custody",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-four-near-pinlebu-after-bnra-commanders-escape-custody/",
+      "published_date": "2026-08-18T12:07:25+00:00"
+    },
     {
       "title": "Shehu Sani defends Governor Adeleke’s gratitude, endorsement of Tinubu for reelection",
       "source": "Premium Times Nigeria",
@@ -2557,83 +2655,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/economia/miguel-angel-broda-la-reeleccion-del-presidente-milei-depende-de-que-el-resto-de-la-economia-crezca-nid04082026/",
       "published_date": "2026-08-04T23:15:26+00:00"
-    },
-    {
-      "title": "Deadly protests overshadow Pakistan’s elections in Kashmir",
-      "source": "Japan Times",
-      "country": "Pakistan",
-      "url": "https://www.japantimes.co.jp/news/2026/08/05/asia-pacific/politics/protests-pakistan-elections-kashmir/",
-      "published_date": "2026-08-04T22:44:00+00:00"
-    },
-    {
-      "title": "US senators call for a peaceful transition in Venezuela through elections",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/senadores-de-eeuu-piden-una-transicion-pacifica-en-venezuela-a-traves-de-elecciones/",
-      "published_date": "2026-08-04T22:40:33+00:00"
-    },
-    {
-      "title": "Israel election pressure fuels settlement push as West Bank violence surges",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-      "published_date": "2026-08-04T18:08:08+00:00"
-    },
-    {
-      "title": "La Moneda corrige reforma antidrogas e incluye al Presidente de la República, a jueces, contralor, policías y FF.AA.",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/incluye-al-presidente-gobierno-ingresa-a-la-camara-reforma-para-cesacion-del-cargo-de-autoridades-por-consumo-de-drogas/",
-      "published_date": "2026-08-04T17:20:12+00:00"
-    },
-    {
-      "title": "Jim Jarrassé's editorial: \"Presidential election 2027, the twelve works of Marine Le Pen\"",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/vox/politique/l-editorial-de-jim-jarrasse-presidentielle-2027-les-douze-travaux-de-marine-le-pen-20260804",
-      "published_date": "2026-08-04T16:58:08+00:00"
-    },
-    {
-      "title": "Podemos refuses to support Flávio Bolsonaro and also decides to remain neutral in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/podemos-recusa-apoio-a-flavio-bolsonaro-e-tambem-decide-ficar-neutro-na-eleicao.shtml",
-      "published_date": "2026-08-04T16:20:00+00:00"
-    },
-    {
-      "title": "Putin Signs Law Targeting Exiled Russians Convicted in Absentia",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/08/04/putin-signs-law-targeting-exiled-russians-convicted-in-absentia-a93414",
-      "published_date": "2026-08-04T15:14:00+00:00"
-    },
-    {
-      "title": "Putin Signs Law Targeting Exiled Russians Convicted in Absentia - themoscowtimes.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVBvaUVseHpFMnltQkYyVFZrWTZyWTJkWlVzMXI4dnF0dkFYUUlIVUp0TUNicEhkOXV2dUVIeF8tcVFQU0trQ195N09yMjR5bEVIMlBmejZaYlBxQ3RPV2RiOHhzX3B5MXJLX1BsMTUyRV9FSGdQRGpIcHZhUEQ3clJlSFkxcXEzYmt0Nms2UzNmR0YzLWxnTnRTT1o4SUJiZ1prVzlNUjdGOWZwVW1icHdB?oc=5",
-      "published_date": "2026-08-04T15:14:00+00:00"
-    },
-    {
-      "title": "Ukraine becomes fault line in Italy’s next election - politico.eu",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0xqTTVYTFlIcEMzeWwzNWhqTWlsQ01ZTEozNnE0SXdMa0dxOGRBTWd5RXdWS2RNYWNjWUMtRTBVaUJ4OElLQ255WGpqRl9iN1R3emVhOE9DRFhYalBhNWVCdFh0U2dYXzNlOUlaYzE3d3ZxZkRTUVJKaTFtOE5CX0hNMDFXQQ?oc=5",
-      "published_date": "2026-08-04T14:50:00+00:00"
-    },
-    {
-      "title": "Iranian leadership would accept if Pezeshkian resigned again, relative of Khamenei claims - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-904539",
-      "published_date": "2026-08-04T13:23:08+00:00"
-    },
-    {
-      "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
-      "published_date": "2026-08-04T12:21:05+00:00"
     }
   ]
 }
