@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-18T23:19:14.839092+00:00",
-    "story_count": 371,
+    "last_updated": "2026-08-19T11:27:33.090841+00:00",
+    "story_count": 384,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,160 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Osun Election: Tinubu allowed free contest, unlike 2018 Ekiti that was taken from me — Fayose",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-allowed-free-contest-unlike-2018-ekiti-that-was-taken-from-me-fayose/",
+      "published_date": "2026-08-19T11:02:06+00:00"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-19T11:00:21+00:00"
+    },
+    {
+      "title": "Zelenskyy’s office is probed for corruption as fired defense minister demands elections - apnews.com",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGRobWwyN3hlb1dHLWtxOVhZdjRNTGo2ZWVwbmtiTHpoNUJQT3Bta0F5cExIWlZWOEJ5MVJPSmRRQ3kzbWZkLVFEbTh5c2tRWWVLRlFTOTVFQzZqRFVHOWhOdDYxOXhYS1E2OTY3TnVJVHZKRDNveExNY05ya29ZZndtQW1sVWExQVRiSUJNNUx3MXBRZDRXc0c5SXA?oc=5",
+      "published_date": "2026-08-19T10:29:00+00:00"
+    },
+    {
+      "title": "Zelenskyy's office is probed for corruption as fired defense minister demands elections",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-kyiv-vladimir-putin-kherson-b3035520.html",
+      "published_date": "2026-08-19T09:39:00+00:00"
+    },
+    {
+      "title": "Adviser to Russian Transportation Minister Resigns After Azerbaijan Issues Warrant for His Arrest",
+      "source": "Moscow Times",
+      "country": "Azerbaijan",
+      "url": "https://www.themoscowtimes.com/2026/08/19/adviser-to-russian-transportation-minister-resigns-after-azerbaijan-issues-warrant-for-his-arrest-a93529",
+      "published_date": "2026-08-19T09:38:08+00:00"
+    },
+    {
+      "title": "Sacked Ukraine defence minister urges path to elections",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
+      "published_date": "2026-08-19T09:29:22+00:00"
+    },
+    {
+      "title": "Ousted Ukraine defence minister challenges Zelensky's leadership",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
+      "published_date": "2026-08-19T09:23:28+00:00"
+    },
+    {
+      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "published_date": "2026-08-19T09:00:12+00:00"
+    },
+    {
+      "title": "Ukraine’s sacked defence minister calls for wartime elections",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
+      "published_date": "2026-08-19T08:46:56+00:00"
+    },
+    {
+      "title": "Ukraine’s ousted defense minister calls for wartime elections in bombshell address",
+      "source": "Egypt Independent",
+      "country": "Ukraine",
+      "url": "https://www.egyptindependent.com/ukraines-ousted-defense-minister-calls-for-wartime-elections-in-bombshell-address/",
+      "published_date": "2026-08-19T08:04:53+00:00"
+    },
+    {
+      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html",
+      "published_date": "2026-08-19T07:47:15+00:00"
+    },
+    {
+      "title": "As campaigns begin in Nigeria, Tinubu’s reelection bid puts his party on trial",
+      "source": "Japan Times",
+      "country": "Nigeria",
+      "url": "https://www.japantimes.co.jp/news/2026/08/19/world/politics/election-campaign-nigeria-tinubu/",
+      "published_date": "2026-08-19T07:33:00+00:00"
+    },
+    {
+      "title": "In Ukraine, ex-minister Fedorov calls for elections despite war with Russia",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/europe/20260819-ukraine-ex-ministre-d%C3%A9fense-appelle-%C3%A0-%C3%A9lections-malgr%C3%A9-guerre-russie-mykha%C3%AFlo-fedorov",
+      "published_date": "2026-08-19T06:22:51+00:00"
+    },
+    {
+      "title": "Ukraine's sacked defence minister Fedorov calls for wartime presidential elections",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
+      "published_date": "2026-08-19T06:06:39+00:00"
+    },
+    {
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "published_date": "2026-08-19T05:59:44+00:00"
+    },
+    {
+      "title": "Nigeria election campaign begins as voters grapple with inflation crisis",
+      "source": "RFI English",
+      "country": "Nigeria",
+      "url": "https://www.rfi.fr/en/africa/20260819-nigeria-election-campaign-begins-as-voters-grapple-with-inflation-crisis",
+      "published_date": "2026-08-19T05:38:21+00:00"
+    },
+    {
+      "title": "Elections in Ukraine: Fedorov breaks the last political taboo",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/mychajlo-fedorow-fordert-wahlen-im-krieg-in-der-ukraine-accg-201138659.html",
+      "published_date": "2026-08-19T05:14:45+00:00"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential elections - Euronews.com",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVk91X2pUX21GbXJZbkpDOGY2akhGOUhaR0ZrNVpPdW9NVjd5UjZocDlnY0lfSTlBVmZhU1VpU2FGR09COFhpV3FmbFotRDlKTEJtRl9pMVg2MUxBUUQzbjlkcXNMS09XWkFGeDhjcmg1ZW9jbWlGOUtOUkQyREVGVUItcnJMcDlhRmt2THFSa3JldDVyZ0pyV0pZdWF4SU5Ba0dudS1ZOUdodDZGQUJjZTItNlE4dDJNMnBSZDl5bDhHVFByZklmTQ?oc=5",
+      "published_date": "2026-08-19T05:12:34+00:00"
+    },
+    {
+      "title": "Sacked Ukrainian Defence Minister Mykhailo Fedorov calls for presidential elections",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/08/19/sacked-ukrainian-defence-minister-mykhailo-fedorov-calls-for-presidential-elections",
+      "published_date": "2026-08-19T05:12:34+00:00"
+    },
+    {
+      "title": "No 10 North to oversee economic growth | Zelenskyy faces calls for election",
+      "source": "Sky News World",
+      "country": "Ukraine",
+      "url": "https://news.sky.com/story/no-10-north-to-oversee-economic-growth-zelenskyy-faces-calls-for-election-13574551",
+      "published_date": "2026-08-19T04:55:00+00:00"
+    },
+    {
+      "title": "BJP, JD(S) stall House proceedings for second day demanding Nagendra’s resignation",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-jd-s-stall-house-proceedings-for-second-day-demanding-nagendra-s-resignation-101787078588360.html",
+      "published_date": "2026-08-19T02:45:30+00:00"
+    },
+    {
+      "title": "2026 Elections: Check out the agenda of Lula, Flávio Bolsonaro and other presidential candidates",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicoes-2026-confira-a-agenda-de-lula-flavio-bolsonaro-e-outros-presidenciaveis.shtml",
+      "published_date": "2026-08-19T02:07:00+00:00"
+    },
     {
       "title": "Ousted Ukraine defense chief Fedorov calls for wartime elections in challenge to Zelensky",
       "source": "Jerusalem Post",
@@ -76,7 +230,7 @@
     {
       "title": "‘Democracy cannot be held hostage by Russia’: Ousted after clashing with Ukraine’s top general, Mykhailo Fedorov now argues elections can’t wait for peace",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://meduza.io/en/news/2026/08/19/democracy-cannot-be-held-hostage-by-russia-ousted-after-clashing-with-ukraine-s-top-general-mykhailo-fedorov-now-argues-elections-can-t-wait-for-peace",
       "published_date": "2026-08-18T22:13:10+00:00"
     },
@@ -2592,69 +2746,6 @@
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcF9yMmoyaHI2QkRMeHVscXFjMGNucFRDSi12Tkhwa0tZOTRvdXRLcXd3aHV5RGlZV1R0RmQwV2N6YUxheDdUQUdMcEdzMTJPTWRFS3BvWlVBcDFIY21Va2FsdWVMT1hNcC1HeWZLYzh2QmRXblRZT0VyTWJORUl3YjY3aUtXbFEzbzM2QTdBdElIOG9SSzFhbUlYRks2R2xtMFA1WmFDSm5pVUZVYVNoYk9VejZmbzNHZERKeWhzZTJ5X1Vja2paalJJV3V0V1R3OXZsQUMydkttM0k3VGdpX2JWY3dxemdoU0FUTnFYU1RIQXFFYWo2bG5xYkk4OTRsMEM2WTI1dmZRdkFTTnMyODV6M2JkSW9PYWdMaVBuak5ZM0RHUS1r?oc=5",
       "published_date": "2026-08-05T11:42:00+00:00"
-    },
-    {
-      "title": "Election campaign in Brazil: Trump and his father are no help to Flávio Bolsonaro",
-      "source": "FAZ Germany",
-      "country": "Brazil",
-      "url": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-trump-und-sein-vater-sind-ihm-keine-hilfe-accg-201095953.html",
-      "published_date": "2026-08-05T11:06:16+00:00"
-    },
-    {
-      "title": "US Senate demands the beginning of the political transition and free elections in Venezuela",
-      "source": "CiberCuba",
-      "country": "Venezuela",
-      "url": "https://www.cibercuba.com/noticias/2026-08-05-u1-e207888-s27061-nid337068-senado-eeuu-exige-comienzo-transicion-politica",
-      "published_date": "2026-08-05T10:49:11+00:00"
-    },
-    {
-      "title": "Wa delegation holds talks with Myanmar junta as analysts see possible political concessions",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/wa-delegation-holds-talks-with-myanmar-junta-as-analysts-see-possible-political-concessions/",
-      "published_date": "2026-08-05T10:41:02+00:00"
-    },
-    {
-      "title": "AJK elections: PML-N, PPP secure one seat each following delayed polls in Muzaffarabad constituencies",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies",
-      "published_date": "2026-08-05T10:12:37+00:00"
-    },
-    {
-      "title": "Fighting intensifies as Myanmar junta pushes into former DKBA territory near Myawaddy",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/fighting-intensifies-as-myanmar-junta-pushes-into-former-dkba-territory-near-myawaddy/",
-      "published_date": "2026-08-05T08:04:07+00:00"
-    },
-    {
-      "title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/news/2026/08/05/world/politics/lula-trump-milei-election-meddling/",
-      "published_date": "2026-08-05T06:07:00+00:00"
-    },
-    {
-      "title": "Kremlin critic leaves Moscow for Paris after ban from running for election",
-      "source": "RFI English",
-      "country": "Russia",
-      "url": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
-      "published_date": "2026-08-05T06:06:02+00:00"
-    },
-    {
-      "title": "US senators present bipartisan resolution to demand free elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/senadores-de-ee-uu-presentan-resolucion-bipartidista-para-exigir-elecciones-libres-en-venezuela/",
-      "published_date": "2026-08-05T00:09:57+00:00"
-    },
-    {
-      "title": "Miguel Ángel Broda: “The re-election of President Milei depends on the rest of the economy growing 2%”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/miguel-angel-broda-la-reeleccion-del-presidente-milei-depende-de-que-el-resto-de-la-economia-crezca-nid04082026/",
-      "published_date": "2026-08-04T23:15:26+00:00"
     }
   ]
 }
