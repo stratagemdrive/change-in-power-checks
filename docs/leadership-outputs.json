@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-19T11:27:33.090841+00:00",
-    "story_count": 384,
+    "last_updated": "2026-08-19T23:20:20.463691+00:00",
+    "story_count": 392,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,25 +60,165 @@
   },
   "stories": [
     {
-      "title": "Osun Election: Tinubu allowed free contest, unlike 2018 Ekiti that was taken from me — Fayose",
+      "title": "Prince Harry, Meghan, to move back to Britain after stepping down from royal duties - report",
+      "source": "Jerusalem Post",
+      "country": "United Kingdom",
+      "url": "https://www.jpost.com/international/article-906047",
+      "published_date": "2026-08-20T01:29:29+00:00"
+    },
+    {
+      "title": "A Ukrainian army medic was captured by Russian troops, raped in custody, and put on trial for terrorism. Her sons ended up on opposite sides of the war. Here’s what happened to her family.",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/08/20/a-ukrainian-army-medic-was-captured-by-russian-troops-raped-in-custody-and-put-on-trial-for-terrorism-her-sons-ended-up-on-opposite-sides-of-the-war-here-s-what-happened-to-her-family",
+      "published_date": "2026-08-19T23:11:24+00:00"
+    },
+    {
+      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "published_date": "2026-08-19T22:07:03+00:00"
+    },
+    {
+      "title": "2027: ‘Nigerians are hungry, angry’ – Utomi urges massive voter turnout",
       "source": "Vanguard Nigeria",
       "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-allowed-free-contest-unlike-2018-ekiti-that-was-taken-from-me-fayose/",
-      "published_date": "2026-08-19T11:02:06+00:00"
+      "url": "https://www.vanguardngr.com/2026/08/2027-nigerians-are-hungry-angry-utomi-urges-massive-voter-turnout/",
+      "published_date": "2026-08-19T20:59:42+00:00"
+    },
+    {
+      "title": "Lula vs. Bolsonaro Jr.: who wins the elections in Brazil 2026, according to the latest polls",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-vs-bolsonaro-jr-quien-gana-las-elecciones-en-brasil-2026-segun-las-ultimas-encuestas-nid19082026/",
+      "published_date": "2026-08-19T20:59:00+00:00"
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "source": "BBC World",
       "country": "Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T11:00:21+00:00"
+      "published_date": "2026-08-19T20:34:39+00:00"
     },
     {
-      "title": "Zelenskyy’s office is probed for corruption as fired defense minister demands elections - apnews.com",
+      "title": "Tinubu’ll lose credible 2027 election before 4pm – Baba-Ahmed",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/tinubull-lose-credible-2027-elections-before-4pm-baba-ahmed/",
+      "published_date": "2026-08-19T20:00:36+00:00"
+    },
+    {
+      "title": "Robinson demolishes Pakistan to cement importance to new regime",
+      "source": "The Telegraph UK",
+      "country": "Pakistan",
+      "url": "https://www.telegraph.co.uk/cricket/2026/08/19/england-vs-pakistan-live-score-latest-first-test-day-1/",
+      "published_date": "2026-08-19T19:36:32+00:00"
+    },
+    {
+      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+      "published_date": "2026-08-19T19:09:53+00:00"
+    },
+    {
+      "title": "Zelensky’s office calls former Defense Minister Mykhailo Fedorov’s demand for wartime elections unrealistic",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/08/19/zelensky-s-office-calls-former-defense-minister-mykhailo-fedorov-s-demand-for-wartime-elections-unrealistic",
+      "published_date": "2026-08-19T18:49:52+00:00"
+    },
+    {
+      "title": "After weeks of rallying behind Fedorov, protesters reject his call for wartime elections in Ukraine",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/08/19/after-weeks-of-rallying-behind-fedorov-protesters-reject-his-call-for-wartime-elections-in",
+      "published_date": "2026-08-19T18:23:53+00:00"
+    },
+    {
+      "title": "Zelenskyy fires a top aide amid a graft probe as Ukraine's ex-defense minister demands elections - AP News",
       "source": "Google News World",
       "country": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGRobWwyN3hlb1dHLWtxOVhZdjRNTGo2ZWVwbmtiTHpoNUJQT3Bta0F5cExIWlZWOEJ5MVJPSmRRQ3kzbWZkLVFEbTh5c2tRWWVLRlFTOTVFQzZqRFVHOWhOdDYxOXhYS1E2OTY3TnVJVHZKRDNveExNY05ya29ZZndtQW1sVWExQVRiSUJNNUx3MXBRZDRXc0c5SXA?oc=5",
-      "published_date": "2026-08-19T10:29:00+00:00"
+      "published_date": "2026-08-19T17:52:00+00:00"
+    },
+    {
+      "title": "2027 presidential election: already seeing himself in the 2nd round, Jean-Luc Mélenchon maintains the pressure on his former left-wing partners",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-se-voyant-deja-au-2e-tour-jean-luc-melenchon-maintient-la-pression-sur-ses-anciens-partenaires-de-gauche-20260819",
+      "published_date": "2026-08-19T17:30:00+00:00"
+    },
+    {
+      "title": "As the Israeli Election Nears, Trump Has Leverage Over Netanyahu",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/",
+      "published_date": "2026-08-19T17:28:15+00:00"
+    },
+    {
+      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html",
+      "published_date": "2026-08-19T15:48:07+00:00"
+    },
+    {
+      "title": "Libyan government in Tunisia for crisis talks",
+      "source": "France 24 English",
+      "country": "Libya",
+      "url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
+      "published_date": "2026-08-19T15:40:46+00:00"
+    },
+    {
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-19T15:38:38+00:00"
+    },
+    {
+      "title": "Zelensky's office probed for corruption as fired defence minister demands elections",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
+      "published_date": "2026-08-19T14:37:26+00:00"
+    },
+    {
+      "title": "Ukraine MPs approve new defence minister after divisive reshuffle",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
+      "published_date": "2026-08-19T14:34:28+00:00"
+    },
+    {
+      "title": "Ukraine war was Putin's 'fatal mistake' says Russian politician exiled in Paris",
+      "source": "RFI English",
+      "country": "Ukraine",
+      "url": "https://www.rfi.fr/en/international/20260819-ukraine-war-was-putins-fatal-mistake-says-russian-politician-exiled-in-paris-boris-nadezhdin-ukraine-war",
+      "published_date": "2026-08-19T14:07:30+00:00"
+    },
+    {
+      "title": "Ukraine: Elections would be an invitation to the Kremlin",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/mychajlo-fedorow-wahlen-in-der-ukraine-als-kreml-einladung-201140420.html",
+      "published_date": "2026-08-19T12:53:29+00:00"
+    },
+    {
+      "title": "Ukraine’s ousted minister Mykhailo Fedorov calls for wartime elections",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20260819-ukraine-s-ousted-minister-mykhailo-fedorov-calls-for-wartime-elections",
+      "published_date": "2026-08-19T12:23:43+00:00"
+    },
+    {
+      "title": "Osun Election: Tinubu allowed free contest, unlike 2018 Ekiti that was taken from me — Fayose",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-allowed-free-contest-unlike-2018-ekiti-that-was-taken-from-me-fayose/",
+      "published_date": "2026-08-19T11:02:06+00:00"
     },
     {
       "title": "Zelenskyy's office is probed for corruption as fired defense minister demands elections",
@@ -130,13 +270,6 @@
       "published_date": "2026-08-19T08:04:53+00:00"
     },
     {
-      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html",
-      "published_date": "2026-08-19T07:47:15+00:00"
-    },
-    {
       "title": "As campaigns begin in Nigeria, Tinubu’s reelection bid puts his party on trial",
       "source": "Japan Times",
       "country": "Nigeria",
@@ -170,6 +303,13 @@
       "country": "Nigeria",
       "url": "https://www.rfi.fr/en/africa/20260819-nigeria-election-campaign-begins-as-voters-grapple-with-inflation-crisis",
       "published_date": "2026-08-19T05:38:21+00:00"
+    },
+    {
+      "title": "The Real Danger of Russia’s Fake Elections - by Cathy Young - The Bulwark",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajNTMnNhZ21UeVJfY2NrM3JxWmJ2andHREdPRE92QTJ1dkt1MndKSlNCR2ZLZF8zVmJPVFRXYVVNWm9GZDB3aGNHbE5LbEJaMDEyNFA2aDFMRk1iazNaMWdRZDZjRzRkTkozQW8zdTRHcmJFUEZXc3Y3MVViM004cEFSZ2hPbXFNVkx4OUx2bnNtbm9mVXhLdU5aSEw4dDlBR0pWVQ?oc=5",
+      "published_date": "2026-08-19T05:21:39+00:00"
     },
     {
       "title": "Elections in Ukraine: Fedorov breaks the last political taboo",
@@ -2662,90 +2802,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/kast-reafirma-seguridad-como-prioridad-de-la-agenda-de-gobierno-y-confirma-reforma-constitucional-en-la-materia/",
       "published_date": "2026-08-06T01:19:51+00:00"
-    },
-    {
-      "title": "Iran's president says interaction with supreme leader is currently 'very difficult'",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-904704",
-      "published_date": "2026-08-05T22:01:56+00:00"
-    },
-    {
-      "title": "‘Interaction’ with Iran’s supreme leader very difficult, president admits",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-khamenei-alive-president-b3028258.html",
-      "published_date": "2026-08-05T21:42:11+00:00"
-    },
-    {
-      "title": "Communication with Iran's Supreme Leader 'very difficult at the moment,' says Iranian president",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/05/la-communication-avec-le-guide-supreme-iranien-est-tres-difficile-en-ce-moment-affirme-le-president-iranien_6739465_3210.html",
-      "published_date": "2026-08-05T20:11:08+00:00"
-    },
-    {
-      "title": "Ex-French PM Attal targeted by Russian 'interference' ahead of 2027 vote",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260805-ex-french-pm-attal-targeted-by-russian-interference-ahead-of-2027-vote",
-      "published_date": "2026-08-05T18:55:38+00:00"
-    },
-    {
-      "title": "Brazilian presidential candidate Bolsonaro names surprise running mate - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEhCVXZlazNQMnQyWkc2TVNpSzNlaVhVZDZhY2w2Y1ZWM2JpMFdHLVhybWpGTGVxMlQyMm1hTTN1YXlxWEYzTHhNaWZJdFJGbVk1eXRNVmRYWXhBd1YwMVJzbW1hR2hoLWVZWG5oVHhwcUlfVEpIRW1DeXYwREgyV3NQcUdOUDhlVW5UZDNRaTFvV00zdEJpY2dfOU95VnBiZEFNeEZMTDNDVGtNX3hKQ2t1UTlkcEw1NVVrU0htWXFaSVgtQ3c?oc=5",
-      "published_date": "2026-08-05T18:48:38+00:00"
-    },
-    {
-      "title": "Iran president met supreme leader in darkness — and isn’t convinced it was him: report - New York Post",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOThUQlNPc3pIaktBbGRrTzUzbUYwTjFvWHNfbGxWSFFUVU9jWHN1QlBnQ2hkQ1ZyQmxIOWhLQ1Z5Qms0TnpJMUZ6Y1VIbURKVjNwMGd3UVk2QUJhRlBwRVpuQ1ZmeTU4LUF6WEhHQjFMY3Q4WlFDSERic3ZDZnhxTnljdkJhUmZsZEJIZEg1aDNZaEQ0UU9fUFU4dTNYbGJIUk1GQm1ySmZmSXdtOXpwaDgyenZqUmNL?oc=5",
-      "published_date": "2026-08-05T18:10:00+00:00"
-    },
-    {
-      "title": "New prime minister considers digging up Epstein's British connections",
-      "source": "Politiken Denmark",
-      "country": "United Kingdom",
-      "url": "https://politiken.dk/internationalt/art10936417/Ny-premierminister-overvejer-kulegravning-af-Epsteins-britiske-forbindelser",
-      "published_date": "2026-08-05T18:04:26+00:00"
-    },
-    {
-      "title": "UK Conservatives defend picking former neo-Nazi as election candidate",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3363086/uk-conservatives-defend-picking-former-neo-nazi-election-candidate?utm_source=rss_feed",
-      "published_date": "2026-08-05T14:30:59+00:00"
-    },
-    {
-      "title": "Why these elections are the last chance to save Israel from its ‘spiral of collapse’ - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2ZIaGczVDdUVUs0STJYcUQ2MlNxV3BkM3lRNXVhVFQ3T2xWV2YxYWozQlBBYjRBcm9zbFhLQU4yY0JIZHR4STdGSlBWU0o0MUM4X1JzaW9pQjVqc3F6d3N3ZHRmSzAxa3l0VE05NTdfUUxKbjBLS3ZWaEFhb2lSblkzZEZ1bDNMU3VrX3BLMlRWUEZ2bXhjRWl3Wl9tZldaRXRGRXVlRU9iVUNiM2NrRmRISdIBuAFBVV95cUxOYXhPMHVVTnUzQXJSYU1Db2NuNDJlcmRBbmRqV0ZLeF94M3dUdWFucmJ3MERFUENBVS1MUEJ5T2JsVE1GRmlMV3EzTHAzbGMxUFhLdllQTG5peWNybnNFcTlVRHQxMElFeFFGcjIyZktlaUdZMmVQUVhtNUhNckVSajY4YmMxX3F0X1QxYWwwZDBFblVJeThjT05oT1B1M3BpenVmYzBSZ2REX29rR3JFRk9JMk8tY1Za?oc=5",
-      "published_date": "2026-08-05T14:14:00+00:00"
-    },
-    {
-      "title": "IDF to deploy voting stations behind enemy lines in Lebanon, Syria, Gaza ahead of October election",
-      "source": "Jerusalem Post",
-      "country": "Syria",
-      "url": "https://www.jpost.com/israel-election-2026/article-904658",
-      "published_date": "2026-08-05T13:33:43+00:00"
-    },
-    {
-      "title": "Defense Forces refute Russian claims of “capturing” Ryzhivka in Sumy region",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4151342-defense-forces-refute-russian-claims-of-capturing-ryzhivka-in-sumy-region.html",
-      "published_date": "2026-08-05T11:45:00+00:00"
-    },
-    {
-      "title": "Israel Captured 230 Square Miles of Lebanon, Razed Villages and Built New Bases - Haaretz",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcF9yMmoyaHI2QkRMeHVscXFjMGNucFRDSi12Tkhwa0tZOTRvdXRLcXd3aHV5RGlZV1R0RmQwV2N6YUxheDdUQUdMcEdzMTJPTWRFS3BvWlVBcDFIY21Va2FsdWVMT1hNcC1HeWZLYzh2QmRXblRZT0VyTWJORUl3YjY3aUtXbFEzbzM2QTdBdElIOG9SSzFhbUlYRks2R2xtMFA1WmFDSm5pVUZVYVNoYk9VejZmbzNHZERKeWhzZTJ5X1Vja2paalJJV3V0V1R3OXZsQUMydkttM0k3VGdpX2JWY3dxemdoU0FUTnFYU1RIQXFFYWo2bG5xYkk4OTRsMEM2WTI1dmZRdkFTTnMyODV6M2JkSW9PYWdMaVBuak5ZM0RHUS1r?oc=5",
-      "published_date": "2026-08-05T11:42:00+00:00"
     }
   ]
 }
