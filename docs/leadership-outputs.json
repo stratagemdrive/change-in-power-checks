@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-19T23:20:20.463691+00:00",
-    "story_count": 392,
+    "last_updated": "2026-08-20T11:28:18.890042+00:00",
+    "story_count": 393,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,123 @@
   },
   "stories": [
     {
+      "title": "Nearly three-quarters of Arab-Israelis want new political leadership ahead of elections, poll finds",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-906089",
+      "published_date": "2026-08-20T12:44:19+00:00"
+    },
+    {
+      "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/bjp-demands-pinarayi-vijayans-resignation-as-keralam-opposition-leader-over-ed-findings-in-cmrl-case/article71368081.ece",
+      "published_date": "2026-08-20T11:02:54+00:00"
+    },
+    {
+      "title": "Three Palestinian parties in Israel form joint list ahead of elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/three-palestinian-parties-israel-form-joint-list-ahead-elections",
+      "published_date": "2026-08-20T10:28:47+00:00"
+    },
+    {
+      "title": "In Ukraine, Fedorov calls for elections: a risky political gamble",
+      "source": "France 24 FR",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260820-en-ukraine-fedorov-appelle-aux-%C3%A9lections-un-pari-politique-risqu%C3%A9",
+      "published_date": "2026-08-20T09:50:56+00:00"
+    },
+    {
+      "title": "Nigeria: the campaign for the 2027 presidential election officially launched",
+      "source": "France 24 FR",
+      "country": "Nigeria",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260820-nig%C3%A9ria-la-campagne-pour-la-pr%C3%A9sidentielle-de-2027-officiellement-lanc%C3%A9e",
+      "published_date": "2026-08-20T09:36:47+00:00"
+    },
+    {
+      "title": "Israel and America Agree on Gaza’s New Leader",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/",
+      "published_date": "2026-08-20T09:05:39+00:00"
+    },
+    {
+      "title": "Election campaign in Saxony-Anhalt: CDU man: I donated 10,000 euros to AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/cdu-politiker-bernd-prange-spendet-10-000-euro-an-die-afd-accg-201143114.html",
+      "published_date": "2026-08-20T08:51:52+00:00"
+    },
+    {
+      "title": "Myanmar junta chief’s family used privileged status to secure ‘special number’ passports",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-chiefs-family-used-privileged-status-to-secure-special-number-passports/",
+      "published_date": "2026-08-20T08:23:13+00:00"
+    },
+    {
+      "title": "Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks",
+      "source": "Middle East Eye",
+      "country": "Syria",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-and-former-prime-minister-criticise-netanyahu",
+      "published_date": "2026-08-20T06:46:44+00:00"
+    },
+    {
+      "title": "Power struggle in the BSW: Wagenknecht calls, and Erfurt jumps?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/was-bundesverbaende-duerfen-berlin-ruft-erfurt-springt-accg-201140609.html",
+      "published_date": "2026-08-20T06:42:31+00:00"
+    },
+    {
+      "title": "The sacked defense minister demands elections in Ukraine - \"Immediately it is impossible\", says Flemming Splidsboel",
+      "source": "Politiken Denmark",
+      "country": "Ukraine",
+      "url": "https://politiken.dk/internationalt/art10952723/Fyret-forsvarsminister-kr%C3%A6ver-valg-i-Ukraine-%E2%80%93-%C2%BBUmiddelbart-er-det-umuligt%C2%AB-siger-Flemming-Splidsboel",
+      "published_date": "2026-08-20T06:10:08+00:00"
+    },
+    {
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "source": "BBC World",
+      "country": "Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T05:01:24+00:00"
+    },
+    {
+      "title": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
+      "source": "CBC News World",
+      "country": "Ukraine",
+      "url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss",
+      "published_date": "2026-08-20T04:00:00+00:00"
+    },
+    {
+      "title": "Netanyahu casts Turkey as Israel’s new villain amid tough re-election fight",
+      "source": "South China Morning Post",
+      "country": "Turkey",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3364623/netanyahu-casts-turkey-israels-new-villain-amid-tough-re-election-fight?utm_source=rss_feed",
+      "published_date": "2026-08-20T01:36:37+00:00"
+    },
+    {
       "title": "Prince Harry, Meghan, to move back to Britain after stepping down from royal duties - report",
       "source": "Jerusalem Post",
       "country": "United Kingdom",
       "url": "https://www.jpost.com/international/article-906047",
       "published_date": "2026-08-20T01:29:29+00:00"
+    },
+    {
+      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "published_date": "2026-08-20T00:20:00+00:00"
+    },
+    {
+      "title": "Chinese national charged with voter fraud during 2024 US presidential election",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3364618/chinese-national-charged-voter-fraud-during-2024-us-presidential-election?utm_source=rss_feed",
+      "published_date": "2026-08-19T23:18:24+00:00"
     },
     {
       "title": "A Ukrainian army medic was captured by Russian troops, raped in custody, and put on trial for terrorism. Her sons ended up on opposite sides of the war. Here’s what happened to her family.",
@@ -74,11 +186,11 @@
       "published_date": "2026-08-19T23:11:24+00:00"
     },
     {
-      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "title": "A Ukrainian army medic was captured by Russian troops, raped in custody, and put on trial for terrorism. Her sons ended up on opposite sides of the war. Here’s what happened to her family. - Meduza",
       "source": "Google News World",
       "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
-      "published_date": "2026-08-19T22:07:03+00:00"
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORjdlWWRpMnFKR2RBTHY3d05vVHFHNnlyb09NREp1RTdBT0JSMnBWbXVHWklDRF9Xb1dZTzAzYmxNMGhjR283NVlpaXE0cHNRSGRpNFFyYjFoWWgzYkhNTmpZdjJ6ZDR5X1E2emV2V3hZa1pSTl8tOFBPeEk4bmZldFFjTXB2R09VNm5EU2pTeDkyR0FpLTliNkEwMHBNQ0VUTHJZSXRCakVlWTdkb0lSTXFnSng1QVVfN0tRTWtjUkFOVjNIdGNmSlJCS2xjX2NkekRHWmxac21odjBVeUlyY0YzSmZFRXZnVEFyczlDZHpNMjAzNEttbmd0NlUtWEczRWZRNFk5aGM1T2FYNFE0djE5YWdmLU02MnpFUGJOUjlySXg2ZGxfTGRSaDRLcEVCbG1jYWFvT3Y2b2dfR2tzVmdUZWJhd9IBywJBVV95cUxNTTN2Y1pfQ0pkRGMxdDg1SzB4TkNhZzhEWjVFYkpLSE82RXRrR2h4TkFaNzZlZ3RqcXdubzN3OHdIem1WTFNSZjZubTM4RlYtTzdTWlhMbVNVSlg0WG5BeTNITC1RWXdvV2xiOHJhNlgwcG9jRGhweDhsRkw1b0ZSTHp2bFRrZ0trczREc1Y1OVd1LTFkR2xsVHJJemVPUXdPc29mUDRfNno2YUJicHJRYmpralZXU24wb3dtZEROckN6VU5XdWQ2eldPa3dXNFJScUwxSUw1MFhuQ0xmY2V6M2JLbXdNXzhBcW9TN2dQbGhqTkI4YWdKU0ZUaEVnNnA3V3dxV1BrRjRDQWdTLUNnUG1DbVFHR3NxVkFvUzhXbkI2T3o2cEpkU2ZmUE9SV2ZZalRNLXMwQW5jTDZoekNWNmVrZVF0SWktOEpV?oc=5",
+      "published_date": "2026-08-19T23:11:00+00:00"
     },
     {
       "title": "2027: ‘Nigerians are hungry, angry’ – Utomi urges massive voter turnout",
@@ -316,6 +428,13 @@
       "source": "FAZ Germany",
       "country": "Ukraine",
       "url": "https://www.faz.net/aktuell/politik/ukraine/mychajlo-fedorow-fordert-wahlen-im-krieg-in-der-ukraine-accg-201138659.html",
+      "published_date": "2026-08-19T05:14:45+00:00"
+    },
+    {
+      "title": "Elections in Ukraine: Fedorov breaks the last political taboo",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-ex-verteidigungsminister-fedorow-fordert-neuwahlen-accg-201138659.html",
       "published_date": "2026-08-19T05:14:45+00:00"
     },
     {
@@ -2690,118 +2809,6 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan",
       "published_date": "2026-08-06T11:49:53+00:00"
-    },
-    {
-      "title": "Myanmar leader breaks diplomatic isolation on first official visit to Thailand since coup - BBC",
-      "source": "Google News World",
-      "country": "Myanmar",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85bmF4dU1tbUEwckpKcF9LOWxGcUtrSllJMFI4OEZydnpXSjA0WUQwUno4YjJxeGZCR2Z4R01xNHNHVXphWG03OFQwdENhcXpPcXQzZDRfdVVhZw?oc=5",
-      "published_date": "2026-08-06T11:19:31+00:00"
-    },
-    {
-      "title": "Germán Ávila, Minister of Finance, presented his 'inevitable' resignation to the outgoing president, Gustavo Petro: 'We leave with a calm soul'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-le-presento-su-renuncia-inevitable-al-presidente-de-colombia-gustavo-petro-salimos-con-el-alma-tranquila-3576554",
-      "published_date": "2026-08-06T11:16:37+00:00"
-    },
-    {
-      "title": "Before the September elections: Who the AfD owes its rise to",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-von-welchen-parteien-kommen-ihre-waehler-accg-201047156.html",
-      "published_date": "2026-08-06T11:03:28+00:00"
-    },
-    {
-      "title": "Trump and Milei target Lula two months before the Brazilian presidential election",
-      "source": "Le Monde France",
-      "country": "Argentina",
-      "url": "https://www.lemonde.fr/international/article/2026/08/06/trump-et-milei-ciblent-lula-a-deux-mois-de-l-election-presidentielle-bresilienne_6739941_3210.html",
-      "published_date": "2026-08-06T11:00:11+00:00"
-    },
-    {
-      "title": "Sheikh Hasina, the deposed leader of Bangladesh, announces from India her return to the country",
-      "source": "Le Monde France",
-      "country": "India",
-      "url": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html",
-      "published_date": "2026-08-06T11:00:03+00:00"
-    },
-    {
-      "title": "Rick Scott: \"The people of Venezuela deserve free and fair elections\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/rick-scott-el-pueblo-de-venezuela-merece-elecciones-libres-y-justas/",
-      "published_date": "2026-08-06T10:15:31+00:00"
-    },
-    {
-      "title": "France's DZ mafia suspected founder captured in Algeria",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france-s-dz-mafia-suspected-founder-captured-in-algeria",
-      "published_date": "2026-08-06T10:00:35+00:00"
-    },
-    {
-      "title": "From Exile to Damascus: Our new chapter begins",
-      "source": "Syria Direct",
-      "country": "Syria",
-      "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
-      "published_date": "2026-08-06T08:45:12+00:00"
-    },
-    {
-      "title": "Myanmar junta raids online scam hub in southern Shan, arrests 49 including 38 Chinese nationals",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-raids-online-scam-hub-in-southern-shan-arrests-49-including-38-chinese-nationals/",
-      "published_date": "2026-08-06T08:37:31+00:00"
-    },
-    {
-      "title": "Myanmar junta launches counteroffensive after KIA, allies seize outpost near Shwegu",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-counteroffensive-after-kia-allies-seize-outpost-near-shwegu/",
-      "published_date": "2026-08-06T07:46:56+00:00"
-    },
-    {
-      "title": "Presidential election 2027: France on alert in the face of increasing Russian interference",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/france/20260806-pr%C3%A9sidentielle-fran%C3%A7aise-2027-les-ing%C3%A9rences-russes-visant-des-candidats-se-multiplient",
-      "published_date": "2026-08-06T07:11:14+00:00"
-    },
-    {
-      "title": "Myanmar ex-junta chief seeks political legitimacy on first Thailand trip as civilian leader",
-      "source": "Euronews",
-      "country": "Myanmar",
-      "url": "http://www.euronews.com/2026/08/06/myanmar-ex-junta-chief-seeks-political-legitimacy-on-first-thailand-trip-as-civilian-leade",
-      "published_date": "2026-08-06T05:33:54+00:00"
-    },
-    {
-      "title": "Iran president admits interaction with supreme leader Mojtaba Khamenei is ‘very difficult’",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-khamenei-alive-president-b3028363.html",
-      "published_date": "2026-08-06T04:15:46+00:00"
-    },
-    {
-      "title": "Investment, energy sector talks to dominate Myanmar junta leader’s visit to Thailand",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/investment-energy-sector-talks-to-dominate-myanmar-junta-leaders-visit-to-thailand/",
-      "published_date": "2026-08-06T03:25:59+00:00"
-    },
-    {
-      "title": "President Kast announces security agenda that includes constitutional reform",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/presidente-kast-anuncia-agenda-de-seguridad-que-incluye-reforma-constitucional/",
-      "published_date": "2026-08-06T01:43:59+00:00"
-    },
-    {
-      "title": "Kast endorses security as a priority on the government agenda and confirms constitutional reform on the matter",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-reafirma-seguridad-como-prioridad-de-la-agenda-de-gobierno-y-confirma-reforma-constitucional-en-la-materia/",
-      "published_date": "2026-08-06T01:19:51+00:00"
     }
   ]
 }
