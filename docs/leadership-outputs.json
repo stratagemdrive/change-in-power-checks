@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-20T11:28:18.890042+00:00",
-    "story_count": 393,
+    "last_updated": "2026-08-20T23:26:50.874089+00:00",
+    "story_count": 385,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "“Let him win because the economy is good”: Máximo Kirchner's curious phrase about Milei's re-election",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/que-la-gane-porque-esta-bien-la-economia-la-curiosa-frase-de-maximo-kirchner-sobre-la-reeleccion-de-nid20082026/",
+      "published_date": "2026-08-20T22:52:54+00:00"
+    },
+    {
+      "title": "Kast rules out a plebiscite for security reform: “It is not something we are going to promote as a government”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-descarta-plebiscito-para-la-reforma-de-seguridad-no-es-algo-que-vayamos-a-impulsar-como-gobierno/",
+      "published_date": "2026-08-20T22:06:52+00:00"
+    },
+    {
+      "title": "Russia already fines people who ignore a governor’s orders — but only in regions under martial law. A new bill would make that punishable nationwide, even in peacetime.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/21/russia-already-fines-people-who-ignore-a-governor-s-orders-but-only-in-regions-under-martial-law-a-new-bill-would-make-that-punishable-nationwide-even-in-peacetime",
+      "published_date": "2026-08-20T21:55:45+00:00"
+    },
+    {
+      "title": "Osun election: Tinubu played fair, fought for democracy – Adeleke",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-played-fair-because-he-fought-for-democracy-adeleke/",
+      "published_date": "2026-08-20T20:37:08+00:00"
+    },
+    {
+      "title": "“They didn’t achieve the superstar status they were aiming for”: the mysterious return of Harry and Meghan to the United Kingdom, after six years of exile",
+      "source": "Le Figaro France",
+      "country": "United Kingdom",
+      "url": "https://www.lefigaro.fr/international/ils-n-ont-pas-atteint-le-statut-de-superstars-qu-ils-visaient-le-mysterieux-retour-de-harry-et-meghan-au-royaume-uni-apres-six-ans-d-exil-20260820",
+      "published_date": "2026-08-20T18:45:00+00:00"
+    },
+    {
+      "title": "The idea of ​​a plebiscite for security reform further entangles the ruling party and La Moneda comes out to take its floor",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/idea-de-un-plebisicto-por-reforma-de-seguridad-enreda-mas-al-oficialismo-y-la-moneda-sale-a-quitarle-piso/",
+      "published_date": "2026-08-20T17:30:00+00:00"
+    },
+    {
+      "title": "Chilean Chamber of Construction elects Raimundo Rencoret as its new president for the next two years",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/camara-chilena-de-la-construccion-elige-a-raimundo-rencoret-como-su-nuevo-presidente-por-los-proximos-dos-anos/",
+      "published_date": "2026-08-20T16:37:02+00:00"
+    },
+    {
+      "title": "The surprising record of two puma cubs captured in Chilean Patagonia",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/el-sorprendente-registro-de-dos-cachorros-de-puma-captados-en-la-patagonia-chilena/",
+      "published_date": "2026-08-20T16:17:52+00:00"
+    },
+    {
+      "title": "Alessandri is against calling a plebiscite if Kast's security reform is rejected: “It would be overkill”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/alessandri-se-muestra-en-contra-de-llamar-a-plebiscito-si-se-rechaza-la-reforma-de-seguridad-de-kast-seria-pasar-maquina/",
+      "published_date": "2026-08-20T15:37:50+00:00"
+    },
+    {
       "title": "Nearly three-quarters of Arab-Israelis want new political leadership ahead of elections, poll finds",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-906089",
       "published_date": "2026-08-20T12:44:19+00:00"
+    },
+    {
+      "title": "German Spy Agency Opens Hotline for Exiled Russians",
+      "source": "Moscow Times",
+      "country": "Germany",
+      "url": "https://www.themoscowtimes.com/2026/08/20/german-spy-agency-opens-hotline-for-exiled-russians-a93540",
+      "published_date": "2026-08-20T12:39:18+00:00"
     },
     {
       "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
@@ -127,6 +197,13 @@
       "source": "FAZ Germany",
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/was-bundesverbaende-duerfen-berlin-ruft-erfurt-springt-accg-201140609.html",
+      "published_date": "2026-08-20T06:42:31+00:00"
+    },
+    {
+      "title": "Power struggle in the BSW: Wagenknecht calls, and Erfurt jumps?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/bsw-machtkampf-darf-der-bundesvorstand-thueringen-zum-koalitionsaus-zwingen-accg-201140609.html",
       "published_date": "2026-08-20T06:42:31+00:00"
     },
     {
@@ -2676,139 +2753,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-904829",
       "published_date": "2026-08-06T23:57:51+00:00"
-    },
-    {
-      "title": "US-backed Venezuela political transition talks begin without Nobel laureate Machado",
-      "source": "France 24 English",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/en/americas/20260806-us-backed-venezuela-political-transition-talks-begin-without-nobel-laureate-machado",
-      "published_date": "2026-08-06T22:55:59+00:00"
-    },
-    {
-      "title": "Chavismo and the Venezuelan opposition hold their first dialogue to advance towards the political transition",
-      "source": "La Nacion Argentina",
-      "country": "Venezuela",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-chavismo-y-la-oposicion-venezolana-sostienen-su-primer-dialogo-para-avanzar-hacia-la-transicion-nid06082026/",
-      "published_date": "2026-08-06T22:41:51+00:00"
-    },
-    {
-      "title": "In Venezuela, start of talks between power and opposition, which could lead to a political transition and elections",
-      "source": "Le Monde France",
-      "country": "Venezuela",
-      "url": "https://www.lemonde.fr/international/article/2026/08/07/au-venezuela-debut-des-pourparlers-entre-pouvoir-et-opposition-qui-pourraient-deboucher-sur-une-transition-politique-et-des-elections_6740279_3210.html",
-      "published_date": "2026-08-06T22:20:12+00:00"
-    },
-    {
-      "title": "Chavismo and opposition begin dialogue to address the political transition in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/chavismo-y-oposicion-inician-dialogo-para-abordar-la-transicion-politica-en-venezuela/",
-      "published_date": "2026-08-06T21:22:54+00:00"
-    },
-    {
-      "title": "President Kast begins a visit to Colombia to attend the inauguration of Abelardo de la Espriella",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-emprende-vuelo-a-colombia-para-asistir-al-cambio-de-mando-asumira-abelardo-de-la-espriella/",
-      "published_date": "2026-08-06T21:14:34+00:00"
-    },
-    {
-      "title": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians/",
-      "published_date": "2026-08-06T19:13:16+00:00"
-    },
-    {
-      "title": "As the world looks away, Iran continues brutal hangings of protesters to crush the next uprising",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-904794",
-      "published_date": "2026-08-06T18:55:30+00:00"
-    },
-    {
-      "title": "Kast announces constitutional reform in security and promises actions against organized crime",
-      "source": "El Nacional Venezuela",
-      "country": "Chile",
-      "url": "https://www.elnacional.com/2026/08/kast-anuncia-reforma-constitucional-en-seguridad-y-promete-acciones-contra-el-crimen-organizado/",
-      "published_date": "2026-08-06T17:43:48+00:00"
-    },
-    {
-      "title": "Election campaign in Berlin: They are already drawing red lines",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/schwerdtner-macht-enteignungen-zur-koalitionsbedingung-201101327.html",
-      "published_date": "2026-08-06T15:48:47+00:00"
-    },
-    {
-      "title": "Election campaign in Berlin: They are already drawing red lines",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/schwerdtner-macht-enteignungen-zur-koalitionsbedingung-201101327.html",
-      "published_date": "2026-08-06T15:48:47+00:00"
-    },
-    {
-      "title": "Minister Wulf asks for the non-voluntary resignation of the director of Mejor Niñez appointed by Boric due to “loss of trust”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/ministra-wulf-pide-renuncia-no-voluntaria-al-jefe-de-mejor-ninez-nombrado-por-boric-por-perdida-de-confianza/",
-      "published_date": "2026-08-06T14:43:56+00:00"
-    },
-    {
-      "title": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
-      "source": "The Guardian World",
-      "country": "India",
-      "url": "https://www.theguardian.com/world/2026/aug/06/india-bangladesh-relations-exiled-pm-speech-delhi-sheikh-hasina",
-      "published_date": "2026-08-06T14:30:43+00:00"
-    },
-    {
-      "title": "Meganalisis: 9 out of 10 Venezuelans consider the interim government's response to the earthquakes to be bad",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/meganalisis-9-de-cada-10-venezolanos-considera-mala-la-respuesta-del-gobierno-interino-a-los-terremotos/",
-      "published_date": "2026-08-06T14:21:15+00:00"
-    },
-    {
-      "title": "PSOL-Rede Federation officially supports Lula’s candidacy for re-election",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/federacao-psol-rede-oficializa-apoio-candidatura-de-lula-reeleicao",
-      "published_date": "2026-08-06T14:11:00+00:00"
-    },
-    {
-      "title": "Court warns Bundestag: election auditing must not just be a tiresome duty",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-mahnt-den-bundestag-zur-pflicht-201101637.html",
-      "published_date": "2026-08-06T14:04:28+00:00"
-    },
-    {
-      "title": "Russia ramps up disinformation war as French presidential elections draw nearer",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/russia-ramps-up-disinformation-war-as-french-presidential-elections-draw-nearer",
-      "published_date": "2026-08-06T13:57:55+00:00"
-    },
-    {
-      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid04082026/",
-      "published_date": "2026-08-06T12:46:56+00:00"
-    },
-    {
-      "title": "Thailand backs greater ASEAN role for Myanmar junta as Min Aung Hlaing visits Bangkok",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/thailand-backs-greater-asean-role-for-myanmar-junta-as-min-aung-hlaing-visits-bangkok/",
-      "published_date": "2026-08-06T12:04:06+00:00"
-    },
-    {
-      "title": "England recall Dan Lawrence from two years of Test exile to face Pakistan",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan",
-      "published_date": "2026-08-06T11:49:53+00:00"
     }
   ]
 }
