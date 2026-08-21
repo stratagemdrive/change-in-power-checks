@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-21T11:27:39.635185+00:00",
-    "story_count": 381,
+    "last_updated": "2026-08-21T23:19:59.658767+00:00",
+    "story_count": 374,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "Tinubu Group begins mobilisation for 2027 re-election",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/tinubu-group-begins-mobilisation-for-2027-re-election/",
+      "published_date": "2026-08-21T19:45:52+00:00"
+    },
+    {
+      "title": "Gabriel Boric calls for coherence in politics and assures that Maduro “had stolen the elections”",
+      "source": "El Nacional Venezuela",
+      "country": "Chile",
+      "url": "https://www.elnacional.com/2026/08/gabriel-boric-pide-coherencia-en-la-politica-y-asegura-que-maduro-se-habia-robado-las-elecciones/",
+      "published_date": "2026-08-21T18:54:48+00:00"
+    },
+    {
+      "title": "How Jean-Luc Mélenchon seeks to take control of ecology with a view to the presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/comment-jean-luc-melenchon-cherche-a-faire-main-basse-sur-l-ecologie-en-vue-de-la-presidentielle-20260821",
+      "published_date": "2026-08-21T18:20:15+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Burhan offers temporary immunity for internal dialogue participants | AU Peace, Security Council in Khartoum | Khartoum, Riyadh establish bilateral coordination council | Second-largest single group RSF defection arrive in Northern State",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/08/21/news/politics/sudan-nashra-burhan-offers-temporary-immunity-for-internal-dialogue-participants-au-peace-security-council-in-khartoum-khartoum-riyadh-establish-bilateral-coordination-council-second-largest/",
+      "published_date": "2026-08-21T17:52:52+00:00"
+    },
+    {
+      "title": "A Moscow court sentences exiled comedian Semyon Slepakov (in absentia) to 400 hours of community service over a song mocking Putin as an ‘eternal little president’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/21/a-moscow-court-sentences-exiled-comedian-semyon-slepakov-in-absentia-to-400-hours-of-community-service-over-a-song-mocking-putin-as-an-eternal-little-president",
+      "published_date": "2026-08-21T17:17:55+00:00"
+    },
+    {
+      "title": "CCD: No reputable international election monitoring organization is observing Russia's 2026 'elections'",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4156392-ccd-no-reputable-international-election-monitoring-organization-is-observing-russias-2026-elections.html",
+      "published_date": "2026-08-21T16:52:00+00:00"
+    },
+    {
+      "title": "Pakistan : l'ancien Premier ministre Imran Khan reconduit en prison",
+      "source": "France 24 FR",
+      "country": "Pakistan",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260821-pakistan-l-ancien-premier-ministre-imran-khan-reconduit-en-prison",
+      "published_date": "2026-08-21T16:40:40+00:00"
+    },
+    {
+      "title": "PPD militants announce their resignation from the party and the creation of the political movement Firmes por Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/militantes-del-ppd-anuncian-su-renuncia-al-partido-y-la-creacion-del-movimiento-politico-firmes-por-chile/",
+      "published_date": "2026-08-21T15:14:32+00:00"
+    },
+    {
+      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
+      "published_date": "2026-08-21T12:57:22+00:00"
+    },
+    {
       "title": "Middle Israel: Netanyahu's Likud list for the Israeli election highlights PM's cowardice - opinion",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/opinion/article-906157",
       "published_date": "2026-08-21T12:51:45+00:00"
+    },
+    {
+      "title": "Armenia downgrades relations with Russia in new government programme",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenia-downgrades-relations-with-russia-in-new-government-programme/",
+      "published_date": "2026-08-21T11:50:56+00:00"
     },
     {
       "title": "As many as 20 believed killed in Myanmar junta airstrike on Buddhist monastery",
@@ -79,6 +149,13 @@
       "country": "Taiwan",
       "url": "https://www.japantimes.co.jp/news/2026/08/21/japan/politics/dpp-leadership-race/",
       "published_date": "2026-08-21T07:08:00+00:00"
+    },
+    {
+      "title": "'Mass mobilization not planned,' Russian UN envoy claims, stops short of ruling it out following elections - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3NLR3ZGQi1iM0FISncyY2l6OGxHSUVJS0JSY2hEWUVpUHNzYWdJUW04ZFVwaEhkM3RyaHd0em9LM29hV3JHanc3TXAxdkRnWEo2SExjcG1GTGpLMzhJS0V2Uy0zd0x4QjgyWmhxR2xXYndtZ0JpemFxVWI2dTlQTjBRZS13Q0EzcHV4VUNR?oc=5",
+      "published_date": "2026-08-21T04:53:53+00:00"
     },
     {
       "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate",
@@ -2599,132 +2676,6 @@
       "country": "Colombia",
       "url": "https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-08-07T23:20:13+00:00"
-    },
-    {
-      "title": "Video | The exact moment when Abelardo De La Espriella is sworn in, receives the sash and assumes office as President of Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-el-momento-exacto-cuando-abelardo-de-la-espriella-juramenta-recibe-la-banda-y-asume-como-presidente-de-colombia-3576921",
-      "published_date": "2026-08-07T23:04:31+00:00"
-    },
-    {
-      "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
-      "source": "South China Morning Post",
-      "country": "Colombia",
-      "url": "https://www.scmp.com/news/world/americas/article/3363371/trump-ally-abelardo-de-la-espriella-sworn-colombia-president?utm_source=rss_feed",
-      "published_date": "2026-08-07T22:46:04+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella is sworn in as the new president of Colombia",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/mundo/noticia/abelardo-de-la-espriella-jura-como-nuevo-presidente-de-colombia/",
-      "published_date": "2026-08-07T22:27:53+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-jura-como-presidente/",
-      "published_date": "2026-08-07T22:23:21+00:00"
-    },
-    {
-      "title": "Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups - AP News",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
-      "published_date": "2026-08-07T22:14:00+00:00"
-    },
-    {
-      "title": "This was the arrival of Javier Milei, president of Argentina, at the inauguration ceremony of Abelardo De La Espriella in Cali",
-      "source": "El Tiempo Colombia",
-      "country": "Argentina",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llegada-de-javier-milei-presidente-de-argentina-a-la-ceremonia-de-posesion-de-abelardo-de-la-espriella-en-cali-3576913",
-      "published_date": "2026-08-07T21:48:53+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-jura-como-presidente-de-colombia-para-el-periodo-2026-2030/",
-      "published_date": "2026-08-07T21:41:06+00:00"
-    },
-    {
-      "title": "Osun Election: Reps minority caucus accuses Tinubu of using federal agencies to intimidate state",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/901391-osun-election-reps-minority-caucus-accuses-tinubu-of-using-federal-agencies-to-intimidate-state.html",
-      "published_date": "2026-08-07T21:40:37+00:00"
-    },
-    {
-      "title": "Big techs reduce election measures and face new judicial rules in Brazil",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/big-techs-reduzem-medidas-para-eleicao-e-encaram-novas-regras-judiciais-no-brasil.shtml",
-      "published_date": "2026-08-07T20:32:00+00:00"
-    },
-    {
-      "title": "Why Tinubu will win in 2027 — Accord presidential candidate",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/why-tinubu-will-win-in-2027-accord-presidential-candidate/",
-      "published_date": "2026-08-07T18:40:32+00:00"
-    },
-    {
-      "title": "Iran officials 'would not be surprised' if Supreme Leader Mojtaba Khamenei dies soon: Report - The Times of India",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbHpTNlBrX2dQUjJJY2w5dEpoR2VMd19RTzBweHlGMFM2NE0zMDZCV1JQczFoeDJOenEtcXFsQVlCaHN0QnVLNllEU2ZLUGZhMWg4WlFzMTZ1UTA3Vm9LUFljb2xmYkkyX0VEREdMYkt6TEhLcldmRlEyZE1lZml1THBtS3p3M09wQVJWMVFhLU9OVnVPdElycm15Vkp4WndFUjIwRDUxaFloOEw2RDlhMXl2NkVTeTA2UVZIS0dyNkZ1OEpJSWFpQjJzN2RqRkEyWDdoV2J4RTN2ajZibTNCbmpqQmpzQkd4WE5zVjhCb01VOWVzVUxxcl9hS3ZqZw?oc=5",
-      "published_date": "2026-08-07T15:48:00+00:00"
-    },
-    {
-      "title": "Guanipa: \"The US is the guarantor of the negotiation that will lead to a political transition in Venezuela\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/guanipa-ee-uu-es-el-garante-de-la-negociacion-que-conducira-hacia-una-transicion-politica-en-venezuela/",
-      "published_date": "2026-08-07T15:47:15+00:00"
-    },
-    {
-      "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-      "published_date": "2026-08-07T15:41:45+00:00"
-    },
-    {
-      "title": "Senator Bianchi and constitutional reform of the Kast security plan: “It is absolutely unnecessary in practice”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/senador-bianchi-y-reforma-constitucional-del-plan-de-seguridad-de-kast-es-absolutamente-innecesaria-en-lo-practico/",
-      "published_date": "2026-08-07T15:34:11+00:00"
-    },
-    {
-      "title": "Crossing Israel's dividing lines: New Arab, haredi alliances can reshape the elections - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-904641",
-      "published_date": "2026-08-07T14:32:37+00:00"
-    },
-    {
-      "title": "Colombia: Abelardo de la Espriella promises rupture during his inauguration in Cali",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260807-colombie-abelardo-de-la-espriella-promet-la-rupture-lors-de-son-investiture-%C3%A0-cali",
-      "published_date": "2026-08-07T12:43:58+00:00"
-    },
-    {
-      "title": "Nationalist Rodina Party Sues to Disqualify Yabloko From State Duma Elections",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/08/07/nationalist-rodina-party-sues-to-disqualify-yabloko-from-state-duma-elections-a93438",
-      "published_date": "2026-08-07T12:11:00+00:00"
-    },
-    {
-      "title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/07/lithuanian-defense-minister-warns-of-possible-russian-strikes-on-baltic-countries-using-captured-ukrainian-drones",
-      "published_date": "2026-08-07T11:23:45+00:00"
     }
   ]
 }
