@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-20T23:26:50.874089+00:00",
-    "story_count": 385,
+    "last_updated": "2026-08-21T11:27:39.635185+00:00",
+    "story_count": 381,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Middle Israel: Netanyahu's Likud list for the Israeli election highlights PM's cowardice - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-906157",
+      "published_date": "2026-08-21T12:51:45+00:00"
+    },
+    {
+      "title": "As many as 20 believed killed in Myanmar junta airstrike on Buddhist monastery",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/as-many-as-20-believed-killed-in-myanmar-junta-airstrike-on-buddhist-monastery/",
+      "published_date": "2026-08-21T10:26:11+00:00"
+    },
+    {
+      "title": "DPP challenger faces uphill battle against incumbent Tamaki in leadership race",
+      "source": "Japan Times",
+      "country": "Taiwan",
+      "url": "https://www.japantimes.co.jp/news/2026/08/21/japan/politics/dpp-leadership-race/",
+      "published_date": "2026-08-21T07:08:00+00:00"
+    },
+    {
+      "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing",
+      "published_date": "2026-08-21T03:51:32+00:00"
+    },
+    {
+      "title": "European Commission: Ukraine must decide for itself when to hold elections",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4156010-european-commission-ukraine-must-decide-for-itself-when-to-hold-elections.html",
+      "published_date": "2026-08-20T23:31:00+00:00"
+    },
     {
       "title": "“Let him win because the economy is good”: Máximo Kirchner's curious phrase about Milei's re-election",
       "source": "La Nacion Argentina",
@@ -102,6 +137,13 @@
       "published_date": "2026-08-20T17:30:00+00:00"
     },
     {
+      "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end - Reuters",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTZYaWxlbjdRU3lSTGZVdTFzc3g4blpKdEtwODlFcnFtaEU4SFlySUJrQURDenFrdEV1ck9rbk55R2d4OW54ZGZXQzZIandvRmVNNk1uWTQ2RzNKaGZ6bEl6VEFzbkItNkpoeUk2NkdLeURSY21pT0dNNnYxWmk3b1hkRzlUbnlvbVZMb0hkRGdPTVlNQ0taeU5WOTd1WFhRb25GMmVfUXZzdFJKWkpqeUpMSFM1OF9RdTAzT1BqeWJnSUViVFE?oc=5",
+      "published_date": "2026-08-20T16:53:00+00:00"
+    },
+    {
       "title": "Chilean Chamber of Construction elects Raimundo Rencoret as its new president for the next two years",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -121,6 +163,13 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/alessandri-se-muestra-en-contra-de-llamar-a-plebiscito-si-se-rechaza-la-reforma-de-seguridad-de-kast-seria-pasar-maquina/",
       "published_date": "2026-08-20T15:37:50+00:00"
+    },
+    {
+      "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow? - Al Jazeera",
+      "source": "Google News World",
+      "country": "Libya",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpOenFKRXRQek1mcjVwSmdud0RRMGtlLVZqazNFN0hlZ2ZnMi1QU0x1TG9ib3JjLW92ZnBlS3ZsandZeTA3eWdmV1RlbVd2dDVlMDQ5Q1FIa0FqV3lQNjJkNUVuZXQ5eElkdWUzTk93cG5aUTR6Z24zM2xBSVVaeUF2bVl0Y1ZFOVRqUmhIOEFPOWtFM0I0YWJSWmxYNUpHWHk1cXhDNXBsVm50MjNleG42UEXSAboBQVVfeXFMUGpEUmc5bmhJZ1p6VncwbHN2MS14UWVBdkl6NWh2aGtFT2lBcFc3LXZpSGdtdmE4VlZJTkgyd08waGhJY2JMMldCZm9KeWhmQWNUMTlpNWV2bmxMd1c4MjVxWEJpOEJ6dk80eWsxZHZFcFNHclphYW5waFVKM2VwalQ2d3pjcERwZTVfT0dpM3VxVEMyQk1JeUtkeEc5c0tPSUNDOWdPS042dUJaMVVja0Fuc2g2QzVWNERB?oc=5",
+      "published_date": "2026-08-20T15:32:01+00:00"
     },
     {
       "title": "Nearly three-quarters of Arab-Israelis want new political leadership ahead of elections, poll finds",
@@ -177,6 +226,13 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/cdu-politiker-bernd-prange-spendet-10-000-euro-an-die-afd-accg-201143114.html",
       "published_date": "2026-08-20T08:51:52+00:00"
+    },
+    {
+      "title": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0ZpY0hRRGNUbXJaUERQNlAtUWFHU3hCWi16UlRkUFg5TGVkUWtYeHFiQl80M1loeVd6OF9ORHRmQ000dlpYdWlZdERFR0V5Wm5mOGxfOXlvMnQtUFY0WFB6LWYwMXRaT0JmVmVCcC13Z0JiTUJHb01mU2phQ3QwQ1BmSm91QzB3Ul9yZWNySWN4SFNXZm9IX0hfTGlfNDBnbzlxNnVHTW1ydw?oc=5",
+      "published_date": "2026-08-20T08:25:43+00:00"
     },
     {
       "title": "Myanmar junta chief’s family used privileged status to secure ‘special number’ passports",
@@ -2669,90 +2725,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/08/07/lithuanian-defense-minister-warns-of-possible-russian-strikes-on-baltic-countries-using-captured-ukrainian-drones",
       "published_date": "2026-08-07T11:23:45+00:00"
-    },
-    {
-      "title": "What time will the inauguration of the elected president of Colombia, Abelardo De La Espriella, take place on August 7? See where to watch the ceremony",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
-      "published_date": "2026-08-07T11:16:19+00:00"
-    },
-    {
-      "title": "Lula will be the only presidential candidate in Brazil supported by a coalition of parties",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/08/lula-sera-el-unico-candidato-presidencial-de-brasil-apoyado-por-una-coalicion-de-partidos/",
-      "published_date": "2026-08-07T10:32:00+00:00"
-    },
-    {
-      "title": "Explainer: Who are the companies and cronies backing Myanmar junta leader’s Thailand visit?",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/explainer-who-are-the-companies-and-cronies-backing-myanmar-junta-leaders-thailand-visit/",
-      "published_date": "2026-08-07T09:59:50+00:00"
-    },
-    {
-      "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
-      "source": "Meduza EN",
-      "country": "France",
-      "url": "https://meduza.io/en/feature/2026/08/07/how-russia-is-impersonating-french-news-outlets-in-a-bid-to-influence-france-s-next-presidential-election",
-      "published_date": "2026-08-07T09:33:52+00:00"
-    },
-    {
-      "title": "From palace stages to exile: A Myanmar dancer who chose conscience over ceremony",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/from-palace-stages-to-exile-a-myanmar-dancer-who-chose-conscience-over-ceremony/",
-      "published_date": "2026-08-07T08:49:04+00:00"
-    },
-    {
-      "title": "Tamaki faces challenge in DPP leadership race",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/news/2026/08/07/japan/politics/tamaki-dpp-race/",
-      "published_date": "2026-08-07T08:17:00+00:00"
-    },
-    {
-      "title": "“Save my little one!” : the reception of Spanish children in France during the civil war (2/4)",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
-      "published_date": "2026-08-07T06:01:07+00:00"
-    },
-    {
-      "title": "Editor's Notes: With elections near, every Israeli must watch this pre-Oct. 7 documentary",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-904826",
-      "published_date": "2026-08-07T05:59:28+00:00"
-    },
-    {
-      "title": "Mossad and CIA work to track Iran's new supreme leader: “He hasn't used a phone in more than 150 days”",
-      "source": "La Nacion Argentina",
-      "country": "Iran",
-      "url": "https://www.lanacion.com.ar/estados-unidos/el-mossad-y-la-cia-trabajan-para-rastrear-al-nuevo-lider-supremo-de-iran-no-uso-un-telefono-en-mas-nid07082026/",
-      "published_date": "2026-08-07T05:44:00+00:00"
-    },
-    {
-      "title": "Kast arrives in Colombia to participate in the inauguration of Abelardo de la Espriella",
-      "source": "La Tercera Chile",
-      "country": "Colombia",
-      "url": "https://www.latercera.com/politica/noticia/kast-arriba-a-colombia-para-participar-en-la-asuncion-de-abelardo-de-la-espriella/",
-      "published_date": "2026-08-07T03:03:28+00:00"
-    },
-    {
-      "title": "Russian troops execute another captured Ukrainian defender in Donetsk region",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4151773-russian-troops-execute-another-captured-ukrainian-defender-in-donetsk-region.html",
-      "published_date": "2026-08-07T00:45:00+00:00"
-    },
-    {
-      "title": "MK Yoav Segalovitz announces resignation from Knesset, departure from Yesh Atid party",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-904829",
-      "published_date": "2026-08-06T23:57:51+00:00"
     }
   ]
 }
