@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-22T11:23:19.758745+00:00",
-    "story_count": 367,
+    "last_updated": "2026-08-22T23:16:47.272888+00:00",
+    "story_count": 362,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/la-humanidad/ong-pide-al-gobierno-interino-ampliar-cooperacion-del-cicr-en-carceles-venezolanas/",
+      "published_date": "2026-08-22T21:32:55+00:00"
+    },
+    {
+      "title": "Almost half of the mayors of Buenos Aires cannot seek re-election in 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/casi-la-mitad-de-los-intendentes-bonaerenses-no-pueden-aspirar-a-la-reeleccion-en-2027-nid22082026/",
+      "published_date": "2026-08-22T20:36:15+00:00"
+    },
+    {
+      "title": "Sanwo-Olu appointed South-West Coordinator of Tinubu’s re-election campaign",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/sanwo-olu-appointed-south-west-coordinator-of-tinubus-re-election-campaign/",
+      "published_date": "2026-08-22T19:22:08+00:00"
+    },
+    {
+      "title": "How is the pro-Israel lobby influencing US elections?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-08-22T16:17:54+00:00"
+    },
+    {
+      "title": "Outcry after statement: Ben-Gvir's election campaign noise and the German theater thunder",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/ausland/itamar-ben-gvir-und-die-deutsche-israel-diskussion-201137520.html",
+      "published_date": "2026-08-22T15:15:46+00:00"
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "source": "Deutsche Welle English",
+      "country": "China",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-22T14:42:00+00:00"
+    },
+    {
+      "title": "PM Modi meets BJP’s newly formed team at party headquarters in Delhi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-meets-bjp-s-newly-formed-team-at-party-headquarters-in-delhi-101787407393412.html",
+      "published_date": "2026-08-22T14:04:55+00:00"
+    },
+    {
       "title": "Israel 'baited' Turkey with Abu al-Duhur airbase 'pre-election' strike, US Envoy Tom Barrack says",
       "source": "Jerusalem Post",
       "country": "Turkey",
       "url": "https://www.jpost.com/middle-east/article-906241",
       "published_date": "2026-08-22T13:04:13+00:00"
+    },
+    {
+      "title": "In France, political start eight months before the presidential election",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-en-france-rentr%C3%A9e-politique-%C3%A0-huit-mois-de-la-pr%C3%A9sidentielle",
+      "published_date": "2026-08-22T12:44:33+00:00"
     },
     {
       "title": "Facing exile and persecution, an Iranian dissident crossed from devout Muslim to student of Judaism",
@@ -2536,97 +2592,6 @@
       "country": "United Kingdom",
       "url": "https://www.japantimes.co.jp/environment/2026/08/09/british-columbia-emergency-wildfires/",
       "published_date": "2026-08-09T01:04:00+00:00"
-    },
-    {
-      "title": "Car bomb attack rattles Colombia after inauguration of hardline president - Al Jazeera",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlg3LXBnaVVlVWMtRWc1V0J6bVZUZEs5ZHFHNk9HT3hvYUdHTnVCYjhrZWdLUWpvdmhDS3hpRkVud0l5MkRpUjhpRkd5TWtNRmVxbVV0czlzQ3ZRc2ZKUGtxWktXVjZiWHhvdkQzLVhHTDd4LV9Vd0ViNDJxb0JIeHMtNVJ3bURYc2NPLWExNkVvN09Rc1JPTjdST1ZzakhZTEN4ckxsNTJ3dnBhWWw1QjVtd9IBuAFBVV95cUxOLW1MT1RwWkFQZ0ZpM3BXU1VHd0ViYl8zc0k3Uk85NE9NUk02dHdpN1AzckhFNzhHcXk0QWhpRHhaZkFYS25yUmRsX3ZuYS1oMF90MkY4YmhBekpRUHgwNGZUYlpkUFpmUnNqTWFfdW56ck02OW1WMjZNeXFFb2NwMGtEOGJlSEU5R3hjVGhMY29uU213eW9FbWhDd19zUDNXZXVBQ1o0MWlfb3lwTWtqOUY1T0liMEg5?oc=5",
-      "published_date": "2026-08-08T22:38:35+00:00"
-    },
-    {
-      "title": "The Argentine ambassador is leaving Brazil and the forecast is that the relationship will continue in crisis, at least until the October elections",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/politica/el-embajador-argentino-se-va-de-brasil-y-el-pronostico-es-que-la-relacion-seguira-en-crisis-al-menos-nid08082026/",
-      "published_date": "2026-08-08T22:30:55+00:00"
-    },
-    {
-      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-      "published_date": "2026-08-08T22:22:36+00:00"
-    },
-    {
-      "title": "Colombia: attack on a tollbooth attributed to Farc dissidents the day after the inauguration of the new president",
-      "source": "Le Monde France",
-      "country": "Colombia",
-      "url": "https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html",
-      "published_date": "2026-08-08T19:27:49+00:00"
-    },
-    {
-      "title": "Dutchman takes over Tour de France lead after big coup",
-      "source": "Politiken Denmark",
-      "country": "France",
-      "url": "https://politiken.dk/sport/cykling/art10940487/Holl%C3%A6nder-overtager-Tour-de-France-f%C3%B8ring-efter-stort-kup",
-      "published_date": "2026-08-08T16:25:59+00:00"
-    },
-    {
-      "title": "Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready?",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/features-and-interviews/901533-nigerias-2027-election-will-be-fought-in-the-age-of-ai-is-the-country-ready.html",
-      "published_date": "2026-08-08T16:16:04+00:00"
-    },
-    {
-      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance - nytimes.com",
-      "source": "Google News World",
-      "country": "Yemen",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnQ0d3FCSjl6MlhMSDhaY05wTEJwa0ZsVm9CUFQ4d1NfcWtPdERNM3ZIdzI4LUxITEI4TXEtdDRvNzBjdmJ6YkxoYmRna1BGTi1qOXJ3R1ZxS2QyaWxLQW9OV1JiVFhzWk1fWjNMSGJKMkU5ZmJSU2hUWjBoOFNPa2V1THduTjR5WWM0bXJuRWI2OGM?oc=5",
-      "published_date": "2026-08-08T14:57:24+00:00"
-    },
-    {
-      "title": "Elections in Brazil: Trump's disservice",
-      "source": "FAZ Germany",
-      "country": "Brazil",
-      "url": "https://www.faz.net/aktuell/politik/ausland/donald-trump-im-brasilien-wahlkampf-hilft-er-lula-201094579.html",
-      "published_date": "2026-08-08T14:05:17+00:00"
-    },
-    {
-      "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom - Al Jazeera",
-      "source": "Google News World",
-      "country": "Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdy1HZGEtU0x3MkxkNEFha2lYSmdxWFV1RldMRjNwSmhYYTI4R3pFbXRqR1hNb2wxVl9kbEdOXzZWZ0hrOThZSElvN1p6OGhPcFlaQ3Y5dmRRR2pSRkdUMnlYOFNmTE9yUHNHRTBNTTgwX09YNGpVSFltMTF2T3F1dnZjSVBGWDd0MEluQ1kwUFRVVDVOaHJwY3VMV0I4OHpPYTdmdk9YZmQzQjNER2fSAbMBQVVfeXFMTjcwS1laaURYRkF3WlRuTjhmRG9GYUpVMDdNLXpaSHBtRWpqUHJ6UkJuOFp2T2VkenlLT0lFQ1JDemhzNGJ4Q3RBWDJqNWRkTzJ1RmxIQ2t6eFB6V2o3MkhCX2c2RDNjSjduRFpWV3g3LVEwcGhDVEpKNzZ2OEVHbzBIX3k3and0R0xnWEdGT0xoRllvSFlrSlA3ZlpSZlk3SV9jSFQ5dVd0MEsxdXpTdk52NWc?oc=5",
-      "published_date": "2026-08-08T13:50:05+00:00"
-    },
-    {
-      "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-      "source": "Al Jazeera English",
-      "country": "Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-      "published_date": "2026-08-08T13:42:06+00:00"
-    },
-    {
-      "title": "Runway defect: Passengers stranded as UK airport suspends flights",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/runway-defect-passengers-stranded-as-uk-airport-suspends-flights/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-08T12:22:22+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella appointed the 18 ministers who will accompany him during his administration as the new president of Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
-      "published_date": "2026-08-08T12:14:15+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella, the new head of state of Colombia",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-abelardo-de-la-espriella-le-nouveau-chef-d-etat-de-la-colombie",
-      "published_date": "2026-08-08T11:18:47+00:00"
     }
   ]
 }
