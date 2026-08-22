@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-21T23:19:59.658767+00:00",
-    "story_count": 374,
+    "last_updated": "2026-08-22T11:23:19.758745+00:00",
+    "story_count": 367,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israel 'baited' Turkey with Abu al-Duhur airbase 'pre-election' strike, US Envoy Tom Barrack says",
+      "source": "Jerusalem Post",
+      "country": "Turkey",
+      "url": "https://www.jpost.com/middle-east/article-906241",
+      "published_date": "2026-08-22T13:04:13+00:00"
+    },
+    {
+      "title": "Facing exile and persecution, an Iranian dissident crossed from devout Muslim to student of Judaism",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-906165",
+      "published_date": "2026-08-22T12:28:21+00:00"
+    },
+    {
+      "title": "Photos: Egypt’s Prime Minister visits Tanzania to attend inauguration of Julius Nyerere Dam",
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "url": "https://www.egyptindependent.com/photos-egypts-prime-minister-visits-tanzania-to-attend-inauguration-of-julius-nyerere-dam/",
+      "published_date": "2026-08-22T08:38:02+00:00"
+    },
+    {
+      "title": "NHAI orders audits, inspections for new national highways inaugurated by PM Modi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/nhai-orders-audits-inspections-for-new-highways-after-delhi-dehradun-defects-101787377380512.html",
+      "published_date": "2026-08-22T05:43:00+00:00"
+    },
+    {
+      "title": "Bangladesh PM's early trip to India falls through, August visit possible",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bangladesh-tarique-rahman-new-delhi-india-visit-sheikh-hasina-extradition-101787356072408.html",
+      "published_date": "2026-08-22T00:51:07+00:00"
+    },
+    {
+      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+      "published_date": "2026-08-22T00:38:06+00:00"
+    },
+    {
+      "title": "Social movements begin weekly mobilization for Lula’s re-election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/movimentos-sociais-iniciam-mobilizacao-semanal-por-reeleicao-de-lula.shtml",
+      "published_date": "2026-08-21T21:30:00+00:00"
+    },
     {
       "title": "Tinubu Group begins mobilisation for 2027 re-election",
       "source": "Vanguard Nigeria",
@@ -109,6 +158,13 @@
       "published_date": "2026-08-21T16:40:40+00:00"
     },
     {
+      "title": "Power struggle in the BSW: Wagenknecht's Guardian Council",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/machtkampf-im-bsw-wie-viel-wagenknecht-haelt-eine-partei-aus-201133205.html",
+      "published_date": "2026-08-21T16:00:26+00:00"
+    },
+    {
       "title": "PPD militants announce their resignation from the party and the creation of the political movement Firmes por Chile",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -132,7 +188,7 @@
     {
       "title": "Armenia downgrades relations with Russia in new government programme",
       "source": "OC Media Caucasus",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://oc-media.org/armenia-downgrades-relations-with-russia-in-new-government-programme/",
       "published_date": "2026-08-21T11:50:56+00:00"
     },
@@ -2571,111 +2627,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-abelardo-de-la-espriella-le-nouveau-chef-d-etat-de-la-colombie",
       "published_date": "2026-08-08T11:18:47+00:00"
-    },
-    {
-      "title": "Turkey's new opposition party offers hope, but its future is already in jeopardy",
-      "source": "RFI English",
-      "country": "Turkey",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260808-turkey-s-new-opposition-party-offers-hope-but-its-future-is-already-in-jeopardy",
-      "published_date": "2026-08-08T10:20:56+00:00"
-    },
-    {
-      "title": "An appeal to President Bola Ahmed Tinubu and all Nigerians: Stop the NFF elections, please! By Segun Odegbami",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/an-appeal-to-president-bola-ahmed-tinubu-and-all-nigerians-stop-the-nff-elections-please-by-segun-odegbami/",
-      "published_date": "2026-08-08T10:03:27+00:00"
-    },
-    {
-      "title": "Weekend reads: Second gene editing death in China reported; Jason Arday’s resignation from Cambridge; Retraction Watch’s sweet 16 - Retraction Watch",
-      "source": "Google News World",
-      "country": "China",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFBzd3ZybElZNHktdjFqUDBGOHlaSXVrZElLanB1RVQ0R0ZNYkJxSVhJZEExZlVWZkJGMlJwQjl5RElmdzVmTURMZ29ZeG5la0MyaFhUNUhZdVpPWEVYRWc3SW96ZlpWLVE5Mk0yNUwtWFhLb2daekJKSGdfZWl4MEIwZmpRMlRwZjd4T0VhbHRkZUN5eUhXQmpfU2xLTHJzU3ltMWFPX0RMN01qalBTUVU0bVJwdGFkbVQwLUh2MTBFMXRXQVd5WER2TFVsYTFDRUVPblctM21yeXlhdS1Dd2hEaGh4RmRKb0dURkxuTndqNl9HdVAw?oc=5",
-      "published_date": "2026-08-08T10:00:00+00:00"
-    },
-    {
-      "title": "Cambridge students demand to have grades reviewed after professor resigns amid plagiarism row - lbc.co.uk",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0NjYXdNNmNmQWN5ZzlieFZ3Vms2aVY0RFItbndKeXVxSlI5TFZWOUYzSDB1RnlGZjByTm80QkxnS2I3TmJrQmFlQzBjQVpPbE5PWVF6SGZvcGdfQlJ2RFlpelM2ZjJObVJBdnpkTXhrd0ZxUlhIaVRPU1BlcmV3QklNanU3RlV0?oc=5",
-      "published_date": "2026-08-08T09:45:03+00:00"
-    },
-    {
-      "title": "Colombia’s new president ends dialogue, vows war on narco-terrorism",
-      "source": "The Punch Nigeria",
-      "country": "Colombia",
-      "url": "https://punchng.com/colombias-new-president-ends-dialogue-vows-war-on-narco-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-08T09:16:31+00:00"
-    },
-    {
-      "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
-      "source": "Euronews",
-      "country": "Colombia",
-      "url": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
-      "published_date": "2026-08-08T07:33:08+00:00"
-    },
-    {
-      "title": "The RN mayor of Montargis resigns, just four months after his election",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/08/le-maire-rn-de-montargis-demissionne-quatre-mois-seulement-apres-son-election_6741027_823448.html",
-      "published_date": "2026-08-08T07:30:02+00:00"
-    },
-    {
-      "title": "Russia’s only anti-war party eyes support boost at elections",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party/",
-      "published_date": "2026-08-08T06:33:00+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella: Colombia's new president goes into battle",
-      "source": "FAZ Germany",
-      "country": "Colombia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/abelardo-de-la-espriella-kolumbiens-neuer-praesident-zieht-in-den-kampf-accg-201107244.html",
-      "published_date": "2026-08-08T06:12:38+00:00"
-    },
-    {
-      "title": "Presidential candidate, Gabriel Attal files a complaint for “foreign interference” from Russia",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/france/20260808-candidat-%C3%A0-la-pr%C3%A9sidentielle-gabriel-attal-porte-plainte-pour-ing%C3%A9rence-%C3%A9trange-en-provenance-de-la-russie",
-      "published_date": "2026-08-08T05:49:13+00:00"
-    },
-    {
-      "title": "Russia’s sole anti-war party targets coming elections, favours ceasefire",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
-      "published_date": "2026-08-08T03:09:30+00:00"
-    },
-    {
-      "title": "Presidential 2027: ten years after the election of Emmanuel Macron, the candidates are betting on an “experience bonus”",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/08/presidentielle-2027-dix-ans-apres-l-election-d-emmanuel-macron-les-candidats-parient-sur-une-prime-a-l-experience_6740710_823448.html",
-      "published_date": "2026-08-08T03:00:01+00:00"
-    },
-    {
-      "title": "Until what time does the Prohibition Law extend in Colombia due to the presidential inauguration of Abelardo De La Espriella this Friday, August 7?",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hasta-que-hora-se-extiende-la-ley-seca-en-colombia-por-la-posesion-presidencial-de-abelardo-de-la-espriella-este-viernes-7-de-agosto-3576983",
-      "published_date": "2026-08-08T02:37:28+00:00"
-    },
-    {
-      "title": "State election: Frei confirms ban on cooperation with AfD for CDU in Saxony-Anhalt",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/frei-bekraeftigt-kooperationsverbot-mit-afd-fuer-cdu-in-sachsen-anhalt-201107204.html",
-      "published_date": "2026-08-07T23:38:29+00:00"
-    },
-    {
-      "title": "Trump ally de la Espriella sworn in as Colombia president",
-      "source": "The Punch Nigeria",
-      "country": "Colombia",
-      "url": "https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-07T23:20:13+00:00"
     }
   ]
 }
