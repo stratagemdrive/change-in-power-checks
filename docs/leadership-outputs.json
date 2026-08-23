@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-23T11:23:27.690082+00:00",
-    "story_count": 368,
+    "last_updated": "2026-08-23T23:17:13.803367+00:00",
+    "story_count": 376,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-missiles-ambassador-b3037670.html",
+      "published_date": "2026-08-23T21:36:34+00:00"
+    },
+    {
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
+      "published_date": "2026-08-23T19:24:00+00:00"
+    },
+    {
+      "title": "Criteria: Presidente José Antonio Kast mantiene aprobación en 35% y su desaprobación marca un 52%",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/criteria-presidente-jose-antonio-kast-mantiene-aprobacion-en-35-y-su-desaprobacion-marca-un-52/",
+      "published_date": "2026-08-23T16:09:22+00:00"
+    },
+    {
+      "title": "Ukrainian flag raised over captured settlements in Kherson region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-society/4156931-ukrainian-flag-raised-over-captured-settlements-in-kherson-region.html",
+      "published_date": "2026-08-23T15:55:00+00:00"
+    },
+    {
+      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "published_date": "2026-08-23T14:49:42+00:00"
+    },
+    {
+      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "published_date": "2026-08-23T14:48:39+00:00"
+    },
+    {
+      "title": "Hamas support plunges among Palestinians as Barghouti emerges as top Abbas successor - poll",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-906324",
+      "published_date": "2026-08-23T14:46:56+00:00"
+    },
+    {
+      "title": "Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/indira-gandhis-antakshari-games-to-narendra-modis-sabudana-khichdi-recipe-behind-pms-dining-tables-101787490658966.html",
+      "published_date": "2026-08-23T14:43:24+00:00"
+    },
+    {
+      "title": "President Zelensky says having elections in Ukraine would 'destroy the country'",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
+      "published_date": "2026-08-23T13:07:13+00:00"
+    },
+    {
       "title": "Hamas in talks with former Fatah rival Mohammed Dahlan ahead of Palestinian elections",
       "source": "Jerusalem Post",
       "country": "Palestine",
       "url": "https://www.jpost.com/middle-east/article-906310",
       "published_date": "2026-08-23T12:33:57+00:00"
+    },
+    {
+      "title": "Wartime elections would 'destroy' Ukraine, says Zelensky",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
+      "published_date": "2026-08-23T12:30:37+00:00"
     },
     {
       "title": "Ex-spy Jonathan Pollard joins Sharren Haskel's Israel First party ahead of elections",
@@ -74,6 +144,13 @@
       "published_date": "2026-08-23T12:08:03+00:00"
     },
     {
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "source": "The Guardian World",
+      "country": "Ukraine",
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "published_date": "2026-08-23T11:50:12+00:00"
+    },
+    {
       "title": "In Russia, Vladimir Putin puts the presidential party in battle order for the September legislative elections",
       "source": "Le Figaro France",
       "country": "Russia",
@@ -81,7 +158,7 @@
       "published_date": "2026-08-23T10:47:16+00:00"
     },
     {
-      "title": "French 2027 presidential election: Raphaël Glucksmann prepares to enter the ring",
+      "title": "French 2027 presidential election: Glucksmann enters the race",
       "source": "Euronews",
       "country": "France",
       "url": "http://www.euronews.com/my-europe/2026/08/23/french-2027-presidential-election-raphael-glucksmann-prepares-to-enter-the-ring",
@@ -121,6 +198,13 @@
       "country": "France",
       "url": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20262308",
       "published_date": "2026-08-23T09:57:52+00:00"
+    },
+    {
+      "title": "Zelenskyy says holding elections during war would 'destroy' Ukraine",
+      "source": "CBC News World",
+      "country": "Ukraine",
+      "url": "https://www.cbc.ca/news/world/zelenskyy-elections-destroy-ukraine-9.7317388?cmp=rss",
+      "published_date": "2026-08-23T09:41:41+00:00"
     },
     {
       "title": "Can Raphaël Glucksmann beat Jean-Luc Mélenchon in the first round of the presidential election?",
@@ -165,11 +249,25 @@
       "published_date": "2026-08-23T04:23:00+00:00"
     },
     {
+      "title": "Las alertas que deja el 'Libro de la verdad' del presidente Abelardo De La Espriella sobre la administración de Gustavo Petro",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-alertas-que-deja-el-libro-de-la-verdad-del-presidente-abelardo-de-la-espriella-sobre-la-administracion-de-gustavo-petro-3580331",
+      "published_date": "2026-08-23T03:40:00+00:00"
+    },
+    {
       "title": "Presidential election has first debate with probable absence of Lula and Flávio",
       "source": "Folha de S Paulo",
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml",
       "published_date": "2026-08-23T02:00:00+00:00"
+    },
+    {
+      "title": "Presidente da CNI elogia conversa entre Lula e Trump e pede solução técnica para tarifaço",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/presidente-da-cni-elogia-conversa-entre-lula-e-trump-e-pede-solucao-tecnica-para-tarifaco.shtml",
+      "published_date": "2026-08-22T23:19:00+00:00"
     },
     {
       "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
@@ -261,6 +359,13 @@
       "country": "Israel",
       "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
       "published_date": "2026-08-22T00:38:06+00:00"
+    },
+    {
+      "title": "Campanha de Lula avisa à Band que presidente não irá a debate",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-lula-avisa-a-band-que-presidente-nao-ira-a-debate.shtml",
+      "published_date": "2026-08-21T22:16:00+00:00"
     },
     {
       "title": "Social movements begin weekly mobilization for Lula’s re-election",
@@ -2585,55 +2690,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-905027",
       "published_date": "2026-08-10T03:50:35+00:00"
-    },
-    {
-      "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3363469/uk-pm-burnham-vows-end-subscription-traps-amid-cost-living-crisis?utm_source=rss_feed",
-      "published_date": "2026-08-09T22:08:46+00:00"
-    },
-    {
-      "title": "Abelardo de la Espriella responded to María Corina Machado for her message after the presidential inauguration in Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-respondio-a-maria-corina-machado-por-su-mensaje-tras-toma-posesion-presidencial-en-colombia/",
-      "published_date": "2026-08-09T19:01:52+00:00"
-    },
-    {
-      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-      "published_date": "2026-08-09T15:20:18+00:00"
-    },
-    {
-      "title": "French presidential candidate files lawsuit over alleged Russian interference",
-      "source": "Ukrinform",
-      "country": "France",
-      "url": "https://www.ukrinform.net/rubric-polytics/4152564-french-presidential-candidate-files-lawsuit-over-alleged-russian-interference.html",
-      "published_date": "2026-08-09T14:07:00+00:00"
-    },
-    {
-      "title": "Over 20,000 flee wildfires as British Columbia declares state of emergency",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/2026/08/09/over-20000-flee-wildfires-as-british-columbia-declares-state-of-emergency",
-      "published_date": "2026-08-09T14:03:34+00:00"
-    },
-    {
-      "title": "Ricardo Montaner's request to the new president of Colombia: \"Help Venezuela recover its freedom and democracy\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/la-peticion-de-ricardo-montaner-al-nuevo-presidente-de-colombia-ayuda-a-venezuela-a-que-recupere-su-libertad-y-su-democracia/",
-      "published_date": "2026-08-09T12:56:14+00:00"
-    },
-    {
-      "title": "Pezeshkian recently met Supreme Leader Khamenei, state media reports",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recently-met-supreme-leader-khamenei-state-media-reports",
-      "published_date": "2026-08-09T12:46:48+00:00"
     }
   ]
 }
