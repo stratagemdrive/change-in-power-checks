@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-22T23:16:47.272888+00:00",
-    "story_count": 362,
+    "last_updated": "2026-08-23T11:23:27.690082+00:00",
+    "story_count": 368,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Hamas in talks with former Fatah rival Mohammed Dahlan ahead of Palestinian elections",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-906310",
+      "published_date": "2026-08-23T12:33:57+00:00"
+    },
+    {
+      "title": "Ex-spy Jonathan Pollard joins Sharren Haskel's Israel First party ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-906303",
+      "published_date": "2026-08-23T12:08:03+00:00"
+    },
+    {
+      "title": "In Russia, Vladimir Putin puts the presidential party in battle order for the September legislative elections",
+      "source": "Le Figaro France",
+      "country": "Russia",
+      "url": "https://www.lefigaro.fr/international/poutine-met-le-parti-presidentiel-en-ordre-de-bataille-pour-les-legislatives-de-septembre-20260822",
+      "published_date": "2026-08-23T10:47:16+00:00"
+    },
+    {
+      "title": "French 2027 presidential election: Raphaël Glucksmann prepares to enter the ring",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/08/23/french-2027-presidential-election-raphael-glucksmann-prepares-to-enter-the-ring",
+      "published_date": "2026-08-23T10:46:20+00:00"
+    },
+    {
+      "title": "LIVE - Presidential election 2027: Mélenchon addresses the prefects: “We are not your friends!”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-candidats-election-universites-d-ete-jean-luc-melenchon-raphael-glucksmann-edouard-philippe-lfi-20260823",
+      "published_date": "2026-08-23T10:40:02+00:00"
+    },
+    {
+      "title": "Did electoral nervousness come early? Argentine bonds begin to incorporate risk due to the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/se-adelanto-el-nerviosismo-electoral-los-bonos-argentinos-empiezan-a-incorporar-el-riesgo-por-las-nid23082026/",
+      "published_date": "2026-08-23T10:35:13+00:00"
+    },
+    {
+      "title": "Ukraine: Zelenskyy rejects wartime elections",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-23T10:23:00+00:00"
+    },
+    {
+      "title": "War in Ukraine: elections would be “a tsunami” that would “fracture” the country, says Volodymyr Zelensky",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-elections-seraient-un-tsunami-qui-fracturerait-le-pays-affirme-volodymyr-zelensky-20260823",
+      "published_date": "2026-08-23T10:09:11+00:00"
+    },
+    {
+      "title": "2027 presidential election: what are Jean-Luc Mélenchon's chances of qualifying for the second round?",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20262308",
+      "published_date": "2026-08-23T09:57:52+00:00"
+    },
+    {
+      "title": "Can Raphaël Glucksmann beat Jean-Luc Mélenchon in the first round of the presidential election?",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/raphael-glucksmann-peut-il-devancer-jean-luc-melenchon-au-premier-tour-de-la-presidentielle-20260823",
+      "published_date": "2026-08-23T09:06:44+00:00"
+    },
+    {
+      "title": "Lula's diplomatic offensive to protect himself against an election that promises to be fierce",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-ofensiva-diplomatica-de-lula-para-blindarse-ante-una-eleccion-que-promete-ser-feroz-nid23082026/",
+      "published_date": "2026-08-23T09:00:01+00:00"
+    },
+    {
+      "title": "LIVE, war in Ukraine: Volodymyr Zelensky believes that holding elections would cause a “tsunami” that would “fracture” the country",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-qu-organiser-des-elections-provoquerait-un-tsunami-qui-fracturerait-l-ukraine_6753793_3210.html",
+      "published_date": "2026-08-23T08:24:26+00:00"
+    },
+    {
+      "title": "Putin will draft 300,000 new troops after September elections, Zelenskiy says - Reuters",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
+      "published_date": "2026-08-23T08:17:43+00:00"
+    },
+    {
+      "title": "Hussein al-Sheikh: Decision to hold Palestinian elections in November stands",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hussein-al-sheikh-decision-hold-palestinian-elections-november-stands",
+      "published_date": "2026-08-23T05:26:32+00:00"
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "source": "Deutsche Welle English",
+      "country": "China",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-23T04:23:00+00:00"
+    },
+    {
+      "title": "Presidential election has first debate with probable absence of Lula and Flávio",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml",
+      "published_date": "2026-08-23T02:00:00+00:00"
+    },
     {
       "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
       "source": "Efecto Cocuyo Venezuela",
@@ -93,13 +205,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/ausland/itamar-ben-gvir-und-die-deutsche-israel-diskussion-201137520.html",
       "published_date": "2026-08-22T15:15:46+00:00"
-    },
-    {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "source": "Deutsche Welle English",
-      "country": "China",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-22T14:42:00+00:00"
     },
     {
       "title": "PM Modi meets BJP’s newly formed team at party headquarters in Delhi",
@@ -244,7 +349,7 @@
     {
       "title": "Armenia downgrades relations with Russia in new government programme",
       "source": "OC Media Caucasus",
-      "country": "Russia",
+      "country": "Armenia",
       "url": "https://oc-media.org/armenia-downgrades-relations-with-russia-in-new-government-programme/",
       "published_date": "2026-08-21T11:50:56+00:00"
     },
@@ -2529,69 +2634,6 @@
       "country": "Iran",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recently-met-supreme-leader-khamenei-state-media-reports",
       "published_date": "2026-08-09T12:46:48+00:00"
-    },
-    {
-      "title": "Publish your assets before election, SERAP urges Tinubu, Atiku, Obi, others",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/publish-your-assets-before-election-serap-urges-tinubu-atiku-obi-others/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-09T09:47:08+00:00"
-    },
-    {
-      "title": "Colombia: two attacks after the election of the new president",
-      "source": "France 24 FR",
-      "country": "Colombia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260809-colombie-deux-attaques-apr%C3%A8s-l-%C3%A9lection-du-nouveau-pr%C3%A9sident",
-      "published_date": "2026-08-09T09:40:36+00:00"
-    },
-    {
-      "title": "Wildfires: British Columbia declares state of emergency, thousands forced to flee homes",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/wildfires-british-columbia-declares-state-of-emergency-thousands-forced-to-flee-homes",
-      "published_date": "2026-08-09T08:58:09+00:00"
-    },
-    {
-      "title": "Demi Vollering topples the Tour de France on the eve of the finish",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260809-demi-vollering-renverse-le-tour-de-france-%C3%A0-la-veille-de-l-arriv%C3%A9e",
-      "published_date": "2026-08-09T08:18:36+00:00"
-    },
-    {
-      "title": "Tens of thousands flee British Columbia wildfire as state of emergency declared",
-      "source": "The Independent UK",
-      "country": "United Kingdom",
-      "url": "https://www.independent.co.uk/news/world/americas/british-columbia-bald-range-fire-b3029919.html",
-      "published_date": "2026-08-09T07:49:50+00:00"
-    },
-    {
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "source": "BBC World",
-      "country": "Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T06:46:40+00:00"
-    },
-    {
-      "title": "Car bomb hits Colombia highway day after new president sworn in",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-      "published_date": "2026-08-09T04:32:32+00:00"
-    },
-    {
-      "title": "Missile Barrages Against Ukraine, Switching Off Crimea, Russia’s Military Reshuffle and Preparing for War in Taiwan. The Big Five, 9 August edition - Futura Doctrina | Mick Ryan",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNXhua0JrWnVFa2xFMVQwN0JPdnIwek5YSWdpdjZySGgxaFB5czJIWVRPNkI3Um1SUjdsV2c3UmdwdFZtd0t4cHhhcVI0T3FyenprQXM1Z2xQcWRDWVJYdnpCaXl3Q0hiQmpVU010cWZyQQ?oc=5",
-      "published_date": "2026-08-09T02:38:50+00:00"
-    },
-    {
-      "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
-      "source": "Japan Times",
-      "country": "United Kingdom",
-      "url": "https://www.japantimes.co.jp/environment/2026/08/09/british-columbia-emergency-wildfires/",
-      "published_date": "2026-08-09T01:04:00+00:00"
     }
   ]
 }
