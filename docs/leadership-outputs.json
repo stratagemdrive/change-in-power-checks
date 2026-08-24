@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-23T23:17:13.803367+00:00",
-    "story_count": 376,
+    "last_updated": "2026-08-24T11:30:04.400566+00:00",
+    "story_count": 380,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,83 @@
   },
   "stories": [
     {
+      "title": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
+      "published_date": "2026-08-24T11:04:32+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-08-24T10:50:52+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-08-24T10:50:42+00:00"
+    },
+    {
+      "title": "Controversies, audience records, internal rebellion... Léa Salamé's erratic year on France 2's “20 Heures”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/polemiques-records-d-audiences-fronde-interne-l-annee-erratique-de-lea-salame-au-20-heures-de-france-2-20260824",
+      "published_date": "2026-08-24T10:49:57+00:00"
+    },
+    {
+      "title": "Peru declares a state of emergency in five districts of the Ayacucho region after Thursday's earthquake",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/peru-declara-el-estado-de-emergencia-en-cinco-distritos-de-la-region-de-ayacucho-tras-el-terremoto-del-jueves/",
+      "published_date": "2026-08-24T10:14:57+00:00"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Andy Burnham, premier ministre britannique en visite à Kiev, promet de continuer à aider malgré les « scandaleuses menaces » de la Russie",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-est-a-kiev-pour-son-premier-deplacement-a-l-etranger_6753793_3210.html",
+      "published_date": "2026-08-24T09:01:10+00:00"
+    },
+    {
+      "title": "Election Berlin 2026: Which party is closest to you in the election in Berlin?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-der-wahl-o-mat-ist-jetzt-online-accg-201144358.html",
+      "published_date": "2026-08-24T09:00:00+00:00"
+    },
+    {
+      "title": "UK, Luxembourg PMs, Presidents of Moldova and Estonia, European Council Chief arrive in Kyiv",
+      "source": "Ukrinform",
+      "country": "United Kingdom",
+      "url": "https://www.ukrinform.net/rubric-polytics/4157063-uk-luxembourg-pms-presidents-of-moldova-and-estonia-european-council-chief-arrive-in-kyiv.html",
+      "published_date": "2026-08-24T07:20:00+00:00"
+    },
+    {
+      "title": "Centre-left Glucksmann enters French presidential race as left tries to unite",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260824-centre-left-glucksmann-enters-french-presidential-race-as-left-tries-to-unite",
+      "published_date": "2026-08-24T06:18:46+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: The firewall is also a protective shield for the AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zur-afd-die-brandmauer-ist-auch-ein-schutzschild-201143130.html",
+      "published_date": "2026-08-24T06:16:09+00:00"
+    },
+    {
+      "title": "EU MP: Glucksmann is running in the presidential election in France",
+      "source": "FAZ Germany",
+      "country": "France",
+      "url": "https://www.faz.net/aktuell/politik/ausland/raphael-glucksmann-kandidiert-bei-praesidentschaftswahl-in-frankreich-accg-201152972.html",
+      "published_date": "2026-08-24T04:41:11+00:00"
+    },
+    {
       "title": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
       "source": "The Independent UK",
       "country": "Russia",
@@ -67,11 +144,32 @@
       "published_date": "2026-08-23T21:36:34+00:00"
     },
     {
+      "title": "Datafolha: 50% of Brazilians see a chance of foreign interference in the elections",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-50-dos-brasileiros-veem-chance-de-interferencia-estrangeira-nas-eleicoes.shtml",
+      "published_date": "2026-08-23T21:30:00+00:00"
+    },
+    {
       "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
       "source": "Google News World",
       "country": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
       "published_date": "2026-08-23T19:24:00+00:00"
+    },
+    {
+      "title": "Peruvian government declares state of emergency in five districts of the country after earthquake",
+      "source": "La Tercera Chile",
+      "country": "Peru",
+      "url": "https://www.latercera.com/mundo/noticia/gobierno-peruano-declara-estado-de-emergencia-es-cinco-distritos-del-pais-tras-terremoto/",
+      "published_date": "2026-08-23T19:18:02+00:00"
+    },
+    {
+      "title": "Tensions with Turkey: Was Israel's attack in Syria an election maneuver?",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/war-israels-angriff-in-syrien-ein-wahlkampfmanoever-201151274.html",
+      "published_date": "2026-08-23T17:12:36+00:00"
     },
     {
       "title": "Criteria: Presidente José Antonio Kast mantiene aprobación en 35% y su desaprobación marca un 52%",
@@ -165,6 +263,13 @@
       "published_date": "2026-08-23T10:46:20+00:00"
     },
     {
+      "title": "French 2027 election: Glucksmann confirms bid - Euronews.com",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVklqZEpyaUd6R3pSSTRiRWxfSGZzdTRJWDgzZHcxUEtkcVBJZF92RUdtSW9yYjF2TnY4WXdDSmF4VlZ5SkMyeFhicjZZTFEta0JaTVJxS1F0ZVRNQlNqQk5KZnY1LWRuQW11SXZIOFRjdTNOZ0FwN1N0NS1vSGRwS1hsOW1QeGl5cV9keFljYmtiM3BuWUdFMG1vYjQtdnRzUm9yUDBHRExSYzdtVVNWRFNMRFNXQTRWblh6clk3NmdWcEE?oc=5",
+      "published_date": "2026-08-23T10:46:20+00:00"
+    },
+    {
       "title": "LIVE - Presidential election 2027: Mélenchon addresses the prefects: “We are not your friends!”",
       "source": "Le Figaro France",
       "country": "France",
@@ -244,7 +349,7 @@
     {
       "title": "Kazakhstan's future after the elections: Russia, EU or China",
       "source": "Deutsche Welle English",
-      "country": "China",
+      "country": "Russia",
       "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-08-23T04:23:00+00:00"
     },
@@ -454,7 +559,7 @@
     {
       "title": "Armenia downgrades relations with Russia in new government programme",
       "source": "OC Media Caucasus",
-      "country": "Armenia",
+      "country": "Russia",
       "url": "https://oc-media.org/armenia-downgrades-relations-with-russia-in-new-government-programme/",
       "published_date": "2026-08-21T11:50:56+00:00"
     },
@@ -2613,83 +2718,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/auditoria-de-governo-interino-do-rj-e-enviada-a-pgr-ao-citar-douglas-ruas-e-deputado-do-pl.shtml",
       "published_date": "2026-08-10T11:41:00+00:00"
-    },
-    {
-      "title": "Six Colombian rebels killed in 'message' by President Abelardo de la Espriella's new government",
-      "source": "Euronews",
-      "country": "Colombia",
-      "url": "http://www.euronews.com/2026/08/10/six-colombian-rebels-killed-in-message-by-president-abelardo-de-la-espriellas-new-governme",
-      "published_date": "2026-08-10T11:15:05+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-08-10T10:29:03+00:00"
-    },
-    {
-      "title": "Millions in Great Britain can now face emergency power cuts at short notice",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
-      "published_date": "2026-08-10T10:27:26+00:00"
-    },
-    {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-08-10T10:26:31+00:00"
-    },
-    {
-      "title": "Netanyahu eyes election base as friction with Trump grows over Gaza deal",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal",
-      "published_date": "2026-08-10T09:55:44+00:00"
-    },
-    {
-      "title": "EXCLUSIVE: Why I planned coup against Tinubu – Colonel Ma’aji",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/901830-exclusive-why-i-planned-coup-against-tinubu-colonel-maaji.html",
-      "published_date": "2026-08-10T09:42:12+00:00"
-    },
-    {
-      "title": "Who should get to vote? Plans for 70,000 Israelis abroad to fly home for election sparks debate",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905037",
-      "published_date": "2026-08-10T09:20:17+00:00"
-    },
-    {
-      "title": "After months out of public view, Iran releases undated video of Supreme Leader Mojtaba Khamenei",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-905032",
-      "published_date": "2026-08-10T08:11:40+00:00"
-    },
-    {
-      "title": "Kast presents his constitutional reform on security in La Moneda and bets on agreements with the opposition",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-presenta-en-la-moneda-su-reforma-constitucional-sobre-seguridad-y-apuesta-a-acuerdos-con-la-oposicion/",
-      "published_date": "2026-08-10T06:00:13+00:00"
-    },
-    {
-      "title": "Election campaign in the East: Sven Schulze pushes himself to the limits - and to those of the CDU",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-sven-schulze-kaempft-gegen-die-uhr-accg-201104870.html",
-      "published_date": "2026-08-10T04:16:49+00:00"
-    },
-    {
-      "title": "Netanyahu strengthens bid for prime minister, Likud overtakes Yashar! ahead of election - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905027",
-      "published_date": "2026-08-10T03:50:35+00:00"
     }
   ]
 }
