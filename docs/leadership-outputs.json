@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-24T23:19:43.016140+00:00",
-    "story_count": 364,
+    "last_updated": "2026-08-25T11:27:52.628325+00:00",
+    "story_count": 354,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "French far-right leader Marine Le Pen polling at record high ahead of 2027 election",
+      "source": "Middle East Eye",
+      "country": "France",
+      "url": "https://www.middleeasteye.net/news/french-far-right-candidate-marine-le-pen-polls-record-high-ahead-2027-election",
+      "published_date": "2026-08-25T11:13:14+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-08-25T10:22:53+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike in Paletwa kills five and injures 17, including children",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-in-paletwa-kills-five-and-injures-17-including-children/",
+      "published_date": "2026-08-25T09:21:48+00:00"
+    },
+    {
+      "title": "As elections near, Netanyahu casts Turkey as Israel’s latest enemy",
+      "source": "Egypt Independent",
+      "country": "Turkey",
+      "url": "https://www.egyptindependent.com/as-elections-near-netanyahu-casts-turkey-as-israels-latest-enemy/",
+      "published_date": "2026-08-25T09:13:18+00:00"
+    },
+    {
+      "title": "Ukrainian Forces deny Russian claim of capturing Novokostiantynivka in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4157444-ukrainian-forces-deny-russian-claim-of-capturing-novokostiantynivka-in-sumy-region.html",
+      "published_date": "2026-08-25T07:17:00+00:00"
+    },
+    {
+      "title": "Libya factions draft initial election pact amid lingering mistrust",
+      "source": "Al Jazeera English",
+      "country": "Libya",
+      "url": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
+      "published_date": "2026-08-25T06:10:49+00:00"
+    },
+    {
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown - The Guardian",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWxqdFZqcjEtTERKeDFGUURYcDNveW1QT291cHN6dk52TTZrYlNwWUlmNDhlUGMxS3d2Wlg2QlNIc1FpRDJONUZmN2N2VjA3VzdDOGM5aUwwQVpveVF3NlJwbDk0QWNsdFRUR0NqVzY1TGZlNFhqNEF6cjV6c29Sb3V4V2VDNlBZbGd1cTNQU1ZVejlPWW01dFdjVlU0V1dvaUVtTi0ySGg0YURURlljTg?oc=5",
+      "published_date": "2026-08-25T01:15:00+00:00"
+    },
+    {
+      "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+      "source": "El Nacional Venezuela",
+      "country": "Canada",
+      "url": "https://www.elnacional.com/2026/08/mark-carney-el-primer-ministro-de-canada-que-desafia-a-trump-y-acepta-pelear-en-la-guerra-comercial-con-ee-uu/",
+      "published_date": "2026-08-25T01:02:53+00:00"
+    },
+    {
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "source": "The Guardian World",
+      "country": "Colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "published_date": "2026-08-25T00:34:47+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
       "source": "La Nacion Argentina",
@@ -123,11 +186,11 @@
       "published_date": "2026-08-24T15:28:17+00:00"
     },
     {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-08-24T10:50:52+00:00"
+      "title": "Lula, Flavio Bolsonaro neck and neck ahead of Brazil election, Nexus poll shows - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnZuamthcDU1dU5zWFB0Zk5mTmlHdXhMdWpJYkNuZ2FIMUZZSVZLdm1UQmd3RlFDNi01aUg4cWljQjBpVnlvNmNRVS1wSUQ0bDI3WXFMc3FFa19Nd0JEWERubGlpSmdIb2tuaDVHdERhS1kyRm43a0Z3U2l0M3M2blNFUTJMdVhxTXZWcXNWUTNGbHRjRzNmd1RVS0JDNXk3MzBoaUE2eGJTQU90aGR4LUlmUnlaMVZZSGgyV3pR?oc=5",
+      "published_date": "2026-08-24T10:58:58+00:00"
     },
     {
       "title": "Elections: when to vote for president in Brazil 2026",
@@ -405,7 +468,7 @@
     {
       "title": "Kazakhstan's future after the elections: Russia, EU or China",
       "source": "Deutsche Welle English",
-      "country": "Russia",
+      "country": "China",
       "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-08-23T04:23:00+00:00"
     },
@@ -2473,139 +2536,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-904910",
       "published_date": "2026-08-11T12:01:58+00:00"
-    },
-    {
-      "title": "Syria: deposed president Bashar al-Assad sentenced to death in absentia",
-      "source": "Le Figaro France",
-      "country": "Syria",
-      "url": "https://www.lefigaro.fr/international/syrie-le-president-dechu-bachar-el-assad-condamne-a-la-peine-de-mort-par-contumace-20260811",
-      "published_date": "2026-08-11T10:58:26+00:00"
-    },
-    {
-      "title": "Myanmar junta airstrike kills 14 in Rakhine State’s Thandwe Township",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-14-in-rakhine-states-thandwe-township/",
-      "published_date": "2026-08-11T10:41:49+00:00"
-    },
-    {
-      "title": "Nigerian newspapers review: Why we planned coup against Tinubu – Col Ma’aji",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/nigerian-newspapers-review-why-we-planned-coup-against-tinubu-col-maaji/",
-      "published_date": "2026-08-11T10:26:36+00:00"
-    },
-    {
-      "title": "Syrian court sentences ousted leader Bashar al-Assad to death in absentia",
-      "source": "South China Morning Post",
-      "country": "Syria",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3363672/syrian-court-sentences-ousted-leader-bashar-al-assad-death-absentia?utm_source=rss_feed",
-      "published_date": "2026-08-11T09:59:58+00:00"
-    },
-    {
-      "title": "Ousted Syrian leader Bashar al-Assad sentenced to death in absentia for ‘crimes against humanity’",
-      "source": "The Independent UK",
-      "country": "Syria",
-      "url": "https://www.independent.co.uk/news/world/middle-east/bashar-al-assad-absentia-death-sentence-syria-b3030997.html",
-      "published_date": "2026-08-11T09:58:38+00:00"
-    },
-    {
-      "title": "In Iran, the new Supreme Leader is preparing the military and security apparatus for a prolonged confrontation with the United States and Israel",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/en-iran-le-nouveau-guide-supreme-prepare-l-appareil-militaire-et-securitaire-a-une-confrontation-prolongee-avec-les-etats-unis-et-israel_6743785_3210.html",
-      "published_date": "2026-08-11T09:51:18+00:00"
-    },
-    {
-      "title": "Ousted Syrian president Bashar al-Assad sentenced to death in absentia",
-      "source": "Dawn Pakistan",
-      "country": "Syria",
-      "url": "https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia",
-      "published_date": "2026-08-11T09:42:22+00:00"
-    },
-    {
-      "title": "‘One Rohingya from every household’: Myanmar junta formalises forced conscription in Rakhine State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/one-rohingya-from-every-household-myanmar-junta-formalises-forced-conscription-in-rakhine-state/",
-      "published_date": "2026-08-11T08:53:14+00:00"
-    },
-    {
-      "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-      "source": "NPR World",
-      "country": "Pakistan",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-      "published_date": "2026-08-11T08:31:41+00:00"
-    },
-    {
-      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
-      "published_date": "2026-08-11T07:16:00+00:00"
-    },
-    {
-      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-      "source": "NPR World",
-      "country": "Turkey",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-      "published_date": "2026-08-11T06:03:49+00:00"
-    },
-    {
-      "title": "Fires: state of emergency and evacuations by the thousands in western Canada, plagued by around a hundred fires",
-      "source": "Le Monde France",
-      "country": "Canada",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/11/incendies-etat-d-urgence-et-evacuations-par-milliers-dans-l-ouest-du-canada-en-proie-a-une-centaine-de-feux_6743763_3244.html",
-      "published_date": "2026-08-11T05:55:25+00:00"
-    },
-    {
-      "title": "By-election in England: Farage takes on “Count Dustbin Face”.",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nachwahl-in-clacton-farages-tritt-gegen-graf-muelleimergesicht-an-accg-201104211.html",
-      "published_date": "2026-08-11T05:24:15+00:00"
-    },
-    {
-      "title": "Russia’s Supreme Court bars last anti-war party from elections - The Washington Post",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDJEYnU0OGo1Mm8wQWZpUDNtZzNfYmZId1p6Nlltc195RnR6M3JWOG5HbG9kSnFpaEFlVlY4WnJjejFpb2dBTnpNNkxlR2NTemlJT0ZwNW1ZX1hTMUF6TnlGWHVsOXFaa2hzaWVBYWN1MXNTRXktTndkeXhLQWpBQ2dERDQzZ1JsRzY3Nnhvd04tRF9jN29SU2pzVjhWejdlbFRqM2VURjk0U25RRnR6SXAxdU5BeG02?oc=5",
-      "published_date": "2026-08-11T04:47:00+00:00"
-    },
-    {
-      "title": "Before the Duma election in Russia: an apple as a symbol of resistance",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/russland-gericht-schliesst-sozialliberale-partei-jabloko-von-wahl-aus-201111269.html",
-      "published_date": "2026-08-11T03:56:14+00:00"
-    },
-    {
-      "title": "Pleasing no one: Netanyahu puts election first with Gaza decision",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/world/politics/netanyahu-election-gaza-decision/",
-      "published_date": "2026-08-11T01:41:00+00:00"
-    },
-    {
-      "title": "A Carter-style Iran problem: How war and the economy complicate Trump's midterm elections",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/un-problema-con-iran-al-estilo-carter-como-la-guerra-y-la-economia-complican-a-trump-de-cara-a-elecciones-de-medio-mandato/",
-      "published_date": "2026-08-11T00:36:19+00:00"
-    },
-    {
-      "title": "Security agenda: Kast signs constitutional reform and the first ruling parties emerge",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/agenda-seguridad-kast-firma-reforma-constitucional-y-surgen-primeros-desmarques-oficialistas/",
-      "published_date": "2026-08-11T00:34:19+00:00"
-    },
-    {
-      "title": "Turkey’s parliament approves a pardon-like bill for thousands of PKK militants - AP News",
-      "source": "Google News World",
-      "country": "Turkey",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
-      "published_date": "2026-08-11T00:16:27+00:00"
     }
   ]
 }
