@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-25T23:22:20.622917+00:00",
-    "story_count": 345,
+    "last_updated": "2026-08-26T11:31:29.659040+00:00",
+    "story_count": 341,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,74 @@
   },
   "stories": [
     {
-      "title": "Presidente Abelardo De La Espriella designó a la exconcejal Clara Lucía Sandoval como gerente para Bogotá",
+      "title": "'He's from Muslim Brotherhood': Otzma Yehudit calls to bar Ra'am MK Abbas from Knesset elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-906636",
+      "published_date": "2026-08-26T13:18:25+00:00"
+    },
+    {
+      "title": "Ukrainian forces deny Russian claim of capturing Pysarivka in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4157867-ukrainian-forces-deny-russian-claim-of-capturing-pysarivka-in-sumy-region.html",
+      "published_date": "2026-08-26T11:21:00+00:00"
+    },
+    {
+      "title": "Collision, coup de couteau, suspect interpellé... Ce que l’on sait de l’agression au couteau d’un cycliste par un automobiliste à Paris",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/faits-divers/paris-un-automobiliste-poignarde-un-cycliste-au-cou-apres-un-differend-routier-son-pronostic-vital-engage-20260826",
+      "published_date": "2026-08-26T11:10:37+00:00"
+    },
+    {
+      "title": "Russian Election Commission Registers 1.6K War Veterans as Candidates in Upcoming Races",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/08/26/russian-election-commission-registers-16k-war-veterans-as-candidates-in-upcoming-races-a93579",
+      "published_date": "2026-08-26T10:42:00+00:00"
+    },
+    {
+      "title": "Myanmar junta tightens restrictions on transport of Chinese goods at border",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-tightens-restrictions-on-transport-of-chinese-goods-at-border/",
+      "published_date": "2026-08-26T10:17:17+00:00"
+    },
+    {
+      "title": "Nenshi urges Smith to cancel referendum on separation vote amid Canada-U.S. trade war",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/alberta/article-nenshi-urges-smith-cancel-referendum-separation-canada-us-trade-war/",
+      "published_date": "2026-08-26T09:27:39+00:00"
+    },
+    {
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown - The Guardian",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWxqdFZqcjEtTERKeDFGUURYcDNveW1QT291cHN6dk52TTZrYlNwWUlmNDhlUGMxS3d2Wlg2QlNIc1FpRDJONUZmN2N2VjA3VzdDOGM5aUwwQVpveVF3NlJwbDk0QWNsdFRUR0NqVzY1TGZlNFhqNEF6cjV6c29Sb3V4V2VDNlBZbGd1cTNQU1ZVejlPWW01dFdjVlU0V1dvaUVtTi0ySGg0YURURlljTg?oc=5",
+      "published_date": "2026-08-26T01:31:00+00:00"
+    },
+    {
+      "title": "Trump pick Darline Graham wins election despite struggling over Taiwan question",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/us/politics/article/3365262/trump-pick-darline-graham-wins-election-despite-struggling-over-taiwan-question?utm_source=rss_feed",
+      "published_date": "2026-08-26T01:25:49+00:00"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella designó a la exconcejal Clara Lucía Sandoval como gerente para Bogotá",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-designo-a-la-exconcejal-clara-lucia-sandoval-como-gerente-para-bogota-3581033",
-      "published_date": "2026-08-25T23:03:59+00:00"
+      "published_date": "2026-08-26T00:01:01+00:00"
     },
     {
-      "title": "EXCLUSIVE: Ukraine needs changes to avoid losing war, ousted defence minister says - Reuters",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5",
-      "published_date": "2026-08-25T22:49:46+00:00"
+      "title": "Parlamento Andino sesiona en Chile: miembros se reúnen con Presidente Kast y condecoran a Frei Ruiz-Tagle",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/parlamento-andino-sesiona-en-chile-miembros-se-reunen-con-presidente-kast-y-condecoran-a-frei-ruiz-tagle/",
+      "published_date": "2026-08-25T22:29:51+00:00"
     },
     {
       "title": "Sara Netanyahu verbally abused PMO employee 'daily,' lawsuit alleges",
@@ -102,11 +158,11 @@
       "published_date": "2026-08-25T18:42:28+00:00"
     },
     {
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown - The Guardian",
+      "title": "EXCLUSIVE: Ukraine needs changes to avoid losing war, ousted defence minister says - Reuters",
       "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWxqdFZqcjEtTERKeDFGUURYcDNveW1QT291cHN6dk52TTZrYlNwWUlmNDhlUGMxS3d2Wlg2QlNIc1FpRDJONUZmN2N2VjA3VzdDOGM5aUwwQVpveVF3NlJwbDk0QWNsdFRUR0NqVzY1TGZlNFhqNEF6cjV6c29Sb3V4V2VDNlBZbGd1cTNQU1ZVejlPWW01dFdjVlU0V1dvaUVtTi0ySGg0YURURlljTg?oc=5",
-      "published_date": "2026-08-25T18:33:00+00:00"
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5",
+      "published_date": "2026-08-25T15:09:00+00:00"
     },
     {
       "title": "The Kremlin is sending ‘mobilizers’ to psychology classes to help boost turnout in Russia’s elections",
@@ -2389,90 +2445,6 @@
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/contenders-in-dpk-leadership-race-make-final-push-in-televised-debate?utm_source=rss",
       "published_date": "2026-08-12T11:42:04+00:00"
-    },
-    {
-      "title": "COUP SERIES ROUND-UP: What we know about alleged failed plot against Tinubu",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/902304-coup-series-round-up-what-we-know-about-alleged-failed-plot-against-tinubu.html",
-      "published_date": "2026-08-12T09:53:18+00:00"
-    },
-    {
-      "title": "Iranian factions squabble over war aims as supreme leader maintains low profile",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/08/12/world/politics/khamenei-absence-iranian-factions/",
-      "published_date": "2026-08-12T09:37:00+00:00"
-    },
-    {
-      "title": "Zelensky foresees a new military mobilization in Russia after the parliamentary elections in September",
-      "source": "La Tercera Chile",
-      "country": "Russia",
-      "url": "https://www.latercera.com/mundo/noticia/zelenski-preve-una-nueva-movilizacion-militar-en-rusia-tras-las-elecciones-parlamentarias-de-septiembre/",
-      "published_date": "2026-08-12T09:34:15+00:00"
-    },
-    {
-      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election - NBC News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXNLVXNJbElhMkRHT3BvRmMxV2VkNHRoX21vVFlJMmI4cE9HQzN0VzRUcXdrdW1SQm4yN0c5dW8tRG9uTnZKRHZTcUdGZTZKREd2V2c3MUhSM3NvNk9GT3BHaGZ0c05zUjBmWVJsNDd0V3dtaGJJVURFZFdZZmFTSXdFYldNdXlHYTVWSENNVGpDUmp6bjFORTV1TllreHJGU0E3ME83bWlGZ3RhOGhma2UtS0hHZm5fSVhiRzRn?oc=5",
-      "published_date": "2026-08-12T09:00:41+00:00"
-    },
-    {
-      "title": "Mette Frederiksen rejects plans for a referendum on the reservation of rights",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/politik/art10943900/Mette-Frederiksen-afviser-planer-om-folkeafstemning-om-retsforbeholdet",
-      "published_date": "2026-08-12T09:00:32+00:00"
-    },
-    {
-      "title": "Fake videos and false allegations target candidates in French 2027 presidential election",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/08/12/fake-videos-and-false-allegations-target-candidates-in-french-2027-presidential-election",
-      "published_date": "2026-08-12T08:16:13+00:00"
-    },
-    {
-      "title": "Clacton by-election: Farage may win the town, but can he win the country?",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-      "published_date": "2026-08-12T08:14:07+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader elevates military veterans willing to confront the US",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/irans-supreme-leader-elevates-military-veterans-willing-to-confront-the-us/",
-      "published_date": "2026-08-12T06:39:11+00:00"
-    },
-    {
-      "title": "Earthquake response strains Colombia's new government and rescuers",
-      "source": "NPR World",
-      "country": "Colombia",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
-      "published_date": "2026-08-12T05:13:06+00:00"
-    },
-    {
-      "title": "“I suspect that this government would not sign…”: Boric's attacks on the right and Kast after evoking an agreement for the 50th anniversary of the coup d'état",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/sospecho-que-este-gobierno-no-firmaria-los-dardos-de-boric-a-la-derecha-y-a-kast-tras-evocar-acuerdo-por-los-50-anos-del-golpe-de-estado/",
-      "published_date": "2026-08-12T03:01:08+00:00"
-    },
-    {
-      "title": "UK's Count Binface, the 'joke' candidate challenging far-right Farage in Clacton by-election",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics",
-      "published_date": "2026-08-12T01:27:17+00:00"
-    },
-    {
-      "title": "Alcolumbre signals a truce with Lula and may vote to end the 6x1 after the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alcolumbre-sinaliza-tregua-com-lula-e-pode-votar-fim-da-6x1-depois-da-eleicao.shtml",
-      "published_date": "2026-08-11T23:29:00+00:00"
     }
   ]
 }
