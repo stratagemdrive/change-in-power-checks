@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-26T11:31:29.659040+00:00",
-    "story_count": 341,
+    "last_updated": "2026-08-27T04:15:35.036026+00:00",
+    "story_count": 338,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Flávio Bolsonaro records video to support Eduardo Cunha, former president of the Chamber impeached in 2016",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-grava-video-para-apoiar-eduardo-cunha-ex-presidente-da-camara-cassado-em-2016.shtml",
+      "published_date": "2026-08-27T02:16:00+00:00"
+    },
+    {
+      "title": "Groups back Yari to deliver Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/groups-back-yari-to-deliver-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-27T02:11:21+00:00"
+    },
+    {
+      "title": "Donald Trump declares a state of emergency on the electricity network, a measure which targets China without naming it",
+      "source": "Le Monde France",
+      "country": "China",
+      "url": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
+      "published_date": "2026-08-27T00:59:59+00:00"
+    },
+    {
+      "title": "Bolivian deputy accuses the Cuban G-2 and the MAS of preparing a coup d'état and sets a date for it",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-08-27-u1-e129488-s27061-nid338752-diputado-bolivia-acusa-al-g-2-cubano-al-preparar",
+      "published_date": "2026-08-27T00:32:02+00:00"
+    },
+    {
+      "title": "Ukrainians marched for a month to get Mykhailo Fedorov his job back as defense minister. Then he released a video calling for elections, and the crowds stopped coming.",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/08/26/ukrainians-marched-for-a-month-to-get-mykhailo-fedorov-his-job-back-as-defense-minister-then-he-released-a-video-calling-for-elections-and-the-crowds-stopped-coming",
+      "published_date": "2026-08-26T19:40:11+00:00"
+    },
+    {
+      "title": "Ukrainians marched for a month to get Mykhailo Fedorov his job back as defense minister. Then he released a video calling for elections, and the crowds stopped coming. - Meduza — Новости",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYmR0TUlSUUthWFl3SmVTNXlSRkZ0YTd3anBndkVmUjdtWGJUcWZQTndnaXN4RHdRZVFCNmRISm12NHB5V3M3SFB2dVdQVkdmeWc1c2dJVWxxa0xPU29zazFJVGpMMlNPTFpsUTI3anptZFhkMlJpWFpGNXJXZzJFOGxCcWpQekw0REI2UHg4blcxbF9STkJySWdQRFU3dl9vRmxQbnlNemtwVk42TjNuX1otT1hDLXFVSFVPeElVTGVsSzRkTzJtanAyd2NINkkxZzN2Tmdxal9SOFBoX0QyLWFCVFI2X045Q005RVZ4NkphdXp0Qk9pZzFMWVRzbnNZSnBhTmNROThQX2k5Qk9MbDllekZ1NGlkc1ZGcnNLcHAyaUZZbkpJeFRKLXfSAbICQVVfeXFMTnRkLWFjTmpaSkY4cGZvbW8zZHVyRzVaN2lUR2pzVjQxZEM2cHFZVm1IYUY2NDgtNk9vQmN6eGxQYnF2aHlBTEE3RXlKQnBsNUFaVEhvVUtuOVpUS3VuLXlIR1pUY1dUd0szcTJDbHdGWFN2X3BscWRPejd0Z3JNZGZlR2NtWXFCdlFVY2MzOTJhamxHLUZ1OUtUclZFdlZFRVlXY3M2VWI1NnVOTnFTRERrZW5rak1RaE1XQnVKV1IxLU1vUW9xOHhvTjNqeVM2amNrcm1FRzliaDZ5cXZ0RlB1ME1QbjhUNmViYzA1em1UZklXU2hqYnNFVVVFeFlJRW9KU1o0RTAxZk1keUNfQUdCU3pnWlVIdElvWFYzTHNWWF9DeVd3bHZJNTVqLWxjNWpB?oc=5",
+      "published_date": "2026-08-26T19:40:00+00:00"
+    },
+    {
+      "title": "United States: Donald Trump doesn't think Iran's supreme leader is dead",
+      "source": "Le Figaro France",
+      "country": "Iran",
+      "url": "https://www.lefigaro.fr/international/etats-unis-donald-trump-ne-pense-pas-que-le-guide-supreme-iranien-soit-mort-20260826",
+      "published_date": "2026-08-26T14:00:44+00:00"
+    },
     {
       "title": "'He's from Muslim Brotherhood': Otzma Yehudit calls to bar Ra'am MK Abbas from Knesset elections",
       "source": "Jerusalem Post",
@@ -79,6 +128,13 @@
       "country": "France",
       "url": "https://www.lefigaro.fr/faits-divers/paris-un-automobiliste-poignarde-un-cycliste-au-cou-apres-un-differend-routier-son-pronostic-vital-engage-20260826",
       "published_date": "2026-08-26T11:10:37+00:00"
+    },
+    {
+      "title": "Kast opens to changes in security reform after objection to new state of emergency",
+      "source": "El Nacional Venezuela",
+      "country": "Chile",
+      "url": "https://www.elnacional.com/2026/08/kast-se-abre-a-cambios-en-reforma-de-seguridad-tras-objecion-a-nuevo-estado-de-excepcion/",
+      "published_date": "2026-08-26T10:52:00+00:00"
     },
     {
       "title": "Russian Election Commission Registers 1.6K War Veterans as Candidates in Upcoming Races",
@@ -221,6 +277,13 @@
       "published_date": "2026-08-25T06:10:49+00:00"
     },
     {
+      "title": "Zema criticizes mandatory vaccination and again denies attempted coup under Bolsonaro",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/zema-critica-obrigatoriedade-de-vacinacao-e-volta-a-negar-tentativa-de-golpe-sob-bolsonaro.shtml",
+      "published_date": "2026-08-25T01:13:00+00:00"
+    },
+    {
       "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
       "source": "El Nacional Venezuela",
       "country": "Canada",
@@ -358,6 +421,13 @@
       "source": "FAZ Germany",
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zur-afd-die-brandmauer-ist-auch-ein-schutzschild-201143130.html",
+      "published_date": "2026-08-24T06:16:09+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: The firewall is also a protective shield for the AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/wahl-sachsen-anhalt-2026-die-brandmauer-ist-fuer-die-afd-auch-ein-schutzschild-201143130.html",
       "published_date": "2026-08-24T06:16:09+00:00"
     },
     {
@@ -2354,97 +2424,6 @@
       "country": "United Kingdom",
       "url": "https://www.rfi.fr/en/international/20260813-can-uk-s-hard-right-farage-bin-financial-probe-with-snap-poll",
       "published_date": "2026-08-13T05:38:47+00:00"
-    },
-    {
-      "title": "\"Doesn't the Cuban government have a heavy conscience?\": Exiled journalist on the psychological damage of the blackouts",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-08-13-u1-e208574-s27061-nid337691-al-gobierno-cubano-le-pesa-conciencia-periodista",
-      "published_date": "2026-08-13T03:32:59+00:00"
-    },
-    {
-      "title": "Farage wins UK by-election as Count Binface claims 'moral victory'",
-      "source": "RFI English",
-      "country": "United Kingdom",
-      "url": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
-      "published_date": "2026-08-13T02:26:10+00:00"
-    },
-    {
-      "title": "Reform UK's Farage and joke candidate Count Binface go head-to-head in snap election",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
-      "published_date": "2026-08-13T02:25:12+00:00"
-    },
-    {
-      "title": "China offers Colombia quake relief as new president’s US pivot leaves Beijing waiting",
-      "source": "South China Morning Post",
-      "country": "Colombia",
-      "url": "https://www.scmp.com/news/china/article/3363834/china-offers-colombia-quake-relief-new-presidents-us-pivot-leaves-beijing-waiting?utm_source=rss_feed",
-      "published_date": "2026-08-12T22:15:12+00:00"
-    },
-    {
-      "title": "They protest in Caracas to demand transparency in the negotiations between the interim government and a sector of the opposition",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/protestan-en-caracas-para-exigir-transparencia-en-las-negociaciones-entre-el-gobierno-interino-y-la-oposicion/",
-      "published_date": "2026-08-12T20:28:58+00:00"
-    },
-    {
-      "title": "Osun Election: NHRC seeks Fadahunsi’s arrest as Adeyanju writes UK, US for visa ban",
-      "source": "Vanguard Nigeria",
-      "country": "United Kingdom",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-nhrc-seeks-fadahunsis-arrest-as-adeyanju-writes-uk-us-for-visa-ban/",
-      "published_date": "2026-08-12T18:59:58+00:00"
-    },
-    {
-      "title": "Russia: Why is the Yabloko party barred from the elections?",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-12T18:37:00+00:00"
-    },
-    {
-      "title": "Why is Russia's Yabloko party barred from upcoming election?",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-12T18:37:00+00:00"
-    },
-    {
-      "title": "Lula appears with a hat in an image for the ballot box; remember photos of him in previous elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-aparece-com-chapeu-em-imagem-para-urna-relembre-fotos-dele-em-eleicoes-anteriores.shtml",
-      "published_date": "2026-08-12T17:25:00+00:00"
-    },
-    {
-      "title": "Berlin election: If the AfD becomes strong, its top candidate will be required",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-wird-die-afd-stark-ist-ihre-spitzenkandidatin-gefordert-201116602.html",
-      "published_date": "2026-08-12T16:28:27+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: “The BSW is making itself the AfD’s bedside rug”",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-in-sachsen-anhalt-sahra-wagenknecht-bleibt-mit-der-afd-im-gespraech-201118408.html",
-      "published_date": "2026-08-12T14:27:00+00:00"
-    },
-    {
-      "title": "Special counsel indicts ex-President Yoon over messages justifying martial law",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/special-counsel-indicts-ex-president-yoon-over-messages-justifying-martial-law?utm_source=rss",
-      "published_date": "2026-08-12T11:42:04+00:00"
-    },
-    {
-      "title": "Contenders in DPK leadership race make final push in televised debate",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/contenders-in-dpk-leadership-race-make-final-push-in-televised-debate?utm_source=rss",
-      "published_date": "2026-08-12T11:42:04+00:00"
     }
   ]
 }
