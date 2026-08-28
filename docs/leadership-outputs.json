@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-28T06:31:38.633788+00:00",
-    "story_count": 330,
+    "last_updated": "2026-08-28T21:23:07.637385+00:00",
+    "story_count": 324,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israeli citizens abroad push to gain voting rights for upcoming elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-906920",
+      "published_date": "2026-08-28T21:04:28+00:00"
+    },
+    {
+      "title": "Ousted Ukraine defence chief becomes adviser to Italian minister",
+      "source": "The Punch Nigeria",
+      "country": "Ukraine",
+      "url": "https://punchng.com/ousted-ukraine-defence-chief-becomes-adviser-to-italian-minister/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-28T19:47:03+00:00"
+    },
+    {
+      "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
+      "source": "Al Jazeera English",
+      "country": "Colombia",
+      "url": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss",
+      "published_date": "2026-08-28T19:26:15+00:00"
+    },
+    {
+      "title": "They left Russia to keep teaching. Now the Kremlin has blacklisted the school they built from exile.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/28/they-left-russia-to-keep-teaching-now-the-kremlin-has-blacklisted-the-school-they-built-from-exile",
+      "published_date": "2026-08-28T19:07:11+00:00"
+    },
+    {
+      "title": "Nagendra’s resignation comes as a morale booster for Karnataka BJP as it tastes first ‘political victory’ against new regime",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/resignation-comes-as-morale-booster-for-bjp-as-it-tastes-first-political-victory-against-new-regime/article71401804.ece",
+      "published_date": "2026-08-28T19:04:34+00:00"
+    },
+    {
+      "title": "2027: APC governors will deliver Tinubu’s re-election — Uzodimma",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-apc-governors-will-deliver-tinubus-re-election-uzodimma/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-28T19:03:45+00:00"
+    },
+    {
+      "title": "An exiled dissident’s wife returned to Russia for a visit. She’s now serving 10 days in jail — over a locked phone.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/28/an-exiled-dissident-s-wife-returned-to-russia-for-a-visit-she-s-now-serving-10-days-in-jail-over-a-locked-phone",
+      "published_date": "2026-08-28T18:49:34+00:00"
+    },
+    {
+      "title": "Iran's Supreme Leader bans acts that 'harm social cohesion'",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-bans-acts-harm-social-cohesion",
+      "published_date": "2026-08-28T18:48:09+00:00"
+    },
+    {
+      "title": "Russian antiwar party Yabloko removed from Kaliningrad and Sverdlovsk region elections in latest wave of court rulings",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/28/russian-antiwar-party-yabloko-removed-from-kaliningrad-and-sverdlovsk-region-elections-in-latest-wave-of-court-rulings",
+      "published_date": "2026-08-28T18:40:49+00:00"
+    },
+    {
+      "title": "Ojos de la llave: las críticas de Dávalos Bachelet contra Kast Adriasola y la sorpresa del Presidente a Ossandón",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-las-criticas-de-davalos-bachelet-contra-kast-adriasola-y-la-sorpresa-del-presidente-a-ossandon/",
+      "published_date": "2026-08-28T17:30:00+00:00"
+    },
+    {
+      "title": "'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-cannot-scare-me-with-ed-cbi-b-nagendra-slams-after-stepping-down-as-karnataka-minister-valmiki-corporation-scam-101787931718660.html",
+      "published_date": "2026-08-28T17:17:55+00:00"
+    },
+    {
+      "title": "PML-N's Syed Iftikhar Ali Gillani sworn in as new AJK prime minister",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister",
+      "published_date": "2026-08-28T17:06:18+00:00"
+    },
+    {
+      "title": "Iranians demand ‘any sign’ supreme leader is alive as he remains invisible 6 months into war",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-mojtaba-khamenei-war-b3041033.html",
+      "published_date": "2026-08-28T13:46:53+00:00"
+    },
+    {
+      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-28T12:49:00+00:00"
+    },
     {
       "title": "Gilad Erdan confirms talks with Benny Gantz on possible election alliance",
       "source": "Jerusalem Post",
@@ -88,6 +186,20 @@
       "published_date": "2026-08-28T03:00:47+00:00"
     },
     {
+      "title": "Germany’s far right taps nostalgia for communist East to propel election surge - politico.eu",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGg3TXFMZFRpZ2NsZkhmMmFUTU5BbGVJNHIzVzhNWVpqZUV5NTNWMzU2UDlHM3F1VXdCVkhicWhOVDM5dVhBeFRVZXZLRm9xeTJKM3NDem91TV9tS3NhVzVaQ2xJOThHMEkzVmo0QzUyclhDbW4wZ0E5b3JQN1Vac1hvTDlVaHgtWURYNTd4MmpsVlhzYkp2d2JDa2VWU0E?oc=5",
+      "published_date": "2026-08-28T02:25:50+00:00"
+    },
+    {
+      "title": "Lobista tem fotos ao lado de Lula e contraria o que disse presidente ao JN",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lobista-tem-fotos-ao-lado-de-lula-e-contraria-o-que-disse-presidente-ao-jn.shtml",
+      "published_date": "2026-08-28T01:47:00+00:00"
+    },
+    {
       "title": "US base dispute hangs over Japan’s Okinawa governor election",
       "source": "South China Morning Post",
       "country": "Japan",
@@ -109,6 +221,13 @@
       "published_date": "2026-08-27T20:36:20+00:00"
     },
     {
+      "title": "Presidente da federação PSDB/Cidadania se aproxima do PT em Mauá",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/presidente-da-federacao-psdbcidadania-se-aproxima-do-pt-em-maua.shtml",
+      "published_date": "2026-08-27T20:00:00+00:00"
+    },
+    {
       "title": "Nigeria’s football federation chief resigns amid corruption allegations",
       "source": "Al Jazeera English",
       "country": "Nigeria",
@@ -120,6 +239,13 @@
       "source": "France 24 English",
       "country": "France",
       "url": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections",
+      "published_date": "2026-08-27T19:12:55+00:00"
+    },
+    {
+      "title": "French presidential candidates clash at first debate before upcoming elections - France 24",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3FDSUQ0dVdYa1dPV3VfdHpCNWdtc0ZjWWZDdGQtMlNEOFpHWVNhTDk3RUZNNUpURFF5cUdtUlhOQnpoNkhLa05kU2F6QVRJSWxXSFpPekoyYzhGTWFITUlFQjl6Qzc0TlNJam1VeHM4SFJUWlpwUlpqU3JfWWtJdVRva0VGM1N6Z2pWQzRIc2xubDE0NURobzVwWGRvV2x2R2tCSVlJVk1KZEd1YUVyekJYd056RkFKRXRKZDl5dw?oc=5",
       "published_date": "2026-08-27T19:12:55+00:00"
     },
     {
@@ -214,7 +340,7 @@
       "published_date": "2026-08-27T07:02:00+00:00"
     },
     {
-      "title": "Flávio Bolsonaro records video to support Eduardo Cunha, former president of the Chamber impeached in 2016",
+      "title": "Flávio Bolsonaro grava vídeo para apoiar Eduardo Cunha, ex-presidente da Câmara cassado em 2016",
       "source": "Folha de S Paulo",
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-grava-video-para-apoiar-eduardo-cunha-ex-presidente-da-camara-cassado-em-2016.shtml",
@@ -2200,174 +2326,6 @@
       "country": "Nigeria",
       "url": "https://www.vanguardngr.com/2026/08/osun-election-every-lawful-vote-must-be-properly-recorded-tinubu-tells-inec/",
       "published_date": "2026-08-14T21:44:16+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro's coordinator wants to discuss the end of the 6x1 scale only after the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/coordenador-de-flavio-bolsonaro-quer-discutir-fim-da-escala-6x1-so-apos-eleicao.shtml",
-      "published_date": "2026-08-14T20:59:00+00:00"
-    },
-    {
-      "title": "OAS will send international mission to monitor elections in Brazil",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil",
-      "published_date": "2026-08-14T18:25:00+00:00"
-    },
-    {
-      "title": "Lula says he will only accept nomination for US ambassador after elections",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes",
-      "published_date": "2026-08-14T17:58:00+00:00"
-    },
-    {
-      "title": "Sudan Nashra: In cross-border offensive, RSF seizes Blue Nile’s Geisan, recaptures Kurmuk | Military repels major RSF attack on North Kordofan’s Gabra al-Sheikh | After clashes inside Kauda, SPLM-N-Otoro fighting spreads to nearby villages | Kordofan governor in RSF-led govt defects | Back-to-back Sudanese visits to Juba in mutual push to contain border, Abyei tensions",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/08/14/news/politics/sudan-nashra-in-cross-border-offensive-rsf-seizes-blue-niles-geisan-recaptures-kurmuk-military-repels-major-rsf-attack-on-north-kordofans-gabra-al-sheikh-after-clashes-inside/",
-      "published_date": "2026-08-14T17:41:39+00:00"
-    },
-    {
-      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
-      "published_date": "2026-08-14T16:35:45+00:00"
-    },
-    {
-      "title": "Count Binface wins hearts, if not the election, in bid to defeat Trump ally Nigel Farage in U.K. - CBS News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzcmVZalJIcWdoLW52RG44bjBsRnVIWmFwOFI3a01Fb3p4S3Z4WG15TmZCd0E0RlRtM0M4ZGxtMWJKSmlDbTczLWh5QmZia3VIZmJjdUR1T29ib0VLQmRaMF9MdWxMMmpVRHpKb21Qa3pDcVFMVl8w?oc=5",
-      "published_date": "2026-08-14T14:19:00+00:00"
-    },
-    {
-      "title": "Yabloko Appeals Russian Supreme Court Ruling Barring It From State Duma Elections",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/08/14/yabloko-appeals-russian-supreme-court-ruling-barring-it-from-state-duma-elections-a93500",
-      "published_date": "2026-08-14T13:42:07+00:00"
-    },
-    {
-      "title": "Lula still tries to vote 6x1 before the election and has another meeting with Alcolumbre",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-tem-novo-encontro-com-alcolumbre-em-meio-a-pressao-para-votar-6x1-antes-da-eleicao.shtml",
-      "published_date": "2026-08-14T13:34:00+00:00"
-    },
-    {
-      "title": "Farage's election victory: circus of vanity",
-      "source": "FAZ Germany",
-      "country": "United Kingdom",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nigel-farage-hat-einen-pfeiler-der-demokratie-ins-laecherliche-gezogen-201126614.html",
-      "published_date": "2026-08-14T13:06:01+00:00"
-    },
-    {
-      "title": "As foreign elections shape Israel’s alliances, Jerusalem seeks to control the diplomatic whiplash",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-905487",
-      "published_date": "2026-08-14T12:29:40+00:00"
-    },
-    {
-      "title": "Video: Israel inaugurates new illegal settlement in Jenin",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-inaugurates-new-illegal-settlement-jenin",
-      "published_date": "2026-08-14T11:24:39+00:00"
-    },
-    {
-      "title": "Osun election must be free, fair, Tinubu charges INEC ahead of Saturday poll",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/osun-election-must-be-free-fair-tinubu-charges-inec-ahead-of-saturday-poll/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-14T11:16:18+00:00"
-    },
-    {
-      "title": "UK: Farage wins controversial by-election",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election",
-      "published_date": "2026-08-14T10:29:22+00:00"
-    },
-    {
-      "title": "Cuban soldier asked the resignation of Fidel and Raúl Castro in a meeting and sentenced him to 20 years in prison",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-08-14-u1-e192519-s27061-nid337732-militar-cubano-pidio-renuncia-fidel-raul-castro",
-      "published_date": "2026-08-14T10:29:03+00:00"
-    },
-    {
-      "title": "Myanmar junta airstrike kills eight family members in southern Rakhine State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-eight-family-members-in-southern-rakhine-state/",
-      "published_date": "2026-08-14T10:28:40+00:00"
-    },
-    {
-      "title": "Ebola in DR Congo, French agent pardoned in Mali, presidential election in Zambia: Africa Weekly",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/afrique/20260814-ebola-en-rd-congo-agent-fran%C3%A7ais-graci%C3%A9-au-mali-pr%C3%A9sidentielle-en-zambie-l-hebdo-afrique",
-      "published_date": "2026-08-14T09:37:01+00:00"
-    },
-    {
-      "title": "UK far-right leader Farage re-elected in boycotted by-election",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
-      "published_date": "2026-08-14T09:24:24+00:00"
-    },
-    {
-      "title": "UN atrocity report adds friction to Myanmar junta’s diplomatic push for legitimacy",
-      "source": "South China Morning Post",
-      "country": "Myanmar",
-      "url": "https://www.scmp.com/week-asia/politics/article/3364049/un-atrocity-report-adds-friction-myanmar-juntas-diplomatic-push-legitimacy?utm_source=rss_feed",
-      "published_date": "2026-08-14T08:58:50+00:00"
-    },
-    {
-      "title": "Mali junta pardons French agent jailed for 'undermining state security'",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/africa/20260814-mali-junta-pardons-french-agent-jailed-for-undermining-state-security-yann-v%C3%A9zilier",
-      "published_date": "2026-08-14T08:25:16+00:00"
-    },
-    {
-      "title": "Election in France: When Russian disinformation suddenly becomes an advantage",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-frankreich-wenn-russische-desinformation-ploetzlich-zum-vorteil-wird-accg-201118262.html",
-      "published_date": "2026-08-14T08:17:23+00:00"
-    },
-    {
-      "title": "Farage wins Clacton by-election, defeats rival Count Binface",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/farage-wins-clacton-by-election-defeats-rival-count-binface/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-14T07:41:39+00:00"
-    },
-    {
-      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected - The New York Times",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1RsbUtMSUxsbnlDRV9kOElMeUZ5QURmWV9HSC1vR3VwLXBZTGxFYzVzZFBydnZpT3NuSjhnazNmclY0X2ZPaWRtcG9nZE5jY3NmMEZhSkVMSF8zTzNaWWIzMXBHTm84TllTRm16bS1hVG9NVkxYSlRkTGhfZllDR2Q5eW9xYXVVbnE4QkhrU3U1cThzWE1jTA?oc=5",
-      "published_date": "2026-08-14T07:35:29+00:00"
-    },
-    {
-      "title": "Karina Milei inaugurated the libertarian premises for the Province and Pareja is already talking about Santilli as a candidate",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
-      "published_date": "2026-08-14T06:54:19+00:00"
-    },
-    {
-      "title": "Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
-      "published_date": "2026-08-14T06:34:35+00:00"
     }
   ]
 }
