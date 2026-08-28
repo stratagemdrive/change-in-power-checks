@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-27T21:00:09.724896+00:00",
-    "story_count": 335,
+    "last_updated": "2026-08-28T06:31:38.633788+00:00",
+    "story_count": 330,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Gilad Erdan confirms talks with Benny Gantz on possible election alliance",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-906871",
+      "published_date": "2026-08-28T06:15:53+00:00"
+    },
+    {
+      "title": "Editor's Notes: October 7 shattered Israel’s old political map, next election may redraw it",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-906844",
+      "published_date": "2026-08-28T05:58:13+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader remains unseen 6 months after war began",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3365550/irans-supreme-leader-remains-unseen-6-months-after-war-began?utm_source=rss_feed",
+      "published_date": "2026-08-28T05:43:39+00:00"
+    },
+    {
+      "title": "PML-N fields ‘fresh face’ for AJK PM election today",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2025625/pml-n-fields-fresh-face-for-ajk-pm-election-today",
+      "published_date": "2026-08-28T03:00:47+00:00"
+    },
+    {
+      "title": "US base dispute hangs over Japan’s Okinawa governor election",
+      "source": "South China Morning Post",
+      "country": "Japan",
+      "url": "https://www.scmp.com/week-asia/politics/article/3365458/us-base-dispute-hangs-over-japans-okinawa-governor-election?utm_source=rss_feed",
+      "published_date": "2026-08-28T00:00:12+00:00"
+    },
+    {
+      "title": "Putin plans to interfere in elections in EU countries — CCD",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4158084-putin-plans-to-interfere-in-elections-in-eu-countries-ccd.html",
+      "published_date": "2026-08-27T21:37:00+00:00"
+    },
+    {
+      "title": "They captured alias Páez, leader of the Aragua Train in Peru, in Bogotá",
+      "source": "El Nacional Venezuela",
+      "country": "Peru",
+      "url": "https://www.elnacional.com/2026/08/capturan-en-bogota-a-alias-paez-cabecilla-del-tren-de-aragua-en-peru/",
+      "published_date": "2026-08-27T20:36:20+00:00"
+    },
     {
       "title": "Nigeria’s football federation chief resigns amid corruption allegations",
       "source": "Al Jazeera English",
@@ -95,7 +144,7 @@
       "published_date": "2026-08-27T18:00:08+00:00"
     },
     {
-      "title": "Foundation linked to PT launches book about 10 years of Dilma's impeachment",
+      "title": "Fundação ligada ao PT lança livro sobre 10 anos do impeachment de Dilma",
       "source": "Folha de S Paulo",
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/fundacao-ligada-ao-pt-lanca-livro-sobre-10-anos-do-impeachment-de-dilma.shtml",
@@ -2319,90 +2368,6 @@
       "country": "United Kingdom",
       "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
       "published_date": "2026-08-14T06:34:35+00:00"
-    },
-    {
-      "title": "Russian Navy officer who defected from Ukraine killed by hidden bin bomb in Crimea, officials say",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-navy-officer-bin-bomb-crimea-b3032936.html",
-      "published_date": "2026-08-14T06:16:41+00:00"
-    },
-    {
-      "title": "Russian Navy officer who defected from Ukraine killed by hidden bin bomb in Crimea, officials say - The Independent",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTAtdVNmZXBOUnB0Sk96VUF5TU90cTV6c2dWdzRVRmxlTXJuSkpYQzNnVFQ1RU9VTnVKb0xLX25rbTFDclIxZkFVamVQUlJNeWFxTDVkR0VLRldsWE9sYm11dDFGQnFTdk5rbjJCcWRaSmI0eGtoYVRnZUtQcGV2RmVCeGpFSWxNbE9GYjNKT2dGSkZCQ1g5STk0VW94UQ?oc=5",
-      "published_date": "2026-08-14T06:16:00+00:00"
-    },
-    {
-      "title": "Farage wins UK by-election as investigation into undeclared €5.8m gift resumes",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/2026/08/14/farage-wins-uk-by-election-to-return-to-parliament",
-      "published_date": "2026-08-14T05:39:02+00:00"
-    },
-    {
-      "title": "Nigel Farage wins a by-election for a seat in the British Parliament",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/nigel-farage-vinder-suppleringsvalg-om-plads-i-det-britiske-parlament",
-      "published_date": "2026-08-14T05:22:04+00:00"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "source": "CBC News World",
-      "country": "United Kingdom",
-      "url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss",
-      "published_date": "2026-08-14T04:51:39+00:00"
-    },
-    {
-      "title": "The economy, Milei's only challenge in the elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/opinion/la-economia-el-unico-desafio-de-milei-en-las-elecciones-nid14082026/",
-      "published_date": "2026-08-14T03:05:00+00:00"
-    },
-    {
-      "title": "Partial legislative election in the United Kingdom: Nigel Farage re-elected against candidate Tête-de-bubelle",
-      "source": "France 24 FR",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire",
-      "published_date": "2026-08-14T02:53:12+00:00"
-    },
-    {
-      "title": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’ - The Guardian",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzVaMzNiOUpnV0xuS1VEYVhWeFlBd2EzN29yWGpIY09GejhodS1VRXRKSmZ6SlBaa3NtalJ0Tk5QTHVVNU9kUWJyQWZjZUhFZk9GemRZTGpfRk03Z09GcGh1MEtkLUo1UHlmXzlyeUJrRUhjXzhQT3ptcmVOd0FJSUVpM0hBMS1rZjVjc0pQTml1eldPVnQtTVBQelBqVmZheWJmZ2p3?oc=5",
-      "published_date": "2026-08-14T02:05:00+00:00"
-    },
-    {
-      "title": "Israeli defence minister inaugurates new illegal settlement in Jenin",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-inaugurates-new-illegal-settlement-jenin",
-      "published_date": "2026-08-13T22:46:35+00:00"
-    },
-    {
-      "title": "WATCH: 'I know how to act responsibly': Smotrich outlines election strategy, plan to draft haredim",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905489",
-      "published_date": "2026-08-13T22:39:19+00:00"
-    },
-    {
-      "title": "Clacton by-election polls close as Farage bids to become MP again - BBC",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ST3RSMFdQb25lRzFLT0ZFdW9BX0xidlJMY3RBX2pjUHhCRnVMWDZscVFpLTAyZDNSelU4TlM4RFotN2U0Rzg3YWtYT1BjM21fN2ctR0NlRlA4dw?oc=5",
-      "published_date": "2026-08-13T21:06:27+00:00"
-    },
-    {
-      "title": "Polls close in UK by-election with Nigel Farage and Count Binface going head-to-head",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/08/13/reform-uk-leader-nigel-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
-      "published_date": "2026-08-13T21:05:42+00:00"
     }
   ]
 }
