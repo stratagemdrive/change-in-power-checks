@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-29T04:02:54.706148+00:00",
-    "story_count": 325,
+    "last_updated": "2026-08-29T15:33:17.732264+00:00",
+    "story_count": 329,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece",
+      "published_date": "2026-08-29T13:59:16+00:00"
+    },
+    {
+      "title": "Nigeria’s solar expansion not captured in official data – Report",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/906141-nigerias-solar-expansion-not-captured-in-official-data-report.html",
+      "published_date": "2026-08-29T13:13:17+00:00"
+    },
+    {
+      "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar - CNBC",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnBScDB0NHZoem1ucncyUTRSQ3B6cjdvanVrUms4R2Z2WGxTZlVoaGFjMzVKblRDQ0piaUNLWDM5eS0yOUlGUTlkU3o0QW1UUmpNUWxGS3V2LW9ZeHNpQ2hLa09jOVR1Mmp0VDlVcEg2YXNIc2Z4Uzk4SWVXTC1xVkV30gGHAUFVX3lxTFA1RTVxa25KSmtyOWp0M0hlM0N0NmRFRHAxcTZJcVFBTU1pcV9hZS1sZVdDaWFJZ2dSTHdndkhTaHNzVk9LdUczWTczbXpHNW45ekdyTjVLMkV3UkdEZGZReFR1MDBmWHFjcDFjUTV3NXdmNzQzMndWVG1Cd1lRMWJ1Vl82Yk9Wdw?oc=5",
+      "published_date": "2026-08-29T12:06:01+00:00"
+    },
+    {
+      "title": "Before the state elections: The CDU/CSU now applies: Open your eyes and get through it!",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/rente-haushalt-wahl-in-sachsen-anhalt-jederzeit-kann-in-der-koalition-ein-sprengsatz-hochgehen-accg-201160670.html",
+      "published_date": "2026-08-29T11:40:30+00:00"
+    },
+    {
+      "title": "Voters set to go to the polls in three by-elections across Canada",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-voters-set-to-go-to-the-polls-in-three-by-elections-across-canada/",
+      "published_date": "2026-08-29T10:30:00+00:00"
+    },
+    {
+      "title": "Rodrigo Álvarez: “Espero que el Presidente Kast conforme una gran coalición que permita una proyección del gobierno”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/rodrigo-alvarez-espero-que-el-presidente-kast-conforme-una-gran-coalicion-que-permita-una-proyeccion-del-gobierno/",
+      "published_date": "2026-08-29T10:00:01+00:00"
+    },
+    {
+      "title": "Serbia keeps EU, Russia in play ahead of key election",
+      "source": "Deutsche Welle English",
+      "country": "Russia",
+      "url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-08-29T07:19:00+00:00"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella revela video con su esposa caminando en la Casa de Nariño: 'un significado profundo'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-revela-video-con-su-esposa-caminando-en-la-casa-de-narino-un-significado-profundo-3582029",
       "published_date": "2026-08-29T03:51:53+00:00"
+    },
+    {
+      "title": "Iran’s disfigured supreme leader remains invisible six months into an existential war",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/08/29/world/politics/iran-leader-missing-six-months-war/",
+      "published_date": "2026-08-29T03:16:00+00:00"
     },
     {
       "title": "APC govs’ll secure Tinubu’s  re-election, says Uzodinma",
@@ -2305,34 +2361,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
       "published_date": "2026-08-15T15:56:33+00:00"
-    },
-    {
-      "title": "Kherson Regional Council warns of risk of large-scale mobilization in occupied territories after 'State Duma elections'",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4154424-kherson-regional-council-warns-of-risk-of-largescale-mobilization-in-occupied-territories-after-state-duma-elections.html",
-      "published_date": "2026-08-15T13:31:00+00:00"
-    },
-    {
-      "title": "Informe alerta sobre los riesgos de una estrategia militar de línea dura ante la llegada del nuevo presidente de Colombia",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/08/informe-alerta-sobre-los-riesgos-de-una-estrategia-militar-de-linea-dura-ante-la-llegada-del-nuevo-presidente-de-colombia/",
-      "published_date": "2026-08-15T13:16:16+00:00"
-    },
-    {
-      "title": "Don’t give up on elections; 97-year-old voter urges Nigerians",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/dont-give-up-on-elections-97-year-old-voter-urges-nigerians/",
-      "published_date": "2026-08-15T10:56:46+00:00"
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
-      "source": "Google News World",
-      "country": "Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-      "published_date": "2026-08-15T09:34:00+00:00"
     }
   ]
 }
