@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-28T21:23:07.637385+00:00",
-    "story_count": 324,
+    "last_updated": "2026-08-29T04:02:54.706148+00:00",
+    "story_count": 325,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,27 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidente Abelardo De La Espriella revela video con su esposa caminando en la Casa de Nariño: 'un significado profundo'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-revela-video-con-su-esposa-caminando-en-la-casa-de-narino-un-significado-profundo-3582029",
+      "published_date": "2026-08-29T03:51:53+00:00"
+    },
+    {
+      "title": "APC govs’ll secure Tinubu’s  re-election, says Uzodinma",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/apc-govsll-secure-tinubus-re-election-says-uzodinma/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-08-29T02:00:21+00:00"
+    },
+    {
+      "title": "Kast raises the tone for his commitment to security and points out that the constitutional reform can be “modified and improved”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-sube-el-tono-por-su-apuesta-en-seguridad-y-apunta-que-la-reforma-constitucional-puede-ser-modificada-y-mejorada/",
+      "published_date": "2026-08-28T21:10:16+00:00"
+    },
     {
       "title": "Israeli citizens abroad push to gain voting rights for upcoming elections",
       "source": "Jerusalem Post",
@@ -310,6 +331,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/campanha-de-flavio-bolsonaro-reforca-estrategia-digital-e-avalia-tv-propria-24-horas-ate-o-fim-da-eleicao.shtml",
       "published_date": "2026-08-27T13:00:00+00:00"
+    },
+    {
+      "title": "Taiwan parliament rejects government military drone plan, passes own version - Reuters",
+      "source": "Google News World",
+      "country": "Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE95bnY0eU9Zcl96RjUwMlJyOEpVZTZoUXY0R1RqNlNMZjk5UEh3S2xmTUF1RFVlUmlDVG1IakpvaXIyV2hFb1BkSDNzd1k0NmxpTGo2NThwRXhYYVFxeW5jUWloTGZzMGhlbUFBQ0FQSzRwRHJVelZHQUZ4RmVjeHRES2k0YkN4SjkteWNteUJic1ZscmQySG1FLUdOaUFrYUZyTjZyaXhWVmp3NzhsUFFFV2dFMHRfMmpFLWhB?oc=5",
+      "published_date": "2026-08-27T10:54:19+00:00"
     },
     {
       "title": "Fighting intensifies as resistance forces attack Myanmar junta flotilla headed for Shwegu",
@@ -2305,27 +2333,6 @@
       "country": "Indonesia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
       "published_date": "2026-08-15T09:34:00+00:00"
-    },
-    {
-      "title": "The lie of apartheid: The 2026 Israel election is a display of the country's diversity - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-905394",
-      "published_date": "2026-08-14T22:04:32+00:00"
-    },
-    {
-      "title": "Meta alertó a la PDI y fue detenida: mujer formalizada por amenazas al Presidente Kast queda con arraigo y firma mensual",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/meta-alerto-a-la-pdi-y-fue-detenida-mujer-formalizada-por-amenazas-al-presidente-kast-queda-con-arraigo-y-firma-mensual/",
-      "published_date": "2026-08-14T21:53:57+00:00"
-    },
-    {
-      "title": "Osun Election: Every lawful vote must be properly recorded – Tinubu tells INEC",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-every-lawful-vote-must-be-properly-recorded-tinubu-tells-inec/",
-      "published_date": "2026-08-14T21:44:16+00:00"
     }
   ]
 }
