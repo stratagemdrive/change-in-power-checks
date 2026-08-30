@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-29T15:33:17.732264+00:00",
-    "story_count": 329,
+    "last_updated": "2026-08-30T01:00:15.392995+00:00",
+    "story_count": 333,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
+      "source": "South China Morning Post",
+      "country": "North Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
+      "published_date": "2026-08-29T23:54:52+00:00"
+    },
+    {
+      "title": "LIVE - Presidential Election 2027: Jordan Bardella refutes any “disloyalty” towards Le Pen, but accepts his own “sensitivity”",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jordan-bardella-fait-sa-rentree-politique-a-la-foire-de-chalons-ce-samedi-le-patron-du-ps-olivier-faure-sous-pression-20260829",
+      "published_date": "2026-08-29T20:52:02+00:00"
+    },
+    {
+      "title": "‘We’re back in control’ – Russia helps Niger junta to retake military base",
+      "source": "Vanguard Nigeria",
+      "country": "Russia",
+      "url": "https://www.vanguardngr.com/2026/08/breaking-russia-helps-niger-junta-to-retake-military-base/",
+      "published_date": "2026-08-29T20:12:51+00:00"
+    },
+    {
+      "title": "OPC declares support for Tinubu’s re-election bid",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/08/opc-declares-support-for-tinubus-re-election-bid/",
+      "published_date": "2026-08-29T18:58:08+00:00"
+    },
+    {
+      "title": "Presidential election 2027: primary, pensions, 1968 agreement with Algeria... In Sens, François Hollande tests his chances against Édouard Philippe",
+      "source": "Le Figaro France",
+      "country": "Algeria",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-primaire-retraites-accord-de-1968-avec-l-algerie-a-sens-francois-hollande-teste-ses-chances-face-a-edouard-philippe-20260829",
+      "published_date": "2026-08-29T18:43:22+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Jean-Luc Mélenchon declines, Raphaël Glucksmann progresses, according to a survey",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-recule-raphael-glucksmann-progresse-selon-un-sondage-20260829",
+      "published_date": "2026-08-29T18:39:12+00:00"
+    },
+    {
+      "title": "Jara emplaza a Kast por eventual participación en foro de Madrid: “Tiene que decidir si es Presidente de todos los chilenos”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/jara-emplaza-a-kast-por-eventual-participacion-en-foro-de-madrid-tiene-que-decidir-si-es-presidente-de-todos-los-chilenos/",
+      "published_date": "2026-08-29T17:29:52+00:00"
+    },
+    {
+      "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
+      "published_date": "2026-08-29T16:24:45+00:00"
+    },
+    {
+      "title": "After arrest for coup plotting, the number of military and police candidates drops, but is higher than pre-Bolsonaro",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/apos-prisao-por-golpismo-numero-de-candidatos-militares-e-policiais-cai-mas-e-maior-que-no-pre-bolsonaro.shtml",
+      "published_date": "2026-08-29T15:00:00+00:00"
+    },
     {
       "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "source": "The Hindu Politics",
@@ -72,6 +135,13 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/news/top-news/906141-nigerias-solar-expansion-not-captured-in-official-data-report.html",
       "published_date": "2026-08-29T13:13:17+00:00"
+    },
+    {
+      "title": "Presidente de Colombia ordena deportaciones a migrantes",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/08/presidente-de-colombia-ordena-deportaciones-a-migrantes/",
+      "published_date": "2026-08-29T12:37:39+00:00"
     },
     {
       "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar - CNBC",
@@ -109,11 +179,11 @@
       "published_date": "2026-08-29T07:19:00+00:00"
     },
     {
-      "title": "Presidente Abelardo De La Espriella revela video con su esposa caminando en la Casa de Nariño: 'un significado profundo'",
+      "title": "Presidente Abelardo De La Espriella comparte video con su esposa caminando en la Casa de Nariño: 'Un significado profundo'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-revela-video-con-su-esposa-caminando-en-la-casa-de-narino-un-significado-profundo-3582029",
-      "published_date": "2026-08-29T03:51:53+00:00"
+      "published_date": "2026-08-29T04:22:51+00:00"
     },
     {
       "title": "Iran’s disfigured supreme leader remains invisible six months into an existential war",
@@ -2319,48 +2389,6 @@
       "country": "Colombia",
       "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
       "published_date": "2026-08-16T05:39:51+00:00"
-    },
-    {
-      "title": "Kremlin hardens rejection of negotiations with Ukraine ahead of State Duma elections — ISW",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4154377-kremlin-hardens-rejection-of-negotiations-with-ukraine-ahead-of-state-duma-elections-isw.html",
-      "published_date": "2026-08-15T23:33:00+00:00"
-    },
-    {
-      "title": "Iran denounces the detention of three fighter pilots by Qatar which denies having captured them",
-      "source": "Le Monde France",
-      "country": "Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
-      "published_date": "2026-08-15T22:48:14+00:00"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets - BBC",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMnYxWlJhWl9nQUFJdHhDT24yYXdkSkY3OVZ1V004ckdPNVdseV9xVm8wa3NfazZ3YTAxQ0xyNkEtRktxWDVxLXU3VE5iaTZlWVpKaTNIVDJaZw?oc=5",
-      "published_date": "2026-08-15T21:03:57+00:00"
-    },
-    {
-      "title": "Osun election: Adeleke raises alarm, calls on Tinubu to ensure votes count",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-adeleke-raises-alarm-calls-on-tinubu-to-ensure-votes-count/",
-      "published_date": "2026-08-15T18:56:04+00:00"
-    },
-    {
-      "title": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2023001/ajk-elections-ppp-pml-n-candidates-retain-lead-in-bagh-after-repolling",
-      "published_date": "2026-08-15T16:49:13+00:00"
-    },
-    {
-      "title": "FA elections: Yeomans reinforces ideas of his candidacy and aims to build a party that is an alternative to Kast",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
-      "published_date": "2026-08-15T15:56:33+00:00"
     }
   ]
 }
