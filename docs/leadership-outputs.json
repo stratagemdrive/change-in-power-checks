@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-30T01:00:15.392995+00:00",
-    "story_count": 333,
+    "last_updated": "2026-08-30T15:15:39.693889+00:00",
+    "story_count": 332,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,123 @@
   },
   "stories": [
     {
+      "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
+      "published_date": "2026-08-30T14:59:07+00:00"
+    },
+    {
+      "title": "RSF officials accused of atrocities met with Israeli officials during Sudan civil war - report",
+      "source": "Jerusalem Post",
+      "country": "Sudan",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-907011",
+      "published_date": "2026-08-30T13:51:34+00:00"
+    },
+    {
+      "title": "Cabinet reshuffle in Seoul: President Lee tries to break free",
+      "source": "FAZ Germany",
+      "country": "South Korea",
+      "url": "https://www.faz.net/aktuell/politik/ausland/lee-jae-myung-kabinettsumbau-in-suedkorea-als-befreiungsschlag-accg-201172426.html",
+      "published_date": "2026-08-30T13:47:27+00:00"
+    },
+    {
+      "title": "Iran's supreme leader calls on Muslim countries to unite against the United States and Israel",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-de-iran-llama-a-paises-musulmanes-a-unirse-frente-a-estados-unidos-e-israel/",
+      "published_date": "2026-08-30T12:22:19+00:00"
+    },
+    {
+      "title": "Haaretz: Army concerned Netanyahu escalating West Bank tensions before elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/haaretz-army-concerned-netanyahu-escalating-west-bank-tensions-elections",
+      "published_date": "2026-08-30T12:22:16+00:00"
+    },
+    {
+      "title": "Azerbaijani regime ‘trying to break’ opposition leader by denying him safe water in prison, family warn",
+      "source": "The Independent UK",
+      "country": "Azerbaijan",
+      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-karimli-prison-baku-aliyev-b3029690.html",
+      "published_date": "2026-08-30T12:21:37+00:00"
+    },
+    {
+      "title": "Ukrainian forces deny Russian claims of capturing Velykyi Prykil and Sadky in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4159138-ukrainian-forces-deny-russian-claims-of-capturing-velykyi-prykil-and-sadky-in-sumy-region.html",
+      "published_date": "2026-08-30T12:18:00+00:00"
+    },
+    {
+      "title": "Tinubu begins three-week leave, Presidency mum on Shettima as acting president",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/906278-breaking-tinubu-begins-three-week-leave-presidency-mum-on-shettima-as-acting-president.html",
+      "published_date": "2026-08-30T11:13:18+00:00"
+    },
+    {
+      "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
+      "published_date": "2026-08-30T10:51:00+00:00"
+    },
+    {
+      "title": "French presidential elections 2027: the battle of the left is launched",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-pr%C3%A9sidentielles-fran%C3%A7aises-2027-la-bataille-des-gauches-est-lanc%C3%A9e",
+      "published_date": "2026-08-30T10:07:23+00:00"
+    },
+    {
+      "title": "Niger: junta thwarts mutiny with help from Russia",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-niger-la-junte-d%C3%A9joue-une-mutinerie-avec-l-aide-de-la-russie",
+      "published_date": "2026-08-30T09:32:41+00:00"
+    },
+    {
+      "title": "The Istiqlal Party unveils the key promises of its program for the legislative elections of September 23",
+      "source": "Le Desk Morocco",
+      "country": "Morocco",
+      "url": "https://ledesk.ma/2026/08/30/le-parti-de-listiqlal-devoile-les-promesses-phares-de-son-programme-pour-les-legislatives-du-23-septembre/",
+      "published_date": "2026-08-30T07:10:16+00:00"
+    },
+    {
+      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "source": "The Guardian World",
+      "country": "Sudan",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "published_date": "2026-08-30T06:00:48+00:00"
+    },
+    {
+      "title": "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/punjab-aap-activist-gurpreet-singh-gopi-shot-dead-near-ferozpur-cops-suspect-old-dispute-elections-as-motive-101788062091320.html",
+      "published_date": "2026-08-30T04:01:37+00:00"
+    },
+    {
+      "title": "Niger: Soldiers' uprising suppressed with Russian help",
+      "source": "FAZ Germany",
+      "country": "Russia",
+      "url": "https://www.faz.net/aktuell/politik/ausland/aufstand-in-niger-russland-hilft-bei-niederschlagung-accg-201171568.html",
+      "published_date": "2026-08-30T01:19:16+00:00"
+    },
+    {
       "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
       "source": "South China Morning Post",
       "country": "North Korea",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
       "published_date": "2026-08-29T23:54:52+00:00"
+    },
+    {
+      "title": "“R15”, one of the leaders of a faction of the Tren de Aragua in Chile, is captured in Lima",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/capturan-en-lima-a-r15-uno-de-los-lideres-de-una-faccion-del-tren-de-aragua-en-chile/",
+      "published_date": "2026-08-29T22:54:30+00:00"
     },
     {
       "title": "LIVE - Presidential Election 2027: Jordan Bardella refutes any “disloyalty” towards Le Pen, but accepts his own “sensitivity”",
@@ -2270,125 +2382,6 @@
       "country": "Iran",
       "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
       "published_date": "2026-08-16T15:40:26+00:00"
-    },
-    {
-      "title": "Iranian army chief places $30,000 bounty on killed, captured US soldiers",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/article-905660",
-      "published_date": "2026-08-16T14:05:28+00:00"
-    },
-    {
-      "title": "How a Jewish ex-police probes chief could revive Mansour Abbas as Israeli Arab kingmaker - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905648",
-      "published_date": "2026-08-16T12:54:03+00:00"
-    },
-    {
-      "title": "Escalating conflicts point to Netanyahu smelling elections",
-      "source": "Politiken Denmark",
-      "country": "Israel",
-      "url": "https://politiken.dk/internationalt/art10948549/Eskalerende-konflikter-peger-p%C3%A5-at-Netanyahu-lugter-valg",
-      "published_date": "2026-08-16T12:05:43+00:00"
-    },
-    {
-      "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
-      "published_date": "2026-08-16T11:27:57+00:00"
-    },
-    {
-      "title": "2027: Gov Adeleke reaffirms support for Tinubu’s re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/2027-gov-adeleke-reaffirms-support-for-tinubus-re-election/",
-      "published_date": "2026-08-16T11:09:20+00:00"
-    },
-    {
-      "title": "Marcel, one year after his resignation: “I don't regret (having been in Boric's government), because I feel like I managed to make a difference”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/marcel-a-un-ano-de-su-renuncia-no-me-arrepiento-de-haber-estado-en-el-gobierno-de-boric-porque-siento-que-logre-hacer-una-diferencia/",
-      "published_date": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel, demands to investigate",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-905628",
-      "published_date": "2026-08-16T10:54:45+00:00"
-    },
-    {
-      "title": "Brazil election: Lula and the new face of Bolsonaro's right",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
-      "published_date": "2026-08-16T10:46:32+00:00"
-    },
-    {
-      "title": "Iranian parliament votes to further criminalize interviews with ‘hostile media’",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/08/16/world/iran-foreign-media-laws/",
-      "published_date": "2026-08-16T10:07:00+00:00"
-    },
-    {
-      "title": "The fall of young support for Milei: the disenchantment that could complicate his re-election",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/mundo/noticia/la-caida-del-apoyo-joven-a-milei-el-desencanto-que-puede-complicar-su-reeleccion/",
-      "published_date": "2026-08-16T10:00:00+00:00"
-    },
-    {
-      "title": "Jackson's bet and Boric's absence in the FA's internal election",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/la-apuesta-de-jackson-y-la-ausencia-de-boric-en-la-eleccion-interna-del-fa/",
-      "published_date": "2026-08-16T10:00:00+00:00"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "source": "BBC World",
-      "country": "Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T09:27:58+00:00"
-    },
-    {
-      "title": "How the opposition strengthened the defense of the vote and why the CIA document would not reveal anything new about the elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/como-la-oposicion-fortalecio-la-defensa-del-voto-y-por-que-el-documento-de-la-cia-no-revelaria-nada-nuevo-sobre-las-elecciones-en-venezuela/",
-      "published_date": "2026-08-16T07:00:00+00:00"
-    },
-    {
-      "title": "Protests for Fedorov: How Zelensky defused a political crisis",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/federow-proteste-wie-selenskyj-eine-krise-entschaerft-hat-accg-201129244.html",
-      "published_date": "2026-08-16T06:33:37+00:00"
-    },
-    {
-      "title": "Protests for Fedorov: How Zelensky defused a political crisis",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/wie-selenskyj-die-krise-um-den-entlassenen-verteidigungsminister-entschaerft-hat-accg-201129244.html",
-      "published_date": "2026-08-16T06:33:37+00:00"
-    },
-    {
-      "title": "A nation divided: What do Israelis want in October’s elections?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
-      "published_date": "2026-08-16T06:06:31+00:00"
-    },
-    {
-      "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-      "source": "France 24 English",
-      "country": "Colombia",
-      "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
-      "published_date": "2026-08-16T05:39:51+00:00"
     }
   ]
 }
