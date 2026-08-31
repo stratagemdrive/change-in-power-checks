@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-30T15:15:39.693889+00:00",
-    "story_count": 332,
+    "last_updated": "2026-08-31T01:06:30.211931+00:00",
+    "story_count": 331,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Senator Ted Cruz: \"There must be free and democratic elections in Venezuela\"",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/08/senador-ted-cruz-tiene-que-haber-elecciones-libres-y-democraticas-en-venezuela/",
+      "published_date": "2026-08-30T21:16:18+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
+      "published_date": "2026-08-30T20:23:00+00:00"
+    },
+    {
+      "title": "How are Gazan gangs affecting the strip amid Israel, US election cycles? - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/article-907062",
+      "published_date": "2026-08-30T20:02:41+00:00"
+    },
+    {
+      "title": "French presidential race: De Villepin set to run, Faure enters socialist primary",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/08/30/french-presidential-race-de-villepin-set-to-run-faure-enters-socialist-primary",
+      "published_date": "2026-08-30T18:26:25+00:00"
+    },
+    {
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "source": "BBC World",
+      "country": "Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T16:33:17+00:00"
+    },
+    {
+      "title": "UNSMIL welcomes signing of agreement on Libya’s electoral framework and next steps towards national elections",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/08/unsmil-welcomes-signing-of-agreement-on-libyas-electoral-framework-and-next-steps-towards-national-elections/",
+      "published_date": "2026-08-30T16:21:00+00:00"
+    },
+    {
+      "title": "Smile, tracksuit and “V” for victory: deposed Venezuelan president Nicolas Maduro publishes his very first photos from prison",
+      "source": "Le Figaro France",
+      "country": "Venezuela",
+      "url": "https://www.lefigaro.fr/international/sourire-survetement-et-v-de-la-victoire-le-president-venezuelien-dechu-nicolas-maduro-publie-ses-toutes-premieres-photos-depuis-sa-prison-20260830",
+      "published_date": "2026-08-30T15:42:32+00:00"
+    },
+    {
+      "title": "Niger junta puts down mutiny with help from Russia's Africa Corps",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
+      "published_date": "2026-08-30T15:20:01+00:00"
+    },
     {
       "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
       "source": "The Hindu Politics",
@@ -79,6 +135,13 @@
       "country": "South Korea",
       "url": "https://www.faz.net/aktuell/politik/ausland/lee-jae-myung-kabinettsumbau-in-suedkorea-als-befreiungsschlag-accg-201172426.html",
       "published_date": "2026-08-30T13:47:27+00:00"
+    },
+    {
+      "title": "Presidential election 2027: Jean-Luc Mélenchon declines, Raphaël Glucksmann progresses, according to a survey",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-recule-raphael-glucksmann-progresse-selon-un-sondage-20260829",
+      "published_date": "2026-08-30T12:46:52+00:00"
     },
     {
       "title": "Iran's supreme leader calls on Muslim countries to unite against the United States and Israel",
@@ -121,6 +184,13 @@
       "country": "Iran",
       "url": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
       "published_date": "2026-08-30T10:51:00+00:00"
+    },
+    {
+      "title": "Germany's Kremlin-friendly AfD eyes historic election win - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVlSSWU4Rmxvald1Vzl4dEJKalJ6dUs1cjM5c1h0aWUyS1dYREx3aXJDYzA3QWhoVGVicDBYVGRmZmotcDNVYTFtV21GWkRSQTJwWXNRYVlnZjBhTDFhSUhCY3hIeEhnSWdjTjRXWG5qSmtRZld0bE10VWFHN01tUzBCQkxzbHBMQ2p6Tm9R?oc=5",
+      "published_date": "2026-08-30T10:46:37+00:00"
     },
     {
       "title": "French presidential elections 2027: the battle of the left is launched",
@@ -205,13 +275,6 @@
       "country": "Algeria",
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-primaire-retraites-accord-de-1968-avec-l-algerie-a-sens-francois-hollande-teste-ses-chances-face-a-edouard-philippe-20260829",
       "published_date": "2026-08-29T18:43:22+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Jean-Luc Mélenchon declines, Raphaël Glucksmann progresses, according to a survey",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-recule-raphael-glucksmann-progresse-selon-un-sondage-20260829",
-      "published_date": "2026-08-29T18:39:12+00:00"
     },
     {
       "title": "Jara emplaza a Kast por eventual participación en foro de Madrid: “Tiene que decidir si es Presidente de todos los chilenos”",
@@ -2312,76 +2375,6 @@
       "country": "Iran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
       "published_date": "2026-08-17T02:55:01+00:00"
-    },
-    {
-      "title": "“We have to live up to it”: Boric's message after Yeomans' victory in the Frente Amplio elections",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/tenemos-que-estar-a-la-altura-el-mensaje-de-boric-tras-triunfo-de-yeomans-en-elecciones-del-frente-amplio/",
-      "published_date": "2026-08-16T23:48:35+00:00"
-    },
-    {
-      "title": "Trump administration official accuses Brazil of censorship after X changes algorithm for election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/autoridade-do-governo-trump-acusa-brasil-de-censura-apos-x-alterar-algoritmo-para-eleicao.shtml",
-      "published_date": "2026-08-16T21:50:00+00:00"
-    },
-    {
-      "title": "Likud Party threatens Central Elections Committee petition over Fly&Vote initiative",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-905700",
-      "published_date": "2026-08-16T21:01:34+00:00"
-    },
-    {
-      "title": "Arab-Israeli activist Yoseph Haddad enters politics with new party ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905705",
-      "published_date": "2026-08-16T20:56:02+00:00"
-    },
-    {
-      "title": "Likud election billboard puts Mamdani alongside Erdogan, Khamenei, and Qassem as Israel's enemies",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-905696",
-      "published_date": "2026-08-16T19:17:24+00:00"
-    },
-    {
-      "title": "2027: Why I’m supporting Tinubu for re-election — Adeleke",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-why-im-supporting-tinubu-for-re-election-adeleke/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-16T19:09:50+00:00"
-    },
-    {
-      "title": "Iran offers $30,000 reward for capturing or killing US soldiers",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/iran-ofrece-recompensa-de-30-mil-dolares-por-capturar-o-matar-a-soldados-estadounidenses/",
-      "published_date": "2026-08-16T17:22:18+00:00"
-    },
-    {
-      "title": "Iran offers US$30,000 bounty for killing or capturing US soldiers",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364216/iran-offers-us30000-bounty-killing-or-capturing-us-soldiers?utm_source=rss_feed",
-      "published_date": "2026-08-16T17:12:43+00:00"
-    },
-    {
-      "title": "Parisi harshens criticism of Kast: he accuses that “he has no leadership” and rules out PDG support for constitutional reform",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/parisi-rechaza-reforma-constitucional-por-plan-cancerbero-no-se-necesita/",
-      "published_date": "2026-08-16T17:10:39+00:00"
-    },
-    {
-      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
-      "source": "France 24 English",
-      "country": "Iran",
-      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
-      "published_date": "2026-08-16T15:40:26+00:00"
     }
   ]
 }
