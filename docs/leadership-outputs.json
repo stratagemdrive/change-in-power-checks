@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-01T01:35:58.511132+00:00",
-    "story_count": 327,
+    "last_updated": "2026-09-01T15:27:48.603626+00:00",
+    "story_count": 329,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Smotrich, former Likud MK Feiglin to announce joint run in October elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907259",
+      "published_date": "2026-09-01T17:53:42+00:00"
+    },
+    {
+      "title": "Israel Election 2026: What do Yousef Jabareen’s Joint Arab List and Mansour Abbas’ Ra’am stand for?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907154",
+      "published_date": "2026-09-01T15:40:54+00:00"
+    },
+    {
+      "title": "By-election wins show of support for Ottawa’s plans on trade, economy, Carney says",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-us-canada-trade-negotiations-september-1/",
+      "published_date": "2026-09-01T15:16:12+00:00"
+    },
+    {
+      "title": "Niger's thwarted mutiny highlights junta's dependence on Russia",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/africa/20260901-what-russia-helping-niger-junta-stop-mutiny-means-for-its-sovereignty",
+      "published_date": "2026-09-01T15:16:08+00:00"
+    },
+    {
+      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html",
+      "published_date": "2026-09-01T14:55:48+00:00"
+    },
+    {
+      "title": "IDF strikes Gaza as Hamas official captured in reported raid by Israel-backed militia; 3 said killed - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbk55YVVYVURtbmdEZHJTT25uMVZILTN4Q0ZvYWVCWFNxWnl0all6bTdFaHFianpyNFVaUVpYeXF4dGgtVWYxSlZ5RVFDcEZHVF9aQ3pGYVZfY252bkVmalFFVW52RVVETjUzMWVPVU52U2R2VllJaVNzSDd0b1dla2w3STJPd01pQjdlRndnT3htam1weGtKTWVHUFBBQUdsaU5aS19KM0pGb3hjZVR2SnRIWGl0SWFZcGZrVENYR1RZYTVad3JLYnFB0gHPAUFVX3lxTE9qLVhYZll1bExqY2VicE9xaWtIMmJPZGQ3ZWlLeWNNbTlaLVYtbHllVURzY1FlbnZNNUJGSEpfSUFDX1Z6Yi1LX1dYQlFKSEs5elVzRmlleEY2a3ZySVE3U3dkZEotdHktc3pmakRQRVhxMWpqZ1ZRT1NvMlB3eWZtSHdLeFM2R3BUQmJjcWNZeGN5WnMwOXRCck9JM1FNQVdoTEJZUHhhN2RkT01MVl9WQ0hTZGhVcWdXTDJPWno3Q1ZfLThnYk1uOWIxUGgzRQ?oc=5",
+      "published_date": "2026-09-01T14:26:15+00:00"
+    },
+    {
+      "title": "Saskatchewan Conservative MP Cathay Wagantall resigns from House of Commons",
+      "source": "Globe and Mail Politics",
+      "country": "United Kingdom",
+      "url": "https://www.theglobeandmail.com/canada/article-saskatchewan-conservative-mp-cathay-wagantall-resigns/",
+      "published_date": "2026-09-01T14:03:22+00:00"
+    },
+    {
+      "title": "Presidential election 2027: sovereignism and air conditioning, the two pillars of Marine Le Pen and the RN to fight against climate change",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/01/presidentielle-2027-souverainisme-et-air-conditionne-les-deux-piliers-de-marine-le-pen-et-du-rn-pour-lutter-contre-le-dereglement-climatique_6763489_4355770.html",
+      "published_date": "2026-09-01T14:00:36+00:00"
+    },
+    {
+      "title": "Ousted UK PM Keir Starmer quits parliament to focus on international affairs",
+      "source": "Dawn Pakistan",
+      "country": "United Kingdom",
+      "url": "https://www.dawn.com/news/2026639/ousted-uk-pm-keir-starmer-quits-parliament-to-focus-on-international-affairs",
+      "published_date": "2026-09-01T13:08:46+00:00"
+    },
+    {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
+      "published_date": "2026-09-01T12:46:00+00:00"
+    },
+    {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+      "published_date": "2026-09-01T12:00:57+00:00"
+    },
+    {
+      "title": "Keir Starmer resigns from the British Parliament",
+      "source": "DR News Denmark",
+      "country": "United Kingdom",
+      "url": "https://www.dr.dk/nyheder/seneste/keir-starmer-traekker-sig-fra-det-britiske-parlament",
+      "published_date": "2026-09-01T11:42:16+00:00"
+    },
+    {
+      "title": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/trump-russia-finance-minister-exile-b3042610.html",
+      "published_date": "2026-09-01T11:18:29+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: Which alliances are mobilizing against the AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-zivile-buendnisse-mobilisieren-kampagnen-gegen-die-afd-accg-201143931.html",
+      "published_date": "2026-09-01T08:53:37+00:00"
+    },
+    {
+      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+      "published_date": "2026-09-01T07:42:50+00:00"
+    },
+    {
+      "title": "Carney’s Liberals win 3 special elections in Canada amid trade clash with US",
+      "source": "South China Morning Post",
+      "country": "Canada",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365941/carneys-liberals-win-3-canada-special-elections-amid-trade-clash-us?utm_source=rss_feed",
+      "published_date": "2026-09-01T06:25:01+00:00"
+    },
     {
       "title": "Kim Yong-beom, presidential chief of staff for policy, resigns: Cheong Wa Dae",
       "source": "Korea Times",
@@ -100,6 +212,13 @@
       "country": "United Kingdom",
       "url": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
       "published_date": "2026-08-31T18:07:20+00:00"
+    },
+    {
+      "title": "Russia cements its role as Africa junta protector after helping quell Niger’s mutiny - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcl9tZkZ1V2VyX3gzVENzVU1ZQnczZlE1SlA3VkxSTUVuVVBDWDkzOGhFWHN5MUtYaE03VGhvMTBPMGwzZ1UwZUJHNmNFbk4wdS1IN0JtTVdDeWg1d1pfZFUydnBrTnVkVkRVa1NhdUQyMEN1SEVuNzFjb0wybk9FaHZCZDVLbGtId1FqVDBRZ3VDTExrYWlIZ0owM1lzdVE?oc=5",
+      "published_date": "2026-08-31T17:08:00+00:00"
     },
     {
       "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
@@ -146,7 +265,7 @@
     {
       "title": "Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis - NBC News",
       "source": "Google News World",
-      "country": "Israel",
+      "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYS1tS2ZLMnlhZDdzQ1pBMkRvZUhZMWxPYTZvWFhTZ2xaRUVCRzFVaDJyTWpEQkJLTFh4dThZTVVFMUNBaEZUSUNXR214OXhvUkh5YV9sNEMzdVRURzBpUEtvT3ZvYjZJeVZ1RlRZZFd4OXFGR29TeE5ucGVjS29lSGxHTmdYbkxlRk1CSFQxeUQ3RjFScmxIdHJEQ1JmZnZ4ZVdyUmk2N0ZHVjAyT0ZNSXlMekFWa1E?oc=5",
       "published_date": "2026-08-31T14:07:57+00:00"
     },
@@ -2242,111 +2361,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/rebelion-parlamentaria-reforma-de-seguridad-de-kast-no-convence-al-oficialismo/",
       "published_date": "2026-08-18T17:30:00+00:00"
-    },
-    {
-      "title": "Occupied West Bank: Palestinian Christians increasingly consider exile",
-      "source": "France 24 FR",
-      "country": "Palestine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260818-cisjordanie-occup%C3%A9e-les-chr%C3%A9tiens-palestiniens-envisagent-de-plus-en-plus-l-exil",
-      "published_date": "2026-08-18T15:16:41+00:00"
-    },
-    {
-      "title": "Edouard Philippe and the strategy of rallies, first stage of his campaign to counter the RN in the 2027 presidential election",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/18/edouard-philippe-et-la-strategie-des-ralliements-premiere-etape-de-sa-campagne-pour-contrer-le-rn-a-la-presidentielle-2027_6749066_823448.html",
-      "published_date": "2026-08-18T14:34:40+00:00"
-    },
-    {
-      "title": "Myanmar junta airstrike kills four near Pinlebu after BNRA commanders escape custody",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-four-near-pinlebu-after-bnra-commanders-escape-custody/",
-      "published_date": "2026-08-18T12:07:25+00:00"
-    },
-    {
-      "title": "Shehu Sani defends Governor Adeleke’s gratitude, endorsement of Tinubu for reelection",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/903760-shehu-sani-defends-governor-adelekes-gratitude-endorsement-of-tinubu-for-reelection.html",
-      "published_date": "2026-08-18T11:14:53+00:00"
-    },
-    {
-      "title": "Israel Election 2026: What does Bezalel Smotrich’s Religious Zionist Party stand for?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-905686",
-      "published_date": "2026-08-18T11:12:37+00:00"
-    },
-    {
-      "title": "Somali army repels troups loyal to ousted leader and Islamist insurgents",
-      "source": "France 24 English",
-      "country": "Somalia",
-      "url": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
-      "published_date": "2026-08-18T10:02:18+00:00"
-    },
-    {
-      "title": "In Russia, the Supreme Court blocks the country's only anti-war party from running in the next elections",
-      "source": "Le Monde France",
-      "country": "Russia",
-      "url": "https://www.lemonde.fr/international/video/2026/08/18/en-russie-la-cour-supreme-empeche-le-seul-parti-antiguerre-du-pays-a-se-presenter-aux-prochaines-elections_6748939_3210.html",
-      "published_date": "2026-08-18T09:41:39+00:00"
-    },
-    {
-      "title": "Syria sentences to death detained cousin of ousted president Assad",
-      "source": "France 24 English",
-      "country": "Syria",
-      "url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
-      "published_date": "2026-08-18T09:24:46+00:00"
-    },
-    {
-      "title": "Russia’s Central Election Commission removes anti-war Yabloko party from the ballot. The ballot now jumps from No. 1 (United Russia) to No. 3 (LDPR).",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/18/russia-s-central-election-commission-removes-anti-war-yabloko-party-from-the-ballot-the-ballot-now-jumps-from-no-1-united-russia-to-no-3-ldpr",
-      "published_date": "2026-08-18T09:17:17+00:00"
-    },
-    {
-      "title": "Syria sentences Wassim al-Assad, cousin of ousted president, to death",
-      "source": "France 24 FR",
-      "country": "Syria",
-      "url": "https://www.france24.com/fr/moyen-orient/20260818-la-syrie-condamne-%C3%A0-mort-wassim-al-assad-cousin-de-l-ex-pr%C3%A9sident",
-      "published_date": "2026-08-18T09:16:10+00:00"
-    },
-    {
-      "title": "BJP announces leaders in-charge for Assembly elections in U.P., Punjab, and Gujarat",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/bjp-announces-poll-in-charges-for-assembly-elections-in-up-punjab-and-gujarat/article71359143.ece",
-      "published_date": "2026-08-18T08:55:27+00:00"
-    },
-    {
-      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-      "published_date": "2026-08-18T08:05:42+00:00"
-    },
-    {
-      "title": "Top British scientist steps down from WHO",
-      "source": "The Telegraph UK",
-      "country": "United Kingdom",
-      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/top-uk-scientist-steps-down-from-who/",
-      "published_date": "2026-08-18T07:23:15+00:00"
-    },
-    {
-      "title": "Trump leans on India’s election playbook in push to change how Americans vote",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364400/trump-leans-indias-election-playbook-push-change-how-americans-vote?utm_source=rss_feed",
-      "published_date": "2026-08-18T06:49:55+00:00"
-    },
-    {
-      "title": "There was an imminent risk of a coup, says former FAB commander in the Bolsonaro government",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/houve-risco-iminente-de-golpe-diz-ex-comandante-da-fab-no-governo-bolsonaro.shtml",
-      "published_date": "2026-08-18T02:58:00+00:00"
     }
   ]
 }
