@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-08-31T17:57:32.924381+00:00",
-    "story_count": 324,
+    "last_updated": "2026-09-01T01:35:58.511132+00:00",
+    "story_count": 327,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,46 @@
   },
   "stories": [
     {
+      "title": "Kim Yong-beom, presidential chief of staff for policy, resigns: Cheong Wa Dae",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260901/kim-yong-beom-presidential-chief-of-staff-for-policy-resigns-cheong-wa-dae?utm_source=rss",
+      "published_date": "2026-09-01T01:32:03+00:00"
+    },
+    {
+      "title": "Bullying mayor ousted as Japan’s voters reject political abuse",
+      "source": "South China Morning Post",
+      "country": "Japan",
+      "url": "https://www.scmp.com/week-asia/politics/article/3365858/bullying-mayor-ousted-japans-voters-reject-political-abuse?utm_source=rss_feed",
+      "published_date": "2026-09-01T00:00:12+00:00"
+    },
+    {
+      "title": "SURVEY | Marine Le Pen leads the French presidential race and would win in all second round scenarios",
+      "source": "El Nacional Venezuela",
+      "country": "France",
+      "url": "https://www.elnacional.com/2026/08/encuesta-marine-le-pen-lidera-la-carrera-presidencial-francesa-y-ganaria-en-todos-los-escenarios-de-segunda-vuelta/",
+      "published_date": "2026-08-31T22:31:42+00:00"
+    },
+    {
+      "title": "Russia’s only antiwar party loses three more candidates to court rulings, the latest blow before parliamentary elections",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/08/31/russia-s-only-antiwar-party-loses-three-more-candidates-to-court-rulings-the-latest-blow-before-parliamentary-elections",
+      "published_date": "2026-08-31T20:41:50+00:00"
+    },
+    {
       "title": "Finland's Israel policy might be driven by upcoming elections, expert tells 'Post' - interview",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/article-907166",
       "published_date": "2026-08-31T19:57:14+00:00"
+    },
+    {
+      "title": "Andrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
+      "published_date": "2026-08-31T18:07:20+00:00"
     },
     {
       "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
@@ -109,6 +144,13 @@
       "published_date": "2026-08-31T14:41:04+00:00"
     },
     {
+      "title": "Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis - NBC News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYS1tS2ZLMnlhZDdzQ1pBMkRvZUhZMWxPYTZvWFhTZ2xaRUVCRzFVaDJyTWpEQkJLTFh4dThZTVVFMUNBaEZUSUNXR214OXhvUkh5YV9sNEMzdVRURzBpUEtvT3ZvYjZJeVZ1RlRZZFd4OXFGR29TeE5ucGVjS29lSGxHTmdYbkxlRk1CSFQxeUQ3RjFScmxIdHJEQ1JmZnZ4ZVdyUmk2N0ZHVjAyT0ZNSXlMekFWa1E?oc=5",
+      "published_date": "2026-08-31T14:07:57+00:00"
+    },
+    {
       "title": "Presidential election 2027: the RN wants to “sanction” the wearing of the veil with “a fine”",
       "source": "France 24 FR",
       "country": "France",
@@ -132,7 +174,7 @@
     {
       "title": "Spain PM blames Russia, Israel for Ceuta migrant crisis’ disinformation",
       "source": "South China Morning Post",
-      "country": "Russia",
+      "country": "Israel",
       "url": "https://www.scmp.com/news/world/europe/article/3365881/spain-pm-blames-russia-israel-ceuta-migrant-crisis-disinformation?utm_source=rss_feed",
       "published_date": "2026-08-31T13:39:12+00:00"
     },
@@ -165,18 +207,18 @@
       "published_date": "2026-08-31T04:13:59+00:00"
     },
     {
+      "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
+      "published_date": "2026-08-31T02:43:00+00:00"
+    },
+    {
       "title": "Senator Ted Cruz: \"There must be free and democratic elections in Venezuela\"",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/08/senador-ted-cruz-tiene-que-haber-elecciones-libres-y-democraticas-en-venezuela/",
       "published_date": "2026-08-30T21:16:18+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
-      "published_date": "2026-08-30T20:23:00+00:00"
     },
     {
       "title": "How are Gazan gangs affecting the strip amid Israel, US election cycles? - analysis",
@@ -2305,27 +2347,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/houve-risco-iminente-de-golpe-diz-ex-comandante-da-fab-no-governo-bolsonaro.shtml",
       "published_date": "2026-08-18T02:58:00+00:00"
-    },
-    {
-      "title": "2027: Oyebanji rallies Ekiti APC for Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-oyebanji-rallies-ekiti-apc-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-17T19:35:18+00:00"
-    },
-    {
-      "title": "UK mission praises Osun voters, urges lessons from election",
-      "source": "The Punch Nigeria",
-      "country": "United Kingdom",
-      "url": "https://punchng.com/uk-mission-praises-osun-voters-urges-lessons-from-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-17T19:12:55+00:00"
-    },
-    {
-      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-      "published_date": "2026-08-17T18:46:12+00:00"
     }
   ]
 }
