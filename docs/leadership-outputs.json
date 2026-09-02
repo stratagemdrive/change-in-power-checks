@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-01T15:27:48.603626+00:00",
-    "story_count": 329,
+    "last_updated": "2026-09-02T00:47:25.984682+00:00",
+    "story_count": 333,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,116 @@
   },
   "stories": [
     {
-      "title": "Smotrich, former Likud MK Feiglin to announce joint run in October elections",
+      "title": "Minister of Security opens up to RN formula to save constitutional reform: “We did not fall in love with our idea”",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/politica/noticia/ministro-de-seguridad-se-abre-a-formula-de-rn-para-salvar-reforma-constitucional-no-nos-enamoramos-de-nuestra-idea/",
+      "published_date": "2026-09-02T00:35:57+00:00"
+    },
+    {
+      "title": "Rubio assures that the oil agreement seeks to recover Venezuela and prepare conditions for democratic elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/rubio-asegura-que-acuerdo-petrolero-busca-recuperar-venezuela-y-preparar-condiciones-para-elecciones-democraticas/",
+      "published_date": "2026-09-02T00:28:01+00:00"
+    },
+    {
+      "title": "Obi meets Canadian High Commissioner to strengthen ties ahead of elections",
+      "source": "Vanguard Nigeria",
+      "country": "Canada",
+      "url": "https://www.vanguardngr.com/2026/09/obi-meets-canadian-high-commissioner-to-strengthen-ties-ahead-of-elections/",
+      "published_date": "2026-09-01T21:28:29+00:00"
+    },
+    {
+      "title": "Registrar Hernán Penagos will be head of mission of UNIORE for the October 4 elections in Brazil",
+      "source": "El Tiempo Colombia",
+      "country": "Brazil",
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/registrador-hernan-penagos-sera-jefe-de-mision-de-observacion-electoral-de-uniore-para-las-elecciones-del-4-de-octubre-en-brasil-3582758",
+      "published_date": "2026-09-01T21:06:25+00:00"
+    },
+    {
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T20:24:28+00:00"
+    },
+    {
+      "title": "Putin meets Pashinyan for the first time since Armenia’s latest election and asks him to choose soon: the EU or the EAEU",
+      "source": "Meduza EN",
+      "country": "Armenia",
+      "url": "https://meduza.io/en/news/2026/09/01/putin-meets-pashinyan-for-the-first-time-since-armenia-s-latest-election-and-asks-him-to-choose-soon-the-eu-or-the-eaeu",
+      "published_date": "2026-09-01T19:43:02+00:00"
+    },
+    {
+      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/ee-uu-defiende-acuerdo-petrolero-como-paso-necesario-para-elecciones-en-venezuela/",
+      "published_date": "2026-09-01T19:22:27+00:00"
+    },
+    {
+      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/eeuu-defiende-el-acuerdo-petrolero-como-un-paso-necesario-para-elecciones-en-venezuela/",
+      "published_date": "2026-09-01T19:05:49+00:00"
+    },
+    {
+      "title": "In Israel, the right, threatened with defeat in the legislative elections, is tearing itself apart and becoming radicalized",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/en-israel-la-droite-menacee-de-defaite-aux-legislatives-se-dechire-et-se-radicalise_6763524_3210.html",
+      "published_date": "2026-09-01T18:45:08+00:00"
+    },
+    {
+      "title": "United Kingdom: Andy Burnham, in his first speech to Parliament as head of government, promises greater state control over essential services",
+      "source": "Le Monde France",
+      "country": "United Kingdom",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/royaume-uni-andy-burnham-dans-son-premier-discours-au-parlement-comme-chef-du-gouvernement-promet-un-controle-accru-de-l-etat-sur-les-services-essentiels_6763523_3210.html",
+      "published_date": "2026-09-01T18:37:06+00:00"
+    },
+    {
+      "title": "Smotrich, Feiglin sign on joint run ahead of October elections, call for broad right wing alliance",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-907259",
       "published_date": "2026-09-01T17:53:42+00:00"
+    },
+    {
+      "title": "Election campaign in the East: Merz has not appeased the anger of angry voters",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-wut-der-wutwaehler-hat-merz-nicht-besaenftigt-201179634.html",
+      "published_date": "2026-09-01T17:33:54+00:00"
+    },
+    {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
+      "published_date": "2026-09-01T17:29:00+00:00"
+    },
+    {
+      "title": "Solicitan investigación disciplinaria contra la senadora Isabel Zuleta tras afirmar que 'Petro sigue siendo presidente'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/congreso/solicitan-investigacion-disciplinaria-contra-la-senadora-isabel-zuleta-tras-afirmar-que-petro-sigue-siendo-presidente-3582683",
+      "published_date": "2026-09-01T16:55:41+00:00"
+    },
+    {
+      "title": "Former British Prime Minister Keir Starmer resigns from parliament",
+      "source": "El Nacional Venezuela",
+      "country": "United Kingdom",
+      "url": "https://www.elnacional.com/2026/09/exprimer-ministro-britanico-keir-starmer-renuncia-a-su-escano-en-el-parlamento/",
+      "published_date": "2026-09-01T16:20:17+00:00"
+    },
+    {
+      "title": "Ukraine at UN urges non-recognition of illegitimate Russian elections in occupied Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4159861-ukraine-at-un-urges-nonrecognition-of-illegitimate-russian-elections-in-occupied-ukraine.html",
+      "published_date": "2026-09-01T16:15:00+00:00"
     },
     {
       "title": "Israel Election 2026: What do Yousef Jabareen’s Joint Arab List and Mansour Abbas’ Ra’am stand for?",
@@ -72,6 +177,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-907154",
       "published_date": "2026-09-01T15:40:54+00:00"
+    },
+    {
+      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html",
+      "published_date": "2026-09-01T15:29:35+00:00"
     },
     {
       "title": "By-election wins show of support for Ottawa’s plans on trade, economy, Carney says",
@@ -88,18 +200,11 @@
       "published_date": "2026-09-01T15:16:08+00:00"
     },
     {
-      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html",
-      "published_date": "2026-09-01T14:55:48+00:00"
-    },
-    {
-      "title": "IDF strikes Gaza as Hamas official captured in reported raid by Israel-backed militia; 3 said killed - The Times of Israel",
+      "title": "IDF strikes Gaza as Hamas official captured in reported raid by Israel-backed militia - The Times of Israel",
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbk55YVVYVURtbmdEZHJTT25uMVZILTN4Q0ZvYWVCWFNxWnl0all6bTdFaHFianpyNFVaUVpYeXF4dGgtVWYxSlZ5RVFDcEZHVF9aQ3pGYVZfY252bkVmalFFVW52RVVETjUzMWVPVU52U2R2VllJaVNzSDd0b1dla2w3STJPd01pQjdlRndnT3htam1weGtKTWVHUFBBQUdsaU5aS19KM0pGb3hjZVR2SnRIWGl0SWFZcGZrVENYR1RZYTVad3JLYnFB0gHPAUFVX3lxTE9qLVhYZll1bExqY2VicE9xaWtIMmJPZGQ3ZWlLeWNNbTlaLVYtbHllVURzY1FlbnZNNUJGSEpfSUFDX1Z6Yi1LX1dYQlFKSEs5elVzRmlleEY2a3ZySVE3U3dkZEotdHktc3pmakRQRVhxMWpqZ1ZRT1NvMlB3eWZtSHdLeFM2R3BUQmJjcWNZeGN5WnMwOXRCck9JM1FNQVdoTEJZUHhhN2RkT01MVl9WQ0hTZGhVcWdXTDJPWno3Q1ZfLThnYk1uOWIxUGgzRQ?oc=5",
-      "published_date": "2026-09-01T14:26:15+00:00"
+      "published_date": "2026-09-01T14:27:44+00:00"
     },
     {
       "title": "Saskatchewan Conservative MP Cathay Wagantall resigns from House of Commons",
@@ -113,7 +218,7 @@
       "source": "Le Monde France",
       "country": "France",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/01/presidentielle-2027-souverainisme-et-air-conditionne-les-deux-piliers-de-marine-le-pen-et-du-rn-pour-lutter-contre-le-dereglement-climatique_6763489_4355770.html",
-      "published_date": "2026-09-01T14:00:36+00:00"
+      "published_date": "2026-09-01T14:00:19+00:00"
     },
     {
       "title": "Ousted UK PM Keir Starmer quits parliament to focus on international affairs",
@@ -121,13 +226,6 @@
       "country": "United Kingdom",
       "url": "https://www.dawn.com/news/2026639/ousted-uk-pm-keir-starmer-quits-parliament-to-focus-on-international-affairs",
       "published_date": "2026-09-01T13:08:46+00:00"
-    },
-    {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
-      "published_date": "2026-09-01T12:46:00+00:00"
     },
     {
       "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
@@ -2291,76 +2389,6 @@
       "country": "Ukraine",
       "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-905934",
       "published_date": "2026-08-19T00:45:58+00:00"
-    },
-    {
-      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "published_date": "2026-08-18T22:21:59+00:00"
-    },
-    {
-      "title": "‘Democracy cannot be held hostage by Russia’: Ousted after clashing with Ukraine’s top general, Mykhailo Fedorov now argues elections can’t wait for peace",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/08/19/democracy-cannot-be-held-hostage-by-russia-ousted-after-clashing-with-ukraine-s-top-general-mykhailo-fedorov-now-argues-elections-can-t-wait-for-peace",
-      "published_date": "2026-08-18T22:13:10+00:00"
-    },
-    {
-      "title": "LIVE, war in Ukraine: Mykhaïlo Fedorov, the popular ex-defense minister dismissed by Volodymyr Zelensky, asks to open the way to elections",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-mykhailo-fedorov-le-populaire-ex-ministre-de-la-defense-ecarte-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_6746952_3210.html",
-      "published_date": "2026-08-18T22:12:24+00:00"
-    },
-    {
-      "title": "Ukraine's ousted defence minister calls for wartime elections - reuters.com",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
-      "published_date": "2026-08-18T21:41:20+00:00"
-    },
-    {
-      "title": "‘I defeated 17 governors with my phone’ — Davido speaks on Osun election, Tinubu, Akpabio, Okpebholo",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/903903-i-defeated-17-governors-with-my-phone-davido-speaks-on-osun-election-tinubu-akpabio-okpebholo.html",
-      "published_date": "2026-08-18T21:37:45+00:00"
-    },
-    {
-      "title": "Unions ask the United Kingdom not to release Venezuelan gold until there is a new government",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "United Kingdom",
-      "url": "https://efectococuyo.com/politica/sindicatos-piden-al-reino-unido-no-liberar-oro/",
-      "published_date": "2026-08-18T21:12:16+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Fedorov calls for early elections in Ukraine",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-fedorow-fordert-baldige-wahlen-in-der-ukraine-faz-110683325.html",
-      "published_date": "2026-08-18T20:38:31+00:00"
-    },
-    {
-      "title": "President Kast decrees a state of emergency in Tocopilla through a frontal system",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-decreta-estado-de-excepcion-en-tocopilla-por-sistema-frontal/",
-      "published_date": "2026-08-18T20:01:19+00:00"
-    },
-    {
-      "title": "Restriction of rights to those convicted of “organized crime”: Kast's constitutional reform affects former DINA and CNI agents",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/restriccion-de-derechos-a-condenados-por-crimen-organizado-reforma-constitucional-de-kast-salpica-a-exagentes-de-la-dina-y-la-cni/",
-      "published_date": "2026-08-18T17:30:56+00:00"
-    },
-    {
-      "title": "Parliamentary rebellion: Kast's security reform does not convince the ruling party",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/rebelion-parlamentaria-reforma-de-seguridad-de-kast-no-convence-al-oficialismo/",
-      "published_date": "2026-08-18T17:30:00+00:00"
     }
   ]
 }
