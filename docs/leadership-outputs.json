@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-02T00:47:25.984682+00:00",
-    "story_count": 333,
+    "last_updated": "2026-09-02T15:02:45.472688+00:00",
+    "story_count": 316,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "After the attempted coup in Niger, Algeria inaugurates its new doctrine of military deployment outside its borders",
+      "source": "Le Monde France",
+      "country": "Algeria",
+      "url": "https://www.lemonde.fr/afrique/article/2026/09/02/apres-la-tentative-de-coup-d-etat-au-niger-alger-inaugure-sa-nouvelle-doctrine-de-deploiement-militaire-hors-de-ses-frontieres_6764378_3212.html",
+      "published_date": "2026-09-02T12:20:04+00:00"
+    },
+    {
+      "title": "'An issue that concerns the entire EU': Italy's FM warns of possible Russian meddling in general election",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "http://www.euronews.com/my-europe/2026/09/02/an-issue-that-concerns-the-entire-eu-italys-fm-warns-of-possible-russian-meddling-in-gener",
+      "published_date": "2026-09-02T11:44:38+00:00"
+    },
+    {
+      "title": "Macron expected in London for the inauguration of the Bayeux tapestry",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-macron-attendu-%C3%A0-londres-pour-l-inauguration-de-la-tapisserie-de-bayeux",
+      "published_date": "2026-09-02T11:42:01+00:00"
+    },
+    {
+      "title": "Panicking Trump aides trying to pause unpopular Iran war to save GOP from midterm election disaster: report",
+      "source": "The Independent UK",
+      "country": "Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-conflict-midterm-elections-b3043379.html",
+      "published_date": "2026-09-02T10:34:26+00:00"
+    },
+    {
+      "title": "Myanmar junta deploys tracking technology to choke fuel supplies to resistance areas",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-deploys-tracking-technology-to-choke-fuel-supplies-to-resistance-areas/",
+      "published_date": "2026-09-02T09:57:10+00:00"
+    },
+    {
+      "title": "Saxony-Anhalt state election 2026: How likely is an absolute majority for the AfD?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
+      "published_date": "2026-09-02T09:34:39+00:00"
+    },
+    {
+      "title": "SSU, DIU foil Russian plot to assassinate Russian opposition leader",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4159980-ssu-diu-foil-russian-plot-to-assassinate-russian-opposition-leader.html",
+      "published_date": "2026-09-02T06:17:00+00:00"
+    },
+    {
+      "title": "'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned",
+      "source": "Hindustan Times",
+      "country": "Pakistan",
+      "url": "https://www.hindustantimes.com/india-news/can-remove-pak-from-world-picture-pakistan-pmo-crops-modi-out-of-sco-pic-gets-warned-101788324063026.html",
+      "published_date": "2026-09-02T06:06:46+00:00"
+    },
+    {
+      "title": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/business/2026/09/02/tech/data-centers-us-brazil-election/",
+      "published_date": "2026-09-02T02:51:00+00:00"
+    },
+    {
+      "title": "HT Morning News Brief September 2: Sheikh Hasina exclusive, PM Modi vs ‘double standards’ and a cricket crisis",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/sheikh-hasina-interview-bangladesh-extradition-return-narendra-modi-sco-summit-iran-us-war-faridabad-pakistan-cricket-101788316106820.html",
+      "published_date": "2026-09-02T02:38:28+00:00"
+    },
+    {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
+      "published_date": "2026-09-02T01:31:00+00:00"
+    },
     {
       "title": "Minister of Security opens up to RN formula to save constitutional reform: “We did not fall in love with our idea”",
       "source": "La Tercera Chile",
@@ -142,13 +219,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-wut-der-wutwaehler-hat-merz-nicht-besaenftigt-201179634.html",
       "published_date": "2026-09-01T17:33:54+00:00"
-    },
-    {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
-      "published_date": "2026-09-01T17:29:00+00:00"
     },
     {
       "title": "Solicitan investigación disciplinaria contra la senadora Isabel Zuleta tras afirmar que 'Petro sigue siendo presidente'",
@@ -522,18 +592,18 @@
       "published_date": "2026-08-30T12:22:16+00:00"
     },
     {
-      "title": "Azerbaijani regime ‘trying to break’ opposition leader by denying him safe water in prison, family warn",
-      "source": "The Independent UK",
-      "country": "Azerbaijan",
-      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-karimli-prison-baku-aliyev-b3029690.html",
-      "published_date": "2026-08-30T12:21:37+00:00"
-    },
-    {
       "title": "Ukrainian forces deny Russian claims of capturing Velykyi Prykil and Sadky in Sumy region",
       "source": "Ukrinform",
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-ato/4159138-ukrainian-forces-deny-russian-claims-of-capturing-velykyi-prykil-and-sadky-in-sumy-region.html",
       "published_date": "2026-08-30T12:18:00+00:00"
+    },
+    {
+      "title": "Azerbaijani regime ‘trying to break’ opposition leader by denying him safe water in prison, family warn",
+      "source": "The Independent UK",
+      "country": "Azerbaijan",
+      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-karimli-prison-baku-aliyev-b3029690.html",
+      "published_date": "2026-08-30T12:03:00+00:00"
     },
     {
       "title": "Tinubu begins three-week leave, Presidency mum on Shettima as acting president",
@@ -2200,195 +2270,6 @@
       "country": "Ukraine",
       "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-19T15:38:38+00:00"
-    },
-    {
-      "title": "Zelensky's office probed for corruption as fired defence minister demands elections",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
-      "published_date": "2026-08-19T14:37:26+00:00"
-    },
-    {
-      "title": "Ukraine MPs approve new defence minister after divisive reshuffle",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
-      "published_date": "2026-08-19T14:34:28+00:00"
-    },
-    {
-      "title": "Ukraine war was Putin's 'fatal mistake' says Russian politician exiled in Paris",
-      "source": "RFI English",
-      "country": "Ukraine",
-      "url": "https://www.rfi.fr/en/international/20260819-ukraine-war-was-putins-fatal-mistake-says-russian-politician-exiled-in-paris-boris-nadezhdin-ukraine-war",
-      "published_date": "2026-08-19T14:07:30+00:00"
-    },
-    {
-      "title": "Ukraine: Elections would be an invitation to the Kremlin",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/mychajlo-fedorow-wahlen-in-der-ukraine-als-kreml-einladung-201140420.html",
-      "published_date": "2026-08-19T12:53:29+00:00"
-    },
-    {
-      "title": "Ukraine’s ousted minister Mykhailo Fedorov calls for wartime elections",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20260819-ukraine-s-ousted-minister-mykhailo-fedorov-calls-for-wartime-elections",
-      "published_date": "2026-08-19T12:23:43+00:00"
-    },
-    {
-      "title": "Osun Election: Tinubu allowed free contest, unlike 2018 Ekiti that was taken from me — Fayose",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-allowed-free-contest-unlike-2018-ekiti-that-was-taken-from-me-fayose/",
-      "published_date": "2026-08-19T11:02:06+00:00"
-    },
-    {
-      "title": "Zelenskyy's office is probed for corruption as fired defense minister demands elections",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-kyiv-vladimir-putin-kherson-b3035520.html",
-      "published_date": "2026-08-19T09:39:00+00:00"
-    },
-    {
-      "title": "Adviser to Russian Transportation Minister Resigns After Azerbaijan Issues Warrant for His Arrest",
-      "source": "Moscow Times",
-      "country": "Azerbaijan",
-      "url": "https://www.themoscowtimes.com/2026/08/19/adviser-to-russian-transportation-minister-resigns-after-azerbaijan-issues-warrant-for-his-arrest-a93529",
-      "published_date": "2026-08-19T09:38:08+00:00"
-    },
-    {
-      "title": "Sacked Ukraine defence minister urges path to elections",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
-      "published_date": "2026-08-19T09:29:22+00:00"
-    },
-    {
-      "title": "Ousted Ukraine defence minister challenges Zelensky's leadership",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
-      "published_date": "2026-08-19T09:23:28+00:00"
-    },
-    {
-      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "published_date": "2026-08-19T09:00:12+00:00"
-    },
-    {
-      "title": "Ukraine’s sacked defence minister calls for wartime elections",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
-      "published_date": "2026-08-19T08:46:56+00:00"
-    },
-    {
-      "title": "Ukraine’s ousted defense minister calls for wartime elections in bombshell address",
-      "source": "Egypt Independent",
-      "country": "Ukraine",
-      "url": "https://www.egyptindependent.com/ukraines-ousted-defense-minister-calls-for-wartime-elections-in-bombshell-address/",
-      "published_date": "2026-08-19T08:04:53+00:00"
-    },
-    {
-      "title": "As campaigns begin in Nigeria, Tinubu’s reelection bid puts his party on trial",
-      "source": "Japan Times",
-      "country": "Nigeria",
-      "url": "https://www.japantimes.co.jp/news/2026/08/19/world/politics/election-campaign-nigeria-tinubu/",
-      "published_date": "2026-08-19T07:33:00+00:00"
-    },
-    {
-      "title": "In Ukraine, ex-minister Fedorov calls for elections despite war with Russia",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/europe/20260819-ukraine-ex-ministre-d%C3%A9fense-appelle-%C3%A0-%C3%A9lections-malgr%C3%A9-guerre-russie-mykha%C3%AFlo-fedorov",
-      "published_date": "2026-08-19T06:22:51+00:00"
-    },
-    {
-      "title": "Ukraine's sacked defence minister Fedorov calls for wartime presidential elections",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
-      "published_date": "2026-08-19T06:06:39+00:00"
-    },
-    {
-      "title": "Ukraine’s ousted defence minister calls for elections during war",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-      "published_date": "2026-08-19T05:59:44+00:00"
-    },
-    {
-      "title": "Nigeria election campaign begins as voters grapple with inflation crisis",
-      "source": "RFI English",
-      "country": "Nigeria",
-      "url": "https://www.rfi.fr/en/africa/20260819-nigeria-election-campaign-begins-as-voters-grapple-with-inflation-crisis",
-      "published_date": "2026-08-19T05:38:21+00:00"
-    },
-    {
-      "title": "The Real Danger of Russia’s Fake Elections - by Cathy Young - The Bulwark",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajNTMnNhZ21UeVJfY2NrM3JxWmJ2andHREdPRE92QTJ1dkt1MndKSlNCR2ZLZF8zVmJPVFRXYVVNWm9GZDB3aGNHbE5LbEJaMDEyNFA2aDFMRk1iazNaMWdRZDZjRzRkTkozQW8zdTRHcmJFUEZXc3Y3MVViM004cEFSZ2hPbXFNVkx4OUx2bnNtbm9mVXhLdU5aSEw4dDlBR0pWVQ?oc=5",
-      "published_date": "2026-08-19T05:21:39+00:00"
-    },
-    {
-      "title": "Elections in Ukraine: Fedorov breaks the last political taboo",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/mychajlo-fedorow-fordert-wahlen-im-krieg-in-der-ukraine-accg-201138659.html",
-      "published_date": "2026-08-19T05:14:45+00:00"
-    },
-    {
-      "title": "Elections in Ukraine: Fedorov breaks the last political taboo",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-ex-verteidigungsminister-fedorow-fordert-neuwahlen-accg-201138659.html",
-      "published_date": "2026-08-19T05:14:45+00:00"
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential elections - Euronews.com",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVk91X2pUX21GbXJZbkpDOGY2akhGOUhaR0ZrNVpPdW9NVjd5UjZocDlnY0lfSTlBVmZhU1VpU2FGR09COFhpV3FmbFotRDlKTEJtRl9pMVg2MUxBUUQzbjlkcXNMS09XWkFGeDhjcmg1ZW9jbWlGOUtOUkQyREVGVUItcnJMcDlhRmt2THFSa3JldDVyZ0pyV0pZdWF4SU5Ba0dudS1ZOUdodDZGQUJjZTItNlE4dDJNMnBSZDl5bDhHVFByZklmTQ?oc=5",
-      "published_date": "2026-08-19T05:12:34+00:00"
-    },
-    {
-      "title": "Sacked Ukrainian Defence Minister Mykhailo Fedorov calls for presidential elections",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/08/19/sacked-ukrainian-defence-minister-mykhailo-fedorov-calls-for-presidential-elections",
-      "published_date": "2026-08-19T05:12:34+00:00"
-    },
-    {
-      "title": "No 10 North to oversee economic growth | Zelenskyy faces calls for election",
-      "source": "Sky News World",
-      "country": "Ukraine",
-      "url": "https://news.sky.com/story/no-10-north-to-oversee-economic-growth-zelenskyy-faces-calls-for-election-13574551",
-      "published_date": "2026-08-19T04:55:00+00:00"
-    },
-    {
-      "title": "BJP, JD(S) stall House proceedings for second day demanding Nagendra’s resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-jd-s-stall-house-proceedings-for-second-day-demanding-nagendra-s-resignation-101787078588360.html",
-      "published_date": "2026-08-19T02:45:30+00:00"
-    },
-    {
-      "title": "2026 Elections: Check out the agenda of Lula, Flávio Bolsonaro and other presidential candidates",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicoes-2026-confira-a-agenda-de-lula-flavio-bolsonaro-e-outros-presidenciaveis.shtml",
-      "published_date": "2026-08-19T02:07:00+00:00"
-    },
-    {
-      "title": "Ousted Ukraine defense chief Fedorov calls for wartime elections in challenge to Zelensky",
-      "source": "Jerusalem Post",
-      "country": "Ukraine",
-      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-905934",
-      "published_date": "2026-08-19T00:45:58+00:00"
     }
   ]
 }
