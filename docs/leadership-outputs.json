@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-02T15:02:45.472688+00:00",
-    "story_count": 316,
+    "last_updated": "2026-09-03T00:58:45.563840+00:00",
+    "story_count": 308,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidente De La Espriella anuncia compromiso para acabar línea 1 del Metro de Bogotá y 'avanzar en las líneas 2 y 3 y empezar a pensar en la línea 4'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-compromiso-para-acabar-linea-1-del-metro-de-bogota-y-avanzar-en-las-lineas-2-y-3-y-empezar-a-pensar-en-la-linea-3583002",
+      "published_date": "2026-09-02T21:31:03+00:00"
+    },
+    {
+      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/inappropriate-say-trump-may-still-be-considering-cia-led-uprising-iran",
+      "published_date": "2026-09-02T21:23:29+00:00"
+    },
+    {
+      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/news/inappropriate-trump-backs-away-cia-backed-uprising-iran",
+      "published_date": "2026-09-02T21:15:41+00:00"
+    },
+    {
+      "title": "How Sara Netanyahu’s October 7 remark successfully hijacked the Israeli election agenda - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-907370",
+      "published_date": "2026-09-02T20:49:01+00:00"
+    },
+    {
+      "title": "Trump affirms that Delcy Rodríguez “wants” to call elections, but assures that Venezuela is still “not ready”",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/trump-afirma-que-delcy-rodriguez-quiere-convocar-elecciones-pero-asegura-que-venezuela-aun-no-esta-preparada/",
+      "published_date": "2026-09-02T20:12:37+00:00"
+    },
+    {
+      "title": "Álvaro Carter (REP): “Las salidas de libreto del ministro Barros provocan que el Presidente Kast se vea dañado”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/alvaro-carter-rep-las-salidas-del-libreto-del-ministro-barros-provocan-que-el-presidente-kast-se-vea-danado/",
+      "published_date": "2026-09-02T20:04:28+00:00"
+    },
+    {
+      "title": "Unity at last: Is Libya's damaging power struggle at an end?",
+      "source": "Deutsche Welle English",
+      "country": "Libya",
+      "url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-09-02T17:35:00+00:00"
+    },
+    {
+      "title": "Difference between Lula and Flávio Bolsonaro is reduced to one point in eventual runoff and candidate supported by independents emerges",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/diferencia-entre-lula-y-flavio-bolsonaro-se-reduce-a-un-punto-en-eventual-balotaje-e-irrumpe-candidato-apoyado-por-independientes/",
+      "published_date": "2026-09-02T17:30:00+00:00"
+    },
+    {
+      "title": "Russian TV channels are required to give airtime to debates before elections. The parties just don’t show up.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/02/russian-tv-channels-are-required-to-give-airtime-to-debates-before-elections-the-parties-just-don-t-show-up",
+      "published_date": "2026-09-02T15:11:06+00:00"
+    },
     {
       "title": "After the attempted coup in Niger, Algeria inaugurates its new doctrine of military deployment outside its borders",
       "source": "Le Monde France",
@@ -205,6 +268,13 @@
       "country": "United Kingdom",
       "url": "https://www.lemonde.fr/international/article/2026/09/01/royaume-uni-andy-burnham-dans-son-premier-discours-au-parlement-comme-chef-du-gouvernement-promet-un-controle-accru-de-l-etat-sur-les-services-essentiels_6763523_3210.html",
       "published_date": "2026-09-01T18:37:06+00:00"
+    },
+    {
+      "title": "Israel confirms capturing Hamas internal security chief in Gaza City raid - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnd6cU1ycjhnRXFKeWtnaUEtQV9FVEZHQUhRZDB0VC1xajg0clhKX1NrOHBkZ1ozTjdMRGRvMUxUU3lMR0toWVJFaVFmQzJLeVlrb1VkR1hDZnN5cGRZQmpYcUR4cU5fc2NXS01EQjJsTElwc29vWGxndFJxM0t4UExHem5vNVA1SW50YW9DNDhLQVJVcUdSYlV1cDdjVEdKdzQ1OGJ0UdIBrAFBVV95cUxPSmlndHgtc0F3MkJKbVFYREpIaml3ZGlESS0xRDhPa1lWbnc5ZmVEcGVLTHlIckx0VFZ6eHp6NTQwUTZjZGY3YUM5LUU1Z3o4dHFjX2FtbC1uOC1vby0zLTFFQ0JlTk9NMjNONTBSSHFOVm9OU3VjaFJ5WUM4dDUwd1BObFJUWWc4cm5FRlpocFNYN3FZMjhrMFRmTGxnVE1OVjBhb0JHdVFkZDR4?oc=5",
+      "published_date": "2026-09-01T18:28:00+00:00"
     },
     {
       "title": "Smotrich, Feiglin sign on joint run ahead of October elections, call for broad right wing alliance",
@@ -2144,132 +2214,6 @@
       "country": "United Kingdom",
       "url": "https://www.jpost.com/international/article-906047",
       "published_date": "2026-08-20T01:29:29+00:00"
-    },
-    {
-      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
-      "published_date": "2026-08-20T00:20:00+00:00"
-    },
-    {
-      "title": "Chinese national charged with voter fraud during 2024 US presidential election",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3364618/chinese-national-charged-voter-fraud-during-2024-us-presidential-election?utm_source=rss_feed",
-      "published_date": "2026-08-19T23:18:24+00:00"
-    },
-    {
-      "title": "A Ukrainian army medic was captured by Russian troops, raped in custody, and put on trial for terrorism. Her sons ended up on opposite sides of the war. Here’s what happened to her family.",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/08/20/a-ukrainian-army-medic-was-captured-by-russian-troops-raped-in-custody-and-put-on-trial-for-terrorism-her-sons-ended-up-on-opposite-sides-of-the-war-here-s-what-happened-to-her-family",
-      "published_date": "2026-08-19T23:11:24+00:00"
-    },
-    {
-      "title": "A Ukrainian army medic was captured by Russian troops, raped in custody, and put on trial for terrorism. Her sons ended up on opposite sides of the war. Here’s what happened to her family. - Meduza",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORjdlWWRpMnFKR2RBTHY3d05vVHFHNnlyb09NREp1RTdBT0JSMnBWbXVHWklDRF9Xb1dZTzAzYmxNMGhjR283NVlpaXE0cHNRSGRpNFFyYjFoWWgzYkhNTmpZdjJ6ZDR5X1E2emV2V3hZa1pSTl8tOFBPeEk4bmZldFFjTXB2R09VNm5EU2pTeDkyR0FpLTliNkEwMHBNQ0VUTHJZSXRCakVlWTdkb0lSTXFnSng1QVVfN0tRTWtjUkFOVjNIdGNmSlJCS2xjX2NkekRHWmxac21odjBVeUlyY0YzSmZFRXZnVEFyczlDZHpNMjAzNEttbmd0NlUtWEczRWZRNFk5aGM1T2FYNFE0djE5YWdmLU02MnpFUGJOUjlySXg2ZGxfTGRSaDRLcEVCbG1jYWFvT3Y2b2dfR2tzVmdUZWJhd9IBywJBVV95cUxNTTN2Y1pfQ0pkRGMxdDg1SzB4TkNhZzhEWjVFYkpLSE82RXRrR2h4TkFaNzZlZ3RqcXdubzN3OHdIem1WTFNSZjZubTM4RlYtTzdTWlhMbVNVSlg0WG5BeTNITC1RWXdvV2xiOHJhNlgwcG9jRGhweDhsRkw1b0ZSTHp2bFRrZ0trczREc1Y1OVd1LTFkR2xsVHJJemVPUXdPc29mUDRfNno2YUJicHJRYmpralZXU24wb3dtZEROckN6VU5XdWQ2eldPa3dXNFJScUwxSUw1MFhuQ0xmY2V6M2JLbXdNXzhBcW9TN2dQbGhqTkI4YWdKU0ZUaEVnNnA3V3dxV1BrRjRDQWdTLUNnUG1DbVFHR3NxVkFvUzhXbkI2T3o2cEpkU2ZmUE9SV2ZZalRNLXMwQW5jTDZoekNWNmVrZVF0SWktOEpV?oc=5",
-      "published_date": "2026-08-19T23:11:00+00:00"
-    },
-    {
-      "title": "2027: ‘Nigerians are hungry, angry’ – Utomi urges massive voter turnout",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/2027-nigerians-are-hungry-angry-utomi-urges-massive-voter-turnout/",
-      "published_date": "2026-08-19T20:59:42+00:00"
-    },
-    {
-      "title": "Lula vs. Bolsonaro Jr.: who wins the elections in Brazil 2026, according to the latest polls",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/lula-vs-bolsonaro-jr-quien-gana-las-elecciones-en-brasil-2026-segun-las-ultimas-encuestas-nid19082026/",
-      "published_date": "2026-08-19T20:59:00+00:00"
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T20:34:39+00:00"
-    },
-    {
-      "title": "Tinubu’ll lose credible 2027 election before 4pm – Baba-Ahmed",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/tinubull-lose-credible-2027-elections-before-4pm-baba-ahmed/",
-      "published_date": "2026-08-19T20:00:36+00:00"
-    },
-    {
-      "title": "Robinson demolishes Pakistan to cement importance to new regime",
-      "source": "The Telegraph UK",
-      "country": "Pakistan",
-      "url": "https://www.telegraph.co.uk/cricket/2026/08/19/england-vs-pakistan-live-score-latest-first-test-day-1/",
-      "published_date": "2026-08-19T19:36:32+00:00"
-    },
-    {
-      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-      "published_date": "2026-08-19T19:09:53+00:00"
-    },
-    {
-      "title": "Zelensky’s office calls former Defense Minister Mykhailo Fedorov’s demand for wartime elections unrealistic",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/08/19/zelensky-s-office-calls-former-defense-minister-mykhailo-fedorov-s-demand-for-wartime-elections-unrealistic",
-      "published_date": "2026-08-19T18:49:52+00:00"
-    },
-    {
-      "title": "After weeks of rallying behind Fedorov, protesters reject his call for wartime elections in Ukraine",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/08/19/after-weeks-of-rallying-behind-fedorov-protesters-reject-his-call-for-wartime-elections-in",
-      "published_date": "2026-08-19T18:23:53+00:00"
-    },
-    {
-      "title": "Zelenskyy fires a top aide amid a graft probe as Ukraine's ex-defense minister demands elections - AP News",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGRobWwyN3hlb1dHLWtxOVhZdjRNTGo2ZWVwbmtiTHpoNUJQT3Bta0F5cExIWlZWOEJ5MVJPSmRRQ3kzbWZkLVFEbTh5c2tRWWVLRlFTOTVFQzZqRFVHOWhOdDYxOXhYS1E2OTY3TnVJVHZKRDNveExNY05ya29ZZndtQW1sVWExQVRiSUJNNUx3MXBRZDRXc0c5SXA?oc=5",
-      "published_date": "2026-08-19T17:52:00+00:00"
-    },
-    {
-      "title": "2027 presidential election: already seeing himself in the 2nd round, Jean-Luc Mélenchon maintains the pressure on his former left-wing partners",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-se-voyant-deja-au-2e-tour-jean-luc-melenchon-maintient-la-pression-sur-ses-anciens-partenaires-de-gauche-20260819",
-      "published_date": "2026-08-19T17:30:00+00:00"
-    },
-    {
-      "title": "As the Israeli Election Nears, Trump Has Leverage Over Netanyahu",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/",
-      "published_date": "2026-08-19T17:28:15+00:00"
-    },
-    {
-      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html",
-      "published_date": "2026-08-19T15:48:07+00:00"
-    },
-    {
-      "title": "Libyan government in Tunisia for crisis talks",
-      "source": "France 24 English",
-      "country": "Libya",
-      "url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
-      "published_date": "2026-08-19T15:40:46+00:00"
-    },
-    {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T15:38:38+00:00"
     }
   ]
 }
