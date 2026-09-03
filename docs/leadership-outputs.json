@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-03T00:58:45.563840+00:00",
-    "story_count": 308,
+    "last_updated": "2026-09-03T14:57:26.180211+00:00",
+    "story_count": 313,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,130 @@
   },
   "stories": [
     {
+      "title": "Yesh Atid MK Karine Elharrar announces decision not to run for Knesset in upcoming election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907497",
+      "published_date": "2026-09-03T16:28:57+00:00"
+    },
+    {
+      "title": "Election Saxony-Anhalt 2026: Why Jews warn against the AfD",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/wahl-in-sachsen-anhalt-warum-juedische-studenten-vor-der-afd-warnen-201164834.html",
+      "published_date": "2026-09-03T13:47:54+00:00"
+    },
+    {
+      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today, September 1",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid31082026/",
+      "published_date": "2026-09-03T13:27:55+00:00"
+    },
+    {
+      "title": "With diplomacy stalled, Trump returns to floating regime change in Iran",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/with-diplomacy-stalled-trump-returns-to-floating-regime-change-in-iran/",
+      "published_date": "2026-09-03T12:25:06+00:00"
+    },
+    {
+      "title": "Michel Barnier supports Bruno Retailleau's constitutional reform and calls for the right and center to rally around the LR candidate",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/politique/michel-barnier-soutient-la-reforme-constitutionnelle-de-bruno-retailleau-et-appelle-au-rassemblement-de-la-droite-et-du-centre-autour-du-candidat-lr-20260903",
+      "published_date": "2026-09-03T11:54:17+00:00"
+    },
+    {
+      "title": "Would Another War Help Netanyahu Win Reelection?",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election/",
+      "published_date": "2026-09-03T11:24:51+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike kills at least six in Karenni State’s Mawchi mining region",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-six-in-karenni-states-mawchi-mining-region/",
+      "published_date": "2026-09-03T10:58:59+00:00"
+    },
+    {
+      "title": "RVC deputy commander plotted assassination of Russian opposition leader — SSU",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-society/4160426-rvc-deputy-commander-plotted-assassination-of-russian-opposition-leader-ssu.html",
+      "published_date": "2026-09-03T09:58:00+00:00"
+    },
+    {
+      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
+      "published_date": "2026-09-03T09:57:25+00:00"
+    },
+    {
+      "title": "Estonian defence minister resigns in €70m EU-funded procurement scandal for Ukraine",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "http://www.euronews.com/my-europe/2026/09/03/estonian-defence-minister-resigns-in-70m-eu-funded-procurement-scandal-for-ukraine",
+      "published_date": "2026-09-03T08:36:43+00:00"
+    },
+    {
+      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-holds-call-uae-president-amid-regional-us-led-war",
+      "published_date": "2026-09-03T08:33:38+00:00"
+    },
+    {
+      "title": "Hundreds of Myanmar junta troops surrender after flotilla ambushed by Kachin forces",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/hundreds-of-myanmar-junta-troops-surrender-after-flotilla-ambushed-by-kachin-forces/",
+      "published_date": "2026-09-03T08:26:27+00:00"
+    },
+    {
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
+      "published_date": "2026-09-03T08:06:18+00:00"
+    },
+    {
+      "title": "Captured in Pakistan for 60 hours, shot down F-16: Who is Group Captain Abhinandan who quit IAF",
+      "source": "Hindustan Times",
+      "country": "Pakistan",
+      "url": "https://www.hindustantimes.com/india-news/captured-in-pakistan-for-60-hours-shot-down-f-16-who-is-group-captain-abhinandan-who-quit-iaf-101788417573606.html",
+      "published_date": "2026-09-03T07:42:46+00:00"
+    },
+    {
+      "title": "ANALYSIS: Nigerians challenging manipulation, religious sentiments, corruption as 2027 election campaigns begin",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/907139-analysis-nigerians-challenging-manipulation-religious-sentiments-corruption-as-2027-election-campaigns-begin.html",
+      "published_date": "2026-09-03T06:30:08+00:00"
+    },
+    {
+      "title": "USA under Trump: Rubio: Opposition leader Machado can return to Venezuela",
+      "source": "FAZ Germany",
+      "country": "Venezuela",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rubio-oppositionsfuehrerin-machado-kann-nach-venezuela-zurueck-faz-19444916.html",
+      "published_date": "2026-09-03T04:45:00+00:00"
+    },
+    {
       "title": "Presidente De La Espriella anuncia compromiso para acabar línea 1 del Metro de Bogotá y 'avanzar en las líneas 2 y 3 y empezar a pensar en la línea 4'",
       "source": "El Tiempo Colombia",
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-compromiso-para-acabar-linea-1-del-metro-de-bogota-y-avanzar-en-las-lineas-2-y-3-y-empezar-a-pensar-en-la-linea-3583002",
       "published_date": "2026-09-02T21:31:03+00:00"
+    },
+    {
+      "title": "Estonia's Defense Minister resigns after wasting 70 million euros on faulty ammunition for Ukraine - The Kyiv Independent",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU4zamxqLWVPdEhqLU5ydUNmNWhHSE9nbmxCNGtsMnZmN0Vka2w0THhCS1RuMzZTdkZlODNfZmFSRWNKc3dtb3FlRjVaT0RTbWhSYlZYSmRIc3RYLVBmUm9ickFFYUllMTAtQVlwQXo0M0dtLTdzMTVkU05IMlFFUkZPeTZfN1BfemVSdldacW5IVE1sdGRVclp4V2piNHI0TnNTTjU0Xy13eG5HZlI5ekV5VFltY2d2S0pPUEVaN2kyZ1Ay?oc=5",
+      "published_date": "2026-09-02T21:29:53+00:00"
     },
     {
       "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
@@ -88,6 +207,20 @@
       "published_date": "2026-09-02T20:49:01+00:00"
     },
     {
+      "title": "Delcy Rodríguez says that there will be elections when Venezuela is ready",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-dice-que-habra-elecciones-cuando-venezuela-este-preparada/",
+      "published_date": "2026-09-02T20:40:16+00:00"
+    },
+    {
+      "title": "Delcy Rodríguez says that there will be elections “when Venezuela is ready”",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-dice-que-habra-elecciones/",
+      "published_date": "2026-09-02T20:34:46+00:00"
+    },
+    {
       "title": "Trump affirms that Delcy Rodríguez “wants” to call elections, but assures that Venezuela is still “not ready”",
       "source": "La Tercera Chile",
       "country": "Venezuela",
@@ -102,10 +235,31 @@
       "published_date": "2026-09-02T20:04:28+00:00"
     },
     {
+      "title": "Trump believes Venezuela is not yet ready to hold elections",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/trump-afirma-que-venezuela-todavia-no-esta-lista-para-celebrar-elecciones/",
+      "published_date": "2026-09-02T19:37:52+00:00"
+    },
+    {
+      "title": "Trump says that Delcy Rodríguez wants elections, but believes that “Venezuela is not prepared”",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/trump-dice-que-delcy-rodriguez-quiere-elecciones/",
+      "published_date": "2026-09-02T19:32:00+00:00"
+    },
+    {
       "title": "Unity at last: Is Libya's damaging power struggle at an end?",
       "source": "Deutsche Welle English",
       "country": "Libya",
       "url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-09-02T17:35:00+00:00"
+    },
+    {
+      "title": "Is Libya's damaging power struggle about to end?",
+      "source": "Deutsche Welle English",
+      "country": "Libya",
+      "url": "https://www.dw.com/en/is-libya-s-damaging-power-struggle-about-to-end/a-78758325?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-09-02T17:35:00+00:00"
     },
     {
@@ -114,6 +268,13 @@
       "country": "Brazil",
       "url": "https://www.latercera.com/mundo/noticia/diferencia-entre-lula-y-flavio-bolsonaro-se-reduce-a-un-punto-en-eventual-balotaje-e-irrumpe-candidato-apoyado-por-independientes/",
       "published_date": "2026-09-02T17:30:00+00:00"
+    },
+    {
+      "title": "De la Espriella accused the Petro government of trying to alter the elections together with terrorists",
+      "source": "El Nacional Venezuela",
+      "country": "Colombia",
+      "url": "https://www.elnacional.com/2026/09/de-la-espriella-acuso-al-gobierno-de-petro-de-intentar-alterar-las-elecciones-junto-a-terroristas/",
+      "published_date": "2026-09-02T15:15:05+00:00"
     },
     {
       "title": "Russian TV channels are required to give airtime to debates before elections. The parties just don’t show up.",
@@ -2088,132 +2249,6 @@
       "country": "Libya",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpOenFKRXRQek1mcjVwSmdud0RRMGtlLVZqazNFN0hlZ2ZnMi1QU0x1TG9ib3JjLW92ZnBlS3ZsandZeTA3eWdmV1RlbVd2dDVlMDQ5Q1FIa0FqV3lQNjJkNUVuZXQ5eElkdWUzTk93cG5aUTR6Z24zM2xBSVVaeUF2bVl0Y1ZFOVRqUmhIOEFPOWtFM0I0YWJSWmxYNUpHWHk1cXhDNXBsVm50MjNleG42UEXSAboBQVVfeXFMUGpEUmc5bmhJZ1p6VncwbHN2MS14UWVBdkl6NWh2aGtFT2lBcFc3LXZpSGdtdmE4VlZJTkgyd08waGhJY2JMMldCZm9KeWhmQWNUMTlpNWV2bmxMd1c4MjVxWEJpOEJ6dk80eWsxZHZFcFNHclphYW5waFVKM2VwalQ2d3pjcERwZTVfT0dpM3VxVEMyQk1JeUtkeEc5c0tPSUNDOWdPS042dUJaMVVja0Fuc2g2QzVWNERB?oc=5",
       "published_date": "2026-08-20T15:32:01+00:00"
-    },
-    {
-      "title": "Nearly three-quarters of Arab-Israelis want new political leadership ahead of elections, poll finds",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906089",
-      "published_date": "2026-08-20T12:44:19+00:00"
-    },
-    {
-      "title": "German Spy Agency Opens Hotline for Exiled Russians",
-      "source": "Moscow Times",
-      "country": "Germany",
-      "url": "https://www.themoscowtimes.com/2026/08/20/german-spy-agency-opens-hotline-for-exiled-russians-a93540",
-      "published_date": "2026-08-20T12:39:18+00:00"
-    },
-    {
-      "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/bjp-demands-pinarayi-vijayans-resignation-as-keralam-opposition-leader-over-ed-findings-in-cmrl-case/article71368081.ece",
-      "published_date": "2026-08-20T11:02:54+00:00"
-    },
-    {
-      "title": "Three Palestinian parties in Israel form joint list ahead of elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/three-palestinian-parties-israel-form-joint-list-ahead-elections",
-      "published_date": "2026-08-20T10:28:47+00:00"
-    },
-    {
-      "title": "In Ukraine, Fedorov calls for elections: a risky political gamble",
-      "source": "France 24 FR",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260820-en-ukraine-fedorov-appelle-aux-%C3%A9lections-un-pari-politique-risqu%C3%A9",
-      "published_date": "2026-08-20T09:50:56+00:00"
-    },
-    {
-      "title": "Nigeria: the campaign for the 2027 presidential election officially launched",
-      "source": "France 24 FR",
-      "country": "Nigeria",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260820-nig%C3%A9ria-la-campagne-pour-la-pr%C3%A9sidentielle-de-2027-officiellement-lanc%C3%A9e",
-      "published_date": "2026-08-20T09:36:47+00:00"
-    },
-    {
-      "title": "Israel and America Agree on Gaza’s New Leader",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/",
-      "published_date": "2026-08-20T09:05:39+00:00"
-    },
-    {
-      "title": "Election campaign in Saxony-Anhalt: CDU man: I donated 10,000 euros to AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/cdu-politiker-bernd-prange-spendet-10-000-euro-an-die-afd-accg-201143114.html",
-      "published_date": "2026-08-20T08:51:52+00:00"
-    },
-    {
-      "title": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0ZpY0hRRGNUbXJaUERQNlAtUWFHU3hCWi16UlRkUFg5TGVkUWtYeHFiQl80M1loeVd6OF9ORHRmQ000dlpYdWlZdERFR0V5Wm5mOGxfOXlvMnQtUFY0WFB6LWYwMXRaT0JmVmVCcC13Z0JiTUJHb01mU2phQ3QwQ1BmSm91QzB3Ul9yZWNySWN4SFNXZm9IX0hfTGlfNDBnbzlxNnVHTW1ydw?oc=5",
-      "published_date": "2026-08-20T08:25:43+00:00"
-    },
-    {
-      "title": "Myanmar junta chief’s family used privileged status to secure ‘special number’ passports",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-chiefs-family-used-privileged-status-to-secure-special-number-passports/",
-      "published_date": "2026-08-20T08:23:13+00:00"
-    },
-    {
-      "title": "Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks",
-      "source": "Middle East Eye",
-      "country": "Syria",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-and-former-prime-minister-criticise-netanyahu",
-      "published_date": "2026-08-20T06:46:44+00:00"
-    },
-    {
-      "title": "Power struggle in the BSW: Wagenknecht calls, and Erfurt jumps?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/was-bundesverbaende-duerfen-berlin-ruft-erfurt-springt-accg-201140609.html",
-      "published_date": "2026-08-20T06:42:31+00:00"
-    },
-    {
-      "title": "Power struggle in the BSW: Wagenknecht calls, and Erfurt jumps?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/bsw-machtkampf-darf-der-bundesvorstand-thueringen-zum-koalitionsaus-zwingen-accg-201140609.html",
-      "published_date": "2026-08-20T06:42:31+00:00"
-    },
-    {
-      "title": "The sacked defense minister demands elections in Ukraine - \"Immediately it is impossible\", says Flemming Splidsboel",
-      "source": "Politiken Denmark",
-      "country": "Ukraine",
-      "url": "https://politiken.dk/internationalt/art10952723/Fyret-forsvarsminister-kr%C3%A6ver-valg-i-Ukraine-%E2%80%93-%C2%BBUmiddelbart-er-det-umuligt%C2%AB-siger-Flemming-Splidsboel",
-      "published_date": "2026-08-20T06:10:08+00:00"
-    },
-    {
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "source": "BBC World",
-      "country": "Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T05:01:24+00:00"
-    },
-    {
-      "title": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
-      "source": "CBC News World",
-      "country": "Ukraine",
-      "url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss",
-      "published_date": "2026-08-20T04:00:00+00:00"
-    },
-    {
-      "title": "Netanyahu casts Turkey as Israel’s new villain amid tough re-election fight",
-      "source": "South China Morning Post",
-      "country": "Turkey",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364623/netanyahu-casts-turkey-israels-new-villain-amid-tough-re-election-fight?utm_source=rss_feed",
-      "published_date": "2026-08-20T01:36:37+00:00"
-    },
-    {
-      "title": "Prince Harry, Meghan, to move back to Britain after stepping down from royal duties - report",
-      "source": "Jerusalem Post",
-      "country": "United Kingdom",
-      "url": "https://www.jpost.com/international/article-906047",
-      "published_date": "2026-08-20T01:29:29+00:00"
     }
   ]
 }
