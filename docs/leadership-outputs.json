@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-03T14:57:26.180211+00:00",
-    "story_count": 313,
+    "last_updated": "2026-09-04T00:38:26.187664+00:00",
+    "story_count": 312,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Petro advocates for \"completely free elections\" in Venezuela after María Corina Machado's criticism of the oil agreement",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/petro-aboga-por-elecciones-completamente-libres-en-venezuela-tras-las-criticas-de-maria-corina-machado-al-acuerdo-petrolero/",
+      "published_date": "2026-09-04T00:36:44+00:00"
+    },
+    {
+      "title": "Captured by the FBI: he committed green card fraud, they accuse him of being a Cuban spy and he was deported from Florida",
+      "source": "La Nacion Argentina",
+      "country": "Cuba",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/capturado-por-el-fbi-hizo-fraude-con-la-green-card-lo-acusan-de-ser-espia-cubano-y-fue-deportado-nid03092026/",
+      "published_date": "2026-09-04T00:04:00+00:00"
+    },
+    {
+      "title": "Leonid Slutsky was promised second place in the September elections, sources tell Meduza. Frustrated that the Kremlin stopped helping, he’s now saying LDPR belongs to the security services instead.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/03/leonid-slutsky-was-promised-second-place-in-the-september-elections-sources-tell-meduza-frustrated-that-the-kremlin-stopped-helping-he-s-now-saying-ldpr-belongs-to-the-security-services-instead",
+      "published_date": "2026-09-03T20:39:49+00:00"
+    },
+    {
+      "title": "Estonian defence minister resigns after €70m Ukraine munitions scam by Indian company: report",
+      "source": "Dawn Pakistan",
+      "country": "Ukraine",
+      "url": "https://www.dawn.com/news/2027239/estonian-defence-minister-resigns-after-eur70m-ukraine-munitions-scam-by-indian-company-report",
+      "published_date": "2026-09-03T20:01:48+00:00"
+    },
+    {
+      "title": "PMO publishes Netanyahu's Oct. 7 schedule, reveals he spoke with Gallant earlier than reported",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-907535",
+      "published_date": "2026-09-03T19:46:51+00:00"
+    },
+    {
+      "title": "Maya Fernández reproaches Javier Milei's statements about the overthrow of Allende in the Madrid Forum: “They are extremely serious”",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/politica/noticia/maya-fernandez-reprocha-dichos-de-javier-milei-sobre-derrocamiento-de-allende-en-foro-madrid-son-en-extremo-graves/",
+      "published_date": "2026-09-03T19:14:31+00:00"
+    },
+    {
+      "title": "Liveblog Iran War: Netanyahu: Overthrow of Iranian leadership remains main goal",
+      "source": "FAZ Germany",
+      "country": "Iran",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-netanjahu-sturz-von-iranischer-fuehrung-bleibt-hauptziel-faz-200583539.html",
+      "published_date": "2026-09-03T19:13:18+00:00"
+    },
+    {
       "title": "Yesh Atid MK Karine Elharrar announces decision not to run for Knesset in upcoming election",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-907497",
       "published_date": "2026-09-03T16:28:57+00:00"
+    },
+    {
+      "title": "Referendum: eight out of ten French people want to have the last word in the event of censorship of a law by the Constitutional Council",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/referendum-huit-francais-sur-dix-veulent-avoir-le-dernier-mot-en-cas-de-censure-d-une-loi-par-le-conseil-constitutionnel-20260903",
+      "published_date": "2026-09-03T15:00:00+00:00"
     },
     {
       "title": "Election Saxony-Anhalt 2026: Why Jews warn against the AfD",
@@ -109,6 +165,13 @@
       "published_date": "2026-09-03T10:58:59+00:00"
     },
     {
+      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat - aljazeera.com",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHU2Z1RqNjhRemdla3dnZmREZU1VQnAwRlVlVGZQQ0ZmeWFobkhTNnRRZUpOSzZLZXQzeVdYdm40cmlKLUZlQ2ZxR21xVllXbUdycUJkOF9LdFFmVGdJeW12NjFyckpJVVQ2X0VkMWVMeFR6ZnNJaGdjc0lWYkZoWkZIZ1phT2R5cGVXQjdhblA5ZGN1d2JLdDZNck92MjhiN1ZJYnBrVFNwdlNpNmc5SDFzcnDSAboBQVVfeXFMTTRWTC1NQi01UTBoclBTUHEwcDhLbmVkM3QzWGFFU2FHaWVQWlhlMDBSYURSbGpnYVlhVndDQmRJTzRIUERjSmFCRThKN1kzQnNyc1pLd0dUczFDV3d1YmJRX2ozSERVRENQTkFPWmRYWmVFeGJJOUtZZkgtbnk5UzdTRXVhRHc5NTFjWmNnU0FfbDZOaWhYMHhadmlTS3FRbXpVV185LWJxNTI2V0FPQ09VTnRmZzBkbWlR?oc=5",
+      "published_date": "2026-09-03T09:59:43+00:00"
+    },
+    {
       "title": "RVC deputy commander plotted assassination of Russian opposition leader — SSU",
       "source": "Ukrinform",
       "country": "Russia",
@@ -121,6 +184,13 @@
       "country": "United Kingdom",
       "url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
       "published_date": "2026-09-03T09:57:25+00:00"
+    },
+    {
+      "title": "Netanyahu's big reelection concern isn't his political rivals. It's some of his biggest supporters - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjY1MkY2SnZ4OWNTWXRfMzZwXzdfdW1NYW9FdUNEWjVkTFRGR1RMX2FuWjdzZHA3a1BMeFdqVTZ1azZLMHozai1zWkFUZG4xTGV6S1hOMld4Ri1UdDZfOEYzRjFjSVFJT0hDSHFUeEZ0RGZ0LWQ1VGhQZlhHQ0NhYld2V2c3T3FtakZjLUlJVWR3dlJETDFXRUln?oc=5",
+      "published_date": "2026-09-03T08:46:00+00:00"
     },
     {
       "title": "Estonian defence minister resigns in €70m EU-funded procurement scandal for Ukraine",
@@ -163,6 +233,13 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/news/top-news/907139-analysis-nigerians-challenging-manipulation-religious-sentiments-corruption-as-2027-election-campaigns-begin.html",
       "published_date": "2026-09-03T06:30:08+00:00"
+    },
+    {
+      "title": "German far-right party targets iconic Bauhaus school ahead of landmark state election - AP News",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1hpNmgwZG1Eb3pmRndBOFNPZXJ5Zy04cElhWHZhckNuNG0yLWhWdkVnSjl4d1lCUmZjdWFaUEZlOXhkWlljajNIT3BaUTY2UXo2LVpfYUc0Q1pSUEdMY0JRSkNuZGE1WExLa1d4QnI5MEgxODl3MEdGNlg3bXdNWDQyaW5yd0xQb1Z4MWFsQUR5T0tYeXlwM3pBSUtmQzRBUFFpbE9rTlU?oc=5",
+      "published_date": "2026-09-03T05:24:00+00:00"
     },
     {
       "title": "USA under Trump: Rubio: Opposition leader Machado can return to Venezuela",
@@ -2165,90 +2242,6 @@
       "country": "Palestine",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing",
       "published_date": "2026-08-21T03:51:32+00:00"
-    },
-    {
-      "title": "European Commission: Ukraine must decide for itself when to hold elections",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4156010-european-commission-ukraine-must-decide-for-itself-when-to-hold-elections.html",
-      "published_date": "2026-08-20T23:31:00+00:00"
-    },
-    {
-      "title": "“Let him win because the economy is good”: Máximo Kirchner's curious phrase about Milei's re-election",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/que-la-gane-porque-esta-bien-la-economia-la-curiosa-frase-de-maximo-kirchner-sobre-la-reeleccion-de-nid20082026/",
-      "published_date": "2026-08-20T22:52:54+00:00"
-    },
-    {
-      "title": "Kast rules out a plebiscite for security reform: “It is not something we are going to promote as a government”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-descarta-plebiscito-para-la-reforma-de-seguridad-no-es-algo-que-vayamos-a-impulsar-como-gobierno/",
-      "published_date": "2026-08-20T22:06:52+00:00"
-    },
-    {
-      "title": "Russia already fines people who ignore a governor’s orders — but only in regions under martial law. A new bill would make that punishable nationwide, even in peacetime.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/21/russia-already-fines-people-who-ignore-a-governor-s-orders-but-only-in-regions-under-martial-law-a-new-bill-would-make-that-punishable-nationwide-even-in-peacetime",
-      "published_date": "2026-08-20T21:55:45+00:00"
-    },
-    {
-      "title": "Osun election: Tinubu played fair, fought for democracy – Adeleke",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-tinubu-played-fair-because-he-fought-for-democracy-adeleke/",
-      "published_date": "2026-08-20T20:37:08+00:00"
-    },
-    {
-      "title": "“They didn’t achieve the superstar status they were aiming for”: the mysterious return of Harry and Meghan to the United Kingdom, after six years of exile",
-      "source": "Le Figaro France",
-      "country": "United Kingdom",
-      "url": "https://www.lefigaro.fr/international/ils-n-ont-pas-atteint-le-statut-de-superstars-qu-ils-visaient-le-mysterieux-retour-de-harry-et-meghan-au-royaume-uni-apres-six-ans-d-exil-20260820",
-      "published_date": "2026-08-20T18:45:00+00:00"
-    },
-    {
-      "title": "The idea of ​​a plebiscite for security reform further entangles the ruling party and La Moneda comes out to take its floor",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/idea-de-un-plebisicto-por-reforma-de-seguridad-enreda-mas-al-oficialismo-y-la-moneda-sale-a-quitarle-piso/",
-      "published_date": "2026-08-20T17:30:00+00:00"
-    },
-    {
-      "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end - Reuters",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTZYaWxlbjdRU3lSTGZVdTFzc3g4blpKdEtwODlFcnFtaEU4SFlySUJrQURDenFrdEV1ck9rbk55R2d4OW54ZGZXQzZIandvRmVNNk1uWTQ2RzNKaGZ6bEl6VEFzbkItNkpoeUk2NkdLeURSY21pT0dNNnYxWmk3b1hkRzlUbnlvbVZMb0hkRGdPTVlNQ0taeU5WOTd1WFhRb25GMmVfUXZzdFJKWkpqeUpMSFM1OF9RdTAzT1BqeWJnSUViVFE?oc=5",
-      "published_date": "2026-08-20T16:53:00+00:00"
-    },
-    {
-      "title": "Chilean Chamber of Construction elects Raimundo Rencoret as its new president for the next two years",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/camara-chilena-de-la-construccion-elige-a-raimundo-rencoret-como-su-nuevo-presidente-por-los-proximos-dos-anos/",
-      "published_date": "2026-08-20T16:37:02+00:00"
-    },
-    {
-      "title": "The surprising record of two puma cubs captured in Chilean Patagonia",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/el-sorprendente-registro-de-dos-cachorros-de-puma-captados-en-la-patagonia-chilena/",
-      "published_date": "2026-08-20T16:17:52+00:00"
-    },
-    {
-      "title": "Alessandri is against calling a plebiscite if Kast's security reform is rejected: “It would be overkill”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/alessandri-se-muestra-en-contra-de-llamar-a-plebiscito-si-se-rechaza-la-reforma-de-seguridad-de-kast-seria-pasar-maquina/",
-      "published_date": "2026-08-20T15:37:50+00:00"
-    },
-    {
-      "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow? - Al Jazeera",
-      "source": "Google News World",
-      "country": "Libya",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpOenFKRXRQek1mcjVwSmdud0RRMGtlLVZqazNFN0hlZ2ZnMi1QU0x1TG9ib3JjLW92ZnBlS3ZsandZeTA3eWdmV1RlbVd2dDVlMDQ5Q1FIa0FqV3lQNjJkNUVuZXQ5eElkdWUzTk93cG5aUTR6Z24zM2xBSVVaeUF2bVl0Y1ZFOVRqUmhIOEFPOWtFM0I0YWJSWmxYNUpHWHk1cXhDNXBsVm50MjNleG42UEXSAboBQVVfeXFMUGpEUmc5bmhJZ1p6VncwbHN2MS14UWVBdkl6NWh2aGtFT2lBcFc3LXZpSGdtdmE4VlZJTkgyd08waGhJY2JMMldCZm9KeWhmQWNUMTlpNWV2bmxMd1c4MjVxWEJpOEJ6dk80eWsxZHZFcFNHclphYW5waFVKM2VwalQ2d3pjcERwZTVfT0dpM3VxVEMyQk1JeUtkeEc5c0tPSUNDOWdPS042dUJaMVVja0Fuc2g2QzVWNERB?oc=5",
-      "published_date": "2026-08-20T15:32:01+00:00"
     }
   ]
 }
