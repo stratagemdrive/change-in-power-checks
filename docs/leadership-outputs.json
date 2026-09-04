@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-04T00:38:26.187664+00:00",
-    "story_count": 312,
+    "last_updated": "2026-09-04T14:51:57.557887+00:00",
+    "story_count": 328,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,172 @@
   },
   "stories": [
     {
+      "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2027481/netanyahu-partners-renew-calls-for-removal-of-palestinians-from-gaza-as-israeli-election-nears",
+      "published_date": "2026-09-04T14:36:15+00:00"
+    },
+    {
+      "title": "Moraes' Russian military doctrine contaminates the election for good",
+      "source": "Folha de S Paulo",
+      "country": "Russia",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doutrina-militar-russa-de-moraes-contamina-eleicao-de-vez.shtml",
+      "published_date": "2026-09-04T14:26:00+00:00"
+    },
+    {
+      "title": "2027 presidential election: exchange of arms between Marine Le Pen and Édouard Philippe on aid to Ukraine",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-passe-d-armes-entre-marine-le-pen-et-edouard-philippe-sur-l-aide-a-l-ukraine-20260904",
+      "published_date": "2026-09-04T14:15:54+00:00"
+    },
+    {
+      "title": "Moscow Police Detain Yabloko Candidates Running in State Duma Elections",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/04/moscow-police-detain-yabloko-candidates-running-in-state-duma-elections-a93638",
+      "published_date": "2026-09-04T13:09:53+00:00"
+    },
+    {
+      "title": "SPECIAL REPORT: Why young Nigerians are losing faith in elections",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/investigationspecial-reports/907430-special-report-why-young-nigerians-are-losing-faith-in-elections.html",
+      "published_date": "2026-09-04T13:00:38+00:00"
+    },
+    {
+      "title": "Saxony-Anhalt state election 2026: How likely is an absolute majority for the AfD?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
+      "published_date": "2026-09-04T12:57:08+00:00"
+    },
+    {
+      "title": "Tally Gotliv given second place on Otzma Yehudit's Knesset election list, Ben-Gvir announces",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907591",
+      "published_date": "2026-09-04T12:40:14+00:00"
+    },
+    {
+      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+      "source": "Al Jazeera English",
+      "country": "Germany",
+      "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss",
+      "published_date": "2026-09-04T12:19:38+00:00"
+    },
+    {
+      "title": "Germany live blog: Müller: If the election turns out like the polls, the AfD has the task of forming a government",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-sepp-mueller-wenn-afd-gewinnt-liegt-auftrag-zur-regierungsbildung-bei-siegmund-faz-110093143.html",
+      "published_date": "2026-09-04T12:11:42+00:00"
+    },
+    {
+      "title": "Nigeria denies backing failed Niger coup",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/907417-nigeria-denies-backing-failed-niger-coup.html",
+      "published_date": "2026-09-04T12:03:42+00:00"
+    },
+    {
+      "title": "War against Hezbollah: Israel releases captured Lebanese civilians",
+      "source": "FAZ Germany",
+      "country": "Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-laesst-gefangene-libanesen-frei-accg-201194000.html",
+      "published_date": "2026-09-04T11:55:21+00:00"
+    },
+    {
+      "title": "Can Palestinian elections still matter after the Gaza genocide?",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/opinion/palestinian-elections-genocide-gaza-why-they-matter",
+      "published_date": "2026-09-04T11:42:28+00:00"
+    },
+    {
+      "title": "State election: Shortly before the election, the dispute breaks out in the CDU",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-cdu-streitet-ueber-umgang-mit-der-linken-accg-201194037.html",
+      "published_date": "2026-09-04T11:37:12+00:00"
+    },
+    {
+      "title": "2 Reform UK advisers to Farage step down amid donation scandal",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3366420/2-reform-uk-advisers-farage-step-down-amid-donation-scandal?utm_source=rss_feed",
+      "published_date": "2026-09-04T11:11:41+00:00"
+    },
+    {
+      "title": "Russian occupation court sentences captured Ukrainian journalist Levchenko to 15 years in prison",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-society/4160825-russian-occupation-court-sentences-captured-ukrainian-journalist-levchenko-to-15-years-in-prison.html",
+      "published_date": "2026-09-04T10:51:00+00:00"
+    },
+    {
+      "title": "Reform UK officials step down as new funding scandal hits far-right party",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
+      "published_date": "2026-09-04T10:26:42+00:00"
+    },
+    {
+      "title": "Germany's far-right AfD party is poised for power in a state election",
+      "source": "NPR World",
+      "country": "Germany",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "published_date": "2026-09-04T10:00:00+00:00"
+    },
+    {
+      "title": "Germany's far-right AfD party is poised for power in a state election - npr.org",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
+      "published_date": "2026-09-04T10:00:00+00:00"
+    },
+    {
+      "title": "Ukrainian forces refute Russian claim of capturing Khrapivshchyna in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4160736-ukrainian-forces-refute-russian-claim-of-capturing-khrapivshchyna-in-sumy-region.html",
+      "published_date": "2026-09-04T07:14:00+00:00"
+    },
+    {
+      "title": "Netanyahu: Toppling Iranian regime is Israel’s ‘central mission,’ goal ‘within reach’ - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0xkNkJHRlJIOUVMb2o4SlZfNlZjaWFwUTlFb3BoY2VqaDJuX2ZndlZJMVZoVkhFdEhfZWh1S1BMRU84SkJhT2dIUXVSTnN4cm1SRUZsWklld1B3eGVoNFN6RXJtRnBCVXZhU2sxbHFpU1FjYks5am5VZmo3OFBUWThfSDZoVnNINzljVWlfREMzTnBGZE01NG9rc010ZUJqTTlNb0pXMTIzV0ZqR2fSAbMBQVVfeXFMUHhKQ0ZjdkZJV280bjlvNWVLZzFZM0EyTFhCNmY5bU9SRmhrS2pDdVlVQjc4SWk0WWNwLXpZdjh6V0h6YlBDWmc0Q09HRnluRjhVZlRLZjRpc2NpTVNJdXFfaU5KQmxuVGFWdGNqdWpNZk1OdUdVTzZKRDJ1UThRWG8wRm9oTldkNGpocy1nSTJTRTJGOUxYU3NQS3cwQmRnRS12S1RSMkMteUExejl2T2R5SGs?oc=5",
+      "published_date": "2026-09-04T07:10:13+00:00"
+    },
+    {
+      "title": "““Fjord”, Palme d’Or deemed reactionary, opens a debate in cultural circles: what attitude should we adopt towards the RN until the presidential election? »",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/04/fjord-palme-d-or-jugee-reactionnaire-ouvre-un-debat-dans-les-milieux-culturels-quelle-attitude-adopter-face-au-rassemblement-national-jusqu-a-la-presidentielle_6765628_3232.html",
+      "published_date": "2026-09-04T04:20:00+00:00"
+    },
+    {
+      "title": "Maduro's defense seeks to dismiss the charges against him, alleging immunity for being head of state",
+      "source": "La Tercera Chile",
+      "country": "Venezuela",
+      "url": "https://www.latercera.com/mundo/noticia/defensa-de-maduro-busca-que-se-desestimen-los-cargos-en-su-contra-alegando-inmunidad-por-ser-jefe-de-estado/",
+      "published_date": "2026-09-04T02:32:51+00:00"
+    },
+    {
       "title": "Petro advocates for \"completely free elections\" in Venezuela after María Corina Machado's criticism of the oil agreement",
       "source": "El Nacional Venezuela",
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/09/petro-aboga-por-elecciones-completamente-libres-en-venezuela-tras-las-criticas-de-maria-corina-machado-al-acuerdo-petrolero/",
       "published_date": "2026-09-04T00:36:44+00:00"
+    },
+    {
+      "title": "Without a new speech and with a worse evaluation, Lula sees Flávio on the trail in the election of judicial dirt",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/sem-discurso-novo-e-com-avaliacao-pior-lula-ve-flavio-na-cola-na-eleicao-da-sujeira-judicial.shtml",
+      "published_date": "2026-09-04T00:30:00+00:00"
     },
     {
       "title": "Captured by the FBI: he committed green card fraud, they accuse him of being a Cuban spy and he was deported from Florida",
@@ -156,6 +317,13 @@
       "country": "Israel",
       "url": "https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election/",
       "published_date": "2026-09-03T11:24:51+00:00"
+    },
+    {
+      "title": "Ford’s PCs hold two seats and NDP hold one in Ontario by-elections",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-ontario-byelections-york-simcoe-hamilton-east-stoney-creek-scarborough/",
+      "published_date": "2026-09-03T11:23:25+00:00"
     },
     {
       "title": "Myanmar junta airstrike kills at least six in Karenni State’s Mawchi mining region",
@@ -394,13 +562,6 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/myanmar-junta-deploys-tracking-technology-to-choke-fuel-supplies-to-resistance-areas/",
       "published_date": "2026-09-02T09:57:10+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt state election 2026: How likely is an absolute majority for the AfD?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
-      "published_date": "2026-09-02T09:34:39+00:00"
     },
     {
       "title": "SSU, DIU foil Russian plot to assassinate Russian opposition leader",
@@ -2193,55 +2354,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/militantes-del-ppd-anuncian-su-renuncia-al-partido-y-la-creacion-del-movimiento-politico-firmes-por-chile/",
       "published_date": "2026-08-21T15:14:32+00:00"
-    },
-    {
-      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
-      "published_date": "2026-08-21T12:57:22+00:00"
-    },
-    {
-      "title": "Middle Israel: Netanyahu's Likud list for the Israeli election highlights PM's cowardice - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-906157",
-      "published_date": "2026-08-21T12:51:45+00:00"
-    },
-    {
-      "title": "Armenia downgrades relations with Russia in new government programme",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenia-downgrades-relations-with-russia-in-new-government-programme/",
-      "published_date": "2026-08-21T11:50:56+00:00"
-    },
-    {
-      "title": "As many as 20 believed killed in Myanmar junta airstrike on Buddhist monastery",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/as-many-as-20-believed-killed-in-myanmar-junta-airstrike-on-buddhist-monastery/",
-      "published_date": "2026-08-21T10:26:11+00:00"
-    },
-    {
-      "title": "DPP challenger faces uphill battle against incumbent Tamaki in leadership race",
-      "source": "Japan Times",
-      "country": "Taiwan",
-      "url": "https://www.japantimes.co.jp/news/2026/08/21/japan/politics/dpp-leadership-race/",
-      "published_date": "2026-08-21T07:08:00+00:00"
-    },
-    {
-      "title": "'Mass mobilization not planned,' Russian UN envoy claims, stops short of ruling it out following elections - The Kyiv Independent",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3NLR3ZGQi1iM0FISncyY2l6OGxHSUVJS0JSY2hEWUVpUHNzYWdJUW04ZFVwaEhkM3RyaHd0em9LM29hV3JHanc3TXAxdkRnWEo2SExjcG1GTGpLMzhJS0V2Uy0zd0x4QjgyWmhxR2xXYndtZ0JpemFxVWI2dTlQTjBRZS13Q0EzcHV4VUNR?oc=5",
-      "published_date": "2026-08-21T04:53:53+00:00"
-    },
-    {
-      "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing",
-      "published_date": "2026-08-21T03:51:32+00:00"
     }
   ]
 }
