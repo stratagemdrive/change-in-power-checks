@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-04T14:51:57.557887+00:00",
-    "story_count": 328,
+    "last_updated": "2026-09-05T00:35:26.379520+00:00",
+    "story_count": 324,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei, EN VIVO: “Dudo que los argentinos sean tan tontos de volver al pasado”, dijo el Presidente sobre las elecciones de 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-corren-vientos-de-cambio-respecto-a-la-nid04092026/",
+      "published_date": "2026-09-05T00:17:00+00:00"
+    },
+    {
+      "title": "Federal Tories launch ‘Conservatives for Canada’ campaign ahead of Alberta referendum",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-federal-tories-launch-conservatives-for-canada-campaign-ahead-of/",
+      "published_date": "2026-09-04T20:37:42+00:00"
+    },
+    {
+      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
+      "published_date": "2026-09-04T19:52:45+00:00"
+    },
+    {
+      "title": "France 'will reject extremism' and Le Pen in presidential election, Haddad says",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/09/04/france-will-reject-extremism-and-le-pen-in-presidential-election-haddad-says",
+      "published_date": "2026-09-04T19:32:55+00:00"
+    },
+    {
+      "title": "Sudan Nashra: Hemedti in Addis Ababa | Buildup at Ethiopian base fuels concerns over RSF corridor toward Blue Nile capital, military sends massive reinforcements | RSF fortifies West Darfur capital with berms, reinforces troops | RSF commander in North Kordofan defects, arrives in capital with 200 fighters",
+      "source": "Mada Masr",
+      "country": "Sudan",
+      "url": "https://www.madamasr.com/en/2026/09/04/news/u/sudan-nashra-hemedti-in-addis-ababa-buildup-at-ethiopian-base-fuels-concerns-over-rsf-corridor-toward-blue-nile-capital-military-sends-massive-reinforcements-rsf-fortifies-west-darfur-capital-wi/",
+      "published_date": "2026-09-04T17:20:45+00:00"
+    },
     {
       "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
       "source": "Dawn Pakistan",
@@ -85,7 +120,7 @@
       "source": "Moscow Times",
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/09/04/moscow-police-detain-yabloko-candidates-running-in-state-duma-elections-a93638",
-      "published_date": "2026-09-04T13:09:53+00:00"
+      "published_date": "2026-09-04T13:09:00+00:00"
     },
     {
       "title": "SPECIAL REPORT: Why young Nigerians are losing faith in elections",
@@ -186,18 +221,25 @@
       "published_date": "2026-09-04T10:00:00+00:00"
     },
     {
+      "title": "The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmZsS1pKdDlBQ2FfWTExUFQ1WFlyU3NFUUNHRmNDX1UzWVE2eGxkemJ1M0tNNXgxUVBNZEZNM1hOYlJjUDVGWGZfckdWdi1xdm9EUC1sWkxYcXc1VERzY19acUtoTWlKQWo1R09GRGMtYmI4N3QxdGhXM3I3bkNvcldiazNvTnhXWjFVYUM0RENET1VRSFJRTFJ4WEo0MDdQRXNPXzJRUk5HUC1KVVpjV1RMOXZ5cF9QYXR5Y21FdU1udUNySkNFSldZcmtvbncxNk1aeDNJRQ?oc=5",
+      "published_date": "2026-09-04T09:29:09+00:00"
+    },
+    {
+      "title": "Colombia’s New President Poses With Dead Bodies in Show of Force - The New York Times",
+      "source": "Google News World",
+      "country": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2x1VjVCaENLai1pcW02VTdaRURtcmdWME51VWRMQ096X040aEd4d0hjT2JqOG9mbDI3eWF2QUpVcGFLTFp3VDFzZENZeVRpU1lqSmROU1M3dHFCbTI1RHYxZ0xIQWp6dVN0VnAxVFhIUHR0T0VnampFTlM2MXo0cFo4cmhfYldDY3J3c1g1MA?oc=5",
+      "published_date": "2026-09-04T09:03:47+00:00"
+    },
+    {
       "title": "Ukrainian forces refute Russian claim of capturing Khrapivshchyna in Sumy region",
       "source": "Ukrinform",
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-ato/4160736-ukrainian-forces-refute-russian-claim-of-capturing-khrapivshchyna-in-sumy-region.html",
       "published_date": "2026-09-04T07:14:00+00:00"
-    },
-    {
-      "title": "Netanyahu: Toppling Iranian regime is Israel’s ‘central mission,’ goal ‘within reach’ - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0xkNkJHRlJIOUVMb2o4SlZfNlZjaWFwUTlFb3BoY2VqaDJuX2ZndlZJMVZoVkhFdEhfZWh1S1BMRU84SkJhT2dIUXVSTnN4cm1SRUZsWklld1B3eGVoNFN6RXJtRnBCVXZhU2sxbHFpU1FjYks5am5VZmo3OFBUWThfSDZoVnNINzljVWlfREMzTnBGZE01NG9rc010ZUJqTTlNb0pXMTIzV0ZqR2fSAbMBQVVfeXFMUHhKQ0ZjdkZJV280bjlvNWVLZzFZM0EyTFhCNmY5bU9SRmhrS2pDdVlVQjc4SWk0WWNwLXpZdjh6V0h6YlBDWmc0Q09HRnluRjhVZlRLZjRpc2NpTVNJdXFfaU5KQmxuVGFWdGNqdWpNZk1OdUdVTzZKRDJ1UThRWG8wRm9oTldkNGpocy1nSTJTRTJGOUxYU3NQS3cwQmRnRS12S1RSMkMteUExejl2T2R5SGs?oc=5",
-      "published_date": "2026-09-04T07:10:13+00:00"
     },
     {
       "title": "““Fjord”, Palme d’Or deemed reactionary, opens a debate in cultural circles: what attitude should we adopt towards the RN until the presidential election? »",
@@ -219,6 +261,13 @@
       "country": "Venezuela",
       "url": "https://www.elnacional.com/2026/09/petro-aboga-por-elecciones-completamente-libres-en-venezuela-tras-las-criticas-de-maria-corina-machado-al-acuerdo-petrolero/",
       "published_date": "2026-09-04T00:36:44+00:00"
+    },
+    {
+      "title": "Netanyahu: Toppling Iranian regime is Israel’s ‘central mission,’ goal ‘within reach’ - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0xkNkJHRlJIOUVMb2o4SlZfNlZjaWFwUTlFb3BoY2VqaDJuX2ZndlZJMVZoVkhFdEhfZWh1S1BMRU84SkJhT2dIUXVSTnN4cm1SRUZsWklld1B3eGVoNFN6RXJtRnBCVXZhU2sxbHFpU1FjYks5am5VZmo3OFBUWThfSDZoVnNINzljVWlfREMzTnBGZE01NG9rc010ZUJqTTlNb0pXMTIzV0ZqR2fSAbMBQVVfeXFMUHhKQ0ZjdkZJV280bjlvNWVLZzFZM0EyTFhCNmY5bU9SRmhrS2pDdVlVQjc4SWk0WWNwLXpZdjh6V0h6YlBDWmc0Q09HRnluRjhVZlRLZjRpc2NpTVNJdXFfaU5KQmxuVGFWdGNqdWpNZk1OdUdVTzZKRDJ1UThRWG8wRm9oTldkNGpocy1nSTJTRTJGOUxYU3NQS3cwQmRnRS12S1RSMkMteUExejl2T2R5SGs?oc=5",
+      "published_date": "2026-09-04T00:33:00+00:00"
     },
     {
       "title": "Without a new speech and with a worse evaluation, Lula sees Flávio on the trail in the election of judicial dirt",
@@ -2277,83 +2326,6 @@
       "country": "Israel",
       "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
       "published_date": "2026-08-22T00:38:06+00:00"
-    },
-    {
-      "title": "Campanha de Lula avisa à Band que presidente não irá a debate",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-lula-avisa-a-band-que-presidente-nao-ira-a-debate.shtml",
-      "published_date": "2026-08-21T22:16:00+00:00"
-    },
-    {
-      "title": "Social movements begin weekly mobilization for Lula’s re-election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/movimentos-sociais-iniciam-mobilizacao-semanal-por-reeleicao-de-lula.shtml",
-      "published_date": "2026-08-21T21:30:00+00:00"
-    },
-    {
-      "title": "Tinubu Group begins mobilisation for 2027 re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/tinubu-group-begins-mobilisation-for-2027-re-election/",
-      "published_date": "2026-08-21T19:45:52+00:00"
-    },
-    {
-      "title": "Gabriel Boric calls for coherence in politics and assures that Maduro “had stolen the elections”",
-      "source": "El Nacional Venezuela",
-      "country": "Chile",
-      "url": "https://www.elnacional.com/2026/08/gabriel-boric-pide-coherencia-en-la-politica-y-asegura-que-maduro-se-habia-robado-las-elecciones/",
-      "published_date": "2026-08-21T18:54:48+00:00"
-    },
-    {
-      "title": "How Jean-Luc Mélenchon seeks to take control of ecology with a view to the presidential election",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/comment-jean-luc-melenchon-cherche-a-faire-main-basse-sur-l-ecologie-en-vue-de-la-presidentielle-20260821",
-      "published_date": "2026-08-21T18:20:15+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Burhan offers temporary immunity for internal dialogue participants | AU Peace, Security Council in Khartoum | Khartoum, Riyadh establish bilateral coordination council | Second-largest single group RSF defection arrive in Northern State",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/08/21/news/politics/sudan-nashra-burhan-offers-temporary-immunity-for-internal-dialogue-participants-au-peace-security-council-in-khartoum-khartoum-riyadh-establish-bilateral-coordination-council-second-largest/",
-      "published_date": "2026-08-21T17:52:52+00:00"
-    },
-    {
-      "title": "A Moscow court sentences exiled comedian Semyon Slepakov (in absentia) to 400 hours of community service over a song mocking Putin as an ‘eternal little president’",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/21/a-moscow-court-sentences-exiled-comedian-semyon-slepakov-in-absentia-to-400-hours-of-community-service-over-a-song-mocking-putin-as-an-eternal-little-president",
-      "published_date": "2026-08-21T17:17:55+00:00"
-    },
-    {
-      "title": "CCD: No reputable international election monitoring organization is observing Russia's 2026 'elections'",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4156392-ccd-no-reputable-international-election-monitoring-organization-is-observing-russias-2026-elections.html",
-      "published_date": "2026-08-21T16:52:00+00:00"
-    },
-    {
-      "title": "Pakistan : l'ancien Premier ministre Imran Khan reconduit en prison",
-      "source": "France 24 FR",
-      "country": "Pakistan",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260821-pakistan-l-ancien-premier-ministre-imran-khan-reconduit-en-prison",
-      "published_date": "2026-08-21T16:40:40+00:00"
-    },
-    {
-      "title": "Power struggle in the BSW: Wagenknecht's Guardian Council",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/machtkampf-im-bsw-wie-viel-wagenknecht-haelt-eine-partei-aus-201133205.html",
-      "published_date": "2026-08-21T16:00:26+00:00"
-    },
-    {
-      "title": "PPD militants announce their resignation from the party and the creation of the political movement Firmes por Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/militantes-del-ppd-anuncian-su-renuncia-al-partido-y-la-creacion-del-movimiento-politico-firmes-por-chile/",
-      "published_date": "2026-08-21T15:14:32+00:00"
     }
   ]
 }
