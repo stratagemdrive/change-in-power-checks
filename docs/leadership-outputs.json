@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-05T00:35:26.379520+00:00",
-    "story_count": 324,
+    "last_updated": "2026-09-05T13:45:02.323819+00:00",
+    "story_count": 329,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "LIVE - Presidential election 2027: “Tacky patriotism”, “party of submission”, the left castigates the RN’s desire to “cut off the tap” of aid to Ukraine",
+      "source": "Le Figaro France",
+      "country": "Ukraine",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-plusieurs-candidats-attendus-a-la-braderie-de-lille-ce-samedi-20260905",
+      "published_date": "2026-09-05T13:29:02+00:00"
+    },
+    {
+      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+      "published_date": "2026-09-05T10:00:34+00:00"
+    },
+    {
+      "title": "Germany: AfD eyes historic state election win",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
+      "published_date": "2026-09-05T09:58:46+00:00"
+    },
+    {
+      "title": "Regional elections in Germany: the far right hopes to win in Saxony-Anhalt",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-elections-r%C3%A9gionales-en-allemagne-l-extr%C3%AAme-droite-esp%C3%A8re-gagner-en-saxe-anhalt",
+      "published_date": "2026-09-05T09:09:05+00:00"
+    },
+    {
+      "title": "In Israel, religious divisions between Jews enter the legislative election campaign",
+      "source": "Le Monde France",
+      "country": "Israel",
+      "url": "https://www.lemonde.fr/international/article/2026/09/05/en-israel-les-divisions-religieuses-entre-juifs-s-invitent-dans-la-campagne-des-elections-legislatives_6766314_3210.html",
+      "published_date": "2026-09-05T08:00:09+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: The CDU is fighting over the Left Party. And the left?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-cdu-streitet-ueber-die-linkspartei-und-die-linke-accg-201175838.html",
+      "published_date": "2026-09-05T06:59:26+00:00"
+    },
+    {
+      "title": "Taiwan’s opposition parties split over mayoral race, threatening 2028 election alliance",
+      "source": "South China Morning Post",
+      "country": "Taiwan",
+      "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
+      "published_date": "2026-09-05T04:00:09+00:00"
+    },
+    {
+      "title": "In Germany, the memory of the Soviet presence at the heart of the elections in Saxony-Anhalt: “I do not consider the Russians as enemies”",
+      "source": "Le Monde France",
+      "country": "Germany",
+      "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-la-memoire-de-la-presence-sovietique-au-c-ur-des-elections-en-saxe-anhalt-je-ne-considere-pas-les-russes-comme-des-ennemis_6766062_3210.html",
+      "published_date": "2026-09-05T03:00:07+00:00"
+    },
+    {
+      "title": "Canadian intern was found near NATO supreme commander’s office, source says",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-biwei-zhang-spy-espionage/",
+      "published_date": "2026-09-05T00:50:52+00:00"
+    },
     {
       "title": "Javier Milei, EN VIVO: “Dudo que los argentinos sean tan tontos de volver al pasado”, dijo el Presidente sobre las elecciones de 2027",
       "source": "La Nacion Argentina",
@@ -86,6 +149,13 @@
       "country": "France",
       "url": "http://www.euronews.com/my-europe/2026/09/04/france-will-reject-extremism-and-le-pen-in-presidential-election-haddad-says",
       "published_date": "2026-09-04T19:32:55+00:00"
+    },
+    {
+      "title": "US Air Force speeds Reaper successor timeline after Iran losses - Military Times",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVFVRDdSZTJGWkJvTXk1eWZTalJTQnlGV0xneEE1RVkxSGRuWWJlM1lyN3hva0g0OUtWOWRJZmRHY1B1cUJMNkJ6cXA4YVdWeU9RbFVGb0NhT2Q5czBpYmJ5R2ZwZjNyS0FfLXJIaUViS2xNMmRac29ST2cyOUpTZWE3anJ0T0t3UzlJZ3FBOTNTNVpDcWNqa3lGQzdkOUxENlowb2tQY3hwblpjV2VfMTdxVEFmeFEwem9LSnVVajRpUQ?oc=5",
+      "published_date": "2026-09-04T19:27:23+00:00"
     },
     {
       "title": "Sudan Nashra: Hemedti in Addis Ababa | Buildup at Ethiopian base fuels concerns over RSF corridor toward Blue Nile capital, military sends massive reinforcements | RSF fortifies West Darfur capital with berms, reinforces troops | RSF commander in North Kordofan defects, arrives in capital with 200 fighters",
@@ -116,6 +186,13 @@
       "published_date": "2026-09-04T14:15:54+00:00"
     },
     {
+      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt - aljazeera.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkMtNFpxZWRvcHBPZW1vMkY5MTNST2NMemtIQ1dtckVtcjBzd0RaYnB3OXZReUYxNUdKR20zaXM2aXBxeXN6Ynctd1c3Nnd6UTNDVmRRNnhYckZ6MjZfYWt4bjNYclpwRkdmc3VWTHh5YVdUVnFKaDB6b1pOUXhCTS1FbExTVlVwaE1pMTlLSjhTSF9qMmFBZUdkdWFETHZJN2tPWjkzcDFBRXI4Yl9sbDFod1M5MkHSAbwBQVVfeXFMTWNaQ08ySGdycHlESlpHZTdIejVqVm4xRU9PSTVOMzdSZG9QMFI4R0t3MlNLZWdvT1FfR3I5THFpN2VvNGxrRk5GTGxGeHpfdU5famFMX1BUN05PNHZXRWhrazcwOVVxS2xaT0owWXZNTF93RWJvMXNsUy1UOEN4WkJUVnNsZXJYeldOZmFRa0s3MVY4M01Da0RLUFkwNE8xTTZHM3lma0l0OVpGYmgyOV9uWHVyamRWb21KX2E?oc=5",
+      "published_date": "2026-09-04T13:47:39+00:00"
+    },
+    {
       "title": "Moscow Police Detain Yabloko Candidates Running in State Duma Elections",
       "source": "Moscow Times",
       "country": "Russia",
@@ -135,6 +212,13 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
       "published_date": "2026-09-04T12:57:08+00:00"
+    },
+    {
+      "title": "Netanyahu partners renew calls for removal of Gazans as Israeli election nears - Reuters",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanI0ZmZBdDk0QjZSSjhNb3ZFUDBMbnNYc2ZMY1JyNkg5ZDhLRnRJMk1neXVVOGx3ZngtQ2NrZndzZlNlSGVzcFZPSXpqcXFMdjUzYW1OQ29pWXoxRGRoT0lucUR0eWhkcVBPTVVObDBfS2NNaUpJWXhrMzBMOUVHSTFhSGRGSmEyUVpkRmRORXU2Mm9iRDlVOW8tZ2ZESlRtaEpGV21HdHlrNkRLUFhhWkRiZnBqVkZLaVhISzFObw?oc=5",
+      "published_date": "2026-09-04T12:55:45+00:00"
     },
     {
       "title": "Tally Gotliv given second place on Otzma Yehudit's Knesset election list, Ben-Gvir announces",
@@ -2277,55 +2361,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-meets-bjp-s-newly-formed-team-at-party-headquarters-in-delhi-101787407393412.html",
       "published_date": "2026-08-22T14:04:55+00:00"
-    },
-    {
-      "title": "Israel 'baited' Turkey with Abu al-Duhur airbase 'pre-election' strike, US Envoy Tom Barrack says",
-      "source": "Jerusalem Post",
-      "country": "Turkey",
-      "url": "https://www.jpost.com/middle-east/article-906241",
-      "published_date": "2026-08-22T13:04:13+00:00"
-    },
-    {
-      "title": "In France, political start eight months before the presidential election",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-en-france-rentr%C3%A9e-politique-%C3%A0-huit-mois-de-la-pr%C3%A9sidentielle",
-      "published_date": "2026-08-22T12:44:33+00:00"
-    },
-    {
-      "title": "Facing exile and persecution, an Iranian dissident crossed from devout Muslim to student of Judaism",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-906165",
-      "published_date": "2026-08-22T12:28:21+00:00"
-    },
-    {
-      "title": "Photos: Egypt’s Prime Minister visits Tanzania to attend inauguration of Julius Nyerere Dam",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/photos-egypts-prime-minister-visits-tanzania-to-attend-inauguration-of-julius-nyerere-dam/",
-      "published_date": "2026-08-22T08:38:02+00:00"
-    },
-    {
-      "title": "NHAI orders audits, inspections for new national highways inaugurated by PM Modi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/nhai-orders-audits-inspections-for-new-highways-after-delhi-dehradun-defects-101787377380512.html",
-      "published_date": "2026-08-22T05:43:00+00:00"
-    },
-    {
-      "title": "Bangladesh PM's early trip to India falls through, August visit possible",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bangladesh-tarique-rahman-new-delhi-india-visit-sheikh-hasina-extradition-101787356072408.html",
-      "published_date": "2026-08-22T00:51:07+00:00"
-    },
-    {
-      "title": "California lawmaker overcomes pro-Israel spending to win special election",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-      "published_date": "2026-08-22T00:38:06+00:00"
     }
   ]
 }
