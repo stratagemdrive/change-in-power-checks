@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-06T00:30:24.508578+00:00",
-    "story_count": 329,
+    "last_updated": "2026-09-06T14:01:04.078952+00:00",
+    "story_count": 325,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Shah inaugurates new Goa BJP headquarters, event curtailed over Delhi building collapse",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/shah-inaugurates-new-goa-bjp-headquarters-event-curtailed-over-delhi-building-collapse/article71435407.ece",
+      "published_date": "2026-09-06T13:29:27+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote in Argentina and what to choose",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+      "published_date": "2026-09-06T13:10:49+00:00"
+    },
+    {
+      "title": "When do you vote for president in Argentina? All about the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-06T13:10:46+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-06T13:10:43+00:00"
+    },
+    {
+      "title": "Elections in Brazil 2026: who are the candidates for president",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
+      "published_date": "2026-09-06T13:10:01+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-09-06T13:09:58+00:00"
+    },
+    {
+      "title": "Fatah Central Committee secretary-general reveals Hamas talks in Turkey, doubts elections - report",
+      "source": "Jerusalem Post",
+      "country": "Turkey",
+      "url": "https://www.jpost.com/middle-east/article-907687",
+      "published_date": "2026-09-06T12:35:05+00:00"
+    },
+    {
+      "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
+      "published_date": "2026-09-06T12:26:35+00:00"
+    },
+    {
+      "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-elections-r%C3%A9gionales-en-allemagne-le-parti-de-l-afd-gouvernera-t-il-en-saxe-anhalt",
+      "published_date": "2026-09-06T11:51:46+00:00"
+    },
+    {
+      "title": "Prince Hisahito turns 20 as Japan’s government reinforces male-only succession rules - Politico",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQU1jTDZxdlRacXFlLTBwdEZoTXRwbFR6MmdBX3BWVDU4XzZkSlkxYzNfZFVfbE1HYkU0ejFlLXljcGxPR1dKb2g4N1dyblVwbktFQVV1bWVIVkp0aWkxNXRtaVVGUkVhSERKV3BwZXItd1pEOUY0a1p3a2J4ZXk2M1pTZ2l2cTFfNnB6a2VoRFM0Z1U4QmMxa3Vhb1FmQkhNNnN4ekJOWXVvTmJGVlFsVWEwaWtZUEhrU0c4TENCTUNfVXlTb2ZOZFYtdWJnQQ?oc=5",
+      "published_date": "2026-09-06T11:51:00+00:00"
+    },
+    {
+      "title": "‘Will PM Modi visit DU again and explain?’: Abhijeet Dipke hits out at Centre after Delhi boys' PG building collapse",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/delhi-boys-pg-building-collapse-abhijeet-dipke-will-pm-modi-visit-du-explain-hits-out-after-congress-satya-niketan-toll-101788691902608.html",
+      "published_date": "2026-09-06T11:13:53+00:00"
+    },
+    {
+      "title": "Second Libyan-American Development and Reconstruction Forum inaugurated in Benghazi",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/09/second-libyan-american-development-and-reconstruction-forum-inaugurated-in-benghazi/",
+      "published_date": "2026-09-06T10:52:00+00:00"
+    },
+    {
+      "title": "Far-right AfD predicted to win big in crucial German state election",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+      "published_date": "2026-09-06T10:50:21+00:00"
+    },
+    {
+      "title": "Regional elections in Germany: Ulrich Siegmund, AfD candidate and social media star",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-elections-r%C3%A9gionales-en-allemagne-ulrich-siegmund-candidat-de-l-afd-et-star-des-r%C3%A9seaux-sociaux",
+      "published_date": "2026-09-06T09:06:50+00:00"
+    },
+    {
+      "title": "Polls open in Saxony-Anhalt as AfD predicted to win state election",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/my-europe/2026/09/06/polls-open-in-saxony-anhalt-as-afd-predicted-to-win-state-election",
+      "published_date": "2026-09-06T08:14:24+00:00"
+    },
+    {
+      "title": "Germany’s far-right AfD eyes historic breakthrough in Saxony-Anhalt election",
+      "source": "RFI English",
+      "country": "Germany",
+      "url": "https://www.rfi.fr/en/international/20260906-germany-s-far-right-afd-eyes-historic-breakthrough-in-saxony-anhalt-election",
+      "published_date": "2026-09-06T08:12:46+00:00"
+    },
+    {
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3dERFpaZ0twckt5anRsUzA3a25QelhPSTR4VWhSbnFQaHBUcWxXZTF0MmVEZUlhQ3J0X2pCRWJHZmcxdDRxUDQ0R2ZzajJibk5zNTJyaDlDZm5lZnhhcGNndm1kcEx3Z09DY3dlSGt0alg0LTI4UnJzUklHekNfd19LTmozRlNMci1abExvN0Q?oc=5",
+      "published_date": "2026-09-06T07:58:55+00:00"
+    },
+    {
+      "title": "Failed Coup: Niger blames France, neighbouring countries, threatens international action",
+      "source": "Premium Times Nigeria",
+      "country": "France",
+      "url": "https://www.premiumtimesng.com/news/headlines/907669-failed-coup-niger-blames-france-neighbouring-countries-threatens-international-action.html",
+      "published_date": "2026-09-06T06:12:51+00:00"
+    },
+    {
+      "title": "Germany's far-right AfD eyes historic state victory in Saxony-Anhalt election",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
+      "published_date": "2026-09-06T05:52:06+00:00"
+    },
     {
       "title": "American Jews don’t vote in Israel - so why are they being polled on its election? - opinion",
       "source": "Jerusalem Post",
@@ -86,6 +219,13 @@
       "country": "Germany",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
       "published_date": "2026-09-05T18:07:43+00:00"
+    },
+    {
+      "title": "Before the election in Brazil: When Bolsonaro campaigns as an AI avatar",
+      "source": "FAZ Germany",
+      "country": "Brazil",
+      "url": "https://www.faz.net/aktuell/politik/ausland/bolsonaro-als-ki-avatar-deepfakes-im-wahlkampf-in-brasilien-accg-201184710.html",
+      "published_date": "2026-09-05T15:03:36+00:00"
     },
     {
       "title": "Presidential campaigning kicks off in France ahead of 2027 elections",
@@ -1936,13 +2076,6 @@
       "published_date": "2026-08-25T11:13:14+00:00"
     },
     {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-08-25T10:22:53+00:00"
-    },
-    {
       "title": "Myanmar junta airstrike in Paletwa kills five and injures 17, including children",
       "source": "Myanmar Now",
       "country": "Myanmar",
@@ -2060,13 +2193,6 @@
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnZuamthcDU1dU5zWFB0Zk5mTmlHdXhMdWpJYkNuZ2FIMUZZSVZLdm1UQmd3RlFDNi01aUg4cWljQjBpVnlvNmNRVS1wSUQ0bDI3WXFMc3FFa19Nd0JEWERubGlpSmdIb2tuaDVHdERhS1kyRm43a0Z3U2l0M3M2blNFUTJMdVhxTXZWcXNWUTNGbHRjRzNmd1RVS0JDNXk3MzBoaUE2eGJTQU90aGR4LUlmUnlaMVZZSGgyV3pR?oc=5",
       "published_date": "2026-08-24T10:58:58+00:00"
-    },
-    {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-08-24T10:50:42+00:00"
     },
     {
       "title": "Controversies, audience records, internal rebellion... Léa Salamé's erratic year on France 2's “20 Heures”",
@@ -2207,160 +2333,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/indira-gandhis-antakshari-games-to-narendra-modis-sabudana-khichdi-recipe-behind-pms-dining-tables-101787490658966.html",
       "published_date": "2026-08-23T14:43:24+00:00"
-    },
-    {
-      "title": "President Zelensky says having elections in Ukraine would 'destroy the country'",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
-      "published_date": "2026-08-23T13:07:13+00:00"
-    },
-    {
-      "title": "Hamas in talks with former Fatah rival Mohammed Dahlan ahead of Palestinian elections",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-906310",
-      "published_date": "2026-08-23T12:33:57+00:00"
-    },
-    {
-      "title": "Wartime elections would 'destroy' Ukraine, says Zelensky",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
-      "published_date": "2026-08-23T12:30:37+00:00"
-    },
-    {
-      "title": "Ex-spy Jonathan Pollard joins Sharren Haskel's Israel First party ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906303",
-      "published_date": "2026-08-23T12:08:03+00:00"
-    },
-    {
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "published_date": "2026-08-23T11:50:12+00:00"
-    },
-    {
-      "title": "In Russia, Vladimir Putin puts the presidential party in battle order for the September legislative elections",
-      "source": "Le Figaro France",
-      "country": "Russia",
-      "url": "https://www.lefigaro.fr/international/poutine-met-le-parti-presidentiel-en-ordre-de-bataille-pour-les-legislatives-de-septembre-20260822",
-      "published_date": "2026-08-23T10:47:16+00:00"
-    },
-    {
-      "title": "French 2027 presidential election: Glucksmann enters the race",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/08/23/french-2027-presidential-election-raphael-glucksmann-prepares-to-enter-the-ring",
-      "published_date": "2026-08-23T10:46:20+00:00"
-    },
-    {
-      "title": "French 2027 election: Glucksmann confirms bid - Euronews.com",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVklqZEpyaUd6R3pSSTRiRWxfSGZzdTRJWDgzZHcxUEtkcVBJZF92RUdtSW9yYjF2TnY4WXdDSmF4VlZ5SkMyeFhicjZZTFEta0JaTVJxS1F0ZVRNQlNqQk5KZnY1LWRuQW11SXZIOFRjdTNOZ0FwN1N0NS1vSGRwS1hsOW1QeGl5cV9keFljYmtiM3BuWUdFMG1vYjQtdnRzUm9yUDBHRExSYzdtVVNWRFNMRFNXQTRWblh6clk3NmdWcEE?oc=5",
-      "published_date": "2026-08-23T10:46:20+00:00"
-    },
-    {
-      "title": "LIVE - Presidential election 2027: Mélenchon addresses the prefects: “We are not your friends!”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-candidats-election-universites-d-ete-jean-luc-melenchon-raphael-glucksmann-edouard-philippe-lfi-20260823",
-      "published_date": "2026-08-23T10:40:02+00:00"
-    },
-    {
-      "title": "Did electoral nervousness come early? Argentine bonds begin to incorporate risk due to the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/se-adelanto-el-nerviosismo-electoral-los-bonos-argentinos-empiezan-a-incorporar-el-riesgo-por-las-nid23082026/",
-      "published_date": "2026-08-23T10:35:13+00:00"
-    },
-    {
-      "title": "Ukraine: Zelenskyy rejects wartime elections",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-23T10:23:00+00:00"
-    },
-    {
-      "title": "War in Ukraine: elections would be “a tsunami” that would “fracture” the country, says Volodymyr Zelensky",
-      "source": "Le Figaro France",
-      "country": "Ukraine",
-      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-elections-seraient-un-tsunami-qui-fracturerait-le-pays-affirme-volodymyr-zelensky-20260823",
-      "published_date": "2026-08-23T10:09:11+00:00"
-    },
-    {
-      "title": "2027 presidential election: what are Jean-Luc Mélenchon's chances of qualifying for the second round?",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20262308",
-      "published_date": "2026-08-23T09:57:52+00:00"
-    },
-    {
-      "title": "Zelenskyy says holding elections during war would 'destroy' Ukraine",
-      "source": "CBC News World",
-      "country": "Ukraine",
-      "url": "https://www.cbc.ca/news/world/zelenskyy-elections-destroy-ukraine-9.7317388?cmp=rss",
-      "published_date": "2026-08-23T09:41:41+00:00"
-    },
-    {
-      "title": "Can Raphaël Glucksmann beat Jean-Luc Mélenchon in the first round of the presidential election?",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/raphael-glucksmann-peut-il-devancer-jean-luc-melenchon-au-premier-tour-de-la-presidentielle-20260823",
-      "published_date": "2026-08-23T09:06:44+00:00"
-    },
-    {
-      "title": "Lula's diplomatic offensive to protect himself against an election that promises to be fierce",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-ofensiva-diplomatica-de-lula-para-blindarse-ante-una-eleccion-que-promete-ser-feroz-nid23082026/",
-      "published_date": "2026-08-23T09:00:01+00:00"
-    },
-    {
-      "title": "LIVE, war in Ukraine: Volodymyr Zelensky believes that holding elections would cause a “tsunami” that would “fracture” the country",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-qu-organiser-des-elections-provoquerait-un-tsunami-qui-fracturerait-l-ukraine_6753793_3210.html",
-      "published_date": "2026-08-23T08:24:26+00:00"
-    },
-    {
-      "title": "Putin will draft 300,000 new troops after September elections, Zelenskiy says - Reuters",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
-      "published_date": "2026-08-23T08:17:43+00:00"
-    },
-    {
-      "title": "Hussein al-Sheikh: Decision to hold Palestinian elections in November stands",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hussein-al-sheikh-decision-hold-palestinian-elections-november-stands",
-      "published_date": "2026-08-23T05:26:32+00:00"
-    },
-    {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "source": "Deutsche Welle English",
-      "country": "China",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-23T04:23:00+00:00"
-    },
-    {
-      "title": "Las alertas que deja el 'Libro de la verdad' del presidente Abelardo De La Espriella sobre la administración de Gustavo Petro",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-alertas-que-deja-el-libro-de-la-verdad-del-presidente-abelardo-de-la-espriella-sobre-la-administracion-de-gustavo-petro-3580331",
-      "published_date": "2026-08-23T03:40:00+00:00"
-    },
-    {
-      "title": "Presidential election has first debate with probable absence of Lula and Flávio",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml",
-      "published_date": "2026-08-23T02:00:00+00:00"
     }
   ]
 }
