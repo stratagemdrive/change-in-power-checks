@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-05T13:45:02.323819+00:00",
+    "last_updated": "2026-09-06T00:30:24.508578+00:00",
     "story_count": 329,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "American Jews don’t vote in Israel - so why are they being polled on its election? - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-907347",
+      "published_date": "2026-09-06T00:20:38+00:00"
+    },
+    {
+      "title": "Menem aseguró que Milei será el primer presidente no peronista en reelegir y le envió un mensaje a los inversores: “No esperen”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/menem-aseguro-que-milei-sera-el-primer-presidente-no-peronista-en-reelegir-y-le-envio-un-mensaje-a-nid05092026/",
+      "published_date": "2026-09-05T23:36:15+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro calls Moraes 'rotten orange of the STF' during visit to convict for coup plot",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-moraes-de-laranja-podre-do-stf-em-visita-a-condenado-por-trama-golpista.shtml",
+      "published_date": "2026-09-05T20:30:00+00:00"
+    },
+    {
+      "title": "Germany’s far-right AfD eyes historic first in state election",
+      "source": "Al Jazeera English",
+      "country": "Germany",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
+      "published_date": "2026-09-05T18:07:43+00:00"
+    },
+    {
+      "title": "Presidential campaigning kicks off in France ahead of 2027 elections",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections",
+      "published_date": "2026-09-05T14:32:10+00:00"
+    },
     {
       "title": "LIVE - Presidential election 2027: “Tacky patriotism”, “party of submission”, the left castigates the RN’s desire to “cut off the tap” of aid to Ukraine",
       "source": "Le Figaro France",
@@ -130,6 +165,13 @@
       "published_date": "2026-09-05T00:17:00+00:00"
     },
     {
+      "title": "Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son - CBS News",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3NFNLM2R5QXl6Wncta3RMcnRhU3NvQTJzT2lRdURTWmM5aXFwa2s5Vzc4NXBkcHAyeXBfSDdNX1N0WWlSU0JRMHBqSjBMOUpYX2VuemRFdVRpbGRlN0xQa2xtanc5YVZxN3hRZjBfTWI4ZlJRR3BR?oc=5",
+      "published_date": "2026-09-04T21:26:00+00:00"
+    },
+    {
       "title": "Federal Tories launch ‘Conservatives for Canada’ campaign ahead of Alberta referendum",
       "source": "Globe and Mail Politics",
       "country": "Canada",
@@ -163,6 +205,13 @@
       "country": "Sudan",
       "url": "https://www.madamasr.com/en/2026/09/04/news/u/sudan-nashra-hemedti-in-addis-ababa-buildup-at-ethiopian-base-fuels-concerns-over-rsf-corridor-toward-blue-nile-capital-military-sends-massive-reinforcements-rsf-fortifies-west-darfur-capital-wi/",
       "published_date": "2026-09-04T17:20:45+00:00"
+    },
+    {
+      "title": "Third German grid sabotage attempt as state election looms - Yahoo News Singapore",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1FWMFJLUnllcTlkcGJnaWN0Tjk3cUZJR1JkSklTeEtvNHBvN0Ywc1BPcmZkQU5CakZjV2xiU2JidmUtQWszUmljS3ZXNDF5UzlEVC1BclkyUXo2REFvQzdtbFFKWllzNmt1NUZOcE9XaEVIaEFfcnRvY2hIWUZ3WnAyMEg2ZEE?oc=5",
+      "published_date": "2026-09-04T14:39:42+00:00"
     },
     {
       "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
@@ -2312,55 +2361,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml",
       "published_date": "2026-08-23T02:00:00+00:00"
-    },
-    {
-      "title": "Presidente da CNI elogia conversa entre Lula e Trump e pede solução técnica para tarifaço",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/presidente-da-cni-elogia-conversa-entre-lula-e-trump-e-pede-solucao-tecnica-para-tarifaco.shtml",
-      "published_date": "2026-08-22T23:19:00+00:00"
-    },
-    {
-      "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/la-humanidad/ong-pide-al-gobierno-interino-ampliar-cooperacion-del-cicr-en-carceles-venezolanas/",
-      "published_date": "2026-08-22T21:32:55+00:00"
-    },
-    {
-      "title": "Almost half of the mayors of Buenos Aires cannot seek re-election in 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/casi-la-mitad-de-los-intendentes-bonaerenses-no-pueden-aspirar-a-la-reeleccion-en-2027-nid22082026/",
-      "published_date": "2026-08-22T20:36:15+00:00"
-    },
-    {
-      "title": "Sanwo-Olu appointed South-West Coordinator of Tinubu’s re-election campaign",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/sanwo-olu-appointed-south-west-coordinator-of-tinubus-re-election-campaign/",
-      "published_date": "2026-08-22T19:22:08+00:00"
-    },
-    {
-      "title": "How is the pro-Israel lobby influencing US elections?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-08-22T16:17:54+00:00"
-    },
-    {
-      "title": "Outcry after statement: Ben-Gvir's election campaign noise and the German theater thunder",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/ausland/itamar-ben-gvir-und-die-deutsche-israel-diskussion-201137520.html",
-      "published_date": "2026-08-22T15:15:46+00:00"
-    },
-    {
-      "title": "PM Modi meets BJP’s newly formed team at party headquarters in Delhi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-meets-bjp-s-newly-formed-team-at-party-headquarters-in-delhi-101787407393412.html",
-      "published_date": "2026-08-22T14:04:55+00:00"
     }
   ]
 }
