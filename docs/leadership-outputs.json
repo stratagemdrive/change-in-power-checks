@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-07T00:36:56.824276+00:00",
-    "story_count": 326,
+    "last_updated": "2026-09-07T16:22:37.325226+00:00",
+    "story_count": 353,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,249 @@
   },
   "stories": [
     {
-      "title": "Far-right AfD set for historic win in crucial German state election, exit polls show",
+      "title": "Germany: election of the AfD, a Russophile and pro-Trump party",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-allemagne-%C3%A9lection-de-l-afd-un-parti-russophile-et-pro-trump",
+      "published_date": "2026-09-07T15:47:43+00:00"
+    },
+    {
+      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+      "published_date": "2026-09-07T15:30:44+00:00"
+    },
+    {
+      "title": "APM inaugurates campaign office, vows to reset Nigeria",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/apm-inaugurates-campaign-office-vows-to-reset-nigeria/",
+      "published_date": "2026-09-07T15:28:07+00:00"
+    },
+    {
+      "title": "Regional elections in Germany: running a state, what does it mean?",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-%C3%A9lections-r%C3%A9gionales-en-allemagne-diriger-un-land-qu-est-ce-que-%C3%A7a-signifie",
+      "published_date": "2026-09-07T15:27:24+00:00"
+    },
+    {
+      "title": "Merz says Germany needs reform, defends democratic order after historic election defeat against AfD",
+      "source": "Jerusalem Post",
+      "country": "Germany",
+      "url": "https://www.jpost.com/international/article-907836",
+      "published_date": "2026-09-07T15:26:34+00:00"
+    },
+    {
+      "title": "'In deep shock': Germany reacts to far right's seismic win in local election",
+      "source": "Middle East Eye",
+      "country": "Germany",
+      "url": "https://www.middleeasteye.net/news/deep-shock-germany-reacts-far-right-seismic-win-local-election",
+      "published_date": "2026-09-07T14:56:38+00:00"
+    },
+    {
+      "title": "Saxony-Anhalt election 2026: What matters now are these five heads at BSW",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/bsw-in-sachsen-anhalt-auf-diese-5-abgeordneten-kommt-es-jetzt-an-201202345.html",
+      "published_date": "2026-09-07T14:42:25+00:00"
+    },
+    {
+      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
       "source": "The Independent UK",
       "country": "Germany",
       "url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html",
-      "published_date": "2026-09-06T22:31:48+00:00"
+      "published_date": "2026-09-07T14:32:44+00:00"
+    },
+    {
+      "title": "Merz warns of 'consequences' after state election defeat in Saxony-Anhalt",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/my-europe/2026/09/07/merz-warns-of-consequences-after-state-election-defeat-in-saxony-anhalt",
+      "published_date": "2026-09-07T14:27:57+00:00"
+    },
+    {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T14:04:01+00:00"
+    },
+    {
+      "title": "AfD victory in German regional elections: political reactions in France",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-%C3%A9lections-de-l-extr%C3%AAme-droite-en-allemagne-les-politiciens-fran%C3%A7ais-r%C3%A9agissent",
+      "published_date": "2026-09-07T13:46:18+00:00"
+    },
+    {
+      "title": "Prosecutor in case against Armenian church leader resigns",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/prosecutor-in-case-against-armenian-church-leader-resigns/",
+      "published_date": "2026-09-07T13:39:08+00:00"
+    },
+    {
+      "title": "Mojtaba Khamenei completes six months as supreme leader of Iran without appearing in public",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/09/mojtaba-jamenei-cumple-seis-meses-como-lider-supremo-de-iran-sin-aparecer-en-publico/",
+      "published_date": "2026-09-07T13:19:13+00:00"
+    },
+    {
+      "title": "The victory of the AfD in Saxony-Anhalt causes a shock in France, as the presidential election approaches",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/07/en-france-le-choc-de-la-victoire-de-l-extreme-droite-allemande-en-saxe-anhalt-a-l-approche-de-l-election-presidentielle_6767945_823448.html",
+      "published_date": "2026-09-07T13:18:25+00:00"
+    },
+    {
+      "title": "What AfD's election victory in Germany's Saxony-Anhalt could mean for Jewish life - analysis",
+      "source": "Jerusalem Post",
+      "country": "Germany",
+      "url": "https://www.jpost.com/international/article-907814",
+      "published_date": "2026-09-07T13:12:24+00:00"
+    },
+    {
+      "title": "REPLAY: 'Shocked' Merz speaks after far-right election victory",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/video/20260907-replay-shocked-merz-speaks-after-far-right-election-victory",
+      "published_date": "2026-09-07T13:04:47+00:00"
+    },
+    {
+      "title": "‘Idiots and traitors’: World reacts to AfD’s election victory",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/video/20260907-idiots-and-traitors-world-reacts-to-afd-s-election-victory",
+      "published_date": "2026-09-07T13:02:23+00:00"
+    },
+    {
+      "title": "Who could form a coalition with Germany's AfD after election victory?",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/video/20260907-who-could-form-a-coalition-with-germany-s-afd-after-election-victory",
+      "published_date": "2026-09-07T12:23:19+00:00"
+    },
+    {
+      "title": "Live blog about the election in Saxony-Anhalt: Merz: We are all deeply shocked",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-merz-wir-sind-alle-zutiefst-schockiert-faz-110093143.html",
+      "published_date": "2026-09-07T11:45:04+00:00"
+    },
+    {
+      "title": "Communist Bondarenko Barred From Running in State Duma Elections",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/07/communist-bondarenko-barred-from-running-in-state-duma-elections-a93653",
+      "published_date": "2026-09-07T11:29:00+00:00"
+    },
+    {
+      "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
+      "published_date": "2026-09-07T11:20:53+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: Even if Merz is not Moses",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-sieg-in-sachsen-anhalt-was-bedeutet-das-fuer-merz-201202058.html",
+      "published_date": "2026-09-07T11:13:07+00:00"
+    },
+    {
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "source": "NPR World",
+      "country": "Germany",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "published_date": "2026-09-07T11:11:51+00:00"
+    },
+    {
+      "title": "Russian journalists fled their country after the invasion of Ukraine. My Undesirable Friends: Part II follows their lives in exile.",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/09/07/russian-journalists-fled-their-country-after-the-invasion-of-ukraine-my-undesirable-friends-part-ii-follows-their-lives-in-exile",
+      "published_date": "2026-09-07T10:16:06+00:00"
+    },
+    {
+      "title": "Far-right AfD’s shock election win threatens to upend German politics",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/germany-elections-afd-saxony-anhalt-b3045879.html",
+      "published_date": "2026-09-07T10:10:15+00:00"
+    },
+    {
+      "title": "'Jubilation and pain': German far right marches to victory in key state election",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
+      "published_date": "2026-09-07T10:05:58+00:00"
+    },
+    {
+      "title": "Far-right AfD wins crushing victory in German state election",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election",
+      "published_date": "2026-09-07T09:55:25+00:00"
+    },
+    {
+      "title": "After election victory: This is the AfD's most realistic power option in Saxony-Anhalt",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-in-sachsen-anhalt-wer-regiert-mit-ulrich-siegmund-accg-201200588.html",
+      "published_date": "2026-09-07T09:30:09+00:00"
+    },
+    {
+      "title": "Berlin election: And then Christian Lindner is suddenly back",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/christian-lindner-kaempft-fuer-die-fdp-im-berliner-wahlkampf-accg-201195041.html",
+      "published_date": "2026-09-07T09:12:40+00:00"
+    },
+    {
+      "title": "General Biletskyi refutes Russian claim of capturing Sviatohirsk",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4161558-general-biletskyi-refutes-russian-claim-of-capturing-sviatohirsk.html",
+      "published_date": "2026-09-07T08:43:00+00:00"
+    },
+    {
+      "title": "Germany's Chancellor Friedrich Merz under pressure after far-right election triumph",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "http://www.euronews.com/my-europe/2026/09/07/germanys-chancellor-friedrich-merz-under-pressure-after-far-right-election-triumph",
+      "published_date": "2026-09-07T08:20:58+00:00"
+    },
+    {
+      "title": "Germany’s far-right AfD hails unprecedented election win: 3 scenarios for what happens next",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/afd-germany-election-what-now-saxony-b3045566.html",
+      "published_date": "2026-09-07T06:43:06+00:00"
+    },
+    {
+      "title": "Election in Saxony-Anhalt: Attracted by Siegmund, repelled by Merz",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-siegmund-war-der-erste-afd-kandidat-den-die-waehler-liebten-die-wahlanalyse-accg-201200407.html",
+      "published_date": "2026-09-07T04:07:44+00:00"
+    },
+    {
+      "title": "Israel’s ‘crazy election’ making it ‘a little irrational’ in regards to Gaza plan, Kushner says",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/article-907759",
+      "published_date": "2026-09-07T01:05:46+00:00"
+    },
+    {
+      "title": "Lula adopts sovereignty as the theme of his 7th of September speech on TV on the eve of the election",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-adota-soberania-como-tema-de-pronunciamento-do-7-de-setembro-na-tv-as-vesperas-da-eleicao.shtml",
+      "published_date": "2026-09-06T23:33:00+00:00"
     },
     {
       "title": "Far-right AfD wins historic victory in German state election",
@@ -74,11 +312,11 @@
       "published_date": "2026-09-06T22:26:00+00:00"
     },
     {
-      "title": "Germany’s far-right AfD set for unprecedented election win: 3 scenarios for what happens next",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/afd-germany-election-what-now-saxony-b3045566.html",
-      "published_date": "2026-09-06T19:51:04+00:00"
+      "title": "US Secretary of Energy assured that there will be elections in Venezuela",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/secretario-de-energia-de-ee-uu-aseguro-que-se-celebraran-elecciones-en-venezuela/",
+      "published_date": "2026-09-06T22:23:36+00:00"
     },
     {
       "title": "Germany's far-right AfD celebrate projected win in state election",
@@ -88,11 +326,25 @@
       "published_date": "2026-09-06T18:32:53+00:00"
     },
     {
+      "title": "John Magdaleno estimated that elections in Venezuela would not be held until the end of next year",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/john-magdaleno-estimo-que-elecciones-en-venezuela-no-se-celebrarian-hasta-finales-del-proximo-ano/",
+      "published_date": "2026-09-06T18:30:06+00:00"
+    },
+    {
       "title": "Far-right AfD wins key German state election but may fail to secure majority",
       "source": "The Guardian World",
       "country": "Germany",
       "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
       "published_date": "2026-09-06T18:13:29+00:00"
+    },
+    {
+      "title": "“Thüringen.Gerecht”: Resigned BSW members found a new party in Thuringia",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/thueringen-gerecht-ehemalige-bsw-mitglieder-gruenden-neue-partei-201200170.html",
+      "published_date": "2026-09-06T17:59:52+00:00"
     },
     {
       "title": "Rahul to be ‘face of INDIA bloc’ in 2029: Cong's Venugopal amid TVK's ‘Vijay for PM’ pitch",
@@ -109,6 +361,13 @@
       "published_date": "2026-09-06T16:36:48+00:00"
     },
     {
+      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+      "source": "NPR World",
+      "country": "Germany",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+      "published_date": "2026-09-06T16:36:48+00:00"
+    },
+    {
       "title": "‘Distressing’: PM Modi expresses condolences after Delhi building collapse",
       "source": "Hindustan Times",
       "country": "India",
@@ -116,11 +375,18 @@
       "published_date": "2026-09-06T14:23:54+00:00"
     },
     {
-      "title": "Far-right AfD party takes big lead in regional German election",
+      "title": "Lula's lead over Bolsonaro narrows ahead of elections in Brazil, according to poll",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/09/se-reduce-la-ventaja-de-lula-sobre-bolsonaro-de-cara-a-las-elecciones-en-brasil-segun-sondeo/",
+      "published_date": "2026-09-06T13:48:22+00:00"
+    },
+    {
+      "title": "Far-right AfD wins German state election but falls short of majority",
       "source": "CBC News World",
       "country": "Germany",
       "url": "https://www.cbc.ca/news/world/afd-germany-election-saxony-anhalt-9.7334357?cmp=rss",
-      "published_date": "2026-09-06T13:34:57+00:00"
+      "published_date": "2026-09-06T13:34:20+00:00"
     },
     {
       "title": "Shah inaugurates new Goa BJP headquarters, event curtailed over Delhi building collapse",
@@ -2263,83 +2529,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/presidente-del-ppd-la-responsabilidad-si-la-expresidenta-bachelet-fracasa-tiene-nombre-y-apellido-jose-antonio-kast/",
       "published_date": "2026-08-24T16:31:42+00:00"
-    },
-    {
-      "title": "UN peacekeepers killed in South Sudan ambush as fears grow over full-blown civil war",
-      "source": "The Independent UK",
-      "country": "Sudan",
-      "url": "https://www.independent.co.uk/news/world/africa/south-sudan-un-peacekeepers-killed-civil-war-b3038347.html",
-      "published_date": "2026-08-24T15:28:17+00:00"
-    },
-    {
-      "title": "Lula, Flavio Bolsonaro neck and neck ahead of Brazil election, Nexus poll shows - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnZuamthcDU1dU5zWFB0Zk5mTmlHdXhMdWpJYkNuZ2FIMUZZSVZLdm1UQmd3RlFDNi01aUg4cWljQjBpVnlvNmNRVS1wSUQ0bDI3WXFMc3FFa19Nd0JEWERubGlpSmdIb2tuaDVHdERhS1kyRm43a0Z3U2l0M3M2blNFUTJMdVhxTXZWcXNWUTNGbHRjRzNmd1RVS0JDNXk3MzBoaUE2eGJTQU90aGR4LUlmUnlaMVZZSGgyV3pR?oc=5",
-      "published_date": "2026-08-24T10:58:58+00:00"
-    },
-    {
-      "title": "Controversies, audience records, internal rebellion... Léa Salamé's erratic year on France 2's “20 Heures”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/polemiques-records-d-audiences-fronde-interne-l-annee-erratique-de-lea-salame-au-20-heures-de-france-2-20260824",
-      "published_date": "2026-08-24T10:49:57+00:00"
-    },
-    {
-      "title": "Peru declares a state of emergency in five districts of the Ayacucho region after Thursday's earthquake",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/peru-declara-el-estado-de-emergencia-en-cinco-distritos-de-la-region-de-ayacucho-tras-el-terremoto-del-jueves/",
-      "published_date": "2026-08-24T10:14:57+00:00"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Andy Burnham, premier ministre britannique en visite à Kiev, promet de continuer à aider malgré les « scandaleuses menaces » de la Russie",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-est-a-kiev-pour-son-premier-deplacement-a-l-etranger_6753793_3210.html",
-      "published_date": "2026-08-24T09:01:10+00:00"
-    },
-    {
-      "title": "Election Berlin 2026: Which party is closest to you in the election in Berlin?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-der-wahl-o-mat-ist-jetzt-online-accg-201144358.html",
-      "published_date": "2026-08-24T09:00:00+00:00"
-    },
-    {
-      "title": "UK, Luxembourg PMs, Presidents of Moldova and Estonia, European Council Chief arrive in Kyiv",
-      "source": "Ukrinform",
-      "country": "United Kingdom",
-      "url": "https://www.ukrinform.net/rubric-polytics/4157063-uk-luxembourg-pms-presidents-of-moldova-and-estonia-european-council-chief-arrive-in-kyiv.html",
-      "published_date": "2026-08-24T07:20:00+00:00"
-    },
-    {
-      "title": "Centre-left Glucksmann enters French presidential race as left tries to unite",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260824-centre-left-glucksmann-enters-french-presidential-race-as-left-tries-to-unite",
-      "published_date": "2026-08-24T06:18:46+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: The firewall is also a protective shield for the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zur-afd-die-brandmauer-ist-auch-ein-schutzschild-201143130.html",
-      "published_date": "2026-08-24T06:16:09+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: The firewall is also a protective shield for the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/wahl-sachsen-anhalt-2026-die-brandmauer-ist-fuer-die-afd-auch-ein-schutzschild-201143130.html",
-      "published_date": "2026-08-24T06:16:09+00:00"
-    },
-    {
-      "title": "EU MP: Glucksmann is running in the presidential election in France",
-      "source": "FAZ Germany",
-      "country": "France",
-      "url": "https://www.faz.net/aktuell/politik/ausland/raphael-glucksmann-kandidiert-bei-praesidentschaftswahl-in-frankreich-accg-201152972.html",
-      "published_date": "2026-08-24T04:41:11+00:00"
     }
   ]
 }
