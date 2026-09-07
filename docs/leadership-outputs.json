@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-06T14:01:04.078952+00:00",
-    "story_count": 325,
+    "last_updated": "2026-09-07T00:36:56.824276+00:00",
+    "story_count": 326,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "Far-right AfD set for historic win in crucial German state election, exit polls show",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html",
+      "published_date": "2026-09-06T22:31:48+00:00"
+    },
+    {
+      "title": "Far-right AfD wins historic victory in German state election",
+      "source": "Japan Times",
+      "country": "Germany",
+      "url": "https://www.japantimes.co.jp/news/2026/09/07/world/far-right-afd-german-election/",
+      "published_date": "2026-09-06T22:26:00+00:00"
+    },
+    {
+      "title": "Germany’s far-right AfD set for unprecedented election win: 3 scenarios for what happens next",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/afd-germany-election-what-now-saxony-b3045566.html",
+      "published_date": "2026-09-06T19:51:04+00:00"
+    },
+    {
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-06T18:32:53+00:00"
+    },
+    {
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "published_date": "2026-09-06T18:13:29+00:00"
+    },
+    {
+      "title": "Rahul to be ‘face of INDIA bloc’ in 2029: Cong's Venugopal amid TVK's ‘Vijay for PM’ pitch",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-cm-vijay-to-be-face-of-india-bloc-in-2029-congress-venugopal-tvk-pm-pitch-tamil-nadu-101788708276707.html",
+      "published_date": "2026-09-06T17:06:15+00:00"
+    },
+    {
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "source": "NPR World",
+      "country": "Germany",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+      "published_date": "2026-09-06T16:36:48+00:00"
+    },
+    {
+      "title": "‘Distressing’: PM Modi expresses condolences after Delhi building collapse",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/distressing-pm-modi-expresses-condolences-after-delhi-boys-pg-building-collapse-satya-niketan-101788704573174.html",
+      "published_date": "2026-09-06T14:23:54+00:00"
+    },
+    {
+      "title": "Far-right AfD party takes big lead in regional German election",
+      "source": "CBC News World",
+      "country": "Germany",
+      "url": "https://www.cbc.ca/news/world/afd-germany-election-saxony-anhalt-9.7334357?cmp=rss",
+      "published_date": "2026-09-06T13:34:57+00:00"
+    },
+    {
       "title": "Shah inaugurates new Goa BJP headquarters, event curtailed over Delhi building collapse",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/news/national/shah-inaugurates-new-goa-bjp-headquarters-event-curtailed-over-delhi-building-collapse/article71435407.ece",
       "published_date": "2026-09-06T13:29:27+00:00"
+    },
+    {
+      "title": "Germany’s far-right AfD wins historic 44% in Saxony-Anhalt election, exit polls show",
+      "source": "Jerusalem Post",
+      "country": "Germany",
+      "url": "https://www.jpost.com/international/article-907696",
+      "published_date": "2026-09-06T13:14:33+00:00"
     },
     {
       "title": "Elections 2027: when to vote in Argentina and what to choose",
@@ -158,6 +228,13 @@
       "published_date": "2026-09-06T09:06:50+00:00"
     },
     {
+      "title": "'Everybody wants Netanyahu replaced': World leaders eye Israel's election - Haaretz",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZkItYmNCY0lVS3ZaRlJCM251OXVseE1RS0ZybHUtQTNWZmNINEpoU0xLcVQ2bGh4YjI1T1o3QlJwN2pialpaUDFPM245SGs4a0pZT1l0VVBXVjJqa0VJbGpsdklqSW1pdEtSNW1mQ25jYllNczlzSm94T29NcGNIOHNZSWE0bDJLUXBWT1RLUXZVRUVLcWxSeDlleGpVZTViemIwS0RENWR4RjdIaFJYUTBmM0RWeUMxZFE3akYzTW5SSmhxUFJUb2NrVXEwOUNHcE1aZmpQWGY5VDFaUV83V2Y4UFMyUTRPVGhIREljXzRGd0UteU1LNWdBMkNucmFWU1ZsWnFuODdiQkp3UHVjS1Q3ZHhnUTFIS1E?oc=5",
+      "published_date": "2026-09-06T08:48:00+00:00"
+    },
+    {
       "title": "Polls open in Saxony-Anhalt as AfD predicted to win state election",
       "source": "Euronews",
       "country": "Germany",
@@ -191,6 +268,13 @@
       "country": "Germany",
       "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
       "published_date": "2026-09-06T05:52:06+00:00"
+    },
+    {
+      "title": "Prince Hisahito turns 20 as Japan’s government reinforces male-only succession rules - AP News",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDN1Ym9DYm9zZEpTZkVNeHo3LS1OQkVYUkZRcjE2ZE1kRWROQkl1cU14SE5RczF4b09EaFBVblRwRHRIdU8zaFlXNWFiZ3h6ZzI0Q2lnN29sdS04anozMk45OU9HWWJiLWZQZjQwMFhlU1g5MkpqUkNhb3ExME1ROVpZa0FJWUpfVDZhT0liVFV2MmtsVm5Wc1p0dVFhcTM4MGtHVFRjV2FEa2Nuajk1czZ3bTVNZw?oc=5",
+      "published_date": "2026-09-06T01:09:00+00:00"
     },
     {
       "title": "American Jews don’t vote in Israel - so why are they being polled on its election? - opinion",
@@ -2256,83 +2340,6 @@
       "country": "France",
       "url": "https://www.faz.net/aktuell/politik/ausland/raphael-glucksmann-kandidiert-bei-praesidentschaftswahl-in-frankreich-accg-201152972.html",
       "published_date": "2026-08-24T04:41:11+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-missiles-ambassador-b3037670.html",
-      "published_date": "2026-08-23T21:36:34+00:00"
-    },
-    {
-      "title": "Datafolha: 50% of Brazilians see a chance of foreign interference in the elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-50-dos-brasileiros-veem-chance-de-interferencia-estrangeira-nas-eleicoes.shtml",
-      "published_date": "2026-08-23T21:30:00+00:00"
-    },
-    {
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
-      "published_date": "2026-08-23T19:24:00+00:00"
-    },
-    {
-      "title": "Peruvian government declares state of emergency in five districts of the country after earthquake",
-      "source": "La Tercera Chile",
-      "country": "Peru",
-      "url": "https://www.latercera.com/mundo/noticia/gobierno-peruano-declara-estado-de-emergencia-es-cinco-distritos-del-pais-tras-terremoto/",
-      "published_date": "2026-08-23T19:18:02+00:00"
-    },
-    {
-      "title": "Tensions with Turkey: Was Israel's attack in Syria an election maneuver?",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/war-israels-angriff-in-syrien-ein-wahlkampfmanoever-201151274.html",
-      "published_date": "2026-08-23T17:12:36+00:00"
-    },
-    {
-      "title": "Criteria: Presidente José Antonio Kast mantiene aprobación en 35% y su desaprobación marca un 52%",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/criteria-presidente-jose-antonio-kast-mantiene-aprobacion-en-35-y-su-desaprobacion-marca-un-52/",
-      "published_date": "2026-08-23T16:09:22+00:00"
-    },
-    {
-      "title": "Ukrainian flag raised over captured settlements in Kherson region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-society/4156931-ukrainian-flag-raised-over-captured-settlements-in-kherson-region.html",
-      "published_date": "2026-08-23T15:55:00+00:00"
-    },
-    {
-      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-      "published_date": "2026-08-23T14:49:42+00:00"
-    },
-    {
-      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
-      "published_date": "2026-08-23T14:48:39+00:00"
-    },
-    {
-      "title": "Hamas support plunges among Palestinians as Barghouti emerges as top Abbas successor - poll",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-906324",
-      "published_date": "2026-08-23T14:46:56+00:00"
-    },
-    {
-      "title": "Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/indira-gandhis-antakshari-games-to-narendra-modis-sabudana-khichdi-recipe-behind-pms-dining-tables-101787490658966.html",
-      "published_date": "2026-08-23T14:43:24+00:00"
     }
   ]
 }
