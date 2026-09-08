@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-07T16:22:37.325226+00:00",
-    "story_count": 353,
+    "last_updated": "2026-09-08T00:57:11.292763+00:00",
+    "story_count": 352,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,69 @@
   },
   "stories": [
     {
+      "title": "Julio Leiva, former commander in chief of the Navy: “For our Argentine brothers, when we talk about limits, nothing is enough”",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/politica/noticia/julio-leiva-excomandante-en-jefe-de-la-armada-para-nuestros-hermanos-argentinos-cuando-hablamos-de-limites-nada-es-suficiente-nada/",
+      "published_date": "2026-09-08T00:30:00+00:00"
+    },
+    {
+      "title": "Ukraine’s prosecutor general submits resignation after senior subordinate is accused of shielding fraudulent call centers",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/09/08/ukraine-s-prosecutor-general-submits-resignation-after-senior-subordinate-is-accused-of-shielding-fraudulent-call-centers",
+      "published_date": "2026-09-07T23:19:40+00:00"
+    },
+    {
+      "title": "Lula and Flávio Bolsonaro would tie in an eventual runoff in the Brazilian presidential elections",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-y-flavio-bolsonaro-empatarian-en-un-eventual-balotaje-en-las-presidenciales-de-brasil-nid07092026/",
+      "published_date": "2026-09-07T23:08:11+00:00"
+    },
+    {
+      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html",
+      "published_date": "2026-09-07T20:46:31+00:00"
+    },
+    {
+      "title": "Violence in extracurriculars in Paris: Emmanuel Grégoire inaugurates a new training school for facilitators",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/07/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-une-nouvelle-ecole-de-formation-des-animateurs_6767996_3224.html",
+      "published_date": "2026-09-07T20:34:00+00:00"
+    },
+    {
+      "title": "Junaeb case: the year in which Soser broke with Nutre Chile and resigned from the union chaired by Darío Calderón",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/caso-junaeb-el-ano-en-que-soser-rompio-con-nutri-chile-y-renuncio-al-gremio-que-presidia-dario-calderon/",
+      "published_date": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "title": "Live blog about the election in Saxony-Anhalt: Sepp Müller wants to become CDU chairman in Saxony-Anhalt",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-sepp-mueller-will-cdu-fuehren-faz-110093143.html",
+      "published_date": "2026-09-07T18:35:03+00:00"
+    },
+    {
+      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "published_date": "2026-09-07T17:48:37+00:00"
+    },
+    {
+      "title": "Before the election: A banker puts Brazil's judges in trouble",
+      "source": "FAZ Germany",
+      "country": "Brazil",
+      "url": "https://www.faz.net/aktuell/politik/ausland/alexandre-de-moraes-brasiliens-richter-unter-verdacht-201198085.html",
+      "published_date": "2026-09-07T17:29:48+00:00"
+    },
+    {
       "title": "Germany: election of the AfD, a Russophile and pro-Trump party",
       "source": "France 24 FR",
       "country": "Germany",
@@ -67,7 +130,7 @@
       "published_date": "2026-09-07T15:47:43+00:00"
     },
     {
-      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
+      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
       "source": "The Guardian World",
       "country": "Germany",
       "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
@@ -107,13 +170,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/bsw-in-sachsen-anhalt-auf-diese-5-abgeordneten-kommt-es-jetzt-an-201202345.html",
       "published_date": "2026-09-07T14:42:25+00:00"
-    },
-    {
-      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html",
-      "published_date": "2026-09-07T14:32:44+00:00"
     },
     {
       "title": "Merz warns of 'consequences' after state election defeat in Saxony-Anhalt",
@@ -2466,69 +2522,6 @@
       "country": "Canada",
       "url": "https://www.elnacional.com/2026/08/mark-carney-el-primer-ministro-de-canada-que-desafia-a-trump-y-acepta-pelear-en-la-guerra-comercial-con-ee-uu/",
       "published_date": "2026-08-25T01:02:53+00:00"
-    },
-    {
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "source": "The Guardian World",
-      "country": "Colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "published_date": "2026-08-25T00:34:47+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
-      "published_date": "2026-08-24T23:09:57+00:00"
-    },
-    {
-      "title": "Tinubu will win 2027 presidential election by landslide, says ex-INEC commissioner",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/more-news/905174-tinubu-will-win-2027-presidential-election-by-landslide-says-ex-inec-commissioner.html",
-      "published_date": "2026-08-24T22:26:49+00:00"
-    },
-    {
-      "title": "Netanyahu warns against small right-wing parties, says they could hand election to 'fascist Left'",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906460",
-      "published_date": "2026-08-24T20:44:41+00:00"
-    },
-    {
-      "title": "Zelensky discusses ways to ensure Ukraine’s resilience this fall and winter with Luxembourg PM",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4157351-zelensky-discusses-ways-to-ensure-ukraines-resilience-this-fall-and-winter-with-luxembourg-pm.html",
-      "published_date": "2026-08-24T20:30:00+00:00"
-    },
-    {
-      "title": "Presidente de Colombia ordena operativos contra migrantes que estén en situación irregular",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Colombia",
-      "url": "https://efectococuyo.com/internacionales/presidente-de-colombia-ordena-operativos-contra-migrantes-que-esten-en-situacion-irregular/",
-      "published_date": "2026-08-24T19:09:58+00:00"
-    },
-    {
-      "title": "Colombia’s new president orders migrant deportations",
-      "source": "Vanguard Nigeria",
-      "country": "Colombia",
-      "url": "https://www.vanguardngr.com/2026/08/colombias-new-president-orders-migrant-deportations/",
-      "published_date": "2026-08-24T18:51:22+00:00"
-    },
-    {
-      "title": "The Economist: unpublished poll puts Zelensky first and fired defense minister Fedorov third in hypothetical Ukrainian presidential race",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/08/24/the-economist-unpublished-poll-puts-zelensky-first-and-fired-defense-minister-fedorov-third-in-hypothetical-ukrainian-presidential-race",
-      "published_date": "2026-08-24T18:10:45+00:00"
-    },
-    {
-      "title": "Presidente del PPD: “La responsabilidad, si la expresidenta Bachelet fracasa, tiene nombre y apellido, José Antonio Kast”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-del-ppd-la-responsabilidad-si-la-expresidenta-bachelet-fracasa-tiene-nombre-y-apellido-jose-antonio-kast/",
-      "published_date": "2026-08-24T16:31:42+00:00"
     }
   ]
 }
