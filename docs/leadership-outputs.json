@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-09T00:59:59.429825+00:00",
-    "story_count": 363,
+    "last_updated": "2026-09-09T15:06:04.114826+00:00",
+    "story_count": 366,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
+      "published_date": "2026-09-09T14:35:31+00:00"
+    },
+    {
+      "title": "Lord Mayor states: No re-election in Copenhagen after housing case",
+      "source": "Politiken Denmark",
+      "country": "Denmark",
+      "url": "https://politiken.dk/danmark/hovedstaden/art10976353/Overborgmester-sl%C3%A5r-fast-Intet-omvalg-i-K%C3%B8benhavn-efter-boligsag",
+      "published_date": "2026-09-09T13:43:19+00:00"
+    },
+    {
+      "title": "Otzma Yehudit issues request for Ra'am, Abbas to be barred from 2026 Knesset elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908077",
+      "published_date": "2026-09-09T13:38:45+00:00"
+    },
+    {
+      "title": "Trump celebrates the victory of the right-wing AfD party in the German regional elections",
+      "source": "El Nacional Venezuela",
+      "country": "Germany",
+      "url": "https://www.elnacional.com/2026/09/trump-celebra-la-victoria-del-partido-derechista-afd-en-las-regionales-alemanas/",
+      "published_date": "2026-09-09T13:33:57+00:00"
+    },
+    {
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T13:29:33+00:00"
+    },
+    {
+      "title": "Marco Rubio reaffirms that there will be elections in Venezuela: “It must be done appropriately”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/marco-rubio-reafirma-que-habra-elecciones-en-venezuela-hay-que-hacerlo-de-manera-apropiada/",
+      "published_date": "2026-09-09T13:02:17+00:00"
+    },
+    {
+      "title": "AfD election victory in Saxony-Anhalt warning, not turning point for Germany – expert",
+      "source": "Ukrinform",
+      "country": "Germany",
+      "url": "https://www.ukrinform.net/rubric-polytics/4162441-afd-election-victory-in-saxonyanhalt-warning-not-turning-point-for-germany-expert.html",
+      "published_date": "2026-09-09T12:59:00+00:00"
+    },
+    {
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "source": "NPR World",
+      "country": "Iran",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "published_date": "2026-09-09T11:12:27+00:00"
+    },
+    {
+      "title": "Colombia's new president loosens gun control rules",
+      "source": "BBC World",
+      "country": "Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T11:01:41+00:00"
+    },
+    {
+      "title": "Trump praises AfD’s state election win in Germany and says far-right party is ‘on the rise’",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/trump-afd-election-win-germany-saxony-anhalt-b3047077.html",
+      "published_date": "2026-09-09T09:52:14+00:00"
+    },
+    {
+      "title": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running. - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0ZvaER6TmhwQzlCZ0JTRi0zdGNsc25kYWI5NEQ1YUdZUEt0UnJSYWJ6VE9oWElyaVhYTXlXY3B3ajJIeklIYUt2bVllOHpoZHNQS1NOWUNMVllSZm5hWktpMUVjaElmRU1KSU5RMlJXR3ZFempFdnVpcmdXWnVKNng0SXVJakl6MzlaT0d1bTZBRzBLbmtLLThnTlRRV1pVclZWNldFY01CdW5YTE1qVVA5TEVydw?oc=5",
+      "published_date": "2026-09-09T09:06:14+00:00"
+    },
+    {
+      "title": "BJP and allies to contest upcoming Tripura village committee elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-and-allies-to-contest-upcoming-tripura-village-committee-elections-101788889675365.html",
+      "published_date": "2026-09-09T02:02:00+00:00"
+    },
+    {
+      "title": "In an election with fewer young people, 70+ people are more interested in politics and prefer Lula, shows Datafolha",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-eleicao-com-menos-jovens-70-tem-maior-interesse-em-politica-e-prefere-lula-mostra-datafolha.shtml",
+      "published_date": "2026-09-09T02:00:00+00:00"
+    },
     {
       "title": "2027: Lagos APC kicks off campaign, backs Tinubu’s re-election",
       "source": "The Punch Nigeria",
@@ -2529,76 +2620,6 @@
       "country": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYmR0TUlSUUthWFl3SmVTNXlSRkZ0YTd3anBndkVmUjdtWGJUcWZQTndnaXN4RHdRZVFCNmRISm12NHB5V3M3SFB2dVdQVkdmeWc1c2dJVWxxa0xPU29zazFJVGpMMlNPTFpsUTI3anptZFhkMlJpWFpGNXJXZzJFOGxCcWpQekw0REI2UHg4blcxbF9STkJySWdQRFU3dl9vRmxQbnlNemtwVk42TjNuX1otT1hDLXFVSFVPeElVTGVsSzRkTzJtanAyd2NINkkxZzN2Tmdxal9SOFBoX0QyLWFCVFI2X045Q005RVZ4NkphdXp0Qk9pZzFMWVRzbnNZSnBhTmNROThQX2k5Qk9MbDllekZ1NGlkc1ZGcnNLcHAyaUZZbkpJeFRKLXfSAbICQVVfeXFMTnRkLWFjTmpaSkY4cGZvbW8zZHVyRzVaN2lUR2pzVjQxZEM2cHFZVm1IYUY2NDgtNk9vQmN6eGxQYnF2aHlBTEE3RXlKQnBsNUFaVEhvVUtuOVpUS3VuLXlIR1pUY1dUd0szcTJDbHdGWFN2X3BscWRPejd0Z3JNZGZlR2NtWXFCdlFVY2MzOTJhamxHLUZ1OUtUclZFdlZFRVlXY3M2VWI1NnVOTnFTRERrZW5rak1RaE1XQnVKV1IxLU1vUW9xOHhvTjNqeVM2amNrcm1FRzliaDZ5cXZ0RlB1ME1QbjhUNmViYzA1em1UZklXU2hqYnNFVVVFeFlJRW9KU1o0RTAxZk1keUNfQUdCU3pnWlVIdElvWFYzTHNWWF9DeVd3bHZJNTVqLWxjNWpB?oc=5",
       "published_date": "2026-08-26T19:40:00+00:00"
-    },
-    {
-      "title": "United States: Donald Trump doesn't think Iran's supreme leader is dead",
-      "source": "Le Figaro France",
-      "country": "Iran",
-      "url": "https://www.lefigaro.fr/international/etats-unis-donald-trump-ne-pense-pas-que-le-guide-supreme-iranien-soit-mort-20260826",
-      "published_date": "2026-08-26T14:00:44+00:00"
-    },
-    {
-      "title": "'He's from Muslim Brotherhood': Otzma Yehudit calls to bar Ra'am MK Abbas from Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906636",
-      "published_date": "2026-08-26T13:18:25+00:00"
-    },
-    {
-      "title": "Ukrainian forces deny Russian claim of capturing Pysarivka in Sumy region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4157867-ukrainian-forces-deny-russian-claim-of-capturing-pysarivka-in-sumy-region.html",
-      "published_date": "2026-08-26T11:21:00+00:00"
-    },
-    {
-      "title": "Collision, coup de couteau, suspect interpellé... Ce que l’on sait de l’agression au couteau d’un cycliste par un automobiliste à Paris",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/faits-divers/paris-un-automobiliste-poignarde-un-cycliste-au-cou-apres-un-differend-routier-son-pronostic-vital-engage-20260826",
-      "published_date": "2026-08-26T11:10:37+00:00"
-    },
-    {
-      "title": "Kast opens to changes in security reform after objection to new state of emergency",
-      "source": "El Nacional Venezuela",
-      "country": "Chile",
-      "url": "https://www.elnacional.com/2026/08/kast-se-abre-a-cambios-en-reforma-de-seguridad-tras-objecion-a-nuevo-estado-de-excepcion/",
-      "published_date": "2026-08-26T10:52:00+00:00"
-    },
-    {
-      "title": "Russian Election Commission Registers 1.6K War Veterans as Candidates in Upcoming Races",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/08/26/russian-election-commission-registers-16k-war-veterans-as-candidates-in-upcoming-races-a93579",
-      "published_date": "2026-08-26T10:42:00+00:00"
-    },
-    {
-      "title": "Myanmar junta tightens restrictions on transport of Chinese goods at border",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-tightens-restrictions-on-transport-of-chinese-goods-at-border/",
-      "published_date": "2026-08-26T10:17:17+00:00"
-    },
-    {
-      "title": "Nenshi urges Smith to cancel referendum on separation vote amid Canada-U.S. trade war",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-nenshi-urges-smith-cancel-referendum-separation-canada-us-trade-war/",
-      "published_date": "2026-08-26T09:27:39+00:00"
-    },
-    {
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown - The Guardian",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWxqdFZqcjEtTERKeDFGUURYcDNveW1QT291cHN6dk52TTZrYlNwWUlmNDhlUGMxS3d2Wlg2QlNIc1FpRDJONUZmN2N2VjA3VzdDOGM5aUwwQVpveVF3NlJwbDk0QWNsdFRUR0NqVzY1TGZlNFhqNEF6cjV6c29Sb3V4V2VDNlBZbGd1cTNQU1ZVejlPWW01dFdjVlU0V1dvaUVtTi0ySGg0YURURlljTg?oc=5",
-      "published_date": "2026-08-26T01:31:00+00:00"
-    },
-    {
-      "title": "Trump pick Darline Graham wins election despite struggling over Taiwan question",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/us/politics/article/3365262/trump-pick-darline-graham-wins-election-despite-struggling-over-taiwan-question?utm_source=rss_feed",
-      "published_date": "2026-08-26T01:25:49+00:00"
     }
   ]
 }
