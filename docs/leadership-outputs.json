@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-08T14:57:21.047206+00:00",
-    "story_count": 359,
+    "last_updated": "2026-09-09T00:59:59.429825+00:00",
+    "story_count": 363,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "2027: Lagos APC kicks off campaign, backs Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-lagos-apc-kicks-off-campaign-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-09-09T00:56:47+00:00"
+    },
+    {
+      "title": "Anti-AfD protesters rally in Cologne after far-right election win",
+      "source": "Al Jazeera English",
+      "country": "Germany",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+      "published_date": "2026-09-09T00:16:06+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote in Argentina and what to choose",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+      "published_date": "2026-09-08T23:30:47+00:00"
+    },
+    {
+      "title": "When do you vote for president in Argentina? All about the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-08T23:30:44+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-08T23:30:41+00:00"
+    },
+    {
+      "title": "How to vote from Argentina for the 2026 Brazilian elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/como-votar-desde-la-argentina-para-las-elecciones-de-brasil-2026-nid08092026/",
+      "published_date": "2026-09-08T23:30:31+00:00"
+    },
+    {
+      "title": "Elections in Brazil 2026: who are the candidates for president",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
+      "published_date": "2026-09-08T23:30:28+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-09-08T23:30:21+00:00"
+    },
+    {
+      "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple",
+      "published_date": "2026-09-08T22:43:43+00:00"
+    },
+    {
+      "title": "Deputy Celis (RN) suspends his parliamentary work and resigns from the presidency of the Health Commission",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/nacional/noticia/diputado-celis-rn-suspende-sus-labores-parlamentarias-y-renuncia-a-la-presidencia-de-la-comision-de-salud/",
+      "published_date": "2026-09-08T22:21:51+00:00"
+    },
+    {
+      "title": "PMO denies that UAE warned Netanyahu about October 7 as Abu Dhabi refuses to comment",
+      "source": "Jerusalem Post",
+      "country": "UAE",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-907996",
+      "published_date": "2026-09-08T20:33:58+00:00"
+    },
+    {
+      "title": "German economy frets about Saxony-Anhalt election results",
+      "source": "Deutsche Welle English",
+      "country": "Germany",
+      "url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-09-08T18:35:00+00:00"
+    },
+    {
+      "title": "U.S. negotiators think Russia may return to peace talks after its parliamentary elections. Zelensky expects Moscow’s rhetoric to change then, too.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/08/u-s-negotiators-think-russia-may-return-to-peace-talks-after-its-parliamentary-elections-zelensky-expects-moscow-s-rhetoric-to-change-then-too",
+      "published_date": "2026-09-08T17:20:59+00:00"
+    },
+    {
+      "title": "Saxony-Anhalt: the BSW, this unclassifiable party from the radical left now “kingmaker”",
+      "source": "Le Figaro France",
+      "country": "Germany",
+      "url": "https://www.lefigaro.fr/international/saxe-anhalt-le-bsw-cet-inclassable-parti-issu-de-la-gauche-radicale-desormais-faiseur-de-rois-20260908",
+      "published_date": "2026-09-08T17:06:11+00:00"
+    },
+    {
+      "title": "PISA 2025: the story of “French decline” returns to the presidential election",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/08/pisa-2025-le-recit-du-declinisme-francais-de-retour-dans-la-presidentielle_6768438_823448.html",
+      "published_date": "2026-09-08T17:00:14+00:00"
+    },
+    {
+      "title": "Corruption investigation: Ukrainian prosecutor general announces resignation",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ruslan-krawtschenko-kuendigt-ruecktritt-nach-korruption-an-201205875.html",
+      "published_date": "2026-09-08T17:00:08+00:00"
+    },
     {
       "title": "Legislative elections in Israel: why an Arab Islamist party enlists a Zionist general",
       "source": "Le Figaro France",
@@ -93,6 +205,13 @@
       "country": "Egypt",
       "url": "https://www.egyptindependent.com/leaked-tapes-reveal-muslim-brotherhood-plotting-new-egyptian-revolution-and-government-in-exile/",
       "published_date": "2026-09-08T10:50:16+00:00"
+    },
+    {
+      "title": "Likud submits final candidate list as Netanyahu warns 2026 election will decide Israel's future",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907902",
+      "published_date": "2026-09-08T10:38:42+00:00"
     },
     {
       "title": "‘Truly terrifying’: AfD election win sparks protests across Germany",
@@ -562,41 +681,6 @@
       "country": "Germany",
       "url": "https://www.jpost.com/international/article-907696",
       "published_date": "2026-09-06T13:14:33+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote in Argentina and what to choose",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "published_date": "2026-09-06T13:10:49+00:00"
-    },
-    {
-      "title": "When do you vote for president in Argentina? All about the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-06T13:10:46+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-06T13:10:43+00:00"
-    },
-    {
-      "title": "Elections in Brazil 2026: who are the candidates for president",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
-      "published_date": "2026-09-06T13:10:01+00:00"
-    },
-    {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-09-06T13:09:58+00:00"
     },
     {
       "title": "Fatah Central Committee secretary-general reveals Hamas talks in Turkey, doubts elections - report",
@@ -2515,62 +2599,6 @@
       "country": "Taiwan",
       "url": "https://www.scmp.com/news/us/politics/article/3365262/trump-pick-darline-graham-wins-election-despite-struggling-over-taiwan-question?utm_source=rss_feed",
       "published_date": "2026-08-26T01:25:49+00:00"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella designó a la exconcejal Clara Lucía Sandoval como gerente para Bogotá",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-designo-a-la-exconcejal-clara-lucia-sandoval-como-gerente-para-bogota-3581033",
-      "published_date": "2026-08-26T00:01:01+00:00"
-    },
-    {
-      "title": "Parlamento Andino sesiona en Chile: miembros se reúnen con Presidente Kast y condecoran a Frei Ruiz-Tagle",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/parlamento-andino-sesiona-en-chile-miembros-se-reunen-con-presidente-kast-y-condecoran-a-frei-ruiz-tagle/",
-      "published_date": "2026-08-25T22:29:51+00:00"
-    },
-    {
-      "title": "Sara Netanyahu verbally abused PMO employee 'daily,' lawsuit alleges",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-906584",
-      "published_date": "2026-08-25T21:58:49+00:00"
-    },
-    {
-      "title": "Hamas and Dahlan’s factions seek alliance that could reshape Palestinian elections and weaken Abbas",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-906583",
-      "published_date": "2026-08-25T21:47:27+00:00"
-    },
-    {
-      "title": "Ousted Ukrainian Defense Minister Mykhailo Fedorov says Ukraine is ‘slowly losing’ the war against Russia",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/08/25/ousted-ukrainian-defense-minister-mykhailo-fedorov-says-ukraine-is-slowly-losing-the-war-against-russia",
-      "published_date": "2026-08-25T19:12:44+00:00"
-    },
-    {
-      "title": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
-      "source": "Foreign Policy",
-      "country": "Ukraine",
-      "url": "https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections/",
-      "published_date": "2026-08-25T18:42:28+00:00"
-    },
-    {
-      "title": "EXCLUSIVE: Ukraine needs changes to avoid losing war, ousted defence minister says - Reuters",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5",
-      "published_date": "2026-08-25T15:09:00+00:00"
-    },
-    {
-      "title": "The Kremlin is sending ‘mobilizers’ to psychology classes to help boost turnout in Russia’s elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/08/25/the-kremlin-is-sending-mobilizers-to-psychology-classes-to-help-boost-turnout-in-russia-s-elections",
-      "published_date": "2026-08-25T15:04:07+00:00"
     }
   ]
 }
