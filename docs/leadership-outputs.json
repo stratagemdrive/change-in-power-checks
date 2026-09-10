@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-09T15:06:04.114826+00:00",
-    "story_count": 366,
+    "last_updated": "2026-09-10T00:49:35.298843+00:00",
+    "story_count": 380,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,167 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Liveblog Ukraine War: Norway's head of government: Selenskyj's plane narrowly missed by drone",
+      "source": "FAZ Germany",
+      "country": "Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-norwegens-regierungschef-selenskyjs-flugzeug-nur-knapp-von-drohne-verfehlt-faz-110683325.html",
+      "published_date": "2026-09-09T23:50:44+00:00"
+    },
+    {
+      "title": "German Chancellor accuses AfD of seeking “ethnic cleansing” and far-right party is preparing for two new regional elections",
+      "source": "La Tercera Chile",
+      "country": "Germany",
+      "url": "https://www.latercera.com/mundo/noticia/canciller-aleman-acusa-a-afd-de-buscar-una-limpieza-etnica-y-partido-de-extrema-derecha-se-perfila-para-dos-nuevas-elecciones-regionales/",
+      "published_date": "2026-09-09T23:46:46+00:00"
+    },
+    {
+      "title": "Brazil Supreme Court chief suspends rival rulings amid election row",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
+      "published_date": "2026-09-09T23:44:51+00:00"
+    },
+    {
+      "title": "Iran likely to reverse-engineer captured US underwater drone",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366980/iran-likely-reverse-engineer-captured-us-underwater-drone?utm_source=rss_feed",
+      "published_date": "2026-09-09T23:34:44+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-09-09T23:33:02+00:00"
+    },
+    {
+      "title": "Elections in Brazil 2026: who are the candidates for president",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
+      "published_date": "2026-09-09T23:32:46+00:00"
+    },
+    {
+      "title": "How to vote from Argentina for the 2026 Brazilian elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/como-votar-desde-la-argentina-para-las-elecciones-de-brasil-2026-nid08092026/",
+      "published_date": "2026-09-09T23:32:34+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-09T23:31:32+00:00"
+    },
+    {
+      "title": "When do you vote for president in Argentina? All about the 2027 elections",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-09T23:31:21+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote in Argentina and what to choose",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+      "published_date": "2026-09-09T23:31:08+00:00"
+    },
+    {
+      "title": "Before the presidential election in Brazil, the Supreme Court is torn apart in an unprecedented crisis",
+      "source": "France 24 FR",
+      "country": "Brazil",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-presidentielle-bresil-cour-supreme-dechire-crise-lula-flavio-bolsonaro-alexandre-de-moraes",
+      "published_date": "2026-09-09T23:21:28+00:00"
+    },
+    {
+      "title": "Trump claims Tehran trying to influence midterms, says war will end after election",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/international/article-908164",
+      "published_date": "2026-09-09T22:10:35+00:00"
+    },
+    {
+      "title": "Trump says war with Iran will end \"immediately after\" November elections",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/09/donald-trump-afirma-que-la-guerra-con-iran-concluira-inmediatamente-despues-de-las-elecciones-legislativas-de-noviembre/",
+      "published_date": "2026-09-09T21:21:11+00:00"
+    },
+    {
+      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-09-09T21:09:45+00:00"
+    },
+    {
+      "title": "'Sickening' racist remarks and calls for a coup: French police under investigation",
+      "source": "Euronews",
+      "country": "France",
+      "url": "http://www.euronews.com/my-europe/2026/09/09/sickening-racist-remarks-and-calls-for-a-coup-french-police-under-investigation",
+      "published_date": "2026-09-09T19:49:12+00:00"
+    },
+    {
+      "title": "Trump says Iran war will end right after US midterm elections",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366972/trump-says-iran-war-will-end-right-after-us-midterm-elections?utm_source=rss_feed",
+      "published_date": "2026-09-09T19:48:42+00:00"
+    },
+    {
+      "title": "Merz must solve an impossible puzzle after the election defeat",
+      "source": "Politiken Denmark",
+      "country": "Germany",
+      "url": "https://politiken.dk/internationalt/art10975238/Merz-skal-l%C3%A6gge-et-umuligt-puslespil-efter-valgnederlag",
+      "published_date": "2026-09-09T19:07:29+00:00"
+    },
+    {
+      "title": "Trump says Iran war will end 'immediately' after midterm elections",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-war-will-end-immediately-after-midterm-elections",
+      "published_date": "2026-09-09T19:02:12+00:00"
+    },
+    {
+      "title": "Legislative elections in Israel: “October 7 emerges as the dividing line of the campaign”",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/moyen-orient/20260909-legislatives-israel-election-7-octobre-netanyahu-campagne-eisenkot",
+      "published_date": "2026-09-09T18:08:09+00:00"
+    },
+    {
+      "title": "The racist remarks of a Carcassonne municipal police officer, captured by his own pedestrian camera, arouse general indignation and embarrassment of the RN",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/09/la-deambulation-raciste-d-un-policier-municipal-de-carcassonne-captee-par-sa-propre-camera-pieton-suscite-l-indignation-generale-et-l-embarras-du-rn_6768954_3224.html",
+      "published_date": "2026-09-09T17:34:47+00:00"
+    },
+    {
+      "title": "Election in Berlin: The main thing is not to say anything",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-ein-gruenen-kandidat-auf-stimmenfang-im-linken-lager-201188911.html",
+      "published_date": "2026-09-09T17:18:05+00:00"
+    },
+    {
+      "title": "Elections in Russia: the 1,001 tricks to eliminate cumbersome candidates",
+      "source": "France 24 FR",
+      "country": "Russia",
+      "url": "https://www.france24.com/fr/europe/20260909-%C3%A9lections-l%C3%A9gislatives-russie-1001-tours-passe-passe-%C3%A9liminer-candidats-encombrants-poutine-guerre-ukraine",
+      "published_date": "2026-09-09T16:30:21+00:00"
+    },
+    {
+      "title": "Power struggle for Istanbul: Is this the blueprint for Erdoğan's stay in power?",
+      "source": "FAZ Germany",
+      "country": "Turkey",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-akp-istanbul-zurueckerobern-will-201209438.html",
+      "published_date": "2026-09-09T16:04:06+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
       "source": "La Nacion Argentina",
@@ -163,48 +324,6 @@
       "country": "Germany",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
       "published_date": "2026-09-09T00:16:06+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote in Argentina and what to choose",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "published_date": "2026-09-08T23:30:47+00:00"
-    },
-    {
-      "title": "When do you vote for president in Argentina? All about the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-08T23:30:44+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-08T23:30:41+00:00"
-    },
-    {
-      "title": "How to vote from Argentina for the 2026 Brazilian elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/sociedad/como-votar-desde-la-argentina-para-las-elecciones-de-brasil-2026-nid08092026/",
-      "published_date": "2026-09-08T23:30:31+00:00"
-    },
-    {
-      "title": "Elections in Brazil 2026: who are the candidates for president",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
-      "published_date": "2026-09-08T23:30:28+00:00"
-    },
-    {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-09-08T23:30:21+00:00"
     },
     {
       "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
@@ -2599,27 +2718,6 @@
       "country": "China",
       "url": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
       "published_date": "2026-08-27T00:59:59+00:00"
-    },
-    {
-      "title": "Bolivian deputy accuses the Cuban G-2 and the MAS of preparing a coup d'état and sets a date for it",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-08-27-u1-e129488-s27061-nid338752-diputado-bolivia-acusa-al-g-2-cubano-al-preparar",
-      "published_date": "2026-08-27T00:32:02+00:00"
-    },
-    {
-      "title": "Ukrainians marched for a month to get Mykhailo Fedorov his job back as defense minister. Then he released a video calling for elections, and the crowds stopped coming.",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/08/26/ukrainians-marched-for-a-month-to-get-mykhailo-fedorov-his-job-back-as-defense-minister-then-he-released-a-video-calling-for-elections-and-the-crowds-stopped-coming",
-      "published_date": "2026-08-26T19:40:11+00:00"
-    },
-    {
-      "title": "Ukrainians marched for a month to get Mykhailo Fedorov his job back as defense minister. Then he released a video calling for elections, and the crowds stopped coming. - Meduza",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYmR0TUlSUUthWFl3SmVTNXlSRkZ0YTd3anBndkVmUjdtWGJUcWZQTndnaXN4RHdRZVFCNmRISm12NHB5V3M3SFB2dVdQVkdmeWc1c2dJVWxxa0xPU29zazFJVGpMMlNPTFpsUTI3anptZFhkMlJpWFpGNXJXZzJFOGxCcWpQekw0REI2UHg4blcxbF9STkJySWdQRFU3dl9vRmxQbnlNemtwVk42TjNuX1otT1hDLXFVSFVPeElVTGVsSzRkTzJtanAyd2NINkkxZzN2Tmdxal9SOFBoX0QyLWFCVFI2X045Q005RVZ4NkphdXp0Qk9pZzFMWVRzbnNZSnBhTmNROThQX2k5Qk9MbDllekZ1NGlkc1ZGcnNLcHAyaUZZbkpJeFRKLXfSAbICQVVfeXFMTnRkLWFjTmpaSkY4cGZvbW8zZHVyRzVaN2lUR2pzVjQxZEM2cHFZVm1IYUY2NDgtNk9vQmN6eGxQYnF2aHlBTEE3RXlKQnBsNUFaVEhvVUtuOVpUS3VuLXlIR1pUY1dUd0szcTJDbHdGWFN2X3BscWRPejd0Z3JNZGZlR2NtWXFCdlFVY2MzOTJhamxHLUZ1OUtUclZFdlZFRVlXY3M2VWI1NnVOTnFTRERrZW5rak1RaE1XQnVKV1IxLU1vUW9xOHhvTjNqeVM2amNrcm1FRzliaDZ5cXZ0RlB1ME1QbjhUNmViYzA1em1UZklXU2hqYnNFVVVFeFlJRW9KU1o0RTAxZk1keUNfQUdCU3pnWlVIdElvWFYzTHNWWF9DeVd3bHZJNTVqLWxjNWpB?oc=5",
-      "published_date": "2026-08-26T19:40:00+00:00"
     }
   ]
 }
