@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-10T00:49:35.298843+00:00",
-    "story_count": 380,
+    "last_updated": "2026-09-10T14:54:04.764462+00:00",
+    "story_count": 384,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israeli polls split on 2026 Knesset election possibilities, as Yashar, Likud vie for primacy - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908282",
+      "published_date": "2026-09-10T16:30:20+00:00"
+    },
+    {
+      "title": "LIVE - Presidential election 2027: a cancellation of the French debt held by the ECB would be “a pure violation of the EU treaty”, warns Christine Lagarde",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-le-secretaire-general-des-republicains-tend-la-main-a-david-lisnard-mais-exclut-un-rapprochement-avec-reconquete-20260910",
+      "published_date": "2026-09-10T14:38:02+00:00"
+    },
+    {
+      "title": "Elections in Brazil: Flavio Bolsonaro follows in his father's footsteps",
+      "source": "France 24 FR",
+      "country": "Brazil",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260910-%C3%A9lections-au-br%C3%A9sil-flavio-bolsonaro-suit-les-pas-de-son-p%C3%A8re",
+      "published_date": "2026-09-10T13:34:25+00:00"
+    },
+    {
+      "title": "Dealing with the AfD: An election victory is not a reason for a ban",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/die-afd-jetzt-verbieten-ein-wahlsieg-ist-kein-verbotsgrund-201208996.html",
+      "published_date": "2026-09-10T13:21:18+00:00"
+    },
+    {
+      "title": "Gianni Infantino receives a new blow: France will not support his re-election",
+      "source": "El Nacional Venezuela",
+      "country": "France",
+      "url": "https://www.elnacional.com/2026/09/gianni-infantino-recibe-un-nuevo-golpe-francia-no-apoyara-su-reeleccion/",
+      "published_date": "2026-09-10T13:02:04+00:00"
+    },
+    {
+      "title": "Labaye, Tanguy, Lavalette, Olivier… Marine Le Pen’s close guard lieutenants for the presidential election",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/labaye-tanguy-lavalette-olivier-les-lieutenants-de-la-garde-rapprochee-de-marine-le-pen-pour-la-presidentielle-20260910",
+      "published_date": "2026-09-10T12:42:08+00:00"
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T10:43:53+00:00"
+    },
+    {
+      "title": "Five killed in Myanmar junta airstrikes in retaliation for attack by PDF forces",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/five-killed-in-myanmar-junta-airstrikes-in-retaliation-for-attack-by-pdf-forces/",
+      "published_date": "2026-09-10T09:52:59+00:00"
+    },
+    {
+      "title": "Trump assures that the war in Iran will end “right after” the November elections in the United States",
+      "source": "La Tercera Chile",
+      "country": "Iran",
+      "url": "https://www.latercera.com/mundo/noticia/trump-asegura-que-la-guerra-en-iran-acabara-justo-despues-de-las-elecciones-de-noviembre-en-estados-unidos/",
+      "published_date": "2026-09-10T09:29:32+00:00"
+    },
+    {
+      "title": "No, the EU Democracy Shield isn't a Trojan horse to rig the French presidential election",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/my-europe/2026/09/10/no-the-eu-democracy-shield-isnt-a-trojan-horse-to-rig-the-french-presidential-election",
+      "published_date": "2026-09-10T09:12:42+00:00"
+    },
+    {
+      "title": "Moscow 'happy' with AfD victory in German regional elections, says Finnish foreign minister",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/video/2026/09/10/moscow-happy-with-afd-victory-in-german-regional-elections-says-finnish-foreign-minister",
+      "published_date": "2026-09-10T07:58:46+00:00"
+    },
+    {
+      "title": "Yabloko proposes ‘Plan B’ after being barred from State Duma election — spoil the party-list ballot",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/10/yabloko-proposes-plan-b-after-being-barred-from-state-duma-election-spoil-the-party-list-ballot",
+      "published_date": "2026-09-10T07:13:02+00:00"
+    },
     {
       "title": "Liveblog Ukraine War: Norway's head of government: Selenskyj's plane narrowly missed by drone",
       "source": "FAZ Germany",
@@ -254,6 +338,13 @@
       "country": "Germany",
       "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-09T13:29:33+00:00"
+    },
+    {
+      "title": "Brazil's top judge suspends justices' rulings in Supreme Court power struggle - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHB6QzZiVldOcFJhSUdERjA5VVBGbEw5eGNncEw4a1FjYktCZy04bjJHN19vdUlPSk5MWWJRRkNLdC1qZmtHcTloWGp1SVZkVW8xNEdVWjZwWjc3MzVlWXNYcXBmc05mTUZiSEI4eTlxOGlLeTBkN3ZjQkNCeEl5b21pdVdqUFhVMUdrMUNabDIwUVhfSms2SXF1Zkc4R0V3VWdGbUM1TkpXcDVhYzZZUWRtRG8tQQ?oc=5",
+      "published_date": "2026-09-09T13:03:00+00:00"
     },
     {
       "title": "Marco Rubio reaffirms that there will be elections in Venezuela: “It must be done appropriately”",
@@ -464,6 +555,13 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-society/4161907-militants-and-looters-among-candidates-in-russias-state-duma-elections-in-occupied-donetsk-region-intelligence.html",
       "published_date": "2026-09-08T07:31:00+00:00"
+    },
+    {
+      "title": "Consequences for the election in MV: Does the CDU now have to fear the five percent hurdle in the northeast?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-in-mecklenburg-vorpommern-muss-die-cdu-jetzt-die-fuenfprozenthuerde-fuerchten-accg-201201735.html",
+      "published_date": "2026-09-08T06:33:13+00:00"
     },
     {
       "title": "Saxony-Anhalt: This election is also a turning point for the AfD",
@@ -2648,76 +2746,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/opinion/article-906645",
       "published_date": "2026-08-27T15:00:00+00:00"
-    },
-    {
-      "title": "UK asylum applications drop by more than a fifth, new government data shows",
-      "source": "Euronews",
-      "country": "United Kingdom",
-      "url": "http://www.euronews.com/my-europe/2026/08/27/uk-asylum-applications-drop-by-more-than-a-fifth-new-government-data-shows",
-      "published_date": "2026-08-27T14:46:36+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro's campaign reinforces digital strategy and evaluates 'own TV' 24 hours until the end of the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/campanha-de-flavio-bolsonaro-reforca-estrategia-digital-e-avalia-tv-propria-24-horas-ate-o-fim-da-eleicao.shtml",
-      "published_date": "2026-08-27T13:00:00+00:00"
-    },
-    {
-      "title": "Taiwan parliament rejects government military drone plan, passes own version - Reuters",
-      "source": "Google News World",
-      "country": "Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE95bnY0eU9Zcl96RjUwMlJyOEpVZTZoUXY0R1RqNlNMZjk5UEh3S2xmTUF1RFVlUmlDVG1IakpvaXIyV2hFb1BkSDNzd1k0NmxpTGo2NThwRXhYYVFxeW5jUWloTGZzMGhlbUFBQ0FQSzRwRHJVelZHQUZ4RmVjeHRES2k0YkN4SjkteWNteUJic1ZscmQySG1FLUdOaUFrYUZyTjZyaXhWVmp3NzhsUFFFV2dFMHRfMmpFLWhB?oc=5",
-      "published_date": "2026-08-27T10:54:19+00:00"
-    },
-    {
-      "title": "Fighting intensifies as resistance forces attack Myanmar junta flotilla headed for Shwegu",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/fighting-intensifies-as-resistance-forces-attack-myanmar-junta-flotilla-headed-for-shwegu/",
-      "published_date": "2026-08-27T10:37:26+00:00"
-    },
-    {
-      "title": "Takaichi begins meeting with LDP executives ahead of expected Cabinet reshuffle",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/08/27/japan/politics/cabinet-ldp-reshuffle/",
-      "published_date": "2026-08-27T08:15:00+00:00"
-    },
-    {
-      "title": "What weighs against Flávio Bolsonaro in the 2026 elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-flavio-bolsonaro-nas-eleicoes-de-2026.shtml",
-      "published_date": "2026-08-27T07:02:00+00:00"
-    },
-    {
-      "title": "What weighs against Lula in the 2026 elections",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-lula-nas-eleicoes-de-2026.shtml",
-      "published_date": "2026-08-27T07:02:00+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro grava vídeo para apoiar Eduardo Cunha, ex-presidente da Câmara cassado em 2016",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-grava-video-para-apoiar-eduardo-cunha-ex-presidente-da-camara-cassado-em-2016.shtml",
-      "published_date": "2026-08-27T02:16:00+00:00"
-    },
-    {
-      "title": "Groups back Yari to deliver Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/groups-back-yari-to-deliver-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-27T02:11:21+00:00"
-    },
-    {
-      "title": "Donald Trump declares a state of emergency on the electricity network, a measure which targets China without naming it",
-      "source": "Le Monde France",
-      "country": "China",
-      "url": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
-      "published_date": "2026-08-27T00:59:59+00:00"
     }
   ]
 }
