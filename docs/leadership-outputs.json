@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-11T00:47:34.471808+00:00",
-    "story_count": 376,
+    "last_updated": "2026-09-11T14:54:21.930632+00:00",
+    "story_count": 380,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,88 @@
   },
   "stories": [
     {
+      "title": "Diputada Jéldrez respalda que Presidente Kast no conmemore el 11-S: \" \"",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/diputada-jeldrez-respalda-que-presidente-kast-no-conmemore-el-11-s/",
+      "published_date": "2026-09-11T14:36:10+00:00"
+    },
+    {
+      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid",
+      "published_date": "2026-09-11T14:14:07+00:00"
+    },
+    {
+      "title": "Focus on local body elections, Madhav tells BJP cadre in Andhra Pradesh",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/focus-on-local-body-elections-madhav-tells-bjp-cadre-in-andhra-pradesh/article71456333.ece",
+      "published_date": "2026-09-11T14:05:01+00:00"
+    },
+    {
+      "title": "Legislative elections in Morocco, tensions in Kenya, urban train in DR Congo: the Africa weekly",
+      "source": "France 24 FR",
+      "country": "Morocco",
+      "url": "https://www.france24.com/fr/afrique/20260911-maroc-kenya-rd-congo-afrique",
+      "published_date": "2026-09-11T14:03:16+00:00"
+    },
+    {
+      "title": "Less than a month before the elections in Brazil, the Supreme Court investigates Flávio Bolsonaro for corruption and money laundering",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/a-menos-de-un-mes-de-las-elecciones-en-brasil-la-corte-suprema-investiga-a-flavio-bolsonaro-por-nid11092026/",
+      "published_date": "2026-09-11T13:42:20+00:00"
+    },
+    {
+      "title": "Sergio Bitar emplaza a Kast por falta de acto por el 11-S: “Presidente, tenga sensibilidad con los que no piensan como usted”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/sergio-bitar-emplaza-a-kast-por-falta-de-acto-por-el-11-s-presidente-tenga-sensibilidad-con-los-que-no-piensan-como-usted/",
+      "published_date": "2026-09-11T12:50:12+00:00"
+    },
+    {
+      "title": "A month ago, Russia’s anti-war Yabloko party was disqualified from the State Duma election. That was only the beginning.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/11/a-month-ago-russia-s-anti-war-yabloko-party-was-disqualified-from-the-state-duma-election-that-was-only-the-beginning",
+      "published_date": "2026-09-11T09:03:46+00:00"
+    },
+    {
+      "title": "Myanmar resistance drones strike junta airbase near Mandalay airport",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-resistance-drones-strike-junta-airbase-near-mandalay-airport/",
+      "published_date": "2026-09-11T08:48:21+00:00"
+    },
+    {
+      "title": "Election campaign against AfD: What does Manuela Schwesig do differently?",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-was-macht-manuela-schwesig-anders-gegen-die-afd-accg-201202351.html",
+      "published_date": "2026-09-11T06:29:48+00:00"
+    },
+    {
+      "title": "Carney suggests Ottawa won’t bankroll federalist groups in Alberta separation referendum",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-suggests-ottawa-wont-bankroll-federalist-groups-in-alberta/",
+      "published_date": "2026-09-11T02:42:37+00:00"
+    },
+    {
       "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
       "source": "Al Jazeera English",
       "country": "Iran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
       "published_date": "2026-09-11T00:24:24+00:00"
+    },
+    {
+      "title": "The United States proposed supplying oil to Cuba in exchange for the resignation of Díaz-Canel and the privatization of Cupet, according to the Miami Herald",
+      "source": "El Nacional Venezuela",
+      "country": "Cuba",
+      "url": "https://www.elnacional.com/2026/09/estados-unidos-propuso-suministrar-petroleo-a-cuba-a-cambio-de-la-dimision-de-diaz-canel-y-la-privatizacion-de-cupet-segun-el-miami-herald/",
+      "published_date": "2026-09-11T00:00:04+00:00"
     },
     {
       "title": "Iván Moreira y los primeros seis meses de Kast: “Hemos depositado la confianza en el Presidente y vamos a llegar hasta el final con él”",
@@ -121,6 +198,13 @@
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTlEVmtuNGNhLTc4U2pGV0w1bXN0eEVLb0JTQkExbWtxemxldXZnV280MTN5cHZoZUVoN3RqekNYdXF0TEI4X1RWekN5RWt6d2V4ZkJmTEZpQnFqR2dCY0dSbkNsdEp1X0RnWDJQbjdMd2d1b3N3Q1d0REVHbWdkNVFEM2luOXhxaWRlQndKNVBINEI3QlVtR3lYUE5YdmRCWEZHS3dwNTV3UzYtMTRIYXkyLTROTlhjQVlVMGJvTzdtcVVONXpj?oc=5",
       "published_date": "2026-09-10T18:18:12+00:00"
+    },
+    {
+      "title": "El primer 11 de septiembre de Kast: sin actos en La Moneda y con el Presidente de visita por Valdivia",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/el-primer-11-de-septiembre-de-kast-sin-actos-en-la-moneda-y-con-el-presidente-de-visita-por-valdivia/",
+      "published_date": "2026-09-10T16:30:46+00:00"
     },
     {
       "title": "Israeli polls split on 2026 Knesset election possibilities, as Yashar, Likud vie for primacy - poll",
@@ -2634,62 +2718,6 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister",
       "published_date": "2026-08-28T17:06:18+00:00"
-    },
-    {
-      "title": "Iranians demand ‘any sign’ supreme leader is alive as he remains invisible 6 months into war",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-mojtaba-khamenei-war-b3041033.html",
-      "published_date": "2026-08-28T13:46:53+00:00"
-    },
-    {
-      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-28T12:49:00+00:00"
-    },
-    {
-      "title": "Gilad Erdan confirms talks with Benny Gantz on possible election alliance",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906871",
-      "published_date": "2026-08-28T06:15:53+00:00"
-    },
-    {
-      "title": "Editor's Notes: October 7 shattered Israel’s old political map, next election may redraw it",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-906844",
-      "published_date": "2026-08-28T05:58:13+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader remains unseen 6 months after war began",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3365550/irans-supreme-leader-remains-unseen-6-months-after-war-began?utm_source=rss_feed",
-      "published_date": "2026-08-28T05:43:39+00:00"
-    },
-    {
-      "title": "PML-N fields ‘fresh face’ for AJK PM election today",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2025625/pml-n-fields-fresh-face-for-ajk-pm-election-today",
-      "published_date": "2026-08-28T03:00:47+00:00"
-    },
-    {
-      "title": "Germany’s far right taps nostalgia for communist East to propel election surge - politico.eu",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGg3TXFMZFRpZ2NsZkhmMmFUTU5BbGVJNHIzVzhNWVpqZUV5NTNWMzU2UDlHM3F1VXdCVkhicWhOVDM5dVhBeFRVZXZLRm9xeTJKM3NDem91TV9tS3NhVzVaQ2xJOThHMEkzVmo0QzUyclhDbW4wZ0E5b3JQN1Vac1hvTDlVaHgtWURYNTd4MmpsVlhzYkp2d2JDa2VWU0E?oc=5",
-      "published_date": "2026-08-28T02:25:50+00:00"
-    },
-    {
-      "title": "Lobista tem fotos ao lado de Lula e contraria o que disse presidente ao JN",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lobista-tem-fotos-ao-lado-de-lula-e-contraria-o-que-disse-presidente-ao-jn.shtml",
-      "published_date": "2026-08-28T01:47:00+00:00"
     }
   ]
 }
