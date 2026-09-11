@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-10T14:54:04.764462+00:00",
-    "story_count": 384,
+    "last_updated": "2026-09-11T00:47:34.471808+00:00",
+    "story_count": 376,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "published_date": "2026-09-11T00:24:24+00:00"
+    },
+    {
+      "title": "Iván Moreira y los primeros seis meses de Kast: “Hemos depositado la confianza en el Presidente y vamos a llegar hasta el final con él”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/ivan-moreira-y-los-primeros-seis-meses-de-kast-hemos-depositado-la-confianza-en-el-presidente-y-vamos-a-llegar-hasta-el-final-con-el/",
+      "published_date": "2026-09-10T23:35:40+00:00"
+    },
+    {
+      "title": "Lula diz que Fachin colocou 'um pouco de ordem na casa', mas que espera mais de presidente do STF",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml",
+      "published_date": "2026-09-10T23:17:00+00:00"
+    },
+    {
+      "title": "Elections 2027: when are the next presidential elections in Argentina?",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+      "published_date": "2026-09-10T22:46:51+00:00"
+    },
+    {
+      "title": "Elections 2027: when to vote for president in Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-10T22:46:38+00:00"
+    },
+    {
+      "title": "Elections: when to vote for president in Brazil 2026",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+      "published_date": "2026-09-10T22:45:59+00:00"
+    },
+    {
+      "title": "Israel Election 2026: What do Arye Deri's Shas and Yaakov Asher's United Torah Judaism stand for?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-907982",
+      "published_date": "2026-09-10T21:31:43+00:00"
+    },
+    {
+      "title": "Trump’s Gaza peace plan faces a bigger threat than a pre-election clash with Netanyahu - opinion",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/opinion/article-908266",
+      "published_date": "2026-09-10T20:00:00+00:00"
+    },
+    {
+      "title": "Bolsonaro, Lula statistically tied in simulated Brazil runoff, Atlas/Bloomberg poll shows - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTlEVmtuNGNhLTc4U2pGV0w1bXN0eEVLb0JTQkExbWtxemxldXZnV280MTN5cHZoZUVoN3RqekNYdXF0TEI4X1RWekN5RWt6d2V4ZkJmTEZpQnFqR2dCY0dSbkNsdEp1X0RnWDJQbjdMd2d1b3N3Q1d0REVHbWdkNVFEM2luOXhxaWRlQndKNVBINEI3QlVtR3lYUE5YdmRCWEZHS3dwNTV3UzYtMTRIYXkyLTROTlhjQVlVMGJvTzdtcVVONXpj?oc=5",
+      "published_date": "2026-09-10T18:18:12+00:00"
+    },
     {
       "title": "Israeli polls split on 2026 Knesset election possibilities, as Yashar, Likud vie for primacy - poll",
       "source": "Jerusalem Post",
@@ -172,13 +235,6 @@
       "published_date": "2026-09-09T23:34:44+00:00"
     },
     {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-09-09T23:33:02+00:00"
-    },
-    {
       "title": "Elections in Brazil 2026: who are the candidates for president",
       "source": "La Nacion Argentina",
       "country": "Brazil",
@@ -193,25 +249,11 @@
       "published_date": "2026-09-09T23:32:34+00:00"
     },
     {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-09T23:31:32+00:00"
-    },
-    {
       "title": "When do you vote for president in Argentina? All about the 2027 elections",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
       "published_date": "2026-09-09T23:31:21+00:00"
-    },
-    {
-      "title": "Elections 2027: when to vote in Argentina and what to choose",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "published_date": "2026-09-09T23:31:08+00:00"
     },
     {
       "title": "Before the presidential election in Brazil, the Supreme Court is torn apart in an unprecedented crisis",
@@ -2648,104 +2690,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lobista-tem-fotos-ao-lado-de-lula-e-contraria-o-que-disse-presidente-ao-jn.shtml",
       "published_date": "2026-08-28T01:47:00+00:00"
-    },
-    {
-      "title": "US base dispute hangs over Japan’s Okinawa governor election",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/week-asia/politics/article/3365458/us-base-dispute-hangs-over-japans-okinawa-governor-election?utm_source=rss_feed",
-      "published_date": "2026-08-28T00:00:12+00:00"
-    },
-    {
-      "title": "Putin plans to interfere in elections in EU countries — CCD",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4158084-putin-plans-to-interfere-in-elections-in-eu-countries-ccd.html",
-      "published_date": "2026-08-27T21:37:00+00:00"
-    },
-    {
-      "title": "They captured alias Páez, leader of the Aragua Train in Peru, in Bogotá",
-      "source": "El Nacional Venezuela",
-      "country": "Peru",
-      "url": "https://www.elnacional.com/2026/08/capturan-en-bogota-a-alias-paez-cabecilla-del-tren-de-aragua-en-peru/",
-      "published_date": "2026-08-27T20:36:20+00:00"
-    },
-    {
-      "title": "Presidente da federação PSDB/Cidadania se aproxima do PT em Mauá",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/presidente-da-federacao-psdbcidadania-se-aproxima-do-pt-em-maua.shtml",
-      "published_date": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-      "source": "Al Jazeera English",
-      "country": "Nigeria",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
-      "published_date": "2026-08-27T19:57:13+00:00"
-    },
-    {
-      "title": "French presidential candidates clash at first debate before upcoming elections",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections",
-      "published_date": "2026-08-27T19:12:55+00:00"
-    },
-    {
-      "title": "French presidential candidates clash at first debate before upcoming elections - France 24",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3FDSUQ0dVdYa1dPV3VfdHpCNWdtc0ZjWWZDdGQtMlNEOFpHWVNhTDk3RUZNNUpURFF5cUdtUlhOQnpoNkhLa05kU2F6QVRJSWxXSFpPekoyYzhGTWFITUlFQjl6Qzc0TlNJam1VeHM4SFJUWlpwUlpqU3JfWWtJdVRva0VGM1N6Z2pWQzRIc2xubDE0NURobzVwWGRvV2x2R2tCSVlJVk1KZEd1YUVyekJYd056RkFKRXRKZDl5dw?oc=5",
-      "published_date": "2026-08-27T19:12:55+00:00"
-    },
-    {
-      "title": "Green “election campaign vacationers”: They travel from all over the republic to warn against the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-gruene-aus-muenchen-machen-wahlkampf-in-halle-201145508.html",
-      "published_date": "2026-08-27T18:49:33+00:00"
-    },
-    {
-      "title": "Tinubu orders comprehensive football reform after Gusau’s resignation",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/more-news/905804-tinubu-orders-comprehensive-football-reform-after-gusaus-resignation.html",
-      "published_date": "2026-08-27T18:47:58+00:00"
-    },
-    {
-      "title": "Israel's thwarted ambitions to overthrow the Iranian regime",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/08/27/les-ambitions-contrariees-d-israel-pour-renverser-le-regime-iranien_6758500_3210.html",
-      "published_date": "2026-08-27T18:00:08+00:00"
-    },
-    {
-      "title": "Fundação ligada ao PT lança livro sobre 10 anos do impeachment de Dilma",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/fundacao-ligada-ao-pt-lanca-livro-sobre-10-anos-do-impeachment-de-dilma.shtml",
-      "published_date": "2026-08-27T17:12:00+00:00"
-    },
-    {
-      "title": "Only two blocs: The election math Netanyahu doesn’t want Israelis to see - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-906779",
-      "published_date": "2026-08-27T16:00:00+00:00"
-    },
-    {
-      "title": "As Moscow puts a Pushkin statue up for a vote, officials will also use it to test key software ahead of next month’s parliamentary elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/27/as-moscow-puts-a-pushkin-statue-up-for-a-vote-officials-will-also-use-it-to-test-key-software-ahead-of-next-month-s-parliamentary-elections",
-      "published_date": "2026-08-27T15:40:10+00:00"
-    },
-    {
-      "title": "Israel elections: Netanyahu needs a war to win - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-906645",
-      "published_date": "2026-08-27T15:00:00+00:00"
     }
   ]
 }
