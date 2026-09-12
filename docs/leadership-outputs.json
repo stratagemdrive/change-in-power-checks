@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-11T14:54:21.930632+00:00",
-    "story_count": 380,
+    "last_updated": "2026-09-12T00:54:19.948422+00:00",
+    "story_count": 376,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,62 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “La Argentina que queremos se construye en las aulas”, dijo el Presidente",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tras-la-inflacion-de-agosto-el-presidente-pidio-que-confien-nid11092026/",
+      "published_date": "2026-09-12T00:47:25+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "published_date": "2026-09-11T22:57:51+00:00"
+    },
+    {
+      "title": "A corruption investigation against Flávio Bolsonaro shakes the electoral campaign in Brazil three weeks before the presidential elections",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/09/una-investigacion-por-corrupcion-contra-flavio-bolsonaro-sacude-la-campana-electoral-en-brasil-a-tres-semanas-de-las-presidenciales/",
+      "published_date": "2026-09-11T22:33:29+00:00"
+    },
+    {
+      "title": "Iran challenges Trump on eve of US midterm elections",
+      "source": "El Nacional Venezuela",
+      "country": "Iran",
+      "url": "https://www.elnacional.com/2026/09/iran-desafia-a-trump-en-visperas-de-las-elecciones-de-estados-unidos/",
+      "published_date": "2026-09-11T19:31:04+00:00"
+    },
+    {
+      "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFFPLU1nTmZ4YVltTnMwSmhpNE1fVHFGZ0puQlY0XzJkUWNER252RjhzNkFMczFoNFk5M3gtalBkRGcwTklDVUN0alZMWngzZVZVX2wtYTl5Rl80eDlKaDlncHhnM1p0Y251RFJnbm1MOHlteHpTRy1pd2ZaSnVaMVd1T3JPYjdRVFp4S0xldG9DYTRpcGNVVkJ5TVhSR2RBR3BneXNqZVdOdy01ZGxtWU9VbnN6TEhLTUxwdEJGYw?oc=5",
+      "published_date": "2026-09-11T19:18:16+00:00"
+    },
+    {
+      "title": "Presidential candidate in Brazil is being investigated for corruption",
+      "source": "DR News Denmark",
+      "country": "Brazil",
+      "url": "https://www.dr.dk/nyheder/seneste/praesidentkandidat-i-brasilien-efterforskes-korruption",
+      "published_date": "2026-09-11T18:52:20+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
+      "published_date": "2026-09-11T16:21:38+00:00"
+    },
+    {
+      "title": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
+      "published_date": "2026-09-11T16:11:08+00:00"
+    },
     {
       "title": "Diputada Jéldrez respalda que Presidente Kast no conmemore el 11-S: \" \"",
       "source": "La Tercera Chile",
@@ -121,6 +177,13 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-was-macht-manuela-schwesig-anders-gegen-die-afd-accg-201202351.html",
       "published_date": "2026-09-11T06:29:48+00:00"
+    },
+    {
+      "title": "The election of the new Miss Universe Venezuela already has a date",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/la-eleccion-de-la-nueva-miss-universo-venezuela-ya-tiene-fecha/",
+      "published_date": "2026-09-11T04:45:00+00:00"
     },
     {
       "title": "Carney suggests Ottawa won’t bankroll federalist groups in Alberta separation referendum",
@@ -2627,97 +2690,6 @@
       "country": "Nigeria",
       "url": "https://punchng.com/apc-govsll-secure-tinubus-re-election-says-uzodinma/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-08-29T02:00:21+00:00"
-    },
-    {
-      "title": "Kast raises the tone for his commitment to security and points out that the constitutional reform can be “modified and improved”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-sube-el-tono-por-su-apuesta-en-seguridad-y-apunta-que-la-reforma-constitucional-puede-ser-modificada-y-mejorada/",
-      "published_date": "2026-08-28T21:10:16+00:00"
-    },
-    {
-      "title": "Israeli citizens abroad push to gain voting rights for upcoming elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-906920",
-      "published_date": "2026-08-28T21:04:28+00:00"
-    },
-    {
-      "title": "Ousted Ukraine defence chief becomes adviser to Italian minister",
-      "source": "The Punch Nigeria",
-      "country": "Ukraine",
-      "url": "https://punchng.com/ousted-ukraine-defence-chief-becomes-adviser-to-italian-minister/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-28T19:47:03+00:00"
-    },
-    {
-      "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss",
-      "published_date": "2026-08-28T19:26:15+00:00"
-    },
-    {
-      "title": "They left Russia to keep teaching. Now the Kremlin has blacklisted the school they built from exile.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/28/they-left-russia-to-keep-teaching-now-the-kremlin-has-blacklisted-the-school-they-built-from-exile",
-      "published_date": "2026-08-28T19:07:11+00:00"
-    },
-    {
-      "title": "Nagendra’s resignation comes as a morale booster for Karnataka BJP as it tastes first ‘political victory’ against new regime",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/resignation-comes-as-morale-booster-for-bjp-as-it-tastes-first-political-victory-against-new-regime/article71401804.ece",
-      "published_date": "2026-08-28T19:04:34+00:00"
-    },
-    {
-      "title": "2027: APC governors will deliver Tinubu’s re-election — Uzodimma",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-apc-governors-will-deliver-tinubus-re-election-uzodimma/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-08-28T19:03:45+00:00"
-    },
-    {
-      "title": "An exiled dissident’s wife returned to Russia for a visit. She’s now serving 10 days in jail — over a locked phone.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/28/an-exiled-dissident-s-wife-returned-to-russia-for-a-visit-she-s-now-serving-10-days-in-jail-over-a-locked-phone",
-      "published_date": "2026-08-28T18:49:34+00:00"
-    },
-    {
-      "title": "Iran's Supreme Leader bans acts that 'harm social cohesion'",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-bans-acts-harm-social-cohesion",
-      "published_date": "2026-08-28T18:48:09+00:00"
-    },
-    {
-      "title": "Russian antiwar party Yabloko removed from Kaliningrad and Sverdlovsk region elections in latest wave of court rulings",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/28/russian-antiwar-party-yabloko-removed-from-kaliningrad-and-sverdlovsk-region-elections-in-latest-wave-of-court-rulings",
-      "published_date": "2026-08-28T18:40:49+00:00"
-    },
-    {
-      "title": "Ojos de la llave: las críticas de Dávalos Bachelet contra Kast Adriasola y la sorpresa del Presidente a Ossandón",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/ojos-de-la-llave-las-criticas-de-davalos-bachelet-contra-kast-adriasola-y-la-sorpresa-del-presidente-a-ossandon/",
-      "published_date": "2026-08-28T17:30:00+00:00"
-    },
-    {
-      "title": "'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-cannot-scare-me-with-ed-cbi-b-nagendra-slams-after-stepping-down-as-karnataka-minister-valmiki-corporation-scam-101787931718660.html",
-      "published_date": "2026-08-28T17:17:55+00:00"
-    },
-    {
-      "title": "PML-N's Syed Iftikhar Ali Gillani sworn in as new AJK prime minister",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister",
-      "published_date": "2026-08-28T17:06:18+00:00"
     }
   ]
 }
