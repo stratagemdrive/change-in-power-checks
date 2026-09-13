@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-13T00:35:11.942862+00:00",
-    "story_count": 369,
+    "last_updated": "2026-09-13T14:54:30.865366+00:00",
+    "story_count": 360,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu may seek broad national government after election, sources in Ben-Gvir's camp believe",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908451",
+      "published_date": "2026-09-13T14:18:32+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-13T13:27:53+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-13T13:27:49+00:00"
+    },
+    {
+      "title": "Le Pen kicks off presidential election campaign amid party tensions",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/my-europe/2026/09/13/le-pen-in-henin-beaumont-stronghold-for-damage-control",
+      "published_date": "2026-09-13T13:04:27+00:00"
+    },
+    {
+      "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/",
+      "published_date": "2026-09-13T11:56:00+00:00"
+    },
+    {
+      "title": "Brazil: Michelle Bolsonaro's key role in the presidential race",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/brazil-michelle-bolsonaro-s-key-role-in-the-presidential-race",
+      "published_date": "2026-09-13T11:08:22+00:00"
+    },
+    {
+      "title": "Netanyahu's Likud, Eisenkot’s Yashar trade leads as 2026 election picture stays unclear - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908444",
+      "published_date": "2026-09-13T10:16:20+00:00"
+    },
+    {
+      "title": "‘This is our home’: German minorities defy far-right AfD’s culture of fear after election win",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/afd-election-saxony-anhalt-migrants-terrified-b3047919.html",
+      "published_date": "2026-09-13T09:25:20+00:00"
+    },
+    {
+      "title": "Murai likely to be named Diet affairs head in LDP exec reshuffle",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/hideki-murai-cabinet-reshuffle/",
+      "published_date": "2026-09-13T09:19:00+00:00"
+    },
     {
       "title": "Defence minister backs Tinubu, Sani’s re-election",
       "source": "The Punch Nigeria",
@@ -123,7 +186,7 @@
       "published_date": "2026-09-12T02:35:00+00:00"
     },
     {
-      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - NBC News",
+      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - nbcnews.com",
       "source": "Google News World",
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHZISHFzWDlSb3E3U1VVeVJ6Y3l1Zzd6Z3M3OGlkQjQtWktpQjRlMmV0bG4zLWRHakt3bVBqVzczMkhIQ0swaS1rMEN5MFQ1MHBLNUgtWFgzaTByYmxFSEppSndDdkVkUElBUFhIMng1SVRnMjJDaTRKeDhwZmJmN2N6ckRsSUtUeGpkamFnc3BSM1ZadUwybXQxVndNOE94MHN2dlByUUdQZFhHdFRuZHhzWjZ5YzRjSXc?oc=5",
@@ -319,13 +382,6 @@
       "published_date": "2026-09-10T22:46:51+00:00"
     },
     {
-      "title": "Elections 2027: when to vote for president in Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-10T22:46:38+00:00"
-    },
-    {
       "title": "Elections: when to vote for president in Brazil 2026",
       "source": "La Nacion Argentina",
       "country": "Brazil",
@@ -485,13 +541,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/sociedad/como-votar-desde-la-argentina-para-las-elecciones-de-brasil-2026-nid08092026/",
       "published_date": "2026-09-09T23:32:34+00:00"
-    },
-    {
-      "title": "When do you vote for president in Argentina? All about the 2027 elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-09T23:31:21+00:00"
     },
     {
       "title": "Before the presidential election in Brazil, the Supreme Court is torn apart in an unprecedented crisis",
@@ -2529,118 +2578,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
       "published_date": "2026-08-30T14:59:07+00:00"
-    },
-    {
-      "title": "RSF officials accused of atrocities met with Israeli officials during Sudan civil war - report",
-      "source": "Jerusalem Post",
-      "country": "Sudan",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-907011",
-      "published_date": "2026-08-30T13:51:34+00:00"
-    },
-    {
-      "title": "Cabinet reshuffle in Seoul: President Lee tries to break free",
-      "source": "FAZ Germany",
-      "country": "South Korea",
-      "url": "https://www.faz.net/aktuell/politik/ausland/lee-jae-myung-kabinettsumbau-in-suedkorea-als-befreiungsschlag-accg-201172426.html",
-      "published_date": "2026-08-30T13:47:27+00:00"
-    },
-    {
-      "title": "Presidential election 2027: Jean-Luc Mélenchon declines, Raphaël Glucksmann progresses, according to a survey",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-recule-raphael-glucksmann-progresse-selon-un-sondage-20260829",
-      "published_date": "2026-08-30T12:46:52+00:00"
-    },
-    {
-      "title": "Iran's supreme leader calls on Muslim countries to unite against the United States and Israel",
-      "source": "La Tercera Chile",
-      "country": "Iran",
-      "url": "https://www.latercera.com/mundo/noticia/lider-supremo-de-iran-llama-a-paises-musulmanes-a-unirse-frente-a-estados-unidos-e-israel/",
-      "published_date": "2026-08-30T12:22:19+00:00"
-    },
-    {
-      "title": "Haaretz: Army concerned Netanyahu escalating West Bank tensions before elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/haaretz-army-concerned-netanyahu-escalating-west-bank-tensions-elections",
-      "published_date": "2026-08-30T12:22:16+00:00"
-    },
-    {
-      "title": "Ukrainian forces deny Russian claims of capturing Velykyi Prykil and Sadky in Sumy region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4159138-ukrainian-forces-deny-russian-claims-of-capturing-velykyi-prykil-and-sadky-in-sumy-region.html",
-      "published_date": "2026-08-30T12:18:00+00:00"
-    },
-    {
-      "title": "Azerbaijani regime ‘trying to break’ opposition leader by denying him safe water in prison, family warn",
-      "source": "The Independent UK",
-      "country": "Azerbaijan",
-      "url": "https://www.independent.co.uk/news/world/europe/azerbaijan-karimli-prison-baku-aliyev-b3029690.html",
-      "published_date": "2026-08-30T12:03:00+00:00"
-    },
-    {
-      "title": "Tinubu begins three-week leave, Presidency mum on Shettima as acting president",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/906278-breaking-tinubu-begins-three-week-leave-presidency-mum-on-shettima-as-acting-president.html",
-      "published_date": "2026-08-30T11:13:18+00:00"
-    },
-    {
-      "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
-      "source": "Dawn Pakistan",
-      "country": "Iran",
-      "url": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
-      "published_date": "2026-08-30T10:51:00+00:00"
-    },
-    {
-      "title": "Germany's Kremlin-friendly AfD eyes historic election win - The Kyiv Independent",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVlSSWU4Rmxvald1Vzl4dEJKalJ6dUs1cjM5c1h0aWUyS1dYREx3aXJDYzA3QWhoVGVicDBYVGRmZmotcDNVYTFtV21GWkRSQTJwWXNRYVlnZjBhTDFhSUhCY3hIeEhnSWdjTjRXWG5qSmtRZld0bE10VWFHN01tUzBCQkxzbHBMQ2p6Tm9R?oc=5",
-      "published_date": "2026-08-30T10:46:37+00:00"
-    },
-    {
-      "title": "French presidential elections 2027: the battle of the left is launched",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-pr%C3%A9sidentielles-fran%C3%A7aises-2027-la-bataille-des-gauches-est-lanc%C3%A9e",
-      "published_date": "2026-08-30T10:07:23+00:00"
-    },
-    {
-      "title": "Niger: junta thwarts mutiny with help from Russia",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-niger-la-junte-d%C3%A9joue-une-mutinerie-avec-l-aide-de-la-russie",
-      "published_date": "2026-08-30T09:32:41+00:00"
-    },
-    {
-      "title": "The Istiqlal Party unveils the key promises of its program for the legislative elections of September 23",
-      "source": "Le Desk Morocco",
-      "country": "Morocco",
-      "url": "https://ledesk.ma/2026/08/30/le-parti-de-listiqlal-devoile-les-promesses-phares-de-son-programme-pour-les-legislatives-du-23-septembre/",
-      "published_date": "2026-08-30T07:10:16+00:00"
-    },
-    {
-      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-      "source": "The Guardian World",
-      "country": "Sudan",
-      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "published_date": "2026-08-30T06:00:48+00:00"
-    },
-    {
-      "title": "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/punjab-aap-activist-gurpreet-singh-gopi-shot-dead-near-ferozpur-cops-suspect-old-dispute-elections-as-motive-101788062091320.html",
-      "published_date": "2026-08-30T04:01:37+00:00"
-    },
-    {
-      "title": "Niger: Soldiers' uprising suppressed with Russian help",
-      "source": "FAZ Germany",
-      "country": "Russia",
-      "url": "https://www.faz.net/aktuell/politik/ausland/aufstand-in-niger-russland-hilft-bei-niederschlagung-accg-201171568.html",
-      "published_date": "2026-08-30T01:19:16+00:00"
     }
   ]
 }
