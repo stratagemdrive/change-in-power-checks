@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-12T13:57:31.987376+00:00",
-    "story_count": 374,
+    "last_updated": "2026-09-13T00:35:11.942862+00:00",
+    "story_count": 369,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,34 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Defence minister backs Tinubu, Sani’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/defence-minister-backs-tinubu-sanis-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-09-13T00:00:53+00:00"
+    },
+    {
+      "title": "Putin Rocked by a ‘Palace Coup’ Among His Top Henchmen - thedailybeast.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXVpR2RoNWFaRGtWQ2Q2UXc0UGlUTGIxQW1sMXpWNk0xV1JOZ3lwVWdOdlhodTR6LW5qaklwdHNvZ3plcVdVLU9najZKRnI1LWNIWWl2ZnpxenRZZS00a1U1OVhrWDgtSkRpOU1rQ0JIZF90REh2QWVfeUpkN3MyN0hER0Judm5vNWNV?oc=5",
+      "published_date": "2026-09-12T21:41:00+00:00"
+    },
+    {
+      "title": "PM Koretskyi convenes emergency meeting over intensifying Russian attacks on gas stations",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4163590-pm-koretskyi-convenes-emergency-meeting-over-intensifying-russian-attacks-on-gas-stations.html",
+      "published_date": "2026-09-12T19:32:00+00:00"
+    },
+    {
+      "title": "Houthis say liberated more than 200 prisoners in newly captured regions",
+      "source": "Middle East Eye",
+      "country": "Yemen",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-liberated-more-200-prisoners-newly-captured-regions",
+      "published_date": "2026-09-12T17:37:15+00:00"
+    },
     {
       "title": "BJP, JD(S) step up pressure seeking Jarkiholi’s resignation ahead of special Legislative session",
       "source": "The Hindu Politics",
@@ -93,6 +121,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-aliados-de-lula-e-de-flavio-bolsonaro-falam-em-estabilidade-na-eleicao-apesar-da-crise-no-stf.shtml",
       "published_date": "2026-09-12T02:35:00+00:00"
+    },
+    {
+      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - NBC News",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHZISHFzWDlSb3E3U1VVeVJ6Y3l1Zzd6Z3M3OGlkQjQtWktpQjRlMmV0bG4zLWRHakt3bVBqVzczMkhIQ0swaS1rMEN5MFQ1MHBLNUgtWFgzaTByYmxFSEppSndDdkVkUElBUFhIMng1SVRnMjJDaTRKeDhwZmJmN2N6ckRsSUtUeGpkamFnc3BSM1ZadUwybXQxVndNOE94MHN2dlByUUdQZFhHdFRuZHhzWjZ5YzRjSXc?oc=5",
+      "published_date": "2026-09-12T01:23:00+00:00"
     },
     {
       "title": "Javier Milei y sus medidas, en vivo: “La Argentina que queremos se construye en las aulas”, dijo el Presidente",
@@ -2606,76 +2641,6 @@
       "country": "Russia",
       "url": "https://www.faz.net/aktuell/politik/ausland/aufstand-in-niger-russland-hilft-bei-niederschlagung-accg-201171568.html",
       "published_date": "2026-08-30T01:19:16+00:00"
-    },
-    {
-      "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
-      "source": "South China Morning Post",
-      "country": "North Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
-      "published_date": "2026-08-29T23:54:52+00:00"
-    },
-    {
-      "title": "“R15”, one of the leaders of a faction of the Tren de Aragua in Chile, is captured in Lima",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/capturan-en-lima-a-r15-uno-de-los-lideres-de-una-faccion-del-tren-de-aragua-en-chile/",
-      "published_date": "2026-08-29T22:54:30+00:00"
-    },
-    {
-      "title": "LIVE - Presidential Election 2027: Jordan Bardella refutes any “disloyalty” towards Le Pen, but accepts his own “sensitivity”",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jordan-bardella-fait-sa-rentree-politique-a-la-foire-de-chalons-ce-samedi-le-patron-du-ps-olivier-faure-sous-pression-20260829",
-      "published_date": "2026-08-29T20:52:02+00:00"
-    },
-    {
-      "title": "‘We’re back in control’ – Russia helps Niger junta to retake military base",
-      "source": "Vanguard Nigeria",
-      "country": "Russia",
-      "url": "https://www.vanguardngr.com/2026/08/breaking-russia-helps-niger-junta-to-retake-military-base/",
-      "published_date": "2026-08-29T20:12:51+00:00"
-    },
-    {
-      "title": "OPC declares support for Tinubu’s re-election bid",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/08/opc-declares-support-for-tinubus-re-election-bid/",
-      "published_date": "2026-08-29T18:58:08+00:00"
-    },
-    {
-      "title": "Presidential election 2027: primary, pensions, 1968 agreement with Algeria... In Sens, François Hollande tests his chances against Édouard Philippe",
-      "source": "Le Figaro France",
-      "country": "Algeria",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-primaire-retraites-accord-de-1968-avec-l-algerie-a-sens-francois-hollande-teste-ses-chances-face-a-edouard-philippe-20260829",
-      "published_date": "2026-08-29T18:43:22+00:00"
-    },
-    {
-      "title": "Jara emplaza a Kast por eventual participación en foro de Madrid: “Tiene que decidir si es Presidente de todos los chilenos”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/jara-emplaza-a-kast-por-eventual-participacion-en-foro-de-madrid-tiene-que-decidir-si-es-presidente-de-todos-los-chilenos/",
-      "published_date": "2026-08-29T17:29:52+00:00"
-    },
-    {
-      "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
-      "published_date": "2026-08-29T16:24:45+00:00"
-    },
-    {
-      "title": "After arrest for coup plotting, the number of military and police candidates drops, but is higher than pre-Bolsonaro",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/apos-prisao-por-golpismo-numero-de-candidatos-militares-e-policiais-cai-mas-e-maior-que-no-pre-bolsonaro.shtml",
-      "published_date": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece",
-      "published_date": "2026-08-29T13:59:16+00:00"
     }
   ]
 }
