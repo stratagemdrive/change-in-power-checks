@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-13T14:54:30.865366+00:00",
-    "story_count": 360,
+    "last_updated": "2026-09-14T00:40:51.449851+00:00",
+    "story_count": 357,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Russia’s dominant security agency, the FSB, is reportedly preparing for a leadership shake-up and major overhaul as early as October",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/14/russia-s-dominant-security-agency-the-fsb-is-reportedly-preparing-for-a-leadership-shake-up-and-major-overhaul-as-early-as-october",
+      "published_date": "2026-09-13T23:29:31+00:00"
+    },
+    {
+      "title": "Presidente De La Espriella anuncia acuerdo con Chile para que colombianos homologuen competencias profesionales en ese país: estos son los oficios",
+      "source": "El Tiempo Colombia",
+      "country": "Chile",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-acuerdo-con-chile-para-que-colombianos-homologuen-competencias-profesionales-en-ese-pais-estos-son-los-oficios-3585713",
+      "published_date": "2026-09-13T21:46:48+00:00"
+    },
+    {
+      "title": "French must come first, far-right leader Le Pen says at election campaign launch",
+      "source": "South China Morning Post",
+      "country": "France",
+      "url": "https://www.scmp.com/news/world/europe/article/3367368/french-must-come-first-far-right-leader-le-pen-says-election-campaign-launch?utm_source=rss_feed",
+      "published_date": "2026-09-13T16:29:13+00:00"
+    },
+    {
+      "title": "Le Pen kicks off presidential election campaign amid party tensions",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/my-europe/2026/09/13/le-pen-in-henin-beaumont-stronghold-for-damage-control",
+      "published_date": "2026-09-13T16:09:38+00:00"
+    },
+    {
+      "title": "Trump reiterates that he sees Iran war ending after US midterm elections",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-he-sees-iran-war-ending-after-us-midterm-elections",
+      "published_date": "2026-09-13T15:17:03+00:00"
+    },
+    {
+      "title": "Polish PM Office calls emergency meeting after Russian attacks on Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4163776-polish-pm-office-calls-emergency-meeting-after-russian-attacks-on-ukraine.html",
+      "published_date": "2026-09-13T14:55:00+00:00"
+    },
     {
       "title": "Netanyahu may seek broad national government after election, sources in Ben-Gvir's camp believe",
       "source": "Jerusalem Post",
@@ -79,13 +121,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
       "published_date": "2026-09-13T13:27:49+00:00"
-    },
-    {
-      "title": "Le Pen kicks off presidential election campaign amid party tensions",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/my-europe/2026/09/13/le-pen-in-henin-beaumont-stronghold-for-damage-control",
-      "published_date": "2026-09-13T13:04:27+00:00"
     },
     {
       "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
@@ -186,7 +221,7 @@
       "published_date": "2026-09-12T02:35:00+00:00"
     },
     {
-      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - nbcnews.com",
+      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - NBC News",
       "source": "Google News World",
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHZISHFzWDlSb3E3U1VVeVJ6Y3l1Zzd6Z3M3OGlkQjQtWktpQjRlMmV0bG4zLWRHakt3bVBqVzczMkhIQ0swaS1rMEN5MFQ1MHBLNUgtWFgzaTByYmxFSEppSndDdkVkUElBUFhIMng1SVRnMjJDaTRKeDhwZmJmN2N6ckRsSUtUeGpkamFnc3BSM1ZadUwybXQxVndNOE94MHN2dlByUUdQZFhHdFRuZHhzWjZ5YzRjSXc?oc=5",
@@ -2522,62 +2557,6 @@
       "country": "Iran",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
       "published_date": "2026-08-31T02:43:00+00:00"
-    },
-    {
-      "title": "Senator Ted Cruz: \"There must be free and democratic elections in Venezuela\"",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/08/senador-ted-cruz-tiene-que-haber-elecciones-libres-y-democraticas-en-venezuela/",
-      "published_date": "2026-08-30T21:16:18+00:00"
-    },
-    {
-      "title": "How are Gazan gangs affecting the strip amid Israel, US election cycles? - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/middle-east/article-907062",
-      "published_date": "2026-08-30T20:02:41+00:00"
-    },
-    {
-      "title": "French presidential race: De Villepin set to run, Faure enters socialist primary",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/08/30/french-presidential-race-de-villepin-set-to-run-faure-enters-socialist-primary",
-      "published_date": "2026-08-30T18:26:25+00:00"
-    },
-    {
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "source": "BBC World",
-      "country": "Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-30T16:33:17+00:00"
-    },
-    {
-      "title": "UNSMIL welcomes signing of agreement on Libya’s electoral framework and next steps towards national elections",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/08/unsmil-welcomes-signing-of-agreement-on-libyas-electoral-framework-and-next-steps-towards-national-elections/",
-      "published_date": "2026-08-30T16:21:00+00:00"
-    },
-    {
-      "title": "Smile, tracksuit and “V” for victory: deposed Venezuelan president Nicolas Maduro publishes his very first photos from prison",
-      "source": "Le Figaro France",
-      "country": "Venezuela",
-      "url": "https://www.lefigaro.fr/international/sourire-survetement-et-v-de-la-victoire-le-president-venezuelien-dechu-nicolas-maduro-publie-ses-toutes-premieres-photos-depuis-sa-prison-20260830",
-      "published_date": "2026-08-30T15:42:32+00:00"
-    },
-    {
-      "title": "Niger junta puts down mutiny with help from Russia's Africa Corps",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
-      "published_date": "2026-08-30T15:20:01+00:00"
-    },
-    {
-      "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
-      "published_date": "2026-08-30T14:59:07+00:00"
     }
   ]
 }
