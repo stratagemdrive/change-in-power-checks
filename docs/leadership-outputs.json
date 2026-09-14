@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-14T00:40:51.449851+00:00",
-    "story_count": 357,
+    "last_updated": "2026-09-14T16:53:07.687925+00:00",
+    "story_count": 356,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,109 @@
   },
   "stories": [
     {
+      "title": "PLO moves forward with plans to restructure of the Palestinian National Council ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/middle-east/article-908549",
+      "published_date": "2026-09-14T16:42:23+00:00"
+    },
+    {
+      "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+      "published_date": "2026-09-14T16:34:08+00:00"
+    },
+    {
+      "title": "Presidente Kast encabeza anuncio de Coca-Cola: $720 mil millones de inversión y 500 empleos para jóvenes",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/sociales/noticia/presidente-kast-encabeza-anuncio-de-coca-cola-720-mil-millones-de-inversion-y-500-empleos-para-jovenes/",
+      "published_date": "2026-09-14T15:18:07+00:00"
+    },
+    {
+      "title": "Russia’s election outcome is all but predetermined. But does a protest vote still matter?",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/14/russia-s-election-outcome-is-all-but-predetermined-but-does-a-protest-vote-still-matter",
+      "published_date": "2026-09-14T14:21:01+00:00"
+    },
+    {
+      "title": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20260914-french-2027-presidential-elections-why-gen-z-has-mobilised-for-m%C3%A9lenchon",
+      "published_date": "2026-09-14T13:05:26+00:00"
+    },
+    {
+      "title": "“Más allá de ciertos planteamientos, yo no he tenido diferencias con él”: Presidente Kast por embajador Judd",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/mas-alla-de-ciertos-planteamientos-yo-no-he-tenido-diferencias-con-el-presidente-kast-por-embajador-judd/",
+      "published_date": "2026-09-14T13:00:16+00:00"
+    },
+    {
+      "title": "Presidente Kast ratifica Presupuesto 2027 austero y que gasto público no crecerá más de 1%: “Hay que ser realistas”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-ratifica-presupuesto-2027-austero-y-que-gasto-publico-no-crecera-mas-de-1-hay-que-ser-realistas/",
+      "published_date": "2026-09-14T12:24:33+00:00"
+    },
+    {
+      "title": "Thousands rally in support of Brazil's Lula as election campaigning heats up",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20260914-thousands-rally-in-support-of-brazil-s-lula-as-election-campaigning-heats-up",
+      "published_date": "2026-09-14T10:59:53+00:00"
+    },
+    {
+      "title": "Pay to ghost your boss: Japan's resignation business",
+      "source": "Deutsche Welle English",
+      "country": "Japan",
+      "url": "https://www.dw.com/en/pay-to-ghost-your-boss-japan-s-resignation-business/a-79213584?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-09-14T10:36:00+00:00"
+    },
+    {
+      "title": "Murai likely to be named Diet affairs head in LDP exec reshuffle",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/14/japan/politics/hideki-murai-cabinet-reshuffle/",
+      "published_date": "2026-09-14T08:33:00+00:00"
+    },
+    {
+      "title": "'Saquearon al país': Presidente Abelardo De La Espriella anuncia medidas económicas de urgencia y señala a Gustavo Petro de grave estado financiero",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/saquearon-al-pais-presidente-de-la-espriella-anuncia-medidas-economicas-de-urgencia-y-senala-a-gustavo-petro-de-grave-estado-financiero-3585782",
+      "published_date": "2026-09-14T05:01:00+00:00"
+    },
+    {
+      "title": "South Korean president’s cabinet reshuffle hits new snag as gender minister nominee quits",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3367394/south-korean-presidents-cabinet-reshuffle-hits-new-snag-gender-minister-nominee-quits?utm_source=rss_feed",
+      "published_date": "2026-09-14T04:33:36+00:00"
+    },
+    {
+      "title": "French extreme candidates steam ahead in 2027 presidential race, poll shows - Reuters",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNmWngyTU42TUVWT2padmJfQ0xjRnNacVhIdFhGX205a3RKcU5oQkNoYm9JU2xoVFFoTURNTlc1WUNZUk9fSlFJbTNWdElOY0pNRk9BZDItcHdJQThGTFNWUERCNl9KcUpvT0F1bDF6ZWhwQ3NKWmI5VW11dHRYMElFRmg0cU1iQXc0Y2RhRVdHLURCUEVabWdOWkNCbkl3NW1lZXdZUEFHdGRnU2t4YVlKZw?oc=5",
+      "published_date": "2026-09-14T03:05:00+00:00"
+    },
+    {
       "title": "Russia’s dominant security agency, the FSB, is reportedly preparing for a leadership shake-up and major overhaul as early as October",
       "source": "Meduza EN",
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/14/russia-s-dominant-security-agency-the-fsb-is-reportedly-preparing-for-a-leadership-shake-up-and-major-overhaul-as-early-as-october",
       "published_date": "2026-09-13T23:29:31+00:00"
+    },
+    {
+      "title": "Okinawa election win may give Tokyo freer hand on military build-up - Reuters",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdm1vbHFDZjQtdkR6ZTdqOHNyb3dGM0RPN2FDWlBrZGJVTXZTZU03bHZFVkZ0RjhscUFXRDFza244R0l3T2NfMUVYSkdral8wYmlCdmg0d3hVYjllSHVoLVBxZl9DemNXNGdKUFEtUUk0cnNKeUx6TjRNVl9nb1NTSUZFYU05blpMcWRucy1lSmNtb2J0Y0ZfbEtnMFdzRVBJTjhjUHk0Z1ZOZXpIN1Z5WFl3?oc=5",
+      "published_date": "2026-09-13T23:25:00+00:00"
     },
     {
       "title": "Presidente De La Espriella anuncia acuerdo con Chile para que colombianos homologuen competencias profesionales en ese país: estos son los oficios",
@@ -2452,111 +2550,6 @@
       "country": "Israel",
       "url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
       "published_date": "2026-08-31T16:54:13+00:00"
-    },
-    {
-      "title": "Wanted over alleged coup plot, Sylva quits APC, says Nigerians will vote against Tinubu in 2027",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/906576-wanted-over-alleged-coup-plot-sylva-quits-apc-says-nigerians-will-vote-against-tinubu-in-2027.html",
-      "published_date": "2026-08-31T16:31:01+00:00"
-    },
-    {
-      "title": "Germany live blog: Merz at an election campaign appearance on the Baltic Sea – protest and fish sandwiches",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merz-bei-wahlkampfauftritt-an-der-ostsee-protest-und-fischbroetchen-faz-110093143.html",
-      "published_date": "2026-08-31T15:59:29+00:00"
-    },
-    {
-      "title": "Lula's allies say that perception about prices and debt is a greater risk than Lulinha in the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/aliados-de-lula-dizem-que-percepcao-sobre-precos-e-dividas-e-risco-maior-que-lulinha-na-eleicao.shtml",
-      "published_date": "2026-08-31T15:47:00+00:00"
-    },
-    {
-      "title": "France's politicians look to close gap with far right ahead of key election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election",
-      "published_date": "2026-08-31T14:55:04+00:00"
-    },
-    {
-      "title": "Niger coup attempt: 'Russians saved the day' analyst tells RFI",
-      "source": "RFI English",
-      "country": "Russia",
-      "url": "https://www.rfi.fr/en/africa/20260831-niger-coup-attempt-russians-saved-the-day-analyst-tells-rfi",
-      "published_date": "2026-08-31T14:41:04+00:00"
-    },
-    {
-      "title": "Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis - NBC News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYS1tS2ZLMnlhZDdzQ1pBMkRvZUhZMWxPYTZvWFhTZ2xaRUVCRzFVaDJyTWpEQkJLTFh4dThZTVVFMUNBaEZUSUNXR214OXhvUkh5YV9sNEMzdVRURzBpUEtvT3ZvYjZJeVZ1RlRZZFd4OXFGR29TeE5ucGVjS29lSGxHTmdYbkxlRk1CSFQxeUQ3RjFScmxIdHJEQ1JmZnZ4ZVdyUmk2N0ZHVjAyT0ZNSXlMekFWa1E?oc=5",
-      "published_date": "2026-08-31T14:07:57+00:00"
-    },
-    {
-      "title": "Presidential election 2027: the RN wants to “sanction” the wearing of the veil with “a fine”",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260831-pr%C3%A9sidentielle-2027-le-rn-veut-sanctionner-le-port-du-voile-par-une-amende",
-      "published_date": "2026-08-31T13:59:07+00:00"
-    },
-    {
-      "title": "Israel’s crowded far-right grows more extreme as elections near - CNN",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGFwdkRzTF9kRmVKNk0xRXFoa0NsbXZvejVuRGNtSDdCdURDM3BtbUttNlNEcnl0Si1NYWxUZDlXbV8zUmNSaUdOUm56WkM0Tzl0V0ZyVEF5dG1Jbk5xRjBHZXVTX3JBLUQ0ajZsOE5wZEpSM1BGQk91WDA3cjkwTm9TakVzc3lqbTNLZA?oc=5",
-      "published_date": "2026-08-31T13:54:50+00:00"
-    },
-    {
-      "title": "France gears up for an election year defined by a fragmented left",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france-gears-up-for-an-election-year-defined-by-a-fragmented-left",
-      "published_date": "2026-08-31T13:49:59+00:00"
-    },
-    {
-      "title": "Spain PM blames Russia, Israel for Ceuta migrant crisis’ disinformation",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/europe/article/3365881/spain-pm-blames-russia-israel-ceuta-migrant-crisis-disinformation?utm_source=rss_feed",
-      "published_date": "2026-08-31T13:39:12+00:00"
-    },
-    {
-      "title": "Israel Election 2026: The parties, blocs and battles that will shape Israel's future - explainer",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/jerusalem-report/article-907099",
-      "published_date": "2026-08-31T13:16:22+00:00"
-    },
-    {
-      "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
-      "source": "Deutsche Welle English",
-      "country": "Russia",
-      "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-08-31T11:32:00+00:00"
-    },
-    {
-      "title": "Spanish PM says disinformation on Ceuta crisis was spread by Russia, Israel",
-      "source": "Jerusalem Post",
-      "country": "Russia",
-      "url": "https://www.jpost.com/international/article-907104",
-      "published_date": "2026-08-31T10:40:15+00:00"
-    },
-    {
-      "title": "Karnataka minister calls 'Islam greatest'. BJP demands resignation, apology to Hindus",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/karnataka-minister-calls-islam-greatest-bjp-demands-resignation-apology-to-hindus-101788145394672.html",
-      "published_date": "2026-08-31T04:13:59+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
-      "published_date": "2026-08-31T02:43:00+00:00"
     }
   ]
 }
