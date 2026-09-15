@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-15T01:13:12.424249+00:00",
-    "story_count": 354,
+    "last_updated": "2026-09-15T15:33:48.350501+00:00",
+    "story_count": 349,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "INEC to Nigerians: 2027 election outcome will reflect your will",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/inec-to-nigerians-2027-election-outcome-will-reflect-your-will/",
+      "published_date": "2026-09-15T14:47:15+00:00"
+    },
+    {
+      "title": "Brazil’s Election Won’t Fix Its Biggest Problems",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt/",
+      "published_date": "2026-09-15T14:43:42+00:00"
+    },
+    {
+      "title": "Assam: AIUDF chief Badruddin Ajmal to contest Nagaon Lok Sabha by-election",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/assam-aiudf-chief-badruddin-ajmal-to-contest-nagaon-lok-sabha-byelection-101789476201905.html",
+      "published_date": "2026-09-15T12:43:21+00:00"
+    },
+    {
+      "title": "ANALYSIS: Credible elections are no longer possible in South Sudan – what next?",
+      "source": "Premium Times Nigeria",
+      "country": "Sudan",
+      "url": "https://www.premiumtimesng.com/news/headlines/909703-analysis-credible-elections-are-no-longer-possible-in-south-sudan-what-next.html",
+      "published_date": "2026-09-15T12:11:14+00:00"
+    },
+    {
+      "title": "Dozens of Myanmar junta POWs escape detention in Chin State",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/dozens-of-myanmar-junta-pows-escape-detention-in-chin-state/",
+      "published_date": "2026-09-15T11:06:17+00:00"
+    },
+    {
+      "title": "Alberta NDP wins by-election in longtime Conservative riding",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-ndp-wins-by-election-in-longtime-conservative-riding/",
+      "published_date": "2026-09-15T09:24:45+00:00"
+    },
+    {
+      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
+      "source": "NK News",
+      "country": "Ukraine",
+      "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
+      "published_date": "2026-09-15T04:10:58+00:00"
+    },
     {
       "title": "Germany’s far-right AfD makes gains in local elections, fended off by mainstream parties",
       "source": "Jerusalem Post",
@@ -149,6 +198,13 @@
       "country": "Brazil",
       "url": "https://www.france24.com/en/video/20260914-thousands-rally-in-support-of-brazil-s-lula-as-election-campaigning-heats-up",
       "published_date": "2026-09-14T10:59:53+00:00"
+    },
+    {
+      "title": "Lula, Bolsonaro neck-and-neck in Brazil runoff polls ahead of election - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0dWQkRlSGIxRjRNbWFQWkJBTWVzY3RfQ0lvNFNtdVR0TlRvTkpWdFY1MnVmVGhTdWl5WXNIWklQQWxndE5yMlRMUzJ0RTNmQjR2eXRMSl8tTEJYTGpZMlBKN1BFTjhRYmh3SWJJX1JvcFRYUFREbEw5SjhzaEhCcVBlVHdLb3A0ZElrS0owNzRmaG10VEk0V1V6TlhfY01Cd0QtS2FkcThtZElnTVhZYndR?oc=5",
+      "published_date": "2026-09-14T10:40:00+00:00"
     },
     {
       "title": "Pay to ghost your boss: Japan's resignation business",
@@ -2445,97 +2501,6 @@
       "country": "Canada",
       "url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html",
       "published_date": "2026-09-01T15:29:35+00:00"
-    },
-    {
-      "title": "By-election wins show of support for Ottawa’s plans on trade, economy, Carney says",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-us-canada-trade-negotiations-september-1/",
-      "published_date": "2026-09-01T15:16:12+00:00"
-    },
-    {
-      "title": "Niger's thwarted mutiny highlights junta's dependence on Russia",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/africa/20260901-what-russia-helping-niger-junta-stop-mutiny-means-for-its-sovereignty",
-      "published_date": "2026-09-01T15:16:08+00:00"
-    },
-    {
-      "title": "IDF strikes Gaza as Hamas official captured in reported raid by Israel-backed militia - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbk55YVVYVURtbmdEZHJTT25uMVZILTN4Q0ZvYWVCWFNxWnl0all6bTdFaHFianpyNFVaUVpYeXF4dGgtVWYxSlZ5RVFDcEZHVF9aQ3pGYVZfY252bkVmalFFVW52RVVETjUzMWVPVU52U2R2VllJaVNzSDd0b1dla2w3STJPd01pQjdlRndnT3htam1weGtKTWVHUFBBQUdsaU5aS19KM0pGb3hjZVR2SnRIWGl0SWFZcGZrVENYR1RZYTVad3JLYnFB0gHPAUFVX3lxTE9qLVhYZll1bExqY2VicE9xaWtIMmJPZGQ3ZWlLeWNNbTlaLVYtbHllVURzY1FlbnZNNUJGSEpfSUFDX1Z6Yi1LX1dYQlFKSEs5elVzRmlleEY2a3ZySVE3U3dkZEotdHktc3pmakRQRVhxMWpqZ1ZRT1NvMlB3eWZtSHdLeFM2R3BUQmJjcWNZeGN5WnMwOXRCck9JM1FNQVdoTEJZUHhhN2RkT01MVl9WQ0hTZGhVcWdXTDJPWno3Q1ZfLThnYk1uOWIxUGgzRQ?oc=5",
-      "published_date": "2026-09-01T14:27:44+00:00"
-    },
-    {
-      "title": "Saskatchewan Conservative MP Cathay Wagantall resigns from House of Commons",
-      "source": "Globe and Mail Politics",
-      "country": "United Kingdom",
-      "url": "https://www.theglobeandmail.com/canada/article-saskatchewan-conservative-mp-cathay-wagantall-resigns/",
-      "published_date": "2026-09-01T14:03:22+00:00"
-    },
-    {
-      "title": "Presidential election 2027: sovereignism and air conditioning, the two pillars of Marine Le Pen and the RN to fight against climate change",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/01/presidentielle-2027-souverainisme-et-air-conditionne-les-deux-piliers-de-marine-le-pen-et-du-rn-pour-lutter-contre-le-dereglement-climatique_6763489_4355770.html",
-      "published_date": "2026-09-01T14:00:19+00:00"
-    },
-    {
-      "title": "Ousted UK PM Keir Starmer quits parliament to focus on international affairs",
-      "source": "Dawn Pakistan",
-      "country": "United Kingdom",
-      "url": "https://www.dawn.com/news/2026639/ousted-uk-pm-keir-starmer-quits-parliament-to-focus-on-international-affairs",
-      "published_date": "2026-09-01T13:08:46+00:00"
-    },
-    {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
-      "published_date": "2026-09-01T12:00:57+00:00"
-    },
-    {
-      "title": "Keir Starmer resigns from the British Parliament",
-      "source": "DR News Denmark",
-      "country": "United Kingdom",
-      "url": "https://www.dr.dk/nyheder/seneste/keir-starmer-traekker-sig-fra-det-britiske-parlament",
-      "published_date": "2026-09-01T11:42:16+00:00"
-    },
-    {
-      "title": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/trump-russia-finance-minister-exile-b3042610.html",
-      "published_date": "2026-09-01T11:18:29+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: Which alliances are mobilizing against the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-zivile-buendnisse-mobilisieren-kampagnen-gegen-die-afd-accg-201143931.html",
-      "published_date": "2026-09-01T08:53:37+00:00"
-    },
-    {
-      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-      "published_date": "2026-09-01T07:42:50+00:00"
-    },
-    {
-      "title": "Carney’s Liberals win 3 special elections in Canada amid trade clash with US",
-      "source": "South China Morning Post",
-      "country": "Canada",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365941/carneys-liberals-win-3-canada-special-elections-amid-trade-clash-us?utm_source=rss_feed",
-      "published_date": "2026-09-01T06:25:01+00:00"
-    },
-    {
-      "title": "Kim Yong-beom, presidential chief of staff for policy, resigns: Cheong Wa Dae",
-      "source": "Korea Times",
-      "country": "South Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260901/kim-yong-beom-presidential-chief-of-staff-for-policy-resigns-cheong-wa-dae?utm_source=rss",
-      "published_date": "2026-09-01T01:32:03+00:00"
     }
   ]
 }
