@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-14T16:53:07.687925+00:00",
-    "story_count": 356,
+    "last_updated": "2026-09-15T01:13:12.424249+00:00",
+    "story_count": 354,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,53 @@
   },
   "stories": [
     {
+      "title": "Germany’s far-right AfD makes gains in local elections, fended off by mainstream parties",
+      "source": "Jerusalem Post",
+      "country": "Germany",
+      "url": "https://www.jpost.com/international/article-908595",
+      "published_date": "2026-09-14T23:56:10+00:00"
+    },
+    {
+      "title": "Likud says it will request to ban Arab parties from running in elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908588",
+      "published_date": "2026-09-14T21:55:51+00:00"
+    },
+    {
+      "title": "Ukraine’s prosecutor general resigned, accused the country’s top anti-corruption official of crimes, and left the country. What happens now?",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/09/14/ukraine-s-prosecutor-general-resigned-accused-the-country-s-top-anti-corruption-official-of-crimes-and-left-the-country-what-happens-now",
+      "published_date": "2026-09-14T19:31:28+00:00"
+    },
+    {
+      "title": "BJP wins Kota municipal elections, poll for chairperson postponed after EVM glitches in some wards",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-kota-municipal-elections-poll-for-chairperson-postponed-after-evm-glitches-in-some-wards/article71466402.ece",
+      "published_date": "2026-09-14T19:16:00+00:00"
+    },
+    {
+      "title": "Navalny’s Anti-Corruption Foundation and exiled opposition politician Maxim Katz spent years feuding. Now they’ve joined forces to coordinate efforts to vote against Russia’s ruling party.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/14/navalny-s-anti-corruption-foundation-and-exiled-opposition-politician-maxim-katz-spent-years-feuding-now-they-ve-joined-forces-to-coordinate-efforts-to-vote-against-russia-s-ruling-party",
+      "published_date": "2026-09-14T19:04:30+00:00"
+    },
+    {
+      "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+      "published_date": "2026-09-14T17:04:56+00:00"
+    },
+    {
       "title": "PLO moves forward with plans to restructure of the Palestinian National Council ahead of elections",
       "source": "Jerusalem Post",
       "country": "Palestine",
       "url": "https://www.jpost.com/middle-east/article-908549",
       "published_date": "2026-09-14T16:42:23+00:00"
-    },
-    {
-      "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
-      "published_date": "2026-09-14T16:34:08+00:00"
     },
     {
       "title": "Presidente Kast encabeza anuncio de Coca-Cola: $720 mil millones de inversión y 500 empleos para jóvenes",
@@ -2501,55 +2536,6 @@
       "country": "South Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20260901/kim-yong-beom-presidential-chief-of-staff-for-policy-resigns-cheong-wa-dae?utm_source=rss",
       "published_date": "2026-09-01T01:32:03+00:00"
-    },
-    {
-      "title": "Bullying mayor ousted as Japan’s voters reject political abuse",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/week-asia/politics/article/3365858/bullying-mayor-ousted-japans-voters-reject-political-abuse?utm_source=rss_feed",
-      "published_date": "2026-09-01T00:00:12+00:00"
-    },
-    {
-      "title": "SURVEY | Marine Le Pen leads the French presidential race and would win in all second round scenarios",
-      "source": "El Nacional Venezuela",
-      "country": "France",
-      "url": "https://www.elnacional.com/2026/08/encuesta-marine-le-pen-lidera-la-carrera-presidencial-francesa-y-ganaria-en-todos-los-escenarios-de-segunda-vuelta/",
-      "published_date": "2026-08-31T22:31:42+00:00"
-    },
-    {
-      "title": "Russia’s only antiwar party loses three more candidates to court rulings, the latest blow before parliamentary elections",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/08/31/russia-s-only-antiwar-party-loses-three-more-candidates-to-court-rulings-the-latest-blow-before-parliamentary-elections",
-      "published_date": "2026-08-31T20:41:50+00:00"
-    },
-    {
-      "title": "Finland's Israel policy might be driven by upcoming elections, expert tells 'Post' - interview",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-907166",
-      "published_date": "2026-08-31T19:57:14+00:00"
-    },
-    {
-      "title": "Andrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
-      "published_date": "2026-08-31T18:07:20+00:00"
-    },
-    {
-      "title": "Russia cements its role as Africa junta protector after helping quell Niger’s mutiny - AP News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcl9tZkZ1V2VyX3gzVENzVU1ZQnczZlE1SlA3VkxSTUVuVVBDWDkzOGhFWHN5MUtYaE03VGhvMTBPMGwzZ1UwZUJHNmNFbk4wdS1IN0JtTVdDeWg1d1pfZFUydnBrTnVkVkRVa1NhdUQyMEN1SEVuNzFjb0wybk9FaHZCZDVLbGtId1FqVDBRZ3VDTExrYWlIZ0owM1lzdVE?oc=5",
-      "published_date": "2026-08-31T17:08:00+00:00"
-    },
-    {
-      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
-      "published_date": "2026-08-31T16:54:13+00:00"
     }
   ]
 }
