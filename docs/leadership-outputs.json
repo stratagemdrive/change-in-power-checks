@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-16T01:01:49.134198+00:00",
+    "last_updated": "2026-09-16T15:25:50.171044+00:00",
     "story_count": 344,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
+      "published_date": "2026-09-16T15:11:56+00:00"
+    },
+    {
+      "title": "Back United Russia’s strongest challengers or spoil your ballot? Russia’s opposition can’t agree on a strategy for the upcoming State Duma election.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/16/back-united-russia-s-strongest-challengers-or-spoil-your-ballot-russia-s-opposition-can-t-agree-on-a-strategy-for-the-upcoming-state-duma-election",
+      "published_date": "2026-09-16T12:33:30+00:00"
+    },
+    {
+      "title": "Union européenne : le Premier ministre canadien Mark Carney, invité spécial à Strasbourg",
+      "source": "France 24 FR",
+      "country": "Canada",
+      "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-union-europ%C3%A9enne-le-premier-ministre-canadien-mark-carney-invit%C3%A9-sp%C3%A9cial-%C3%A0-strasbourg",
+      "published_date": "2026-09-16T12:32:56+00:00"
+    },
+    {
+      "title": "Abelardo De La Espriella, presidente de Colombia, anuncia 187 proyectos en su primer paquete de ‘victorias tempranas’: 'De frente y con hechos'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-de-colombia-anuncia-187-proyectos-en-su-primer-paquete-de-victorias-tempranas-de-frente-y-con-hechos-3586422",
+      "published_date": "2026-09-16T12:05:57+00:00"
+    },
+    {
+      "title": "Putin aims to trigger migration to Europe through food crisis — FM Sybiha",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4164613-putin-aims-to-trigger-migration-to-europe-through-food-crisis-fm-sybiha.html",
+      "published_date": "2026-09-16T11:44:00+00:00"
+    },
+    {
+      "title": "Nagaon LS bypoll: First poll tussle in Assam after BJP’s victory in election",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/nagaon-ls-bypoll-first-poll-tussle-in-assam-after-bjp-s-victory-in-election-101789557610306.html",
+      "published_date": "2026-09-16T11:20:09+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella ordenó el traslado de 120 presos de Buenaventura a cárceles de otras regiones de Colombia: 'Bien motiladitos'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-el-traslado-de-120-presos-de-buenaventura-a-carceles-de-otras-regiones-de-colombia-3586379",
+      "published_date": "2026-09-16T11:15:39+00:00"
+    },
+    {
+      "title": "Sweden’s long election night ends without answers – but caution on China seems certain",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/economy/global-economy/article/3367705/swedens-long-election-night-ends-without-answers-caution-china-seems-certain?utm_source=rss_feed",
+      "published_date": "2026-09-16T09:00:06+00:00"
+    },
+    {
+      "title": "What Putin’s war in Ukraine means for Russian elections this week",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-ukraine-approval-ratings-b3050559.html",
+      "published_date": "2026-09-16T08:30:05+00:00"
+    },
+    {
+      "title": "Zelensky says ready to hold elections as soon as tomorrow, but several factors make it impossible",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4164518-zelensky-says-ready-to-hold-elections-as-soon-as-tomorrow-but-several-factors-make-it-impossible.html",
+      "published_date": "2026-09-16T07:58:00+00:00"
+    },
+    {
+      "title": "State of emergency declared in Russian Arctic village after 200-ton diesel spill reaches the sea",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/16/state-of-emergency-declared-in-russian-arctic-village-after-200-ton-diesel-spill-reaches-the-sea",
+      "published_date": "2026-09-16T07:55:07+00:00"
+    },
+    {
+      "title": "Yabloko leader criticizes election voting strategy proposed by Russian opposition figures Navalnaya and Kats: ‘They sit abroad and manipulate you’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/16/yabloko-leader-criticizes-election-voting-strategy-proposed-by-russian-opposition-figures-navalnaya-and-kats-they-sit-abroad-and-manipulate-you",
+      "published_date": "2026-09-16T07:25:44+00:00"
+    },
+    {
+      "title": "Takaichi retains familiar faces in LDP leadership reshuffle",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
+      "published_date": "2026-09-16T06:55:00+00:00"
+    },
     {
       "title": "Japan’s Takaichi to opt for stability in first reshuffle since taking over LDP",
       "source": "South China Morning Post",
@@ -79,13 +170,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/kast-se-reune-con-presidente-ejecutivo-del-caf-y-anuncian-agenda-de-inversion-en-chile-de-us-6-mil-millones/",
       "published_date": "2026-09-15T22:40:53+00:00"
-    },
-    {
-      "title": "Takaichi likely to retain old faces in LDP leadership reshuffle",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
-      "published_date": "2026-09-15T21:55:00+00:00"
     },
     {
       "title": "PFLP-linked New Zealand party running on Palestine platform enters election, sparking concern",
@@ -2382,90 +2466,6 @@
       "country": "Brazil",
       "url": "https://www.latercera.com/mundo/noticia/diferencia-entre-lula-y-flavio-bolsonaro-se-reduce-a-un-punto-en-eventual-balotaje-e-irrumpe-candidato-apoyado-por-independientes/",
       "published_date": "2026-09-02T17:30:00+00:00"
-    },
-    {
-      "title": "De la Espriella accused the Petro government of trying to alter the elections together with terrorists",
-      "source": "El Nacional Venezuela",
-      "country": "Colombia",
-      "url": "https://www.elnacional.com/2026/09/de-la-espriella-acuso-al-gobierno-de-petro-de-intentar-alterar-las-elecciones-junto-a-terroristas/",
-      "published_date": "2026-09-02T15:15:05+00:00"
-    },
-    {
-      "title": "Russian TV channels are required to give airtime to debates before elections. The parties just don’t show up.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/02/russian-tv-channels-are-required-to-give-airtime-to-debates-before-elections-the-parties-just-don-t-show-up",
-      "published_date": "2026-09-02T15:11:06+00:00"
-    },
-    {
-      "title": "After the attempted coup in Niger, Algeria inaugurates its new doctrine of military deployment outside its borders",
-      "source": "Le Monde France",
-      "country": "Algeria",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/02/apres-la-tentative-de-coup-d-etat-au-niger-alger-inaugure-sa-nouvelle-doctrine-de-deploiement-militaire-hors-de-ses-frontieres_6764378_3212.html",
-      "published_date": "2026-09-02T12:20:04+00:00"
-    },
-    {
-      "title": "'An issue that concerns the entire EU': Italy's FM warns of possible Russian meddling in general election",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "http://www.euronews.com/my-europe/2026/09/02/an-issue-that-concerns-the-entire-eu-italys-fm-warns-of-possible-russian-meddling-in-gener",
-      "published_date": "2026-09-02T11:44:38+00:00"
-    },
-    {
-      "title": "Macron expected in London for the inauguration of the Bayeux tapestry",
-      "source": "France 24 FR",
-      "country": "France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-macron-attendu-%C3%A0-londres-pour-l-inauguration-de-la-tapisserie-de-bayeux",
-      "published_date": "2026-09-02T11:42:01+00:00"
-    },
-    {
-      "title": "Panicking Trump aides trying to pause unpopular Iran war to save GOP from midterm election disaster: report",
-      "source": "The Independent UK",
-      "country": "Iran",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-conflict-midterm-elections-b3043379.html",
-      "published_date": "2026-09-02T10:34:26+00:00"
-    },
-    {
-      "title": "Myanmar junta deploys tracking technology to choke fuel supplies to resistance areas",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-deploys-tracking-technology-to-choke-fuel-supplies-to-resistance-areas/",
-      "published_date": "2026-09-02T09:57:10+00:00"
-    },
-    {
-      "title": "SSU, DIU foil Russian plot to assassinate Russian opposition leader",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4159980-ssu-diu-foil-russian-plot-to-assassinate-russian-opposition-leader.html",
-      "published_date": "2026-09-02T06:17:00+00:00"
-    },
-    {
-      "title": "'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned",
-      "source": "Hindustan Times",
-      "country": "Pakistan",
-      "url": "https://www.hindustantimes.com/india-news/can-remove-pak-from-world-picture-pakistan-pmo-crops-modi-out-of-sco-pic-gets-warned-101788324063026.html",
-      "published_date": "2026-09-02T06:06:46+00:00"
-    },
-    {
-      "title": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/business/2026/09/02/tech/data-centers-us-brazil-election/",
-      "published_date": "2026-09-02T02:51:00+00:00"
-    },
-    {
-      "title": "HT Morning News Brief September 2: Sheikh Hasina exclusive, PM Modi vs ‘double standards’ and a cricket crisis",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/sheikh-hasina-interview-bangladesh-extradition-return-narendra-modi-sco-summit-iran-us-war-faridabad-pakistan-cricket-101788316106820.html",
-      "published_date": "2026-09-02T02:38:28+00:00"
-    },
-    {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election - The Guardian",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
-      "published_date": "2026-09-02T01:31:00+00:00"
     }
   ]
 }
