@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-15T15:33:48.350501+00:00",
-    "story_count": 349,
+    "last_updated": "2026-09-16T01:01:49.134198+00:00",
+    "story_count": 344,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Japan’s Takaichi to opt for stability in first reshuffle since taking over LDP",
+      "source": "South China Morning Post",
+      "country": "Japan",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3367650/japans-takaichi-opt-stability-first-reshuffle-taking-over-ldp?utm_source=rss_feed",
+      "published_date": "2026-09-16T00:51:20+00:00"
+    },
+    {
+      "title": "2027: Yari rallies traditional rulers behind Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-yari-rallies-traditional-rulers-behind-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-09-16T00:22:57+00:00"
+    },
+    {
+      "title": "Kast se reúne con presidente ejecutivo del CAF y anuncian agenda de inversión en Chile de US$ 6.000 millones",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-se-reune-con-presidente-ejecutivo-del-caf-y-anuncian-agenda-de-inversion-en-chile-de-us-6-mil-millones/",
+      "published_date": "2026-09-15T22:40:53+00:00"
+    },
+    {
+      "title": "Takaichi likely to retain old faces in LDP leadership reshuffle",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
+      "published_date": "2026-09-15T21:55:00+00:00"
+    },
+    {
+      "title": "PFLP-linked New Zealand party running on Palestine platform enters election, sparking concern",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-908712",
+      "published_date": "2026-09-15T21:03:15+00:00"
+    },
+    {
+      "title": "Alberta NDP net upset win in by-election",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/alberta/video-alberta-ndp-net-upset-win-in-by-election/",
+      "published_date": "2026-09-15T20:53:25+00:00"
+    },
+    {
+      "title": "Russia stages early voting in occupied Ukraine ahead of national election",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/video/2026/09/15/russia-stages-early-voting-in-occupied-ukraine-ahead-of-national-election",
+      "published_date": "2026-09-15T19:38:21+00:00"
+    },
+    {
+      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+      "published_date": "2026-09-15T19:14:00+00:00"
+    },
+    {
+      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election - The Guardian",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0o0WHQxTVg2SS0xQXRZUE1fd1JRb3hlTWN0VEF0bk5IZVBXYS1xeXRtS2MyUHpfQm8zWW9LOHA5RGxuOHFzN1otZDM1UmwwcW8zQUkxSmpWZGkxRll1bDMtY3AtOUlvTFRCbzB5amlsYjBIbWFnUXNVNTVuX0dtUzNsSW5vVTZ4U2tXQm5GNS1DUQ?oc=5",
+      "published_date": "2026-09-15T19:14:00+00:00"
+    },
+    {
+      "title": "2027: Nigerians react to bishops’ endorsement of Tinubu’s re-election bid",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/909859-2027-nigerians-react-to-bishops-endorsement-of-tinubus-re-election-bid.html",
+      "published_date": "2026-09-15T18:37:47+00:00"
+    },
+    {
+      "title": "Putin lost at some overseas polling stations in 2024. Here’s how Russians abroad can vote in this weekend’s State Duma elections.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/15/putin-lost-at-some-overseas-polling-stations-in-2024-here-s-how-russians-abroad-can-vote-in-this-weekend-s-state-duma-elections",
+      "published_date": "2026-09-15T18:19:11+00:00"
+    },
+    {
+      "title": "St. Petersburg election officials from Russia’s antiwar Yabloko party were ordered to report to military offices at 9 a.m. on the first day of voting — exactly when polls are scheduled to open",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/15/st-petersburg-election-officials-from-russia-s-antiwar-yabloko-party-were-ordered-to-report-to-military-offices-at-9-a-m-on-the-first-day-of-voting-exactly-when-polls-are-scheduled-to-open",
+      "published_date": "2026-09-15T16:59:18+00:00"
+    },
+    {
+      "title": "Rahul Gandhi meets Congress secretaries ahead of reshuffle buzz",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-meets-congress-secretaries-ahead-of-reshuffle-buzz-101789491204871.html",
+      "published_date": "2026-09-15T16:53:24+00:00"
+    },
     {
       "title": "INEC to Nigerians: 2027 election outcome will reflect your will",
       "source": "Vanguard Nigeria",
@@ -104,7 +195,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2375,132 +2466,6 @@
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTENpazE0Z3o3R3pocHMxYzBCVUptTXBrTVlrQlI1WVV5NTNZNlB2RDJocS1tYVNiS1J0Z3dnRlQ2R0g5ekE1cWsxUnFGdVhfYkpLTWNzNlFyb1l2TElSZWY0RFNlX2NrMjA5cUg4d245ZDRzTHVWWTl3T3A0VWRBakxiOEQ0c215d1g5YUF3?oc=5",
       "published_date": "2026-09-02T01:31:00+00:00"
-    },
-    {
-      "title": "Minister of Security opens up to RN formula to save constitutional reform: “We did not fall in love with our idea”",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/politica/noticia/ministro-de-seguridad-se-abre-a-formula-de-rn-para-salvar-reforma-constitucional-no-nos-enamoramos-de-nuestra-idea/",
-      "published_date": "2026-09-02T00:35:57+00:00"
-    },
-    {
-      "title": "Rubio assures that the oil agreement seeks to recover Venezuela and prepare conditions for democratic elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/rubio-asegura-que-acuerdo-petrolero-busca-recuperar-venezuela-y-preparar-condiciones-para-elecciones-democraticas/",
-      "published_date": "2026-09-02T00:28:01+00:00"
-    },
-    {
-      "title": "Obi meets Canadian High Commissioner to strengthen ties ahead of elections",
-      "source": "Vanguard Nigeria",
-      "country": "Canada",
-      "url": "https://www.vanguardngr.com/2026/09/obi-meets-canadian-high-commissioner-to-strengthen-ties-ahead-of-elections/",
-      "published_date": "2026-09-01T21:28:29+00:00"
-    },
-    {
-      "title": "Registrar Hernán Penagos will be head of mission of UNIORE for the October 4 elections in Brazil",
-      "source": "El Tiempo Colombia",
-      "country": "Brazil",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/registrador-hernan-penagos-sera-jefe-de-mision-de-observacion-electoral-de-uniore-para-las-elecciones-del-4-de-octubre-en-brasil-3582758",
-      "published_date": "2026-09-01T21:06:25+00:00"
-    },
-    {
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-01T20:24:28+00:00"
-    },
-    {
-      "title": "Putin meets Pashinyan for the first time since Armenia’s latest election and asks him to choose soon: the EU or the EAEU",
-      "source": "Meduza EN",
-      "country": "Armenia",
-      "url": "https://meduza.io/en/news/2026/09/01/putin-meets-pashinyan-for-the-first-time-since-armenia-s-latest-election-and-asks-him-to-choose-soon-the-eu-or-the-eaeu",
-      "published_date": "2026-09-01T19:43:02+00:00"
-    },
-    {
-      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/ee-uu-defiende-acuerdo-petrolero-como-paso-necesario-para-elecciones-en-venezuela/",
-      "published_date": "2026-09-01T19:22:27+00:00"
-    },
-    {
-      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/eeuu-defiende-el-acuerdo-petrolero-como-un-paso-necesario-para-elecciones-en-venezuela/",
-      "published_date": "2026-09-01T19:05:49+00:00"
-    },
-    {
-      "title": "In Israel, the right, threatened with defeat in the legislative elections, is tearing itself apart and becoming radicalized",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/09/01/en-israel-la-droite-menacee-de-defaite-aux-legislatives-se-dechire-et-se-radicalise_6763524_3210.html",
-      "published_date": "2026-09-01T18:45:08+00:00"
-    },
-    {
-      "title": "United Kingdom: Andy Burnham, in his first speech to Parliament as head of government, promises greater state control over essential services",
-      "source": "Le Monde France",
-      "country": "United Kingdom",
-      "url": "https://www.lemonde.fr/international/article/2026/09/01/royaume-uni-andy-burnham-dans-son-premier-discours-au-parlement-comme-chef-du-gouvernement-promet-un-controle-accru-de-l-etat-sur-les-services-essentiels_6763523_3210.html",
-      "published_date": "2026-09-01T18:37:06+00:00"
-    },
-    {
-      "title": "Israel confirms capturing Hamas internal security chief in Gaza City raid - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnd6cU1ycjhnRXFKeWtnaUEtQV9FVEZHQUhRZDB0VC1xajg0clhKX1NrOHBkZ1ozTjdMRGRvMUxUU3lMR0toWVJFaVFmQzJLeVlrb1VkR1hDZnN5cGRZQmpYcUR4cU5fc2NXS01EQjJsTElwc29vWGxndFJxM0t4UExHem5vNVA1SW50YW9DNDhLQVJVcUdSYlV1cDdjVEdKdzQ1OGJ0UdIBrAFBVV95cUxPSmlndHgtc0F3MkJKbVFYREpIaml3ZGlESS0xRDhPa1lWbnc5ZmVEcGVLTHlIckx0VFZ6eHp6NTQwUTZjZGY3YUM5LUU1Z3o4dHFjX2FtbC1uOC1vby0zLTFFQ0JlTk9NMjNONTBSSHFOVm9OU3VjaFJ5WUM4dDUwd1BObFJUWWc4cm5FRlpocFNYN3FZMjhrMFRmTGxnVE1OVjBhb0JHdVFkZDR4?oc=5",
-      "published_date": "2026-09-01T18:28:00+00:00"
-    },
-    {
-      "title": "Smotrich, Feiglin sign on joint run ahead of October elections, call for broad right wing alliance",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907259",
-      "published_date": "2026-09-01T17:53:42+00:00"
-    },
-    {
-      "title": "Election campaign in the East: Merz has not appeased the anger of angry voters",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-wut-der-wutwaehler-hat-merz-nicht-besaenftigt-201179634.html",
-      "published_date": "2026-09-01T17:33:54+00:00"
-    },
-    {
-      "title": "Solicitan investigación disciplinaria contra la senadora Isabel Zuleta tras afirmar que 'Petro sigue siendo presidente'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/congreso/solicitan-investigacion-disciplinaria-contra-la-senadora-isabel-zuleta-tras-afirmar-que-petro-sigue-siendo-presidente-3582683",
-      "published_date": "2026-09-01T16:55:41+00:00"
-    },
-    {
-      "title": "Former British Prime Minister Keir Starmer resigns from parliament",
-      "source": "El Nacional Venezuela",
-      "country": "United Kingdom",
-      "url": "https://www.elnacional.com/2026/09/exprimer-ministro-britanico-keir-starmer-renuncia-a-su-escano-en-el-parlamento/",
-      "published_date": "2026-09-01T16:20:17+00:00"
-    },
-    {
-      "title": "Ukraine at UN urges non-recognition of illegitimate Russian elections in occupied Ukraine",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4159861-ukraine-at-un-urges-nonrecognition-of-illegitimate-russian-elections-in-occupied-ukraine.html",
-      "published_date": "2026-09-01T16:15:00+00:00"
-    },
-    {
-      "title": "Israel Election 2026: What do Yousef Jabareen’s Joint Arab List and Mansour Abbas’ Ra’am stand for?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907154",
-      "published_date": "2026-09-01T15:40:54+00:00"
-    },
-    {
-      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html",
-      "published_date": "2026-09-01T15:29:35+00:00"
     }
   ]
 }
