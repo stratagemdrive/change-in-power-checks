@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-16T15:25:50.171044+00:00",
-    "story_count": 344,
+    "last_updated": "2026-09-17T01:05:24.195559+00:00",
+    "story_count": 340,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,91 @@
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
-      "published_date": "2026-09-16T15:11:56+00:00"
+      "published_date": "2026-09-16T23:55:00+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-16T23:39:34+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-16T23:39:30+00:00"
+    },
+    {
+      "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
+      "published_date": "2026-09-16T19:47:03+00:00"
+    },
+    {
+      "title": "Election Commission of India not responding to concerns of Opposition: Venugopal",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/election-commission-of-india-not-responding-to-concerns-of-opposition-venugopal/article71473026.ece",
+      "published_date": "2026-09-16T19:28:12+00:00"
+    },
+    {
+      "title": "A six-fingered Leonardo DiCaprio and the creature from Ridley Scott’s ‘Alien’ stuff a ballot box in this Russian PSA about AI-generated election fraud videos",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/16/a-six-fingered-leonardo-dicaprio-and-the-creature-from-ridley-scott-s-alien-stuff-a-ballot-box-in-this-russian-psa-about-ai-generated-election-fraud-videos",
+      "published_date": "2026-09-16T19:20:03+00:00"
+    },
+    {
+      "title": "Days before Russia’s State Duma elections, hackers say they accessed the election commission’s IT systems and downloaded server configurations and internal documents",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/16/days-before-russia-s-state-duma-elections-hackers-say-they-accessed-the-election-commission-s-it-systems-and-downloaded-server-configurations-and-internal-documents",
+      "published_date": "2026-09-16T18:48:56+00:00"
+    },
+    {
+      "title": "Russia’s 2026 parliamentary election has no meaningful competition. Independent observers still plan to document how paper and online results diverge.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/16/russia-s-2026-parliamentary-election-has-no-meaningful-competition-independent-observers-still-plan-to-document-how-paper-and-online-results-diverge",
+      "published_date": "2026-09-16T17:28:43+00:00"
+    },
+    {
+      "title": "Russia’s sham election is descending into farce - The Economist",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUllaUlkSGZJZjM2enJBb0prYlNsVm81X1hpcFBXel9CRjZTZEJJNENWbkdaX3I1VXdXM3hVSTY2UmtqcEk5RnJpRFVSUmdDeTBVZThzWkQxejBVeFR0WU5BQWVjU1BtdUFfOWdLVmRsbUljMmdqc3NwVDNkZU9DdGZqb1BzcDVNRmVwZEJSOE9UaVho?oc=5",
+      "published_date": "2026-09-16T16:08:21+00:00"
+    },
+    {
+      "title": "Russians Prepare for an Election With Less Choice Than Ever",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/16/russians-prepare-for-an-election-with-less-choice-than-ever-a93727",
+      "published_date": "2026-09-16T16:03:00+00:00"
+    },
+    {
+      "title": "Presidente de Paraguay viaja a Venezuela tras 20 meses de ruptura diplomática",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Venezuela",
+      "url": "https://efectococuyo.com/internacionales/presidente-de-paraguay-viaja-a-venezuela/",
+      "published_date": "2026-09-16T16:02:40+00:00"
+    },
+    {
+      "title": "Presidente de Paraguay viajará a Venezuela tras 20 meses de ruptura diplomática",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/presidente-de-paraguay-viajara-a-venezuela-tras-20-meses-de-ruptura-diplomatica/",
+      "published_date": "2026-09-16T15:58:10+00:00"
+    },
+    {
+      "title": "Putin Casts Parliamentary Election as Barometer of Support for War, Urges Russians to Vote",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/16/putin-casts-parliamentary-election-as-barometer-of-support-for-war-urges-russians-to-vote-a93729",
+      "published_date": "2026-09-16T15:28:00+00:00"
     },
     {
       "title": "Back United Russia’s strongest challengers or spoil your ballot? Russia’s opposition can’t agree on a strategy for the upcoming State Duma election.",
@@ -279,7 +363,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -471,20 +555,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-908451",
       "published_date": "2026-09-13T14:18:32+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-13T13:27:53+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-13T13:27:49+00:00"
     },
     {
       "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
@@ -2368,104 +2438,6 @@
       "country": "Venezuela",
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rubio-oppositionsfuehrerin-machado-kann-nach-venezuela-zurueck-faz-19444916.html",
       "published_date": "2026-09-03T04:45:00+00:00"
-    },
-    {
-      "title": "Presidente De La Espriella anuncia compromiso para acabar línea 1 del Metro de Bogotá y 'avanzar en las líneas 2 y 3 y empezar a pensar en la línea 4'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-compromiso-para-acabar-linea-1-del-metro-de-bogota-y-avanzar-en-las-lineas-2-y-3-y-empezar-a-pensar-en-la-linea-3583002",
-      "published_date": "2026-09-02T21:31:03+00:00"
-    },
-    {
-      "title": "Estonia's Defense Minister resigns after wasting 70 million euros on faulty ammunition for Ukraine - The Kyiv Independent",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU4zamxqLWVPdEhqLU5ydUNmNWhHSE9nbmxCNGtsMnZmN0Vka2w0THhCS1RuMzZTdkZlODNfZmFSRWNKc3dtb3FlRjVaT0RTbWhSYlZYSmRIc3RYLVBmUm9ickFFYUllMTAtQVlwQXo0M0dtLTdzMTVkU05IMlFFUkZPeTZfN1BfemVSdldacW5IVE1sdGRVclp4V2piNHI0TnNTTjU0Xy13eG5HZlI5ekV5VFltY2d2S0pPUEVaN2kyZ1Ay?oc=5",
-      "published_date": "2026-09-02T21:29:53+00:00"
-    },
-    {
-      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/inappropriate-say-trump-may-still-be-considering-cia-led-uprising-iran",
-      "published_date": "2026-09-02T21:23:29+00:00"
-    },
-    {
-      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/news/inappropriate-trump-backs-away-cia-backed-uprising-iran",
-      "published_date": "2026-09-02T21:15:41+00:00"
-    },
-    {
-      "title": "How Sara Netanyahu’s October 7 remark successfully hijacked the Israeli election agenda - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-907370",
-      "published_date": "2026-09-02T20:49:01+00:00"
-    },
-    {
-      "title": "Delcy Rodríguez says that there will be elections when Venezuela is ready",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-dice-que-habra-elecciones-cuando-venezuela-este-preparada/",
-      "published_date": "2026-09-02T20:40:16+00:00"
-    },
-    {
-      "title": "Delcy Rodríguez says that there will be elections “when Venezuela is ready”",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-dice-que-habra-elecciones/",
-      "published_date": "2026-09-02T20:34:46+00:00"
-    },
-    {
-      "title": "Trump affirms that Delcy Rodríguez “wants” to call elections, but assures that Venezuela is still “not ready”",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/trump-afirma-que-delcy-rodriguez-quiere-convocar-elecciones-pero-asegura-que-venezuela-aun-no-esta-preparada/",
-      "published_date": "2026-09-02T20:12:37+00:00"
-    },
-    {
-      "title": "Álvaro Carter (REP): “Las salidas de libreto del ministro Barros provocan que el Presidente Kast se vea dañado”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/alvaro-carter-rep-las-salidas-del-libreto-del-ministro-barros-provocan-que-el-presidente-kast-se-vea-danado/",
-      "published_date": "2026-09-02T20:04:28+00:00"
-    },
-    {
-      "title": "Trump believes Venezuela is not yet ready to hold elections",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/trump-afirma-que-venezuela-todavia-no-esta-lista-para-celebrar-elecciones/",
-      "published_date": "2026-09-02T19:37:52+00:00"
-    },
-    {
-      "title": "Trump says that Delcy Rodríguez wants elections, but believes that “Venezuela is not prepared”",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/trump-dice-que-delcy-rodriguez-quiere-elecciones/",
-      "published_date": "2026-09-02T19:32:00+00:00"
-    },
-    {
-      "title": "Unity at last: Is Libya's damaging power struggle at an end?",
-      "source": "Deutsche Welle English",
-      "country": "Libya",
-      "url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-09-02T17:35:00+00:00"
-    },
-    {
-      "title": "Is Libya's damaging power struggle about to end?",
-      "source": "Deutsche Welle English",
-      "country": "Libya",
-      "url": "https://www.dw.com/en/is-libya-s-damaging-power-struggle-about-to-end/a-78758325?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-09-02T17:35:00+00:00"
-    },
-    {
-      "title": "Difference between Lula and Flávio Bolsonaro is reduced to one point in eventual runoff and candidate supported by independents emerges",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/diferencia-entre-lula-y-flavio-bolsonaro-se-reduce-a-un-punto-en-eventual-balotaje-e-irrumpe-candidato-apoyado-por-independientes/",
-      "published_date": "2026-09-02T17:30:00+00:00"
     }
   ]
 }
