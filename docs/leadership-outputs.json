@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-17T01:05:24.195559+00:00",
-    "story_count": 340,
+    "last_updated": "2026-09-17T15:33:16.129172+00:00",
+    "story_count": 333,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente se refirió a la causa Malvinas y calificó a Trump de “gran negociador”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-califico-a-trump-nid17092026/",
+      "published_date": "2026-09-17T15:06:59+00:00"
+    },
+    {
+      "title": "'Our fate will be decided in Jerusalem, not Ramallah': Palestinians look ahead to Israeli elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/article-908936",
+      "published_date": "2026-09-17T14:48:44+00:00"
+    },
+    {
+      "title": "IPOB demands referendum on Nigeria’s political future",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/ipob-demands-referendum-on-nigerias-political-future/",
+      "published_date": "2026-09-17T14:28:36+00:00"
+    },
+    {
+      "title": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/17/russia-upgraded-the-system-that-tabulates-its-election-results-experts-found-vulnerabilities-that-could-be-exploited-to-manipulate-the-vote",
+      "published_date": "2026-09-17T14:27:12+00:00"
+    },
+    {
+      "title": "Klopp wants to 'reclaim' flag amid German elections",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T13:02:40+00:00"
+    },
+    {
+      "title": "Así fue el pie de cueca del Presidente Kast",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/asi-fue-el-pie-de-cueca-del-presidente-kast/",
+      "published_date": "2026-09-17T12:27:33+00:00"
+    },
+    {
+      "title": "Fact check: Will Marine Le Pen hold a Frexit referendum if she becomes president of France?",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/my-europe/2026/09/17/fact-check-will-marine-le-pen-hold-a-frexit-referendum-if-she-becomes-president-of-france",
+      "published_date": "2026-09-17T09:38:25+00:00"
+    },
+    {
+      "title": "Teodoro for president? Philippine defence chief draws 2028 election buzz after China clash",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/week-asia/politics/article/3367820/teodoro-president-philippine-defence-chief-draws-2028-election-buzz-after-china-clash?utm_source=rss_feed",
+      "published_date": "2026-09-17T07:18:33+00:00"
+    },
+    {
+      "title": "Malaysia to invite Myanmar junta leader over Rohingya repatriation push",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/malaysia-to-invite-myanmar-junta-leader-over-rohingya-repatriation-push/",
+      "published_date": "2026-09-17T07:05:12+00:00"
+    },
+    {
+      "title": "After far-right AfD win, Germany’s embattled chancellor faces more election tests",
+      "source": "South China Morning Post",
+      "country": "Germany",
+      "url": "https://www.scmp.com/news/world/europe/article/3367826/after-far-right-afd-win-germanys-embattled-chancellor-faces-more-election-tests?utm_source=rss_feed",
+      "published_date": "2026-09-17T06:05:26+00:00"
+    },
+    {
+      "title": "Russia’s first parliamentary election since the full-scale invasion of Ukraine begins tomorrow, with its only anti-war party barred and genuine competition all but eliminated",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/09/17/russia-s-first-parliamentary-election-since-the-full-scale-invasion-of-ukraine-begins-tomorrow-with-its-only-anti-war-party-barred-and-genuine-competition-all-but-eliminated",
+      "published_date": "2026-09-17T05:40:12+00:00"
+    },
+    {
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "source": "BBC World",
+      "country": "Russia",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-17T05:00:36+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
       "source": "La Nacion Argentina",
@@ -79,6 +163,13 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
       "published_date": "2026-09-16T23:39:30+00:00"
+    },
+    {
+      "title": "Putin’s United Russia will win – but vote tally, turnout and level of coercion will tell the real story of Russia’s wartime elections - The Conversation",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbVY2cU9Qd0F4MVUyTjRGMFViM3dtUWdCRmwwdHhla2tuWHVnbUFIdUtPZEdSQUptQm9haTVRTTVlcVp0aldGZnVocHlGUmN6N1cyTTk1ay05aG9YTThpY3dXUTg0UEFPNDdYY25UOEdtZWlOSnJfNS1EVUh0Z1VRLTRTaTk2T0ZYTGM0NVJNeVRCMlh2M3BLUWY1VjRnNGtIN0dxTThXNzBFSGVKOG9qSkF6a2x3Rmd0R244TkpCelJocXJQZzhrMkp6NXZ3dUY0T0I0ZGZVbnl6b3FMMWw1bkdYQS12aFdDZF80bHFsY0N2YkZWSkE?oc=5",
+      "published_date": "2026-09-16T22:07:22+00:00"
     },
     {
       "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
@@ -2298,146 +2389,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-907497",
       "published_date": "2026-09-03T16:28:57+00:00"
-    },
-    {
-      "title": "Referendum: eight out of ten French people want to have the last word in the event of censorship of a law by the Constitutional Council",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/referendum-huit-francais-sur-dix-veulent-avoir-le-dernier-mot-en-cas-de-censure-d-une-loi-par-le-conseil-constitutionnel-20260903",
-      "published_date": "2026-09-03T15:00:00+00:00"
-    },
-    {
-      "title": "Election Saxony-Anhalt 2026: Why Jews warn against the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/wahl-in-sachsen-anhalt-warum-juedische-studenten-vor-der-afd-warnen-201164834.html",
-      "published_date": "2026-09-03T13:47:54+00:00"
-    },
-    {
-      "title": "Who wins the elections in Brazil 2026? This is how the polls between Flavio Bolsonaro and Lula are today, September 1",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-gana-las-elecciones-en-brasil-2026-asi-estan-las-encuestas-entre-flavio-bolsonaro-y-lula-hoy-nid31082026/",
-      "published_date": "2026-09-03T13:27:55+00:00"
-    },
-    {
-      "title": "With diplomacy stalled, Trump returns to floating regime change in Iran",
-      "source": "Egypt Independent",
-      "country": "Iran",
-      "url": "https://www.egyptindependent.com/with-diplomacy-stalled-trump-returns-to-floating-regime-change-in-iran/",
-      "published_date": "2026-09-03T12:25:06+00:00"
-    },
-    {
-      "title": "Michel Barnier supports Bruno Retailleau's constitutional reform and calls for the right and center to rally around the LR candidate",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/politique/michel-barnier-soutient-la-reforme-constitutionnelle-de-bruno-retailleau-et-appelle-au-rassemblement-de-la-droite-et-du-centre-autour-du-candidat-lr-20260903",
-      "published_date": "2026-09-03T11:54:17+00:00"
-    },
-    {
-      "title": "Would Another War Help Netanyahu Win Reelection?",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election/",
-      "published_date": "2026-09-03T11:24:51+00:00"
-    },
-    {
-      "title": "Ford’s PCs hold two seats and NDP hold one in Ontario by-elections",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-ontario-byelections-york-simcoe-hamilton-east-stoney-creek-scarborough/",
-      "published_date": "2026-09-03T11:23:25+00:00"
-    },
-    {
-      "title": "Myanmar junta airstrike kills at least six in Karenni State’s Mawchi mining region",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-six-in-karenni-states-mawchi-mining-region/",
-      "published_date": "2026-09-03T10:58:59+00:00"
-    },
-    {
-      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat - aljazeera.com",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHU2Z1RqNjhRemdla3dnZmREZU1VQnAwRlVlVGZQQ0ZmeWFobkhTNnRRZUpOSzZLZXQzeVdYdm40cmlKLUZlQ2ZxR21xVllXbUdycUJkOF9LdFFmVGdJeW12NjFyckpJVVQ2X0VkMWVMeFR6ZnNJaGdjc0lWYkZoWkZIZ1phT2R5cGVXQjdhblA5ZGN1d2JLdDZNck92MjhiN1ZJYnBrVFNwdlNpNmc5SDFzcnDSAboBQVVfeXFMTTRWTC1NQi01UTBoclBTUHEwcDhLbmVkM3QzWGFFU2FHaWVQWlhlMDBSYURSbGpnYVlhVndDQmRJTzRIUERjSmFCRThKN1kzQnNyc1pLd0dUczFDV3d1YmJRX2ozSERVRENQTkFPWmRYWmVFeGJJOUtZZkgtbnk5UzdTRXVhRHc5NTFjWmNnU0FfbDZOaWhYMHhadmlTS3FRbXpVV185LWJxNTI2V0FPQ09VTnRmZzBkbWlR?oc=5",
-      "published_date": "2026-09-03T09:59:43+00:00"
-    },
-    {
-      "title": "RVC deputy commander plotted assassination of Russian opposition leader — SSU",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-society/4160426-rvc-deputy-commander-plotted-assassination-of-russian-opposition-leader-ssu.html",
-      "published_date": "2026-09-03T09:58:00+00:00"
-    },
-    {
-      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
-      "published_date": "2026-09-03T09:57:25+00:00"
-    },
-    {
-      "title": "Netanyahu's big reelection concern isn't his political rivals. It's some of his biggest supporters - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjY1MkY2SnZ4OWNTWXRfMzZwXzdfdW1NYW9FdUNEWjVkTFRGR1RMX2FuWjdzZHA3a1BMeFdqVTZ1azZLMHozai1zWkFUZG4xTGV6S1hOMld4Ri1UdDZfOEYzRjFjSVFJT0hDSHFUeEZ0RGZ0LWQ1VGhQZlhHQ0NhYld2V2c3T3FtakZjLUlJVWR3dlJETDFXRUln?oc=5",
-      "published_date": "2026-09-03T08:46:00+00:00"
-    },
-    {
-      "title": "Estonian defence minister resigns in €70m EU-funded procurement scandal for Ukraine",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/09/03/estonian-defence-minister-resigns-in-70m-eu-funded-procurement-scandal-for-ukraine",
-      "published_date": "2026-09-03T08:36:43+00:00"
-    },
-    {
-      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-holds-call-uae-president-amid-regional-us-led-war",
-      "published_date": "2026-09-03T08:33:38+00:00"
-    },
-    {
-      "title": "Hundreds of Myanmar junta troops surrender after flotilla ambushed by Kachin forces",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/hundreds-of-myanmar-junta-troops-surrender-after-flotilla-ambushed-by-kachin-forces/",
-      "published_date": "2026-09-03T08:26:27+00:00"
-    },
-    {
-      "title": "U.S.-Israel relations are on the rocks ahead of elections",
-      "source": "NPR World",
-      "country": "Israel",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-      "published_date": "2026-09-03T08:06:18+00:00"
-    },
-    {
-      "title": "Captured in Pakistan for 60 hours, shot down F-16: Who is Group Captain Abhinandan who quit IAF",
-      "source": "Hindustan Times",
-      "country": "Pakistan",
-      "url": "https://www.hindustantimes.com/india-news/captured-in-pakistan-for-60-hours-shot-down-f-16-who-is-group-captain-abhinandan-who-quit-iaf-101788417573606.html",
-      "published_date": "2026-09-03T07:42:46+00:00"
-    },
-    {
-      "title": "ANALYSIS: Nigerians challenging manipulation, religious sentiments, corruption as 2027 election campaigns begin",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/907139-analysis-nigerians-challenging-manipulation-religious-sentiments-corruption-as-2027-election-campaigns-begin.html",
-      "published_date": "2026-09-03T06:30:08+00:00"
-    },
-    {
-      "title": "German far-right party targets iconic Bauhaus school ahead of landmark state election - AP News",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1hpNmgwZG1Eb3pmRndBOFNPZXJ5Zy04cElhWHZhckNuNG0yLWhWdkVnSjl4d1lCUmZjdWFaUEZlOXhkWlljajNIT3BaUTY2UXo2LVpfYUc0Q1pSUEdMY0JRSkNuZGE1WExLa1d4QnI5MEgxODl3MEdGNlg3bXdNWDQyaW5yd0xQb1Z4MWFsQUR5T0tYeXlwM3pBSUtmQzRBUFFpbE9rTlU?oc=5",
-      "published_date": "2026-09-03T05:24:00+00:00"
-    },
-    {
-      "title": "USA under Trump: Rubio: Opposition leader Machado can return to Venezuela",
-      "source": "FAZ Germany",
-      "country": "Venezuela",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rubio-oppositionsfuehrerin-machado-kann-nach-venezuela-zurueck-faz-19444916.html",
-      "published_date": "2026-09-03T04:45:00+00:00"
     }
   ]
 }
