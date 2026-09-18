@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-18T01:02:10.638316+00:00",
-    "story_count": 334,
+    "last_updated": "2026-09-18T14:54:32.608840+00:00",
+    "story_count": 325,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Después se quejan cuando les digo que son mier... humanas”, apuntó el Presidente contra la prensa",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-despues-se-quejan-cuando-les-digo-que-son-mier-humanas-apunto-el-nid18092026/",
+      "published_date": "2026-09-18T14:25:58+00:00"
+    },
+    {
+      "title": "Russian election officials in one region forgot to put two candidates on the ballot. Now the vote is postponed until 2027.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/18/russian-election-officials-in-one-region-forgot-to-put-two-candidates-on-the-ballot-now-the-vote-is-postponed-until-2027",
+      "published_date": "2026-09-18T14:03:56+00:00"
+    },
+    {
+      "title": "Russian elections: 'Even the facade of opposition has gone'",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/video/20260918-russian-elections-even-the-facade-of-opposition-has-gone",
+      "published_date": "2026-09-18T13:10:27+00:00"
+    },
+    {
+      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
+      "published_date": "2026-09-18T12:26:46+00:00"
+    },
+    {
+      "title": "Putin will have Trump to thank for election victory in Russia’s rubber-stamp parliament",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-trump-ukraine-b3052479.html",
+      "published_date": "2026-09-18T11:58:05+00:00"
+    },
+    {
+      "title": "PM Modi, UAE President discuss West Asia crisis, bilateral ties over phone call",
+      "source": "Hindustan Times",
+      "country": "UAE",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-uae-president-discuss-west-asia-crisis-bilateral-ties-over-phone-call-101789731645364.html",
+      "published_date": "2026-09-18T11:43:34+00:00"
+    },
+    {
+      "title": "Russians vote in elections with no party opposing Putin or war in Ukraine",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "https://www.euronews.com/2026/09/18/russians-vote-in-elections-with-no-party-opposing-putin-or-war-in-ukraine",
+      "published_date": "2026-09-18T11:03:48+00:00"
+    },
+    {
+      "title": "Ukraine fires drone barrage as Russia launches elections",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+      "published_date": "2026-09-18T10:28:17+00:00"
+    },
+    {
+      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running",
+      "published_date": "2026-09-18T10:16:00+00:00"
+    },
+    {
+      "title": "Russia votes in wartime election set to secure the Kremlin's power",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
+      "published_date": "2026-09-18T09:52:50+00:00"
+    },
+    {
+      "title": "Russia holds nationwide Duma elections as war in Ukraine reshapes vote",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-war-in-ukraine-reshapes-vote",
+      "published_date": "2026-09-18T09:41:58+00:00"
+    },
+    {
+      "title": "Ukraine condemns Russia’s ‘elections’ in occupied territories",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4165401-ukraine-condemns-russias-elections-in-occupied-territories.html",
+      "published_date": "2026-09-18T09:40:00+00:00"
+    },
+    {
+      "title": "Far-right politician Éric Zemmour joins 2027 French presidential race",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260918-far-right-politician-%C3%A9ric-zemmour-joins-2027-french-presidential-race",
+      "published_date": "2026-09-18T09:06:31+00:00"
+    },
+    {
+      "title": "What Putin’s war in Ukraine means for Russian elections as polls open",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-ukraine-approval-ratings-b3052311.html",
+      "published_date": "2026-09-18T07:28:31+00:00"
+    },
+    {
+      "title": "Russians begin voting in parliamentary election set to cement Kremlin's power",
+      "source": "CBC News World",
+      "country": "Russia",
+      "url": "https://www.cbc.ca/news/world/russia-parliamentary-election-putin-9.7349119?cmp=rss",
+      "published_date": "2026-09-18T06:09:27+00:00"
+    },
+    {
+      "title": "Russians begin voting in parliamentary election in shadow of war",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3367960/russians-begin-voting-parliamentary-election-shadow-war?utm_source=rss_feed",
+      "published_date": "2026-09-18T05:45:55+00:00"
+    },
     {
       "title": "Netanyahu attacks Eisenkot's Yashar, says elections are direct struggle between Left, Right",
       "source": "Jerusalem Post",
@@ -158,6 +270,13 @@
       "published_date": "2026-09-17T14:27:12+00:00"
     },
     {
+      "title": "Strait of Hormuz Will Remain Closed Until Trump and Netanyahu Are Removed from Power - WANA News Agency",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSEtwM0tyRW5JOFRCRTV0cTVZbnFNSEswVVprUjlGalFTQUxGdFVUTkxJTkxua3lOS1FUYkpCemVockpQRTdvTmp6QnU5V0dhaDBLMGJlOEUtVmR3NjNlSjZqdF9OMk5iVkFQNFJCWi1aWHk2MWF0aVBxNlMxUGhXcUtNVTlqQlBzOFJuV2x5Vkk5YXczWHZpSHNBVDVsSG9YcUNiNXBOYw?oc=5",
+      "published_date": "2026-09-17T13:57:50+00:00"
+    },
+    {
       "title": "Klopp wants to 'reclaim' flag amid German elections",
       "source": "BBC World",
       "country": "Germany",
@@ -165,7 +284,7 @@
       "published_date": "2026-09-17T13:02:40+00:00"
     },
     {
-      "title": "Friedrich Merz fights for survival ahead of German regional elections - ft.com",
+      "title": "Friedrich Merz fights for survival ahead of German regional elections - Financial Times",
       "source": "Google News World",
       "country": "Germany",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmFWYmw0UXhjb3p5S1h0Z1RBMTBHQ1pHU3NxZmdpMFl3aW5wSEE3bzFFTmVCdDRwNGpncGFJTDJYVjQxSnNYVThBYXJfQWMtMkJkMURadnN0eFdtMkZWZjdFSk1VUk5uSTlBZkVCMS0tcUxreFFleWxUbEF1RlVtbVVXUkY?oc=5",
@@ -2214,188 +2333,6 @@
       "country": "Sudan",
       "url": "https://www.madamasr.com/en/2026/09/04/news/u/sudan-nashra-hemedti-in-addis-ababa-buildup-at-ethiopian-base-fuels-concerns-over-rsf-corridor-toward-blue-nile-capital-military-sends-massive-reinforcements-rsf-fortifies-west-darfur-capital-wi/",
       "published_date": "2026-09-04T17:20:45+00:00"
-    },
-    {
-      "title": "Third German grid sabotage attempt as state election looms - Yahoo News Singapore",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1FWMFJLUnllcTlkcGJnaWN0Tjk3cUZJR1JkSklTeEtvNHBvN0Ywc1BPcmZkQU5CakZjV2xiU2JidmUtQWszUmljS3ZXNDF5UzlEVC1BclkyUXo2REFvQzdtbFFKWllzNmt1NUZOcE9XaEVIaEFfcnRvY2hIWUZ3WnAyMEg2ZEE?oc=5",
-      "published_date": "2026-09-04T14:39:42+00:00"
-    },
-    {
-      "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2027481/netanyahu-partners-renew-calls-for-removal-of-palestinians-from-gaza-as-israeli-election-nears",
-      "published_date": "2026-09-04T14:36:15+00:00"
-    },
-    {
-      "title": "Moraes' Russian military doctrine contaminates the election for good",
-      "source": "Folha de S Paulo",
-      "country": "Russia",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doutrina-militar-russa-de-moraes-contamina-eleicao-de-vez.shtml",
-      "published_date": "2026-09-04T14:26:00+00:00"
-    },
-    {
-      "title": "2027 presidential election: exchange of arms between Marine Le Pen and Édouard Philippe on aid to Ukraine",
-      "source": "Le Figaro France",
-      "country": "Ukraine",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-passe-d-armes-entre-marine-le-pen-et-edouard-philippe-sur-l-aide-a-l-ukraine-20260904",
-      "published_date": "2026-09-04T14:15:54+00:00"
-    },
-    {
-      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt - aljazeera.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkMtNFpxZWRvcHBPZW1vMkY5MTNST2NMemtIQ1dtckVtcjBzd0RaYnB3OXZReUYxNUdKR20zaXM2aXBxeXN6Ynctd1c3Nnd6UTNDVmRRNnhYckZ6MjZfYWt4bjNYclpwRkdmc3VWTHh5YVdUVnFKaDB6b1pOUXhCTS1FbExTVlVwaE1pMTlLSjhTSF9qMmFBZUdkdWFETHZJN2tPWjkzcDFBRXI4Yl9sbDFod1M5MkHSAbwBQVVfeXFMTWNaQ08ySGdycHlESlpHZTdIejVqVm4xRU9PSTVOMzdSZG9QMFI4R0t3MlNLZWdvT1FfR3I5THFpN2VvNGxrRk5GTGxGeHpfdU5famFMX1BUN05PNHZXRWhrazcwOVVxS2xaT0owWXZNTF93RWJvMXNsUy1UOEN4WkJUVnNsZXJYeldOZmFRa0s3MVY4M01Da0RLUFkwNE8xTTZHM3lma0l0OVpGYmgyOV9uWHVyamRWb21KX2E?oc=5",
-      "published_date": "2026-09-04T13:47:39+00:00"
-    },
-    {
-      "title": "Moscow Police Detain Yabloko Candidates Running in State Duma Elections",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/04/moscow-police-detain-yabloko-candidates-running-in-state-duma-elections-a93638",
-      "published_date": "2026-09-04T13:09:00+00:00"
-    },
-    {
-      "title": "SPECIAL REPORT: Why young Nigerians are losing faith in elections",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/investigationspecial-reports/907430-special-report-why-young-nigerians-are-losing-faith-in-elections.html",
-      "published_date": "2026-09-04T13:00:38+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt state election 2026: How likely is an absolute majority for the AfD?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
-      "published_date": "2026-09-04T12:57:08+00:00"
-    },
-    {
-      "title": "Netanyahu partners renew calls for removal of Gazans as Israeli election nears - Reuters",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanI0ZmZBdDk0QjZSSjhNb3ZFUDBMbnNYc2ZMY1JyNkg5ZDhLRnRJMk1neXVVOGx3ZngtQ2NrZndzZlNlSGVzcFZPSXpqcXFMdjUzYW1OQ29pWXoxRGRoT0lucUR0eWhkcVBPTVVObDBfS2NNaUpJWXhrMzBMOUVHSTFhSGRGSmEyUVpkRmRORXU2Mm9iRDlVOW8tZ2ZESlRtaEpGV21HdHlrNkRLUFhhWkRiZnBqVkZLaVhISzFObw?oc=5",
-      "published_date": "2026-09-04T12:55:45+00:00"
-    },
-    {
-      "title": "Tally Gotliv given second place on Otzma Yehudit's Knesset election list, Ben-Gvir announces",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907591",
-      "published_date": "2026-09-04T12:40:14+00:00"
-    },
-    {
-      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
-      "source": "Al Jazeera English",
-      "country": "Germany",
-      "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss",
-      "published_date": "2026-09-04T12:19:38+00:00"
-    },
-    {
-      "title": "Germany live blog: Müller: If the election turns out like the polls, the AfD has the task of forming a government",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-sepp-mueller-wenn-afd-gewinnt-liegt-auftrag-zur-regierungsbildung-bei-siegmund-faz-110093143.html",
-      "published_date": "2026-09-04T12:11:42+00:00"
-    },
-    {
-      "title": "Nigeria denies backing failed Niger coup",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/907417-nigeria-denies-backing-failed-niger-coup.html",
-      "published_date": "2026-09-04T12:03:42+00:00"
-    },
-    {
-      "title": "War against Hezbollah: Israel releases captured Lebanese civilians",
-      "source": "FAZ Germany",
-      "country": "Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-laesst-gefangene-libanesen-frei-accg-201194000.html",
-      "published_date": "2026-09-04T11:55:21+00:00"
-    },
-    {
-      "title": "Can Palestinian elections still matter after the Gaza genocide?",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/opinion/palestinian-elections-genocide-gaza-why-they-matter",
-      "published_date": "2026-09-04T11:42:28+00:00"
-    },
-    {
-      "title": "State election: Shortly before the election, the dispute breaks out in the CDU",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-cdu-streitet-ueber-umgang-mit-der-linken-accg-201194037.html",
-      "published_date": "2026-09-04T11:37:12+00:00"
-    },
-    {
-      "title": "2 Reform UK advisers to Farage step down amid donation scandal",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3366420/2-reform-uk-advisers-farage-step-down-amid-donation-scandal?utm_source=rss_feed",
-      "published_date": "2026-09-04T11:11:41+00:00"
-    },
-    {
-      "title": "Russian occupation court sentences captured Ukrainian journalist Levchenko to 15 years in prison",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-society/4160825-russian-occupation-court-sentences-captured-ukrainian-journalist-levchenko-to-15-years-in-prison.html",
-      "published_date": "2026-09-04T10:51:00+00:00"
-    },
-    {
-      "title": "Reform UK officials step down as new funding scandal hits far-right party",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
-      "published_date": "2026-09-04T10:26:42+00:00"
-    },
-    {
-      "title": "Germany's far-right AfD party is poised for power in a state election",
-      "source": "NPR World",
-      "country": "Germany",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-      "published_date": "2026-09-04T10:00:00+00:00"
-    },
-    {
-      "title": "Germany's far-right AfD party is poised for power in a state election - npr.org",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
-      "published_date": "2026-09-04T10:00:00+00:00"
-    },
-    {
-      "title": "The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmZsS1pKdDlBQ2FfWTExUFQ1WFlyU3NFUUNHRmNDX1UzWVE2eGxkemJ1M0tNNXgxUVBNZEZNM1hOYlJjUDVGWGZfckdWdi1xdm9EUC1sWkxYcXc1VERzY19acUtoTWlKQWo1R09GRGMtYmI4N3QxdGhXM3I3bkNvcldiazNvTnhXWjFVYUM0RENET1VRSFJRTFJ4WEo0MDdQRXNPXzJRUk5HUC1KVVpjV1RMOXZ5cF9QYXR5Y21FdU1udUNySkNFSldZcmtvbncxNk1aeDNJRQ?oc=5",
-      "published_date": "2026-09-04T09:29:09+00:00"
-    },
-    {
-      "title": "Colombia’s New President Poses With Dead Bodies in Show of Force - The New York Times",
-      "source": "Google News World",
-      "country": "Colombia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2x1VjVCaENLai1pcW02VTdaRURtcmdWME51VWRMQ096X040aEd4d0hjT2JqOG9mbDI3eWF2QUpVcGFLTFp3VDFzZENZeVRpU1lqSmROU1M3dHFCbTI1RHYxZ0xIQWp6dVN0VnAxVFhIUHR0T0VnampFTlM2MXo0cFo4cmhfYldDY3J3c1g1MA?oc=5",
-      "published_date": "2026-09-04T09:03:47+00:00"
-    },
-    {
-      "title": "Ukrainian forces refute Russian claim of capturing Khrapivshchyna in Sumy region",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4160736-ukrainian-forces-refute-russian-claim-of-capturing-khrapivshchyna-in-sumy-region.html",
-      "published_date": "2026-09-04T07:14:00+00:00"
-    },
-    {
-      "title": "““Fjord”, Palme d’Or deemed reactionary, opens a debate in cultural circles: what attitude should we adopt towards the RN until the presidential election? »",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/04/fjord-palme-d-or-jugee-reactionnaire-ouvre-un-debat-dans-les-milieux-culturels-quelle-attitude-adopter-face-au-rassemblement-national-jusqu-a-la-presidentielle_6765628_3232.html",
-      "published_date": "2026-09-04T04:20:00+00:00"
-    },
-    {
-      "title": "Maduro's defense seeks to dismiss the charges against him, alleging immunity for being head of state",
-      "source": "La Tercera Chile",
-      "country": "Venezuela",
-      "url": "https://www.latercera.com/mundo/noticia/defensa-de-maduro-busca-que-se-desestimen-los-cargos-en-su-contra-alegando-inmunidad-por-ser-jefe-de-estado/",
-      "published_date": "2026-09-04T02:32:51+00:00"
     }
   ]
 }
