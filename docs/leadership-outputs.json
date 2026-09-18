@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-17T15:33:16.129172+00:00",
-    "story_count": 333,
+    "last_updated": "2026-09-18T01:02:10.638316+00:00",
+    "story_count": 334,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
+      "title": "Netanyahu attacks Eisenkot's Yashar, says elections are direct struggle between Left, Right",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-909013",
+      "published_date": "2026-09-18T02:29:16+00:00"
+    },
+    {
       "title": "Javier Milei y sus medidas, en vivo: el Presidente se refirió a la causa Malvinas y calificó a Trump de “gran negociador”",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-califico-a-trump-nid17092026/",
-      "published_date": "2026-09-17T15:06:59+00:00"
+      "published_date": "2026-09-18T00:20:00+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-17T23:21:10+00:00"
+    },
+    {
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "published_date": "2026-09-17T22:19:58+00:00"
+    },
+    {
+      "title": "‘I don’t work for Netanyahu': Ofer Winter can be Israel's next kingmaker - interview",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908996",
+      "published_date": "2026-09-17T21:46:44+00:00"
+    },
+    {
+      "title": "Scoop: Trump expected to meet with Venezuela's new leader",
+      "source": "Axios World",
+      "country": "Venezuela",
+      "url": "https://www.axios.com/2026/09/17/delcy-rodriguez-venezuela-trump-un-general-assembly",
+      "published_date": "2026-09-17T21:43:23+00:00"
+    },
+    {
+      "title": "Kast recibe al embajador Brandon Judd en antesala del viaje del Presidente a Estados Unidos por asamblea de la ONU",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/kast-recibe-al-embajador-brandon-judd-en-antesala-del-viaje-del-presidente-a-estados-unidos-por-asamblea-de-la-onu/",
+      "published_date": "2026-09-17T20:48:07+00:00"
+    },
+    {
+      "title": "Israel Election 2026: What are you voting for when you choose a party hovering at the threshold?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-908761",
+      "published_date": "2026-09-17T20:04:23+00:00"
+    },
+    {
+      "title": "Russia’s elections weren’t always this dishonest. Here’s how the system broke down and why voting can still expose fraud.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/17/russia-s-elections-weren-t-always-this-dishonest-here-s-how-the-system-broke-down-and-why-voting-can-still-expose-fraud",
+      "published_date": "2026-09-17T18:56:56+00:00"
+    },
+    {
+      "title": "In 2024, people across Russia poured brilliant green antiseptic into ballot boxes. This weekend, pharmacies in the city of Tyumen have been advised not to sell it in bulk during the elections.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/17/in-2024-people-across-russia-poured-brilliant-green-antiseptic-into-ballot-boxes-this-weekend-pharmacies-in-the-city-of-tyumen-have-been-advised-not-to-sell-it-in-bulk-during-the-elections",
+      "published_date": "2026-09-17T17:59:50+00:00"
+    },
+    {
+      "title": "Masked police detained an election observer from Russia’s anti-war Yabloko party at a polling station in the Rostov region",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/17/masked-police-detained-an-election-observer-from-russia-s-anti-war-yabloko-party-at-a-polling-station-in-the-rostov-region",
+      "published_date": "2026-09-17T16:03:21+00:00"
     },
     {
       "title": "'Our fate will be decided in Jerusalem, not Ramallah': Palestinians look ahead to Israeli elections",
@@ -93,6 +163,13 @@
       "country": "Germany",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-17T13:02:40+00:00"
+    },
+    {
+      "title": "Friedrich Merz fights for survival ahead of German regional elections - ft.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmFWYmw0UXhjb3p5S1h0Z1RBMTBHQ1pHU3NxZmdpMFl3aW5wSEE3bzFFTmVCdDRwNGpncGFJTDJYVjQxSnNYVThBYXJfQWMtMkJkMURadnN0eFdtMkZWZjdFSk1VUk5uSTlBZkVCMS0tcUxreFFleWxUbEF1RlVtbVVXUkY?oc=5",
+      "published_date": "2026-09-17T12:52:22+00:00"
     },
     {
       "title": "Así fue el pie de cueca del Presidente Kast",
@@ -132,7 +209,7 @@
     {
       "title": "Russia’s first parliamentary election since the full-scale invasion of Ukraine begins tomorrow, with its only anti-war party barred and genuine competition all but eliminated",
       "source": "Meduza EN",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/17/russia-s-first-parliamentary-election-since-the-full-scale-invasion-of-ukraine-begins-tomorrow-with-its-only-anti-war-party-barred-and-genuine-competition-all-but-eliminated",
       "published_date": "2026-09-17T05:40:12+00:00"
     },
@@ -142,6 +219,13 @@
       "country": "Russia",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-17T05:00:36+00:00"
+    },
+    {
+      "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy - CNBC",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0FlR2ZTc0RxdzNYdVZlZnpxSDVXYjVHMmVjYnNKX2hnMEtrc2hxV29DS0VvZlBlZmwwQWlBUHc5UUZKMXU2LXE4UmVnSzdqQkdOWThwdUFmeTNTRVpjY3E5TWJoR0hULUlYUUQ5bmt6TXpGYkhRQ1NRM0tLLW01aWZJRTZhSU5Q0gGOAUFVX3lxTFBCek5ES1BtMXUxSEJ3cE03RUFqVFZxS2RGVzd5dFNPQ3BUREM0NHVyM1B1NlVZWlN2a0JhX0E5OW9Uemg0em8tR3BSX24tT2JqM0d3RUlaSE9hWlE5a2c0UlhjTmVRUy1DbFp2OXFkZDdqTUQtYlZXMDhqSC11ajhOYWpKZkQwOFBGM2R1TVE?oc=5",
+      "published_date": "2026-09-17T05:00:01+00:00"
     },
     {
       "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
@@ -156,13 +240,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
       "published_date": "2026-09-16T23:39:34+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-16T23:39:30+00:00"
     },
     {
       "title": "Putin’s United Russia will win – but vote tally, turnout and level of coercion will tell the real story of Russia’s wartime elections - The Conversation",
@@ -454,7 +531,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2319,76 +2396,6 @@
       "country": "Venezuela",
       "url": "https://www.latercera.com/mundo/noticia/defensa-de-maduro-busca-que-se-desestimen-los-cargos-en-su-contra-alegando-inmunidad-por-ser-jefe-de-estado/",
       "published_date": "2026-09-04T02:32:51+00:00"
-    },
-    {
-      "title": "Petro advocates for \"completely free elections\" in Venezuela after María Corina Machado's criticism of the oil agreement",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/petro-aboga-por-elecciones-completamente-libres-en-venezuela-tras-las-criticas-de-maria-corina-machado-al-acuerdo-petrolero/",
-      "published_date": "2026-09-04T00:36:44+00:00"
-    },
-    {
-      "title": "Netanyahu: Toppling Iranian regime is Israel’s ‘central mission,’ goal ‘within reach’ - The Times of Israel",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0xkNkJHRlJIOUVMb2o4SlZfNlZjaWFwUTlFb3BoY2VqaDJuX2ZndlZJMVZoVkhFdEhfZWh1S1BMRU84SkJhT2dIUXVSTnN4cm1SRUZsWklld1B3eGVoNFN6RXJtRnBCVXZhU2sxbHFpU1FjYks5am5VZmo3OFBUWThfSDZoVnNINzljVWlfREMzTnBGZE01NG9rc010ZUJqTTlNb0pXMTIzV0ZqR2fSAbMBQVVfeXFMUHhKQ0ZjdkZJV280bjlvNWVLZzFZM0EyTFhCNmY5bU9SRmhrS2pDdVlVQjc4SWk0WWNwLXpZdjh6V0h6YlBDWmc0Q09HRnluRjhVZlRLZjRpc2NpTVNJdXFfaU5KQmxuVGFWdGNqdWpNZk1OdUdVTzZKRDJ1UThRWG8wRm9oTldkNGpocy1nSTJTRTJGOUxYU3NQS3cwQmRnRS12S1RSMkMteUExejl2T2R5SGs?oc=5",
-      "published_date": "2026-09-04T00:33:00+00:00"
-    },
-    {
-      "title": "Without a new speech and with a worse evaluation, Lula sees Flávio on the trail in the election of judicial dirt",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/sem-discurso-novo-e-com-avaliacao-pior-lula-ve-flavio-na-cola-na-eleicao-da-sujeira-judicial.shtml",
-      "published_date": "2026-09-04T00:30:00+00:00"
-    },
-    {
-      "title": "Captured by the FBI: he committed green card fraud, they accuse him of being a Cuban spy and he was deported from Florida",
-      "source": "La Nacion Argentina",
-      "country": "Cuba",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/capturado-por-el-fbi-hizo-fraude-con-la-green-card-lo-acusan-de-ser-espia-cubano-y-fue-deportado-nid03092026/",
-      "published_date": "2026-09-04T00:04:00+00:00"
-    },
-    {
-      "title": "Leonid Slutsky was promised second place in the September elections, sources tell Meduza. Frustrated that the Kremlin stopped helping, he’s now saying LDPR belongs to the security services instead.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/03/leonid-slutsky-was-promised-second-place-in-the-september-elections-sources-tell-meduza-frustrated-that-the-kremlin-stopped-helping-he-s-now-saying-ldpr-belongs-to-the-security-services-instead",
-      "published_date": "2026-09-03T20:39:49+00:00"
-    },
-    {
-      "title": "Estonian defence minister resigns after €70m Ukraine munitions scam by Indian company: report",
-      "source": "Dawn Pakistan",
-      "country": "Ukraine",
-      "url": "https://www.dawn.com/news/2027239/estonian-defence-minister-resigns-after-eur70m-ukraine-munitions-scam-by-indian-company-report",
-      "published_date": "2026-09-03T20:01:48+00:00"
-    },
-    {
-      "title": "PMO publishes Netanyahu's Oct. 7 schedule, reveals he spoke with Gallant earlier than reported",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-907535",
-      "published_date": "2026-09-03T19:46:51+00:00"
-    },
-    {
-      "title": "Maya Fernández reproaches Javier Milei's statements about the overthrow of Allende in the Madrid Forum: “They are extremely serious”",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/politica/noticia/maya-fernandez-reprocha-dichos-de-javier-milei-sobre-derrocamiento-de-allende-en-foro-madrid-son-en-extremo-graves/",
-      "published_date": "2026-09-03T19:14:31+00:00"
-    },
-    {
-      "title": "Liveblog Iran War: Netanyahu: Overthrow of Iranian leadership remains main goal",
-      "source": "FAZ Germany",
-      "country": "Iran",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-netanjahu-sturz-von-iranischer-fuehrung-bleibt-hauptziel-faz-200583539.html",
-      "published_date": "2026-09-03T19:13:18+00:00"
-    },
-    {
-      "title": "Yesh Atid MK Karine Elharrar announces decision not to run for Knesset in upcoming election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907497",
-      "published_date": "2026-09-03T16:28:57+00:00"
     }
   ]
 }
