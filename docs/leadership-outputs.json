@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-18T14:54:32.608840+00:00",
-    "story_count": 325,
+    "last_updated": "2026-09-19T00:58:10.144179+00:00",
+    "story_count": 334,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,119 @@
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-despues-se-quejan-cuando-les-digo-que-son-mier-humanas-apunto-el-nid18092026/",
-      "published_date": "2026-09-18T14:25:58+00:00"
+      "published_date": "2026-09-19T00:00:00+00:00"
+    },
+    {
+      "title": "How can new olim navigate Israel’s 2026 election? French immigrant builds online quiz to help",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/aliyah/article-908922",
+      "published_date": "2026-09-18T23:56:28+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella palpitó la intervención de Colombia en la Asamblea de la ONU: 'Va a generar un gran impacto'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
+      "published_date": "2026-09-18T21:15:37+00:00"
+    },
+    {
+      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+      "published_date": "2026-09-18T20:38:00+00:00"
+    },
+    {
+      "title": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
+      "source": "Foreign Policy",
+      "country": "Russia",
+      "url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/",
+      "published_date": "2026-09-18T20:36:44+00:00"
+    },
+    {
+      "title": "Scoop: Trump expected to meet with Venezuela's new leader - Axios",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5GOUVhYjREbTJJUTFTNTdkMnlEUU1IVVUyeXlQblBid2VnZ2FMUkJCZkZiVm1tbXlHM1NvLXZrajhUX2Q1QjdBNUxrdUEyejkwVHdvX1lqaUVxd3Zndl9tWlY4OUlTLWtMMkp6YjZiVHJ5LUtaVFhWekFKS1dWZUNDZmNQNGp2TXNqMA?oc=5",
+      "published_date": "2026-09-18T20:21:35+00:00"
+    },
+    {
+      "title": "‘Who washes Putin’s underpants?’ Pet Shop Boys revisit Navalny’s poisoning in a new song released as Russia votes in parliamentary elections.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/18/who-washes-putin-s-underpants-pet-shop-boys-revisit-navalny-s-poisoning-in-a-new-song-released-as-russia-votes-in-parliamentary-elections",
+      "published_date": "2026-09-18T19:20:56+00:00"
+    },
+    {
+      "title": "Do elections in Russia make a difference?",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
+      "published_date": "2026-09-18T18:45:30+00:00"
+    },
+    {
+      "title": "Presidente Kast encabeza su primer esquinazo y recalca que Chile “es una patria donde cabemos todos”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/presidente-jose-antonio-kast-encabeza-su-primer-esquinazo-y-recalca-que-chile-es-una-patria-donde-cabemos-todos/",
+      "published_date": "2026-09-18T18:08:21+00:00"
+    },
+    {
+      "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia - politico.eu",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTluRmdiblV6d3JhQ0RqZVV5dmdPRUpBaWJDN0V2eGFYVG1qelNRWXdsQnROWkJJVEozY2xQdUFuUTk4NVJSUFQwclhBOUxEbGtsYjNVUlJ3MzlBZHFnTUdvczYwMGpQNEZ3Y0RNQlBGY3RYM2RwSG5PREZUY0FKMm9aTjJLQmJ6dXFHS0hOU0FQX0l4ZHBObGpxZnJJRnlYYXl4RXA1bFRCSkFoU1VNbThPTQ?oc=5",
+      "published_date": "2026-09-18T17:54:00+00:00"
+    },
+    {
+      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+      "published_date": "2026-09-18T17:10:37+00:00"
+    },
+    {
+      "title": "Russia’s exiled opposition wants voters at polling stations at noon on the main day of the Duma elections. Its new video borrows from a 1971 American ad against the Vietnam War.",
+      "source": "Meduza EN",
+      "country": "Vietnam",
+      "url": "https://meduza.io/en/feature/2026/09/18/russia-s-exiled-opposition-wants-voters-at-polling-stations-at-noon-on-the-main-day-of-the-duma-elections-its-new-video-borrows-from-a-1971-american-ad-against-the-vietnam-war",
+      "published_date": "2026-09-18T16:28:36+00:00"
+    },
+    {
+      "title": "Ukraine lashes out at Russian elections ‘held at gunpoint’ in occupied territory",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-ukraine-nato-b3052618.html",
+      "published_date": "2026-09-18T16:12:49+00:00"
+    },
+    {
+      "title": "Ontario Conservative MP Larry Brock formally resigns from House of Commons",
+      "source": "Globe and Mail Politics",
+      "country": "United Kingdom",
+      "url": "https://www.theglobeandmail.com/politics/article-conservative-larry-brock-formally-steps-down/",
+      "published_date": "2026-09-18T16:08:53+00:00"
+    },
+    {
+      "title": "Over 2,000 UK flight cancellations traced to millisecond software defect",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/news/world/europe/article/3368068/over-2000-uk-flight-cancellations-traced-millisecond-software-defect?utm_source=rss_feed",
+      "published_date": "2026-09-18T15:05:38+00:00"
+    },
+    {
+      "title": "Russia’s State Duma elections begin with record online turnout, a million votes in occupied Donetsk, and attempts to bribe observers",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/18/russia-s-state-duma-elections-begin-with-record-online-turnout-a-million-votes-in-occupied-donetsk-and-attempts-to-bribe-observers",
+      "published_date": "2026-09-18T15:02:29+00:00"
+    },
+    {
+      "title": "Así fue recibido el Presidente Kast en su primer Te Deum",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/asi-fue-recibido-el-presidente-kast-en-su-primer-te-deum/",
+      "published_date": "2026-09-18T14:47:17+00:00"
     },
     {
       "title": "Russian election officials in one region forgot to put two candidates on the ballot. Now the vote is postponed until 2027.",
@@ -132,7 +244,7 @@
     {
       "title": "Russia holds nationwide Duma elections as war in Ukraine reshapes vote",
       "source": "Euronews",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-war-in-ukraine-reshapes-vote",
       "published_date": "2026-09-18T09:41:58+00:00"
     },
@@ -650,7 +762,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2284,55 +2396,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-biwei-zhang-spy-espionage/",
       "published_date": "2026-09-05T00:50:52+00:00"
-    },
-    {
-      "title": "Javier Milei, EN VIVO: “Dudo que los argentinos sean tan tontos de volver al pasado”, dijo el Presidente sobre las elecciones de 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-corren-vientos-de-cambio-respecto-a-la-nid04092026/",
-      "published_date": "2026-09-05T00:17:00+00:00"
-    },
-    {
-      "title": "Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son - CBS News",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3NFNLM2R5QXl6Wncta3RMcnRhU3NvQTJzT2lRdURTWmM5aXFwa2s5Vzc4NXBkcHAyeXBfSDdNX1N0WWlSU0JRMHBqSjBMOUpYX2VuemRFdVRpbGRlN0xQa2xtanc5YVZxN3hRZjBfTWI4ZlJRR3BR?oc=5",
-      "published_date": "2026-09-04T21:26:00+00:00"
-    },
-    {
-      "title": "Federal Tories launch ‘Conservatives for Canada’ campaign ahead of Alberta referendum",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-federal-tories-launch-conservatives-for-canada-campaign-ahead-of/",
-      "published_date": "2026-09-04T20:37:42+00:00"
-    },
-    {
-      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
-      "source": "France 24 English",
-      "country": "United Kingdom",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
-      "published_date": "2026-09-04T19:52:45+00:00"
-    },
-    {
-      "title": "France 'will reject extremism' and Le Pen in presidential election, Haddad says",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/09/04/france-will-reject-extremism-and-le-pen-in-presidential-election-haddad-says",
-      "published_date": "2026-09-04T19:32:55+00:00"
-    },
-    {
-      "title": "US Air Force speeds Reaper successor timeline after Iran losses - Military Times",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVFVRDdSZTJGWkJvTXk1eWZTalJTQnlGV0xneEE1RVkxSGRuWWJlM1lyN3hva0g0OUtWOWRJZmRHY1B1cUJMNkJ6cXA4YVdWeU9RbFVGb0NhT2Q5czBpYmJ5R2ZwZjNyS0FfLXJIaUViS2xNMmRac29ST2cyOUpTZWE3anJ0T0t3UzlJZ3FBOTNTNVpDcWNqa3lGQzdkOUxENlowb2tQY3hwblpjV2VfMTdxVEFmeFEwem9LSnVVajRpUQ?oc=5",
-      "published_date": "2026-09-04T19:27:23+00:00"
-    },
-    {
-      "title": "Sudan Nashra: Hemedti in Addis Ababa | Buildup at Ethiopian base fuels concerns over RSF corridor toward Blue Nile capital, military sends massive reinforcements | RSF fortifies West Darfur capital with berms, reinforces troops | RSF commander in North Kordofan defects, arrives in capital with 200 fighters",
-      "source": "Mada Masr",
-      "country": "Sudan",
-      "url": "https://www.madamasr.com/en/2026/09/04/news/u/sudan-nashra-hemedti-in-addis-ababa-buildup-at-ethiopian-base-fuels-concerns-over-rsf-corridor-toward-blue-nile-capital-military-sends-massive-reinforcements-rsf-fortifies-west-darfur-capital-wi/",
-      "published_date": "2026-09-04T17:20:45+00:00"
     }
   ]
 }
