@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-19T00:58:10.144179+00:00",
-    "story_count": 334,
+    "last_updated": "2026-09-19T14:17:18.475957+00:00",
+    "story_count": 336,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ukraine-Russia war latest: Russia claims election voting system hit by cyber attack after repelling drone strike",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html",
+      "published_date": "2026-09-19T12:27:31+00:00"
+    },
+    {
+      "title": "With United Russia’s Election Victory All But Certain, Some Russians Are Still Pushing Back",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/19/with-united-russias-election-victory-all-but-certain-some-russians-are-still-pushing-back-a93749",
+      "published_date": "2026-09-19T12:23:00+00:00"
+    },
+    {
+      "title": "Russia reports online attacks on electoral system on second day of parliamentary vote - reuters.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjhnX1U4Y1h3LXgzS1FVRjg1X2xNR3BfU3FQbk9MT3ZrZG9BSFFGQ3FyUzM4Szk5cV94VWNUd0hkckRZNVVjMTBuak0wUXdMenJ0WHd3WXZaQnZaT3lyY2N5NkV3UzlNRzNvc1BkYWdCZjhiMmVTOG03czV3LTJfeGVJSUpkdHVWTE1kU0kzXzNQZFVXTmh2d29oa0JLNDFzblhVRGtvQURpd013NVpldHhSV1NJYk1kZjNpdVY0aHhnODA?oc=5",
+      "published_date": "2026-09-19T11:30:28+00:00"
+    },
+    {
+      "title": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices",
+      "published_date": "2026-09-19T10:05:54+00:00"
+    },
+    {
+      "title": "Herzog's stance on Netanyahu's pardon raises possibility of compromise if election ends in deadlock",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-909097",
+      "published_date": "2026-09-19T08:55:48+00:00"
+    },
+    {
+      "title": "As far right gains ground in Germany, Berlin election tests Europe's centre",
+      "source": "RFI English",
+      "country": "Germany",
+      "url": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
+      "published_date": "2026-09-19T07:39:03+00:00"
+    },
+    {
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "source": "NPR World",
+      "country": "Russia",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+      "published_date": "2026-09-19T06:39:57+00:00"
+    },
+    {
+      "title": "Russians leave before election ends, fearing mobilisation to follow - Euronews.com",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeW16d3Z2d3ZhX1FQUlRnVUdzc053V0VPMGE4NXphX0hOdzNGNUlDWjgxcTB5WU1DdkdvTmFQdE1GVEFEcXFNamZCSWRXR3hpZ1N0R0lpZXBkZ3I1M2FGdjVNOFNGTVJvTUI4XzVRZmJtZ3VhcHEwdmVFVm1lQl9DZmVDcVEwZ3FtdDg5Y1dLOGZDMEpMZmFPVzNjaEJxSjE2eUVxbQ?oc=5",
+      "published_date": "2026-09-19T05:00:16+00:00"
+    },
+    {
+      "title": "Russians leave before election ends, fearing mobilisation to follow",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
+      "published_date": "2026-09-19T05:00:16+00:00"
+    },
+    {
+      "title": "Russians fear Putin will send them to war once election is over",
+      "source": "Japan Times",
+      "country": "Russia",
+      "url": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/russians-putin-war-election/",
+      "published_date": "2026-09-19T02:13:00+00:00"
+    },
+    {
+      "title": "DUSU 2026 election results LIVE: ABVP sweeps DUSU polls, NSUI claims 'bogus voting'; BJP leaders hail victory",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html",
+      "published_date": "2026-09-19T02:05:15+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: “Después se quejan cuando les digo que son mier... humanas”, apuntó el Presidente contra la prensa",
       "source": "La Nacion Argentina",
@@ -93,13 +170,6 @@
       "country": "Russia",
       "url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/",
       "published_date": "2026-09-18T20:36:44+00:00"
-    },
-    {
-      "title": "Scoop: Trump expected to meet with Venezuela's new leader - Axios",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5GOUVhYjREbTJJUTFTNTdkMnlEUU1IVVUyeXlQblBid2VnZ2FMUkJCZkZiVm1tbXlHM1NvLXZrajhUX2Q1QjdBNUxrdUEyejkwVHdvX1lqaUVxd3Zndl9tWlY4OUlTLWtMMkp6YjZiVHJ5LUtaVFhWekFKS1dWZUNDZmNQNGp2TXNqMA?oc=5",
-      "published_date": "2026-09-18T20:21:35+00:00"
     },
     {
       "title": "‘Who washes Putin’s underpants?’ Pet Shop Boys revisit Navalny’s poisoning in a new song released as Russia votes in parliamentary elections.",
@@ -296,6 +366,13 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-califico-a-trump-nid17092026/",
       "published_date": "2026-09-18T00:20:00+00:00"
+    },
+    {
+      "title": "Scoop: Trump expected to meet with Venezuela's new leader - Axios",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5GOUVhYjREbTJJUTFTNTdkMnlEUU1IVVUyeXlQblBid2VnZ2FMUkJCZkZiVm1tbXlHM1NvLXZrajhUX2Q1QjdBNUxrdUEyejkwVHdvX1lqaUVxd3Zndl9tWlY4OUlTLWtMMkp6YjZiVHJ5LUtaVFhWekFKS1dWZUNDZmNQNGp2TXNqMA?oc=5",
+      "published_date": "2026-09-17T23:52:02+00:00"
     },
     {
       "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
@@ -762,7 +839,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2333,69 +2410,6 @@
       "country": "France",
       "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections",
       "published_date": "2026-09-05T14:32:10+00:00"
-    },
-    {
-      "title": "LIVE - Presidential election 2027: “Tacky patriotism”, “party of submission”, the left castigates the RN’s desire to “cut off the tap” of aid to Ukraine",
-      "source": "Le Figaro France",
-      "country": "Ukraine",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-plusieurs-candidats-attendus-a-la-braderie-de-lille-ce-samedi-20260905",
-      "published_date": "2026-09-05T13:29:02+00:00"
-    },
-    {
-      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-      "published_date": "2026-09-05T10:00:34+00:00"
-    },
-    {
-      "title": "Germany: AfD eyes historic state election win",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
-      "published_date": "2026-09-05T09:58:46+00:00"
-    },
-    {
-      "title": "Regional elections in Germany: the far right hopes to win in Saxony-Anhalt",
-      "source": "France 24 FR",
-      "country": "Germany",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-elections-r%C3%A9gionales-en-allemagne-l-extr%C3%AAme-droite-esp%C3%A8re-gagner-en-saxe-anhalt",
-      "published_date": "2026-09-05T09:09:05+00:00"
-    },
-    {
-      "title": "In Israel, religious divisions between Jews enter the legislative election campaign",
-      "source": "Le Monde France",
-      "country": "Israel",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/en-israel-les-divisions-religieuses-entre-juifs-s-invitent-dans-la-campagne-des-elections-legislatives_6766314_3210.html",
-      "published_date": "2026-09-05T08:00:09+00:00"
-    },
-    {
-      "title": "Election in Saxony-Anhalt: The CDU is fighting over the Left Party. And the left?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-cdu-streitet-ueber-die-linkspartei-und-die-linke-accg-201175838.html",
-      "published_date": "2026-09-05T06:59:26+00:00"
-    },
-    {
-      "title": "Taiwan’s opposition parties split over mayoral race, threatening 2028 election alliance",
-      "source": "South China Morning Post",
-      "country": "Taiwan",
-      "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-      "published_date": "2026-09-05T04:00:09+00:00"
-    },
-    {
-      "title": "In Germany, the memory of the Soviet presence at the heart of the elections in Saxony-Anhalt: “I do not consider the Russians as enemies”",
-      "source": "Le Monde France",
-      "country": "Germany",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-la-memoire-de-la-presence-sovietique-au-c-ur-des-elections-en-saxe-anhalt-je-ne-considere-pas-les-russes-comme-des-ennemis_6766062_3210.html",
-      "published_date": "2026-09-05T03:00:07+00:00"
-    },
-    {
-      "title": "Canadian intern was found near NATO supreme commander’s office, source says",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-biwei-zhang-spy-espionage/",
-      "published_date": "2026-09-05T00:50:52+00:00"
     }
   ]
 }
