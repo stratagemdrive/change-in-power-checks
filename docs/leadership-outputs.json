@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-19T14:17:18.475957+00:00",
-    "story_count": 336,
+    "last_updated": "2026-09-20T00:40:05.045146+00:00",
+    "story_count": 347,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,130 @@
   },
   "stories": [
     {
-      "title": "Ukraine-Russia war latest: Russia claims election voting system hit by cyber attack after repelling drone strike",
+      "title": "Former Syrian general who led attacks on rebels during civil war arrested",
+      "source": "Middle East Eye",
+      "country": "Syria",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-syrian-general-who-led-attacks-rebels-during-civil-war-arrested",
+      "published_date": "2026-09-20T00:09:39+00:00"
+    },
+    {
+      "title": "Georgian breakaway region declares former Russian government official the winner of its presidential election. A new treaty made his rise possible.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/20/georgian-breakaway-region-declares-former-russian-government-official-the-winner-of-its-presidential-election-a-new-treaty-made-his-rise-possible",
+      "published_date": "2026-09-19T23:31:58+00:00"
+    },
+    {
+      "title": "Russian opposition politician Ilya Yashin cancels trip to Armenia for the final day of Russia’s State Duma elections after being warned of what he called a ‘physical threat’",
+      "source": "Meduza EN",
+      "country": "Armenia",
+      "url": "https://meduza.io/en/news/2026/09/20/russian-opposition-politician-ilya-yashin-cancels-trip-to-armenia-for-the-final-day-of-russia-s-state-duma-elections-after-being-warned-of-what-he-called-a-physical-threat",
+      "published_date": "2026-09-19T23:16:00+00:00"
+    },
+    {
+      "title": "Former Russian Official Elected President of South Ossetia",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/20/former-russian-official-elected-president-of-south-ossetia-a93751",
+      "published_date": "2026-09-19T22:44:25+00:00"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
       "source": "The Independent UK",
       "country": "Russia",
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html",
-      "published_date": "2026-09-19T12:27:31+00:00"
+      "published_date": "2026-09-19T22:07:41+00:00"
+    },
+    {
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5",
+      "published_date": "2026-09-19T20:43:00+00:00"
+    },
+    {
+      "title": "Delcy Rodríguez recibió al presidente de Paraguay en Miraflores para fortalecer agenda bilateral",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-recibio-al-presidente-de-paraguay-en-miraflores-para-afortalecer-agenda-bilateral/",
+      "published_date": "2026-09-19T20:34:30+00:00"
+    },
+    {
+      "title": "Presidente do PT ameaça punir quem omitir Lula e majoritários em material de campanha",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/presidente-do-pt-ameaca-punir-quem-omitir-lula-e-majoritarios-em-material-de-campanha.shtml",
+      "published_date": "2026-09-19T18:35:00+00:00"
+    },
+    {
+      "title": "Tense Berlin election finale: who is to emerge strongest in the capital?",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "https://www.euronews.com/my-europe/2026/09/19/tense-berlin-election-finale-who-is-to-emerge-strongest-in-the-capital",
+      "published_date": "2026-09-19T18:06:46+00:00"
+    },
+    {
+      "title": "Presidente de Paraguay llega a Venezuela para un encuentro con Delcy Rodríguez",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/presidente-de-paraguay-llega-a-venezuela-para-un-encuentro-con-delcy-rodriguez/",
+      "published_date": "2026-09-19T18:00:27+00:00"
+    },
+    {
+      "title": "‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html",
+      "published_date": "2026-09-19T17:05:34+00:00"
+    },
+    {
+      "title": "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhis-system-attack-in-indore-draws-madhya-pradesh-cm-mohan-yadav-careless-politician-retort-101789828572927.html",
+      "published_date": "2026-09-19T16:42:35+00:00"
+    },
+    {
+      "title": "Así fue el brindis del Presidente Kast con el cacho de chicha",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/asi-fue-el-brindis-del-presidente-kast-con-el-cacho-de-chicha/",
+      "published_date": "2026-09-19T16:02:24+00:00"
+    },
+    {
+      "title": "Así el Presidente Kast autorizó la Gran Parada Militar",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/asi-el-presidente-kast-autorizo-la-gran-parada-militar/",
+      "published_date": "2026-09-19T15:44:32+00:00"
+    },
+    {
+      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
+      "published_date": "2026-09-19T15:28:23+00:00"
+    },
+    {
+      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+      "published_date": "2026-09-19T15:18:00+00:00"
+    },
+    {
+      "title": "Former Russian official Kambolov wins South Ossetia presidential election",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/former-russian-official-kambolov-wins-south-ossetia-presidential-election/",
+      "published_date": "2026-09-19T15:01:50+00:00"
+    },
+    {
+      "title": "Candidates from PML-N, PPP file papers for presidential election in AJK",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2031149/candidates-from-pml-n-ppp-file-papers-for-presidential-election-in-ajk",
+      "published_date": "2026-09-19T14:19:09+00:00"
     },
     {
       "title": "With United Russia’s Election Victory All But Certain, Some Russians Are Still Pushing Back",
@@ -209,7 +328,7 @@
     {
       "title": "Russia’s exiled opposition wants voters at polling stations at noon on the main day of the Duma elections. Its new video borrows from a 1971 American ad against the Vietnam War.",
       "source": "Meduza EN",
-      "country": "Vietnam",
+      "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/18/russia-s-exiled-opposition-wants-voters-at-polling-stations-at-noon-on-the-main-day-of-the-duma-elections-its-new-video-borrows-from-a-1971-american-ad-against-the-vietnam-war",
       "published_date": "2026-09-18T16:28:36+00:00"
     },
@@ -2368,48 +2487,6 @@
       "country": "Japan",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDN1Ym9DYm9zZEpTZkVNeHo3LS1OQkVYUkZRcjE2ZE1kRWROQkl1cU14SE5RczF4b09EaFBVblRwRHRIdU8zaFlXNWFiZ3h6ZzI0Q2lnN29sdS04anozMk45OU9HWWJiLWZQZjQwMFhlU1g5MkpqUkNhb3ExME1ROVpZa0FJWUpfVDZhT0liVFV2MmtsVm5Wc1p0dVFhcTM4MGtHVFRjV2FEa2Nuajk1czZ3bTVNZw?oc=5",
       "published_date": "2026-09-06T01:09:00+00:00"
-    },
-    {
-      "title": "American Jews don’t vote in Israel - so why are they being polled on its election? - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-907347",
-      "published_date": "2026-09-06T00:20:38+00:00"
-    },
-    {
-      "title": "Menem aseguró que Milei será el primer presidente no peronista en reelegir y le envió un mensaje a los inversores: “No esperen”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/menem-aseguro-que-milei-sera-el-primer-presidente-no-peronista-en-reelegir-y-le-envio-un-mensaje-a-nid05092026/",
-      "published_date": "2026-09-05T23:36:15+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro calls Moraes 'rotten orange of the STF' during visit to convict for coup plot",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-moraes-de-laranja-podre-do-stf-em-visita-a-condenado-por-trama-golpista.shtml",
-      "published_date": "2026-09-05T20:30:00+00:00"
-    },
-    {
-      "title": "Germany’s far-right AfD eyes historic first in state election",
-      "source": "Al Jazeera English",
-      "country": "Germany",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
-      "published_date": "2026-09-05T18:07:43+00:00"
-    },
-    {
-      "title": "Before the election in Brazil: When Bolsonaro campaigns as an AI avatar",
-      "source": "FAZ Germany",
-      "country": "Brazil",
-      "url": "https://www.faz.net/aktuell/politik/ausland/bolsonaro-als-ki-avatar-deepfakes-im-wahlkampf-in-brasilien-accg-201184710.html",
-      "published_date": "2026-09-05T15:03:36+00:00"
-    },
-    {
-      "title": "Presidential campaigning kicks off in France ahead of 2027 elections",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections",
-      "published_date": "2026-09-05T14:32:10+00:00"
     }
   ]
 }
