@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-20T00:40:05.045146+00:00",
-    "story_count": 347,
+    "last_updated": "2026-09-20T14:35:59.080070+00:00",
+    "story_count": 350,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,174 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ra’am, Joint List fight bids to bar them from Knesset election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-909186",
+      "published_date": "2026-09-20T15:18:25+00:00"
+    },
+    {
+      "title": "Tinubu congratulates by-election winners in four states",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubu-congratulates-by-election-winners-in-four-states/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-09-20T14:42:37+00:00"
+    },
+    {
+      "title": "Russians vote in final day of parliamentary elections",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
+      "published_date": "2026-09-20T13:59:59+00:00"
+    },
+    {
+      "title": "Polling stations for Russian State Duma elections open in Transnistria despite Moldova’s protest",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4166030-polling-stations-for-russian-state-duma-elections-open-in-transnistria-despite-moldovas-protest.html",
+      "published_date": "2026-09-20T13:32:00+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-20T13:23:36+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-20T13:23:30+00:00"
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
+      "source": "Al Jazeera English",
+      "country": "Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
+      "published_date": "2026-09-20T12:57:57+00:00"
+    },
+    {
+      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections - The New York Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV2JMSDJISDhpMVZxNUlOd0tDbGRqRC1Vdk9HT2FfQ3U1cjdyMWIxUmxOOEtxNlhMWE5SaGhLQXdQazNWUXVXcFJKTDFpOGUxWVdsYjM1bXZBQ2NOYW1kV1hOZi1rXzhEY29GWHRkaU1uYTNBeUpuNzBGODU4Mjg?oc=5",
+      "published_date": "2026-09-20T12:25:09+00:00"
+    },
+    {
+      "title": "Only handful of people turn up for Russian State Duma ‘elections’ in occupied Kherson region – journalist",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4166017-only-handful-of-people-turn-up-for-russian-state-duma-elections-in-occupied-kherson-region-journalist.html",
+      "published_date": "2026-09-20T12:22:00+00:00"
+    },
+    {
+      "title": "Moscow targeted by ‘largest ever’ drone attack on final day of Russia’s parliamentary election",
+      "source": "Egypt Independent",
+      "country": "Russia",
+      "url": "https://www.egyptindependent.com/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/",
+      "published_date": "2026-09-20T12:01:55+00:00"
+    },
+    {
+      "title": "Germans head to the polls in state elections as pressure mounts on Merz",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "https://www.euronews.com/my-europe/2026/09/20/germans-head-to-the-polls-in-state-elections-as-pressure-mounts-on-merz",
+      "published_date": "2026-09-20T11:43:29+00:00"
+    },
+    {
+      "title": "Last day of State Duma elections ends early in Russia-occupied Donetsk region — media",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-society/4166005-last-day-of-state-duma-elections-ends-early-in-russiaoccupied-donetsk-region-media.html",
+      "published_date": "2026-09-20T11:39:00+00:00"
+    },
+    {
+      "title": "Germany: Could regional polls force Friedrich Merz to step down?",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
+      "published_date": "2026-09-20T10:26:10+00:00"
+    },
+    {
+      "title": "Germans vote in elections threatening fresh blow to Merz",
+      "source": "Japan Times",
+      "country": "Germany",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/germany-elections-threat-merz/",
+      "published_date": "2026-09-20T09:26:00+00:00"
+    },
+    {
+      "title": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers historique",
+      "source": "Le Monde France",
+      "country": "Germany",
+      "url": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
+      "published_date": "2026-09-20T09:18:10+00:00"
+    },
+    {
+      "title": "On the third day of Russia’s parliamentary elections, Moscow came under what its mayor called the largest Ukrainian drone attack on the capital. Officials reported two deaths.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/20/on-the-third-day-of-russia-s-parliamentary-elections-moscow-came-under-what-its-mayor-called-the-largest-ukrainian-drone-attack-on-the-capital-officials-reported-two-deaths",
+      "published_date": "2026-09-20T08:12:19+00:00"
+    },
+    {
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-20T07:57:32+00:00"
+    },
+    {
+      "title": "Chancellor Friedrich Merz under pressure ahead of German state elections",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/germany-elections-chancellor-merz-afd-b3053051.html",
+      "published_date": "2026-09-20T07:37:48+00:00"
+    },
+    {
+      "title": "<a href=\"https://news.sky.com/story/ukraine-war-latest-russia-election-nato-poland-attacks-kyiv-donald-trump-12541713?postid=12477622#liveblog-body\">Why so many Colombians are fighting for Ukraine</a>",
+      "source": "Sky News World",
+      "country": "Russia",
+      "url": "https://news.sky.com/story/colombian-soldier-on-why-so-many-from-his-country-are-fighting-for-ukraine-13589997",
+      "published_date": "2026-09-20T07:35:00+00:00"
+    },
+    {
+      "title": "Ukraine pummels Moscow with drones on last day of Russian election",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368144/ukraine-pummels-moscow-drones-last-day-russian-election?utm_source=rss_feed",
+      "published_date": "2026-09-20T07:17:12+00:00"
+    },
+    {
+      "title": "Russian Election, Cast as Test of Support for Ukraine War, Enters Final Day",
+      "source": "Moscow Times",
+      "country": "Ukraine",
+      "url": "https://www.themoscowtimes.com/2026/09/20/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day-a93752",
+      "published_date": "2026-09-20T07:10:45+00:00"
+    },
+    {
+      "title": "Live: Russian election enters final day after Kyiv targets Moscow in massive drone attack",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
+      "published_date": "2026-09-20T05:16:20+00:00"
+    },
+    {
+      "title": "Russia’s elections continue into day two with observers barred from polling stations, turnout topping 40%, and bears complicating voting",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/20/russia-s-elections-continue-into-day-two-with-observers-barred-from-polling-stations-turnout-topping-40-and-bears-complicating-voting",
+      "published_date": "2026-09-20T03:18:47+00:00"
+    },
+    {
+      "title": "Merz under pressure as two more German states hold elections",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz",
+      "published_date": "2026-09-20T01:25:00+00:00"
+    },
     {
       "title": "Former Syrian general who led attacks on rebels during civil war arrested",
       "source": "Middle East Eye",
@@ -130,7 +298,7 @@
       "published_date": "2026-09-19T18:00:27+00:00"
     },
     {
-      "title": "‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections",
+      "title": "‘Despite Jhooth ki Goonj’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html",
@@ -177,6 +345,13 @@
       "country": "Russia",
       "url": "https://oc-media.org/former-russian-official-kambolov-wins-south-ossetia-presidential-election/",
       "published_date": "2026-09-19T15:01:50+00:00"
+    },
+    {
+      "title": "Trump to meet with Venezuela's interim president, other leaders during UN General Assembly: Official - ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWZuRDNUU3NCX0VqOXVlRFNlUnp1VkRuN1B4bThxdmlSbDUxRUY5T2pGYkZmMk1oZzVvZ3VZN2dDVmxpOUpXTXVKZTJVWEpsbml0Ml93blg1R3ppbEtiNFhWSWwzcUR6UGpLNEtueU02eXBWa3hjcnJMQ2JVemFkWjlRejZJbkVwWFhac0tETjhYNFUtQU15OWVOMTYwYVQ2QzJVM3pnQW5MTHZxV2VmRTZn0gG3AUFVX3lxTE9FWTgzZGlLR0I2TFJzRXNuN3lrdlNid3p5cThIQTZPNUs0aU5pNmpXNXZyUllITkYzanB4MHhia2JTYU83MVl0cS14VEtXbVdUdWlobUZUMzZud1hjZk1YRUdNeGRxTmI4cTJQSzBxY0xQV0hFVGVUT0QxQmV1M1pMSlhCT25MYXQxdzhQc3lLN0FacW9tZlZlY05IUl82eHh1X01FVVVaeXp2d2sxV3lSUWV6LWpVZw?oc=5",
+      "published_date": "2026-09-19T14:43:36+00:00"
     },
     {
       "title": "Candidates from PML-N, PPP file papers for presidential election in AJK",
@@ -328,7 +503,7 @@
     {
       "title": "Russia’s exiled opposition wants voters at polling stations at noon on the main day of the Duma elections. Its new video borrows from a 1971 American ad against the Vietnam War.",
       "source": "Meduza EN",
-      "country": "Russia",
+      "country": "Vietnam",
       "url": "https://meduza.io/en/feature/2026/09/18/russia-s-exiled-opposition-wants-voters-at-polling-stations-at-noon-on-the-main-day-of-the-duma-elections-its-new-video-borrows-from-a-1971-american-ad-against-the-vietnam-war",
       "published_date": "2026-09-18T16:28:36+00:00"
     },
@@ -494,13 +669,6 @@
       "published_date": "2026-09-17T23:52:02+00:00"
     },
     {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-17T23:21:10+00:00"
-    },
-    {
       "title": "Russia election: Could other parties challenge United Russia?",
       "source": "Al Jazeera English",
       "country": "Russia",
@@ -660,13 +828,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
       "published_date": "2026-09-16T23:55:00+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-16T23:39:34+00:00"
     },
     {
       "title": "Putin’s United Russia will win – but vote tally, turnout and level of coercion will tell the real story of Russia’s wartime elections - The Conversation",
@@ -2347,146 +2508,6 @@
       "country": "Germany",
       "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
       "published_date": "2026-09-06T16:36:48+00:00"
-    },
-    {
-      "title": "‘Distressing’: PM Modi expresses condolences after Delhi building collapse",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/distressing-pm-modi-expresses-condolences-after-delhi-boys-pg-building-collapse-satya-niketan-101788704573174.html",
-      "published_date": "2026-09-06T14:23:54+00:00"
-    },
-    {
-      "title": "Lula's lead over Bolsonaro narrows ahead of elections in Brazil, according to poll",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/09/se-reduce-la-ventaja-de-lula-sobre-bolsonaro-de-cara-a-las-elecciones-en-brasil-segun-sondeo/",
-      "published_date": "2026-09-06T13:48:22+00:00"
-    },
-    {
-      "title": "Far-right AfD wins German state election but falls short of majority",
-      "source": "CBC News World",
-      "country": "Germany",
-      "url": "https://www.cbc.ca/news/world/afd-germany-election-saxony-anhalt-9.7334357?cmp=rss",
-      "published_date": "2026-09-06T13:34:20+00:00"
-    },
-    {
-      "title": "Shah inaugurates new Goa BJP headquarters, event curtailed over Delhi building collapse",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/shah-inaugurates-new-goa-bjp-headquarters-event-curtailed-over-delhi-building-collapse/article71435407.ece",
-      "published_date": "2026-09-06T13:29:27+00:00"
-    },
-    {
-      "title": "Germany’s far-right AfD wins historic 44% in Saxony-Anhalt election, exit polls show",
-      "source": "Jerusalem Post",
-      "country": "Germany",
-      "url": "https://www.jpost.com/international/article-907696",
-      "published_date": "2026-09-06T13:14:33+00:00"
-    },
-    {
-      "title": "Fatah Central Committee secretary-general reveals Hamas talks in Turkey, doubts elections - report",
-      "source": "Jerusalem Post",
-      "country": "Turkey",
-      "url": "https://www.jpost.com/middle-east/article-907687",
-      "published_date": "2026-09-06T12:35:05+00:00"
-    },
-    {
-      "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
-      "published_date": "2026-09-06T12:26:35+00:00"
-    },
-    {
-      "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
-      "source": "France 24 FR",
-      "country": "Germany",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-elections-r%C3%A9gionales-en-allemagne-le-parti-de-l-afd-gouvernera-t-il-en-saxe-anhalt",
-      "published_date": "2026-09-06T11:51:46+00:00"
-    },
-    {
-      "title": "Prince Hisahito turns 20 as Japan’s government reinforces male-only succession rules - Politico",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQU1jTDZxdlRacXFlLTBwdEZoTXRwbFR6MmdBX3BWVDU4XzZkSlkxYzNfZFVfbE1HYkU0ejFlLXljcGxPR1dKb2g4N1dyblVwbktFQVV1bWVIVkp0aWkxNXRtaVVGUkVhSERKV3BwZXItd1pEOUY0a1p3a2J4ZXk2M1pTZ2l2cTFfNnB6a2VoRFM0Z1U4QmMxa3Vhb1FmQkhNNnN4ekJOWXVvTmJGVlFsVWEwaWtZUEhrU0c4TENCTUNfVXlTb2ZOZFYtdWJnQQ?oc=5",
-      "published_date": "2026-09-06T11:51:00+00:00"
-    },
-    {
-      "title": "‘Will PM Modi visit DU again and explain?’: Abhijeet Dipke hits out at Centre after Delhi boys' PG building collapse",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/delhi-boys-pg-building-collapse-abhijeet-dipke-will-pm-modi-visit-du-explain-hits-out-after-congress-satya-niketan-toll-101788691902608.html",
-      "published_date": "2026-09-06T11:13:53+00:00"
-    },
-    {
-      "title": "Second Libyan-American Development and Reconstruction Forum inaugurated in Benghazi",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/09/second-libyan-american-development-and-reconstruction-forum-inaugurated-in-benghazi/",
-      "published_date": "2026-09-06T10:52:00+00:00"
-    },
-    {
-      "title": "Far-right AfD predicted to win big in crucial German state election",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-      "published_date": "2026-09-06T10:50:21+00:00"
-    },
-    {
-      "title": "Regional elections in Germany: Ulrich Siegmund, AfD candidate and social media star",
-      "source": "France 24 FR",
-      "country": "Germany",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-elections-r%C3%A9gionales-en-allemagne-ulrich-siegmund-candidat-de-l-afd-et-star-des-r%C3%A9seaux-sociaux",
-      "published_date": "2026-09-06T09:06:50+00:00"
-    },
-    {
-      "title": "'Everybody wants Netanyahu replaced': World leaders eye Israel's election - Haaretz",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZkItYmNCY0lVS3ZaRlJCM251OXVseE1RS0ZybHUtQTNWZmNINEpoU0xLcVQ2bGh4YjI1T1o3QlJwN2pialpaUDFPM245SGs4a0pZT1l0VVBXVjJqa0VJbGpsdklqSW1pdEtSNW1mQ25jYllNczlzSm94T29NcGNIOHNZSWE0bDJLUXBWT1RLUXZVRUVLcWxSeDlleGpVZTViemIwS0RENWR4RjdIaFJYUTBmM0RWeUMxZFE3akYzTW5SSmhxUFJUb2NrVXEwOUNHcE1aZmpQWGY5VDFaUV83V2Y4UFMyUTRPVGhIREljXzRGd0UteU1LNWdBMkNucmFWU1ZsWnFuODdiQkp3UHVjS1Q3ZHhnUTFIS1E?oc=5",
-      "published_date": "2026-09-06T08:48:00+00:00"
-    },
-    {
-      "title": "Polls open in Saxony-Anhalt as AfD predicted to win state election",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "http://www.euronews.com/my-europe/2026/09/06/polls-open-in-saxony-anhalt-as-afd-predicted-to-win-state-election",
-      "published_date": "2026-09-06T08:14:24+00:00"
-    },
-    {
-      "title": "Germany’s far-right AfD eyes historic breakthrough in Saxony-Anhalt election",
-      "source": "RFI English",
-      "country": "Germany",
-      "url": "https://www.rfi.fr/en/international/20260906-germany-s-far-right-afd-eyes-historic-breakthrough-in-saxony-anhalt-election",
-      "published_date": "2026-09-06T08:12:46+00:00"
-    },
-    {
-      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3dERFpaZ0twckt5anRsUzA3a25QelhPSTR4VWhSbnFQaHBUcWxXZTF0MmVEZUlhQ3J0X2pCRWJHZmcxdDRxUDQ0R2ZzajJibk5zNTJyaDlDZm5lZnhhcGNndm1kcEx3Z09DY3dlSGt0alg0LTI4UnJzUklHekNfd19LTmozRlNMci1abExvN0Q?oc=5",
-      "published_date": "2026-09-06T07:58:55+00:00"
-    },
-    {
-      "title": "Failed Coup: Niger blames France, neighbouring countries, threatens international action",
-      "source": "Premium Times Nigeria",
-      "country": "France",
-      "url": "https://www.premiumtimesng.com/news/headlines/907669-failed-coup-niger-blames-france-neighbouring-countries-threatens-international-action.html",
-      "published_date": "2026-09-06T06:12:51+00:00"
-    },
-    {
-      "title": "Germany's far-right AfD eyes historic state victory in Saxony-Anhalt election",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
-      "published_date": "2026-09-06T05:52:06+00:00"
-    },
-    {
-      "title": "Prince Hisahito turns 20 as Japan’s government reinforces male-only succession rules - AP News",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDN1Ym9DYm9zZEpTZkVNeHo3LS1OQkVYUkZRcjE2ZE1kRWROQkl1cU14SE5RczF4b09EaFBVblRwRHRIdU8zaFlXNWFiZ3h6ZzI0Q2lnN29sdS04anozMk45OU9HWWJiLWZQZjQwMFhlU1g5MkpqUkNhb3ExME1ROVpZa0FJWUpfVDZhT0liVFV2MmtsVm5Wc1p0dVFhcTM4MGtHVFRjV2FEa2Nuajk1czZ3bTVNZw?oc=5",
-      "published_date": "2026-09-06T01:09:00+00:00"
     }
   ]
 }
