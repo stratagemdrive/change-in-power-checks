@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-20T14:35:59.080070+00:00",
-    "story_count": 350,
+    "last_updated": "2026-09-21T00:49:13.687391+00:00",
+    "story_count": 365,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,186 @@
   },
   "stories": [
     {
+      "title": "In photos: Russians abroad hold peace rallies on the main day of voting in Russia’s State Duma elections as voters at home write ‘No war’ on ballots",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/21/in-photos-russians-abroad-hold-peace-rallies-on-the-main-day-of-voting-in-russia-s-state-duma-elections-as-voters-at-home-write-no-war-on-ballots",
+      "published_date": "2026-09-21T00:16:53+00:00"
+    },
+    {
+      "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+      "published_date": "2026-09-21T00:13:00+00:00"
+    },
+    {
+      "title": "Russia’s election commission says five parties are on track to enter the State Duma. Ruling United Russia had 57.19% with results in from more than a third of precincts.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/21/russia-s-election-commission-says-five-parties-are-on-track-to-enter-the-state-duma-ruling-united-russia-had-57-19-with-results-in-from-more-than-a-third-of-precincts",
+      "published_date": "2026-09-20T23:47:36+00:00"
+    },
+    {
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "published_date": "2026-09-20T22:54:00+00:00"
+    },
+    {
+      "title": "Poland condemns Russia's illegal 'elections' in temporarily occupied territories of Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4166108-poland-condemns-russias-illegal-elections-in-temporarily-occupied-territories-of-ukraine.html",
+      "published_date": "2026-09-20T20:22:00+00:00"
+    },
+    {
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-20T20:21:40+00:00"
+    },
+    {
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+      "published_date": "2026-09-20T20:21:40+00:00"
+    },
+    {
+      "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow",
+      "published_date": "2026-09-20T20:14:33+00:00"
+    },
+    {
+      "title": "2027: Sowunmi mobilises grassroots for Tinubu’s re-election",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/2027-sowunmi-mobilises-grassroots-for-tinubus-re-election/",
+      "published_date": "2026-09-20T20:04:13+00:00"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Russian exit poll projects comfortable election win for Putin-backed party",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html",
+      "published_date": "2026-09-20T19:56:25+00:00"
+    },
+    {
+      "title": "Russia vows revenge for Ukraine’s election-day attacks as poll shows win for ruling party",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368177/russia-vows-revenge-ukraines-election-day-attacks-poll-shows-win-ruling-party?utm_source=rss_feed",
+      "published_date": "2026-09-20T19:23:35+00:00"
+    },
+    {
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "source": "BBC World",
+      "country": "Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-20T19:04:11+00:00"
+    },
+    {
+      "title": "Germany’s Merz vows to press on with reforms after historic state election defeat",
+      "source": "The Independent UK",
+      "country": "Germany",
+      "url": "https://www.independent.co.uk/news/world/europe/friedrich-merz-state-election-defeat-germany-b3053198.html",
+      "published_date": "2026-09-20T18:47:41+00:00"
+    },
+    {
+      "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
+      "source": "The Guardian World",
+      "country": "Germany",
+      "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+      "published_date": "2026-09-20T18:33:02+00:00"
+    },
+    {
+      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war - AP News",
+      "source": "Google News World",
+      "country": "Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
+      "published_date": "2026-09-20T18:23:00+00:00"
+    },
+    {
+      "title": "Putin's ruling party on track to comfortably win wartime Russian election",
+      "source": "CBC News World",
+      "country": "Russia",
+      "url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526?cmp=rss",
+      "published_date": "2026-09-20T17:47:41+00:00"
+    },
+    {
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "source": "NPR World",
+      "country": "Germany",
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "published_date": "2026-09-20T17:29:29+00:00"
+    },
+    {
+      "title": "Germany’s Merz vows to press ahead with reforms after historic state election defeat",
+      "source": "South China Morning Post",
+      "country": "Germany",
+      "url": "https://www.scmp.com/news/world/europe/article/3368175/germanys-merz-vows-press-ahead-reforms-after-historic-state-election-defeat?utm_source=rss_feed",
+      "published_date": "2026-09-20T17:24:32+00:00"
+    },
+    {
+      "title": "Germany's Merz vows to press on with reforms despite state election defeat",
+      "source": "RFI English",
+      "country": "Germany",
+      "url": "https://www.rfi.fr/en/international/20260920-germany-s-merz-vows-to-press-on-with-reforms-despite-state-election-defeat",
+      "published_date": "2026-09-20T17:21:54+00:00"
+    },
+    {
+      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
+      "source": "The Independent UK",
+      "country": "Saudi Arabia",
+      "url": "https://www.independent.co.uk/news/world/americas/red-sea-yemen-saudi-arabia-houthi-iran-b3053187.html",
+      "published_date": "2026-09-20T17:01:13+00:00"
+    },
+    {
+      "title": "Exit polls show 'disaster' for Merz' CDU party in two state elections",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/exit-polls-show-disaster-for-merz-cdu-party-in-two-state-elections",
+      "published_date": "2026-09-20T16:54:05+00:00"
+    },
+    {
+      "title": "Exit polls show Merz’s party suffering heavy losses in 2 German state elections",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "https://www.euronews.com/my-europe/2026/09/20/german-exit-polls-show-merzs-party-suffering-heavy-losses-in-2-german-state-elections",
+      "published_date": "2026-09-20T16:34:52+00:00"
+    },
+    {
+      "title": "Under-pressure German leader says state election result a 'disaster'",
+      "source": "Sky News World",
+      "country": "Germany",
+      "url": "https://news.sky.com/story/german-chancellor-friedrich-merz-says-state-election-result-a-disaster-but-vows-to-stay-in-office-13590184",
+      "published_date": "2026-09-20T16:26:00+00:00"
+    },
+    {
+      "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
+      "source": "France 24 English",
+      "country": "Germany",
+      "url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
+      "published_date": "2026-09-20T16:23:34+00:00"
+    },
+    {
       "title": "Ra’am, Joint List fight bids to bar them from Knesset election",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-909186",
       "published_date": "2026-09-20T15:18:25+00:00"
+    },
+    {
+      "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+      "source": "The Guardian World",
+      "country": "Ukraine",
+      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+      "published_date": "2026-09-20T14:44:17+00:00"
     },
     {
       "title": "Tinubu congratulates by-election winners in four states",
@@ -79,6 +254,13 @@
       "country": "Russia",
       "url": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
       "published_date": "2026-09-20T13:59:59+00:00"
+    },
+    {
+      "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
+      "source": "CBC News World",
+      "country": "Germany",
+      "url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss",
+      "published_date": "2026-09-20T13:48:26+00:00"
     },
     {
       "title": "Polling stations for Russian State Duma elections open in Transnistria despite Moldova’s protest",
@@ -188,7 +370,7 @@
     {
       "title": "<a href=\"https://news.sky.com/story/ukraine-war-latest-russia-election-nato-poland-attacks-kyiv-donald-trump-12541713?postid=12477622#liveblog-body\">Why so many Colombians are fighting for Ukraine</a>",
       "source": "Sky News World",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://news.sky.com/story/colombian-soldier-on-why-so-many-from-his-country-are-fighting-for-ukraine-13589997",
       "published_date": "2026-09-20T07:35:00+00:00"
     },
@@ -254,13 +436,6 @@
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/09/20/former-russian-official-elected-president-of-south-ossetia-a93751",
       "published_date": "2026-09-19T22:44:25+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html",
-      "published_date": "2026-09-19T22:07:41+00:00"
     },
     {
       "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
@@ -398,12 +573,12 @@
     {
       "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
       "source": "NPR World",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
       "published_date": "2026-09-19T06:39:57+00:00"
     },
     {
-      "title": "Russians leave before election ends, fearing mobilisation to follow - Euronews.com",
+      "title": "Russians leave before election ends, fearing mobilisation to follow - Euronews",
       "source": "Google News World",
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeW16d3Z2d3ZhX1FQUlRnVUdzc053V0VPMGE4NXphX0hOdzNGNUlDWjgxcTB5WU1DdkdvTmFQdE1GVEFEcXFNamZCSWRXR3hpZ1N0R0lpZXBkZ3I1M2FGdjVNOFNGTVJvTUI4XzVRZmJtZ3VhcHEwdmVFVm1lQl9DZmVDcVEwZ3FtdDg5Y1dLOGZDMEpMZmFPVzNjaEJxSjE2eUVxbQ?oc=5",
@@ -1119,7 +1294,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2438,76 +2613,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/middle-east/article-907759",
       "published_date": "2026-09-07T01:05:46+00:00"
-    },
-    {
-      "title": "Lula adopts sovereignty as the theme of his 7th of September speech on TV on the eve of the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-adota-soberania-como-tema-de-pronunciamento-do-7-de-setembro-na-tv-as-vesperas-da-eleicao.shtml",
-      "published_date": "2026-09-06T23:33:00+00:00"
-    },
-    {
-      "title": "Far-right AfD wins historic victory in German state election",
-      "source": "Japan Times",
-      "country": "Germany",
-      "url": "https://www.japantimes.co.jp/news/2026/09/07/world/far-right-afd-german-election/",
-      "published_date": "2026-09-06T22:26:00+00:00"
-    },
-    {
-      "title": "US Secretary of Energy assured that there will be elections in Venezuela",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/secretario-de-energia-de-ee-uu-aseguro-que-se-celebraran-elecciones-en-venezuela/",
-      "published_date": "2026-09-06T22:23:36+00:00"
-    },
-    {
-      "title": "Germany's far-right AfD celebrate projected win in state election",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-06T18:32:53+00:00"
-    },
-    {
-      "title": "John Magdaleno estimated that elections in Venezuela would not be held until the end of next year",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/john-magdaleno-estimo-que-elecciones-en-venezuela-no-se-celebrarian-hasta-finales-del-proximo-ano/",
-      "published_date": "2026-09-06T18:30:06+00:00"
-    },
-    {
-      "title": "Far-right AfD wins key German state election but may fail to secure majority",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "published_date": "2026-09-06T18:13:29+00:00"
-    },
-    {
-      "title": "“Thüringen.Gerecht”: Resigned BSW members found a new party in Thuringia",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/thueringen-gerecht-ehemalige-bsw-mitglieder-gruenden-neue-partei-201200170.html",
-      "published_date": "2026-09-06T17:59:52+00:00"
-    },
-    {
-      "title": "Rahul to be ‘face of INDIA bloc’ in 2029: Cong's Venugopal amid TVK's ‘Vijay for PM’ pitch",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-cm-vijay-to-be-face-of-india-bloc-in-2029-congress-venugopal-tvk-pm-pitch-tamil-nadu-101788708276707.html",
-      "published_date": "2026-09-06T17:06:15+00:00"
-    },
-    {
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "source": "NPR World",
-      "country": "Germany",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-      "published_date": "2026-09-06T16:36:48+00:00"
-    },
-    {
-      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
-      "source": "NPR World",
-      "country": "Germany",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-      "published_date": "2026-09-06T16:36:48+00:00"
     }
   ]
 }
