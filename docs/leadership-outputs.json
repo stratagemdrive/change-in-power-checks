@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-22T01:29:08.288507+00:00",
-    "story_count": 368,
+    "last_updated": "2026-09-22T15:32:47.671892+00:00",
+    "story_count": 365,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84?oc=5",
+      "published_date": "2026-09-22T15:00:59+00:00"
+    },
+    {
+      "title": "Armenian opposition leader marks independence day in enclave at centre of dispute",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-leader-marks-independence-day-in-enclave-at-centre-of-dispute/",
+      "published_date": "2026-09-22T12:43:50+00:00"
+    },
+    {
+      "title": "Fake and divisive ads proliferate in Israel’s first AI election",
+      "source": "Japan Times",
+      "country": "Israel",
+      "url": "https://www.japantimes.co.jp/news/2026/09/22/world/fake-ads-israel-ai-election/",
+      "published_date": "2026-09-22T11:38:00+00:00"
+    },
+    {
+      "title": "Actual turnout in Russia’s State Duma election was about 40%, experts say. Russia’s Central Election Commission put it at 59%.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/22/actual-turnout-in-russia-s-state-duma-election-was-about-40-experts-say-russia-s-central-election-commission-put-it-at-59",
+      "published_date": "2026-09-22T11:12:43+00:00"
+    },
+    {
+      "title": "‘The choice was prison or exile’: journalists who fled Russia publish grim portrait of Putin",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/sep/22/vladimir-putin-biography-russia-journalists-exile",
+      "published_date": "2026-09-22T10:58:15+00:00"
+    },
+    {
+      "title": "Germany wants to restrict Saxony-Anhalt’s access to classified information on Russia after AfD election win",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/22/germany-wants-to-restrict-saxony-anhalt-s-access-to-classified-information-on-russia-after-afd-election-win",
+      "published_date": "2026-09-22T08:45:27+00:00"
+    },
+    {
+      "title": "Ukrainian medics recall how they saved North Korean POW captured by Kyiv",
+      "source": "NK News",
+      "country": "Ukraine",
+      "url": "https://www.nknews.org/2026/09/ukrainian-medics-recall-how-they-saved-north-korean-pow-captured-by-kyiv/",
+      "published_date": "2026-09-22T08:32:01+00:00"
+    },
+    {
+      "title": "‘One phone call, and they rewrote the number’: Election analyst says A Just Russia was handed some 60,000 votes as it risked missing State Duma threshold",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/22/one-phone-call-and-they-rewrote-the-number-election-analyst-says-a-just-russia-was-handed-some-60-000-votes-as-it-risked-missing-state-duma-threshold",
+      "published_date": "2026-09-22T08:30:52+00:00"
+    },
+    {
+      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1BnTU5JU1ZlMkluSmNQWlhfR0xvdDJ1Wk5YZGVtZS15S2JoSjRnTzlqQlNvdEtIY2Z6TmZ0QnRKdS1keWVIc19zTGdReFVqRFpVbG50SlJkMjlsNDZsRERIVDVhdHFpaDJRMHBnamtiVUZ4dF9zXzhRY0Z3c3Z6Rm5BRWYyX0JIZ3JGWklvN3p4Z9IBkgFBVV95cUxNNnBSVVM1S1RpMFoyc3BhUkc5bmJtTU1NcTU0b08tVkxaeUt5VC1MM0ZFZXEwM1J5NU9pY3NOdUN5RmpVbWVZdlliSGVJcVZoeXVvTnVoSW9XQmNqX2VsU3FncG4tck55anR4aUg2ZzlUdDFDbDZrY195RG92OWdZYnNDcl9IUUk5aHAwMG14MXd4Zw?oc=5",
+      "published_date": "2026-09-22T08:30:30+00:00"
+    },
+    {
+      "title": "BJP seeks to shore up Dalit support ahead of Uttar Pradesh assembly elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-seeks-to-shore-up-dalit-support-ahead-of-uttar-pradesh-assembly-elections-101790054101372.html",
+      "published_date": "2026-09-22T05:37:51+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: el Presidente consideró como “matices de opinión” las internas en el Ejecutivo",
       "source": "La Nacion Argentina",
@@ -86,6 +156,13 @@
       "country": "Russia",
       "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
       "published_date": "2026-09-21T20:17:39+00:00"
+    },
+    {
+      "title": "Ukraine marks Putin’s scripted election win with assault on Moscow refinery - The Washington Post",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUhZcUoxTWRkNS1MeGlwQlQwLW5VeEZ5YlV5UkFDdnNGQmVwNGtteHE4b25lRE9iNEZuQlozRFFZS1VJUF92ZTBGOF8tVW51SWRjZG1ocExRb1FicmZ3NmlpMDJTVUVLMEhWVm9acnNnWW5NM1NQRnlOclJzbW1EeFNucXg5Q2lKdlZObW5CSG50bi1lTTNRMEZzdHByN2EzbDEwRHNYVFdUTzA?oc=5",
+      "published_date": "2026-09-21T19:23:28+00:00"
     },
     {
       "title": "Putin's party wins record Duma majority in Kremlin-controlled elections as EU vows sanctions",
@@ -134,7 +211,7 @@
       "source": "Moscow Times",
       "country": "Russia",
       "url": "https://www.themoscowtimes.com/2026/09/21/as-fears-of-post-election-mobilization-swirl-russian-activists-prepare-for-the-worst-a93761",
-      "published_date": "2026-09-21T16:17:13+00:00"
+      "published_date": "2026-09-21T16:17:00+00:00"
     },
     {
       "title": "EU and five other countries condemn Russia's 'sham' elections",
@@ -1630,7 +1707,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2536,104 +2613,6 @@
       "country": "Ukraine",
       "url": "https://www.faz.net/aktuell/politik/ukraine/ruslan-krawtschenko-kuendigt-ruecktritt-nach-korruption-an-201205875.html",
       "published_date": "2026-09-08T17:00:08+00:00"
-    },
-    {
-      "title": "Legislative elections in Israel: why an Arab Islamist party enlists a Zionist general",
-      "source": "Le Figaro France",
-      "country": "Israel",
-      "url": "https://www.lefigaro.fr/international/legislatives-en-israel-pourquoi-un-parti-arabe-islamiste-enrole-un-general-sioniste-20260908",
-      "published_date": "2026-09-08T13:52:45+00:00"
-    },
-    {
-      "title": "German cultural life is in shock after AfD's crushing election victory and threats of censorship",
-      "source": "Politiken Denmark",
-      "country": "Germany",
-      "url": "https://politiken.dk/kultur/art10972529/Tysk-kulturliv-er-i-chok-efter-knusende-AfD-valgsejr-og-trusler-om-censur",
-      "published_date": "2026-09-08T11:41:37+00:00"
-    },
-    {
-      "title": "Russia plans to mobilize additional 300,000 people after elections – Zelensky",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4162029-russia-plans-to-mobilize-additional-300000-people-after-elections-zelensky.html",
-      "published_date": "2026-09-08T11:39:00+00:00"
-    },
-    {
-      "title": "After the Saxony-Anhalt election: Is the CDU moving towards an AfD ban?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-verbotsverfahren-ist-die-cdu-ploetzlich-offen-dafuer-accg-201205573.html",
-      "published_date": "2026-09-08T11:37:52+00:00"
-    },
-    {
-      "title": "Leaked tapes reveal Muslim Brotherhood plotting new Egyptian revolution and government-in-exile",
-      "source": "Egypt Independent",
-      "country": "Egypt",
-      "url": "https://www.egyptindependent.com/leaked-tapes-reveal-muslim-brotherhood-plotting-new-egyptian-revolution-and-government-in-exile/",
-      "published_date": "2026-09-08T10:50:16+00:00"
-    },
-    {
-      "title": "Likud submits final candidate list as Netanyahu warns 2026 election will decide Israel's future",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907902",
-      "published_date": "2026-09-08T10:38:42+00:00"
-    },
-    {
-      "title": "‘Truly terrifying’: AfD election win sparks protests across Germany",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/video/20260908-truly-terrifying-afd-election-win-sparks-protests-across-germany",
-      "published_date": "2026-09-08T09:50:23+00:00"
-    },
-    {
-      "title": "Ukraine's prosecutor general resigns amid major corruption investigation",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "http://www.euronews.com/my-europe/2026/09/08/ukraines-prosecutor-general-resigns-amid-major-corruption-investigation",
-      "published_date": "2026-09-08T09:06:50+00:00"
-    },
-    {
-      "title": "Guidance on Lula's campaign materials arrives at centers less than 30 days before the election",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/orientacao-sobre-materiais-de-campanha-de-lula-chega-as-centrais-a-menos-de-30-dias-da-eleicao.shtml",
-      "published_date": "2026-09-08T09:00:00+00:00"
-    },
-    {
-      "title": "United Russia’s ratings are falling, so why is the Kremlin demanding better election results? Putin joined the campaign.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/08/united-russia-s-ratings-are-falling-so-why-is-the-kremlin-demanding-better-election-results-putin-joined-the-campaign",
-      "published_date": "2026-09-08T08:42:51+00:00"
-    },
-    {
-      "title": "Ukraine’s prosecutor general resigns citing political conflict",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-war-prosecutor-general-resigns-kravchenko-zelensky-b3046375.html",
-      "published_date": "2026-09-08T08:02:05+00:00"
-    },
-    {
-      "title": "Militants and looters among candidates in Russia’s State Duma “elections” in occupied Donetsk region -- intelligence",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-society/4161907-militants-and-looters-among-candidates-in-russias-state-duma-elections-in-occupied-donetsk-region-intelligence.html",
-      "published_date": "2026-09-08T07:31:00+00:00"
-    },
-    {
-      "title": "Consequences for the election in MV: Does the CDU now have to fear the five percent hurdle in the northeast?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-in-mecklenburg-vorpommern-muss-die-cdu-jetzt-die-fuenfprozenthuerde-fuerchten-accg-201201735.html",
-      "published_date": "2026-09-08T06:33:13+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt: This election is also a turning point for the AfD",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-ist-ulrich-siegmund-bereit-zu-regieren-201202384.html",
-      "published_date": "2026-09-08T04:37:32+00:00"
     }
   ]
 }
