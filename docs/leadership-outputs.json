@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-21T16:55:00.594737+00:00",
-    "story_count": 372,
+    "last_updated": "2026-09-22T01:29:08.288507+00:00",
+    "story_count": 368,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,67 @@
   },
   "stories": [
     {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente consideró como “matices de opinión” las internas en el Ejecutivo",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-considero-como-matices-de-opinion-las-internas-en-nid21092026/",
+      "published_date": "2026-09-22T01:00:00+00:00"
+    },
+    {
+      "title": "Na reta final, campanha de Lula reforça atos de rua e presença do presidente nos estados",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/na-reta-final-campanha-de-lula-reforca-atos-de-rua-e-presenca-do-presidente-nos-estados.shtml",
+      "published_date": "2026-09-21T20:53:00+00:00"
+    },
+    {
+      "title": "Novaya Gazeta Europe: United Russia would have won just 34% in State Duma elections without ballot stuffing",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/21/novaya-gazeta-europe-united-russia-would-have-won-just-34-in-state-duma-elections-without-ballot-stuffing",
+      "published_date": "2026-09-21T20:44:52+00:00"
+    },
+    {
+      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+      "published_date": "2026-09-21T20:17:39+00:00"
+    },
+    {
+      "title": "Putin's party wins record Duma majority in Kremlin-controlled elections as EU vows sanctions",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/09/21/putins-party-wins-record-duma-majority-in-kremlin-controlled-elections-as-eu-vows-sanction",
+      "published_date": "2026-09-21T19:17:03+00:00"
+    },
+    {
+      "title": "France not to recognize Russian elections held in occupied Ukrainian territories",
+      "source": "Ukrinform",
+      "country": "France",
+      "url": "https://www.ukrinform.net/rubric-polytics/4166442-france-not-to-recognize-russian-elections-held-in-occupied-ukrainian-territories.html",
+      "published_date": "2026-09-21T18:23:00+00:00"
+    },
+    {
+      "title": "Reuters: Ukrainian drone attack halts oil processing at Moscow refinery on final day of Russia’s State Duma election. Repairs could take weeks.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/21/reuters-ukrainian-drone-attack-halts-oil-processing-at-moscow-refinery-on-final-day-of-russia-s-state-duma-election-repairs-could-take-weeks",
+      "published_date": "2026-09-21T17:25:43+00:00"
+    },
+    {
+      "title": "Sisters of Pakistan’s Imran Khan arrested in Lahore, jailed ex-PM’s party says",
+      "source": "South China Morning Post",
+      "country": "Pakistan",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3368301/sisters-pakistans-imran-khan-arrested-lahore-jailed-ex-pms-party-says?utm_source=rss_feed",
+      "published_date": "2026-09-21T16:59:24+00:00"
+    },
+    {
       "title": "UK, allies condemn Russia’s elections in occupied Ukraine",
       "source": "The Punch Nigeria",
       "country": "Ukraine",
       "url": "https://punchng.com/uk-allies-condemn-russias-elections-in-occupied-ukraine/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-09-21T16:56:57+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente consideró como “matices de opinión” las internas en el Ejecutivo",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-considero-como-matices-de-opinion-las-internas-en-nid21092026/",
-      "published_date": "2026-09-21T16:32:01+00:00"
     },
     {
       "title": "New leader of Reform UK in Wales named after defeating rival by just two votes – UK politics live",
@@ -142,6 +191,13 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/21/russia-s-state-duma-election-delivered-record-turnout-and-a-landslide-for-united-russia-kremlin-insiders-say-the-results-were-achieved-through-very-dirty-means",
       "published_date": "2026-09-21T13:39:57+00:00"
+    },
+    {
+      "title": "Russia’s State Duma election delivered record turnout and a landslide for United Russia. Kremlin insiders say the results were achieved ‘through very dirty means.’ - meduza.io",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQRlhYQ1FoX3lyYkxPOVU1UVVfWkNjSEdmSUFPUDVGSGQ5cjJnbEk5Y0kxSmMwWUkzSTMwZG5yNzg2ckRtVjJUd1J1Z2tqODdnZ0d3V3VadGZmeHo0bm9UZTRUdUo1U3NyeGtlLXRUcGNxbTRoMDdHLTVrQ3hYWTVnYW1weUJHVFp4SDkyQy1YM0diZVVNYnBGMmZGSURyaDh6anZmdXJzbk5aSnNjWnhuZTZNS2tGZm5ncjgzOXNQckNkQW9tUFgyN21vSW9uRVduX2xGR0VWb2tKVkRqQUZSakUyVGNxbk96UjBxcGNEcVVyRzQtdG1Cd2ltNC1BaHgzWFg3cnJrdDA3QW5pNU54UUJfQ1RYbGJLdWNuLXhJeXV5TDFYRGfSAasCQVVfeXFMTVB3SjJCZE01cXFNUDY3N2ZCTGdJSHVDZjBRTVp2VFg0TEc0SHp1b1lZekY0TnV4bXhSZjFFZVJyR2JmdmRGMzU1MjVFTTdDd0xuTEdQUEoycUY0SVlfS2ZwNmpRbXdTVlk5RXBZMUxOOVJudG8tQmQ0ZVZ6eWZDNHphbUR0OVY2QWxPYkpvelZwSlU4dXZZdjVfZ3RBeVVnX0VXb3hqSXBsNWRvbkZLRFlYaG1ZNGNjcXYwOHpiQ2cwSkN1dGdUSmNYbE81U0s4X3I2S2tQb0VMbFpnRlZaNVhIWVIzTDVSZnNTaEE3Q0ZseVI5aFdkbzhzUC1rUm5OZ3BnejctMnJ4YW9iZlItZi1CNjdHQWpicjVIZG05NVlPOGV6MUxZaVZvX1E?oc=5",
+      "published_date": "2026-09-21T13:39:00+00:00"
     },
     {
       "title": "Merz's political crisis threatens Germany's obsession with stability",
@@ -228,7 +284,7 @@
       "published_date": "2026-09-21T09:14:00+00:00"
     },
     {
-      "title": "German chancellor stands his ground after his party loses in state elections",
+      "title": "Germany's leader stands his ground after his party loses in state elections",
       "source": "NPR World",
       "country": "Germany",
       "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
@@ -251,7 +307,7 @@
     {
       "title": "How Russia's parliamentary election might affect the war in Ukraine",
       "source": "NPR World",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
       "published_date": "2026-09-21T08:39:56+00:00"
     },
@@ -1574,7 +1630,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2578,90 +2634,6 @@
       "country": "Germany",
       "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-ist-ulrich-siegmund-bereit-zu-regieren-201202384.html",
       "published_date": "2026-09-08T04:37:32+00:00"
-    },
-    {
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T01:07:47+00:00"
-    },
-    {
-      "title": "Julio Leiva, former commander in chief of the Navy: “For our Argentine brothers, when we talk about limits, nothing is enough”",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/politica/noticia/julio-leiva-excomandante-en-jefe-de-la-armada-para-nuestros-hermanos-argentinos-cuando-hablamos-de-limites-nada-es-suficiente-nada/",
-      "published_date": "2026-09-08T00:30:00+00:00"
-    },
-    {
-      "title": "Ukraine’s prosecutor general submits resignation after senior subordinate is accused of shielding fraudulent call centers",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/news/2026/09/08/ukraine-s-prosecutor-general-submits-resignation-after-senior-subordinate-is-accused-of-shielding-fraudulent-call-centers",
-      "published_date": "2026-09-07T23:19:40+00:00"
-    },
-    {
-      "title": "Lula and Flávio Bolsonaro would tie in an eventual runoff in the Brazilian presidential elections",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/lula-y-flavio-bolsonaro-empatarian-en-un-eventual-balotaje-en-las-presidenciales-de-brasil-nid07092026/",
-      "published_date": "2026-09-07T23:08:11+00:00"
-    },
-    {
-      "title": "Ukraine's prosecutor general resigns amid major corruption scandal - kyivindependent.com",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWo3UzdfejVVRGNLVlgtaDhyWHdEeVlHNXgtU0VqNmxGdEd4b3M1Zm9QSzZyOVcweFYxRDF4dnVCcXVEWGhCc3BMLW5uSWZCU21wOGJkMllSUVJaQVIxWmpwODh6X3NUWHU4U0loMFoyZDl3VlZFZS1rUnBFVFJyQ0VHZXBTV2ZYSTVZa3lnWUdQR3dGRWs0bXpzV2IwZWFVemlVLTJn?oc=5",
-      "published_date": "2026-09-07T22:44:05+00:00"
-    },
-    {
-      "title": "Cabello assures that Psuv is ready to go to elections and win regardless of the date",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/politica/cabello-asegura-que-psuv-esta-listo-para-ir-elecciones-y-ganar-sin-importar-la-fecha/",
-      "published_date": "2026-09-07T22:18:43+00:00"
-    },
-    {
-      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html",
-      "published_date": "2026-09-07T20:46:31+00:00"
-    },
-    {
-      "title": "Violence in extracurriculars in Paris: Emmanuel Grégoire inaugurates a new training school for facilitators",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/07/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-une-nouvelle-ecole-de-formation-des-animateurs_6767996_3224.html",
-      "published_date": "2026-09-07T20:34:00+00:00"
-    },
-    {
-      "title": "Junaeb case: the year in which Soser broke with Nutre Chile and resigned from the union chaired by Darío Calderón",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/caso-junaeb-el-ano-en-que-soser-rompio-con-nutri-chile-y-renuncio-al-gremio-que-presidia-dario-calderon/",
-      "published_date": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "title": "Live blog about the election in Saxony-Anhalt: Sepp Müller wants to become CDU chairman in Saxony-Anhalt",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-sepp-mueller-will-cdu-fuehren-faz-110093143.html",
-      "published_date": "2026-09-07T18:35:03+00:00"
-    },
-    {
-      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-      "published_date": "2026-09-07T17:48:37+00:00"
-    },
-    {
-      "title": "Before the election: A banker puts Brazil's judges in trouble",
-      "source": "FAZ Germany",
-      "country": "Brazil",
-      "url": "https://www.faz.net/aktuell/politik/ausland/alexandre-de-moraes-brasiliens-richter-unter-verdacht-201198085.html",
-      "published_date": "2026-09-07T17:29:48+00:00"
     }
   ]
 }
