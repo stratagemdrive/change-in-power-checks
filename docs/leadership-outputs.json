@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-22T15:32:47.671892+00:00",
-    "story_count": 365,
+    "last_updated": "2026-09-23T01:12:52.384704+00:00",
+    "story_count": 368,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-22T23:23:38+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "title": "Election analyst Ivan Shukshin says Moscow precinct results are being rewritten after Russia’s State Duma election",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/23/election-analyst-ivan-shukshin-says-moscow-precinct-results-are-being-rewritten-after-russia-s-state-duma-election",
+      "published_date": "2026-09-22T22:04:24+00:00"
+    },
+    {
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-22T20:59:00+00:00"
+    },
+    {
+      "title": "Morocco election: How Ceuta, football and Israel have shaped the campaign - BBC",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LS09DRExRangzQ3NJTkpsblN1Q0dkRU9uZkZWTldva3haLTExa0tRWGFNVFl1N1I4Tm9MN0xINUM2aGhDWDVYb0trMTNoR0N2TmRzdkJIbVNSUW8?oc=5",
+      "published_date": "2026-09-22T20:59:00+00:00"
+    },
+    {
+      "title": "Presidente Kast se reunirá este jueves con Delcy Rodríguez",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-se-reunira-este-jueves-con-delcy-rodriguez/",
+      "published_date": "2026-09-22T19:56:18+00:00"
+    },
+    {
+      "title": "Presidente Kast concretó participación en encuentro del “Escudo de las Américas” que encabezó Donald Trump",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-concreto-participacion-en-encuentro-del-escudo-de-las-americas-que-encabezo-donald-trump/",
+      "published_date": "2026-09-22T19:52:39+00:00"
+    },
+    {
+      "title": "Freezing democracy: On the Election Commission of India and West Bengal",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece",
+      "published_date": "2026-09-22T19:50:54+00:00"
+    },
+    {
+      "title": "Packed schedule for Jaishankar at UN as India campaigns for Security Council election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece",
+      "published_date": "2026-09-22T19:08:32+00:00"
+    },
+    {
+      "title": "Presidente Kast refuerza la soberanía de Chile sobre el Estrecho de Magallanes en su debut ante la ONU",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/presidente-kast-refuerza-la-soberania-de-chile-sobre-el-estrecho-de-magallanes-en-su-debut-ante-la-onu/",
+      "published_date": "2026-09-22T18:08:29+00:00"
+    },
+    {
+      "title": "Presidente Kast y crítico mensaje a la ONU: “Esta organización no ha estado a la altura de los desafíos de nuestros tiempos”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-y-critico-mensaje-a-la-onu-esta-organizacion-no-ha-estado-a-la-altura-de-los-desafios-de-nuestros-tiempos/",
+      "published_date": "2026-09-22T18:08:27+00:00"
+    },
+    {
+      "title": "Activists file notices for protests against election fraud in four Russian cities: St. Petersburg, Perm, Izhevsk, and Kazan",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/22/activists-file-notices-for-protests-against-election-fraud-in-four-russian-cities-st-petersburg-perm-izhevsk-and-kazan",
+      "published_date": "2026-09-22T17:48:31+00:00"
+    },
+    {
+      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
+      "published_date": "2026-09-22T16:51:27+00:00"
+    },
+    {
+      "title": "Presidente Santiago Peña \"quiere colaborar\" en la transición de Venezuela a la democracia",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/presidente-santiago-pena-quiere-colaborar-en-la-transicion-de-venezuela-a-la-democracia/",
+      "published_date": "2026-09-22T16:23:56+00:00"
+    },
     {
       "title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News",
       "source": "Google News World",
@@ -240,6 +338,13 @@
       "country": "Germany",
       "url": "https://www.france24.com/en/merz-s-election-setback-what-it-means-for-germany",
       "published_date": "2026-09-21T15:02:19+00:00"
+    },
+    {
+      "title": "China accuses ousted top generals of ‘disloyalty’ - Financial Times",
+      "source": "Google News World",
+      "country": "China",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkJQYmNDeWpVeTB1ekdTTHFzNk1Md1NUSVpHU0FjTWhtdzZueExmZTVKSWZ5ZkNyNTdIUGZLd0k3aHdqM0RwTE9VSTk5YUxNczJNWFZod1BJWGlxR3NLZm1vT1RuOGoyRXd0Nml6eHJPdFVLbmV1dW44bi1IVWViR0NBX2g?oc=5",
+      "published_date": "2026-09-21T14:54:23+00:00"
     },
     {
       "title": "Wike defends rainbow coalition, says ‘Tinubu’s re-election my priority’",
@@ -674,20 +779,6 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-polytics/4166030-polling-stations-for-russian-state-duma-elections-open-in-transnistria-despite-moldovas-protest.html",
       "published_date": "2026-09-20T13:32:00+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-20T13:23:36+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-20T13:23:30+00:00"
     },
     {
       "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
@@ -1707,7 +1798,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2543,76 +2634,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-eleicao-com-menos-jovens-70-tem-maior-interesse-em-politica-e-prefere-lula-mostra-datafolha.shtml",
       "published_date": "2026-09-09T02:00:00+00:00"
-    },
-    {
-      "title": "2027: Lagos APC kicks off campaign, backs Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-lagos-apc-kicks-off-campaign-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-09-09T00:56:47+00:00"
-    },
-    {
-      "title": "Anti-AfD protesters rally in Cologne after far-right election win",
-      "source": "Al Jazeera English",
-      "country": "Germany",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
-      "published_date": "2026-09-09T00:16:06+00:00"
-    },
-    {
-      "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple",
-      "published_date": "2026-09-08T22:43:43+00:00"
-    },
-    {
-      "title": "Deputy Celis (RN) suspends his parliamentary work and resigns from the presidency of the Health Commission",
-      "source": "La Tercera Chile",
-      "country": "France",
-      "url": "https://www.latercera.com/nacional/noticia/diputado-celis-rn-suspende-sus-labores-parlamentarias-y-renuncia-a-la-presidencia-de-la-comision-de-salud/",
-      "published_date": "2026-09-08T22:21:51+00:00"
-    },
-    {
-      "title": "PMO denies that UAE warned Netanyahu about October 7 as Abu Dhabi refuses to comment",
-      "source": "Jerusalem Post",
-      "country": "UAE",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-907996",
-      "published_date": "2026-09-08T20:33:58+00:00"
-    },
-    {
-      "title": "German economy frets about Saxony-Anhalt election results",
-      "source": "Deutsche Welle English",
-      "country": "Germany",
-      "url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-09-08T18:35:00+00:00"
-    },
-    {
-      "title": "U.S. negotiators think Russia may return to peace talks after its parliamentary elections. Zelensky expects Moscow’s rhetoric to change then, too.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/08/u-s-negotiators-think-russia-may-return-to-peace-talks-after-its-parliamentary-elections-zelensky-expects-moscow-s-rhetoric-to-change-then-too",
-      "published_date": "2026-09-08T17:20:59+00:00"
-    },
-    {
-      "title": "Saxony-Anhalt: the BSW, this unclassifiable party from the radical left now “kingmaker”",
-      "source": "Le Figaro France",
-      "country": "Germany",
-      "url": "https://www.lefigaro.fr/international/saxe-anhalt-le-bsw-cet-inclassable-parti-issu-de-la-gauche-radicale-desormais-faiseur-de-rois-20260908",
-      "published_date": "2026-09-08T17:06:11+00:00"
-    },
-    {
-      "title": "PISA 2025: the story of “French decline” returns to the presidential election",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/08/pisa-2025-le-recit-du-declinisme-francais-de-retour-dans-la-presidentielle_6768438_823448.html",
-      "published_date": "2026-09-08T17:00:14+00:00"
-    },
-    {
-      "title": "Corruption investigation: Ukrainian prosecutor general announces resignation",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ruslan-krawtschenko-kuendigt-ruecktritt-nach-korruption-an-201205875.html",
-      "published_date": "2026-09-08T17:00:08+00:00"
     }
   ]
 }
