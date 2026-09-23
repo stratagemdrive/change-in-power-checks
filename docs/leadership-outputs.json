@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-23T01:12:52.384704+00:00",
-    "story_count": 368,
+    "last_updated": "2026-09-23T15:24:56.870249+00:00",
+    "story_count": 369,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections",
+      "source": "RFI English",
+      "country": "China",
+      "url": "https://www.rfi.fr/en/international/20260923-trump-hosts-china-s-xi-for-high-stakes-summit-ahead-of-us-midterm-elections",
+      "published_date": "2026-09-23T15:06:20+00:00"
+    },
+    {
+      "title": "Putin Says Election Turnout Shows Russians Support Military Agenda",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/23/putin-says-election-turnout-shows-russians-support-military-agenda-a93781",
+      "published_date": "2026-09-23T15:00:40+00:00"
+    },
+    {
+      "title": "La Asamblea General de la ONU, EN VIVO: Milei, Zelensky y el presidente de Irán hablan hoy ante los líderes mundiales",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-asamblea-general-de-la-onu-en-vivo-milei-zelensky-y-el-presidente-de-iran-hablan-hoy-ante-los-nid23092026/",
+      "published_date": "2026-09-23T15:00:12+00:00"
+    },
+    {
+      "title": "Russia Brands Exiled YouTuber Yury Dud ‘Terrorist and Extremist’",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/23/russia-brands-exiled-youtuber-yury-dud-terrorist-and-extremist-a93779",
+      "published_date": "2026-09-23T14:43:38+00:00"
+    },
+    {
+      "title": "Myanmar coup leader claims ‘lenient’ on Suu Kyi: report",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-coup-leader-claims-lenient-on-suu-kyi-report/",
+      "published_date": "2026-09-23T11:39:54+00:00"
+    },
+    {
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "source": "BBC World",
+      "country": "Sudan",
+      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T11:16:25+00:00"
+    },
+    {
+      "title": "Salva Kiir: South Sudan president dissolves government ahead of country's first elections - BBC",
+      "source": "Google News World",
+      "country": "Sudan",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTXRtUGxVcVRvZlJneU1ndTBRNi1Bekt3MkM1SzFfY25vYlVydFBHVzBWNGtSbHp3VDlMYlU2TlEwZzRCUXVrX2RzcnpOSmhTTk95NWZnVGQxZUk?oc=5",
+      "published_date": "2026-09-23T11:16:25+00:00"
+    },
+    {
+      "title": "First-time Jewish voters could account for up to 12 Knesset seats in upcoming election - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-909394",
+      "published_date": "2026-09-23T10:54:40+00:00"
+    },
+    {
+      "title": "Myanmar junta torches oil-producing village in new Magway offensive",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-torches-oil-producing-village-in-new-magway-offensive/",
+      "published_date": "2026-09-23T10:16:14+00:00"
+    },
+    {
+      "title": "Moldova declares state of emergency over water shortage fears after Russian strikes",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/moldova-state-of-emergency-energy-water-russia-b3054852.html",
+      "published_date": "2026-09-23T09:32:51+00:00"
+    },
+    {
+      "title": "Canadian premier calls snap election with ‘hell no to Trump’ rallying cry",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/david-eby-trump-snap-election-b3054839.html",
+      "published_date": "2026-09-23T09:17:40+00:00"
+    },
+    {
+      "title": "Russian officials entered public-sector employees’ data into an electronic database without their consent to monitor voter turnout, legal aid project says",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/23/russian-officials-entered-public-sector-employees-data-into-an-electronic-database-without-their-consent-to-monitor-voter-turnout-legal-aid-project-says",
+      "published_date": "2026-09-23T08:51:07+00:00"
+    },
+    {
+      "title": "Fake videos spread fraud claims during German elections",
+      "source": "Euronews",
+      "country": "Germany",
+      "url": "https://www.euronews.com/2026/09/23/fake-videos-spread-fraud-claims-during-german-elections",
+      "published_date": "2026-09-23T08:28:27+00:00"
+    },
+    {
+      "title": "Exiled opposition leader tries to enter Venezuela as Rodriguez meets Trump in US",
+      "source": "South China Morning Post",
+      "country": "Venezuela",
+      "url": "https://www.scmp.com/news/world/americas/article/3368468/exiled-opposition-leader-tries-enter-venezuela-rodriguez-meets-trump-us?utm_source=rss_feed",
+      "published_date": "2026-09-23T04:45:11+00:00"
+    },
+    {
+      "title": "Imperial Japanese Army secretly considered martial law in 1945, document says",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/martial-law-secret-study-army/",
+      "published_date": "2026-09-23T04:35:00+00:00"
+    },
     {
       "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
       "source": "La Nacion Argentina",
@@ -79,6 +184,13 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/23/election-analyst-ivan-shukshin-says-moscow-precinct-results-are-being-rewritten-after-russia-s-state-duma-election",
       "published_date": "2026-09-22T22:04:24+00:00"
+    },
+    {
+      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
+      "published_date": "2026-09-22T21:25:12+00:00"
     },
     {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
@@ -142,13 +254,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/22/activists-file-notices-for-protests-against-election-fraud-in-four-russian-cities-st-petersburg-perm-izhevsk-and-kazan",
       "published_date": "2026-09-22T17:48:31+00:00"
-    },
-    {
-      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
-      "published_date": "2026-09-22T16:51:27+00:00"
     },
     {
       "title": "Presidente Santiago Peña \"quiere colaborar\" en la transición de Venezuela a la democracia",
@@ -1798,7 +1903,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2536,104 +2641,6 @@
       "country": "Turkey",
       "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-akp-istanbul-zurueckerobern-will-201209438.html",
       "published_date": "2026-09-09T16:04:06+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
-      "published_date": "2026-09-09T14:35:31+00:00"
-    },
-    {
-      "title": "Lord Mayor states: No re-election in Copenhagen after housing case",
-      "source": "Politiken Denmark",
-      "country": "Denmark",
-      "url": "https://politiken.dk/danmark/hovedstaden/art10976353/Overborgmester-sl%C3%A5r-fast-Intet-omvalg-i-K%C3%B8benhavn-efter-boligsag",
-      "published_date": "2026-09-09T13:43:19+00:00"
-    },
-    {
-      "title": "Otzma Yehudit issues request for Ra'am, Abbas to be barred from 2026 Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-908077",
-      "published_date": "2026-09-09T13:38:45+00:00"
-    },
-    {
-      "title": "Trump celebrates the victory of the right-wing AfD party in the German regional elections",
-      "source": "El Nacional Venezuela",
-      "country": "Germany",
-      "url": "https://www.elnacional.com/2026/09/trump-celebra-la-victoria-del-partido-derechista-afd-en-las-regionales-alemanas/",
-      "published_date": "2026-09-09T13:33:57+00:00"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T13:29:33+00:00"
-    },
-    {
-      "title": "Brazil's top judge suspends justices' rulings in Supreme Court power struggle - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHB6QzZiVldOcFJhSUdERjA5VVBGbEw5eGNncEw4a1FjYktCZy04bjJHN19vdUlPSk5MWWJRRkNLdC1qZmtHcTloWGp1SVZkVW8xNEdVWjZwWjc3MzVlWXNYcXBmc05mTUZiSEI4eTlxOGlLeTBkN3ZjQkNCeEl5b21pdVdqUFhVMUdrMUNabDIwUVhfSms2SXF1Zkc4R0V3VWdGbUM1TkpXcDVhYzZZUWRtRG8tQQ?oc=5",
-      "published_date": "2026-09-09T13:03:00+00:00"
-    },
-    {
-      "title": "Marco Rubio reaffirms that there will be elections in Venezuela: “It must be done appropriately”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/marco-rubio-reafirma-que-habra-elecciones-en-venezuela-hay-que-hacerlo-de-manera-apropiada/",
-      "published_date": "2026-09-09T13:02:17+00:00"
-    },
-    {
-      "title": "AfD election victory in Saxony-Anhalt warning, not turning point for Germany – expert",
-      "source": "Ukrinform",
-      "country": "Germany",
-      "url": "https://www.ukrinform.net/rubric-polytics/4162441-afd-election-victory-in-saxonyanhalt-warning-not-turning-point-for-germany-expert.html",
-      "published_date": "2026-09-09T12:59:00+00:00"
-    },
-    {
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "source": "NPR World",
-      "country": "Iran",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-      "published_date": "2026-09-09T11:12:27+00:00"
-    },
-    {
-      "title": "Colombia's new president loosens gun control rules",
-      "source": "BBC World",
-      "country": "Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T11:01:41+00:00"
-    },
-    {
-      "title": "Trump praises AfD’s state election win in Germany and says far-right party is ‘on the rise’",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/trump-afd-election-win-germany-saxony-anhalt-b3047077.html",
-      "published_date": "2026-09-09T09:52:14+00:00"
-    },
-    {
-      "title": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running. - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0ZvaER6TmhwQzlCZ0JTRi0zdGNsc25kYWI5NEQ1YUdZUEt0UnJSYWJ6VE9oWElyaVhYTXlXY3B3ajJIeklIYUt2bVllOHpoZHNQS1NOWUNMVllSZm5hWktpMUVjaElmRU1KSU5RMlJXR3ZFempFdnVpcmdXWnVKNng0SXVJakl6MzlaT0d1bTZBRzBLbmtLLThnTlRRV1pVclZWNldFY01CdW5YTE1qVVA5TEVydw?oc=5",
-      "published_date": "2026-09-09T09:06:14+00:00"
-    },
-    {
-      "title": "BJP and allies to contest upcoming Tripura village committee elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-and-allies-to-contest-upcoming-tripura-village-committee-elections-101788889675365.html",
-      "published_date": "2026-09-09T02:02:00+00:00"
-    },
-    {
-      "title": "In an election with fewer young people, 70+ people are more interested in politics and prefer Lula, shows Datafolha",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-eleicao-com-menos-jovens-70-tem-maior-interesse-em-politica-e-prefere-lula-mostra-datafolha.shtml",
-      "published_date": "2026-09-09T02:00:00+00:00"
     }
   ]
 }
