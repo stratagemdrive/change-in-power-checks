@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-23T15:24:56.870249+00:00",
-    "story_count": 369,
+    "last_updated": "2026-09-24T01:06:26.185989+00:00",
+    "story_count": 362,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml",
+      "published_date": "2026-09-24T00:50:00+00:00"
+    },
+    {
+      "title": "Habló Javier Milei en la ONU, EN VIVO: “Queremos una Argentina influyente y poderosa para que nuestro destino sea decidido por nosotros”, dijo el Presidente",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-canciller-quirno-se-refirio-a-malvinas-y-dijo-que-estan-nid23092026/",
+      "published_date": "2026-09-24T00:49:53+00:00"
+    },
+    {
+      "title": "Lucas Magnano, presidente de Coninagro: “Que producir en la Argentina sea una actividad viable, rentable y sostenible en el tiempo”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/economia/campo/lucas-magnano-presidente-de-coninagro-que-producir-en-la-argentina-sea-una-actividad-viable-rentable-nid23092026/",
+      "published_date": "2026-09-24T00:03:45+00:00"
+    },
+    {
+      "title": "Trump to Venezuela's Rodriguez: Elections need to happen",
+      "source": "Axios World",
+      "country": "Venezuela",
+      "url": "https://www.axios.com/2026/09/23/trump-venezuela-rodriguez-meeting-elections",
+      "published_date": "2026-09-24T00:00:25+00:00"
+    },
+    {
+      "title": "Presidente de Paraguay: «Queremos transición democrática» para Cuba, Venezuela y Nicaragua",
+      "source": "CiberCuba",
+      "country": "Cuba",
+      "url": "https://www.cibercuba.com/noticias/2026-09-24-u1-e199894-s27061-nid341041-presidente-paraguay-queremos-transicion-democratica",
+      "published_date": "2026-09-23T23:03:25+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-23T23:02:17+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-23T23:01:59+00:00"
+    },
+    {
+      "title": "Presidente Kast y Delcy Rodríguez adelantan cita bilateral para este miércoles",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-y-delcy-rodriguez-adelantan-cita-bilateral-para-este-miercoles/",
+      "published_date": "2026-09-23T20:28:54+00:00"
+    },
+    {
+      "title": "Russian state officials say ruling party United Russia won 58% in last weekend’s parliamentary election. Independent analysts estimate it was really 34–35% without manipulation.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/23/russian-state-officials-say-ruling-party-united-russia-won-58-in-last-weekend-s-parliamentary-election-independent-analysts-estimate-it-was-really-34-35-without-manipulation",
+      "published_date": "2026-09-23T18:52:14+00:00"
+    },
+    {
+      "title": "Inauguration of Air Navigation Centre adjacent to Tripoli International Airport – further signs of its pending reopening?",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/09/inauguration-of-air-navigation-centre-adjacent-to-tripoli-international-airport-further-signs-of-its-pending-reopening/",
+      "published_date": "2026-09-23T18:29:00+00:00"
+    },
+    {
+      "title": "Trump to Venezuela's Rodriguez: Elections need to happen - Axios",
+      "source": "Google News World",
+      "country": "Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejBMTGR1Ul9hbnpnc1Jncm1Mb2ZIMTZIVnNfRC1oT1hmcjY2MkJrMXJaLUxPcGJHWGZ4WUJwTTRfajV3RXpZVm9YVlVNNEg1WHk1Q1dVazRFMDJGR3pxaGdJUGdoVE4tWUxmNnNVQnZsY1BUaUlNZU83R01SMkRlekR3?oc=5",
+      "published_date": "2026-09-23T18:15:56+00:00"
+    },
+    {
+      "title": "Israeli election committee bars main Arab parties from next month’s poll - Financial Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGpoTEJaZzVDQ2pFY1FqUXZXR0RqSUVnVGdCZnpNVzYzSk0yRHc4UWNQazN0dkZJNldhM2tkVzc3S1YzOEU4cEpJMDlma2luXzZKbnhyNVpKVXVpelFxOXFuQTQ5TU5FLXhieWFYMEdBWTFWYmpWSFB3bnZSZnY4SUxPR0Q?oc=5",
+      "published_date": "2026-09-23T16:22:36+00:00"
+    },
+    {
+      "title": "Presidente de Panamá sobre regreso de María Corina Machado a Venezuela: “Son problemas de los venezolanos, no míos”",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/09/presidente-de-panama-sobre-regreso-de-maria-corina-machado-a-venezuela-son-problemas-de-los-venezolanos-no-mios/",
+      "published_date": "2026-09-23T15:49:45+00:00"
+    },
     {
       "title": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections",
       "source": "RFI English",
@@ -165,18 +256,11 @@
       "published_date": "2026-09-23T04:35:00+00:00"
     },
     {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-22T23:23:38+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-22T23:23:23+00:00"
+      "title": "South Sudan’s Kiir dissolves government ahead of first national elections - aljazeera.com",
+      "source": "Google News World",
+      "country": "Sudan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGVLaFdCNmU2cEx6YzBCYVNmNGpMeTB6UTlWWDY3RXVNZGp4V2Nmc3VoUWVlNnJieXVNUXJNbVl1cEI3TjFPcXl4RjREYkkwalRUbFEycFhzM1dldE1ZREM5NHhiQkFLY0dRNm80dG1WeXNMWGE3Y1h0ZkZzNmpQSFVXX2Etb3ljNmlWN2t6VlIwZWdCZE1OMlNwYndsaWNFWHpvX2xpaEJLZmFoODkwU2FB0gG3AUFVX3lxTFA3Q0xaSUtma05naURhRnNJOG1IMld2N25ZM05MLWczLVp6c2NDWUdGSFVpbWNIQVdYVUdVT085b2hscnRtU21ySVlvSzhtNlZSZ0VPdkRIUGp5OGswcG1JV05SbjVpclo2N25jVTBuUmFacU81cHg5VHQ3UmhFdzV6MHk5X2RRQTNyWTN5RW91cHFHZDNrWFdhMks2SEZwSUswZFFBdFI2VGoyb01tN0o0ZHo3NHcyNA?oc=5",
+      "published_date": "2026-09-23T02:01:55+00:00"
     },
     {
       "title": "Election analyst Ivan Shukshin says Moscow precinct results are being rewritten after Russia’s State Duma election",
@@ -186,16 +270,9 @@
       "published_date": "2026-09-22T22:04:24+00:00"
     },
     {
-      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
-      "published_date": "2026-09-22T21:25:12+00:00"
-    },
-    {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
       "source": "BBC World",
-      "country": "Israel",
+      "country": "Morocco",
       "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-22T20:59:00+00:00"
     },
@@ -254,6 +331,13 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/22/activists-file-notices-for-protests-against-election-fraud-in-four-russian-cities-st-petersburg-perm-izhevsk-and-kazan",
       "published_date": "2026-09-22T17:48:31+00:00"
+    },
+    {
+      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - DW.com",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
+      "published_date": "2026-09-22T16:51:27+00:00"
     },
     {
       "title": "Presidente Santiago Peña \"quiere colaborar\" en la transición de Venezuela a la democracia",
@@ -2508,139 +2592,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/10/yabloko-proposes-plan-b-after-being-barred-from-state-duma-election-spoil-the-party-list-ballot",
       "published_date": "2026-09-10T07:13:02+00:00"
-    },
-    {
-      "title": "Liveblog Ukraine War: Norway's head of government: Selenskyj's plane narrowly missed by drone",
-      "source": "FAZ Germany",
-      "country": "Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-norwegens-regierungschef-selenskyjs-flugzeug-nur-knapp-von-drohne-verfehlt-faz-110683325.html",
-      "published_date": "2026-09-09T23:50:44+00:00"
-    },
-    {
-      "title": "German Chancellor accuses AfD of seeking “ethnic cleansing” and far-right party is preparing for two new regional elections",
-      "source": "La Tercera Chile",
-      "country": "Germany",
-      "url": "https://www.latercera.com/mundo/noticia/canciller-aleman-acusa-a-afd-de-buscar-una-limpieza-etnica-y-partido-de-extrema-derecha-se-perfila-para-dos-nuevas-elecciones-regionales/",
-      "published_date": "2026-09-09T23:46:46+00:00"
-    },
-    {
-      "title": "Brazil Supreme Court chief suspends rival rulings amid election row",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
-      "published_date": "2026-09-09T23:44:51+00:00"
-    },
-    {
-      "title": "Iran likely to reverse-engineer captured US underwater drone",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366980/iran-likely-reverse-engineer-captured-us-underwater-drone?utm_source=rss_feed",
-      "published_date": "2026-09-09T23:34:44+00:00"
-    },
-    {
-      "title": "Elections in Brazil 2026: who are the candidates for president",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
-      "published_date": "2026-09-09T23:32:46+00:00"
-    },
-    {
-      "title": "How to vote from Argentina for the 2026 Brazilian elections",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/sociedad/como-votar-desde-la-argentina-para-las-elecciones-de-brasil-2026-nid08092026/",
-      "published_date": "2026-09-09T23:32:34+00:00"
-    },
-    {
-      "title": "Before the presidential election in Brazil, the Supreme Court is torn apart in an unprecedented crisis",
-      "source": "France 24 FR",
-      "country": "Brazil",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-presidentielle-bresil-cour-supreme-dechire-crise-lula-flavio-bolsonaro-alexandre-de-moraes",
-      "published_date": "2026-09-09T23:21:28+00:00"
-    },
-    {
-      "title": "Trump claims Tehran trying to influence midterms, says war will end after election",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/international/article-908164",
-      "published_date": "2026-09-09T22:10:35+00:00"
-    },
-    {
-      "title": "Trump says war with Iran will end \"immediately after\" November elections",
-      "source": "El Nacional Venezuela",
-      "country": "Iran",
-      "url": "https://www.elnacional.com/2026/09/donald-trump-afirma-que-la-guerra-con-iran-concluira-inmediatamente-despues-de-las-elecciones-legislativas-de-noviembre/",
-      "published_date": "2026-09-09T21:21:11+00:00"
-    },
-    {
-      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-09-09T21:09:45+00:00"
-    },
-    {
-      "title": "'Sickening' racist remarks and calls for a coup: French police under investigation",
-      "source": "Euronews",
-      "country": "France",
-      "url": "http://www.euronews.com/my-europe/2026/09/09/sickening-racist-remarks-and-calls-for-a-coup-french-police-under-investigation",
-      "published_date": "2026-09-09T19:49:12+00:00"
-    },
-    {
-      "title": "Trump says Iran war will end right after US midterm elections",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366972/trump-says-iran-war-will-end-right-after-us-midterm-elections?utm_source=rss_feed",
-      "published_date": "2026-09-09T19:48:42+00:00"
-    },
-    {
-      "title": "Merz must solve an impossible puzzle after the election defeat",
-      "source": "Politiken Denmark",
-      "country": "Germany",
-      "url": "https://politiken.dk/internationalt/art10975238/Merz-skal-l%C3%A6gge-et-umuligt-puslespil-efter-valgnederlag",
-      "published_date": "2026-09-09T19:07:29+00:00"
-    },
-    {
-      "title": "Trump says Iran war will end 'immediately' after midterm elections",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-war-will-end-immediately-after-midterm-elections",
-      "published_date": "2026-09-09T19:02:12+00:00"
-    },
-    {
-      "title": "Legislative elections in Israel: “October 7 emerges as the dividing line of the campaign”",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/moyen-orient/20260909-legislatives-israel-election-7-octobre-netanyahu-campagne-eisenkot",
-      "published_date": "2026-09-09T18:08:09+00:00"
-    },
-    {
-      "title": "The racist remarks of a Carcassonne municipal police officer, captured by his own pedestrian camera, arouse general indignation and embarrassment of the RN",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/09/la-deambulation-raciste-d-un-policier-municipal-de-carcassonne-captee-par-sa-propre-camera-pieton-suscite-l-indignation-generale-et-l-embarras-du-rn_6768954_3224.html",
-      "published_date": "2026-09-09T17:34:47+00:00"
-    },
-    {
-      "title": "Election in Berlin: The main thing is not to say anything",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-ein-gruenen-kandidat-auf-stimmenfang-im-linken-lager-201188911.html",
-      "published_date": "2026-09-09T17:18:05+00:00"
-    },
-    {
-      "title": "Elections in Russia: the 1,001 tricks to eliminate cumbersome candidates",
-      "source": "France 24 FR",
-      "country": "Russia",
-      "url": "https://www.france24.com/fr/europe/20260909-%C3%A9lections-l%C3%A9gislatives-russie-1001-tours-passe-passe-%C3%A9liminer-candidats-encombrants-poutine-guerre-ukraine",
-      "published_date": "2026-09-09T16:30:21+00:00"
-    },
-    {
-      "title": "Power struggle for Istanbul: Is this the blueprint for Erdoğan's stay in power?",
-      "source": "FAZ Germany",
-      "country": "Turkey",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-akp-istanbul-zurueckerobern-will-201209438.html",
-      "published_date": "2026-09-09T16:04:06+00:00"
     }
   ]
 }
