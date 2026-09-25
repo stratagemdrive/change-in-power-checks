@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-25T01:10:57.505395+00:00",
-    "story_count": 370,
+    "last_updated": "2026-09-25T15:50:37.420945+00:00",
+    "story_count": 379,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Jerusalem inaugurates renewed Har Hotzvim Hi-Tech Park, projects it will generate 10,000 new jobs",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/business-and-innovation/article-909718",
+      "published_date": "2026-09-25T16:38:33+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Netanyahu es uno de los mayores líderes de la historia del mundo”, afirmó el Presidente",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-netanyahu-se-reunio-con-el-presidente-en-la-onu-y-lo-definio-como-nid25092026/",
+      "published_date": "2026-09-25T15:37:23+00:00"
+    },
+    {
+      "title": "Wike to lead Tinubu 2027 re-election campaign in FCT, Rivers",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/wike-to-lead-tinubu-2027-re-election-campaign-in-fct-rivers/",
+      "published_date": "2026-09-25T14:57:01+00:00"
+    },
+    {
+      "title": "Indian police use tear gas against protesters seeking election chief's ouster",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2032606/indian-police-use-tear-gas-against-protesters-seeking-election-chiefs-ouster",
+      "published_date": "2026-09-25T14:11:51+00:00"
+    },
+    {
+      "title": "Azerbaijani opposition leader tells Aliyev: give me a life sentence, free women political prisoners",
+      "source": "OC Media Caucasus",
+      "country": "Azerbaijan",
+      "url": "https://oc-media.org/imprisoned-azerbaijani-opposition-leader-tells-aliyev-give-me-a-life-sentence-free-women-political-prisoners/",
+      "published_date": "2026-09-25T13:51:34+00:00"
+    },
+    {
+      "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
+      "published_date": "2026-09-25T12:59:16+00:00"
+    },
+    {
+      "title": "Pope Leo's visit to Paris migrant centre sends message ahead of French election",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20260925-pope-leo-visit-to-paris-migrant-centre-sends-message-ahead-of-french-election-maison-bakhita",
+      "published_date": "2026-09-25T12:43:30+00:00"
+    },
+    {
+      "title": "Presidente Kast arriba a Chile tras su gira por Nueva York marcada por la polémica adhesión al Escudo de las Américas",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-arriba-a-chile-tras-su-gira-por-new-york-marcada-por-la-polemica-adhesion-al-escudo-de-las-americas/",
+      "published_date": "2026-09-25T12:27:46+00:00"
+    },
+    {
+      "title": "What Arab Israelis Really Think About Israel’s Election",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/",
+      "published_date": "2026-09-25T12:19:43+00:00"
+    },
+    {
+      "title": "Venezuela’s Acting Leader Makes Her U.N. Debut",
+      "source": "Foreign Policy",
+      "country": "Venezuela",
+      "url": "https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro-trump-elections/",
+      "published_date": "2026-09-25T12:00:01+00:00"
+    },
+    {
+      "title": "Russian political scientist and election analyst Alexander Kynev arrested in Moscow on drug charges",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/25/russian-political-scientist-alexander-kynev-arrested-in-drug-case",
+      "published_date": "2026-09-25T11:56:37+00:00"
+    },
+    {
+      "title": "Six Killed in Myanmar junta attack on NUG regional command",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/six-killed-in-myanmar-junta-attack-on-nug-regional-command/",
+      "published_date": "2026-09-25T11:50:09+00:00"
+    },
+    {
+      "title": "‘Even BJP leaders lost elections because of Gyanesh Kumar’: Abhijeet Dipke",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/even-bjp-leaders-lost-because-of-gyanesh-kumar-abhijeet-dipke-cjp-eci-row-election-commission-cec-101790332560260.html",
+      "published_date": "2026-09-25T11:17:27+00:00"
+    },
+    {
+      "title": "India’s ‘cockroach’ movement targets election chief in political pivot",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/week-asia/politics/article/3368821/indias-cockroach-movement-targets-election-chief-political-pivot?utm_source=rss_feed",
+      "published_date": "2026-09-25T10:30:17+00:00"
+    },
+    {
+      "title": "United Russia Wins Record State Duma Majority in Elections Dubbed as Most Uncompetitive in Modern History",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/09/25/united-russia-wins-record-state-duma-majority-in-elections-dubbed-as-the-most-uncompetitive-in-modern-history-a93791",
+      "published_date": "2026-09-25T10:21:00+00:00"
+    },
+    {
+      "title": "Myanmar junta attacks Bago villages near the 115-Mile Rest Stop",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-bago-villages-near-the-115-mile-rest-stop/",
+      "published_date": "2026-09-25T09:06:53+00:00"
+    },
+    {
+      "title": "Junta chief’s AI agriculture vision collides with realities facing Myanmar farmers",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/junta-chiefs-ai-agriculture-vision-collides-with-realities-facing-myanmar-farmers/",
+      "published_date": "2026-09-25T08:37:04+00:00"
+    },
+    {
+      "title": "Why Russia’s Potemkin election actually matters",
+      "source": "Japan Times",
+      "country": "Russia",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/25/world/russias-potemkin-election/",
+      "published_date": "2026-09-25T08:13:00+00:00"
+    },
+    {
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "published_date": "2026-09-25T03:33:48+00:00"
+    },
+    {
+      "title": "BJP names organisational general secretaries in several election-bound states",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-elections-up-madhya-pradesh-goa-punjab-uttarakhand-101790304880098.html",
+      "published_date": "2026-09-25T03:27:46+00:00"
+    },
     {
       "title": "Pezeshkian says he met with Khamenei face to face, supreme leader healthy, giving direction",
       "source": "Jerusalem Post",
@@ -221,7 +361,7 @@
       "published_date": "2026-09-24T11:24:00+00:00"
     },
     {
-      "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports - themoscowtimes.com",
+      "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports - The Moscow Times",
       "source": "Google News World",
       "country": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjNDLVBjNzIwRnA4QlJUMkMwUVRMWFpseUJuZWt4MEUyYXN2cW12TzVMTkxqZVI5cVBNOEZ3ZFJHdDVpMUxOc1RhcWg2NTB5TFpOcFdENFhUNWNxdy1SYjlpbUdfRUVqajltVjQxNFU5YkZnaEdSYmhlV0l6Yk9sZnVjZTBVNV9KZG5BdkladER5MVVYdjNjVExzUjctVzlYZXhQVzJfTGZKTHo5bktUUXo3dENQV3hWQkJreDMyWld2aWlHbTNQNGFMWkNZbEVPaHc?oc=5",
@@ -2571,83 +2711,6 @@
       "country": "Russia",
       "url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
       "published_date": "2026-09-11T16:11:08+00:00"
-    },
-    {
-      "title": "Diputada Jéldrez respalda que Presidente Kast no conmemore el 11-S: \" \"",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/diputada-jeldrez-respalda-que-presidente-kast-no-conmemore-el-11-s/",
-      "published_date": "2026-09-11T14:36:10+00:00"
-    },
-    {
-      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid",
-      "published_date": "2026-09-11T14:14:07+00:00"
-    },
-    {
-      "title": "Focus on local body elections, Madhav tells BJP cadre in Andhra Pradesh",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/focus-on-local-body-elections-madhav-tells-bjp-cadre-in-andhra-pradesh/article71456333.ece",
-      "published_date": "2026-09-11T14:05:01+00:00"
-    },
-    {
-      "title": "Legislative elections in Morocco, tensions in Kenya, urban train in DR Congo: the Africa weekly",
-      "source": "France 24 FR",
-      "country": "Morocco",
-      "url": "https://www.france24.com/fr/afrique/20260911-maroc-kenya-rd-congo-afrique",
-      "published_date": "2026-09-11T14:03:16+00:00"
-    },
-    {
-      "title": "Less than a month before the elections in Brazil, the Supreme Court investigates Flávio Bolsonaro for corruption and money laundering",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/a-menos-de-un-mes-de-las-elecciones-en-brasil-la-corte-suprema-investiga-a-flavio-bolsonaro-por-nid11092026/",
-      "published_date": "2026-09-11T13:42:20+00:00"
-    },
-    {
-      "title": "Sergio Bitar emplaza a Kast por falta de acto por el 11-S: “Presidente, tenga sensibilidad con los que no piensan como usted”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/sergio-bitar-emplaza-a-kast-por-falta-de-acto-por-el-11-s-presidente-tenga-sensibilidad-con-los-que-no-piensan-como-usted/",
-      "published_date": "2026-09-11T12:50:12+00:00"
-    },
-    {
-      "title": "A month ago, Russia’s anti-war Yabloko party was disqualified from the State Duma election. That was only the beginning.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/11/a-month-ago-russia-s-anti-war-yabloko-party-was-disqualified-from-the-state-duma-election-that-was-only-the-beginning",
-      "published_date": "2026-09-11T09:03:46+00:00"
-    },
-    {
-      "title": "Myanmar resistance drones strike junta airbase near Mandalay airport",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-resistance-drones-strike-junta-airbase-near-mandalay-airport/",
-      "published_date": "2026-09-11T08:48:21+00:00"
-    },
-    {
-      "title": "Election campaign against AfD: What does Manuela Schwesig do differently?",
-      "source": "FAZ Germany",
-      "country": "Germany",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-was-macht-manuela-schwesig-anders-gegen-die-afd-accg-201202351.html",
-      "published_date": "2026-09-11T06:29:48+00:00"
-    },
-    {
-      "title": "The election of the new Miss Universe Venezuela already has a date",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/la-eleccion-de-la-nueva-miss-universo-venezuela-ya-tiene-fecha/",
-      "published_date": "2026-09-11T04:45:00+00:00"
-    },
-    {
-      "title": "Carney suggests Ottawa won’t bankroll federalist groups in Alberta separation referendum",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-suggests-ottawa-wont-bankroll-federalist-groups-in-alberta/",
-      "published_date": "2026-09-11T02:42:37+00:00"
     }
   ]
 }
