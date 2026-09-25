@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-24T15:48:33.099116+00:00",
-    "story_count": 374,
+    "last_updated": "2026-09-25T01:10:57.505395+00:00",
+    "story_count": 370,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
-      "title": "Election Commission row LIVE: CEC Gyanesh Kumar must resign immediately; PM Modi, Amit Shah to be investigated, says Rahul Gandhi",
+      "title": "Pezeshkian says he met with Khamenei face to face, supreme leader healthy, giving direction",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909644",
+      "published_date": "2026-09-25T02:24:09+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-09-24T23:43:58+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-24T23:43:54+00:00"
+    },
+    {
+      "title": "Presidente Kast afirma que el país no tiene una elección o presión para elegir a EE.UU. o China: “Somos pro Chile”",
+      "source": "La Tercera Chile",
+      "country": "China",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-dice-que-el-pais-no-tiene-una-eleccion-o-presion-para-elegir-a-estados-unidos-o-china-somos-pro-chile/",
+      "published_date": "2026-09-24T23:40:00+00:00"
+    },
+    {
+      "title": "Proof that Russia’s 2026 State Duma elections were the dirtiest parliamentary elections of the Putin era",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/25/proof-that-russia-s-2026-state-duma-elections-were-the-dirtiest-parliamentary-elections-of-the-putin-era",
+      "published_date": "2026-09-24T21:45:47+00:00"
+    },
+    {
+      "title": "Israel moves to ban main Palestinian-led lists from election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
+      "published_date": "2026-09-24T19:54:00+00:00"
+    },
+    {
+      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "published_date": "2026-09-24T17:56:06+00:00"
+    },
+    {
+      "title": "Election Commission row highlights: CEC Gyanesh Kumar must resign immediately; PM Modi, Amit Shah to be investigated, says Rahul Gandhi",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
-      "published_date": "2026-09-24T15:36:54+00:00"
+      "published_date": "2026-09-24T17:40:34+00:00"
+    },
+    {
+      "title": "The High-Stakes Corruption Scandal Shaking Up Brazil’s Election - The New York Times",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjF3N1h0a3lfWDZ4R2V6ZGNwZmlfZGdtWW1fQ2tJSzFuT2I0eFVqMy1aUTFkS2drZ0VhX1hJYnBBZUh0WEJGU0xBTGNTOTVyZXNlQ0ZJRzhFOFhKTVk3eFpfbEg3RjBBdDRWcXhxSjFYNWY4cFVyRlFQZ0I5cVZUY2xPM3dKek5mX194akxad2I5MGluWDRuT2l3YTBkZmVjM0E3ZFFMSQ?oc=5",
+      "published_date": "2026-09-24T16:32:25+00:00"
     },
     {
       "title": "Nigeria has one of highest election petitions — Osigwe",
@@ -92,6 +148,13 @@
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnVQQkNrZk1PUDlwOEZaWElnTVNHUUotMEZRelpQVjhOQ0tnakl1SnVnNzhrM0ktajdtQU51b19KdzN1Tl9LVGFzcUREUjN2VTJzbHFrY0pXbF9pMm1Uc2NZOF9iTVBJMTRQOTFVX0NaS2FwTVU0amJxUDJTWVhGOEtNODNLbmZJSVpEWlhXekJkeDZaaDVRd283aDNSdk4zZWJBbEpR0gGrAUFVX3lxTE5ad1p6czlmemFOLUtMT05XZnpvTldZN2JVam03N3R3Ynpxa1V4UExtNmlldktiUzZzQWVnUjcxLVlFcFdpTWVNWExaTlJIeDdKdndsczM4M1A2LVZYeVc5dW5yWXBSaVpBVnY0YmQtNVBVdXVRUy1jbEVvRldIY3FLbGp2N01HYTdGZGtCUzlDMkRDUVRpV1Ryem4wWERwUV9tUHlZRTBwWjctMA?oc=5",
+      "published_date": "2026-09-24T14:18:35+00:00"
+    },
+    {
+      "title": "Arab parties denounce ban from Israel’s October election - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnVQQkNrZk1PUDlwOEZaWElnTVNHUUotMEZRelpQVjhOQ0tnakl1SnVnNzhrM0ktajdtQU51b19KdzN1Tl9LVGFzcUREUjN2VTJzbHFrY0pXbF9pMm1Uc2NZOF9iTVBJMTRQOTFVX0NaS2FwTVU0amJxUDJTWVhGOEtNODNLbmZJSVpEWlhXekJkeDZaaDVRd283aDNSdk4zZWJBbEpR?oc=5",
       "published_date": "2026-09-24T14:18:35+00:00"
     },
     {
@@ -151,17 +214,17 @@
       "published_date": "2026-09-24T11:55:07+00:00"
     },
     {
-      "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election - The New York Times",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjF3N1h0a3lfWDZ4R2V6ZGNwZmlfZGdtWW1fQ2tJSzFuT2I0eFVqMy1aUTFkS2drZ0VhX1hJYnBBZUh0WEJGU0xBTGNTOTVyZXNlQ0ZJRzhFOFhKTVk3eFpfbEg3RjBBdDRWcXhxSjFYNWY4cFVyRlFQZ0I5cVZUY2xPM3dKek5mX194akxad2I5MGluWDRuT2l3YTBkZmVjM0E3ZFFMSQ?oc=5",
-      "published_date": "2026-09-24T11:45:45+00:00"
-    },
-    {
       "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports",
       "source": "Moscow Times",
       "country": "Ukraine",
       "url": "https://www.themoscowtimes.com/2026/09/24/krasnodar-region-declares-state-of-emergency-as-ukrainian-strikes-cripple-grain-exports-a93786",
+      "published_date": "2026-09-24T11:24:00+00:00"
+    },
+    {
+      "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports - themoscowtimes.com",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjNDLVBjNzIwRnA4QlJUMkMwUVRMWFpseUJuZWt4MEUyYXN2cW12TzVMTkxqZVI5cVBNOEZ3ZFJHdDVpMUxOc1RhcWg2NTB5TFpOcFdENFhUNWNxdy1SYjlpbUdfRUVqajltVjQxNFU5YkZnaEdSYmhlV0l6Yk9sZnVjZTBVNV9KZG5BdkladER5MVVYdjNjVExzUjctVzlYZXhQVzJfTGZKTHo5bktUUXo3dENQV3hWQkJreDMyWld2aWlHbTNQNGFMWkNZbEVPaHc?oc=5",
       "published_date": "2026-09-24T11:24:00+00:00"
     },
     {
@@ -188,7 +251,7 @@
     {
       "title": "Presidente de Chile respalda la reconstrucción de Venezuela tras reunión con Delcy Rodríguez",
       "source": "El Nacional Venezuela",
-      "country": "Venezuela",
+      "country": "Chile",
       "url": "https://www.elnacional.com/2026/09/presidente-de-chile-respalda-la-reconstruccion-de-venezuela-tras-reunion-con-delcy-rodriguez/",
       "published_date": "2026-09-24T09:52:40+00:00"
     },
@@ -254,20 +317,6 @@
       "country": "Cuba",
       "url": "https://www.cibercuba.com/noticias/2026-09-24-u1-e199894-s27061-nid341041-presidente-paraguay-queremos-transicion-democratica",
       "published_date": "2026-09-23T23:03:25+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-23T23:02:17+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-09-23T23:01:59+00:00"
     },
     {
       "title": "Presidente Kast y Delcy Rodríguez adelantan cita bilateral para este miércoles",
@@ -2599,83 +2648,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/politics/article-carney-suggests-ottawa-wont-bankroll-federalist-groups-in-alberta/",
       "published_date": "2026-09-11T02:42:37+00:00"
-    },
-    {
-      "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-      "published_date": "2026-09-11T00:24:24+00:00"
-    },
-    {
-      "title": "The United States proposed supplying oil to Cuba in exchange for the resignation of Díaz-Canel and the privatization of Cupet, according to the Miami Herald",
-      "source": "El Nacional Venezuela",
-      "country": "Cuba",
-      "url": "https://www.elnacional.com/2026/09/estados-unidos-propuso-suministrar-petroleo-a-cuba-a-cambio-de-la-dimision-de-diaz-canel-y-la-privatizacion-de-cupet-segun-el-miami-herald/",
-      "published_date": "2026-09-11T00:00:04+00:00"
-    },
-    {
-      "title": "Iván Moreira y los primeros seis meses de Kast: “Hemos depositado la confianza en el Presidente y vamos a llegar hasta el final con él”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/ivan-moreira-y-los-primeros-seis-meses-de-kast-hemos-depositado-la-confianza-en-el-presidente-y-vamos-a-llegar-hasta-el-final-con-el/",
-      "published_date": "2026-09-10T23:35:40+00:00"
-    },
-    {
-      "title": "Lula diz que Fachin colocou 'um pouco de ordem na casa', mas que espera mais de presidente do STF",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml",
-      "published_date": "2026-09-10T23:17:00+00:00"
-    },
-    {
-      "title": "Elections 2027: when are the next presidential elections in Argentina?",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "published_date": "2026-09-10T22:46:51+00:00"
-    },
-    {
-      "title": "Elections: when to vote for president in Brazil 2026",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-      "published_date": "2026-09-10T22:45:59+00:00"
-    },
-    {
-      "title": "Israel Election 2026: What do Arye Deri's Shas and Yaakov Asher's United Torah Judaism stand for?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-907982",
-      "published_date": "2026-09-10T21:31:43+00:00"
-    },
-    {
-      "title": "Trump’s Gaza peace plan faces a bigger threat than a pre-election clash with Netanyahu - opinion",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/opinion/article-908266",
-      "published_date": "2026-09-10T20:00:00+00:00"
-    },
-    {
-      "title": "Bolsonaro, Lula statistically tied in simulated Brazil runoff, Atlas/Bloomberg poll shows - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTlEVmtuNGNhLTc4U2pGV0w1bXN0eEVLb0JTQkExbWtxemxldXZnV280MTN5cHZoZUVoN3RqekNYdXF0TEI4X1RWekN5RWt6d2V4ZkJmTEZpQnFqR2dCY0dSbkNsdEp1X0RnWDJQbjdMd2d1b3N3Q1d0REVHbWdkNVFEM2luOXhxaWRlQndKNVBINEI3QlVtR3lYUE5YdmRCWEZHS3dwNTV3UzYtMTRIYXkyLTROTlhjQVlVMGJvTzdtcVVONXpj?oc=5",
-      "published_date": "2026-09-10T18:18:12+00:00"
-    },
-    {
-      "title": "El primer 11 de septiembre de Kast: sin actos en La Moneda y con el Presidente de visita por Valdivia",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/el-primer-11-de-septiembre-de-kast-sin-actos-en-la-moneda-y-con-el-presidente-de-visita-por-valdivia/",
-      "published_date": "2026-09-10T16:30:46+00:00"
-    },
-    {
-      "title": "Israeli polls split on 2026 Knesset election possibilities, as Yashar, Likud vie for primacy - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-908282",
-      "published_date": "2026-09-10T16:30:20+00:00"
     }
   ]
 }
