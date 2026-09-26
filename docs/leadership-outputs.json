@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-26T01:12:38.367316+00:00",
-    "story_count": 375,
+    "last_updated": "2026-09-26T14:59:56.198176+00:00",
+    "story_count": 382,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,102 @@
   },
   "stories": [
     {
+      "title": "CPI leader Binoy Viswam demands Chief Election Commissioner Gyanesh Kumar’s resignation over alleged BJP ties",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/cpi-leader-binoy-viswam-demands-chief-election-commissioner-gyanesh-kumars-resignation-over-alleged-bjp-ties/article71513067.ece",
+      "published_date": "2026-09-26T14:20:01+00:00"
+    },
+    {
+      "title": "Abelardo De La Espriella, presidente de Colombia, entrega balance actualizado de operativos de la Fuerza Pública: 47 capturas",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-entrega-balance-actualizado-de-operativos-de-la-fuerza-publica-47-capturas-3589155",
+      "published_date": "2026-09-26T14:10:40+00:00"
+    },
+    {
+      "title": "India's election commission orders review of voter-roll changes",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2032843/indias-election-commission-orders-review-of-voter-roll-changes",
+      "published_date": "2026-09-26T13:45:28+00:00"
+    },
+    {
+      "title": "The media battle behind Brazil’s election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
+      "published_date": "2026-09-26T13:01:26+00:00"
+    },
+    {
+      "title": "Brazil's President Lula bans online betting ahead of presidential election",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
+      "published_date": "2026-09-26T12:36:01+00:00"
+    },
+    {
+      "title": "Middle East: Palestinians plan first local elections in 20 years",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/middle-east-palestinians-plan-first-local-elections-in-20-years",
+      "published_date": "2026-09-26T12:29:33+00:00"
+    },
+    {
+      "title": "Iran president says supreme leader backs new plan to reopen Hormuz",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/09/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz/",
+      "published_date": "2026-09-26T12:02:00+00:00"
+    },
+    {
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+      "published_date": "2026-09-26T10:27:11+00:00"
+    },
+    {
+      "title": "Zelensky imposes sanctions on 44 participants in illegal “elections” in TOT",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4168276-zelensky-imposes-sanctions-on-44-participants-in-illegal-elections-in-tot.html",
+      "published_date": "2026-09-26T10:27:00+00:00"
+    },
+    {
+      "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
+      "source": "France 24 English",
+      "country": "Morocco",
+      "url": "https://www.france24.com/en/morocco-s-authenticity-and-modernity-party-wins-parliamentary-election",
+      "published_date": "2026-09-26T09:38:30+00:00"
+    },
+    {
+      "title": "Augusto Cury, candidato a presidente de Brasil: “Las puertas están cerradas tanto para Lula como para Flavio Bolsonaro”",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/el-mundo/augusto-cury-candidato-a-presidente-de-brasil-las-puertas-estan-cerradas-tanto-para-lula-como-para-nid26092026/",
+      "published_date": "2026-09-26T09:00:01+00:00"
+    },
+    {
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "published_date": "2026-09-26T07:58:05+00:00"
+    },
+    {
       "title": "Trump rejects Iranian ceasefire proposal, expects war to continue after midterm elections - report",
       "source": "Jerusalem Post",
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-909753",
       "published_date": "2026-09-26T03:40:46+00:00"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T03:22:17+00:00"
     },
     {
       "title": "Javier Milei y sus medidas, en vivo: “Netanyahu es uno de los mayores líderes de la historia del mundo”, afirmó el Presidente",
@@ -2641,48 +2732,6 @@
       "country": "Yemen",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-liberated-more-200-prisoners-newly-captured-regions",
       "published_date": "2026-09-12T17:37:15+00:00"
-    },
-    {
-      "title": "BJP, JD(S) step up pressure seeking Jarkiholi’s resignation ahead of special Legislative session",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-step-up-pressure-seeking-resignation-of-jarkiholi-ahead-of-special-legislature-session/article71459838.ece",
-      "published_date": "2026-09-12T13:36:38+00:00"
-    },
-    {
-      "title": "Mette Frederiksen will continue in the post both in this and the next election period",
-      "source": "DR News Denmark",
-      "country": "Denmark",
-      "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-vil-fortsaette-paa-posten-baade-i-denne-og-naeste-valgperiode",
-      "published_date": "2026-09-12T10:08:06+00:00"
-    },
-    {
-      "title": "Harish Rawat resignation row: Why is Congress leader’s PA facing ED raids?",
-      "source": "Hindustan Times",
-      "country": "Palestine",
-      "url": "https://www.hindustantimes.com/india-news/harish-rawat-resignation-row-why-is-congress-leader-s-pa-chandan-singh-jeena-facing-ed-raids-101789199114637.html",
-      "published_date": "2026-09-12T09:40:15+00:00"
-    },
-    {
-      "title": "UP elections: BJP plans Bihar-style ‘lawlessness’ pitch to counter anti-incumbency",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/up-elections-bjp-plans-bihar-style-lawlessness-pitch-to-counter-antiincumbency-101789193721346.html",
-      "published_date": "2026-09-12T07:17:16+00:00"
-    },
-    {
-      "title": "Datafolha: Allies of Lula and Flávio Bolsonaro speak of stability in the election despite the crisis in the STF",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-aliados-de-lula-e-de-flavio-bolsonaro-falam-em-estabilidade-na-eleicao-apesar-da-crise-no-stf.shtml",
-      "published_date": "2026-09-12T02:35:00+00:00"
-    },
-    {
-      "title": "Brazil’s Flávio Bolsonaro faces corruption investigation weeks before elections - NBC News",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHZISHFzWDlSb3E3U1VVeVJ6Y3l1Zzd6Z3M3OGlkQjQtWktpQjRlMmV0bG4zLWRHakt3bVBqVzczMkhIQ0swaS1rMEN5MFQ1MHBLNUgtWFgzaTByYmxFSEppSndDdkVkUElBUFhIMng1SVRnMjJDaTRKeDhwZmJmN2N6ckRsSUtUeGpkamFnc3BSM1ZadUwybXQxVndNOE94MHN2dlByUUdQZFhHdFRuZHhzWjZ5YzRjSXc?oc=5",
-      "published_date": "2026-09-12T01:23:00+00:00"
     }
   ]
 }
