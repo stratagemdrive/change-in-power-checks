@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-26T14:59:56.198176+00:00",
-    "story_count": 382,
+    "last_updated": "2026-09-27T01:08:53.622418+00:00",
+    "story_count": 383,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,27 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "“Ni Tarzán hablaba así”: Presidente del Colegio de Profesores critica intervención de Kast en inglés ante la ONU",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/ni-tarzan-hablaba-asi-presidente-del-colegio-de-profesores-critica-intervencion-de-kast-en-ingles-ante-la-onu/",
+      "published_date": "2026-09-26T22:01:36+00:00"
+    },
+    {
+      "title": "Hamas leader says Israel to use Gaza 'blood' in election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election",
+      "published_date": "2026-09-26T20:11:10+00:00"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T15:46:40+00:00"
+    },
     {
       "title": "CPI leader Binoy Viswam demands Chief Election Commissioner Gyanesh Kumar’s resignation over alleged BJP ties",
       "source": "The Hindu Politics",
@@ -130,6 +151,13 @@
       "published_date": "2026-09-26T09:38:30+00:00"
     },
     {
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections - theguardian.com",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
+      "published_date": "2026-09-26T09:19:00+00:00"
+    },
+    {
       "title": "Augusto Cury, candidato a presidente de Brasil: “Las puertas están cerradas tanto para Lula como para Flavio Bolsonaro”",
       "source": "La Nacion Argentina",
       "country": "Brazil",
@@ -144,6 +172,13 @@
       "published_date": "2026-09-26T07:58:05+00:00"
     },
     {
+      "title": "PAM wins big in Morocco parliament elections but falls short of majority - Al Jazeera",
+      "source": "Google News World",
+      "country": "Morocco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pCNXN2Z2IyQVB1bldRbU1LcktSb0plOVo1SWpsM05rY0RSamxOQ2ZLU1pFY0lfeGJsWGdmSGFaRDJEOUd6M25Yc0l4WWtCd2VXVDg2YzRkSkgzWllOY0JxMlFubExoTFJ5R01rbDFteGpfcjMxRTZKT2JUZjI0WC1NX2dpeTdtYV81UUhzZU9oYkVXdUVQYm81Uk9qU3ZsNXl5U2JoUTZobmVNTU5NNW9MY9IBuAFBVV95cUxPdkFjN3MyU2V6OUNrWm8zb3VYdWYzQUxmRFh6T3RoOS1aVnNOd0RjZkpHY1FzMFdMTDUyNTFRMGczaTJFNFN6Vi1SUGZ0aUJOTDkwaFN2a0VNbV9LenRjc1hSemJGeW8tZzA0V0tST2lncDVTV3JqYjhkQjVEb09LQzFHTkFqU3IxdEh0SFB3MG02Q253b0JUWmdXVDB6LS1ra1h3VVlJcVlLNnctSTROeUxDSE55dWtO?oc=5",
+      "published_date": "2026-09-26T04:24:00+00:00"
+    },
+    {
       "title": "Trump rejects Iranian ceasefire proposal, expects war to continue after midterm elections - report",
       "source": "Jerusalem Post",
       "country": "Iran",
@@ -151,18 +186,18 @@
       "published_date": "2026-09-26T03:40:46+00:00"
     },
     {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T03:22:17+00:00"
-    },
-    {
       "title": "Javier Milei y sus medidas, en vivo: “Netanyahu es uno de los mayores líderes de la historia del mundo”, afirmó el Presidente",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-netanyahu-se-reunio-con-el-presidente-en-la-onu-y-lo-definio-como-nid25092026/",
       "published_date": "2026-09-26T00:48:44+00:00"
+    },
+    {
+      "title": "Yemen’s civil war returns and overwhelms hospitals with ‘a very dangerous situation’ - NBC News",
+      "source": "Google News World",
+      "country": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpOX2Q1SjlaWl9ua2ppLU0zRTF5MVdtdU9WaUFtZE5BWk1CM0puaFp1VDhWNDZyUTRpaTlSZDNyOEx2T2hzb1d2RWxDOV9zazlReXA0N1hSRkhtT3NrUlcwb3I5Nl8tYWpJQUpMYXF6aFVjdVBkVnMyV2hJLW9pVXVsNTRHUEpoOERpbG1LMWgyTlZUUkZ5VUNYQkJoSUtmb3VEVFp5eFh4c1pESzlBVGpR?oc=5",
+      "published_date": "2026-09-26T00:38:00+00:00"
     },
     {
       "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
@@ -2704,34 +2739,6 @@
       "country": "Japan",
       "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/hideki-murai-cabinet-reshuffle/",
       "published_date": "2026-09-13T09:19:00+00:00"
-    },
-    {
-      "title": "Defence minister backs Tinubu, Sani’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/defence-minister-backs-tinubu-sanis-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-09-13T00:00:53+00:00"
-    },
-    {
-      "title": "Putin Rocked by a ‘Palace Coup’ Among His Top Henchmen - thedailybeast.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXVpR2RoNWFaRGtWQ2Q2UXc0UGlUTGIxQW1sMXpWNk0xV1JOZ3lwVWdOdlhodTR6LW5qaklwdHNvZ3plcVdVLU9najZKRnI1LWNIWWl2ZnpxenRZZS00a1U1OVhrWDgtSkRpOU1rQ0JIZF90REh2QWVfeUpkN3MyN0hER0Judm5vNWNV?oc=5",
-      "published_date": "2026-09-12T21:41:00+00:00"
-    },
-    {
-      "title": "PM Koretskyi convenes emergency meeting over intensifying Russian attacks on gas stations",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4163590-pm-koretskyi-convenes-emergency-meeting-over-intensifying-russian-attacks-on-gas-stations.html",
-      "published_date": "2026-09-12T19:32:00+00:00"
-    },
-    {
-      "title": "Houthis say liberated more than 200 prisoners in newly captured regions",
-      "source": "Middle East Eye",
-      "country": "Yemen",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-liberated-more-200-prisoners-newly-captured-regions",
-      "published_date": "2026-09-12T17:37:15+00:00"
     }
   ]
 }
