@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-27T01:08:53.622418+00:00",
-    "story_count": 383,
+    "last_updated": "2026-09-27T15:37:37.669834+00:00",
+    "story_count": 387,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran-linked social media accounts posing as Israelis to target election, investigation reveals",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/israel-election-2026/article-909863",
+      "published_date": "2026-09-27T15:13:40+00:00"
+    },
+    {
+      "title": "US rejects Iran’s claim of capturing underwater drone in Hormuz",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rejects-irans-claim-capturing-underwater-drone-hormuz",
+      "published_date": "2026-09-27T14:59:52+00:00"
+    },
+    {
+      "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+      "published_date": "2026-09-27T14:56:09+00:00"
+    },
+    {
+      "title": "Lula vs. Flávio Bolsonaro: What to know about Brazil’s election",
+      "source": "Buenos Aires Herald",
+      "country": "Brazil",
+      "url": "https://buenosairesherald.com/world/latin-america/lula-vs-flavio-bolsonaro-what-to-know-about-brazils-election",
+      "published_date": "2026-09-27T13:52:34+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-09-27T13:32:58+00:00"
+    },
+    {
+      "title": "Political rallies fill Brazil’s streets a week before elections",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+      "published_date": "2026-09-27T12:34:13+00:00"
+    },
+    {
+      "title": "Pope meets victims of sex abuse, urges ‘wise leaders’ as French election looms",
+      "source": "South China Morning Post",
+      "country": "France",
+      "url": "https://www.scmp.com/news/world/europe/article/3368943/pope-meets-victims-sex-abuse-urges-wise-leaders-french-election-looms?utm_source=rss_feed",
+      "published_date": "2026-09-27T09:16:38+00:00"
+    },
+    {
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+      "published_date": "2026-09-27T08:10:22+00:00"
+    },
+    {
+      "title": "Bangkok floods trap residents as PM Anutin cuts UK trip short to tackle crisis",
+      "source": "South China Morning Post",
+      "country": "United Kingdom",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3368937/bangkok-floods-trap-residents-pm-anutin-cuts-uk-trip-short-tackle-crisis?utm_source=rss_feed",
+      "published_date": "2026-09-27T07:37:54+00:00"
+    },
+    {
+      "title": "‘No confusion in Election Commission’: BJP MP hits back at Congress amid row",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/no-confusion-in-election-commission-bjp-mp-hits-back-at-congress-amid-row-101790476308853.html",
+      "published_date": "2026-09-27T06:42:03+00:00"
+    },
+    {
+      "title": "Hamas leader says Israel to campaign off Gaza's 'blood' in election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2033007/hamas-leader-says-israel-to-campaign-off-gazas-blood-in-election",
+      "published_date": "2026-09-27T04:52:04+00:00"
+    },
+    {
+      "title": "Hamas leader says Israel to use ‘blood’ of Palestinians as fuel for election",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3368926/hamas-leader-says-israel-use-blood-palestinians-fuel-election?utm_source=rss_feed",
+      "published_date": "2026-09-27T01:31:33+00:00"
+    },
     {
       "title": "“Ni Tarzán hablaba así”: Presidente del Colegio de Profesores critica intervención de Kast en inglés ante la ONU",
       "source": "La Tercera Chile",
@@ -107,6 +191,13 @@
       "country": "Brazil",
       "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
       "published_date": "2026-09-26T13:01:26+00:00"
+    },
+    {
+      "title": "Brazil’s Lula bans online betting as re-election race tightens - NBC News",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnFNWXJ4b0lFaml4RlF1MHVSZDNBMHJnRFd3VEhpNWdnb3Fja3dxX3lQbEkzYjFqa2RwOWRBb0lySC1DQ0c3RGRTbDg3QUJWVTIydlB3cVl2VmM3TjVKNXZTZmtmcjRkVlFZZDBzMEVjVEJhYWFOcFJkODcxa2JUX1B0T0xTeHFldy1aUzM4TnJVbm9LeGx1REJHaWVPamI5cm1mVllhYTM?oc=5",
+      "published_date": "2026-09-26T12:47:39+00:00"
     },
     {
       "title": "Brazil's President Lula bans online betting ahead of presidential election",
@@ -387,13 +478,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
       "published_date": "2026-09-24T23:43:58+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-24T23:43:54+00:00"
     },
     {
       "title": "Presidente Kast afirma que el país no tiene una elección o presión para elegir a EE.UU. o China: “Somos pro Chile”",
@@ -2512,7 +2596,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Ukraine",
+      "country": "Russia",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2683,62 +2767,6 @@
       "country": "France",
       "url": "https://www.euronews.com/my-europe/2026/09/13/le-pen-in-henin-beaumont-stronghold-for-damage-control",
       "published_date": "2026-09-13T16:09:38+00:00"
-    },
-    {
-      "title": "Trump reiterates that he sees Iran war ending after US midterm elections",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-he-sees-iran-war-ending-after-us-midterm-elections",
-      "published_date": "2026-09-13T15:17:03+00:00"
-    },
-    {
-      "title": "Polish PM Office calls emergency meeting after Russian attacks on Ukraine",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4163776-polish-pm-office-calls-emergency-meeting-after-russian-attacks-on-ukraine.html",
-      "published_date": "2026-09-13T14:55:00+00:00"
-    },
-    {
-      "title": "Netanyahu may seek broad national government after election, sources in Ben-Gvir's camp believe",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-908451",
-      "published_date": "2026-09-13T14:18:32+00:00"
-    },
-    {
-      "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/",
-      "published_date": "2026-09-13T11:56:00+00:00"
-    },
-    {
-      "title": "Brazil: Michelle Bolsonaro's key role in the presidential race",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/brazil-michelle-bolsonaro-s-key-role-in-the-presidential-race",
-      "published_date": "2026-09-13T11:08:22+00:00"
-    },
-    {
-      "title": "Netanyahu's Likud, Eisenkot’s Yashar trade leads as 2026 election picture stays unclear - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-908444",
-      "published_date": "2026-09-13T10:16:20+00:00"
-    },
-    {
-      "title": "‘This is our home’: German minorities defy far-right AfD’s culture of fear after election win",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/afd-election-saxony-anhalt-migrants-terrified-b3047919.html",
-      "published_date": "2026-09-13T09:25:20+00:00"
-    },
-    {
-      "title": "Murai likely to be named Diet affairs head in LDP exec reshuffle",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/hideki-murai-cabinet-reshuffle/",
-      "published_date": "2026-09-13T09:19:00+00:00"
     }
   ]
 }
