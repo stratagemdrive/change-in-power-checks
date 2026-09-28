@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-28T01:27:24.347147+00:00",
-    "story_count": 390,
+    "last_updated": "2026-09-28T18:33:58.877297+00:00",
+    "story_count": 392,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "2027: ADC candidates defect to APC, back Tinubu",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/09/2027-adc-candidates-defect-to-apc-back-tinubu/",
+      "published_date": "2026-09-28T18:14:47+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente habló de Patricia Bullrich y dijo: “No la subestimen”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tengo-algunos-enemigos-muy-pesados-aca-y-en-el-mundo-dijo-el-nid28092026/",
+      "published_date": "2026-09-28T18:04:59+00:00"
+    },
+    {
+      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds",
+      "published_date": "2026-09-28T16:55:29+00:00"
+    },
+    {
+      "title": "Likud election candidate Bonzel says he wishes former hostage were 'returned to Hamas,' apologizes",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-909988",
+      "published_date": "2026-09-28T16:40:27+00:00"
+    },
+    {
+      "title": "EU sanctions 10 Russian judges, prosecutors, and officials over opposition party Yabloko’s exclusion from parliamentary elections. A North Korean children’s camp is also added to the sanctions list.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/28/eu-sanctions-10-russian-judges-prosecutors-and-officials-over-opposition-party-yabloko-s-exclusion-from-parliamentary-elections-a-north-korean-children-s-camp-is-also-added-to-the-sanctions-list",
+      "published_date": "2026-09-28T16:34:24+00:00"
+    },
+    {
+      "title": "Rights group says Russian elections expert Alexander Kynev was beaten during arrest, hospitalized with two lower-leg fractures",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/28/rights-group-says-russian-elections-expert-alexander-kynev-was-beaten-during-arrest-hospitalized-with-two-lower-leg-fractures",
+      "published_date": "2026-09-28T16:12:48+00:00"
+    },
+    {
+      "title": "Iran supreme leader says US will be forced out of Middle East",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-says-us-will-be-forced-out-middle-east",
+      "published_date": "2026-09-28T15:41:25+00:00"
+    },
+    {
+      "title": "“Bravo Milei”: Elon Musk elogia al presidente argentino por baja de la inflación",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/pulso/noticia/bravo-milei-elon-musk-elogia-al-presidente-argentino-por-baja-de-la-inflacion/",
+      "published_date": "2026-09-28T15:11:41+00:00"
+    },
+    {
+      "title": "What Marine Le Pen’s senate wins mean for the far-right in France’s presidential elections",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/france-marine-le-pen-far-right-national-rally-elections-senate-b3057370.html",
+      "published_date": "2026-09-28T15:06:34+00:00"
+    },
+    {
+      "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
+      "source": "Deutsche Welle English",
+      "country": "India",
+      "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-09-28T14:18:00+00:00"
+    },
+    {
+      "title": "French Senate elections: What next after far right surge?",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20260928-french-senate-elections-what-next-after-far-right-surge",
+      "published_date": "2026-09-28T14:14:26+00:00"
+    },
+    {
+      "title": "Azerbaijani politicians and journalists in exile hold opposition congress in France",
+      "source": "OC Media Caucasus",
+      "country": "France",
+      "url": "https://oc-media.org/azerbaijani-politicians-and-journalists-in-exile-hold-opposition-congress-in-france/",
+      "published_date": "2026-09-28T14:04:59+00:00"
+    },
+    {
+      "title": "Xi Jinping demands ‘safer’ China as Communist Party prepares for leadership reshuffle",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/politics/article/3369101/xi-jinping-demands-safer-china-communist-party-prepares-leadership-reshuffle?utm_source=rss_feed",
+      "published_date": "2026-09-28T13:30:27+00:00"
+    },
+    {
+      "title": "Far right scores historic victory in French Senate election - politico.eu",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0VNN3BEOGwtOWhBaEhHNVQ4Z2NyN2xySGdkVGN6b1Y1MS1ld1pKT1Z1aU5EVkNaNjZmQWVoMVdHQjhjS04ydWx1ZzI2cmlkZnh1cG1SY1lCbEdTTVhDclNxZmpvVTRsaVNMaWIydW9tZExzNHFCY1VjTkdCWTlVc2kxSDR4bWxqSkFtN2FWUWYzRDR5QWF3?oc=5",
+      "published_date": "2026-09-28T10:05:00+00:00"
+    },
+    {
+      "title": "When India's first Chief Election Commissioner Sukumar Sen deleted lakhs of women from voter rolls",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/why-indias-first-chief-election-commissioner-sukumar-sen-deleted-lakhs-of-women-from-voter-rolls-cec-gyanesh-kumar-101790571053386.html",
+      "published_date": "2026-09-28T07:31:41+00:00"
+    },
+    {
+      "title": "Echoing Putin, Serbia’s president resigns in bid to become prime minister",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3369018/echoing-putin-serbias-president-resigns-bid-become-prime-minister?utm_source=rss_feed",
+      "published_date": "2026-09-28T05:15:14+00:00"
+    },
     {
       "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report",
       "source": "Jerusalem Post",
@@ -2652,7 +2764,7 @@
     {
       "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
       "source": "NK News",
-      "country": "Russia",
+      "country": "Ukraine",
       "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
       "published_date": "2026-09-15T04:10:58+00:00"
     },
@@ -2690,104 +2802,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/14/navalny-s-anti-corruption-foundation-and-exiled-opposition-politician-maxim-katz-spent-years-feuding-now-they-ve-joined-forces-to-coordinate-efforts-to-vote-against-russia-s-ruling-party",
       "published_date": "2026-09-14T19:04:30+00:00"
-    },
-    {
-      "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
-      "published_date": "2026-09-14T17:04:56+00:00"
-    },
-    {
-      "title": "PLO moves forward with plans to restructure of the Palestinian National Council ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/middle-east/article-908549",
-      "published_date": "2026-09-14T16:42:23+00:00"
-    },
-    {
-      "title": "Presidente Kast encabeza anuncio de Coca-Cola: $720 mil millones de inversión y 500 empleos para jóvenes",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/sociales/noticia/presidente-kast-encabeza-anuncio-de-coca-cola-720-mil-millones-de-inversion-y-500-empleos-para-jovenes/",
-      "published_date": "2026-09-14T15:18:07+00:00"
-    },
-    {
-      "title": "Russia’s election outcome is all but predetermined. But does a protest vote still matter?",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/14/russia-s-election-outcome-is-all-but-predetermined-but-does-a-protest-vote-still-matter",
-      "published_date": "2026-09-14T14:21:01+00:00"
-    },
-    {
-      "title": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20260914-french-2027-presidential-elections-why-gen-z-has-mobilised-for-m%C3%A9lenchon",
-      "published_date": "2026-09-14T13:05:26+00:00"
-    },
-    {
-      "title": "“Más allá de ciertos planteamientos, yo no he tenido diferencias con él”: Presidente Kast por embajador Judd",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/mas-alla-de-ciertos-planteamientos-yo-no-he-tenido-diferencias-con-el-presidente-kast-por-embajador-judd/",
-      "published_date": "2026-09-14T13:00:16+00:00"
-    },
-    {
-      "title": "Presidente Kast ratifica Presupuesto 2027 austero y que gasto público no crecerá más de 1%: “Hay que ser realistas”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-ratifica-presupuesto-2027-austero-y-que-gasto-publico-no-crecera-mas-de-1-hay-que-ser-realistas/",
-      "published_date": "2026-09-14T12:24:33+00:00"
-    },
-    {
-      "title": "Thousands rally in support of Brazil's Lula as election campaigning heats up",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20260914-thousands-rally-in-support-of-brazil-s-lula-as-election-campaigning-heats-up",
-      "published_date": "2026-09-14T10:59:53+00:00"
-    },
-    {
-      "title": "Lula, Bolsonaro neck-and-neck in Brazil runoff polls ahead of election - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0dWQkRlSGIxRjRNbWFQWkJBTWVzY3RfQ0lvNFNtdVR0TlRvTkpWdFY1MnVmVGhTdWl5WXNIWklQQWxndE5yMlRMUzJ0RTNmQjR2eXRMSl8tTEJYTGpZMlBKN1BFTjhRYmh3SWJJX1JvcFRYUFREbEw5SjhzaEhCcVBlVHdLb3A0ZElrS0owNzRmaG10VEk0V1V6TlhfY01Cd0QtS2FkcThtZElnTVhZYndR?oc=5",
-      "published_date": "2026-09-14T10:40:00+00:00"
-    },
-    {
-      "title": "Pay to ghost your boss: Japan's resignation business",
-      "source": "Deutsche Welle English",
-      "country": "Japan",
-      "url": "https://www.dw.com/en/pay-to-ghost-your-boss-japan-s-resignation-business/a-79213584?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-09-14T10:36:00+00:00"
-    },
-    {
-      "title": "Murai likely to be named Diet affairs head in LDP exec reshuffle",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/14/japan/politics/hideki-murai-cabinet-reshuffle/",
-      "published_date": "2026-09-14T08:33:00+00:00"
-    },
-    {
-      "title": "'Saquearon al país': Presidente Abelardo De La Espriella anuncia medidas económicas de urgencia y señala a Gustavo Petro de grave estado financiero",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/saquearon-al-pais-presidente-de-la-espriella-anuncia-medidas-economicas-de-urgencia-y-senala-a-gustavo-petro-de-grave-estado-financiero-3585782",
-      "published_date": "2026-09-14T05:01:00+00:00"
-    },
-    {
-      "title": "South Korean president’s cabinet reshuffle hits new snag as gender minister nominee quits",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3367394/south-korean-presidents-cabinet-reshuffle-hits-new-snag-gender-minister-nominee-quits?utm_source=rss_feed",
-      "published_date": "2026-09-14T04:33:36+00:00"
-    },
-    {
-      "title": "French extreme candidates steam ahead in 2027 presidential race, poll shows - Reuters",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNmWngyTU42TUVWT2padmJfQ0xjRnNacVhIdFhGX205a3RKcU5oQkNoYm9JU2xoVFFoTURNTlc1WUNZUk9fSlFJbTNWdElOY0pNRk9BZDItcHdJQThGTFNWUERCNl9KcUpvT0F1bDF6ZWhwQ3NKWmI5VW11dHRYMElFRmg0cU1iQXc0Y2RhRVdHLURCUEVabWdOWkNCbkl3NW1lZXdZUEFHdGRnU2t4YVlKZw?oc=5",
-      "published_date": "2026-09-14T03:05:00+00:00"
     }
   ]
 }
