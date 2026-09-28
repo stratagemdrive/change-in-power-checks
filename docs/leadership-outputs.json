@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-27T15:37:37.669834+00:00",
-    "story_count": 387,
+    "last_updated": "2026-09-28T01:27:24.347147+00:00",
+    "story_count": 390,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909906",
+      "published_date": "2026-09-27T23:48:50+00:00"
+    },
+    {
+      "title": "Venezuelans rally to demand opposition leader’s safe return and presidential elections",
+      "source": "South China Morning Post",
+      "country": "Venezuela",
+      "url": "https://www.scmp.com/news/world/americas/article/3368985/venezuelans-rally-demand-opposition-leaders-safe-return-and-presidential-elections?utm_source=rss_feed",
+      "published_date": "2026-09-27T23:45:37+00:00"
+    },
+    {
+      "title": "France's far right gains ground in indirect Senate elections",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
+      "published_date": "2026-09-27T19:34:30+00:00"
+    },
+    {
+      "title": "Raúl Soto (PPD) critica adhesión a Escudo de las Américas: “Al Presidente Kast le ha faltado coraje y patriotismo”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/raul-soto-ppd-critica-adhesion-a-escudo-de-las-americas-al-presidente-kast-le-ha-faltado-coraje-y-patriotismo/",
+      "published_date": "2026-09-27T17:42:28+00:00"
+    },
+    {
+      "title": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece",
+      "published_date": "2026-09-27T17:26:46+00:00"
+    },
+    {
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "source": "BBC World",
+      "country": "Venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-27T15:56:25+00:00"
+    },
     {
       "title": "Iran-linked social media accounts posing as Israelis to target election, investigation reveals",
       "source": "Jerusalem Post",
@@ -79,6 +121,13 @@
       "country": "United Kingdom",
       "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
       "published_date": "2026-09-27T14:56:09+00:00"
+    },
+    {
+      "title": "“Histórica participación”: el mensaje del Presidente Kast tras la actuación del Team Chile en los Juegos Suramericanos",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/el-deportivo/noticia/historica-participacion-el-mensaje-del-presidente-kast-tras-la-actuacion-del-team-chile-en-los-juegos-suramericanos/",
+      "published_date": "2026-09-27T14:29:07+00:00"
     },
     {
       "title": "Lula vs. Flávio Bolsonaro: What to know about Brazil’s election",
@@ -162,6 +211,13 @@
       "source": "BBC World",
       "country": "Brazil",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T15:46:40+00:00"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election - BBC",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTFJtWFctRlZBejFEOTU3cG5XZU8ydUotOV85azV4eXhVSmFzYUw5aU5WZTl3Q1p1QWpMV25DUnZEV1RtajhaZ041Y2tXYVNrRXAydG5JT0REOEE?oc=5",
       "published_date": "2026-09-26T15:46:40+00:00"
     },
     {
@@ -2732,41 +2788,6 @@
       "country": "France",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNmWngyTU42TUVWT2padmJfQ0xjRnNacVhIdFhGX205a3RKcU5oQkNoYm9JU2xoVFFoTURNTlc1WUNZUk9fSlFJbTNWdElOY0pNRk9BZDItcHdJQThGTFNWUERCNl9KcUpvT0F1bDF6ZWhwQ3NKWmI5VW11dHRYMElFRmg0cU1iQXc0Y2RhRVdHLURCUEVabWdOWkNCbkl3NW1lZXdZUEFHdGRnU2t4YVlKZw?oc=5",
       "published_date": "2026-09-14T03:05:00+00:00"
-    },
-    {
-      "title": "Russia’s dominant security agency, the FSB, is reportedly preparing for a leadership shake-up and major overhaul as early as October",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/14/russia-s-dominant-security-agency-the-fsb-is-reportedly-preparing-for-a-leadership-shake-up-and-major-overhaul-as-early-as-october",
-      "published_date": "2026-09-13T23:29:31+00:00"
-    },
-    {
-      "title": "Okinawa election win may give Tokyo freer hand on military build-up - Reuters",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdm1vbHFDZjQtdkR6ZTdqOHNyb3dGM0RPN2FDWlBrZGJVTXZTZU03bHZFVkZ0RjhscUFXRDFza244R0l3T2NfMUVYSkdral8wYmlCdmg0d3hVYjllSHVoLVBxZl9DemNXNGdKUFEtUUk0cnNKeUx6TjRNVl9nb1NTSUZFYU05blpMcWRucy1lSmNtb2J0Y0ZfbEtnMFdzRVBJTjhjUHk0Z1ZOZXpIN1Z5WFl3?oc=5",
-      "published_date": "2026-09-13T23:25:00+00:00"
-    },
-    {
-      "title": "Presidente De La Espriella anuncia acuerdo con Chile para que colombianos homologuen competencias profesionales en ese país: estos son los oficios",
-      "source": "El Tiempo Colombia",
-      "country": "Chile",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-acuerdo-con-chile-para-que-colombianos-homologuen-competencias-profesionales-en-ese-pais-estos-son-los-oficios-3585713",
-      "published_date": "2026-09-13T21:46:48+00:00"
-    },
-    {
-      "title": "French must come first, far-right leader Le Pen says at election campaign launch",
-      "source": "South China Morning Post",
-      "country": "France",
-      "url": "https://www.scmp.com/news/world/europe/article/3367368/french-must-come-first-far-right-leader-le-pen-says-election-campaign-launch?utm_source=rss_feed",
-      "published_date": "2026-09-13T16:29:13+00:00"
-    },
-    {
-      "title": "Le Pen kicks off presidential election campaign amid party tensions",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/my-europe/2026/09/13/le-pen-in-henin-beaumont-stronghold-for-damage-control",
-      "published_date": "2026-09-13T16:09:38+00:00"
     }
   ]
 }
