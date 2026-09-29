@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-29T02:34:15.463765+00:00",
-    "story_count": 390,
+    "last_updated": "2026-09-29T16:54:31.301933+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "CWC demands resignations of PM Modi, Shah over ‘vote chori’",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kharge-demands-modi-resignation-cec-gyanesh-kumar-removal-cwc-meet/article71522992.ece",
+      "published_date": "2026-09-29T16:29:07+00:00"
+    },
+    {
+      "title": "Presidente Kast asiste a funeral de carabinero fallecido tras operativo en Lo Espejo",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-asiste-a-funeral-de-carabinero-fallecido-tras-operativo-en-lo-espejo/",
+      "published_date": "2026-09-29T15:54:07+00:00"
+    },
+    {
+      "title": "“¿Por qué comprarte a vos y no traerla de China?”: la advertencia del presidente de Ford Sudamérica sobre los autos en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "China",
+      "url": "https://www.lanacion.com.ar/autos/por-que-comprarte-a-vos-y-no-traerla-de-china-la-advertencia-del-maximo-ejecutivo-de-ford-sobre-los-nid29092026/",
+      "published_date": "2026-09-29T15:50:20+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente insistió en la eliminación de las PASO y dijo que son “inmorales”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-insistio-en-la-eliminacion-de-las-paso-y-dijo-que-nid29092026/",
+      "published_date": "2026-09-29T15:45:11+00:00"
+    },
+    {
+      "title": "Russia steps up VPN blocking after parliamentary elections. Ten services report tighter restrictions in a single week.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/29/russia-steps-up-vpn-blocking-after-parliamentary-elections-ten-services-report-tighter-restrictions-in-a-single-week",
+      "published_date": "2026-09-29T15:27:37+00:00"
+    },
+    {
+      "title": "WATCH: 'Don't mess with us': Netanyahu warns enemies may attack Israel ahead of election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910076",
+      "published_date": "2026-09-29T15:02:34+00:00"
+    },
+    {
+      "title": "‘This needs to be looked into’: Communist party leader asks Putin to check election results in North Caucasus",
+      "source": "OC Media Caucasus",
+      "country": "Russia",
+      "url": "https://oc-media.org/this-needs-to-be-looked-into-communist-party-leader-asks-putin-to-check-election-results-in-north-caucasus/",
+      "published_date": "2026-09-29T14:13:34+00:00"
+    },
+    {
+      "title": "Presidente Kast blinda al canciller tras su tensa interpelación en el Congreso: “Tuvo una muy buena presentación”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-blinda-al-canciller-tras-su-tensa-interpelacion-en-el-congreso-tuvo-una-muy-buena-presentacion/",
+      "published_date": "2026-09-29T14:05:35+00:00"
+    },
+    {
+      "title": "Armenia’s ruling party wins municipal elections uncontested",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenias-ruling-party-wins-municipal-elections-uncontested/",
+      "published_date": "2026-09-29T13:08:15+00:00"
+    },
+    {
+      "title": "Presidente Kast anuncia extensión de bonos por alza de las bencinas: “Pensábamos que la guerra iba a durar poco”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-anuncia-extension-de-bonos-por-alza-de-las-bencinas-pensabamos-que-la-guerra-iba-a-durar-poco/",
+      "published_date": "2026-09-29T13:07:06+00:00"
+    },
+    {
+      "title": "Britain’s PM is on a ‘Burnham bounce.’ When will he fall to earth?",
+      "source": "Egypt Independent",
+      "country": "United Kingdom",
+      "url": "https://www.egyptindependent.com/britains-pm-is-on-a-burnham-bounce-when-will-he-fall-to-earth/",
+      "published_date": "2026-09-29T12:39:53+00:00"
+    },
+    {
+      "title": "Turkey’s $17bn fund scandal becomes a political crisis for Erdogan",
+      "source": "Middle East Eye",
+      "country": "Turkey",
+      "url": "https://www.middleeasteye.net/news/turkeys-17bn-fund-scandal-becomes-political-crisis-erdogan",
+      "published_date": "2026-09-29T11:47:42+00:00"
+    },
+    {
+      "title": "Brazil's countdown to election day: Crime and security high on voters' agenda",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda",
+      "published_date": "2026-09-29T11:33:58+00:00"
+    },
+    {
+      "title": "What Marine Le Pen’s senate wins mean for the far-right in France’s presidential elections",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/france-marine-le-pen-far-right-national-rally-elections-senate-b3057370.html",
+      "published_date": "2026-09-29T11:26:59+00:00"
+    },
+    {
+      "title": "The True Meaning of Russia’s Sham Election",
+      "source": "Foreign Policy",
+      "country": "Russia",
+      "url": "https://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/",
+      "published_date": "2026-09-29T09:56:56+00:00"
+    },
+    {
+      "title": "Lula e Janja exploram fake news sobre Nossa Senhora, e presidente ataca igreja por elo com Vorcaro",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml",
+      "published_date": "2026-09-29T02:43:00+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: el Presidente habló de Patricia Bullrich y dijo: “No la subestimen”",
       "source": "La Nacion Argentina",
@@ -135,13 +247,6 @@
       "country": "Argentina",
       "url": "https://www.latercera.com/pulso/noticia/bravo-milei-elon-musk-elogia-al-presidente-argentino-por-baja-de-la-inflacion/",
       "published_date": "2026-09-28T15:11:41+00:00"
-    },
-    {
-      "title": "What Marine Le Pen’s senate wins mean for the far-right in France’s presidential elections",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/france-marine-le-pen-far-right-national-rally-elections-senate-b3057370.html",
-      "published_date": "2026-09-28T15:06:34+00:00"
     },
     {
       "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
@@ -2739,55 +2844,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-meets-congress-secretaries-ahead-of-reshuffle-buzz-101789491204871.html",
       "published_date": "2026-09-15T16:53:24+00:00"
-    },
-    {
-      "title": "INEC to Nigerians: 2027 election outcome will reflect your will",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/inec-to-nigerians-2027-election-outcome-will-reflect-your-will/",
-      "published_date": "2026-09-15T14:47:15+00:00"
-    },
-    {
-      "title": "Brazil’s Election Won’t Fix Its Biggest Problems",
-      "source": "Foreign Policy",
-      "country": "Brazil",
-      "url": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt/",
-      "published_date": "2026-09-15T14:43:42+00:00"
-    },
-    {
-      "title": "Assam: AIUDF chief Badruddin Ajmal to contest Nagaon Lok Sabha by-election",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/assam-aiudf-chief-badruddin-ajmal-to-contest-nagaon-lok-sabha-byelection-101789476201905.html",
-      "published_date": "2026-09-15T12:43:21+00:00"
-    },
-    {
-      "title": "ANALYSIS: Credible elections are no longer possible in South Sudan – what next?",
-      "source": "Premium Times Nigeria",
-      "country": "Sudan",
-      "url": "https://www.premiumtimesng.com/news/headlines/909703-analysis-credible-elections-are-no-longer-possible-in-south-sudan-what-next.html",
-      "published_date": "2026-09-15T12:11:14+00:00"
-    },
-    {
-      "title": "Dozens of Myanmar junta POWs escape detention in Chin State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/dozens-of-myanmar-junta-pows-escape-detention-in-chin-state/",
-      "published_date": "2026-09-15T11:06:17+00:00"
-    },
-    {
-      "title": "Alberta NDP wins by-election in longtime Conservative riding",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-ndp-wins-by-election-in-longtime-conservative-riding/",
-      "published_date": "2026-09-15T09:24:45+00:00"
-    },
-    {
-      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
-      "source": "NK News",
-      "country": "Ukraine",
-      "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
-      "published_date": "2026-09-15T04:10:58+00:00"
     }
   ]
 }
