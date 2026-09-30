@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-29T16:54:31.301933+00:00",
-    "story_count": 398,
+    "last_updated": "2026-09-30T01:54:12.373714+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei, en VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de su viaje a París",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-insistio-en-la-eliminacion-de-las-paso-y-dijo-que-nid29092026/",
+      "published_date": "2026-09-30T00:45:19+00:00"
+    },
+    {
+      "title": "Presidente De La Espriella despachó desde Casa de Nariño: se reunió con el contralor Jorge Eliécer Laverde y el canciller Omar Bula",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-de-la-espriella-despacho-desde-casa-de-narino-se-reunio-con-el-contralor-jorge-eliecer-laverde-y-el-canciller-omar-bula-3589992",
+      "published_date": "2026-09-29T23:58:41+00:00"
+    },
+    {
+      "title": "Lapid: No need for public panic, despite Netanyahu's claims of possible pre-election attack",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910125",
+      "published_date": "2026-09-29T23:53:47+00:00"
+    },
+    {
+      "title": "Yekaterina Schulmann says Russian election expert Alexander Kynev’s leg was broken while he was being pressured to confess to treason",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/30/yekaterina-schulmann-says-russian-election-expert-alexander-kynev-s-leg-was-broken-while-he-was-being-pressured-to-confess-to-treason",
+      "published_date": "2026-09-29T21:30:42+00:00"
+    },
+    {
+      "title": "Morocco names first female prime minister after historic election victory",
+      "source": "Sky News World",
+      "country": "Morocco",
+      "url": "https://news.sky.com/story/morocco-names-fatima-ezzahra-el-mansouri-as-first-female-prime-minister-after-historic-election-victory-13593473",
+      "published_date": "2026-09-29T21:07:00+00:00"
+    },
+    {
+      "title": "Morocco's king appoints first woman prime minister following election - reuters.com",
+      "source": "Google News World",
+      "country": "Morocco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW1pZ1hkUzRiU3k3UTFjenJBS1FDSHhDV21HbUJKc1dHVjJaeEFKT3d0SEI4VGtxVVVma2gzbkgtRFdtRnRtLWZGdUs2LS12X1JWQ0lpUTBuVXhYbDdNS3hpWTFfZzJXdnl6d2RObXRfS0JLb2t5T3p5RGNCZ212OUg0bUZWYnBvVVh2bF9XZkJkcWRVTXRxN1hZa3RPenNwWmQ0R19CUDlaVFBfMXFmamVWNA?oc=5",
+      "published_date": "2026-09-29T19:57:43+00:00"
+    },
+    {
+      "title": "Reports that Netanyahu ignored Oct. 7 warnings dominate Israeli election - The Washington Post",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEo0ZHZWUUNKUWlodVpXSGhObG4wTlFVUDhDeFU2eU9jUG4xSXBEbTU2TjVLcllhSlVoTk5CeV82cThOSGw5SmVhVklLbkhtbU5XS1pnYXI3a045UTZJWnhNN1Zrd0FIUm4tVzdPTU56d0dqM1hQSWJzRHNkandMYWN0Qlp2MDlVanBGZzBjbW9SWjNaM3RNMFBuZzR4M3RPRHNZYTRhOTNkVHMtUzJyXzBxYnRyeS1HcXpXVg?oc=5",
+      "published_date": "2026-09-29T19:53:25+00:00"
+    },
+    {
+      "title": "Lula cita notícia falsa e diz que, enquanto for presidente, Nossa Senhora será padroeira",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml",
+      "published_date": "2026-09-29T17:59:00+00:00"
+    },
+    {
+      "title": "First female prime minister named in Morocco after winning elections",
+      "source": "BBC World",
+      "country": "Morocco",
+      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T17:14:10+00:00"
+    },
+    {
+      "title": "Russian opposition party leader is cited for ‘petty hooliganism’ after writing pro-peace, pro-ceasefire statements on his election ballot",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/29/russian-opposition-party-leader-is-cited-for-petty-hooliganism-after-writing-pro-peace-pro-ceasefire-statements-on-his-election-ballot",
+      "published_date": "2026-09-29T16:52:11+00:00"
+    },
     {
       "title": "CWC demands resignations of PM Modi, Shah over ‘vote chori’",
       "source": "The Hindu Politics",
@@ -79,13 +149,6 @@
       "country": "China",
       "url": "https://www.lanacion.com.ar/autos/por-que-comprarte-a-vos-y-no-traerla-de-china-la-advertencia-del-maximo-ejecutivo-de-ford-sobre-los-nid29092026/",
       "published_date": "2026-09-29T15:50:20+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente insistió en la eliminación de las PASO y dijo que son “inmorales”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-insistio-en-la-eliminacion-de-las-paso-y-dijo-que-nid29092026/",
-      "published_date": "2026-09-29T15:45:11+00:00"
     },
     {
       "title": "Russia steps up VPN blocking after parliamentary elections. Ten services report tighter restrictions in a single week.",
@@ -205,6 +268,13 @@
       "country": "Nigeria",
       "url": "https://www.vanguardngr.com/2026/09/2027-adc-candidates-defect-to-apc-back-tinubu/",
       "published_date": "2026-09-28T18:14:47+00:00"
+    },
+    {
+      "title": "Vučić’ Resigns, Informs Putin of Decision - Kyiv Post",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5td0NvRDhtUm5aRHRtYi04Zy1kQzhLTEJYVjVaVzI2enlwQm0wdDdockhybDVHMjV2Q0hQbm05bnlyNkwtWFB0SmI0TQ?oc=5",
+      "published_date": "2026-09-28T17:00:25+00:00"
     },
     {
       "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
@@ -2760,90 +2830,6 @@
       "country": "Japan",
       "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
       "published_date": "2026-09-16T06:55:00+00:00"
-    },
-    {
-      "title": "Japan’s Takaichi to opt for stability in first reshuffle since taking over LDP",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3367650/japans-takaichi-opt-stability-first-reshuffle-taking-over-ldp?utm_source=rss_feed",
-      "published_date": "2026-09-16T00:51:20+00:00"
-    },
-    {
-      "title": "2027: Yari rallies traditional rulers behind Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-yari-rallies-traditional-rulers-behind-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-09-16T00:22:57+00:00"
-    },
-    {
-      "title": "Kast se reúne con presidente ejecutivo del CAF y anuncian agenda de inversión en Chile de US$ 6.000 millones",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/kast-se-reune-con-presidente-ejecutivo-del-caf-y-anuncian-agenda-de-inversion-en-chile-de-us-6-mil-millones/",
-      "published_date": "2026-09-15T22:40:53+00:00"
-    },
-    {
-      "title": "PFLP-linked New Zealand party running on Palestine platform enters election, sparking concern",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-908712",
-      "published_date": "2026-09-15T21:03:15+00:00"
-    },
-    {
-      "title": "Alberta NDP net upset win in by-election",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/alberta/video-alberta-ndp-net-upset-win-in-by-election/",
-      "published_date": "2026-09-15T20:53:25+00:00"
-    },
-    {
-      "title": "Russia stages early voting in occupied Ukraine ahead of national election",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "https://www.euronews.com/video/2026/09/15/russia-stages-early-voting-in-occupied-ukraine-ahead-of-national-election",
-      "published_date": "2026-09-15T19:38:21+00:00"
-    },
-    {
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "published_date": "2026-09-15T19:14:00+00:00"
-    },
-    {
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election - The Guardian",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0o0WHQxTVg2SS0xQXRZUE1fd1JRb3hlTWN0VEF0bk5IZVBXYS1xeXRtS2MyUHpfQm8zWW9LOHA5RGxuOHFzN1otZDM1UmwwcW8zQUkxSmpWZGkxRll1bDMtY3AtOUlvTFRCbzB5amlsYjBIbWFnUXNVNTVuX0dtUzNsSW5vVTZ4U2tXQm5GNS1DUQ?oc=5",
-      "published_date": "2026-09-15T19:14:00+00:00"
-    },
-    {
-      "title": "2027: Nigerians react to bishops’ endorsement of Tinubu’s re-election bid",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/headlines/909859-2027-nigerians-react-to-bishops-endorsement-of-tinubus-re-election-bid.html",
-      "published_date": "2026-09-15T18:37:47+00:00"
-    },
-    {
-      "title": "Putin lost at some overseas polling stations in 2024. Here’s how Russians abroad can vote in this weekend’s State Duma elections.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/15/putin-lost-at-some-overseas-polling-stations-in-2024-here-s-how-russians-abroad-can-vote-in-this-weekend-s-state-duma-elections",
-      "published_date": "2026-09-15T18:19:11+00:00"
-    },
-    {
-      "title": "St. Petersburg election officials from Russia’s antiwar Yabloko party were ordered to report to military offices at 9 a.m. on the first day of voting — exactly when polls are scheduled to open",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/15/st-petersburg-election-officials-from-russia-s-antiwar-yabloko-party-were-ordered-to-report-to-military-offices-at-9-a-m-on-the-first-day-of-voting-exactly-when-polls-are-scheduled-to-open",
-      "published_date": "2026-09-15T16:59:18+00:00"
-    },
-    {
-      "title": "Rahul Gandhi meets Congress secretaries ahead of reshuffle buzz",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-meets-congress-secretaries-ahead-of-reshuffle-buzz-101789491204871.html",
-      "published_date": "2026-09-15T16:53:24+00:00"
     }
   ]
 }
