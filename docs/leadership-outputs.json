@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-30T01:54:12.373714+00:00",
-    "story_count": 396,
+    "last_updated": "2026-09-30T16:47:38.396991+00:00",
+    "story_count": 400,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de partir a París",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
+      "published_date": "2026-09-30T16:40:00+00:00"
+    },
+    {
+      "title": "Vyacheslav Volodin reelected speaker of the State Duma, Russia’s lower house, for third consecutive term",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/30/vyacheslav-volodin-reelected-speaker-of-the-state-duma-russia-s-lower-house-for-third-consecutive-term",
+      "published_date": "2026-09-30T16:38:53+00:00"
+    },
+    {
+      "title": "CEC has lifelong immunity for helping Modi govt. steal elections: Rahul",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/cec-has-lifelong-immunity-for-helping-modi-govt-steal-elections-rahul/article71529543.ece",
+      "published_date": "2026-09-30T16:14:39+00:00"
+    },
+    {
+      "title": "Emergency power outages introduced in Kyiv and three regions",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4169729-emergency-power-outages-introduced-in-kyiv-and-three-regions.html",
+      "published_date": "2026-09-30T15:57:00+00:00"
+    },
+    {
+      "title": "‘Plínio Trump’ channels President Donald Trump as protest candidate in Brazil election",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/plinio-trump-brazil-joke-candidates-barack-obama-b3059195.html",
+      "published_date": "2026-09-30T15:55:52+00:00"
+    },
+    {
+      "title": "Russian opposition party Yabloko’s leader urges Interior Ministry to investigate alleged torture of political scientist Alexander Kynev",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/09/30/russian-opposition-party-yabloko-s-leader-urges-interior-ministry-to-investigate-alleged-torture-of-political-scientist-alexander-kynev",
+      "published_date": "2026-09-30T15:45:41+00:00"
+    },
+    {
+      "title": "Lula Bets Big on Defense Ahead of Election",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industrial-policy-economy-trump/",
+      "published_date": "2026-09-30T15:34:09+00:00"
+    },
+    {
+      "title": "Russia ramps up disinformation attacks on French media ahead of 2027 Presidential race",
+      "source": "France 24 English",
+      "country": "Russia",
+      "url": "https://www.france24.com/en/france/20260930-russia-ramps-up-disinformation-attacks-on-french-media-ahead-of-2027-presidential-race",
+      "published_date": "2026-09-30T15:29:40+00:00"
+    },
+    {
+      "title": "2027: Uzodimma deploys grassroots team to mobilise support for Tinubu’s re-election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/more-news/913563-2027-uzodimma-deploys-grassroots-team-to-mobilise-support-for-tinubus-re-election.html",
+      "published_date": "2026-09-30T14:40:09+00:00"
+    },
+    {
+      "title": "Mohammed Dahlan's faction to run with Hamas and Islamic Jihad on list for legislative elections",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mohammed-dahlans-faction-run-hamas-and-islamic-jihad-list-legislative",
+      "published_date": "2026-09-30T14:18:44+00:00"
+    },
+    {
+      "title": "Komeito selects former party policy chief Okamoto as new leader",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/komeito-okamoto-leader/",
+      "published_date": "2026-09-30T12:33:00+00:00"
+    },
+    {
+      "title": "INDIA bloc demands paper ballots, targets CEC and PM Modi over voter roll row",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-bloc-demands-paper-ballots-targets-cec-and-pm-modi-over-voter-roll-row-101790766405012.html",
+      "published_date": "2026-09-30T11:06:44+00:00"
+    },
+    {
+      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
+      "published_date": "2026-09-30T11:03:01+00:00"
+    },
+    {
+      "title": "Nigeria’s ex-Head of State used for hospital advert in India",
+      "source": "Premium Times Nigeria",
+      "country": "India",
+      "url": "https://www.premiumtimesng.com/health/health-news/913523-nigerias-ex-head-of-state-used-for-hospital-advert-in-india.html",
+      "published_date": "2026-09-30T10:41:43+00:00"
+    },
+    {
+      "title": "El primer ministro de Qatar tilda de “criminal de guerra” a Netanyahu por cometer un “genocidio” en Gaza",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/el-primer-ministro-de-qatar-tilda-de-criminal-de-guerra-a-netanyahu-por-cometer-un-genocidio-en-gaza/",
+      "published_date": "2026-09-30T10:41:14+00:00"
+    },
+    {
+      "title": "Burnham says Britain could rejoin the EU after next election",
+      "source": "Japan Times",
+      "country": "United Kingdom",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/world/burnham-britain-eu-rejoin/",
+      "published_date": "2026-09-30T09:01:00+00:00"
+    },
+    {
+      "title": "Referendum or not, the PQ will break up Carney’s federal-provincial consensus",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-parti-quebecois-will-break-up-carneys-federal-provincial-consensus/",
+      "published_date": "2026-09-30T09:00:00+00:00"
+    },
+    {
+      "title": "Risk of Ukraine missing out on $29.5B in partner funding unless parliament passes necessary laws",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4169513-risk-of-ukraine-missing-out-on-295b-in-partner-funding-unless-parliament-passes-necessary-laws.html",
+      "published_date": "2026-09-30T08:34:00+00:00"
+    },
+    {
+      "title": "As Takaichi cites lack of sleep, report offers ways to ease burden on Japan PMs",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/politics/prime-minister-time-management-report/",
+      "published_date": "2026-09-30T05:38:00+00:00"
+    },
+    {
+      "title": "Why is South Korea unhappy with Ukraine over two captured North Korean soldiers? - The Independent",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3hEMTkwX1B4dDU3R0VObHJnSTlOcTRITVM3MmVUZHdSYVppTk1vUWhIaHZ3Wnd2S3N1U19ha3JXdHZISHUwLXVhLXZSUEdGN2tNeEhIX2xwNS1jalNlLThVODlUWm9Ba1hHdVpvZ3VsWXFFeHV0b0lBTHB5TWNyM3NCWTZhcXlVbWNselZlaUN2eVpQRlpWZXBPQ3RHV19ueVNBSHhYa1YwQQ?oc=5",
+      "published_date": "2026-09-30T04:13:00+00:00"
+    },
     {
       "title": "Javier Milei, en VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de su viaje a París",
       "source": "La Nacion Argentina",
@@ -163,6 +303,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/defense-news/article-910076",
       "published_date": "2026-09-29T15:02:34+00:00"
+    },
+    {
+      "title": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit - France 24",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1FwbzdhMDdTeURwMklsVFVrMUpEdHVwem1XYVg3SG9MV0MzSFN4NWJEdFR4SEROVUhhS05NUGRaU0RiVjBHeDZBc1ZpX25vVUdlMENmNnR6ZkNfM0tyZmd6WnhaMkNnRkIxaU8walR2VkJCb3lyT1FidmdRcGduS25hdDVsc21Cd2drQzJ0RU9BcU96RmhNNTJhOU5zQnpvaHZQWmtXeHFLVWxIcE16YnV0VDBIc1VGQThNTDVJZ2s3ajhuUERvYUFOYjUtQQ?oc=5",
+      "published_date": "2026-09-29T14:22:29+00:00"
     },
     {
       "title": "‘This needs to be looked into’: Communist party leader asks Putin to check election results in North Caucasus",
@@ -2711,125 +2858,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/16/russia-s-2026-parliamentary-election-has-no-meaningful-competition-independent-observers-still-plan-to-document-how-paper-and-online-results-diverge",
       "published_date": "2026-09-16T17:28:43+00:00"
-    },
-    {
-      "title": "Russia’s sham election is descending into farce - The Economist",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUllaUlkSGZJZjM2enJBb0prYlNsVm81X1hpcFBXel9CRjZTZEJJNENWbkdaX3I1VXdXM3hVSTY2UmtqcEk5RnJpRFVSUmdDeTBVZThzWkQxejBVeFR0WU5BQWVjU1BtdUFfOWdLVmRsbUljMmdqc3NwVDNkZU9DdGZqb1BzcDVNRmVwZEJSOE9UaVho?oc=5",
-      "published_date": "2026-09-16T16:08:21+00:00"
-    },
-    {
-      "title": "Russians Prepare for an Election With Less Choice Than Ever",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/16/russians-prepare-for-an-election-with-less-choice-than-ever-a93727",
-      "published_date": "2026-09-16T16:03:00+00:00"
-    },
-    {
-      "title": "Presidente de Paraguay viaja a Venezuela tras 20 meses de ruptura diplomática",
-      "source": "Efecto Cocuyo Venezuela",
-      "country": "Venezuela",
-      "url": "https://efectococuyo.com/internacionales/presidente-de-paraguay-viaja-a-venezuela/",
-      "published_date": "2026-09-16T16:02:40+00:00"
-    },
-    {
-      "title": "Presidente de Paraguay viajará a Venezuela tras 20 meses de ruptura diplomática",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/presidente-de-paraguay-viajara-a-venezuela-tras-20-meses-de-ruptura-diplomatica/",
-      "published_date": "2026-09-16T15:58:10+00:00"
-    },
-    {
-      "title": "Putin Casts Parliamentary Election as Barometer of Support for War, Urges Russians to Vote",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/16/putin-casts-parliamentary-election-as-barometer-of-support-for-war-urges-russians-to-vote-a93729",
-      "published_date": "2026-09-16T15:28:00+00:00"
-    },
-    {
-      "title": "Back United Russia’s strongest challengers or spoil your ballot? Russia’s opposition can’t agree on a strategy for the upcoming State Duma election.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/16/back-united-russia-s-strongest-challengers-or-spoil-your-ballot-russia-s-opposition-can-t-agree-on-a-strategy-for-the-upcoming-state-duma-election",
-      "published_date": "2026-09-16T12:33:30+00:00"
-    },
-    {
-      "title": "Union européenne : le Premier ministre canadien Mark Carney, invité spécial à Strasbourg",
-      "source": "France 24 FR",
-      "country": "Canada",
-      "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-union-europ%C3%A9enne-le-premier-ministre-canadien-mark-carney-invit%C3%A9-sp%C3%A9cial-%C3%A0-strasbourg",
-      "published_date": "2026-09-16T12:32:56+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella, presidente de Colombia, anuncia 187 proyectos en su primer paquete de ‘victorias tempranas’: 'De frente y con hechos'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-de-colombia-anuncia-187-proyectos-en-su-primer-paquete-de-victorias-tempranas-de-frente-y-con-hechos-3586422",
-      "published_date": "2026-09-16T12:05:57+00:00"
-    },
-    {
-      "title": "Putin aims to trigger migration to Europe through food crisis — FM Sybiha",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4164613-putin-aims-to-trigger-migration-to-europe-through-food-crisis-fm-sybiha.html",
-      "published_date": "2026-09-16T11:44:00+00:00"
-    },
-    {
-      "title": "Nagaon LS bypoll: First poll tussle in Assam after BJP’s victory in election",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/nagaon-ls-bypoll-first-poll-tussle-in-assam-after-bjp-s-victory-in-election-101789557610306.html",
-      "published_date": "2026-09-16T11:20:09+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ordenó el traslado de 120 presos de Buenaventura a cárceles de otras regiones de Colombia: 'Bien motiladitos'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-el-traslado-de-120-presos-de-buenaventura-a-carceles-de-otras-regiones-de-colombia-3586379",
-      "published_date": "2026-09-16T11:15:39+00:00"
-    },
-    {
-      "title": "Sweden’s long election night ends without answers – but caution on China seems certain",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/economy/global-economy/article/3367705/swedens-long-election-night-ends-without-answers-caution-china-seems-certain?utm_source=rss_feed",
-      "published_date": "2026-09-16T09:00:06+00:00"
-    },
-    {
-      "title": "What Putin’s war in Ukraine means for Russian elections this week",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-ukraine-approval-ratings-b3050559.html",
-      "published_date": "2026-09-16T08:30:05+00:00"
-    },
-    {
-      "title": "Zelensky says ready to hold elections as soon as tomorrow, but several factors make it impossible",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4164518-zelensky-says-ready-to-hold-elections-as-soon-as-tomorrow-but-several-factors-make-it-impossible.html",
-      "published_date": "2026-09-16T07:58:00+00:00"
-    },
-    {
-      "title": "State of emergency declared in Russian Arctic village after 200-ton diesel spill reaches the sea",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/16/state-of-emergency-declared-in-russian-arctic-village-after-200-ton-diesel-spill-reaches-the-sea",
-      "published_date": "2026-09-16T07:55:07+00:00"
-    },
-    {
-      "title": "Yabloko leader criticizes election voting strategy proposed by Russian opposition figures Navalnaya and Kats: ‘They sit abroad and manipulate you’",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/16/yabloko-leader-criticizes-election-voting-strategy-proposed-by-russian-opposition-figures-navalnaya-and-kats-they-sit-abroad-and-manipulate-you",
-      "published_date": "2026-09-16T07:25:44+00:00"
-    },
-    {
-      "title": "Takaichi retains familiar faces in LDP leadership reshuffle",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
-      "published_date": "2026-09-16T06:55:00+00:00"
     }
   ]
 }
