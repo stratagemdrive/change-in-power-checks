@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-01T01:50:05.074515+00:00",
-    "story_count": 398,
+    "last_updated": "2026-10-01T17:23:13.100299+00:00",
+    "story_count": 394,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israel Election 2026: What does Yair Golan’s Democrats party stand for?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-910100",
+      "published_date": "2026-10-01T18:50:47+00:00"
+    },
+    {
+      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss",
+      "published_date": "2026-10-01T17:09:27+00:00"
+    },
+    {
+      "title": "2027: Atiku vows to end election rigging in Nigeria, strengthen INEC independence",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/913857-2027-atiku-vows-to-end-election-rigging-in-nigeria-strengthen-inec-independence.html",
+      "published_date": "2026-10-01T16:48:02+00:00"
+    },
+    {
+      "title": "Coup de boule Materazzi, «équipe de fou», retour au Stade de France : les vérités de Zidane avant le choc face à l’Italie",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/coup-de-boule-materazzi-equipe-de-fou-retour-au-stade-de-france-les-verites-de-zidane-avant-le-choc-face-a-l-italie-20261001",
+      "published_date": "2026-10-01T16:39:56+00:00"
+    },
+    {
+      "title": "Defesa de Bolsonaro pede liberdade do ex-presidente com base em sessão sobre Moraes",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/defesa-de-bolsonaro-pede-liberdade-do-ex-presidente-com-base-em-sessao-sobre-moraes.shtml",
+      "published_date": "2026-10-01T14:25:00+00:00"
+    },
+    {
+      "title": "Presidente da Igreja Presbiteriana, que veta apoio eleitoral, defende voto em Michelle Bolsonaro",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/presidente-da-igreja-presbiteriana-que-veta-apoio-eleitoral-defende-voto-em-michelle-bolsonaro.shtml",
+      "published_date": "2026-10-01T13:16:00+00:00"
+    },
+    {
+      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+      "published_date": "2026-10-01T10:00:00+00:00"
+    },
+    {
+      "title": "French PM holds crisis meeting as student protests spread nationwide",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20261001-french-school-protests-spread-to-universities-as-blockades-intensify",
+      "published_date": "2026-10-01T09:58:00+00:00"
+    },
+    {
+      "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
+      "published_date": "2026-10-01T09:51:18+00:00"
+    },
+    {
+      "title": "Komeito’s new leader faces immediate test with autumn session and upcoming votes",
+      "source": "Japan Times",
+      "country": "Japan",
+      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/komeito-okamoto-leader/",
+      "published_date": "2026-10-01T07:31:00+00:00"
+    },
+    {
+      "title": "Life in exile: Russian singer Monetochka thought Vilnius would be a stopover. Four years later, she says she may stay forever.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/10/01/life-in-exile-russian-singer-monetochka-thought-vilnius-would-be-a-stopover-four-years-later-she-says-she-may-stay-forever",
+      "published_date": "2026-10-01T06:50:12+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de partir a París",
       "source": "La Nacion Argentina",
@@ -2739,111 +2816,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/17/in-2024-people-across-russia-poured-brilliant-green-antiseptic-into-ballot-boxes-this-weekend-pharmacies-in-the-city-of-tyumen-have-been-advised-not-to-sell-it-in-bulk-during-the-elections",
       "published_date": "2026-09-17T17:59:50+00:00"
-    },
-    {
-      "title": "Masked police detained an election observer from Russia’s anti-war Yabloko party at a polling station in the Rostov region",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/17/masked-police-detained-an-election-observer-from-russia-s-anti-war-yabloko-party-at-a-polling-station-in-the-rostov-region",
-      "published_date": "2026-09-17T16:03:21+00:00"
-    },
-    {
-      "title": "'Our fate will be decided in Jerusalem, not Ramallah': Palestinians look ahead to Israeli elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/middle-east/article-908936",
-      "published_date": "2026-09-17T14:48:44+00:00"
-    },
-    {
-      "title": "IPOB demands referendum on Nigeria’s political future",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/ipob-demands-referendum-on-nigerias-political-future/",
-      "published_date": "2026-09-17T14:28:36+00:00"
-    },
-    {
-      "title": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/17/russia-upgraded-the-system-that-tabulates-its-election-results-experts-found-vulnerabilities-that-could-be-exploited-to-manipulate-the-vote",
-      "published_date": "2026-09-17T14:27:12+00:00"
-    },
-    {
-      "title": "Strait of Hormuz Will Remain Closed Until Trump and Netanyahu Are Removed from Power - WANA News Agency",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSEtwM0tyRW5JOFRCRTV0cTVZbnFNSEswVVprUjlGalFTQUxGdFVUTkxJTkxua3lOS1FUYkpCemVockpQRTdvTmp6QnU5V0dhaDBLMGJlOEUtVmR3NjNlSjZqdF9OMk5iVkFQNFJCWi1aWHk2MWF0aVBxNlMxUGhXcUtNVTlqQlBzOFJuV2x5Vkk5YXczWHZpSHNBVDVsSG9YcUNiNXBOYw?oc=5",
-      "published_date": "2026-09-17T13:57:50+00:00"
-    },
-    {
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T13:02:40+00:00"
-    },
-    {
-      "title": "Friedrich Merz fights for survival ahead of German regional elections - Financial Times",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmFWYmw0UXhjb3p5S1h0Z1RBMTBHQ1pHU3NxZmdpMFl3aW5wSEE3bzFFTmVCdDRwNGpncGFJTDJYVjQxSnNYVThBYXJfQWMtMkJkMURadnN0eFdtMkZWZjdFSk1VUk5uSTlBZkVCMS0tcUxreFFleWxUbEF1RlVtbVVXUkY?oc=5",
-      "published_date": "2026-09-17T12:52:22+00:00"
-    },
-    {
-      "title": "Así fue el pie de cueca del Presidente Kast",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/asi-fue-el-pie-de-cueca-del-presidente-kast/",
-      "published_date": "2026-09-17T12:27:33+00:00"
-    },
-    {
-      "title": "Fact check: Will Marine Le Pen hold a Frexit referendum if she becomes president of France?",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/my-europe/2026/09/17/fact-check-will-marine-le-pen-hold-a-frexit-referendum-if-she-becomes-president-of-france",
-      "published_date": "2026-09-17T09:38:25+00:00"
-    },
-    {
-      "title": "Teodoro for president? Philippine defence chief draws 2028 election buzz after China clash",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/week-asia/politics/article/3367820/teodoro-president-philippine-defence-chief-draws-2028-election-buzz-after-china-clash?utm_source=rss_feed",
-      "published_date": "2026-09-17T07:18:33+00:00"
-    },
-    {
-      "title": "Malaysia to invite Myanmar junta leader over Rohingya repatriation push",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/malaysia-to-invite-myanmar-junta-leader-over-rohingya-repatriation-push/",
-      "published_date": "2026-09-17T07:05:12+00:00"
-    },
-    {
-      "title": "After far-right AfD win, Germany’s embattled chancellor faces more election tests",
-      "source": "South China Morning Post",
-      "country": "Germany",
-      "url": "https://www.scmp.com/news/world/europe/article/3367826/after-far-right-afd-win-germanys-embattled-chancellor-faces-more-election-tests?utm_source=rss_feed",
-      "published_date": "2026-09-17T06:05:26+00:00"
-    },
-    {
-      "title": "Russia’s first parliamentary election since the full-scale invasion of Ukraine begins tomorrow, with its only anti-war party barred and genuine competition all but eliminated",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/17/russia-s-first-parliamentary-election-since-the-full-scale-invasion-of-ukraine-begins-tomorrow-with-its-only-anti-war-party-barred-and-genuine-competition-all-but-eliminated",
-      "published_date": "2026-09-17T05:40:12+00:00"
-    },
-    {
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "source": "BBC World",
-      "country": "Russia",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-17T05:00:36+00:00"
-    },
-    {
-      "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy - CNBC",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0FlR2ZTc0RxdzNYdVZlZnpxSDVXYjVHMmVjYnNKX2hnMEtrc2hxV29DS0VvZlBlZmwwQWlBUHc5UUZKMXU2LXE4UmVnSzdqQkdOWThwdUFmeTNTRVpjY3E5TWJoR0hULUlYUUQ5bmt6TXpGYkhRQ1NRM0tLLW01aWZJRTZhSU5Q0gGOAUFVX3lxTFBCek5ES1BtMXUxSEJ3cE03RUFqVFZxS2RGVzd5dFNPQ3BUREM0NHVyM1B1NlVZWlN2a0JhX0E5OW9Uemg0em8tR3BSX24tT2JqM0d3RUlaSE9hWlE5a2c0UlhjTmVRUy1DbFp2OXFkZDdqTUQtYlZXMDhqSC11ajhOYWpKZkQwOFBGM2R1TVE?oc=5",
-      "published_date": "2026-09-17T05:00:01+00:00"
     }
   ]
 }
