@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-09-30T16:47:38.396991+00:00",
-    "story_count": 400,
+    "last_updated": "2026-10-01T01:50:05.074515+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -64,7 +64,42 @@
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
-      "published_date": "2026-09-30T16:40:00+00:00"
+      "published_date": "2026-10-01T01:20:00+00:00"
+    },
+    {
+      "title": "Congressional staff planned official trip with luxury stops in Italy and France weeks before election - NBC News",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXVFZWYxcy1Sc0RVcklzMFh2dU14RmlwN2RXTVd1c2pIbFFYRzJ5ajBDcV9YaXNjVVNNcjg0ajVTUlhPa2hYSWx5OXBuYkVoV2ljUzA1WHpkem1SaXZ0OWV2V1lFVF84eXZzMTlNS3JHVUw3NjVwdDE1VU9iRVBYemtTZjJaY0NqRmhRaWlCTkR6SnE1TVgtQmk2VVVyWmFxS2t0UlpzcmtPd1lwVW9FUFN0NVRjV29Ia21VN2gwRW4?oc=5",
+      "published_date": "2026-09-30T22:48:58+00:00"
+    },
+    {
+      "title": "Cancillería activó retorno de soldado Henry Camargo a Colombia mediante apoyo humanitario excepcional tras solicitud del presidente De La Espriella",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-activo-retorno-de-soldado-henry-camargo-a-colombia-mediante-apoyo-humanitario-excepcional-tras-solicitud-del-presidente-de-la-espriella-3590302",
+      "published_date": "2026-09-30T22:42:09+00:00"
+    },
+    {
+      "title": "Senate punts bill to permanently ban Chinese cars until after midterm elections",
+      "source": "The Independent UK",
+      "country": "China",
+      "url": "https://www.independent.co.uk/news/world/americas/chinese-united-states-donald-trump-elissa-slotkin-bernie-moreno-b3059390.html",
+      "published_date": "2026-09-30T22:15:40+00:00"
+    },
+    {
+      "title": "‘It was the first election where I could vote — and didn’t know the result in advance.’ Meet Russian-born Berlin politician Elizaveta Kapinos.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/09/30/it-was-the-first-election-where-i-could-vote-and-didn-t-know-the-result-in-advance-meet-russian-born-berlin-politician-elizaveta-kapinos",
+      "published_date": "2026-09-30T20:01:39+00:00"
+    },
+    {
+      "title": "Emergency power outages canceled in Kyiv, replaced with scheduled blackouts",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4169747-emergency-power-outages-canceled-in-kyiv-replaced-with-scheduled-blackouts.html",
+      "published_date": "2026-09-30T16:46:00+00:00"
     },
     {
       "title": "Vyacheslav Volodin reelected speaker of the State Duma, Russia’s lower house, for third consecutive term",
@@ -2809,55 +2844,6 @@
       "country": "Russia",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0FlR2ZTc0RxdzNYdVZlZnpxSDVXYjVHMmVjYnNKX2hnMEtrc2hxV29DS0VvZlBlZmwwQWlBUHc5UUZKMXU2LXE4UmVnSzdqQkdOWThwdUFmeTNTRVpjY3E5TWJoR0hULUlYUUQ5bmt6TXpGYkhRQ1NRM0tLLW01aWZJRTZhSU5Q0gGOAUFVX3lxTFBCek5ES1BtMXUxSEJ3cE03RUFqVFZxS2RGVzd5dFNPQ3BUREM0NHVyM1B1NlVZWlN2a0JhX0E5OW9Uemg0em8tR3BSX24tT2JqM0d3RUlaSE9hWlE5a2c0UlhjTmVRUy1DbFp2OXFkZDdqTUQtYlZXMDhqSC11ajhOYWpKZkQwOFBGM2R1TVE?oc=5",
       "published_date": "2026-09-17T05:00:01+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
-      "published_date": "2026-09-16T23:55:00+00:00"
-    },
-    {
-      "title": "Putin’s United Russia will win – but vote tally, turnout and level of coercion will tell the real story of Russia’s wartime elections - The Conversation",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbVY2cU9Qd0F4MVUyTjRGMFViM3dtUWdCRmwwdHhla2tuWHVnbUFIdUtPZEdSQUptQm9haTVRTTVlcVp0aldGZnVocHlGUmN6N1cyTTk1ay05aG9YTThpY3dXUTg0UEFPNDdYY25UOEdtZWlOSnJfNS1EVUh0Z1VRLTRTaTk2T0ZYTGM0NVJNeVRCMlh2M3BLUWY1VjRnNGtIN0dxTThXNzBFSGVKOG9qSkF6a2x3Rmd0R244TkpCelJocXJQZzhrMkp6NXZ3dUY0T0I0ZGZVbnl6b3FMMWw1bkdYQS12aFdDZF80bHFsY0N2YkZWSkE?oc=5",
-      "published_date": "2026-09-16T22:07:22+00:00"
-    },
-    {
-      "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
-      "published_date": "2026-09-16T19:47:03+00:00"
-    },
-    {
-      "title": "Election Commission of India not responding to concerns of Opposition: Venugopal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/election-commission-of-india-not-responding-to-concerns-of-opposition-venugopal/article71473026.ece",
-      "published_date": "2026-09-16T19:28:12+00:00"
-    },
-    {
-      "title": "A six-fingered Leonardo DiCaprio and the creature from Ridley Scott’s ‘Alien’ stuff a ballot box in this Russian PSA about AI-generated election fraud videos",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/16/a-six-fingered-leonardo-dicaprio-and-the-creature-from-ridley-scott-s-alien-stuff-a-ballot-box-in-this-russian-psa-about-ai-generated-election-fraud-videos",
-      "published_date": "2026-09-16T19:20:03+00:00"
-    },
-    {
-      "title": "Days before Russia’s State Duma elections, hackers say they accessed the election commission’s IT systems and downloaded server configurations and internal documents",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/16/days-before-russia-s-state-duma-elections-hackers-say-they-accessed-the-election-commission-s-it-systems-and-downloaded-server-configurations-and-internal-documents",
-      "published_date": "2026-09-16T18:48:56+00:00"
-    },
-    {
-      "title": "Russia’s 2026 parliamentary election has no meaningful competition. Independent observers still plan to document how paper and online results diverge.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/16/russia-s-2026-parliamentary-election-has-no-meaningful-competition-independent-observers-still-plan-to-document-how-paper-and-online-results-diverge",
-      "published_date": "2026-09-16T17:28:43+00:00"
     }
   ]
 }
