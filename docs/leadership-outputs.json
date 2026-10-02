@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-02T02:01:31.552762+00:00",
-    "story_count": 394,
+    "last_updated": "2026-10-02T16:35:56.236698+00:00",
+    "story_count": 390,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Presidente do PT vê suspeita de interferência dos EUA em eleições e critica fechamento de embaixadas",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/edinho-ve-suspeita-de-interferencia-dos-eua-em-eleicoes-e-critica-fechamento-de-embaixadas.shtml",
+      "published_date": "2026-10-02T16:05:00+00:00"
+    },
+    {
+      "title": "Brazil: The craze for candidate merch ahead of elections",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
+      "published_date": "2026-10-02T15:17:39+00:00"
+    },
+    {
+      "title": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
+      "published_date": "2026-10-02T15:06:54+00:00"
+    },
+    {
+      "title": "Putin to step up attacks on Ukraine as US elections approach — Zelensky",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4170464-putin-to-step-up-attacks-on-ukraine-as-us-elections-approach-zelensky.html",
+      "published_date": "2026-10-02T14:35:00+00:00"
+    },
+    {
+      "title": "Supreme Court allows Ofer Cassif, Ra'am, Joint List to run in 26th Knesset election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-910410",
+      "published_date": "2026-10-02T14:06:26+00:00"
+    },
+    {
+      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+      "published_date": "2026-10-02T13:50:06+00:00"
+    },
+    {
+      "title": "The Forces Shaping Brazil’s Election",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/",
+      "published_date": "2026-10-02T12:00:38+00:00"
+    },
+    {
+      "title": "What's real and what's fake? How AI is impacting Brazil's election race",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
+      "published_date": "2026-10-02T11:34:37+00:00"
+    },
+    {
+      "title": "Brazil's election: Lula or Bolsonaro Jr?",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr",
+      "published_date": "2026-10-02T11:04:22+00:00"
+    },
+    {
+      "title": "Israel’s top court backs barring Palestinian politician from election over article",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-top-court-backs-barring-palestinian-politician-election-over",
+      "published_date": "2026-10-02T10:50:44+00:00"
+    },
+    {
+      "title": "Arab party leader forced to withdraw from Israeli elections - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRoNk5vajB0b1M5VTZEZkRlVmFZU1hQZDlQR1FlU1BOc0cwUWxJa3p6bE1LZjZFSnU0cURNSUVBNS1QS0RuTlZmZkY1TjRvUVN5OExSOWp6RVJMdTN6THJGSnhneVQ4eVg3dGdKcmhZWW9xNWt1QWxOMWhjaTg2UjhOZ1RrMFA1TG4ycXZPa1JWNlRaUkxkY1pGdkhNSm1CS0HSAacBQVVfeXFMUDF1NlpFYU9iODVMVVlIWlBZNnRSc1B2ZUh5bGpOVUNaLXRKczlnMGVYSDRKLWhJR21NbFpJQV9RNkZ3c1dSbm03RjM2Z1hObTNNQmptNlJrNXVUNjEwWTRvOGVJbzZMTzhGLWgxdHVoeTFjTVdic29ZS1Q2OVZlYnRySmFsUGFmMnV5cXJzUW5qYVQtMlVoeThGekd5T2FxUEJ3ZU9EeFk?oc=5",
+      "published_date": "2026-10-02T10:08:18+00:00"
+    },
+    {
+      "title": "Myanmar junta bombs villages in flood-hit Tanintharyi Region",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-villages-in-flood-hit-tanintharyi-region/",
+      "published_date": "2026-10-02T10:06:33+00:00"
+    },
+    {
+      "title": "Russia sentences founder of exile news outlet Astra to seven years in absentia. Her lawyers say she was convicted of violating ‘foreign agent’ regulations despite never being designated one.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/02/russia-sentences-founder-of-exile-news-outlet-astra-to-seven-years-in-absentia-her-lawyers-say-she-was-convicted-of-violating-foreign-agent-regulations-despite-never-being-designated-one",
+      "published_date": "2026-10-02T07:40:11+00:00"
+    },
+    {
+      "title": "Indonesian cabinet reshuffle: how Prabowo is looking to restore credibility amid criticism",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/week-asia/politics/article/3369530/indonesian-cabinet-reshuffle-how-prabowo-looking-restore-credibility-amid-criticism?utm_source=rss_feed",
+      "published_date": "2026-10-02T05:56:49+00:00"
+    },
+    {
+      "title": "Arab-Israeli politician withdraws from October election after Supreme Court signals disqualification",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2034211/arab-israeli-politician-withdraws-from-october-election-after-supreme-court-signals-disqualification",
+      "published_date": "2026-10-02T05:46:18+00:00"
+    },
+    {
+      "title": "India's Cockroach Janata Party, student groups to protest, demand poll chief's resignation",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2034218/indias-cockroach-janata-party-student-groups-to-protest-demand-poll-chiefs-resignation",
+      "published_date": "2026-10-02T05:43:44+00:00"
+    },
+    {
+      "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+      "published_date": "2026-10-02T04:00:10+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: el Presidente fue recibido por Emmanuel Macron en el Palacio del Elíseo",
       "source": "La Nacion Argentina",
@@ -2669,153 +2788,6 @@
       "country": "Vietnam",
       "url": "https://meduza.io/en/feature/2026/09/18/russia-s-exiled-opposition-wants-voters-at-polling-stations-at-noon-on-the-main-day-of-the-duma-elections-its-new-video-borrows-from-a-1971-american-ad-against-the-vietnam-war",
       "published_date": "2026-09-18T16:28:36+00:00"
-    },
-    {
-      "title": "Ukraine lashes out at Russian elections ‘held at gunpoint’ in occupied territory",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-ukraine-nato-b3052618.html",
-      "published_date": "2026-09-18T16:12:49+00:00"
-    },
-    {
-      "title": "Ontario Conservative MP Larry Brock formally resigns from House of Commons",
-      "source": "Globe and Mail Politics",
-      "country": "United Kingdom",
-      "url": "https://www.theglobeandmail.com/politics/article-conservative-larry-brock-formally-steps-down/",
-      "published_date": "2026-09-18T16:08:53+00:00"
-    },
-    {
-      "title": "Over 2,000 UK flight cancellations traced to millisecond software defect",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/news/world/europe/article/3368068/over-2000-uk-flight-cancellations-traced-millisecond-software-defect?utm_source=rss_feed",
-      "published_date": "2026-09-18T15:05:38+00:00"
-    },
-    {
-      "title": "Russia’s State Duma elections begin with record online turnout, a million votes in occupied Donetsk, and attempts to bribe observers",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/18/russia-s-state-duma-elections-begin-with-record-online-turnout-a-million-votes-in-occupied-donetsk-and-attempts-to-bribe-observers",
-      "published_date": "2026-09-18T15:02:29+00:00"
-    },
-    {
-      "title": "Así fue recibido el Presidente Kast en su primer Te Deum",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/asi-fue-recibido-el-presidente-kast-en-su-primer-te-deum/",
-      "published_date": "2026-09-18T14:47:17+00:00"
-    },
-    {
-      "title": "Russian election officials in one region forgot to put two candidates on the ballot. Now the vote is postponed until 2027.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/18/russian-election-officials-in-one-region-forgot-to-put-two-candidates-on-the-ballot-now-the-vote-is-postponed-until-2027",
-      "published_date": "2026-09-18T14:03:56+00:00"
-    },
-    {
-      "title": "Russian elections: 'Even the facade of opposition has gone'",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/video/20260918-russian-elections-even-the-facade-of-opposition-has-gone",
-      "published_date": "2026-09-18T13:10:27+00:00"
-    },
-    {
-      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
-      "published_date": "2026-09-18T12:26:46+00:00"
-    },
-    {
-      "title": "Putin will have Trump to thank for election victory in Russia’s rubber-stamp parliament",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-trump-ukraine-b3052479.html",
-      "published_date": "2026-09-18T11:58:05+00:00"
-    },
-    {
-      "title": "PM Modi, UAE President discuss West Asia crisis, bilateral ties over phone call",
-      "source": "Hindustan Times",
-      "country": "UAE",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-uae-president-discuss-west-asia-crisis-bilateral-ties-over-phone-call-101789731645364.html",
-      "published_date": "2026-09-18T11:43:34+00:00"
-    },
-    {
-      "title": "Russians vote in elections with no party opposing Putin or war in Ukraine",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "https://www.euronews.com/2026/09/18/russians-vote-in-elections-with-no-party-opposing-putin-or-war-in-ukraine",
-      "published_date": "2026-09-18T11:03:48+00:00"
-    },
-    {
-      "title": "Ukraine fires drone barrage as Russia launches elections",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
-      "published_date": "2026-09-18T10:28:17+00:00"
-    },
-    {
-      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running",
-      "published_date": "2026-09-18T10:16:00+00:00"
-    },
-    {
-      "title": "Russia votes in wartime election set to secure the Kremlin's power",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
-      "published_date": "2026-09-18T09:52:50+00:00"
-    },
-    {
-      "title": "Russia holds nationwide Duma elections as war in Ukraine reshapes vote",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "https://www.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-war-in-ukraine-reshapes-vote",
-      "published_date": "2026-09-18T09:41:58+00:00"
-    },
-    {
-      "title": "Ukraine condemns Russia’s ‘elections’ in occupied territories",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4165401-ukraine-condemns-russias-elections-in-occupied-territories.html",
-      "published_date": "2026-09-18T09:40:00+00:00"
-    },
-    {
-      "title": "Far-right politician Éric Zemmour joins 2027 French presidential race",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260918-far-right-politician-%C3%A9ric-zemmour-joins-2027-french-presidential-race",
-      "published_date": "2026-09-18T09:06:31+00:00"
-    },
-    {
-      "title": "What Putin’s war in Ukraine means for Russian elections as polls open",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-ukraine-approval-ratings-b3052311.html",
-      "published_date": "2026-09-18T07:28:31+00:00"
-    },
-    {
-      "title": "Russians begin voting in parliamentary election set to cement Kremlin's power",
-      "source": "CBC News World",
-      "country": "Russia",
-      "url": "https://www.cbc.ca/news/world/russia-parliamentary-election-putin-9.7349119?cmp=rss",
-      "published_date": "2026-09-18T06:09:27+00:00"
-    },
-    {
-      "title": "Russians begin voting in parliamentary election in shadow of war",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3367960/russians-begin-voting-parliamentary-election-shadow-war?utm_source=rss_feed",
-      "published_date": "2026-09-18T05:45:55+00:00"
-    },
-    {
-      "title": "Netanyahu attacks Eisenkot's Yashar, says elections are direct struggle between Left, Right",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-909013",
-      "published_date": "2026-09-18T02:29:16+00:00"
     }
   ]
 }
