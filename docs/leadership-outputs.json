@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-03T01:44:12.106866+00:00",
-    "story_count": 392,
+    "last_updated": "2026-10-03T15:10:34.130294+00:00",
+    "story_count": 393,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Sreelekha’s ‘resignation’ exposes BJP’s internal troubles in Keralam, says Govindan",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/sreelekhas-resignation-exposes-bjps-internal-troubles-in-keralam-says-govindan/article71541138.ece",
+      "published_date": "2026-10-03T14:38:35+00:00"
+    },
+    {
+      "title": "Support Tinubu’s re-election, NDDC director urges Niger Delta youths",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/support-tinubus-re-election-nddc-director-urges-niger-delta-youths/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-03T14:28:01+00:00"
+    },
+    {
+      "title": "What to know about Brazil’s 2026 presidential election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-03T14:23:55+00:00"
+    },
+    {
+      "title": "Oyebanji urges Muslims to back Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/oyebanji-urges-muslims-to-back-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-03T14:19:05+00:00"
+    },
+    {
+      "title": "Israel election double standard: Arab leader forced out, far right cleared",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+      "published_date": "2026-10-03T14:06:47+00:00"
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T13:52:13+00:00"
+    },
+    {
+      "title": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910449",
+      "published_date": "2026-10-03T11:35:24+00:00"
+    },
+    {
+      "title": "Morocco's first female head of government: Symbol or real reform?",
+      "source": "Deutsche Welle English",
+      "country": "Morocco",
+      "url": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-03T08:10:00+00:00"
+    },
+    {
+      "title": "Latvia holds election as concerns over Russia, inflation dominate",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3369655/latvia-holds-election-concerns-over-russia-inflation-dominate?utm_source=rss_feed",
+      "published_date": "2026-10-03T07:46:17+00:00"
+    },
+    {
+      "title": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+      "published_date": "2026-10-03T07:00:57+00:00"
+    },
+    {
+      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "published_date": "2026-10-03T07:00:35+00:00"
+    },
+    {
+      "title": "Israel's top court allows Arab parties to run in election - DW.com",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTJLS3pfNTVaNDZHU3I4djBYb0lXTW5vX01XTjRMdlFSQzJ2N2RFb2g0WHFGeC1ZdVl6dHg3RFVTdGluYXIwWXhlazQ0czZNSlpOTnNLZGZCbkV5TWxYUWtNV0xVTF9aeTF4cXAwaEp2aXktcW5VZ2NoeEVfajBpN1dpaXFGckYy0gGIAUFVX3lxTFBKZEpsOUdSLU03UFE5S0VYMWpyMHNWV1BCZkozZTB5ZnpxZjFhTWNJalNMMGlJc1ljVUJMWnhRMHh3X2tSTHE3UUNTQ19VOURPTWtMLUZXcklaSGI5Q1ZZbzhsY1ZZWlYzQlpOcUhTUHFCSDJFR3FjZ0xhWEN1MDdrWHJkeTcyQmk?oc=5",
+      "published_date": "2026-10-03T03:32:23+00:00"
+    },
+    {
+      "title": "Brazil's big political rematch: What to know about the Brazilian election",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+      "published_date": "2026-10-03T02:57:07+00:00"
+    },
     {
       "title": "US and Australia suspend diplomatic operations in Brazil before election",
       "source": "Al Jazeera English",
@@ -114,6 +205,13 @@
       "country": "Ukraine",
       "url": "https://meduza.io/en/feature/2026/10/02/russian-speaking-latvians-who-back-ukraine-and-value-their-language-are-heading-into-an-election-without-an-obvious-political-home",
       "published_date": "2026-10-02T19:06:24+00:00"
+    },
+    {
+      "title": "Russian-speaking Latvians who back Ukraine and value their language are heading into an election without an obvious political home - Meduza",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSEFpSFljdnFMa3hhcGhXdU1ZZlVmQUJ4VVpIOUUyOFlnUDNjS1NHMTZjMXl4UERQQ2dQbG14YzlDMHg2RzFSamcxLURkZUg5ZkMzTE1TVFBqaFpQQkJMOV9xVmhoS1dNenFtWU5pSkNsNmJKd0lidVFKdFhQZmJCNUR0OUdTWVA4NGdjQm15VW1PQ1daWFhfYUZiVGtDbjJqSllXYmZ3bzAtQU9jMHpnNC02ZWRzdTN0MERRRGdKQ1JWZEVjWnV3cWVzSnp6LTUtYlAwRUE4S1ZIU3dxaFFKM29BWFUwZ2FSbG9Gc21FcWUtdXNLM09oRXhZQWhXcHfSAYQCQVVfeXFMTWN3TnZVM0tLNHVnampGUXpkT0JpQkltVEllTTh6aFR4VUdRcWlZdHpIckxXbUgxY0c0Y0N5Y2RrcS1OUjRLNUhXWjRabWQxazIycHVCRGF4VHZZTzZMNGN1VjlodTJpS2xQMkZyWExWM1NGOVdNWkRjN0JaRkVzdUpvSVhPelBISzU2TDdkVFdKNEswNzFqRTZQWGxoZzhkZ2pQTVBwNGpzZmxJczlCNDJsdGRBaHBJb3c4MTQzUVNRLVVuam56YUJyZ1FIbEd2eDJ1cUFLNDcyRUl3V19kUGk2VkVlLTVHaGRsVDB1Y3BHbmd6SlFqWktrMzBnVWcyTllqQXo?oc=5",
+      "published_date": "2026-10-02T19:06:00+00:00"
     },
     {
       "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
@@ -2711,97 +2809,6 @@
       "country": "Russia",
       "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
       "published_date": "2026-09-19T15:18:00+00:00"
-    },
-    {
-      "title": "Former Russian official Kambolov wins South Ossetia presidential election",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/former-russian-official-kambolov-wins-south-ossetia-presidential-election/",
-      "published_date": "2026-09-19T15:01:50+00:00"
-    },
-    {
-      "title": "Trump to meet with Venezuela's interim president, other leaders during UN General Assembly: Official - ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWZuRDNUU3NCX0VqOXVlRFNlUnp1VkRuN1B4bThxdmlSbDUxRUY5T2pGYkZmMk1oZzVvZ3VZN2dDVmxpOUpXTXVKZTJVWEpsbml0Ml93blg1R3ppbEtiNFhWSWwzcUR6UGpLNEtueU02eXBWa3hjcnJMQ2JVemFkWjlRejZJbkVwWFhac0tETjhYNFUtQU15OWVOMTYwYVQ2QzJVM3pnQW5MTHZxV2VmRTZn0gG3AUFVX3lxTE9FWTgzZGlLR0I2TFJzRXNuN3lrdlNid3p5cThIQTZPNUs0aU5pNmpXNXZyUllITkYzanB4MHhia2JTYU83MVl0cS14VEtXbVdUdWlobUZUMzZud1hjZk1YRUdNeGRxTmI4cTJQSzBxY0xQV0hFVGVUT0QxQmV1M1pMSlhCT25MYXQxdzhQc3lLN0FacW9tZlZlY05IUl82eHh1X01FVVVaeXp2d2sxV3lSUWV6LWpVZw?oc=5",
-      "published_date": "2026-09-19T14:43:36+00:00"
-    },
-    {
-      "title": "Candidates from PML-N, PPP file papers for presidential election in AJK",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2031149/candidates-from-pml-n-ppp-file-papers-for-presidential-election-in-ajk",
-      "published_date": "2026-09-19T14:19:09+00:00"
-    },
-    {
-      "title": "With United Russia’s Election Victory All But Certain, Some Russians Are Still Pushing Back",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/19/with-united-russias-election-victory-all-but-certain-some-russians-are-still-pushing-back-a93749",
-      "published_date": "2026-09-19T12:23:00+00:00"
-    },
-    {
-      "title": "Russia reports online attacks on electoral system on second day of parliamentary vote - reuters.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjhnX1U4Y1h3LXgzS1FVRjg1X2xNR3BfU3FQbk9MT3ZrZG9BSFFGQ3FyUzM4Szk5cV94VWNUd0hkckRZNVVjMTBuak0wUXdMenJ0WHd3WXZaQnZaT3lyY2N5NkV3UzlNRzNvc1BkYWdCZjhiMmVTOG03czV3LTJfeGVJSUpkdHVWTE1kU0kzXzNQZFVXTmh2d29oa0JLNDFzblhVRGtvQURpd013NVpldHhSV1NJYk1kZjNpdVY0aHhnODA?oc=5",
-      "published_date": "2026-09-19T11:30:28+00:00"
-    },
-    {
-      "title": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices",
-      "published_date": "2026-09-19T10:05:54+00:00"
-    },
-    {
-      "title": "Herzog's stance on Netanyahu's pardon raises possibility of compromise if election ends in deadlock",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-909097",
-      "published_date": "2026-09-19T08:55:48+00:00"
-    },
-    {
-      "title": "As far right gains ground in Germany, Berlin election tests Europe's centre",
-      "source": "RFI English",
-      "country": "Germany",
-      "url": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
-      "published_date": "2026-09-19T07:39:03+00:00"
-    },
-    {
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-      "source": "NPR World",
-      "country": "Ukraine",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-      "published_date": "2026-09-19T06:39:57+00:00"
-    },
-    {
-      "title": "Russians leave before election ends, fearing mobilisation to follow - Euronews",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeW16d3Z2d3ZhX1FQUlRnVUdzc053V0VPMGE4NXphX0hOdzNGNUlDWjgxcTB5WU1DdkdvTmFQdE1GVEFEcXFNamZCSWRXR3hpZ1N0R0lpZXBkZ3I1M2FGdjVNOFNGTVJvTUI4XzVRZmJtZ3VhcHEwdmVFVm1lQl9DZmVDcVEwZ3FtdDg5Y1dLOGZDMEpMZmFPVzNjaEJxSjE2eUVxbQ?oc=5",
-      "published_date": "2026-09-19T05:00:16+00:00"
-    },
-    {
-      "title": "Russians leave before election ends, fearing mobilisation to follow",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
-      "published_date": "2026-09-19T05:00:16+00:00"
-    },
-    {
-      "title": "Russians fear Putin will send them to war once election is over",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/russians-putin-war-election/",
-      "published_date": "2026-09-19T02:13:00+00:00"
-    },
-    {
-      "title": "DUSU 2026 election results LIVE: ABVP sweeps DUSU polls, NSUI claims 'bogus voting'; BJP leaders hail victory",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html",
-      "published_date": "2026-09-19T02:05:15+00:00"
     }
   ]
 }
