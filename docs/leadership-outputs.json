@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-02T16:35:56.236698+00:00",
-    "story_count": 390,
+    "last_updated": "2026-10-03T01:44:12.106866+00:00",
+    "story_count": 392,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+      "published_date": "2026-10-03T00:46:10+00:00"
+    },
+    {
+      "title": "Presidente De La Espriella habla con Samuel Adrián, creador del documental 'Colombia: fábrica de niños trans', tras su detención",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-habla-con-samuel-adrian-creador-del-documental-colombia-fabrica-de-ninos-trans-tras-su-detencion-3590842",
+      "published_date": "2026-10-02T21:53:13+00:00"
+    },
+    {
+      "title": "US and Australia suspend consular services in Brazil ahead of election citing security concerns",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/brazil-police-australia-rio-de-janeiro-donald-trump-b3060676.html",
+      "published_date": "2026-10-02T21:16:57+00:00"
+    },
+    {
+      "title": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
+      "published_date": "2026-10-02T20:40:14+00:00"
+    },
+    {
+      "title": "France-Italie : en vidéo, le sublime coup franc d’Olise et l’égalisation de la Squadra Azzura sur une énorme faute française",
+      "source": "Le Figaro France",
+      "country": "France",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-italie-en-video-le-sublime-coup-franc-d-olise-face-a-la-squadra-azzura-20261002",
+      "published_date": "2026-10-02T20:39:21+00:00"
+    },
+    {
+      "title": "Arab party leader forced to withdraw from Israeli elections - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRoNk5vajB0b1M5VTZEZkRlVmFZU1hQZDlQR1FlU1BOc0cwUWxJa3p6bE1LZjZFSnU0cURNSUVBNS1QS0RuTlZmZkY1TjRvUVN5OExSOWp6RVJMdTN6THJGSnhneVQ4eVg3dGdKcmhZWW9xNWt1QWxOMWhjaTg2UjhOZ1RrMFA1TG4ycXZPa1JWNlRaUkxkY1pGdkhNSm1CS0HSAacBQVVfeXFMUDF1NlpFYU9iODVMVVlIWlBZNnRSc1B2ZUh5bGpOVUNaLXRKczlnMGVYSDRKLWhJR21NbFpJQV9RNkZ3c1dSbm03RjM2Z1hObTNNQmptNlJrNXVUNjEwWTRvOGVJbzZMTzhGLWgxdHVoeTFjTVdic29ZS1Q2OVZlYnRySmFsUGFmMnV5cXJzUW5qYVQtMlVoeThGekd5T2FxUEJ3ZU9EeFk?oc=5",
+      "published_date": "2026-10-02T19:13:56+00:00"
+    },
+    {
+      "title": "Arab party leader withdraws from Israeli elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
+      "published_date": "2026-10-02T19:10:23+00:00"
+    },
+    {
+      "title": "Russian-speaking Latvians who back Ukraine and value their language are heading into an election without an obvious political home",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/10/02/russian-speaking-latvians-who-back-ukraine-and-value-their-language-are-heading-into-an-election-without-an-obvious-political-home",
+      "published_date": "2026-10-02T19:06:24+00:00"
+    },
+    {
+      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
+      "source": "Al Jazeera English",
+      "country": "Sudan",
+      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
+      "published_date": "2026-10-02T18:51:54+00:00"
+    },
+    {
+      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+      "published_date": "2026-10-02T18:18:42+00:00"
+    },
+    {
+      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+      "published_date": "2026-10-02T18:11:37+00:00"
+    },
+    {
+      "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+      "published_date": "2026-10-02T17:30:06+00:00"
+    },
+    {
+      "title": "What’s at Stake in Brazil’s Election",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+      "published_date": "2026-10-02T17:09:19+00:00"
+    },
+    {
+      "title": "Russian supermarket workers say they were fired over a viral reel about post-election grocery price hikes",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/02/russian-supermarket-workers-say-they-were-fired-over-a-viral-reel-about-post-election-grocery-price-hikes",
+      "published_date": "2026-10-02T17:03:38+00:00"
+    },
     {
       "title": "Presidente do PT vê suspeita de interferência dos EUA em eleições e critica fechamento de embaixadas",
       "source": "Folha de S Paulo",
@@ -128,13 +226,6 @@
       "country": "Israel",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-top-court-backs-barring-palestinian-politician-election-over",
       "published_date": "2026-10-02T10:50:44+00:00"
-    },
-    {
-      "title": "Arab party leader forced to withdraw from Israeli elections - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRoNk5vajB0b1M5VTZEZkRlVmFZU1hQZDlQR1FlU1BOc0cwUWxJa3p6bE1LZjZFSnU0cURNSUVBNS1QS0RuTlZmZkY1TjRvUVN5OExSOWp6RVJMdTN6THJGSnhneVQ4eVg3dGdKcmhZWW9xNWt1QWxOMWhjaTg2UjhOZ1RrMFA1TG4ycXZPa1JWNlRaUkxkY1pGdkhNSm1CS0HSAacBQVVfeXFMUDF1NlpFYU9iODVMVVlIWlBZNnRSc1B2ZUh5bGpOVUNaLXRKczlnMGVYSDRKLWhJR21NbFpJQV9RNkZ3c1dSbm03RjM2Z1hObTNNQmptNlJrNXVUNjEwWTRvOGVJbzZMTzhGLWgxdHVoeTFjTVdic29ZS1Q2OVZlYnRySmFsUGFmMnV5cXJzUW5qYVQtMlVoeThGekd5T2FxUEJ3ZU9EeFk?oc=5",
-      "published_date": "2026-10-02T10:08:18+00:00"
     },
     {
       "title": "Myanmar junta bombs villages in flood-hit Tanintharyi Region",
@@ -2711,83 +2802,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html",
       "published_date": "2026-09-19T02:05:15+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: “Después se quejan cuando les digo que son mier... humanas”, apuntó el Presidente contra la prensa",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-despues-se-quejan-cuando-les-digo-que-son-mier-humanas-apunto-el-nid18092026/",
-      "published_date": "2026-09-19T00:00:00+00:00"
-    },
-    {
-      "title": "How can new olim navigate Israel’s 2026 election? French immigrant builds online quiz to help",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/aliyah/article-908922",
-      "published_date": "2026-09-18T23:56:28+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella palpitó la intervención de Colombia en la Asamblea de la ONU: 'Va a generar un gran impacto'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
-      "published_date": "2026-09-18T21:15:37+00:00"
-    },
-    {
-      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-      "source": "Al Jazeera English",
-      "country": "Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-      "published_date": "2026-09-18T20:38:00+00:00"
-    },
-    {
-      "title": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
-      "source": "Foreign Policy",
-      "country": "Russia",
-      "url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/",
-      "published_date": "2026-09-18T20:36:44+00:00"
-    },
-    {
-      "title": "‘Who washes Putin’s underpants?’ Pet Shop Boys revisit Navalny’s poisoning in a new song released as Russia votes in parliamentary elections.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/18/who-washes-putin-s-underpants-pet-shop-boys-revisit-navalny-s-poisoning-in-a-new-song-released-as-russia-votes-in-parliamentary-elections",
-      "published_date": "2026-09-18T19:20:56+00:00"
-    },
-    {
-      "title": "Do elections in Russia make a difference?",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
-      "published_date": "2026-09-18T18:45:30+00:00"
-    },
-    {
-      "title": "Presidente Kast encabeza su primer esquinazo y recalca que Chile “es una patria donde cabemos todos”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/presidente-jose-antonio-kast-encabeza-su-primer-esquinazo-y-recalca-que-chile-es-una-patria-donde-cabemos-todos/",
-      "published_date": "2026-09-18T18:08:21+00:00"
-    },
-    {
-      "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia - politico.eu",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTluRmdiblV6d3JhQ0RqZVV5dmdPRUpBaWJDN0V2eGFYVG1qelNRWXdsQnROWkJJVEozY2xQdUFuUTk4NVJSUFQwclhBOUxEbGtsYjNVUlJ3MzlBZHFnTUdvczYwMGpQNEZ3Y0RNQlBGY3RYM2RwSG5PREZUY0FKMm9aTjJLQmJ6dXFHS0hOU0FQX0l4ZHBObGpxZnJJRnlYYXl4RXA1bFRCSkFoU1VNbThPTQ?oc=5",
-      "published_date": "2026-09-18T17:54:00+00:00"
-    },
-    {
-      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
-      "published_date": "2026-09-18T17:10:37+00:00"
-    },
-    {
-      "title": "Russia’s exiled opposition wants voters at polling stations at noon on the main day of the Duma elections. Its new video borrows from a 1971 American ad against the Vietnam War.",
-      "source": "Meduza EN",
-      "country": "Vietnam",
-      "url": "https://meduza.io/en/feature/2026/09/18/russia-s-exiled-opposition-wants-voters-at-polling-stations-at-noon-on-the-main-day-of-the-duma-elections-its-new-video-borrows-from-a-1971-american-ad-against-the-vietnam-war",
-      "published_date": "2026-09-18T16:28:36+00:00"
     }
   ]
 }
