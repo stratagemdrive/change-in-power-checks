@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-04T02:24:44.216638+00:00",
-    "story_count": 388,
+    "last_updated": "2026-10-04T15:46:17.728514+00:00",
+    "story_count": 384,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,139 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Thiruvananthapuram Corporation’s BJP councillor R. Sreelekha does a U-turn after resignation bid",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporations-bjp-councillor-r-sreelekha-does-a-u-turn-after-resignation-bid/article71544298.ece",
+      "published_date": "2026-10-04T15:34:16+00:00"
+    },
+    {
+      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-04T15:05:37+00:00"
+    },
+    {
+      "title": "2027: North-central APC set to hold rally for Tinubu’s re-election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/regional/north-central/914395-2027-north-central-apc-set-to-hold-rally-for-tinubus-re-election.html",
+      "published_date": "2026-10-04T15:01:20+00:00"
+    },
+    {
+      "title": "Protests intensify in India over demands for election chief to quit - Reuters",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5",
+      "published_date": "2026-10-04T14:25:13+00:00"
+    },
+    {
+      "title": "Argentina draws German interest. Elections, economic turbulence hold it back",
+      "source": "Buenos Aires Herald",
+      "country": "Argentina",
+      "url": "https://buenosairesherald.com/business/argentina-draws-german-interest-elections-economic-turbulence-hold-it-back",
+      "published_date": "2026-10-04T13:56:44+00:00"
+    },
+    {
+      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "published_date": "2026-10-04T13:52:33+00:00"
+    },
+    {
+      "title": "India election chief faces calls to resign from protesters, opposition",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3369713/india-election-chief-faces-calls-resign-protesters-opposition?utm_source=rss_feed",
+      "published_date": "2026-10-04T12:12:09+00:00"
+    },
+    {
+      "title": "Indians protest election chief as police probe harassment claims",
+      "source": "The Punch Nigeria",
+      "country": "India",
+      "url": "https://punchng.com/indians-protest-election-chief-as-police-probe-harassment-claims/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-04T12:11:13+00:00"
+    },
+    {
+      "title": "Lula and Bolsonaro face off in Brazil presidential race",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race",
+      "published_date": "2026-10-04T11:56:08+00:00"
+    },
+    {
+      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-04T11:28:00+00:00"
+    },
+    {
+      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
+      "published_date": "2026-10-04T11:17:45+00:00"
+    },
+    {
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "published_date": "2026-10-04T11:15:34+00:00"
+    },
+    {
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T11:03:20+00:00"
+    },
+    {
+      "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition - politico.eu",
+      "source": "Google News World",
+      "country": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3A2c094bTlpME1sb2ZWckNBUkxzSUl3Q2toQ1dRRHE2dW9RdlJfSUUzc2lKOUVCM3ZYSV9YQThNSU1VeHBMaW1mdV81LXJibGgyNnBDNldOWDN2VEIxNWFGNkxBcVFjLXRoQy1QNjBnVTUyZ1RZYy0yZF8xNDRfQkhka0dOb3pJMi12RHhLS2NQMkM0VWo5ZTBvbUl6TWJ5VnVEdTFVLUw5UFNtVmZwRjZQUQ?oc=5",
+      "published_date": "2026-10-04T10:26:00+00:00"
+    },
+    {
+      "title": "Netanyahu’s fight to own the election narrative",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
+      "published_date": "2026-10-04T10:05:53+00:00"
+    },
+    {
+      "title": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "published_date": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "title": "Pro-Ukraine governing coalition wins 35% in Latvian election",
+      "source": "CBC News World",
+      "country": "Ukraine",
+      "url": "https://www.cbc.ca/news/world/pro-ukraine-coalition-wins-35-per-cent-latvia-9.7368604?cmp=rss",
+      "published_date": "2026-10-04T08:11:49+00:00"
+    },
+    {
+      "title": "Bosnia votes as pro-Russian politician looms large over race and stalled EU bid dominate election",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
+      "published_date": "2026-10-04T06:53:37+00:00"
+    },
+    {
+      "title": "Latvian Prime Minister Andris Kulbergs wins election held under shadow of Ukraine war",
+      "source": "Japan Times",
+      "country": "Ukraine",
+      "url": "https://www.japantimes.co.jp/news/2026/10/04/world/politics/andris-kulbergs-latvia-election/",
+      "published_date": "2026-10-04T04:38:00+00:00"
+    },
     {
       "title": "TMC loses 2 chairships to BJP, rebel faction in major parliamentary panel reshuffle",
       "source": "Hindustan Times",
@@ -81,7 +214,7 @@
       "published_date": "2026-10-04T00:07:12+00:00"
     },
     {
-      "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
+      "title": "Latvia’s Andris Kulbergs wins big in election shadowed by Russia",
       "source": "South China Morning Post",
       "country": "Russia",
       "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
@@ -163,6 +296,13 @@
       "country": "Nigeria",
       "url": "https://punchng.com/oyebanji-urges-muslims-to-back-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-10-03T14:19:05+00:00"
+    },
+    {
+      "title": "Israel election double standard: Arab leader forced out, far right cleared - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVmdTRMc043eU9jM3d1cmFrRFlhWldCVzBzV1lLcEtqVU80WE5lUk5LVWlfVHd4Tnk0QUFtNEFkY0V0cUROdGlKOG9UZldTQ2dJNjVQdzVpOTlDOUFZOHI4Q1pzbGlfc1NjM2c3cFBjYnJWZGF4SUtkZXBXbHZ1WGlLT2JqN2JXb0tfYklOdzV3WGdvRlVDTnl6SXh1aUdRYlFOWnZYSVBrOVJob0hxU3RIc9IBuAFBVV95cUxNUGhZM0h1aUsyUWFuOUZOOURQLW1KZTVRTHY3NS1xR3ZLTVNxY1h3S2FqWEtIclZkSlJmMElaVG13M2pLVl8zZWROWU1Kd3dSaVZJN2dOTVNBUW5oal9mNEF0azFiWjI4T3BRNGsyaTZjWkNQU1hVRjdHb0VNcXhRMHdFUTlYOE1ZZUhBbC1pNWtrUGtXbWVhcjVZNVUzTnpWc05ZY2U1QzZHR1hkSG5TMnE1c21pRkRo?oc=5",
+      "published_date": "2026-10-03T14:10:43+00:00"
     },
     {
       "title": "Israel election double standard: Arab leader forced out, far right cleared",
@@ -2606,174 +2746,6 @@
       "country": "Germany",
       "url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
       "published_date": "2026-09-20T16:23:34+00:00"
-    },
-    {
-      "title": "Ra’am, Joint List fight bids to bar them from Knesset election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-909186",
-      "published_date": "2026-09-20T15:18:25+00:00"
-    },
-    {
-      "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
-      "source": "The Guardian World",
-      "country": "Ukraine",
-      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-      "published_date": "2026-09-20T14:44:17+00:00"
-    },
-    {
-      "title": "Tinubu congratulates by-election winners in four states",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/tinubu-congratulates-by-election-winners-in-four-states/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-09-20T14:42:37+00:00"
-    },
-    {
-      "title": "Russians vote in final day of parliamentary elections",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
-      "published_date": "2026-09-20T13:59:59+00:00"
-    },
-    {
-      "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
-      "source": "CBC News World",
-      "country": "Germany",
-      "url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss",
-      "published_date": "2026-09-20T13:48:26+00:00"
-    },
-    {
-      "title": "Polling stations for Russian State Duma elections open in Transnistria despite Moldova’s protest",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4166030-polling-stations-for-russian-state-duma-elections-open-in-transnistria-despite-moldovas-protest.html",
-      "published_date": "2026-09-20T13:32:00+00:00"
-    },
-    {
-      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-      "source": "Al Jazeera English",
-      "country": "Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-      "published_date": "2026-09-20T12:57:57+00:00"
-    },
-    {
-      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections - The New York Times",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV2JMSDJISDhpMVZxNUlOd0tDbGRqRC1Vdk9HT2FfQ3U1cjdyMWIxUmxOOEtxNlhMWE5SaGhLQXdQazNWUXVXcFJKTDFpOGUxWVdsYjM1bXZBQ2NOYW1kV1hOZi1rXzhEY29GWHRkaU1uYTNBeUpuNzBGODU4Mjg?oc=5",
-      "published_date": "2026-09-20T12:25:09+00:00"
-    },
-    {
-      "title": "Only handful of people turn up for Russian State Duma ‘elections’ in occupied Kherson region – journalist",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4166017-only-handful-of-people-turn-up-for-russian-state-duma-elections-in-occupied-kherson-region-journalist.html",
-      "published_date": "2026-09-20T12:22:00+00:00"
-    },
-    {
-      "title": "Moscow targeted by ‘largest ever’ drone attack on final day of Russia’s parliamentary election",
-      "source": "Egypt Independent",
-      "country": "Russia",
-      "url": "https://www.egyptindependent.com/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/",
-      "published_date": "2026-09-20T12:01:55+00:00"
-    },
-    {
-      "title": "Germans head to the polls in state elections as pressure mounts on Merz",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "https://www.euronews.com/my-europe/2026/09/20/germans-head-to-the-polls-in-state-elections-as-pressure-mounts-on-merz",
-      "published_date": "2026-09-20T11:43:29+00:00"
-    },
-    {
-      "title": "Last day of State Duma elections ends early in Russia-occupied Donetsk region — media",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-society/4166005-last-day-of-state-duma-elections-ends-early-in-russiaoccupied-donetsk-region-media.html",
-      "published_date": "2026-09-20T11:39:00+00:00"
-    },
-    {
-      "title": "Vladimir Putin prepares Russian draft surge, European hybrid attacks after Duma election - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTV83eGI1OGlFLXl5blNETm5JaTNuVURfUm9WZklvZFdSVW5CSFBaOVBNRWJHT1hYWS1CUzlYemk0aW5aUUljZ214SGFXQ0otLTlEdTdSbmxzWXBTS2tRcmRtc3pQb3JmV21xRmNxelh2d2ZTcDFNUUZLMERxZFZYYzFFSjRmUG5vdVE?oc=5",
-      "published_date": "2026-09-20T10:49:29+00:00"
-    },
-    {
-      "title": "Germany: Could regional polls force Friedrich Merz to step down?",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
-      "published_date": "2026-09-20T10:26:10+00:00"
-    },
-    {
-      "title": "Germans vote in elections threatening fresh blow to Merz",
-      "source": "Japan Times",
-      "country": "Germany",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/germany-elections-threat-merz/",
-      "published_date": "2026-09-20T09:26:00+00:00"
-    },
-    {
-      "title": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers historique",
-      "source": "Le Monde France",
-      "country": "Germany",
-      "url": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
-      "published_date": "2026-09-20T09:18:10+00:00"
-    },
-    {
-      "title": "On the third day of Russia’s parliamentary elections, Moscow came under what its mayor called the largest Ukrainian drone attack on the capital. Officials reported two deaths.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/20/on-the-third-day-of-russia-s-parliamentary-elections-moscow-came-under-what-its-mayor-called-the-largest-ukrainian-drone-attack-on-the-capital-officials-reported-two-deaths",
-      "published_date": "2026-09-20T08:12:19+00:00"
-    },
-    {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-20T07:57:32+00:00"
-    },
-    {
-      "title": "Chancellor Friedrich Merz under pressure ahead of German state elections",
-      "source": "The Independent UK",
-      "country": "Germany",
-      "url": "https://www.independent.co.uk/news/world/europe/germany-elections-chancellor-merz-afd-b3053051.html",
-      "published_date": "2026-09-20T07:37:48+00:00"
-    },
-    {
-      "title": "<a href=\"https://news.sky.com/story/ukraine-war-latest-russia-election-nato-poland-attacks-kyiv-donald-trump-12541713?postid=12477622#liveblog-body\">Why so many Colombians are fighting for Ukraine</a>",
-      "source": "Sky News World",
-      "country": "Ukraine",
-      "url": "https://news.sky.com/story/colombian-soldier-on-why-so-many-from-his-country-are-fighting-for-ukraine-13589997",
-      "published_date": "2026-09-20T07:35:00+00:00"
-    },
-    {
-      "title": "Ukraine pummels Moscow with drones on last day of Russian election",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368144/ukraine-pummels-moscow-drones-last-day-russian-election?utm_source=rss_feed",
-      "published_date": "2026-09-20T07:17:12+00:00"
-    },
-    {
-      "title": "Russian Election, Cast as Test of Support for Ukraine War, Enters Final Day",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/09/20/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day-a93752",
-      "published_date": "2026-09-20T07:10:45+00:00"
-    },
-    {
-      "title": "Live: Russian election enters final day after Kyiv targets Moscow in massive drone attack",
-      "source": "France 24 English",
-      "country": "Russia",
-      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-      "published_date": "2026-09-20T05:16:20+00:00"
-    },
-    {
-      "title": "Russia’s elections continue into day two with observers barred from polling stations, turnout topping 40%, and bears complicating voting",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/20/russia-s-elections-continue-into-day-two-with-observers-barred-from-polling-stations-turnout-topping-40-and-bears-complicating-voting",
-      "published_date": "2026-09-20T03:18:47+00:00"
     }
   ]
 }
