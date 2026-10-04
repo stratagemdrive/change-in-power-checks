@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-03T15:10:34.130294+00:00",
-    "story_count": 393,
+    "last_updated": "2026-10-04T02:24:44.216638+00:00",
+    "story_count": 388,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,83 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "TMC loses 2 chairships to BJP, rebel faction in major parliamentary panel reshuffle",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/tmc-loses-2-chairships-to-bjp-rebel-faction-in-major-parliamentary-panel-reshuffle-101791078983411.html",
+      "published_date": "2026-10-04T02:03:06+00:00"
+    },
+    {
+      "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-04T01:26:00+00:00"
+    },
+    {
+      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
+      "published_date": "2026-10-04T00:07:12+00:00"
+    },
+    {
+      "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
+      "published_date": "2026-10-03T23:11:44+00:00"
+    },
+    {
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "published_date": "2026-10-03T21:57:36+00:00"
+    },
+    {
+      "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+      "published_date": "2026-10-03T20:58:30+00:00"
+    },
+    {
+      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "published_date": "2026-10-03T20:16:01+00:00"
+    },
+    {
+      "title": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike - The Jerusalem Post",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSGxyQm1rZmxHTkxxUDFQaFk4STRKanRWcnhUazBiRlU4RENPOEQwYjQzaERjQzZJSldUcmNiYVVjNEVUOVRfOUhTeDdJYll1dVNOUUd4TjhudG9sM2ZRUnV2VXlOX2pOOUZtZ1F3?oc=5",
+      "published_date": "2026-10-03T19:07:14+00:00"
+    },
+    {
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "source": "Al Jazeera English",
+      "country": "Algeria",
+      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "published_date": "2026-10-03T18:03:08+00:00"
+    },
+    {
+      "title": "Efforts underway to repatriate remains of 3 Pakistanis killed while recovering hijacked tanker from Somali pirates: PMO",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2034504/efforts-underway-to-repatriate-remains-of-3-pakistanis-killed-while-recovering-hijacked-tanker-from-somali-pirates-pmo",
+      "published_date": "2026-10-03T15:45:01+00:00"
+    },
+    {
+      "title": "Israel's top court allows Arab parties to run in election - DW.com",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTJLS3pfNTVaNDZHU3I4djBYb0lXTW5vX01XTjRMdlFSQzJ2N2RFb2g0WHFGeC1ZdVl6dHg3RFVTdGluYXIwWXhlazQ0czZNSlpOTnNLZGZCbkV5TWxYUWtNV0xVTF9aeTF4cXAwaEp2aXktcW5VZ2NoeEVfajBpN1dpaXFGckYy0gGIAUFVX3lxTFBKZEpsOUdSLU03UFE5S0VYMWpyMHNWV1BCZkozZTB5ZnpxZjFhTWNJalNMMGlJc1ljVUJMWnhRMHh3X2tSTHE3UUNTQ19VOURPTWtMLUZXcklaSGI5Q1ZZbzhsY1ZZWlYzQlpOcUhTUHFCSDJFR3FjZ0xhWEN1MDdrWHJkeTcyQmk?oc=5",
+      "published_date": "2026-10-03T15:20:46+00:00"
+    },
     {
       "title": "Sreelekha’s ‘resignation’ exposes BJP’s internal troubles in Keralam, says Govindan",
       "source": "The Hindu Politics",
@@ -135,13 +212,6 @@
       "country": "Brazil",
       "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
       "published_date": "2026-10-03T07:00:35+00:00"
-    },
-    {
-      "title": "Israel's top court allows Arab parties to run in election - DW.com",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTJLS3pfNTVaNDZHU3I4djBYb0lXTW5vX01XTjRMdlFSQzJ2N2RFb2g0WHFGeC1ZdVl6dHg3RFVTdGluYXIwWXhlazQ0czZNSlpOTnNLZGZCbkV5TWxYUWtNV0xVTF9aeTF4cXAwaEp2aXktcW5VZ2NoeEVfajBpN1dpaXFGckYy0gGIAUFVX3lxTFBKZEpsOUdSLU03UFE5S0VYMWpyMHNWV1BCZkozZTB5ZnpxZjFhTWNJalNMMGlJc1ljVUJMWnhRMHh3X2tSTHE3UUNTQ19VOURPTWtMLUZXcklaSGI5Q1ZZbzhsY1ZZWlYzQlpOcUhTUHFCSDJFR3FjZ0xhWEN1MDdrWHJkeTcyQmk?oc=5",
-      "published_date": "2026-10-03T03:32:23+00:00"
     },
     {
       "title": "Brazil's big political rematch: What to know about the Brazilian election",
@@ -289,6 +359,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-910410",
       "published_date": "2026-10-02T14:06:26+00:00"
+    },
+    {
+      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief? - Al Jazeera",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmxMRkR2REV5SFBqNjdkWmpKRUNxTk9qMFlDekxxMWllQ01JMGIwN3hIQ21DdnZ3T3RZdTB1d1N1OUE2cTNhYjdzRVBuWFc2VmlUN19tWnV6WFlDdDNPRjRGNmU2Tkd6aE5yODRJS0Y4bFJDR0lYSW12WTFwVlBaS3VNWHMtRWR6akYxc2d0TFJMRnVqdzg0OWdfMVBCMnRvOGfSAacBQVVfeXFMUGc5dVhNc3lDR3dmQUtHNUVMRTdjWUxVYVE2cUpXdWxrNEpWWml2dGF3eHNDRnZvMjdueVFvTk9kbnNmTXNiNTNKQXQ4WXRqNG8wTFRaRlhPZzlOcmFuNTRoM1VpblFSR1o2R0Q2aWlwaU1TOV9rV2xRN2VXM2t6anFUOEt3aWpaRHJ4dkQzbHRXUWw4VlU5YkVrUmRCd1lsdEVxTU9zTEk?oc=5",
+      "published_date": "2026-10-02T13:54:05+00:00"
     },
     {
       "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
@@ -2697,118 +2774,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/09/20/russia-s-elections-continue-into-day-two-with-observers-barred-from-polling-stations-turnout-topping-40-and-bears-complicating-voting",
       "published_date": "2026-09-20T03:18:47+00:00"
-    },
-    {
-      "title": "Merz under pressure as two more German states hold elections",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz",
-      "published_date": "2026-09-20T01:25:00+00:00"
-    },
-    {
-      "title": "Former Syrian general who led attacks on rebels during civil war arrested",
-      "source": "Middle East Eye",
-      "country": "Syria",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-syrian-general-who-led-attacks-rebels-during-civil-war-arrested",
-      "published_date": "2026-09-20T00:09:39+00:00"
-    },
-    {
-      "title": "Georgian breakaway region declares former Russian government official the winner of its presidential election. A new treaty made his rise possible.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/20/georgian-breakaway-region-declares-former-russian-government-official-the-winner-of-its-presidential-election-a-new-treaty-made-his-rise-possible",
-      "published_date": "2026-09-19T23:31:58+00:00"
-    },
-    {
-      "title": "Russian opposition politician Ilya Yashin cancels trip to Armenia for the final day of Russia’s State Duma elections after being warned of what he called a ‘physical threat’",
-      "source": "Meduza EN",
-      "country": "Armenia",
-      "url": "https://meduza.io/en/news/2026/09/20/russian-opposition-politician-ilya-yashin-cancels-trip-to-armenia-for-the-final-day-of-russia-s-state-duma-elections-after-being-warned-of-what-he-called-a-physical-threat",
-      "published_date": "2026-09-19T23:16:00+00:00"
-    },
-    {
-      "title": "Former Russian Official Elected President of South Ossetia",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/20/former-russian-official-elected-president-of-south-ossetia-a93751",
-      "published_date": "2026-09-19T22:44:25+00:00"
-    },
-    {
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5",
-      "published_date": "2026-09-19T20:43:00+00:00"
-    },
-    {
-      "title": "Delcy Rodríguez recibió al presidente de Paraguay en Miraflores para fortalecer agenda bilateral",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-recibio-al-presidente-de-paraguay-en-miraflores-para-afortalecer-agenda-bilateral/",
-      "published_date": "2026-09-19T20:34:30+00:00"
-    },
-    {
-      "title": "Presidente do PT ameaça punir quem omitir Lula e majoritários em material de campanha",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/presidente-do-pt-ameaca-punir-quem-omitir-lula-e-majoritarios-em-material-de-campanha.shtml",
-      "published_date": "2026-09-19T18:35:00+00:00"
-    },
-    {
-      "title": "Tense Berlin election finale: who is to emerge strongest in the capital?",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "https://www.euronews.com/my-europe/2026/09/19/tense-berlin-election-finale-who-is-to-emerge-strongest-in-the-capital",
-      "published_date": "2026-09-19T18:06:46+00:00"
-    },
-    {
-      "title": "Presidente de Paraguay llega a Venezuela para un encuentro con Delcy Rodríguez",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/presidente-de-paraguay-llega-a-venezuela-para-un-encuentro-con-delcy-rodriguez/",
-      "published_date": "2026-09-19T18:00:27+00:00"
-    },
-    {
-      "title": "‘Despite Jhooth ki Goonj’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html",
-      "published_date": "2026-09-19T17:05:34+00:00"
-    },
-    {
-      "title": "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhis-system-attack-in-indore-draws-madhya-pradesh-cm-mohan-yadav-careless-politician-retort-101789828572927.html",
-      "published_date": "2026-09-19T16:42:35+00:00"
-    },
-    {
-      "title": "Así fue el brindis del Presidente Kast con el cacho de chicha",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/asi-fue-el-brindis-del-presidente-kast-con-el-cacho-de-chicha/",
-      "published_date": "2026-09-19T16:02:24+00:00"
-    },
-    {
-      "title": "Así el Presidente Kast autorizó la Gran Parada Militar",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/asi-el-presidente-kast-autorizo-la-gran-parada-militar/",
-      "published_date": "2026-09-19T15:44:32+00:00"
-    },
-    {
-      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
-      "published_date": "2026-09-19T15:28:23+00:00"
-    },
-    {
-      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
-      "published_date": "2026-09-19T15:18:00+00:00"
     }
   ]
 }
