@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-04T15:46:17.728514+00:00",
-    "story_count": 384,
+    "last_updated": "2026-10-05T01:32:58.181350+00:00",
+    "story_count": 383,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,174 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/10/05/world/brazil-lula-bolsonaro-narrow-election/",
+      "published_date": "2026-10-05T01:01:00+00:00"
+    },
+    {
+      "title": "Election panel orders Netanyahu to remove 'election propaganda' videos",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-panel-orders-netanyahu-remove-election-propaganda-videos",
+      "published_date": "2026-10-05T00:30:16+00:00"
+    },
+    {
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T00:27:06+00:00"
+    },
+    {
+      "title": "Brazil election: Bolsonaro and Lula head to runoff",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-05T00:27:00+00:00"
+    },
+    {
+      "title": "Brazil presidential election 2026: first-round live results",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "published_date": "2026-10-05T00:24:55+00:00"
+    },
+    {
+      "title": "Elections in Brazil: Bolsonaro wins, not enough to avoid runoff against Lula",
+      "source": "Buenos Aires Herald",
+      "country": "Brazil",
+      "url": "https://buenosairesherald.com/world/latin-america/elections-in-brazil-bolsonaro-wins-not-enough-to-avoid-runoff-against-lula",
+      "published_date": "2026-10-05T00:22:32+00:00"
+    },
+    {
+      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "published_date": "2026-10-05T00:17:35+00:00"
+    },
+    {
+      "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
+      "published_date": "2026-10-05T00:16:52+00:00"
+    },
+    {
+      "title": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
+      "published_date": "2026-10-05T00:16:05+00:00"
+    },
+    {
+      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "source": "Jerusalem Post",
+      "country": "Brazil",
+      "url": "https://www.jpost.com/international/article-910588",
+      "published_date": "2026-10-04T23:39:55+00:00"
+    },
+    {
+      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+      "published_date": "2026-10-04T22:42:48+00:00"
+    },
+    {
+      "title": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-polls-close-bolsonaro-b3061216.html",
+      "published_date": "2026-10-04T22:18:16+00:00"
+    },
+    {
+      "title": "Brazil's election could shift its ties with the U.S. and China",
+      "source": "NPR World",
+      "country": "China",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+      "published_date": "2026-10-04T21:53:15+00:00"
+    },
+    {
+      "title": "Brazil braces for results of election battle between Lula and Bolsonaro",
+      "source": "Vanguard Nigeria",
+      "country": "Brazil",
+      "url": "https://www.vanguardngr.com/2026/10/brazil-braces-for-results-of-election-battle-between-lula-and-bolsonaro/",
+      "published_date": "2026-10-04T20:56:51+00:00"
+    },
+    {
+      "title": "Lula, Bolsonaro head to run-off after neither secure majority in Brazil election's 1st round",
+      "source": "CBC News World",
+      "country": "Brazil",
+      "url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047?cmp=rss",
+      "published_date": "2026-10-04T20:26:14+00:00"
+    },
+    {
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T20:14:49+00:00"
+    },
+    {
+      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+      "published_date": "2026-10-04T20:00:05+00:00"
+    },
+    {
+      "title": "US to send additional forces to Israel for potential escalation as both countries elections near",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/article-910572",
+      "published_date": "2026-10-04T19:29:24+00:00"
+    },
+    {
+      "title": "Israeli opposition leader calls for Jordanian-Israeli control over West Bank",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-calls-jordanian-israeli-control-over-west-bank",
+      "published_date": "2026-10-04T18:58:48+00:00"
+    },
+    {
+      "title": "Serb nationalist credits Trump, Putin after declaring his party's victory in Bosnian election",
+      "source": "CBC News World",
+      "country": "Russia",
+      "url": "https://www.cbc.ca/news/world/bosnia-election-serb-nationalist-9.7368979?cmp=rss",
+      "published_date": "2026-10-04T18:54:43+00:00"
+    },
+    {
+      "title": "Iranian oil minister steps down",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-minister-steps-down",
+      "published_date": "2026-10-04T18:14:41+00:00"
+    },
+    {
+      "title": "Brazil heads to run-off between Lula and pro-Trump Senator Flavio Bolsonaro",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
+      "published_date": "2026-10-04T17:48:51+00:00"
+    },
+    {
+      "title": "2027: Adewale Ayuba backs Tinubu’s re-election, gives reason",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/914454-2027-adewale-ayuba-backs-tinubus-re-election-gives-reason.html",
+      "published_date": "2026-10-04T17:47:36+00:00"
+    },
+    {
+      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
+      "published_date": "2026-10-04T16:38:55+00:00"
+    },
     {
       "title": "Thiruvananthapuram Corporation’s BJP councillor R. Sreelekha does a U-turn after resignation bid",
       "source": "The Hindu Politics",
@@ -81,6 +249,13 @@
       "published_date": "2026-10-04T15:01:20+00:00"
     },
     {
+      "title": "Brazilians vote in first round of presidential election",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/2026/10/04/polling-stations-open-in-brazil-for-some-160-million-voters",
+      "published_date": "2026-10-04T14:32:06+00:00"
+    },
+    {
       "title": "Protests intensify in India over demands for election chief to quit - Reuters",
       "source": "Google News World",
       "country": "India",
@@ -95,7 +270,7 @@
       "published_date": "2026-10-04T13:56:44+00:00"
     },
     {
-      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "title": "Polls close in first round of Brazil’s high-stakes presidential election",
       "source": "The Guardian World",
       "country": "Brazil",
       "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
@@ -130,7 +305,7 @@
       "published_date": "2026-10-04T11:28:00+00:00"
     },
     {
-      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "title": "Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro",
       "source": "France 24 English",
       "country": "Brazil",
       "url": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
@@ -142,13 +317,6 @@
       "country": "Brazil",
       "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
       "published_date": "2026-10-04T11:15:34+00:00"
-    },
-    {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T11:03:20+00:00"
     },
     {
       "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition - politico.eu",
@@ -2571,181 +2739,6 @@
       "country": "Russia",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-september-21-tata-dispute-delhi-sir-notices-and-putins-stronghold-in-wartime-elections-101789959691940.html",
       "published_date": "2026-09-21T03:12:49+00:00"
-    },
-    {
-      "title": "Russia held its first State Duma election since the full-scale invasion of Ukraine. Officials say the same five parties are set to return, with the ruling party on track to retain its majority.",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/09/21/russia-held-its-first-state-duma-election-since-the-full-scale-invasion-of-ukraine-officials-say-the-same-five-parties-are-set-to-return-with-the-ruling-party-on-track-to-retain-its-majority",
-      "published_date": "2026-09-21T00:50:05+00:00"
-    },
-    {
-      "title": "In photos: Russians abroad hold peace rallies on the main day of voting in Russia’s State Duma elections as voters at home write ‘No war’ on ballots",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/21/in-photos-russians-abroad-hold-peace-rallies-on-the-main-day-of-voting-in-russia-s-state-duma-elections-as-voters-at-home-write-no-war-on-ballots",
-      "published_date": "2026-09-21T00:16:53+00:00"
-    },
-    {
-      "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote - AP News",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
-      "published_date": "2026-09-21T00:13:00+00:00"
-    },
-    {
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "source": "BBC World",
-      "country": "Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-21T00:05:11+00:00"
-    },
-    {
-      "title": "Russia’s election commission says five parties are on track to enter the State Duma. Ruling United Russia had 57.19% with results in from more than a third of precincts.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/21/russia-s-election-commission-says-five-parties-are-on-track-to-enter-the-state-duma-ruling-united-russia-had-57-19-with-results-in-from-more-than-a-third-of-precincts",
-      "published_date": "2026-09-20T23:47:36+00:00"
-    },
-    {
-      "title": "Polls close in Russian wartime election with ruling party set to dominate",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "published_date": "2026-09-20T22:54:00+00:00"
-    },
-    {
-      "title": "Poland condemns Russia's illegal 'elections' in temporarily occupied territories of Ukraine",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4166108-poland-condemns-russias-illegal-elections-in-temporarily-occupied-territories-of-ukraine.html",
-      "published_date": "2026-09-20T20:22:00+00:00"
-    },
-    {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-20T20:21:40+00:00"
-    },
-    {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
-      "published_date": "2026-09-20T20:21:40+00:00"
-    },
-    {
-      "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow",
-      "published_date": "2026-09-20T20:14:33+00:00"
-    },
-    {
-      "title": "2027: Sowunmi mobilises grassroots for Tinubu’s re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/2027-sowunmi-mobilises-grassroots-for-tinubus-re-election/",
-      "published_date": "2026-09-20T20:04:13+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Russian exit poll projects comfortable election win for Putin-backed party",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html",
-      "published_date": "2026-09-20T19:56:25+00:00"
-    },
-    {
-      "title": "Russia vows revenge for Ukraine’s election-day attacks as poll shows win for ruling party",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368177/russia-vows-revenge-ukraines-election-day-attacks-poll-shows-win-ruling-party?utm_source=rss_feed",
-      "published_date": "2026-09-20T19:23:35+00:00"
-    },
-    {
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "source": "BBC World",
-      "country": "Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-20T19:04:11+00:00"
-    },
-    {
-      "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
-      "source": "The Guardian World",
-      "country": "Germany",
-      "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
-      "published_date": "2026-09-20T18:33:02+00:00"
-    },
-    {
-      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war - AP News",
-      "source": "Google News World",
-      "country": "Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-      "published_date": "2026-09-20T18:23:00+00:00"
-    },
-    {
-      "title": "Putin's ruling party romps to win in wartime Russian election",
-      "source": "CBC News World",
-      "country": "Russia",
-      "url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526?cmp=rss",
-      "published_date": "2026-09-20T17:47:41+00:00"
-    },
-    {
-      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-      "source": "NPR World",
-      "country": "Germany",
-      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
-      "published_date": "2026-09-20T17:29:29+00:00"
-    },
-    {
-      "title": "Germany’s Merz vows to press ahead with reforms after historic state election defeat",
-      "source": "South China Morning Post",
-      "country": "Germany",
-      "url": "https://www.scmp.com/news/world/europe/article/3368175/germanys-merz-vows-press-ahead-reforms-after-historic-state-election-defeat?utm_source=rss_feed",
-      "published_date": "2026-09-20T17:24:32+00:00"
-    },
-    {
-      "title": "Germany's Merz vows to press on with reforms despite state election defeat",
-      "source": "RFI English",
-      "country": "Germany",
-      "url": "https://www.rfi.fr/en/international/20260920-germany-s-merz-vows-to-press-on-with-reforms-despite-state-election-defeat",
-      "published_date": "2026-09-20T17:21:54+00:00"
-    },
-    {
-      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
-      "source": "The Independent UK",
-      "country": "Saudi Arabia",
-      "url": "https://www.independent.co.uk/news/world/americas/red-sea-yemen-saudi-arabia-houthi-iran-b3053187.html",
-      "published_date": "2026-09-20T17:01:13+00:00"
-    },
-    {
-      "title": "Exit polls show 'disaster' for Merz' CDU party in two state elections",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/exit-polls-show-disaster-for-merz-cdu-party-in-two-state-elections",
-      "published_date": "2026-09-20T16:54:05+00:00"
-    },
-    {
-      "title": "Exit polls show Merz’s party suffering heavy losses in 2 German state elections",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "https://www.euronews.com/my-europe/2026/09/20/german-exit-polls-show-merzs-party-suffering-heavy-losses-in-2-german-state-elections",
-      "published_date": "2026-09-20T16:34:52+00:00"
-    },
-    {
-      "title": "Under-pressure German leader says state election result a 'disaster'",
-      "source": "Sky News World",
-      "country": "Germany",
-      "url": "https://news.sky.com/story/german-chancellor-friedrich-merz-says-state-election-result-a-disaster-but-vows-to-stay-in-office-13590184",
-      "published_date": "2026-09-20T16:26:00+00:00"
-    },
-    {
-      "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
-      "source": "France 24 English",
-      "country": "Germany",
-      "url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
-      "published_date": "2026-09-20T16:23:34+00:00"
     }
   ]
 }
