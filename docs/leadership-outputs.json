@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-05T19:37:59.687027+00:00",
-    "story_count": 366,
+    "last_updated": "2026-10-06T02:44:22.423224+00:00",
+    "story_count": 369,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,53 @@
   },
   "stories": [
     {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente celebró el resultado en Brasil y dijo que el continente americano “quiere vivir en libertad”",
+      "title": "Board of Peace ‘not stepping back’ from Gaza plan ahead of Israeli elections - report",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/israel-news/article-910728",
+      "published_date": "2026-10-06T02:56:50+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente apuntó contra los “zurdos empobrecedores” y llamó a darle “brillo” al continente",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-celebro-el-resultado-en-brasil-y-dijo-que-el-nid05102026/",
-      "published_date": "2026-10-05T19:31:19+00:00"
+      "published_date": "2026-10-06T01:30:00+00:00"
+    },
+    {
+      "title": "FlyDubai hijacking turns into flash point in Israeli election",
+      "source": "Japan Times",
+      "country": "Israel",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/world/politics/flydubai-hijacking-israeli-election/",
+      "published_date": "2026-10-06T01:30:00+00:00"
+    },
+    {
+      "title": "Lula hunts for one more improbable comeback after shock election setback",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/world/politics/lula-improbable-comeback/",
+      "published_date": "2026-10-06T01:17:00+00:00"
+    },
+    {
+      "title": "Kassio quer julgar soltura de Bolsonaro após 2º turno e avalia libertar ex-presidente com liminar",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-quer-julgar-soltura-de-bolsonaro-apos-2o-turno-e-avalia-libertar-ex-presidente-com-liminar.shtml",
+      "published_date": "2026-10-05T23:24:00+00:00"
+    },
+    {
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T23:19:14+00:00"
+    },
+    {
+      "title": "Brazil’s presidential race head for a tough runoff",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss",
+      "published_date": "2026-10-05T21:00:59+00:00"
     },
     {
       "title": "EN DIRECT - France-Belgique : gros coup de froid au Stade de France, les Bleus de Zidane menés pour la première fois",
@@ -88,7 +130,7 @@
       "published_date": "2026-10-05T18:44:35+00:00"
     },
     {
-      "title": "Quebec votes in provincial election as separatist surge poses test for Canada’s PM Carney",
+      "title": "Separatists win Quebec election in fresh test for Canada’s Carney",
       "source": "South China Morning Post",
       "country": "Canada",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369837/quebec-votes-provincial-election-separatist-surge-poses-test-canadas-pm-carney?utm_source=rss_feed",
@@ -107,6 +149,13 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/10/05/an-activist-challenged-russian-officials-after-they-blocked-his-anti-fraud-rally-now-he-s-been-jailed-on-drug-charges",
       "published_date": "2026-10-05T16:32:04+00:00"
+    },
+    {
+      "title": "CIA Report Warns Israel Could Head Toward Civil War, Total Collapse - Drop Site News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ2JwMENmaDg0TUFMTFJoNlBOMVA1U0IyOXFCVzY5NnFTVnlyVjlTUGZRcFlfWl9FS0RJWTBUMHgtTm9KVGk3aWxqNTAzdmVEZElSRXozOWRZTWdINjVidV9MNUxGYjVCemVESWpfWWUwYVo2d1E?oc=5",
+      "published_date": "2026-10-05T16:30:47+00:00"
     },
     {
       "title": "Lula “acorralado” por la “avalancha” del bolsonarismo: El complejo escenario para el presidente brasileño de cara al balotaje",
@@ -244,16 +293,9 @@
     {
       "title": "Trump mistakes Brazil for India, says 125 million voted today in 'India's Presidential Election'",
       "source": "Hindustan Times",
-      "country": "Brazil",
+      "country": "India",
       "url": "https://www.hindustantimes.com/india-news/trump-mistakes-brazil-for-india-says-125-million-voted-today-in-india-presidential-election-101791172300909.html",
       "published_date": "2026-10-05T04:05:55+00:00"
-    },
-    {
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T03:16:16+00:00"
     },
     {
       "title": "Bolsonaro and Lula to compete in Brazilian presidential run-off",
@@ -527,6 +569,13 @@
       "country": "Brazil",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
       "published_date": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "title": "2026 Brazil Elections: What to Know as Lula and Bolsonaro Face Off - nytimes.com",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3Z1akZ4cDU5MThrTzBKTk9kMkJhLThaQzBoSE9aWDF5SE1RMG5RVDhXal9vbEppSUllMXliWEc2a3l5T1BrX2pzemsxSjB3U19zNlp1Szd0TWlScTBKb1ZPVjZTQVVDbEk3RmNVNXYtSlBVTVhHczI1WDN3dUhiNFNWMEdacGZnQmhzMjA4ODBpY093U21ySF9KSktna3UwNUxOSDBqSG8?oc=5",
+      "published_date": "2026-10-04T09:02:23+00:00"
     },
     {
       "title": "Pro-Ukraine governing coalition wins 35% in Latvian election",
@@ -2592,34 +2641,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bjp-seeks-to-shore-up-dalit-support-ahead-of-uttar-pradesh-assembly-elections-101790054101372.html",
       "published_date": "2026-09-22T05:37:51+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente consideró como “matices de opinión” las internas en el Ejecutivo",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-considero-como-matices-de-opinion-las-internas-en-nid21092026/",
-      "published_date": "2026-09-22T01:00:00+00:00"
-    },
-    {
-      "title": "Na reta final, campanha de Lula reforça atos de rua e presença do presidente nos estados",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/na-reta-final-campanha-de-lula-reforca-atos-de-rua-e-presenca-do-presidente-nos-estados.shtml",
-      "published_date": "2026-09-21T20:53:00+00:00"
-    },
-    {
-      "title": "Novaya Gazeta Europe: United Russia would have won just 34% in State Duma elections without ballot stuffing",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/21/novaya-gazeta-europe-united-russia-would-have-won-just-34-in-state-duma-elections-without-ballot-stuffing",
-      "published_date": "2026-09-21T20:44:52+00:00"
-    },
-    {
-      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-      "source": "Al Jazeera English",
-      "country": "Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-      "published_date": "2026-09-21T20:17:39+00:00"
     }
   ]
 }
