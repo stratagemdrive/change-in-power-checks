@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-06T02:44:22.423224+00:00",
-    "story_count": 369,
+    "last_updated": "2026-10-06T17:09:59.191947+00:00",
+    "story_count": 375,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,125 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu: Hamas will try to influence election with terror attacks, Israel is prepared",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-910823",
+      "published_date": "2026-10-06T18:48:52+00:00"
+    },
+    {
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "source": "BBC World",
+      "country": "Canada",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:51:59+00:00"
+    },
+    {
+      "title": "AfD struggles to form government in Germany despite landmark election victory",
+      "source": "Jerusalem Post",
+      "country": "Germany",
+      "url": "https://www.jpost.com/international/article-910806",
+      "published_date": "2026-10-06T16:48:42+00:00"
+    },
+    {
+      "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "published_date": "2026-10-06T16:40:45+00:00"
+    },
+    {
+      "title": "'No party sought meeting till 4 pm': EC on INDIA bloc sit-in against CEC Gyanesh Kumar",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/no-party-sought-meeting-before-4pm-ec-on-india-bloc-uproar-against-gyanesh-kumar-rahul-gandhi-priyanka-gandhi-akashvani-bhavan-in-delhi-cec-protest-101791300694946.html",
+      "published_date": "2026-10-06T15:35:01+00:00"
+    },
+    {
+      "title": "Se eleito, Flávio Bolsonaro poderia perdoar Jair a tempo de ex-presidente subir a rampa com filho? Entenda",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/se-eleito-flavio-bolsonaro-poderia-perdoar-jair-a-tempo-de-ex-presidente-subir-a-rampa-com-filho-entenda.shtml",
+      "published_date": "2026-10-06T15:00:00+00:00"
+    },
+    {
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "source": "BBC World",
+      "country": "Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T14:44:03+00:00"
+    },
+    {
+      "title": "AfD candidate elected speaker of German regional parliament for first time - BBC",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waGVxSGFhNDJ0YU1VcTZNN3hVaUVwRlI3ZFZkTTc3bUQ3d0djV3pseEU5dS11S2dVbVYtVjh1elY0ZzFacWI5SlE3ZVBjNDB0OGhZVzJqT055YWs?oc=5",
+      "published_date": "2026-10-06T14:44:03+00:00"
+    },
+    {
+      "title": "India opposition parties rally for election chief’s exit over voter list changes",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261006-india-opposition-parties-rally-for-election-chief-s-exit-over-voter-list-changes",
+      "published_date": "2026-10-06T14:06:37+00:00"
+    },
+    {
+      "title": "India opposition lawmakers detained over protest against election chief",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3369942/india-opposition-lawmakers-detained-over-protest-against-election-chief?utm_source=rss_feed",
+      "published_date": "2026-10-06T12:01:02+00:00"
+    },
+    {
+      "title": "25 years of Narendra Modi as head of state: From Gujarat to the Centre and the global stage",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/25-years-of-narendra-modi-as-head-of-state-from-gujarat-to-the-centre-and-the-global-stage-101791287302846.html",
+      "published_date": "2026-10-06T11:57:42+00:00"
+    },
+    {
+      "title": "Presidente Kast promulga ley que aumenta el plazo de flagrancia de 12 a 24 horas para policías",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-promulga-ley-que-aumenta-el-plazo-de-flagrancia-de-12-a-24-horas-para-policias/",
+      "published_date": "2026-10-06T11:48:26+00:00"
+    },
+    {
+      "title": "Quebec separatist party wins provincial election in test of Canada's unity",
+      "source": "RFI English",
+      "country": "Canada",
+      "url": "https://www.rfi.fr/en/international/20261006-quebec-separatist-party-wins-provincial-election-in-test-of-canada-s-unity",
+      "published_date": "2026-10-06T11:35:27+00:00"
+    },
+    {
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T10:05:22+00:00"
+    },
+    {
+      "title": "India opposition leader Rahul Gandhi briefly detained during protest seeking election chief’s resignation",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2035136/india-opposition-leader-rahul-gandhi-briefly-detained-during-protest-seeking-election-chiefs-resignation",
+      "published_date": "2026-10-06T07:29:02+00:00"
+    },
+    {
+      "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "published_date": "2026-10-06T07:00:05+00:00"
+    },
+    {
+      "title": "‘Did Rahul and Sonia Gandhi win elections through vote chori’: BJP as poll process row intensifies",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/did-rahul-and-sonia-gandhi-win-elections-through-vote-chori-bjp-as-poll-process-row-intensifies-101791266052956.html",
+      "published_date": "2026-10-06T06:26:28+00:00"
+    },
     {
       "title": "Board of Peace ‘not stepping back’ from Gaza plan ahead of Israeli elections - report",
       "source": "Jerusalem Post",
@@ -191,6 +310,13 @@
       "country": "Brazil",
       "url": "https://buenosairesherald.com/world/brazil-2026-elections-bolsonaros-party-sweeps-senate-and-state-elections",
       "published_date": "2026-10-05T15:29:19+00:00"
+    },
+    {
+      "title": "Israeli election déjà vu - Jewish Insider",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEd0X1MwVHhvM2NGSE5xaEg4dm8wVUtoaTRvWDZRRnZ5REwydjJxLWJZektNbWFGMTBJeGZSQmRMTjg1cjFwaFdwX0tjRlR6RktocEx2TlRRWnZlN2FpZDBtcG02NzdMTlQxOHUyeGpKeVdxZXdnMHp6aGlySEg1Tm5FbjdHUlVXNDZYclNCSGFWM0hE?oc=5",
+      "published_date": "2026-10-05T15:26:46+00:00"
     },
     {
       "title": "102 HoR members meet in Benghazi without Speaker Saleh – 98 approve change of leadership election procedure",
@@ -2557,90 +2683,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/22/activists-file-notices-for-protests-against-election-fraud-in-four-russian-cities-st-petersburg-perm-izhevsk-and-kazan",
       "published_date": "2026-09-22T17:48:31+00:00"
-    },
-    {
-      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - DW.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlg3QnA0RVJzWFVJVy1oNWhjM041ZGZ4dmxEakdqLXpfR1NKNXlscFpDaFdiRjNXYWQ0R3VGbkZZc0liUm5oc04xdE4wYWRvWmtZYWlIVnBNZnJnTmxvMThSdjhOeGk2eWNiX3JyTmNZR0RPMHkwMW1pRVJGSS1XMExaZTBWVTNPYUU2UXRmNGF3Qm5SX3Vtb0pqcFBxZnBOQ2k5ZVhHdUo2c2FqYXg2TE5maWFNSEFJdWxQX1ZxLVVWVEhnQVFhX9IByAFBVV95cUxQNEp6azgtbGNaeEFVMExFVDRsMVNPZXk2cWZITURpOXFOcUg5WkJObE5LSjhkZ1l4TzBiQl95bHo3aWNpZmZUVlZiaGtFRWk1b0pMekJKckhUNU90bXJTd1hCaHYtU0tfSjNMZnp5WWlhY1Q5MlhpS0VvSXZPYnJOb00xMXJER1JWeDFuNnlsU0NzbUdUMHhvNEt3UU5aeVFXSWQydEFLaDBheTlmUWlHU2I0VTEtRkc4YlNydTRHRVR0cjNCR2tWTQ?oc=5",
-      "published_date": "2026-09-22T16:51:27+00:00"
-    },
-    {
-      "title": "Presidente Santiago Peña \"quiere colaborar\" en la transición de Venezuela a la democracia",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/presidente-santiago-pena-quiere-colaborar-en-la-transicion-de-venezuela-a-la-democracia/",
-      "published_date": "2026-09-22T16:23:56+00:00"
-    },
-    {
-      "title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84?oc=5",
-      "published_date": "2026-09-22T15:00:59+00:00"
-    },
-    {
-      "title": "Armenian opposition leader marks independence day in enclave at centre of dispute",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-opposition-leader-marks-independence-day-in-enclave-at-centre-of-dispute/",
-      "published_date": "2026-09-22T12:43:50+00:00"
-    },
-    {
-      "title": "Fake and divisive ads proliferate in Israel’s first AI election",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/09/22/world/fake-ads-israel-ai-election/",
-      "published_date": "2026-09-22T11:38:00+00:00"
-    },
-    {
-      "title": "Actual turnout in Russia’s State Duma election was about 40%, experts say. Russia’s Central Election Commission put it at 59%.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/22/actual-turnout-in-russia-s-state-duma-election-was-about-40-experts-say-russia-s-central-election-commission-put-it-at-59",
-      "published_date": "2026-09-22T11:12:43+00:00"
-    },
-    {
-      "title": "‘The choice was prison or exile’: journalists who fled Russia publish grim portrait of Putin",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/sep/22/vladimir-putin-biography-russia-journalists-exile",
-      "published_date": "2026-09-22T10:58:15+00:00"
-    },
-    {
-      "title": "Germany wants to restrict Saxony-Anhalt’s access to classified information on Russia after AfD election win",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/22/germany-wants-to-restrict-saxony-anhalt-s-access-to-classified-information-on-russia-after-afd-election-win",
-      "published_date": "2026-09-22T08:45:27+00:00"
-    },
-    {
-      "title": "Ukrainian medics recall how they saved North Korean POW captured by Kyiv",
-      "source": "NK News",
-      "country": "Ukraine",
-      "url": "https://www.nknews.org/2026/09/ukrainian-medics-recall-how-they-saved-north-korean-pow-captured-by-kyiv/",
-      "published_date": "2026-09-22T08:32:01+00:00"
-    },
-    {
-      "title": "‘One phone call, and they rewrote the number’: Election analyst says A Just Russia was handed some 60,000 votes as it risked missing State Duma threshold",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/22/one-phone-call-and-they-rewrote-the-number-election-analyst-says-a-just-russia-was-handed-some-60-000-votes-as-it-risked-missing-state-duma-threshold",
-      "published_date": "2026-09-22T08:30:52+00:00"
-    },
-    {
-      "title": "Germany: Chancellor Merz faces difficult days ahead after far-right AfD and Left Party election wins - dw.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1BnTU5JU1ZlMkluSmNQWlhfR0xvdDJ1Wk5YZGVtZS15S2JoSjRnTzlqQlNvdEtIY2Z6TmZ0QnRKdS1keWVIc19zTGdReFVqRFpVbG50SlJkMjlsNDZsRERIVDVhdHFpaDJRMHBnamtiVUZ4dF9zXzhRY0Z3c3Z6Rm5BRWYyX0JIZ3JGWklvN3p4Z9IBkgFBVV95cUxNNnBSVVM1S1RpMFoyc3BhUkc5bmJtTU1NcTU0b08tVkxaeUt5VC1MM0ZFZXEwM1J5NU9pY3NOdUN5RmpVbWVZdlliSGVJcVZoeXVvTnVoSW9XQmNqX2VsU3FncG4tck55anR4aUg2ZzlUdDFDbDZrY195RG92OWdZYnNDcl9IUUk5aHAwMG14MXd4Zw?oc=5",
-      "published_date": "2026-09-22T08:30:30+00:00"
-    },
-    {
-      "title": "BJP seeks to shore up Dalit support ahead of Uttar Pradesh assembly elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-seeks-to-shore-up-dalit-support-ahead-of-uttar-pradesh-assembly-elections-101790054101372.html",
-      "published_date": "2026-09-22T05:37:51+00:00"
     }
   ]
 }
