@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-06T17:09:59.191947+00:00",
-    "story_count": 375,
+    "last_updated": "2026-10-07T02:02:32.005770+00:00",
+    "story_count": 373,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,60 @@
   },
   "stories": [
     {
+      "title": "Rahul Gandhi leads opposition protest, calls for Election Commissioner to step down",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-leads-opposition-protest-calls-for-election-commissioner-to-step-down-101791329769925.html",
+      "published_date": "2026-10-07T01:23:39+00:00"
+    },
+    {
+      "title": "Palestinian Authority says Israel blocked election officials from Jerusalem, Gaza",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-says-israel-blocked-election-officials-jerusalem",
+      "published_date": "2026-10-06T21:32:46+00:00"
+    },
+    {
+      "title": "About 76% voter turnout in Nagaon Lok Sabha bypoll",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/assam/about-76-voter-turnout-in-nagaon-lok-sabha-bypoll/article71552134.ece",
+      "published_date": "2026-10-06T21:32:17+00:00"
+    },
+    {
+      "title": "Libya’s parliament speaker ousted after 12 years",
+      "source": "Vanguard Nigeria",
+      "country": "Libya",
+      "url": "https://www.vanguardngr.com/2026/10/libyas-parliament-speaker-ousted-after-12-years/",
+      "published_date": "2026-10-06T21:12:49+00:00"
+    },
+    {
+      "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+      "published_date": "2026-10-06T20:44:12+00:00"
+    },
+    {
       "title": "Netanyahu: Hamas will try to influence election with terror attacks, Israel is prepared",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/article-910823",
       "published_date": "2026-10-06T18:48:52+00:00"
+    },
+    {
+      "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election - The New York Times",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0x4djRHclZucTBZaDNyYTl2bGNBbEwwWTduME12SkhCUEpvZ0pWZFRfZ056QWlGbVp3enREYWZqY2dncFYzZHI1Yk1nUWM0bS11cnRBUWJYeGRpTFJ0cjJLbTFNcHNDbGxPMzB2MHh0cVpvVHpmeEJ1Z0puTnRRZGNuLVNYUXV4QU9QaTZRZnVRRFlGYWRr?oc=5",
+      "published_date": "2026-10-06T17:37:07+00:00"
+    },
+    {
+      "title": "SP decides not a field a third candidate for the Rajya Sabha election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/sp-decides-not-a-field-a-third-candidate-for-the-rajya-sabha-election/article71552400.ece",
+      "published_date": "2026-10-06T17:23:06+00:00"
     },
     {
       "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
@@ -149,6 +198,13 @@
       "country": "Canada",
       "url": "https://www.rfi.fr/en/international/20261006-quebec-separatist-party-wins-provincial-election-in-test-of-canada-s-unity",
       "published_date": "2026-10-06T11:35:27+00:00"
+    },
+    {
+      "title": "French far-right presidential candidate Marine Le Pen's main budget proposals - Reuters",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXZKbnJ5WkRxOHFtVkl3dDU0aTRXUXp4Z2JOUU85RmhuV2VmUnl2dnBBR19NSmRQejdpekdhbjN4cTg1NnJuVDdqLXVzSU9wT3RIUEMwWDNhMm9tT1J0NGQ1SUlLN0NPX2Q1VVVPQl9TbEd3Wm9vSzdYQV9rNEFZdERadk5LNFNUUmR6Szl6c0xpaHdLbGZGTnRKbi12UXg2N2ZUWmJDemR3UVEtdFZQSlJBa3RjY2YxYkVURm9KTEJkeFU?oc=5",
+      "published_date": "2026-10-06T11:11:43+00:00"
     },
     {
       "title": "Indian opposition MPs detained in protest against election chief",
@@ -2613,76 +2669,6 @@
       "country": "Sudan",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGVLaFdCNmU2cEx6YzBCYVNmNGpMeTB6UTlWWDY3RXVNZGp4V2Nmc3VoUWVlNnJieXVNUXJNbVl1cEI3TjFPcXl4RjREYkkwalRUbFEycFhzM1dldE1ZREM5NHhiQkFLY0dRNm80dG1WeXNMWGE3Y1h0ZkZzNmpQSFVXX2Etb3ljNmlWN2t6VlIwZWdCZE1OMlNwYndsaWNFWHpvX2xpaEJLZmFoODkwU2FB0gG3AUFVX3lxTFA3Q0xaSUtma05naURhRnNJOG1IMld2N25ZM05MLWczLVp6c2NDWUdGSFVpbWNIQVdYVUdVT085b2hscnRtU21ySVlvSzhtNlZSZ0VPdkRIUGp5OGswcG1JV05SbjVpclo2N25jVTBuUmFacU81cHg5VHQ3UmhFdzV6MHk5X2RRQTNyWTN5RW91cHFHZDNrWFdhMks2SEZwSUswZFFBdFI2VGoyb01tN0o0ZHo3NHcyNA?oc=5",
       "published_date": "2026-09-23T02:01:55+00:00"
-    },
-    {
-      "title": "Election analyst Ivan Shukshin says Moscow precinct results are being rewritten after Russia’s State Duma election",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/23/election-analyst-ivan-shukshin-says-moscow-precinct-results-are-being-rewritten-after-russia-s-state-duma-election",
-      "published_date": "2026-09-22T22:04:24+00:00"
-    },
-    {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "source": "BBC World",
-      "country": "Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T20:59:00+00:00"
-    },
-    {
-      "title": "Morocco election: How Ceuta, football and Israel have shaped the campaign - BBC",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LS09DRExRangzQ3NJTkpsblN1Q0dkRU9uZkZWTldva3haLTExa0tRWGFNVFl1N1I4Tm9MN0xINUM2aGhDWDVYb0trMTNoR0N2TmRzdkJIbVNSUW8?oc=5",
-      "published_date": "2026-09-22T20:59:00+00:00"
-    },
-    {
-      "title": "Presidente Kast se reunirá este jueves con Delcy Rodríguez",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-se-reunira-este-jueves-con-delcy-rodriguez/",
-      "published_date": "2026-09-22T19:56:18+00:00"
-    },
-    {
-      "title": "Presidente Kast concretó participación en encuentro del “Escudo de las Américas” que encabezó Donald Trump",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-concreto-participacion-en-encuentro-del-escudo-de-las-americas-que-encabezo-donald-trump/",
-      "published_date": "2026-09-22T19:52:39+00:00"
-    },
-    {
-      "title": "Freezing democracy: On the Election Commission of India and West Bengal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece",
-      "published_date": "2026-09-22T19:50:54+00:00"
-    },
-    {
-      "title": "Packed schedule for Jaishankar at UN as India campaigns for Security Council election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece",
-      "published_date": "2026-09-22T19:08:32+00:00"
-    },
-    {
-      "title": "Presidente Kast refuerza la soberanía de Chile sobre el Estrecho de Magallanes en su debut ante la ONU",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/videos/noticia/presidente-kast-refuerza-la-soberania-de-chile-sobre-el-estrecho-de-magallanes-en-su-debut-ante-la-onu/",
-      "published_date": "2026-09-22T18:08:29+00:00"
-    },
-    {
-      "title": "Presidente Kast y crítico mensaje a la ONU: “Esta organización no ha estado a la altura de los desafíos de nuestros tiempos”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-y-critico-mensaje-a-la-onu-esta-organizacion-no-ha-estado-a-la-altura-de-los-desafios-de-nuestros-tiempos/",
-      "published_date": "2026-09-22T18:08:27+00:00"
-    },
-    {
-      "title": "Activists file notices for protests against election fraud in four Russian cities: St. Petersburg, Perm, Izhevsk, and Kazan",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/22/activists-file-notices-for-protests-against-election-fraud-in-four-russian-cities-st-petersburg-perm-izhevsk-and-kazan",
-      "published_date": "2026-09-22T17:48:31+00:00"
     }
   ]
 }
