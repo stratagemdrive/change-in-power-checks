@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-07T02:02:32.005770+00:00",
+    "last_updated": "2026-10-07T17:46:52.206201+00:00",
     "story_count": 373,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,132 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente saludó a Messi por su despedida y dijo que es “el mejor de todos los tiempos”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
+      "published_date": "2026-10-07T17:30:00+00:00"
+    },
+    {
+      "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
+      "published_date": "2026-10-07T17:28:40+00:00"
+    },
+    {
+      "title": "Gyanesh Kumar has become an ‘instrument’ of Modi to win elections: Revanth Reddy",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/telangana/gyanesh-kumar-has-become-an-instrument-of-modi-to-win-elections-revanth-reddy/article71556925.ece",
+      "published_date": "2026-10-07T17:12:33+00:00"
+    },
+    {
+      "title": "2027: 61% of Nigerians fear election violence, 84% willing to vote — Yiaga Africa",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/2027-61-of-nigerians-fear-election-violence-84-willing-to-vote-yiaga-africa/",
+      "published_date": "2026-10-07T16:55:40+00:00"
+    },
+    {
+      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+      "source": "Al Jazeera English",
+      "country": "Germany",
+      "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+      "published_date": "2026-10-07T16:12:29+00:00"
+    },
+    {
+      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+      "published_date": "2026-10-07T15:03:26+00:00"
+    },
+    {
+      "title": "Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election",
+      "published_date": "2026-10-07T14:23:22+00:00"
+    },
+    {
+      "title": "The Anthony Kila affair: How fake titles captured a university and what it says about Nigeria, By Austin Aigbe",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/opinion/915228-the-anthony-kila-affair-how-fake-titles-captured-a-university-and-what-it-says-about-nigeria-by-austin-aigbe.html",
+      "published_date": "2026-10-07T14:21:53+00:00"
+    },
+    {
+      "title": "South Sudan's road to elections remains uncertain",
+      "source": "Deutsche Welle English",
+      "country": "Sudan",
+      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-07T13:45:00+00:00"
+    },
+    {
+      "title": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for 2nd day",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2035427/rahul-gandhi-indian-opposition-lawmakers-detained-over-election-chief-protest-for-2nd-day",
+      "published_date": "2026-10-07T13:44:02+00:00"
+    },
+    {
+      "title": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
+      "published_date": "2026-10-07T13:27:42+00:00"
+    },
+    {
+      "title": "PPP stalwart Farooq Naek resigns from Judicial Commission of Pakistan",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2035413/ppp-stalwart-farooq-naek-resigns-from-judicial-commission-of-pakistan",
+      "published_date": "2026-10-07T12:43:18+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "published_date": "2026-10-07T12:03:52+00:00"
+    },
+    {
+      "title": "Myanmar junta says bid to arrest exiled journalists and opponents through Interpol has failed",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-bid-to-arrest-exiled-journalists-and-opponents-through-interpol-has-failed/",
+      "published_date": "2026-10-07T11:07:10+00:00"
+    },
+    {
+      "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election - Axios",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWml0TTIxb0hNWGRaeW5uZldrVmpMMFJJYWRQaWZHMnc1bkVrTkQ1OWFhcktUa3Q0N2wtRjcwWHNjT0pLaloteTdYeTh0bWRHTUFHZXBvSm5aa0NRck1fYnR0NDQ0eU5MT1JteU85enZ5dWtEa1k5aWk4UDZQdkNZc09qMlk?oc=5",
+      "published_date": "2026-10-07T09:24:08+00:00"
+    },
+    {
+      "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/07/netanyahu-oct-7-warning-israel-election-polls",
+      "published_date": "2026-10-07T09:00:55+00:00"
+    },
+    {
+      "title": "Myanmar junta leader to visit Malaysia after migrant returns begin",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-malaysia-after-migrant-returns-begin/",
+      "published_date": "2026-10-07T05:20:56+00:00"
+    },
+    {
+      "title": "PM Modi slams Opposition's ‘tendency to divide society on lines of vote’; says solution must be for everyone",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-marks-25-years-in-public-service-says-the-capital-he-has-earned-belongs-to-the-nation-101791349838935.html",
+      "published_date": "2026-10-07T05:12:41+00:00"
+    },
     {
       "title": "Rahul Gandhi leads opposition protest, calls for Election Commissioner to step down",
       "source": "Hindustan Times",
@@ -2543,132 +2669,6 @@
       "country": "Venezuela",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejBMTGR1Ul9hbnpnc1Jncm1Mb2ZIMTZIVnNfRC1oT1hmcjY2MkJrMXJaLUxPcGJHWGZ4WUJwTTRfajV3RXpZVm9YVlVNNEg1WHk1Q1dVazRFMDJGR3pxaGdJUGdoVE4tWUxmNnNVQnZsY1BUaUlNZU83R01SMkRlekR3?oc=5",
       "published_date": "2026-09-23T18:15:56+00:00"
-    },
-    {
-      "title": "Israeli election committee bars main Arab parties from next month’s poll - Financial Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGpoTEJaZzVDQ2pFY1FqUXZXR0RqSUVnVGdCZnpNVzYzSk0yRHc4UWNQazN0dkZJNldhM2tkVzc3S1YzOEU4cEpJMDlma2luXzZKbnhyNVpKVXVpelFxOXFuQTQ5TU5FLXhieWFYMEdBWTFWYmpWSFB3bnZSZnY4SUxPR0Q?oc=5",
-      "published_date": "2026-09-23T16:22:36+00:00"
-    },
-    {
-      "title": "Presidente de Panamá sobre regreso de María Corina Machado a Venezuela: “Son problemas de los venezolanos, no míos”",
-      "source": "El Nacional Venezuela",
-      "country": "Venezuela",
-      "url": "https://www.elnacional.com/2026/09/presidente-de-panama-sobre-regreso-de-maria-corina-machado-a-venezuela-son-problemas-de-los-venezolanos-no-mios/",
-      "published_date": "2026-09-23T15:49:45+00:00"
-    },
-    {
-      "title": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections",
-      "source": "RFI English",
-      "country": "China",
-      "url": "https://www.rfi.fr/en/international/20260923-trump-hosts-china-s-xi-for-high-stakes-summit-ahead-of-us-midterm-elections",
-      "published_date": "2026-09-23T15:06:20+00:00"
-    },
-    {
-      "title": "Putin Says Election Turnout Shows Russians Support Military Agenda",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/23/putin-says-election-turnout-shows-russians-support-military-agenda-a93781",
-      "published_date": "2026-09-23T15:00:40+00:00"
-    },
-    {
-      "title": "La Asamblea General de la ONU, EN VIVO: Milei, Zelensky y el presidente de Irán hablan hoy ante los líderes mundiales",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-asamblea-general-de-la-onu-en-vivo-milei-zelensky-y-el-presidente-de-iran-hablan-hoy-ante-los-nid23092026/",
-      "published_date": "2026-09-23T15:00:12+00:00"
-    },
-    {
-      "title": "Russia Brands Exiled YouTuber Yury Dud ‘Terrorist and Extremist’",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/23/russia-brands-exiled-youtuber-yury-dud-terrorist-and-extremist-a93779",
-      "published_date": "2026-09-23T14:43:38+00:00"
-    },
-    {
-      "title": "Morocco’s PAM comes first in election marked by record-low voter turnout",
-      "source": "RFI English",
-      "country": "Morocco",
-      "url": "https://www.rfi.fr/en/africa/20260923-morocco-s-pam-comes-first-in-election-marked-by-record-low-voter-turnout",
-      "published_date": "2026-09-23T13:57:40+00:00"
-    },
-    {
-      "title": "Myanmar coup leader claims ‘lenient’ on Suu Kyi: report",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-coup-leader-claims-lenient-on-suu-kyi-report/",
-      "published_date": "2026-09-23T11:39:54+00:00"
-    },
-    {
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "source": "BBC World",
-      "country": "Sudan",
-      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T11:16:25+00:00"
-    },
-    {
-      "title": "First-time Jewish voters could account for up to 12 Knesset seats in upcoming election - poll",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-909394",
-      "published_date": "2026-09-23T10:54:40+00:00"
-    },
-    {
-      "title": "Myanmar junta torches oil-producing village in new Magway offensive",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-torches-oil-producing-village-in-new-magway-offensive/",
-      "published_date": "2026-09-23T10:16:14+00:00"
-    },
-    {
-      "title": "Moldova declares state of emergency over water shortage fears after Russian strikes",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/moldova-state-of-emergency-energy-water-russia-b3054852.html",
-      "published_date": "2026-09-23T09:32:51+00:00"
-    },
-    {
-      "title": "Canadian premier calls snap election with ‘hell no to Trump’ rallying cry",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/david-eby-trump-snap-election-b3054839.html",
-      "published_date": "2026-09-23T09:17:40+00:00"
-    },
-    {
-      "title": "Russian officials entered public-sector employees’ data into an electronic database without their consent to monitor voter turnout, legal aid project says",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/23/russian-officials-entered-public-sector-employees-data-into-an-electronic-database-without-their-consent-to-monitor-voter-turnout-legal-aid-project-says",
-      "published_date": "2026-09-23T08:51:07+00:00"
-    },
-    {
-      "title": "Fake videos spread fraud claims during German elections",
-      "source": "Euronews",
-      "country": "Germany",
-      "url": "https://www.euronews.com/2026/09/23/fake-videos-spread-fraud-claims-during-german-elections",
-      "published_date": "2026-09-23T08:28:27+00:00"
-    },
-    {
-      "title": "Exiled opposition leader tries to enter Venezuela as Rodriguez meets Trump in US",
-      "source": "South China Morning Post",
-      "country": "Venezuela",
-      "url": "https://www.scmp.com/news/world/americas/article/3368468/exiled-opposition-leader-tries-enter-venezuela-rodriguez-meets-trump-us?utm_source=rss_feed",
-      "published_date": "2026-09-23T04:45:11+00:00"
-    },
-    {
-      "title": "Imperial Japanese Army secretly considered martial law in 1945, document says",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/martial-law-secret-study-army/",
-      "published_date": "2026-09-23T04:35:00+00:00"
-    },
-    {
-      "title": "South Sudan’s Kiir dissolves government ahead of first national elections - aljazeera.com",
-      "source": "Google News World",
-      "country": "Sudan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGVLaFdCNmU2cEx6YzBCYVNmNGpMeTB6UTlWWDY3RXVNZGp4V2Nmc3VoUWVlNnJieXVNUXJNbVl1cEI3TjFPcXl4RjREYkkwalRUbFEycFhzM1dldE1ZREM5NHhiQkFLY0dRNm80dG1WeXNMWGE3Y1h0ZkZzNmpQSFVXX2Etb3ljNmlWN2t6VlIwZWdCZE1OMlNwYndsaWNFWHpvX2xpaEJLZmFoODkwU2FB0gG3AUFVX3lxTFA3Q0xaSUtma05naURhRnNJOG1IMld2N25ZM05MLWczLVp6c2NDWUdGSFVpbWNIQVdYVUdVT085b2hscnRtU21ySVlvSzhtNlZSZ0VPdkRIUGp5OGswcG1JV05SbjVpclo2N25jVTBuUmFacU81cHg5VHQ3UmhFdzV6MHk5X2RRQTNyWTN5RW91cHFHZDNrWFdhMks2SEZwSUswZFFBdFI2VGoyb01tN0o0ZHo3NHcyNA?oc=5",
-      "published_date": "2026-09-23T02:01:55+00:00"
     }
   ]
 }
