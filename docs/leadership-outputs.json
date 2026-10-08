@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-07T17:46:52.206201+00:00",
-    "story_count": 373,
+    "last_updated": "2026-10-08T02:30:42.450290+00:00",
+    "story_count": 369,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,53 @@
   },
   "stories": [
     {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente saludó a Messi por su despedida y dijo que es “el mejor de todos los tiempos”",
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
-      "published_date": "2026-10-07T17:30:00+00:00"
+      "published_date": "2026-10-08T01:40:00+00:00"
+    },
+    {
+      "title": "Israel marks three years since October 7 attack ahead of elections",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
+      "published_date": "2026-10-07T21:50:07+00:00"
+    },
+    {
+      "title": "Abe Memorial Corridor honoring Shinzo Abe, India-Japan ties inaugurated in Varanasi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece",
+      "published_date": "2026-10-07T20:21:13+00:00"
+    },
+    {
+      "title": "Emergency power outages implemented in some regions of Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4172107-emergency-power-outages-implemented-in-some-regions-of-ukraine.html",
+      "published_date": "2026-10-07T19:56:00+00:00"
+    },
+    {
+      "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
+      "published_date": "2026-10-07T19:40:07+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "published_date": "2026-10-07T19:23:30+00:00"
     },
     {
       "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
-      "published_date": "2026-10-07T17:28:40+00:00"
+      "published_date": "2026-10-07T18:28:02+00:00"
     },
     {
       "title": "Gyanesh Kumar has become an ‘instrument’ of Modi to win elections: Revanth Reddy",
@@ -86,6 +121,13 @@
       "country": "Nigeria",
       "url": "https://www.vanguardngr.com/2026/10/2027-61-of-nigerians-fear-election-violence-84-willing-to-vote-yiaga-africa/",
       "published_date": "2026-10-07T16:55:40+00:00"
+    },
+    {
+      "title": "Walter Rioja y caso “narco-maderas” en Bolivia: “El presidente Kast tiene que venir y dar una solución a esto”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/mundo/noticia/walter-rioja-y-caso-narco-maderas-en-bolivia-el-presidente-kast-tiene-que-venir-y-dar-una-solucion-a-esto/",
+      "published_date": "2026-10-07T16:32:55+00:00"
     },
     {
       "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
@@ -142,13 +184,6 @@
       "country": "Pakistan",
       "url": "https://www.dawn.com/news/2035413/ppp-stalwart-farooq-naek-resigns-from-judicial-commission-of-pakistan",
       "published_date": "2026-10-07T12:43:18+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-      "published_date": "2026-10-07T12:03:52+00:00"
     },
     {
       "title": "Myanmar junta says bid to arrest exiled journalists and opponents through Interpol has failed",
@@ -2606,69 +2641,6 @@
       "country": "Morocco",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmNYZUlQOGhLd3QzeXNoOTd5SmctdlMwQ2VGT3BUVU1ZRDZ4YWtLMWlCVmRvT09NcW91TzA2TGRLdnJTSFh3WERFeUxxcUwtYnIxdXVJMnhmeGdxTXBQZ3JwR3IzM2FYaFJDcFFqUWFMRG8wLWJhakwwNzhYZ21FazdNMjljLVE0OFh5TG5hSFo1SFJBOUR0ekZSTjlXbngy?oc=5",
       "published_date": "2026-09-24T03:56:00+00:00"
-    },
-    {
-      "title": "Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml",
-      "published_date": "2026-09-24T00:50:00+00:00"
-    },
-    {
-      "title": "Habló Javier Milei en la ONU, EN VIVO: “Queremos una Argentina influyente y poderosa para que nuestro destino sea decidido por nosotros”, dijo el Presidente",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-canciller-quirno-se-refirio-a-malvinas-y-dijo-que-estan-nid23092026/",
-      "published_date": "2026-09-24T00:49:53+00:00"
-    },
-    {
-      "title": "Lucas Magnano, presidente de Coninagro: “Que producir en la Argentina sea una actividad viable, rentable y sostenible en el tiempo”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/campo/lucas-magnano-presidente-de-coninagro-que-producir-en-la-argentina-sea-una-actividad-viable-rentable-nid23092026/",
-      "published_date": "2026-09-24T00:03:45+00:00"
-    },
-    {
-      "title": "Trump to Venezuela's Rodriguez: Elections need to happen",
-      "source": "Axios World",
-      "country": "Venezuela",
-      "url": "https://www.axios.com/2026/09/23/trump-venezuela-rodriguez-meeting-elections",
-      "published_date": "2026-09-24T00:00:25+00:00"
-    },
-    {
-      "title": "Presidente de Paraguay: «Queremos transición democrática» para Cuba, Venezuela y Nicaragua",
-      "source": "CiberCuba",
-      "country": "Cuba",
-      "url": "https://www.cibercuba.com/noticias/2026-09-24-u1-e199894-s27061-nid341041-presidente-paraguay-queremos-transicion-democratica",
-      "published_date": "2026-09-23T23:03:25+00:00"
-    },
-    {
-      "title": "Presidente Kast y Delcy Rodríguez adelantan cita bilateral para este miércoles",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-y-delcy-rodriguez-adelantan-cita-bilateral-para-este-miercoles/",
-      "published_date": "2026-09-23T20:28:54+00:00"
-    },
-    {
-      "title": "Russian state officials say ruling party United Russia won 58% in last weekend’s parliamentary election. Independent analysts estimate it was really 34–35% without manipulation.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/23/russian-state-officials-say-ruling-party-united-russia-won-58-in-last-weekend-s-parliamentary-election-independent-analysts-estimate-it-was-really-34-35-without-manipulation",
-      "published_date": "2026-09-23T18:52:14+00:00"
-    },
-    {
-      "title": "Inauguration of Air Navigation Centre adjacent to Tripoli International Airport – further signs of its pending reopening?",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/09/inauguration-of-air-navigation-centre-adjacent-to-tripoli-international-airport-further-signs-of-its-pending-reopening/",
-      "published_date": "2026-09-23T18:29:00+00:00"
-    },
-    {
-      "title": "Trump to Venezuela's Rodriguez: Elections need to happen - Axios",
-      "source": "Google News World",
-      "country": "Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejBMTGR1Ul9hbnpnc1Jncm1Mb2ZIMTZIVnNfRC1oT1hmcjY2MkJrMXJaLUxPcGJHWGZ4WUJwTTRfajV3RXpZVm9YVlVNNEg1WHk1Q1dVazRFMDJGR3pxaGdJUGdoVE4tWUxmNnNVQnZsY1BUaUlNZU83R01SMkRlekR3?oc=5",
-      "published_date": "2026-09-23T18:15:56+00:00"
     }
   ]
 }
