@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-08T02:30:42.450290+00:00",
-    "story_count": 369,
+    "last_updated": "2026-10-08T17:49:16.501448+00:00",
+    "story_count": 359,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump says US will not attack Iran before November’s midterm elections",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370235/trump-says-us-will-not-attack-iran-novembers-midterm-elections?utm_source=rss_feed",
+      "published_date": "2026-10-08T17:39:11+00:00"
+    },
+    {
+      "title": "‘A complete sham’: European Parliament condemns Russia’s September elections and refuses to recognize its new lower house as legitimate",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/08/a-complete-sham-european-parliament-condemns-russia-s-september-elections-and-refuses-to-recognize-its-new-lower-house-as-legitimate",
+      "published_date": "2026-10-08T17:29:06+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-volvio-a-llamar-ladron-a-lula-dias-despues-del-nid08102026/",
+      "published_date": "2026-10-08T17:20:00+00:00"
+    },
+    {
+      "title": "As elections near, how are French political parties reacting to student protests?",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20261008-as-elections-near-how-are-french-political-parties-reacting-to-student-protests",
+      "published_date": "2026-10-08T17:08:20+00:00"
+    },
+    {
+      "title": "No US attack on Iran before midterm elections, Trump says",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-attack-iran-midterm-elections-trump-says",
+      "published_date": "2026-10-08T16:49:56+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro propone que los familiares cercanos del presidente no puedan presentarse a las elecciones",
+      "source": "La Tercera Chile",
+      "country": "Brazil",
+      "url": "https://www.latercera.com/mundo/noticia/flavio-bolsonaro-propone-que-los-familiares-cercanos-del-presidente-no-puedan-presentarse-a-las-elecciones/",
+      "published_date": "2026-10-08T16:01:38+00:00"
+    },
+    {
+      "title": "Indian opposition protest police action against lawmakers, push for poll chief's resignation",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2035712/indian-opposition-protest-police-action-against-lawmakers-push-for-poll-chiefs-resignation",
+      "published_date": "2026-10-08T15:33:38+00:00"
+    },
+    {
+      "title": "London voters go to polls for Holborn and St Pancras by-election",
+      "source": "Al Jazeera English",
+      "country": "United Kingdom",
+      "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
+      "published_date": "2026-10-08T15:19:46+00:00"
+    },
+    {
+      "title": "Spain must reverse Sánchez's anti-Israel policies after snap election, Vox lawmaker says",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/international/article-911056",
+      "published_date": "2026-10-08T14:53:48+00:00"
+    },
+    {
+      "title": "Le Premier ministre britannique en visite à Berlin pour évoquer la sécurité",
+      "source": "France 24 FR",
+      "country": "Germany",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261008-le-premier-ministre-britannique-en-visite-%C3%A0-berlin-pour-%C3%A9voquer-la-s%C3%A9curit%C3%A9",
+      "published_date": "2026-10-08T13:44:02+00:00"
+    },
+    {
+      "title": "Marcos says Philippines ‘resigned’ to managing South China Sea dispute",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/week-asia/politics/article/3370202/marcos-says-philippines-resigned-managing-south-china-sea-dispute?utm_source=rss_feed",
+      "published_date": "2026-10-08T10:46:12+00:00"
+    },
+    {
+      "title": "Iranian press review: 80m barrels behind oil minister’s resignation",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-80-million-barrels-behind-oil-ministers-resignation",
+      "published_date": "2026-10-08T10:22:24+00:00"
+    },
+    {
+      "title": "Belarus loans debated by Myanmar’s junta-controlled parliament",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/belarus-loans-debated-by-myanmars-junta-controlled-parliament/",
+      "published_date": "2026-10-08T10:14:41+00:00"
+    },
+    {
+      "title": "Ousted Venezuelan president Nicolás Maduro, wife Celia Flores charged with torture in new indictment",
+      "source": "CBC News World",
+      "country": "Venezuela",
+      "url": "https://www.cbc.ca/news/world/livestory/maduro-flores-charges-venezuela-us-9.7373745?cmp=rss",
+      "published_date": "2026-10-08T10:04:14+00:00"
+    },
+    {
+      "title": "Myanmar junta leader says will take back migrants from Malaysia ‘as soon as possible’",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-says-will-take-back-migrants-from-malaysia-as-soon-as-possible/",
+      "published_date": "2026-10-08T09:29:59+00:00"
+    },
+    {
+      "title": "South Sudan's road to elections remains uncertain",
+      "source": "Deutsche Welle English",
+      "country": "Sudan",
+      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-08T04:20:00+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
       "source": "La Nacion Argentina",
@@ -156,13 +268,6 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/opinion/915228-the-anthony-kila-affair-how-fake-titles-captured-a-university-and-what-it-says-about-nigeria-by-austin-aigbe.html",
       "published_date": "2026-10-07T14:21:53+00:00"
-    },
-    {
-      "title": "South Sudan's road to elections remains uncertain",
-      "source": "Deutsche Welle English",
-      "country": "Sudan",
-      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-07T13:45:00+00:00"
     },
     {
       "title": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for 2nd day",
@@ -2466,181 +2571,6 @@
       "country": "Brazil",
       "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
       "published_date": "2026-09-24T17:56:06+00:00"
-    },
-    {
-      "title": "Election Commission row highlights: CEC Gyanesh Kumar must resign immediately; PM Modi, Amit Shah to be investigated, says Rahul Gandhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
-      "published_date": "2026-09-24T17:40:34+00:00"
-    },
-    {
-      "title": "The High-Stakes Corruption Scandal Shaking Up Brazil’s Election - The New York Times",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjF3N1h0a3lfWDZ4R2V6ZGNwZmlfZGdtWW1fQ2tJSzFuT2I0eFVqMy1aUTFkS2drZ0VhX1hJYnBBZUh0WEJGU0xBTGNTOTVyZXNlQ0ZJRzhFOFhKTVk3eFpfbEg3RjBBdDRWcXhxSjFYNWY4cFVyRlFQZ0I5cVZUY2xPM3dKek5mX194akxad2I5MGluWDRuT2l3YTBkZmVjM0E3ZFFMSQ?oc=5",
-      "published_date": "2026-09-24T16:32:25+00:00"
-    },
-    {
-      "title": "Nigeria has one of highest election petitions — Osigwe",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/nigeria-has-one-of-highest-election-petitions-osigwe/",
-      "published_date": "2026-09-24T15:22:22+00:00"
-    },
-    {
-      "title": "Election panel clears Otzma Yehudit for October vote after barring Arab slates day earlier",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-909590",
-      "published_date": "2026-09-24T14:44:50+00:00"
-    },
-    {
-      "title": "En una cena libertaria, Karina Milei reclamó que todos trabajen por “la reelección del Presidente”, tras los gestos de autonomía de Bullrich",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/en-una-cena-libertaria-karina-milei-reclamo-que-todos-trabajen-por-la-reeleccion-del-presidente-tras-nid24092026/",
-      "published_date": "2026-09-24T14:38:34+00:00"
-    },
-    {
-      "title": "Arab parties denounce ban from Israel’s October election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnVQQkNrZk1PUDlwOEZaWElnTVNHUUotMEZRelpQVjhOQ0tnakl1SnVnNzhrM0ktajdtQU51b19KdzN1Tl9LVGFzcUREUjN2VTJzbHFrY0pXbF9pMm1Uc2NZOF9iTVBJMTRQOTFVX0NaS2FwTVU0amJxUDJTWVhGOEtNODNLbmZJSVpEWlhXekJkeDZaaDVRd283aDNSdk4zZWJBbEpR0gGrAUFVX3lxTE5ad1p6czlmemFOLUtMT05XZnpvTldZN2JVam03N3R3Ynpxa1V4UExtNmlldktiUzZzQWVnUjcxLVlFcFdpTWVNWExaTlJIeDdKdndsczM4M1A2LVZYeVc5dW5yWXBSaVpBVnY0YmQtNVBVdXVRUy1jbEVvRldIY3FLbGp2N01HYTdGZGtCUzlDMkRDUVRpV1Ryem4wWERwUV9tUHlZRTBwWjctMA?oc=5",
-      "published_date": "2026-09-24T14:18:35+00:00"
-    },
-    {
-      "title": "Arab parties denounce ban from Israel’s October election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnVQQkNrZk1PUDlwOEZaWElnTVNHUUotMEZRelpQVjhOQ0tnakl1SnVnNzhrM0ktajdtQU51b19KdzN1Tl9LVGFzcUREUjN2VTJzbHFrY0pXbF9pMm1Uc2NZOF9iTVBJMTRQOTFVX0NaS2FwTVU0amJxUDJTWVhGOEtNODNLbmZJSVpEWlhXekJkeDZaaDVRd283aDNSdk4zZWJBbEpR?oc=5",
-      "published_date": "2026-09-24T14:18:35+00:00"
-    },
-    {
-      "title": "Israel Election 2026: What does Itamar Ben-Gvir's Otzma Yehudit stand for?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-909348",
-      "published_date": "2026-09-24T14:12:19+00:00"
-    },
-    {
-      "title": "UK condemns Tigray attacks in Ethiopia - four years after civil war",
-      "source": "Sky News World",
-      "country": "United Kingdom",
-      "url": "https://news.sky.com/story/uk-condemns-attacks-in-ethiopia-after-tigray-forces-seize-airports-strike-nearby-regions-13591437",
-      "published_date": "2026-09-24T13:21:00+00:00"
-    },
-    {
-      "title": "Head of Russia’s Central Election Commission Ella Pamfilova got a multimillion-ruble apartment from the state and put it in her granddaughter’s name, Team Navalny finds",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/24/head-of-russia-s-central-election-commission-ella-pamfilova-got-a-multimillion-ruble-apartment-from-the-state-and-put-it-in-her-granddaughter-s-name-team-navalny-finds",
-      "published_date": "2026-09-24T13:07:50+00:00"
-    },
-    {
-      "title": "India's 'cockroach' movement warns of another protest, demanding chief election officer's resignation this time",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2032353/indias-cockroach-movement-warns-of-another-protest-demanding-chief-election-officers-resignation-this-time",
-      "published_date": "2026-09-24T13:02:25+00:00"
-    },
-    {
-      "title": "PML-N's Dr Najeeb Naqi sworn in as AJK president after his election",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2032324/pml-ns-dr-najeeb-naqi-sworn-in-as-ajk-president-after-his-election",
-      "published_date": "2026-09-24T12:50:09+00:00"
-    },
-    {
-      "title": "Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback",
-      "source": "Al Jazeera English",
-      "country": "Morocco",
-      "url": "https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss",
-      "published_date": "2026-09-24T12:41:15+00:00"
-    },
-    {
-      "title": "Rahul Gandhi calls for Gyanesh Kumar's ouster, repeats 'vote chori' claim amid EC row: 'Elections being rigged'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-reiterates-vote-chori-claim-eci-report-calls-for-gyanesh-kumar-resignation-101790251853971.html",
-      "published_date": "2026-09-24T12:13:07+00:00"
-    },
-    {
-      "title": "Azerbaijani NGOs in exile call on Council of Europe to take measures against Baku",
-      "source": "OC Media Caucasus",
-      "country": "Azerbaijan",
-      "url": "https://oc-media.org/azerbaijani-ngos-in-exile-call-on-council-of-europe-to-take-measures-against-baku/",
-      "published_date": "2026-09-24T11:55:07+00:00"
-    },
-    {
-      "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports",
-      "source": "Moscow Times",
-      "country": "Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/09/24/krasnodar-region-declares-state-of-emergency-as-ukrainian-strikes-cripple-grain-exports-a93786",
-      "published_date": "2026-09-24T11:24:00+00:00"
-    },
-    {
-      "title": "Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports - The Moscow Times",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjNDLVBjNzIwRnA4QlJUMkMwUVRMWFpseUJuZWt4MEUyYXN2cW12TzVMTkxqZVI5cVBNOEZ3ZFJHdDVpMUxOc1RhcWg2NTB5TFpOcFdENFhUNWNxdy1SYjlpbUdfRUVqajltVjQxNFU5YkZnaEdSYmhlV0l6Yk9sZnVjZTBVNV9KZG5BdkladER5MVVYdjNjVExzUjctVzlYZXhQVzJfTGZKTHo5bktUUXo3dENQV3hWQkJreDMyWld2aWlHbTNQNGFMWkNZbEVPaHc?oc=5",
-      "published_date": "2026-09-24T11:24:00+00:00"
-    },
-    {
-      "title": "Japan to promote ‘Nansei shift’ after Okinawa election",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/defense-okinawa-nansei-shift/",
-      "published_date": "2026-09-24T11:13:00+00:00"
-    },
-    {
-      "title": "Israeli election committee bans Arab parties from standing in next month's vote",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/israeli-election-committee-bans-arab-parties-standing-next-months-vote",
-      "published_date": "2026-09-24T10:36:09+00:00"
-    },
-    {
-      "title": "Salva Kiir: South Sudan president dissolves government ahead of country's first elections - BBC",
-      "source": "Google News World",
-      "country": "Sudan",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTXRtUGxVcVRvZlJneU1ndTBRNi1Bekt3MkM1SzFfY25vYlVydFBHVzBWNGtSbHp3VDlMYlU2TlEwZzRCUXVrX2RzcnpOSmhTTk95NWZnVGQxZUk?oc=5",
-      "published_date": "2026-09-24T10:21:06+00:00"
-    },
-    {
-      "title": "Presidente de Chile respalda la reconstrucción de Venezuela tras reunión con Delcy Rodríguez",
-      "source": "El Nacional Venezuela",
-      "country": "Chile",
-      "url": "https://www.elnacional.com/2026/09/presidente-de-chile-respalda-la-reconstruccion-de-venezuela-tras-reunion-con-delcy-rodriguez/",
-      "published_date": "2026-09-24T09:52:40+00:00"
-    },
-    {
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-24T08:26:19+00:00"
-    },
-    {
-      "title": "Two North Korean soldiers captured by Ukraine sent to South Korea, Zelensky says",
-      "source": "The Independent UK",
-      "country": "South Korea",
-      "url": "https://www.independent.co.uk/asia/east-asia/ukraine-north-korea-soldiers-russia-south-korea-b3055460.html",
-      "published_date": "2026-09-24T05:53:52+00:00"
-    },
-    {
-      "title": "Venezuela's acting leader promises elections at the 'right moment'",
-      "source": "NPR World",
-      "country": "Venezuela",
-      "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-      "published_date": "2026-09-24T05:40:49+00:00"
-    },
-    {
-      "title": "Moroccan centrist party tops parliament vote after boost from football chief - Reuters",
-      "source": "Google News World",
-      "country": "Morocco",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmNYZUlQOGhLd3QzeXNoOTd5SmctdlMwQ2VGT3BUVU1ZRDZ4YWtLMWlCVmRvT09NcW91TzA2TGRLdnJTSFh3WERFeUxxcUwtYnIxdXVJMnhmeGdxTXBQZ3JwR3IzM2FYaFJDcFFqUWFMRG8wLWJhakwwNzhYZ21FazdNMjljLVE0OFh5TG5hSFo1SFJBOUR0ekZSTjlXbngy?oc=5",
-      "published_date": "2026-09-24T03:56:00+00:00"
     }
   ]
 }
