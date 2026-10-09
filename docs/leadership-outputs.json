@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-09T02:46:58.219079+00:00",
-    "story_count": 360,
+    "last_updated": "2026-10-09T17:25:53.973294+00:00",
+    "story_count": 354,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,9 +60,93 @@
   },
   "stories": [
     {
+      "title": "Étude du budget 2027 à l'Assemblée nationale : le Premier ministre appelle au patriotisme",
+      "source": "France 24 FR",
+      "country": "France",
+      "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261009-%C3%A9tude-du-budget-2027-%C3%A0-l-assembl%C3%A9e-nationale-le-premier-ministre-appelle-au-patriotisme",
+      "published_date": "2026-10-09T17:00:42+00:00"
+    },
+    {
+      "title": "Presidente De La Espriella aseguró que realizaron 119 extradiciones en los primeros meses de su gobierno: 'Colombia no será refugio de delincuentes'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-aseguro-que-realizaron-119-extradiciones-en-los-primeros-meses-de-su-gobierno-colombia-no-sera-refugio-de-delincuentes-3592535",
+      "published_date": "2026-10-09T16:32:34+00:00"
+    },
+    {
+      "title": "Nikolai Rybakov, chairman of Russian opposition party Yabloko, fined 1,000 rubles for writing ‘For Peace’ on his ballot",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/09/nikolai-rybakov-chairman-of-russian-opposition-party-yabloko-fined-1-000-rubles-for-writing-for-peace-on-his-ballot",
+      "published_date": "2026-10-09T15:36:13+00:00"
+    },
+    {
+      "title": "Rahul Gandhi-led INDIA bloc MPs meet President Murmu, present 4-point memo seeking CEC Gyanesh Kumar's resignation",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-bloc-leaders-meet-president-murmu-over-vote-chori-seek-cec-gyanesh-kumar-s-resignation-rahul-gandhi-101791556089738.html",
+      "published_date": "2026-10-09T15:24:57+00:00"
+    },
+    {
+      "title": "Palestinian Authority Says Elections Are to Be Postponed - The New York Times",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0FpQjRRbEJnR0VoMHZkSUJOdlh3TUhvVnl2MWk3MGRKUUllQVJreUVBV1AxMU5QUXluY3BWX2Qya3UtZjR1N2dtRnVNcTdXOWo0V0hZV0llcnlvVkZPUjdFX0JpbVA1RzZzWm9CR3F0Z2M3WGxUc2hVa1hWZG1ZVUFFZG5MTU9GZEJaRkdlNlZMams3QnB3SkFQdTIxZ0hMVDhjRTQxMXl3eW51?oc=5",
+      "published_date": "2026-10-09T14:58:45+00:00"
+    },
+    {
+      "title": "Presidente do PT diz que suposto depoimento de Vorcaro sobre filme de Lula tem viés político",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/em-audio-a-militancia-presidente-do-pt-diz-que-depoimento-de-vorcaro-sobre-filme-de-lula-tem-vies-politico.shtml",
+      "published_date": "2026-10-09T13:10:00+00:00"
+    },
+    {
+      "title": "India protests grow over Election Commission mistrust",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust",
+      "published_date": "2026-10-09T13:08:49+00:00"
+    },
+    {
+      "title": "Presidente de Chile decreta estado de catástrofe en zona este de Santiago arrasada por torrente de agua",
+      "source": "El Nacional Venezuela",
+      "country": "Chile",
+      "url": "https://www.elnacional.com/2026/10/presidente-de-chile-decreta-estado-de-catastrofe-en-zona-este-de-santiago-arrasada-por-torrente-de-agua/",
+      "published_date": "2026-10-09T12:39:00+00:00"
+    },
+    {
+      "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+      "source": "Deutsche Welle English",
+      "country": "India",
+      "url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-09T12:23:00+00:00"
+    },
+    {
+      "title": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkEtZVhNMkYyQnRxOTVDaHlnMWQtWmF4UndHZHdlSXlzNUVTT0FudnhHU2xDMkNkOC1UVlBzZ21rd2tiTWp3eFJudDVsOXZDWEw1bFNTNk4zQWgyUmhwMjJVVzFhOGdzaG50TGFJaDU5Y3RPMl9TMTJ6UEJXR29Wa2I2emtHLTVKSFdSTWpUOEl2QktYTGRJWFBWY25UTHpManRMaVhTWmNTTjg?oc=5",
+      "published_date": "2026-10-09T10:59:50+00:00"
+    },
+    {
+      "title": "India deploys thousands of police ahead of election protest",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2035898/india-deploys-thousands-of-police-ahead-of-election-protest",
+      "published_date": "2026-10-09T07:46:41+00:00"
+    },
+    {
+      "title": "West Bengal by-elections result highlights: BJP wins in Rejinagar and Nandigram with huge margins",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/west-bengal-byelection-bypolls-counting-result-live-updates-rejinagar-nandiram-bjp-tmc-mamata-banerjee-101791519539113.html",
+      "published_date": "2026-10-09T05:30:04+00:00"
+    },
+    {
       "title": "Zamir says return to war with Iran may postpone Israel election as Pentagon prepares plans - report",
       "source": "Jerusalem Post",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://www.jpost.com/middle-east/iran-news/article-911125",
       "published_date": "2026-10-09T02:10:37+00:00"
     },
@@ -79,6 +163,13 @@
       "country": "Iran",
       "url": "https://www.japantimes.co.jp/news/2026/10/09/world/no-iran-attack-midterms/",
       "published_date": "2026-10-09T00:24:00+00:00"
+    },
+    {
+      "title": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election - PBS",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDd0N1p4ckRpSHN0bFlmVFN3WWt4aUczWDZiS004dlFzSnNTeFEzcGdwUGhXOEdmakh4SXU3Z2w0WkpBSjJPRWV3TW5QNlBwdWd5Q081NjlYd1c1cEJPR0RpQUh3dUVrSVQ0VkNGTDE2UWZsN0JabDRkWW9BMUJCSXZVeXdnN0pBMnZuZUZyaURjcm8xU3NJWmlENDhzMFhTdDhUR0hn?oc=5",
+      "published_date": "2026-10-08T22:35:31+00:00"
     },
     {
       "title": "Trump rules out new Iran attack before US midterm elections",
@@ -331,6 +422,13 @@
       "country": "Iran",
       "url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
       "published_date": "2026-10-07T13:27:42+00:00"
+    },
+    {
+      "title": "Beijing’s Docuseries on Myanmar Scams Implicates Junta But Glosses Chinese Financing",
+      "source": "Irrawaddy Myanmar",
+      "country": "Myanmar",
+      "url": "https://www.irrawaddy.com/news/burma/beijings-docuseries-on-myanmar-scams-implicates-junta-but-glosses-chinese-financing.html",
+      "published_date": "2026-10-07T13:19:03+00:00"
     },
     {
       "title": "PPP stalwart Farooq Naek resigns from Judicial Commission of Pakistan",
@@ -2438,146 +2536,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/news/2026/09/25/russia-s-first-post-election-protest-over-alleged-fraud-in-the-state-duma-vote-goes-ahead-in-the-northern-city-of-syktyvkar-about-100-people-showed-up",
       "published_date": "2026-09-25T17:26:40+00:00"
-    },
-    {
-      "title": "Wike to lead Tinubu 2027 re-election campaign in FCT, Rivers",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/912443-wike-to-lead-tinubu-2027-re-election-campaign-in-fct-rivers.html",
-      "published_date": "2026-09-25T17:05:31+00:00"
-    },
-    {
-      "title": "Jerusalem inaugurates renewed Har Hotzvim Hi-Tech Park, projects it will generate 10,000 new jobs",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/business-and-innovation/article-909718",
-      "published_date": "2026-09-25T16:38:33+00:00"
-    },
-    {
-      "title": "Wike to lead Tinubu 2027 re-election campaign in FCT, Rivers",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/wike-to-lead-tinubu-2027-re-election-campaign-in-fct-rivers/",
-      "published_date": "2026-09-25T14:57:01+00:00"
-    },
-    {
-      "title": "Indian police use tear gas against protesters seeking election chief's ouster",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2032606/indian-police-use-tear-gas-against-protesters-seeking-election-chiefs-ouster",
-      "published_date": "2026-09-25T14:11:51+00:00"
-    },
-    {
-      "title": "Azerbaijani opposition leader tells Aliyev: give me a life sentence, free women political prisoners",
-      "source": "OC Media Caucasus",
-      "country": "Azerbaijan",
-      "url": "https://oc-media.org/imprisoned-azerbaijani-opposition-leader-tells-aliyev-give-me-a-life-sentence-free-women-political-prisoners/",
-      "published_date": "2026-09-25T13:51:34+00:00"
-    },
-    {
-      "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
-      "published_date": "2026-09-25T12:59:16+00:00"
-    },
-    {
-      "title": "Pope Leo's visit to Paris migrant centre sends message ahead of French election",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20260925-pope-leo-visit-to-paris-migrant-centre-sends-message-ahead-of-french-election-maison-bakhita",
-      "published_date": "2026-09-25T12:43:30+00:00"
-    },
-    {
-      "title": "Presidente Kast arriba a Chile tras su gira por Nueva York marcada por la polémica adhesión al Escudo de las Américas",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-arriba-a-chile-tras-su-gira-por-new-york-marcada-por-la-polemica-adhesion-al-escudo-de-las-americas/",
-      "published_date": "2026-09-25T12:27:46+00:00"
-    },
-    {
-      "title": "What Arab Israelis Really Think About Israel’s Election",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/",
-      "published_date": "2026-09-25T12:19:43+00:00"
-    },
-    {
-      "title": "Venezuela’s Acting Leader Makes Her U.N. Debut",
-      "source": "Foreign Policy",
-      "country": "Venezuela",
-      "url": "https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro-trump-elections/",
-      "published_date": "2026-09-25T12:00:01+00:00"
-    },
-    {
-      "title": "Russian political scientist and election analyst Alexander Kynev arrested in Moscow on drug charges",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/25/russian-political-scientist-alexander-kynev-arrested-in-drug-case",
-      "published_date": "2026-09-25T11:56:37+00:00"
-    },
-    {
-      "title": "Six Killed in Myanmar junta attack on NUG regional command",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/six-killed-in-myanmar-junta-attack-on-nug-regional-command/",
-      "published_date": "2026-09-25T11:50:09+00:00"
-    },
-    {
-      "title": "‘Even BJP leaders lost elections because of Gyanesh Kumar’: Abhijeet Dipke",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/even-bjp-leaders-lost-because-of-gyanesh-kumar-abhijeet-dipke-cjp-eci-row-election-commission-cec-101790332560260.html",
-      "published_date": "2026-09-25T11:17:27+00:00"
-    },
-    {
-      "title": "India’s ‘cockroach’ movement targets election chief in political pivot",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/week-asia/politics/article/3368821/indias-cockroach-movement-targets-election-chief-political-pivot?utm_source=rss_feed",
-      "published_date": "2026-09-25T10:30:17+00:00"
-    },
-    {
-      "title": "United Russia Wins Record State Duma Majority in Elections Dubbed as Most Uncompetitive in Modern History",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/09/25/united-russia-wins-record-state-duma-majority-in-elections-dubbed-as-the-most-uncompetitive-in-modern-history-a93791",
-      "published_date": "2026-09-25T10:21:00+00:00"
-    },
-    {
-      "title": "Myanmar junta attacks Bago villages near the 115-Mile Rest Stop",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-bago-villages-near-the-115-mile-rest-stop/",
-      "published_date": "2026-09-25T09:06:53+00:00"
-    },
-    {
-      "title": "Junta chief’s AI agriculture vision collides with realities facing Myanmar farmers",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/junta-chiefs-ai-agriculture-vision-collides-with-realities-facing-myanmar-farmers/",
-      "published_date": "2026-09-25T08:37:04+00:00"
-    },
-    {
-      "title": "Why Russia’s Potemkin election actually matters",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/commentary/2026/09/25/world/russias-potemkin-election/",
-      "published_date": "2026-09-25T08:13:00+00:00"
-    },
-    {
-      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-      "published_date": "2026-09-25T03:33:48+00:00"
-    },
-    {
-      "title": "BJP names organisational general secretaries in several election-bound states",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-elections-up-madhya-pradesh-goa-punjab-uttarakhand-101790304880098.html",
-      "published_date": "2026-09-25T03:27:46+00:00"
     }
   ]
 }
