@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-09T17:25:53.973294+00:00",
-    "story_count": 354,
+    "last_updated": "2026-10-10T02:07:33.435879+00:00",
+    "story_count": 353,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "India’s capital locked down as youth protest targets election chief",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3370415/central-delhi-locked-down-internet-cut-youth-protest-demands-election-chief-quit?utm_source=rss_feed",
+      "published_date": "2026-10-10T01:13:54+00:00"
+    },
+    {
+      "title": "Atiku asks Tinubu to “step down” over economic hardship, says 30-day petrol discount exposes policy failure",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/915747-atiku-asks-tinubu-to-step-down-over-economic-hardship-says-30-day-petrol-discount-exposes-policy-failure.html",
+      "published_date": "2026-10-09T20:33:14+00:00"
+    },
+    {
+      "title": "Banco Central recibió visita protocolar del Presidente José Antonio Kast",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/banco-central-recibio-visita-protocolar-del-presidente-jose-antonio-kast/",
+      "published_date": "2026-10-09T19:34:20+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras fuerte terremoto de 7,7 en Panamá este viernes 9 de octubre: 'Cuenten con respaldo de Colombia'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-fuerte-terremoto-de-7-6-en-panama-este-viernes-9-de-octubre-cuenten-con-respaldo-de-colombia-3592601",
+      "published_date": "2026-10-09T19:27:42+00:00"
+    },
+    {
+      "title": "2027: Tinubu kicks off re-election campaign in Kaduna 24 October",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/915723-2027-tinubu-kicks-off-re-election-campaign-in-kaduna-24-october.html",
+      "published_date": "2026-10-09T19:25:10+00:00"
+    },
+    {
+      "title": "Trump announces major diesel deal with Russia ahead of US midterm elections next month",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370409/trump-says-us-get-diesel-russia-stunning-bid-ease-prices?utm_source=rss_feed",
+      "published_date": "2026-10-09T19:23:30+00:00"
+    },
     {
       "title": "Étude du budget 2027 à l'Assemblée nationale : le Premier ministre appelle au patriotisme",
       "source": "France 24 FR",
@@ -2487,55 +2529,6 @@
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-909753",
       "published_date": "2026-09-26T03:40:46+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: “Netanyahu es uno de los mayores líderes de la historia del mundo”, afirmó el Presidente",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-netanyahu-se-reunio-con-el-presidente-en-la-onu-y-lo-definio-como-nid25092026/",
-      "published_date": "2026-09-26T00:48:44+00:00"
-    },
-    {
-      "title": "Yemen’s civil war returns and overwhelms hospitals with ‘a very dangerous situation’ - NBC News",
-      "source": "Google News World",
-      "country": "Yemen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpOX2Q1SjlaWl9ua2ppLU0zRTF5MVdtdU9WaUFtZE5BWk1CM0puaFp1VDhWNDZyUTRpaTlSZDNyOEx2T2hzb1d2RWxDOV9zazlReXA0N1hSRkhtT3NrUlcwb3I5Nl8tYWpJQUpMYXF6aFVjdVBkVnMyV2hJLW9pVXVsNTRHUEpoOERpbG1LMWgyTlZUUkZ5VUNYQkJoSUtmb3VEVFp5eFh4c1pESzlBVGpR?oc=5",
-      "published_date": "2026-09-26T00:38:00+00:00"
-    },
-    {
-      "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece",
-      "published_date": "2026-09-25T23:09:39+00:00"
-    },
-    {
-      "title": "Turquie-France : en vidéo, l’ouverture du score de Kylian Mbappé, qui se blesse sur le coup",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/turquie-france-en-video-l-ouverture-du-score-de-kylian-mbappe-qui-se-blesse-sur-le-coup-20260925",
-      "published_date": "2026-09-25T20:20:48+00:00"
-    },
-    {
-      "title": "Russian elections expert Alexander Kynev stayed in the country to keep studying its politics. After criticizing the latest vote, he was arrested on drug charges.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/25/russian-elections-expert-alexander-kynev-stayed-in-the-country-to-keep-studying-its-politics-after-criticizing-the-latest-vote-he-was-arrested-on-drug-charges",
-      "published_date": "2026-09-25T19:49:58+00:00"
-    },
-    {
-      "title": "India’s Cockroach movement joins opposition push to oust election chief",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-      "published_date": "2026-09-25T18:16:47+00:00"
-    },
-    {
-      "title": "Russia’s first post-election protest over alleged fraud in the State Duma vote goes ahead in the northern city of Syktyvkar. About 100 people showed up.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/25/russia-s-first-post-election-protest-over-alleged-fraud-in-the-state-duma-vote-goes-ahead-in-the-northern-city-of-syktyvkar-about-100-people-showed-up",
-      "published_date": "2026-09-25T17:26:40+00:00"
     }
   ]
 }
