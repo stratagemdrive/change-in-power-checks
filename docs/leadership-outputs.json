@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-10T02:07:33.435879+00:00",
-    "story_count": 353,
+    "last_updated": "2026-10-10T16:13:09.375904+00:00",
+    "story_count": 350,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "India detains thousands, locks down Delhi to foil election chief protest",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
+      "published_date": "2026-10-10T15:54:28+00:00"
+    },
+    {
+      "title": "BJP discrediting opposition for raising questions over Election Commission: Ashok Gehlot",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/bjp-discrediting-opposition-for-raising-questions-over-election-commission-ashok-gehlot/article71569089.ece",
+      "published_date": "2026-10-10T15:46:06+00:00"
+    },
+    {
+      "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
+      "published_date": "2026-10-10T15:37:28+00:00"
+    },
+    {
+      "title": "Palestinian leader Abbas postpones elections to September 2027",
+      "source": "South China Morning Post",
+      "country": "Palestine",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3370455/palestinian-leader-abbas-postpones-elections-september-2027?utm_source=rss_feed",
+      "published_date": "2026-10-10T15:09:00+00:00"
+    },
+    {
+      "title": "Abbas postpones Palestinian legislative elections to September 2027",
+      "source": "Al Jazeera English",
+      "country": "Palestine",
+      "url": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
+      "published_date": "2026-10-10T14:18:09+00:00"
+    },
+    {
+      "title": "Palestinian Authority president postpones legislative elections another year, marking 20 years without a vote - CBS News",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDlQaFVTdEV6TXhYd1VZMjJXMHZCdllxUjl2akVnb1pmb01aMFdDa2lkZWxxZGdzUGgtazdILUVUMHJqbmswYUJzdmlveFVfbDlDcDhoRnNVdnI1OVRncjdDeUNOcEl3cTBFdmwzS1g1dUFWd3hRVl9EdURGWkxDX0NLWDYtUmktcnlzMGJhdi0?oc=5",
+      "published_date": "2026-10-10T14:08:00+00:00"
+    },
+    {
+      "title": "Palestinian President Abbas postpones legislative elections until September 2027",
+      "source": "Euronews",
+      "country": "Palestine",
+      "url": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027",
+      "published_date": "2026-10-10T14:04:51+00:00"
+    },
+    {
+      "title": "Palestinian president postpones legislative elections to September 2027",
+      "source": "Dawn Pakistan",
+      "country": "Palestine",
+      "url": "https://www.dawn.com/news/2036165/palestinian-president-postpones-legislative-elections-to-september-2027",
+      "published_date": "2026-10-10T12:54:44+00:00"
+    },
+    {
+      "title": "Exiled Ukrainian women prepare for life after war, with or without returning home",
+      "source": "RFI English",
+      "country": "Ukraine",
+      "url": "https://www.rfi.fr/en/international/20261010-exiled-women-of-ukraine-prepare-for-life-after-war-with-or-without-returning-home",
+      "published_date": "2026-10-10T12:25:31+00:00"
+    },
+    {
+      "title": "Palestinian president Abbas postpones legislative, presidential elections to September 2027",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027",
+      "published_date": "2026-10-10T11:56:40+00:00"
+    },
+    {
+      "title": "Palestinian president postpones legislative elections until 2027",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-postpones-legislative-elections-until-2027",
+      "published_date": "2026-10-10T11:54:37+00:00"
+    },
+    {
+      "title": "India detains 'cockroach' leaders ahead of election protest",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
+      "published_date": "2026-10-10T09:18:11+00:00"
+    },
+    {
+      "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+      "source": "NPR World",
+      "country": "India",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "published_date": "2026-10-10T08:31:28+00:00"
+    },
+    {
+      "title": "Netanyahu faces fresh allegations he ignored warnings about Oct. 7 — right before an election",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/netanyahu-warnings-attacks-election-israel-9.7376147?cmp=rss",
+      "published_date": "2026-10-10T08:00:00+00:00"
+    },
     {
       "title": "India’s capital locked down as youth protest targets election chief",
       "source": "South China Morning Post",
@@ -137,6 +235,13 @@
       "published_date": "2026-10-09T14:58:45+00:00"
     },
     {
+      "title": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
+      "source": "Google News World",
+      "country": "United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkEtZVhNMkYyQnRxOTVDaHlnMWQtWmF4UndHZHdlSXlzNUVTT0FudnhHU2xDMkNkOC1UVlBzZ21rd2tiTWp3eFJudDVsOXZDWEw1bFNTNk4zQWgyUmhwMjJVVzFhOGdzaG50TGFJaDU5Y3RPMl9TMTJ6UEJXR29Wa2I2emtHLTVKSFdSTWpUOEl2QktYTGRJWFBWY25UTHpManRMaVhTWmNTTjjSAbABQVVfeXFMUGNiY1V1N1dUMmdDbnh2Qi1STXNHZGw2QUlKLV9MY3YtYzRhQVRDSk0waVotMDBhNjFzckdPTEtiZTJ6enU5c0dNd0ZfakgzZ19Tb0l5SHh0Z0hPaWU5bnFrMktKLXNPX08wWVV3ZS1nMjF0WE5qN1pDMzBCMEpUc1NDZ2ppMGpOTlJkTGI0QU9ibU5EOHhjQWRjNzgwSi13cGpvbWQtaTBGdENSVE12Qmg?oc=5",
+      "published_date": "2026-10-09T14:08:58+00:00"
+    },
+    {
       "title": "Presidente do PT diz que suposto depoimento de Vorcaro sobre filme de Lula tem viés político",
       "source": "Folha de S Paulo",
       "country": "Brazil",
@@ -151,7 +256,7 @@
       "published_date": "2026-10-09T13:08:49+00:00"
     },
     {
-      "title": "Presidente de Chile decreta estado de catástrofe en zona este de Santiago arrasada por torrente de agua",
+      "title": "Presidente de Chile decreta estado de catástrofe en zona este de Santiago arrasada por torrente",
       "source": "El Nacional Venezuela",
       "country": "Chile",
       "url": "https://www.elnacional.com/2026/10/presidente-de-chile-decreta-estado-de-catastrofe-en-zona-este-de-santiago-arrasada-por-torrente-de-agua/",
@@ -2403,132 +2508,6 @@
       "country": "Israel",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election",
       "published_date": "2026-09-26T20:11:10+00:00"
-    },
-    {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T15:46:40+00:00"
-    },
-    {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election - BBC",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTFJtWFctRlZBejFEOTU3cG5XZU8ydUotOV85azV4eXhVSmFzYUw5aU5WZTl3Q1p1QWpMV25DUnZEV1RtajhaZ041Y2tXYVNrRXAydG5JT0REOEE?oc=5",
-      "published_date": "2026-09-26T15:46:40+00:00"
-    },
-    {
-      "title": "CPI leader Binoy Viswam demands Chief Election Commissioner Gyanesh Kumar’s resignation over alleged BJP ties",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/cpi-leader-binoy-viswam-demands-chief-election-commissioner-gyanesh-kumars-resignation-over-alleged-bjp-ties/article71513067.ece",
-      "published_date": "2026-09-26T14:20:01+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella, presidente de Colombia, entrega balance actualizado de operativos de la Fuerza Pública: 47 capturas",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-entrega-balance-actualizado-de-operativos-de-la-fuerza-publica-47-capturas-3589155",
-      "published_date": "2026-09-26T14:10:40+00:00"
-    },
-    {
-      "title": "India's election commission orders review of voter-roll changes",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2032843/indias-election-commission-orders-review-of-voter-roll-changes",
-      "published_date": "2026-09-26T13:45:28+00:00"
-    },
-    {
-      "title": "The media battle behind Brazil’s election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "published_date": "2026-09-26T13:01:26+00:00"
-    },
-    {
-      "title": "Brazil’s Lula bans online betting as re-election race tightens - NBC News",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnFNWXJ4b0lFaml4RlF1MHVSZDNBMHJnRFd3VEhpNWdnb3Fja3dxX3lQbEkzYjFqa2RwOWRBb0lySC1DQ0c3RGRTbDg3QUJWVTIydlB3cVl2VmM3TjVKNXZTZmtmcjRkVlFZZDBzMEVjVEJhYWFOcFJkODcxa2JUX1B0T0xTeHFldy1aUzM4TnJVbm9LeGx1REJHaWVPamI5cm1mVllhYTM?oc=5",
-      "published_date": "2026-09-26T12:47:39+00:00"
-    },
-    {
-      "title": "Brazil's President Lula bans online betting ahead of presidential election",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
-      "published_date": "2026-09-26T12:36:01+00:00"
-    },
-    {
-      "title": "Middle East: Palestinians plan first local elections in 20 years",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/middle-east-palestinians-plan-first-local-elections-in-20-years",
-      "published_date": "2026-09-26T12:29:33+00:00"
-    },
-    {
-      "title": "Iran president says supreme leader backs new plan to reopen Hormuz",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/09/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz/",
-      "published_date": "2026-09-26T12:02:00+00:00"
-    },
-    {
-      "title": "Israel bans Arab parties from election: Who they are, why it matters",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-      "published_date": "2026-09-26T10:27:11+00:00"
-    },
-    {
-      "title": "Zelensky imposes sanctions on 44 participants in illegal “elections” in TOT",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4168276-zelensky-imposes-sanctions-on-44-participants-in-illegal-elections-in-tot.html",
-      "published_date": "2026-09-26T10:27:00+00:00"
-    },
-    {
-      "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
-      "source": "France 24 English",
-      "country": "Morocco",
-      "url": "https://www.france24.com/en/morocco-s-authenticity-and-modernity-party-wins-parliamentary-election",
-      "published_date": "2026-09-26T09:38:30+00:00"
-    },
-    {
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections - theguardian.com",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
-      "published_date": "2026-09-26T09:19:00+00:00"
-    },
-    {
-      "title": "Augusto Cury, candidato a presidente de Brasil: “Las puertas están cerradas tanto para Lula como para Flavio Bolsonaro”",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/augusto-cury-candidato-a-presidente-de-brasil-las-puertas-estan-cerradas-tanto-para-lula-como-para-nid26092026/",
-      "published_date": "2026-09-26T09:00:01+00:00"
-    },
-    {
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "published_date": "2026-09-26T07:58:05+00:00"
-    },
-    {
-      "title": "PAM wins big in Morocco parliament elections but falls short of majority - Al Jazeera",
-      "source": "Google News World",
-      "country": "Morocco",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pCNXN2Z2IyQVB1bldRbU1LcktSb0plOVo1SWpsM05rY0RSamxOQ2ZLU1pFY0lfeGJsWGdmSGFaRDJEOUd6M25Yc0l4WWtCd2VXVDg2YzRkSkgzWllOY0JxMlFubExoTFJ5R01rbDFteGpfcjMxRTZKT2JUZjI0WC1NX2dpeTdtYV81UUhzZU9oYkVXdUVQYm81Uk9qU3ZsNXl5U2JoUTZobmVNTU5NNW9MY9IBuAFBVV95cUxPdkFjN3MyU2V6OUNrWm8zb3VYdWYzQUxmRFh6T3RoOS1aVnNOd0RjZkpHY1FzMFdMTDUyNTFRMGczaTJFNFN6Vi1SUGZ0aUJOTDkwaFN2a0VNbV9LenRjc1hSemJGeW8tZzA0V0tST2lncDVTV3JqYjhkQjVEb09LQzFHTkFqU3IxdEh0SFB3MG02Q253b0JUWmdXVDB6LS1ra1h3VVlJcVlLNnctSTROeUxDSE55dWtO?oc=5",
-      "published_date": "2026-09-26T04:24:00+00:00"
-    },
-    {
-      "title": "Trump rejects Iranian ceasefire proposal, expects war to continue after midterm elections - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-909753",
-      "published_date": "2026-09-26T03:40:46+00:00"
     }
   ]
 }
