@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-10T16:13:09.375904+00:00",
-    "story_count": 350,
+    "last_updated": "2026-10-11T01:32:58.592895+00:00",
+    "story_count": 365,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "En Inde, le premier ministre Narendra Modi répond par la force, alors qu’il est défié par la jeunesse",
+      "source": "Le Monde France",
+      "country": "India",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
+      "published_date": "2026-10-11T00:11:41+00:00"
+    },
+    {
+      "title": "India detains thousands, locks down Delhi to foil election chief protest",
+      "source": "Japan Times",
+      "country": "India",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/politics/cockroach-members-detained/",
+      "published_date": "2026-10-10T23:45:00+00:00"
+    },
+    {
+      "title": "Trump apunta contra Zelensky y consolida su acercamiento a Moscú: “Es hora de un nuevo presidente”",
+      "source": "La Nacion Argentina",
+      "country": "Ukraine",
+      "url": "https://www.lanacion.com.ar/el-mundo/trump-apunta-contra-zelensky-y-consolida-su-acercamiento-a-moscu-es-hora-de-un-nuevo-presidente-nid10102026/",
+      "published_date": "2026-10-10T20:57:57+00:00"
+    },
+    {
+      "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+      "published_date": "2026-10-10T20:42:55+00:00"
+    },
+    {
+      "title": "Trump says Ukraine needs new president after Zelenskyy condemns Russia fuel deal",
+      "source": "Euronews",
+      "country": "Russia",
+      "url": "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal",
+      "published_date": "2026-10-10T19:38:05+00:00"
+    },
+    {
+      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-10-10T19:32:37+00:00"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T19:28:28+00:00"
+    },
+    {
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "source": "BBC World",
+      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T19:25:03+00:00"
+    },
+    {
+      "title": "Israel’s election is a choice between sanity and political survival - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-911080",
+      "published_date": "2026-10-10T18:53:49+00:00"
+    },
+    {
+      "title": "Trump tears into Zelensky: ‘Time for Ukraine to get a new president’",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-zelensky-ukraine-russia-putin-war-refineries-b3064647.html",
+      "published_date": "2026-10-10T18:53:28+00:00"
+    },
+    {
+      "title": "Trump calls for new president in Ukraine",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
+      "published_date": "2026-10-10T18:50:23+00:00"
+    },
+    {
+      "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
+      "source": "South China Morning Post",
+      "country": "Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
+      "published_date": "2026-10-10T18:31:07+00:00"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Trump calls for Zelensky to be ousted after striking Putin diesel deal",
+      "source": "The Independent UK",
+      "country": "Russia",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-strikes-bus-attack-b3063864.html",
+      "published_date": "2026-10-10T18:01:55+00:00"
+    },
+    {
+      "title": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
+      "published_date": "2026-10-10T17:39:46+00:00"
+    },
+    {
+      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
+      "published_date": "2026-10-10T16:31:01+00:00"
+    },
+    {
+      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
+      "published_date": "2026-10-10T16:09:13+00:00"
+    },
     {
       "title": "India detains thousands, locks down Delhi to foil election chief protest",
       "source": "France 24 English",
@@ -142,6 +254,13 @@
       "country": "India",
       "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
       "published_date": "2026-10-10T09:18:11+00:00"
+    },
+    {
+      "title": "Trump says Ukraine should get a new president, blames Zelenskyy for U.S. diesel prices",
+      "source": "CBC News World",
+      "country": "Ukraine",
+      "url": "https://www.cbc.ca/news/world/russia-strikes-ukraine-trump-putin-diesel-9.7377049?cmp=rss",
+      "published_date": "2026-10-10T08:56:05+00:00"
     },
     {
       "title": "India cracks down on youth protests as anger grows against Modi and election chief",
@@ -2494,20 +2613,6 @@
       "country": "Israel",
       "url": "https://www.scmp.com/news/world/middle-east/article/3368926/hamas-leader-says-israel-use-blood-palestinians-fuel-election?utm_source=rss_feed",
       "published_date": "2026-09-27T01:31:33+00:00"
-    },
-    {
-      "title": "“Ni Tarzán hablaba así”: Presidente del Colegio de Profesores critica intervención de Kast en inglés ante la ONU",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/ni-tarzan-hablaba-asi-presidente-del-colegio-de-profesores-critica-intervencion-de-kast-en-ingles-ante-la-onu/",
-      "published_date": "2026-09-26T22:01:36+00:00"
-    },
-    {
-      "title": "Hamas leader says Israel to use Gaza 'blood' in election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election",
-      "published_date": "2026-09-26T20:11:10+00:00"
     }
   ]
 }
