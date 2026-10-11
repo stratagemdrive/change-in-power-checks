@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-11T01:32:58.592895+00:00",
-    "story_count": 365,
+    "last_updated": "2026-10-11T16:40:39.251583+00:00",
+    "story_count": 375,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,167 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump says Ukraine, Russia agreed to 'energy ceasefire' following Zelensky's election claims",
+      "source": "Jerusalem Post",
+      "country": "Russia",
+      "url": "https://www.jpost.com/international/article-911337",
+      "published_date": "2026-10-11T17:16:02+00:00"
+    },
+    {
+      "title": "BJP demands Keralam CM’s and Pinarayi’s resignation",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/kerala/bjp-demands-keralam-cms-and-pinarayis-resignation/article71572213.ece",
+      "published_date": "2026-10-11T16:26:12+00:00"
+    },
+    {
+      "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+      "published_date": "2026-10-11T16:08:39+00:00"
+    },
+    {
+      "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+      "published_date": "2026-10-11T15:33:15+00:00"
+    },
+    {
+      "title": "France urges Palestinians to reverse decision on delayed elections",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/international/20261011-france-urges-palestinians-to-reverse-decision-on-delayed-elections",
+      "published_date": "2026-10-11T15:13:10+00:00"
+    },
+    {
+      "title": "Criteria: aprobación de Presidente Kast anota un 27% y su desaprobación se ubica en el 64%",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-anota-un-27-y-su-desaprobacion-se-ubica-en-el-64/",
+      "published_date": "2026-10-11T15:08:34+00:00"
+    },
+    {
+      "title": "India's 'cockroach' leaders vow to keep up election protests",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests",
+      "published_date": "2026-10-11T14:40:27+00:00"
+    },
+    {
+      "title": "Russian forces attack energy facility in Kyiv, emergency power cuts hit four districts",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4173291-russian-forces-attack-energy-facility-in-kyiv-emergency-power-cuts-hit-four-districts.html",
+      "published_date": "2026-10-11T14:38:00+00:00"
+    },
+    {
+      "title": "'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u",
+      "published_date": "2026-10-11T14:19:57+00:00"
+    },
+    {
+      "title": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government",
+      "source": "South China Morning Post",
+      "country": "Pakistan",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
+      "published_date": "2026-10-11T13:53:51+00:00"
+    },
+    {
+      "title": "Brazil 2026 elections: Polls have Bolsonaro up in the runoff. Can Lula still win?",
+      "source": "Buenos Aires Herald",
+      "country": "Brazil",
+      "url": "https://buenosairesherald.com/world/brazil-2026-elections-polls-have-bolsonaro-up-in-the-runoff-can-lula-still-win",
+      "published_date": "2026-10-11T13:38:34+00:00"
+    },
+    {
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "published_date": "2026-10-11T13:29:31+00:00"
+    },
+    {
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "published_date": "2026-10-11T13:28:58+00:00"
+    },
+    {
+      "title": "Trump and Iran both say US Midterm Elections not a factor in peace talks - Fox News",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWk3NHpFellMTnZLVmdDd1JRdGVvdWlYNjFvSDBTN2FlRm5zV0dQT1ktaVNxbC1fTThkeUZJMVR6Y1c4dU1pZjI4RUNYN2FyRVRHcUhiY2VYbjZncFh3cUFkYWNYc1c2anhER09rSUEzRWRDUUwyUWduRkN1RGdvYWNMY3lxWU9vRXlZSGhR?oc=5",
+      "published_date": "2026-10-11T13:14:09+00:00"
+    },
+    {
+      "title": "Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
+      "published_date": "2026-10-11T13:12:09+00:00"
+    },
+    {
+      "title": "Trump says Ukraine needs new president who will agree to end war",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
+      "published_date": "2026-10-11T10:28:56+00:00"
+    },
+    {
+      "title": "2027: North-central state governors endorse Tinubu for re-election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/916099-2027-north-central-state-governors-endorse-tinubu-for-re-election.html",
+      "published_date": "2026-10-11T09:05:25+00:00"
+    },
+    {
+      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+      "source": "The Guardian World",
+      "country": "Panama",
+      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+      "published_date": "2026-10-11T06:56:08+00:00"
+    },
+    {
+      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities - The Guardian",
+      "source": "Google News World",
+      "country": "Panama",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdndVRGtJUWRIaGNvcjlLN0J4aDdtU0swaW8xVk0wYlRaQk54Ym83d0FrYUNIeE5QUWExSHlwSUpaOHdUT2VRNWJDbFdFRXVVck5XdHhxc2RRX050NDNfdnBuaUpxUFNTUV9TcFNWRlhvaGtQNWdTNG1wUG8wQUlZNUFSdXp1VUx6?oc=5",
+      "published_date": "2026-10-11T06:56:00+00:00"
+    },
+    {
+      "title": "Teen revolt or revolution? The student protests threatening France's presidential race",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race",
+      "published_date": "2026-10-11T06:00:35+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella define la hoja de ruta a seguir para la participación de Colombia en el Consejo de Seguridad de la ONU",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-define-la-hoja-de-ruta-a-seguir-para-la-participacion-de-colombia-en-el-consejo-de-seguridad-de-la-onu-3592849",
+      "published_date": "2026-10-11T05:32:48+00:00"
+    },
+    {
+      "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
+      "source": "CBC News World",
+      "country": "Panama",
+      "url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430?cmp=rss",
+      "published_date": "2026-10-11T05:20:14+00:00"
+    },
+    {
+      "title": "India’s cockroach party leaders freed as election chief protests mount",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed",
+      "published_date": "2026-10-11T05:19:50+00:00"
+    },
     {
       "title": "En Inde, le premier ministre Narendra Modi répond par la force, alors qu’il est défié par la jeunesse",
       "source": "Le Monde France",
@@ -142,6 +303,13 @@
       "country": "Ukraine",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
       "published_date": "2026-10-10T18:31:07+00:00"
+    },
+    {
+      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year - AP News",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2M3dUc4WTQ4Q3IyNDY2bVg2ejJuZkR3NTlGdWluNzBpZmRtbFpPMlBFckpoVkZRMnViT2taZWp3UXl4MnhzSXkwY0t3UzhkckowUEN3NkRKWXlwbmYtN1RjUFZNTURROEVJc24xckxqb2VLVFktcG9ZcDNIRlJuVzhaWDJpeEMtaU9SdUh0UlVad29N?oc=5",
+      "published_date": "2026-10-10T18:19:00+00:00"
     },
     {
       "title": "Ukraine-Russia war latest: Trump calls for Zelensky to be ousted after striking Putin diesel deal",
@@ -2515,104 +2683,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece",
       "published_date": "2026-09-27T17:26:46+00:00"
-    },
-    {
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "source": "BBC World",
-      "country": "Venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-27T15:56:25+00:00"
-    },
-    {
-      "title": "Iran-linked social media accounts posing as Israelis to target election, investigation reveals",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-election-2026/article-909863",
-      "published_date": "2026-09-27T15:13:40+00:00"
-    },
-    {
-      "title": "US rejects Iran’s claim of capturing underwater drone in Hormuz",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rejects-irans-claim-capturing-underwater-drone-hormuz",
-      "published_date": "2026-09-27T14:59:52+00:00"
-    },
-    {
-      "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-      "published_date": "2026-09-27T14:56:09+00:00"
-    },
-    {
-      "title": "“Histórica participación”: el mensaje del Presidente Kast tras la actuación del Team Chile en los Juegos Suramericanos",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/el-deportivo/noticia/historica-participacion-el-mensaje-del-presidente-kast-tras-la-actuacion-del-team-chile-en-los-juegos-suramericanos/",
-      "published_date": "2026-09-27T14:29:07+00:00"
-    },
-    {
-      "title": "Lula vs. Flávio Bolsonaro: What to know about Brazil’s election",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/latin-america/lula-vs-flavio-bolsonaro-what-to-know-about-brazils-election",
-      "published_date": "2026-09-27T13:52:34+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-09-27T13:32:58+00:00"
-    },
-    {
-      "title": "Political rallies fill Brazil’s streets a week before elections",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
-      "published_date": "2026-09-27T12:34:13+00:00"
-    },
-    {
-      "title": "Pope meets victims of sex abuse, urges ‘wise leaders’ as French election looms",
-      "source": "South China Morning Post",
-      "country": "France",
-      "url": "https://www.scmp.com/news/world/europe/article/3368943/pope-meets-victims-sex-abuse-urges-wise-leaders-french-election-looms?utm_source=rss_feed",
-      "published_date": "2026-09-27T09:16:38+00:00"
-    },
-    {
-      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
-      "published_date": "2026-09-27T08:10:22+00:00"
-    },
-    {
-      "title": "Bangkok floods trap residents as PM Anutin cuts UK trip short to tackle crisis",
-      "source": "South China Morning Post",
-      "country": "United Kingdom",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3368937/bangkok-floods-trap-residents-pm-anutin-cuts-uk-trip-short-tackle-crisis?utm_source=rss_feed",
-      "published_date": "2026-09-27T07:37:54+00:00"
-    },
-    {
-      "title": "‘No confusion in Election Commission’: BJP MP hits back at Congress amid row",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/no-confusion-in-election-commission-bjp-mp-hits-back-at-congress-amid-row-101790476308853.html",
-      "published_date": "2026-09-27T06:42:03+00:00"
-    },
-    {
-      "title": "Hamas leader says Israel to campaign off Gaza's 'blood' in election",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2033007/hamas-leader-says-israel-to-campaign-off-gazas-blood-in-election",
-      "published_date": "2026-09-27T04:52:04+00:00"
-    },
-    {
-      "title": "Hamas leader says Israel to use ‘blood’ of Palestinians as fuel for election",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3368926/hamas-leader-says-israel-use-blood-palestinians-fuel-election?utm_source=rss_feed",
-      "published_date": "2026-09-27T01:31:33+00:00"
     }
   ]
 }
