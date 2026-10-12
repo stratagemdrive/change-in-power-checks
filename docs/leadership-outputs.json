@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-11T16:40:39.251583+00:00",
-    "story_count": 375,
+    "last_updated": "2026-10-12T02:05:35.317636+00:00",
+    "story_count": 382,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Israelis favor Netanyahu, Eisenkot debate as poll shows PM's bloc ahead - poll",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-911378",
+      "published_date": "2026-10-12T03:12:59+00:00"
+    },
+    {
+      "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+      "source": "Al Jazeera English",
+      "country": "Russia",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+      "published_date": "2026-10-12T01:12:35+00:00"
+    },
+    {
+      "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
+      "source": "The Guardian World",
+      "country": "Pakistan",
+      "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+      "published_date": "2026-10-12T00:22:11+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habría ordenado el regreso a Colombia de exjefa de seguridad de Verónica Alcocer, tras señalamientos de Eva Ferrer",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habria-ordenado-el-regreso-a-colombia-de-exjefa-de-seguridad-de-veronica-alcocer-tras-senalamientos-de-eva-ferrer-3592928",
+      "published_date": "2026-10-11T23:03:14+00:00"
+    },
+    {
+      "title": "2027: Nigerian governor urges residents to reject election-season promises by politicians",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916252-2027-nigerian-governor-urges-residents-to-reject-election-season-promises-by-politicians.html",
+      "published_date": "2026-10-11T21:42:04+00:00"
+    },
+    {
+      "title": "An Israeli Election Like No Other - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaC1zSUx0eGNHaXFkU3pHbGxkR3NLamF0YmNuekt6V1l6M0xLZmxzbndDMktDSTJPU0lOS3J0OXMyQV9OY09MZmU2VnA4T0NDZ3JUT1A3azc2cktpOE81U2J2ZF9wVTZFQUFya28zc0ZqazNaRnpLcjlDYm5Yb05tbHFxUVlpWVl3OWF3?oc=5",
+      "published_date": "2026-10-11T20:57:39+00:00"
+    },
+    {
+      "title": "UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum - AP News",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXVCV01mX1Y3VmZHSzNEdmhpcFRSYVdCM2VVSEZCWDJCOXFpS3J2dkNldlpyWV9adHo2MHAwSml2RVlCdlhvQUE0MTdPNWxkTlpMTnlINjdmUXhSVGNocnZmMEtnTG8wM2VXMnR2N2tuREkwOV9YTUpBSE5aMnlaYjZCSmI1Y211NmluRU53NlJ4TWp4ZGpkM0Rn?oc=5",
+      "published_date": "2026-10-11T19:49:00+00:00"
+    },
+    {
+      "title": "Zelensky comments on possibility of holding elections in Ukraine",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4173360-zelensky-comments-on-possibility-of-holding-elections-in-ukraine.html",
+      "published_date": "2026-10-11T19:43:00+00:00"
+    },
+    {
+      "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+      "source": "France 24 English",
+      "country": "United Kingdom",
+      "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+      "published_date": "2026-10-11T19:42:09+00:00"
+    },
+    {
+      "title": "It is ‘clear’ Russia interfered in Brexit referendum, says UK PM Burnham",
+      "source": "South China Morning Post",
+      "country": "Russia",
+      "url": "https://www.scmp.com/news/world/europe/article/3370514/it-clear-russia-interfered-brexit-referendum-says-uk-pm-burnham?utm_source=rss_feed",
+      "published_date": "2026-10-11T18:11:43+00:00"
+    },
     {
       "title": "Trump says Ukraine, Russia agreed to 'energy ceasefire' following Zelensky's election claims",
       "source": "Jerusalem Post",
@@ -79,6 +149,13 @@
       "country": "India",
       "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
       "published_date": "2026-10-11T16:08:39+00:00"
+    },
+    {
+      "title": "Israeli women demand more than election promises as parties face pressure over equality",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-911321",
+      "published_date": "2026-10-11T16:04:29+00:00"
     },
     {
       "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
@@ -123,11 +200,18 @@
       "published_date": "2026-10-11T14:19:57+00:00"
     },
     {
-      "title": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government",
+      "title": "Pakistan imposes emergency in stronghold of jailed ex-PM Imran Khan",
       "source": "South China Morning Post",
       "country": "Pakistan",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
       "published_date": "2026-10-11T13:53:51+00:00"
+    },
+    {
+      "title": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
+      "source": "Sky News World",
+      "country": "Pakistan",
+      "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
+      "published_date": "2026-10-11T13:48:00+00:00"
     },
     {
       "title": "Brazil 2026 elections: Polls have Bolsonaro up in the runoff. Can Lula still win?",
@@ -2648,41 +2732,6 @@
       "country": "Russia",
       "url": "https://www.scmp.com/news/world/europe/article/3369018/echoing-putin-serbias-president-resigns-bid-become-prime-minister?utm_source=rss_feed",
       "published_date": "2026-09-28T05:15:14+00:00"
-    },
-    {
-      "title": "US denies IRGC claim that it captured second American submarine in Hormuz 'hunting ground' - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-909906",
-      "published_date": "2026-09-27T23:48:50+00:00"
-    },
-    {
-      "title": "Venezuelans rally to demand opposition leader’s safe return and presidential elections",
-      "source": "South China Morning Post",
-      "country": "Venezuela",
-      "url": "https://www.scmp.com/news/world/americas/article/3368985/venezuelans-rally-demand-opposition-leaders-safe-return-and-presidential-elections?utm_source=rss_feed",
-      "published_date": "2026-09-27T23:45:37+00:00"
-    },
-    {
-      "title": "France's far right gains ground in indirect Senate elections",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
-      "published_date": "2026-09-27T19:34:30+00:00"
-    },
-    {
-      "title": "Raúl Soto (PPD) critica adhesión a Escudo de las Américas: “Al Presidente Kast le ha faltado coraje y patriotismo”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/raul-soto-ppd-critica-adhesion-a-escudo-de-las-americas-al-presidente-kast-le-ha-faltado-coraje-y-patriotismo/",
-      "published_date": "2026-09-27T17:42:28+00:00"
-    },
-    {
-      "title": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece",
-      "published_date": "2026-09-27T17:26:46+00:00"
     }
   ]
 }
