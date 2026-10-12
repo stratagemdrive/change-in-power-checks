@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-12T02:05:35.317636+00:00",
-    "story_count": 382,
+    "last_updated": "2026-10-12T20:13:33.743788+00:00",
+    "story_count": 396,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,195 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran’s two-front war on Israel: From October 7 to election interference - opinion",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/opinion/article-911423",
+      "published_date": "2026-10-12T20:00:00+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+      "published_date": "2026-10-12T19:59:02+00:00"
+    },
+    {
+      "title": "Zelensky holds supreme Commander-in-Chief's Staff meeting: Ukraine's front-line positions strongest in long time",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4173739-zelensky-holds-supreme-commanderinchiefs-staff-meeting-ukraines-frontline-positions-strongest-in-long-time.html",
+      "published_date": "2026-10-12T19:19:00+00:00"
+    },
+    {
+      "title": "Lithuanian prime minister says more Ukrainian strikes on Russian data centers could help safeguard European elections from interference",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/10/12/lithuanian-prime-minister-says-more-ukrainian-strikes-on-russian-data-centers-could-help-safeguard-european-elections-from-interference",
+      "published_date": "2026-10-12T19:02:52+00:00"
+    },
+    {
+      "title": "Hamas, Dahlan and Barghouti: Palestinian hopes fade as elections cancelled",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/opinion/hamas-dahlan-and-barghouti-palestinian-hopes-fade-elections-cancelled",
+      "published_date": "2026-10-12T18:42:04+00:00"
+    },
+    {
+      "title": "Au Pakistan, nouveau coup de force contre le parti de l’ex-premier ministre Imran Khan",
+      "source": "Le Monde France",
+      "country": "Pakistan",
+      "url": "https://www.lemonde.fr/international/article/2026/10/12/au-pakistan-nouveau-coup-de-force-contre-le-parti-de-l-ex-premier-ministre-imran-khan_6792801_3210.html",
+      "published_date": "2026-10-12T18:41:10+00:00"
+    },
+    {
+      "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left",
+      "published_date": "2026-10-12T17:07:25+00:00"
+    },
+    {
+      "title": "MDB lulista reage a articulação de alas pró-Flávio Bolsonaro e anunciará apoio ao presidente",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/mdb-lulista-reage-a-articulacao-de-alas-pro-flavio-bolsonaro-e-anunciara-apoio-ao-presidente.shtml",
+      "published_date": "2026-10-12T16:55:00+00:00"
+    },
+    {
+      "title": "Thousands of Indians march to Supreme Court to oust election chief",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/thousands-of-indians-march-to-supreme-court-to-oust-election-chief",
+      "published_date": "2026-10-12T16:23:06+00:00"
+    },
+    {
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T15:19:17+00:00"
+    },
+    {
+      "title": "India's opposition leader marches with thousands against election chief",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief",
+      "published_date": "2026-10-12T15:14:36+00:00"
+    },
+    {
+      "title": "Indian opposition defies lockdown, marches to demand election chief sacking - Al Jazeera",
+      "source": "Google News World",
+      "country": "India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDA0dXhRa1ZQeklTTGVMZWFqYWszcDBSY0FnclByaklaRVNWMlUzTGg3Z3E3YUFObE1IN0lzS0tfVjF4SkpHaHdTbVIwMF94Qzk4ekttcmJTR0E5N1FiM1ZVMkotM1JqVWkwWnFZaV9BLWJhN0JoN3NTWFlVcm1yR0QxLUxTeW1UTVRtSVFyZ2pNU2dYQl9nYmhMVVJCdDdzVXN1d1RsSHpsRzdxSXpCamdidG3SAboBQVVfeXFMUFBQTUJEeU04aEFZSU9BaTdQUUhtUnRrcnNUYUxhWVNDWVR2SHZGWGcxRW1iRlZBWWVlODVfLWtIajR3OFFZNjNWVE9Wc3dvVUY1MVNDczlKQ09DM1RHQnROSWdkZ0xoQWlfX2M2QlZnUENKSXVkRVJzU3dOZVhudDJQOEtRRjBSWE9iWkRDd2I1eEZKVC1pekpPNlM4ekNDRW9lbzFIN0ZVTDRLNVRiRnBudExwNXVKRklB?oc=5",
+      "published_date": "2026-10-12T15:03:45+00:00"
+    },
+    {
+      "title": "Lula cobra Kassio e diz que presidente do TSE 'não pode ter lado'",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml",
+      "published_date": "2026-10-12T14:15:00+00:00"
+    },
+    {
+      "title": "Nato’s supreme commander warns Moscow against attacks in Europe - Financial Times",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGtoYVh0cVg3NnBlNUY1Z0szTnNqV19aOVM1aFpEZ0s5ZkM3ZjNHZFc4OXRwZGYyRlIza1g0dzFsNnJzSmsxemlROGNKRExzbzJtWDFDZi1ncTJLNkNhbTZoUHhaWFNkajFsTlVadlZUNXN3aGZCQnZXSWNzMTVuTTZpM2w?oc=5",
+      "published_date": "2026-10-12T13:34:54+00:00"
+    },
+    {
+      "title": "European allies publicly back Zelensky after Trump says Ukraine needs a new president",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/10/12/european-allies-publicly-back-zelensky-after-trump-says-ukraine-needs-a-new-president",
+      "published_date": "2026-10-12T12:32:25+00:00"
+    },
+    {
+      "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTklfczl3dnRhVTF2Z21Gd1FON0VHeTdCeEN2SWJBeDlzNUJuT2llT1BsUjZDUHBXZzZEN1dlNGJCQ2pOV1VfUVEwRng1REFFVDY4MTg2Z2RUbnFBWUFkbzRBdkxTeGdpemRiM09DLU5WQ1BmV042dERQOFB4TERkcXVNaHpWRHdvSEhTcExYTS1lemxZcEdnUE5Wem5WbG8?oc=5",
+      "published_date": "2026-10-12T12:28:30+00:00"
+    },
+    {
+      "title": "Zelensky: Ready to work with Rada on election solutions if fighting stops for 60 days",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4173570-zelensky-ready-to-work-with-rada-on-election-solutions-if-fighting-stops-for-60-days.html",
+      "published_date": "2026-10-12T11:59:00+00:00"
+    },
+    {
+      "title": "Kremlin rejects 60-day ceasefire for Ukraine’s elections — but says it might not strike ‘on election day itself’",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/10/12/kremlin-rejects-60-day-ceasefire-for-ukraine-s-elections-but-says-it-might-not-strike-on-election-day-itself",
+      "published_date": "2026-10-12T11:37:43+00:00"
+    },
+    {
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "source": "NPR World",
+      "country": "Ukraine",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "published_date": "2026-10-12T11:29:56+00:00"
+    },
+    {
+      "title": "Fishermen harassed as Myanmar junta steps up naval offensives in Rakhine",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/fishermen-harassed-as-myanmar-junta-steps-up-naval-offensives-in-rakhine/",
+      "published_date": "2026-10-12T11:01:52+00:00"
+    },
+    {
+      "title": "Russia interfered in Brexit referendum, UK prime minister says",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/12/russia-interfered-in-brexit-referendum-uk-prime-minister-says",
+      "published_date": "2026-10-12T10:53:22+00:00"
+    },
+    {
+      "title": "Thousands march in India's capital to demand resignation of election chief over alleged misconduct",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2036626/thousands-march-in-indias-capital-to-demand-resignation-of-election-chief-over-alleged-misconduct",
+      "published_date": "2026-10-12T10:41:53+00:00"
+    },
+    {
+      "title": "Maduro-linked fugitive with $10M bounty captured after years on the run",
+      "source": "The Independent UK",
+      "country": "Venezuela",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/alvaro-pulido-us-custody-venezuela-b3065131.html",
+      "published_date": "2026-10-12T09:53:54+00:00"
+    },
+    {
+      "title": "Zelensky: Ukraine will hold elections if Putin agrees to 60-day ceasefire",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/news/2026/10/12/zelensky-ukraine-will-hold-elections-if-putin-agrees-to-60-day-ceasefire",
+      "published_date": "2026-10-12T09:20:51+00:00"
+    },
+    {
+      "title": "Trump calls for Ukraine to choose a new president as relations with Zelensky hit their lowest point since Oval Office clash",
+      "source": "Meduza EN",
+      "country": "Ukraine",
+      "url": "https://meduza.io/en/feature/2026/10/12/trump-calls-for-ukraine-to-choose-a-new-president-as-relations-with-zelensky-hit-their-lowest-point-since-oval-office-clash",
+      "published_date": "2026-10-12T08:42:24+00:00"
+    },
+    {
+      "title": "Germany's fragile coalition hit by labour minister's resignation - Reuters",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXVyNnZLd1owaHNQbWpoYUVYUjhTbEFfbjRQTWp6a09nRUhBMzJMNkMxOVVta2VlUTNjQ1pMWnNqajNpMUFlMi13RnA2aHZrSE5Fd01nUkxDNWc2TUltRUN4b2g0Rm9YMllPcDBBdUxQSDhtVXpSdTllRXhmbWFvT0tYUUJZQ3FJZXVYLURwTkV4ZTBnQ0FDVDBWdHpjNWdnalkxeUpqRVdBU1FJ?oc=5",
+      "published_date": "2026-10-12T06:11:00+00:00"
+    },
+    {
+      "title": "An Israeli Election Like No Other - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaC1zSUx0eGNHaXFkU3pHbGxkR3NLamF0YmNuekt6V1l6M0xLZmxzbndDMktDSTJPU0lOS3J0OXMyQV9OY09MZmU2VnA4T0NDZ3JUT1A3azc2cktpOE81U2J2ZF9wVTZFQUFya28zc0ZqazNaRnpLcjlDYm5Yb05tbHFxUVlpWVl3OWF3?oc=5",
+      "published_date": "2026-10-12T05:33:00+00:00"
+    },
     {
       "title": "Israelis favor Netanyahu, Eisenkot debate as poll shows PM's bloc ahead - poll",
       "source": "Jerusalem Post",
@@ -93,13 +282,6 @@
       "country": "Nigeria",
       "url": "https://www.premiumtimesng.com/regional/ssouth-east/916252-2027-nigerian-governor-urges-residents-to-reject-election-season-promises-by-politicians.html",
       "published_date": "2026-10-11T21:42:04+00:00"
-    },
-    {
-      "title": "An Israeli Election Like No Other - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaC1zSUx0eGNHaXFkU3pHbGxkR3NLamF0YmNuekt6V1l6M0xLZmxzbndDMktDSTJPU0lOS3J0OXMyQV9OY09MZmU2VnA4T0NDZ3JUT1A3azc2cktpOE81U2J2ZF9wVTZFQUFya28zc0ZqazNaRnpLcjlDYm5Yb05tbHFxUVlpWVl3OWF3?oc=5",
-      "published_date": "2026-10-11T20:57:39+00:00"
     },
     {
       "title": "UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum - AP News",
@@ -142,6 +324,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/kerala/bjp-demands-keralam-cms-and-pinarayis-resignation/article71572213.ece",
       "published_date": "2026-10-11T16:26:12+00:00"
+    },
+    {
+      "title": "Abbas election delay exposes lack of accountability in Western recognition of Palestine - analysis",
+      "source": "Jerusalem Post",
+      "country": "Palestine",
+      "url": "https://www.jpost.com/international/article-911326",
+      "published_date": "2026-10-11T16:24:16+00:00"
     },
     {
       "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
@@ -247,6 +436,20 @@
       "country": "Brazil",
       "url": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
       "published_date": "2026-10-11T13:12:09+00:00"
+    },
+    {
+      "title": "Abbas delays Palestinian elections again, making more than two decades without vote - Fox News",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlgtdkg0TG1UV1lVTVQxQlluZW9VU3liNXZheWxXbEpHTl9vOVJqV1Ezek9JdVNIbVlXN29EZC1aTjB6TXFBak9JQ3hma2s4am9nTWI2dEdrQkloMG5wdjRXeC1QeHpkOFR3WGFrR2gwZ2ZRV2d1UXR0NzRXMFVzS2s3UWNvWEFZTy1iZGhlSEZSRzBRSldwMHJ4dFlUU2V2a3hGM1FERzVNZGhLcGhXQ0FR0gG3AUFVX3lxTE9pMmJvWEg2TEFUU0RmMy16ZDFuLTRYV0xpSlBWSnNobllEbzZYLVdzQkxBSkwzUUJic0NjRVlvQk1HSGlWRHlmRjA4VG9vaFU3RGpUZUJRV1o5bWpKNnVWaGhDREZ3YlFBSVpyNWFjdkdfMXQ4V3ZELUNVeXJIT090Y2xiZWtWS2p4QjZzdmVmd3ZWblRQQjJLTDRPWWZfSF9UdHczQkV3QzJhZFhJRnowVmh0clpBdw?oc=5",
+      "published_date": "2026-10-11T12:22:06+00:00"
+    },
+    {
+      "title": "Trump tears into Zelensky: ‘Time for Ukraine to get a new president’",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-zelensky-putin-russia-ukraine-oil-refineries-b3065186.html",
+      "published_date": "2026-10-11T11:06:00+00:00"
     },
     {
       "title": "Trump says Ukraine needs new president who will agree to end war",
@@ -2627,111 +2830,6 @@
       "country": "France",
       "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-28T21:46:53+00:00"
-    },
-    {
-      "title": "2027: ADC candidates defect to APC, back Tinubu",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/2027-adc-candidates-defect-to-apc-back-tinubu/",
-      "published_date": "2026-09-28T18:14:47+00:00"
-    },
-    {
-      "title": "Vučić’ Resigns, Informs Putin of Decision - Kyiv Post",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5td0NvRDhtUm5aRHRtYi04Zy1kQzhLTEJYVjVaVzI2enlwQm0wdDdockhybDVHMjV2Q0hQbm05bnlyNkwtWFB0SmI0TQ?oc=5",
-      "published_date": "2026-09-28T17:00:25+00:00"
-    },
-    {
-      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds",
-      "published_date": "2026-09-28T16:55:29+00:00"
-    },
-    {
-      "title": "Likud election candidate Bonzel says he wishes former hostage was 'returned to Hamas,' apologizes",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-909988",
-      "published_date": "2026-09-28T16:40:27+00:00"
-    },
-    {
-      "title": "EU sanctions 10 Russian judges, prosecutors, and officials over opposition party Yabloko’s exclusion from parliamentary elections. A North Korean children’s camp is also added to the sanctions list.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/28/eu-sanctions-10-russian-judges-prosecutors-and-officials-over-opposition-party-yabloko-s-exclusion-from-parliamentary-elections-a-north-korean-children-s-camp-is-also-added-to-the-sanctions-list",
-      "published_date": "2026-09-28T16:34:24+00:00"
-    },
-    {
-      "title": "Rights group says Russian elections expert Alexander Kynev was beaten during arrest, hospitalized with two lower-leg fractures",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/28/rights-group-says-russian-elections-expert-alexander-kynev-was-beaten-during-arrest-hospitalized-with-two-lower-leg-fractures",
-      "published_date": "2026-09-28T16:12:48+00:00"
-    },
-    {
-      "title": "Iran supreme leader says US will be forced out of Middle East",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-says-us-will-be-forced-out-middle-east",
-      "published_date": "2026-09-28T15:41:25+00:00"
-    },
-    {
-      "title": "“Bravo Milei”: Elon Musk elogia al presidente argentino por baja de la inflación",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/pulso/noticia/bravo-milei-elon-musk-elogia-al-presidente-argentino-por-baja-de-la-inflacion/",
-      "published_date": "2026-09-28T15:11:41+00:00"
-    },
-    {
-      "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
-      "source": "Deutsche Welle English",
-      "country": "India",
-      "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-09-28T14:18:00+00:00"
-    },
-    {
-      "title": "French Senate elections: What next after far right surge?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20260928-french-senate-elections-what-next-after-far-right-surge",
-      "published_date": "2026-09-28T14:14:26+00:00"
-    },
-    {
-      "title": "Azerbaijani politicians and journalists in exile hold opposition congress in France",
-      "source": "OC Media Caucasus",
-      "country": "France",
-      "url": "https://oc-media.org/azerbaijani-politicians-and-journalists-in-exile-hold-opposition-congress-in-france/",
-      "published_date": "2026-09-28T14:04:59+00:00"
-    },
-    {
-      "title": "Xi Jinping demands ‘safer’ China as Communist Party prepares for leadership reshuffle",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/news/china/politics/article/3369101/xi-jinping-demands-safer-china-communist-party-prepares-leadership-reshuffle?utm_source=rss_feed",
-      "published_date": "2026-09-28T13:30:27+00:00"
-    },
-    {
-      "title": "Far right scores historic victory in French Senate election - politico.eu",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0VNN3BEOGwtOWhBaEhHNVQ4Z2NyN2xySGdkVGN6b1Y1MS1ld1pKT1Z1aU5EVkNaNjZmQWVoMVdHQjhjS04ydWx1ZzI2cmlkZnh1cG1SY1lCbEdTTVhDclNxZmpvVTRsaVNMaWIydW9tZExzNHFCY1VjTkdCWTlVc2kxSDR4bWxqSkFtN2FWUWYzRDR5QWF3?oc=5",
-      "published_date": "2026-09-28T10:05:00+00:00"
-    },
-    {
-      "title": "When India's first Chief Election Commissioner Sukumar Sen deleted lakhs of women from voter rolls",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/why-indias-first-chief-election-commissioner-sukumar-sen-deleted-lakhs-of-women-from-voter-rolls-cec-gyanesh-kumar-101790571053386.html",
-      "published_date": "2026-09-28T07:31:41+00:00"
-    },
-    {
-      "title": "Echoing Putin, Serbia’s president resigns in bid to become prime minister",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/europe/article/3369018/echoing-putin-serbias-president-resigns-bid-become-prime-minister?utm_source=rss_feed",
-      "published_date": "2026-09-28T05:15:14+00:00"
     }
   ]
 }
