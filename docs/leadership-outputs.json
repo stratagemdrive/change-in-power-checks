@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-13T03:25:45.835366+00:00",
-    "story_count": 398,
+    "last_updated": "2026-10-13T18:02:39.983518+00:00",
+    "story_count": 397,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "In blow to Netanyahu, Trump again stops short of endorsing candidate in Israeli election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911600",
+      "published_date": "2026-10-13T19:31:06+00:00"
+    },
+    {
+      "title": "PTI's Ali Zafar terms governor's rule in KP 'political crisis disguised as security solution'; ministers defend move",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2036912/ptis-ali-zafar-terms-governors-rule-in-kp-political-crisis-disguised-as-security-solution-ministers-defend-move",
+      "published_date": "2026-10-13T17:57:21+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+      "published_date": "2026-10-13T17:40:00+00:00"
+    },
+    {
+      "title": "Moreira por dichos de embajador de EE.UU.: “Este problema tiene que solucionarlo el Presidente Kast con el secretario de Estado, Marco Rubio”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/moreira-por-dichos-de-embajador-de-eeuu-este-problema-tiene-que-solucionarlo-el-presidente-kast-con-el-secretario-de-estado-marco-rubio/",
+      "published_date": "2026-10-13T16:44:45+00:00"
+    },
+    {
+      "title": "Canada, allies press Palestinian Authority to reverse decision on postponing elections",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-canada-allies-press-palestinian-authority-to-reverse-decision-on/",
+      "published_date": "2026-10-13T16:33:31+00:00"
+    },
+    {
+      "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – as it happened",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+      "published_date": "2026-10-13T16:23:21+00:00"
+    },
+    {
+      "title": "L. Murugan resigns from Ministry, Rajya Sabha seat, setting off buzz about a pre-Deepavali Cabinet reset",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/union-minister-l-murugan-resigns-wishes-to-return-to-tamil-nadu-to-strengthen-bjp-in-state/article71579815.ece",
+      "published_date": "2026-10-13T15:36:27+00:00"
+    },
+    {
+      "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
+      "source": "The Guardian World",
+      "country": "Russia",
+      "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
+      "published_date": "2026-10-13T15:15:45+00:00"
+    },
+    {
+      "title": "Russian Court Hands Exiled YouTuber Michael Nacke Combined 14-Year Sentence",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/10/13/russian-court-hands-exiled-youtuber-michael-nacke-combined-14-year-sentence-a93965",
+      "published_date": "2026-10-13T14:17:36+00:00"
+    },
+    {
+      "title": "Armenian opposition politicians defect to ruling party ahead of local elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-politicians-defect-to-ruling-party-ahead-of-local-elections/",
+      "published_date": "2026-10-13T13:56:23+00:00"
+    },
+    {
+      "title": "Canada, allies say they 'deeply regret' Palestinian elections being postponed",
+      "source": "CBC News World",
+      "country": "Canada",
+      "url": "https://www.cbc.ca/news/politics/canada-palestine-elections-9.7379044?cmp=rss",
+      "published_date": "2026-10-13T13:51:28+00:00"
+    },
+    {
+      "title": "L Murugan resigns as union minister, Rajya Sabha member: ‘Want to strengthen BJP in Tamil Nadu’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/l-murugan-resigns-as-union-minister-rajya-sabha-member-want-to-strengthen-bjp-in-tamil-nadu-pm-modi-101791894406846.html",
+      "published_date": "2026-10-13T12:33:07+00:00"
+    },
+    {
+      "title": "Six civilians killed in Myanmar junta airstrikes on monastery and villages in Sagaing",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/six-civilians-killed-in-myanmar-junta-airstrikes-on-monastery-and-villages-in-sagaing/",
+      "published_date": "2026-10-13T09:30:29+00:00"
+    },
+    {
+      "title": "India youth shift tactics as police clamp down on election protest",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2036839/india-youth-shift-tactics-as-police-clamp-down-on-election-protest",
+      "published_date": "2026-10-13T06:03:17+00:00"
+    },
+    {
+      "title": "India’s youth shift tactics as police clamp down on election protest",
+      "source": "Japan Times",
+      "country": "India",
+      "url": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/politics/india-youth-tactics/",
+      "published_date": "2026-10-13T04:21:00+00:00"
+    },
+    {
+      "title": "Canadians are still boycotting Las Vegas. The Sin City slump is now a major election issue",
+      "source": "CBC News World",
+      "country": "Canada",
+      "url": "https://www.cbc.ca/news/world/canadians-boycotting-las-vegas-election-issue-9.7375873?cmp=rss",
+      "published_date": "2026-10-13T04:00:00+00:00"
+    },
     {
       "title": "Trump says US midterm elections will not impact approach to war on Iran",
       "source": "Middle East Eye",
@@ -2725,125 +2837,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml",
       "published_date": "2026-09-29T17:59:00+00:00"
-    },
-    {
-      "title": "First female prime minister named in Morocco after winning elections",
-      "source": "BBC World",
-      "country": "Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T17:14:10+00:00"
-    },
-    {
-      "title": "Russian opposition party leader is cited for ‘petty hooliganism’ after writing pro-peace, pro-ceasefire statements on his election ballot",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/29/russian-opposition-party-leader-is-cited-for-petty-hooliganism-after-writing-pro-peace-pro-ceasefire-statements-on-his-election-ballot",
-      "published_date": "2026-09-29T16:52:11+00:00"
-    },
-    {
-      "title": "CWC demands resignations of PM Modi, Shah over ‘vote chori’",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kharge-demands-modi-resignation-cec-gyanesh-kumar-removal-cwc-meet/article71522992.ece",
-      "published_date": "2026-09-29T16:29:07+00:00"
-    },
-    {
-      "title": "Presidente Kast asiste a funeral de carabinero fallecido tras operativo en Lo Espejo",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-asiste-a-funeral-de-carabinero-fallecido-tras-operativo-en-lo-espejo/",
-      "published_date": "2026-09-29T15:54:07+00:00"
-    },
-    {
-      "title": "“¿Por qué comprarte a vos y no traerla de China?”: la advertencia del presidente de Ford Sudamérica sobre los autos en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "China",
-      "url": "https://www.lanacion.com.ar/autos/por-que-comprarte-a-vos-y-no-traerla-de-china-la-advertencia-del-maximo-ejecutivo-de-ford-sobre-los-nid29092026/",
-      "published_date": "2026-09-29T15:50:20+00:00"
-    },
-    {
-      "title": "Russia steps up VPN blocking after parliamentary elections. Ten services report tighter restrictions in a single week.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/29/russia-steps-up-vpn-blocking-after-parliamentary-elections-ten-services-report-tighter-restrictions-in-a-single-week",
-      "published_date": "2026-09-29T15:27:37+00:00"
-    },
-    {
-      "title": "WATCH: 'Don't mess with us': Netanyahu warns enemies may attack Israel ahead of election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910076",
-      "published_date": "2026-09-29T15:02:34+00:00"
-    },
-    {
-      "title": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit - France 24",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1FwbzdhMDdTeURwMklsVFVrMUpEdHVwem1XYVg3SG9MV0MzSFN4NWJEdFR4SEROVUhhS05NUGRaU0RiVjBHeDZBc1ZpX25vVUdlMENmNnR6ZkNfM0tyZmd6WnhaMkNnRkIxaU8walR2VkJCb3lyT1FidmdRcGduS25hdDVsc21Cd2drQzJ0RU9BcU96RmhNNTJhOU5zQnpvaHZQWmtXeHFLVWxIcE16YnV0VDBIc1VGQThNTDVJZ2s3ajhuUERvYUFOYjUtQQ?oc=5",
-      "published_date": "2026-09-29T14:22:29+00:00"
-    },
-    {
-      "title": "‘This needs to be looked into’: Communist party leader asks Putin to check election results in North Caucasus",
-      "source": "OC Media Caucasus",
-      "country": "Russia",
-      "url": "https://oc-media.org/this-needs-to-be-looked-into-communist-party-leader-asks-putin-to-check-election-results-in-north-caucasus/",
-      "published_date": "2026-09-29T14:13:34+00:00"
-    },
-    {
-      "title": "Presidente Kast blinda al canciller tras su tensa interpelación en el Congreso: “Tuvo una muy buena presentación”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-blinda-al-canciller-tras-su-tensa-interpelacion-en-el-congreso-tuvo-una-muy-buena-presentacion/",
-      "published_date": "2026-09-29T14:05:35+00:00"
-    },
-    {
-      "title": "Armenia’s ruling party wins municipal elections uncontested",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenias-ruling-party-wins-municipal-elections-uncontested/",
-      "published_date": "2026-09-29T13:08:15+00:00"
-    },
-    {
-      "title": "Presidente Kast anuncia extensión de bonos por alza de las bencinas: “Pensábamos que la guerra iba a durar poco”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-anuncia-extension-de-bonos-por-alza-de-las-bencinas-pensabamos-que-la-guerra-iba-a-durar-poco/",
-      "published_date": "2026-09-29T13:07:06+00:00"
-    },
-    {
-      "title": "Britain’s PM is on a ‘Burnham bounce.’ When will he fall to earth?",
-      "source": "Egypt Independent",
-      "country": "United Kingdom",
-      "url": "https://www.egyptindependent.com/britains-pm-is-on-a-burnham-bounce-when-will-he-fall-to-earth/",
-      "published_date": "2026-09-29T12:39:53+00:00"
-    },
-    {
-      "title": "Turkey’s $17bn fund scandal becomes a political crisis for Erdogan",
-      "source": "Middle East Eye",
-      "country": "Turkey",
-      "url": "https://www.middleeasteye.net/news/turkeys-17bn-fund-scandal-becomes-political-crisis-erdogan",
-      "published_date": "2026-09-29T11:47:42+00:00"
-    },
-    {
-      "title": "Brazil's countdown to election day: Crime and security high on voters' agenda",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda",
-      "published_date": "2026-09-29T11:33:58+00:00"
-    },
-    {
-      "title": "What Marine Le Pen’s senate wins mean for the far-right in France’s presidential elections",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/france-marine-le-pen-far-right-national-rally-elections-senate-b3057370.html",
-      "published_date": "2026-09-29T11:26:59+00:00"
-    },
-    {
-      "title": "The True Meaning of Russia’s Sham Election",
-      "source": "Foreign Policy",
-      "country": "Russia",
-      "url": "https://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/",
-      "published_date": "2026-09-29T09:56:56+00:00"
     }
   ]
 }
