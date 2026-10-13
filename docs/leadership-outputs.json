@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-12T20:13:33.743788+00:00",
-    "story_count": 396,
+    "last_updated": "2026-10-13T03:25:45.835366+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Trump says US midterm elections will not impact approach to war on Iran",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-midterm-elections-will-not-impact-approach-war-iran",
+      "published_date": "2026-10-13T01:51:10+00:00"
+    },
+    {
+      "title": "Presidente Kast anuncia rebaja en el valor del TAG",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/presidente-kast-anuncia-importante-rebaja-en-el-valor-del-tag/",
+      "published_date": "2026-10-13T00:29:20+00:00"
+    },
+    {
+      "title": "Au Royaume-Uni, les accusations tous azimuts du premier ministre contre l’Iran et la Russie",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/10/13/au-royaume-uni-les-accusations-tous-azimuts-du-premier-ministre-contre-l-iran-et-la-russie_6792842_3210.html",
+      "published_date": "2026-10-12T22:15:24+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella y Marco Rubio hablaron nuevamente sobre los desafíos que enfrenta Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-marco-rubio-hablaron-nuevamente-sobre-los-desafios-que-enfrenta-colombia-3593042",
+      "published_date": "2026-10-12T21:46:50+00:00"
+    },
+    {
+      "title": "Tinubu’s re-election crucial to Nigeria’s prosperity – Hamzat",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/tinubus-re-election-crucial-to-nigerias-prosperity-hamzat/",
+      "published_date": "2026-10-12T21:31:29+00:00"
+    },
     {
       "title": "Iran’s two-front war on Israel: From October 7 to election interference - opinion",
       "source": "Jerusalem Post",
@@ -79,6 +114,13 @@
       "country": "Ukraine",
       "url": "https://www.ukrinform.net/rubric-ato/4173739-zelensky-holds-supreme-commanderinchiefs-staff-meeting-ukraines-frontline-positions-strongest-in-long-time.html",
       "published_date": "2026-10-12T19:19:00+00:00"
+    },
+    {
+      "title": "Supreme Court flags 14 'defects' in Rahul Gandhi's petition against CEC Gyanesh Kumar",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-flags-14-defects-in-rahul-gandhi-opposition-petition-against-cec-gyanesh-kumar-election-commission-of-india-101791832724845.html",
+      "published_date": "2026-10-12T19:18:44+00:00"
     },
     {
       "title": "Lithuanian prime minister says more Ukrainian strikes on Russian data centers could help safeguard European elections from interference",
@@ -212,6 +254,13 @@
       "country": "India",
       "url": "https://www.dawn.com/news/2036626/thousands-march-in-indias-capital-to-demand-resignation-of-election-chief-over-alleged-misconduct",
       "published_date": "2026-10-12T10:41:53+00:00"
+    },
+    {
+      "title": "In Israel’s election, Netanyahu faces a reckoning over Oct. 7 failure - The Forward",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUZvdlVlUW9SSlZXMzItQ2JJQUYzMVh6VnRkSDZjSVk0YUxnVWdxRXFOMnNHellxRE4zclBYaWU2TlVTbFNyYjVXcm5KdE1SRE1ybnhSZnJGVE1qeW5jejNCZlM4dU42bE9ZczFMSENKQmZxVmdjcnBsc1ZtekgwLTZWUm5PN1huSmZsUlpn?oc=5",
+      "published_date": "2026-10-12T10:06:59+00:00"
     },
     {
       "title": "Maduro-linked fugitive with $10M bounty captured after years on the run",
@@ -2795,41 +2844,6 @@
       "country": "Russia",
       "url": "https://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/",
       "published_date": "2026-09-29T09:56:56+00:00"
-    },
-    {
-      "title": "Lula e Janja exploram fake news sobre Nossa Senhora, e presidente ataca igreja por elo com Vorcaro",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml",
-      "published_date": "2026-09-29T02:43:00+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente habló de Patricia Bullrich y dijo: “No la subestimen”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tengo-algunos-enemigos-muy-pesados-aca-y-en-el-mundo-dijo-el-nid28092026/",
-      "published_date": "2026-09-29T02:08:40+00:00"
-    },
-    {
-      "title": "Mambilla: Sunrise promoter rejects Atiku, Dasuki links, backs Tinubu’s re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/09/mambilla-sunrise-promoter-rejects-atiku-dasuki-links-backs-tinubus-re-election/",
-      "published_date": "2026-09-28T23:25:00+00:00"
-    },
-    {
-      "title": "Presidente Kast asiste al velorio del cabo Aguilera, fallecido tras ser baleado en operativo en Lo Espejo",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-asiste-al-velorio-del-cabo-aguilera-fallecido-tras-ser-baleado-en-operativo-en-lo-espejo/",
-      "published_date": "2026-09-28T23:16:09+00:00"
-    },
-    {
-      "title": "French PM warns against escalation of school protests after 164 arrested",
-      "source": "BBC World",
-      "country": "France",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T21:46:53+00:00"
     }
   ]
 }
