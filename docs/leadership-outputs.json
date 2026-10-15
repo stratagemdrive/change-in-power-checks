@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-15T01:16:25.827570+00:00",
-    "story_count": 404,
+    "last_updated": "2026-10-15T15:35:52.344258+00:00",
+    "story_count": 409,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
+      "published_date": "2026-10-15T15:06:52+00:00"
+    },
+    {
+      "title": "Valdemar minimiza efeito do fim da 6x1 para Lula e diz que só atende eleitores do presidente",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/valdemar-minimiza-efeito-do-fim-da-6x1-para-lula-e-diz-que-so-atende-eleitores-do-presidente.shtml",
+      "published_date": "2026-10-15T14:45:00+00:00"
+    },
+    {
+      "title": "Gobierno del presidente De La Espriella atribuye a la administración Petro la ejecución más baja del acuerdo de paz: apenas el 4,66 %",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-del-presidente-de-la-espriella-atribuye-a-la-administracion-petro-la-ejecucion-mas-baja-del-acuerdo-de-paz-4-3593712",
+      "published_date": "2026-10-15T14:26:34+00:00"
+    },
+    {
+      "title": "Presidente Kast nombra a directora nacional de Aeropuertos a partir de nómina del Consejo de Alta Dirección Pública",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-nombra-a-directora-nacional-de-aeropuertos-a-partir-de-nomina-del-consejo-de-alta-direccion-publica/",
+      "published_date": "2026-10-15T13:59:57+00:00"
+    },
+    {
+      "title": "Palestinians fear violent olive harvest ahead of Israeli elections",
+      "source": "Dawn Pakistan",
+      "country": "Palestine",
+      "url": "https://www.dawn.com/news/2037356/palestinians-fear-violent-olive-harvest-ahead-of-israeli-elections",
+      "published_date": "2026-10-15T11:38:52+00:00"
+    },
+    {
+      "title": "Marine Le Pen sends message to EU before latest French election bid",
+      "source": "The Independent UK",
+      "country": "France",
+      "url": "https://www.independent.co.uk/news/world/europe/marine-le-pen-trial-of-strength-eu-france-presidential-election-bid-b3067360.html",
+      "published_date": "2026-10-15T11:18:32+00:00"
+    },
+    {
+      "title": "EU leaders clash over trillion-euro budget as fears grow over French election fallout",
+      "source": "South China Morning Post",
+      "country": "France",
+      "url": "https://www.scmp.com/news/world/europe/article/3371036/eu-leaders-clash-over-trillion-euro-budget-fears-grow-over-french-election-fallout?utm_source=rss_feed",
+      "published_date": "2026-10-15T10:42:26+00:00"
+    },
+    {
+      "title": "At least 8 civilians killed by Myanmar junta airstrikes near Mon-Karen border",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/at-least-8-civilians-killed-by-myanmar-junta-airstrikes-near-mon-karen-border/",
+      "published_date": "2026-10-15T10:40:33+00:00"
+    },
+    {
+      "title": "Israel: Netanyahu and Eisenkot clash over Palestinian statehood ahead of elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israel-netanyahu-and-eisenkot-clash-over-palestinian-statehood-ahead-elections",
+      "published_date": "2026-10-15T10:07:30+00:00"
+    },
+    {
+      "title": "Brazil's elections matter for the planet. This is why",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-15T09:52:00+00:00"
+    },
+    {
+      "title": "Israel’s 2026 election: Who are the main leaders and where do they stand on the key issues?",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/explainers/election-israel-gaza-netanyahu-eisenkot-policy-draft",
+      "published_date": "2026-10-15T09:41:13+00:00"
+    },
+    {
+      "title": "KIO/KIA rejects Myanmar junta’s offer of peace talks",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/kio-kia-rejects-myanmar-juntas-offer-of-peace-talks/",
+      "published_date": "2026-10-15T08:10:25+00:00"
+    },
+    {
+      "title": "BJP says ‘objective is regime change’ after Neha Bora's remarks on Bangladesh's Gen Z movement sparks row",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/neha-bora-bangladesh-gen-z-remark-triggers-row-bjp-says-objective-is-regime-change-amid-delhi-protests-cec-eci-sir-row-101792044968642.html",
+      "published_date": "2026-10-15T06:56:43+00:00"
+    },
+    {
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "published_date": "2026-10-15T02:45:42+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
       "source": "La Nacion Argentina",
@@ -2823,69 +2921,6 @@
       "country": "France",
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/coup-de-boule-materazzi-equipe-de-fou-retour-au-stade-de-france-les-verites-de-zidane-avant-le-choc-face-a-l-italie-20261001",
       "published_date": "2026-10-01T16:39:56+00:00"
-    },
-    {
-      "title": "Defesa de Bolsonaro pede liberdade do ex-presidente com base em sessão sobre Moraes",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/defesa-de-bolsonaro-pede-liberdade-do-ex-presidente-com-base-em-sessao-sobre-moraes.shtml",
-      "published_date": "2026-10-01T14:25:00+00:00"
-    },
-    {
-      "title": "Presidente da Igreja Presbiteriana, que veta apoio eleitoral, defende voto em Michelle Bolsonaro",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/presidente-da-igreja-presbiteriana-que-veta-apoio-eleitoral-defende-voto-em-michelle-bolsonaro.shtml",
-      "published_date": "2026-10-01T13:16:00+00:00"
-    },
-    {
-      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-      "published_date": "2026-10-01T10:00:00+00:00"
-    },
-    {
-      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election - NPR",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTkVFbTdvbTRxVllNUW85ZE5kQ2ZPMVdaWHFPMlhUZFo2cnNBeDFZMkJjbGw0aFd0V3lVRU5fNzJQNHh3djhnQ0E2cXllZWRyWG56UTQ1MXhMQk5NcGVmdVRndlRhcDlnbjZreXFjTXgyOXpKUXVjWjZiX1hfakRDeFhB?oc=5",
-      "published_date": "2026-10-01T10:00:00+00:00"
-    },
-    {
-      "title": "French PM holds crisis meeting as student protests spread nationwide",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20261001-french-school-protests-spread-to-universities-as-blockades-intensify",
-      "published_date": "2026-10-01T09:58:00+00:00"
-    },
-    {
-      "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
-      "published_date": "2026-10-01T09:51:18+00:00"
-    },
-    {
-      "title": "Komeito’s new leader faces immediate test with autumn session and upcoming votes",
-      "source": "Japan Times",
-      "country": "Japan",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/komeito-okamoto-leader/",
-      "published_date": "2026-10-01T07:31:00+00:00"
-    },
-    {
-      "title": "Life in exile: Russian singer Monetochka thought Vilnius would be a stopover. Four years later, she says she may stay forever.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/10/01/life-in-exile-russian-singer-monetochka-thought-vilnius-would-be-a-stopover-four-years-later-she-says-she-may-stay-forever",
-      "published_date": "2026-10-01T06:50:12+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de partir a París",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
-      "published_date": "2026-10-01T01:20:00+00:00"
     }
   ]
 }
