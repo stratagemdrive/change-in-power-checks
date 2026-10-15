@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-14T15:49:43.496740+00:00",
-    "story_count": 405,
+    "last_updated": "2026-10-15T01:16:25.827570+00:00",
+    "story_count": 404,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+      "published_date": "2026-10-15T00:54:11+00:00"
+    },
+    {
+      "title": "Israel bloquea la construcción de una base en Gaza para la Junta de Paz creada por Trump",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/israel-bloquea-la-construccion-de-una-base-en-gaza-para-la-junta-de-paz-creada-por-trump/",
+      "published_date": "2026-10-15T00:00:04+00:00"
+    },
+    {
+      "title": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
+      "published_date": "2026-10-14T23:52:58+00:00"
+    },
+    {
+      "title": "APC campaign council tasks governors, lawmakers with grassroots mobilisation for Tinubu’s re-election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/917176-apc-campaign-council-tasks-governors-lawmakers-with-grassroots-mobilisation-for-tinubus-re-election.html",
+      "published_date": "2026-10-14T22:01:27+00:00"
+    },
+    {
+      "title": "Tinubu’s re-election: Don’t allow repeat of 2023, Tompolo tells Lagos",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/more-news/917173-tinubus-re-election-dont-allow-repeat-of-2023-tompolo-tells-lagos.html",
+      "published_date": "2026-10-14T21:39:14+00:00"
+    },
+    {
+      "title": "2027: Tinubu inaugurates campaign council, says governance won’t take back seat",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/headlines/917137-2027-tinubu-inaugurates-campaign-council-says-governance-wont-take-back-seat.html",
+      "published_date": "2026-10-14T19:32:55+00:00"
+    },
+    {
+      "title": "Presidente de Panamá agradece a Venezuela el envío de 51 expertos para evaluar daños tras el terremoto",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/10/presidente-de-panama-agradece-a-venezuela-el-envio-de-51-expertos-para-evaluar-danos-tras-el-terremoto/",
+      "published_date": "2026-10-14T19:16:16+00:00"
+    },
+    {
+      "title": "U.S. officials ‘closely watching’ for Canadian interference in midterm elections, Hoekstra says",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-us-ambassador-hoekstra-midterm-election-interference/",
+      "published_date": "2026-10-14T18:29:12+00:00"
+    },
+    {
+      "title": "Alcolumbre articula pautas pró-Lula e busca voto até do PL para se reeleger presidente do Senado",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml",
+      "published_date": "2026-10-14T18:25:00+00:00"
+    },
     {
       "title": "VIDEO: Adeleke dances at APC inauguration after declaring support for Tinubu’s re-election",
       "source": "The Punch Nigeria",
@@ -2823,76 +2886,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
       "published_date": "2026-10-01T01:20:00+00:00"
-    },
-    {
-      "title": "Congressional staff planned official trip with luxury stops in Italy and France weeks before election - NBC News",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXVFZWYxcy1Sc0RVcklzMFh2dU14RmlwN2RXTVd1c2pIbFFYRzJ5ajBDcV9YaXNjVVNNcjg0ajVTUlhPa2hYSWx5OXBuYkVoV2ljUzA1WHpkem1SaXZ0OWV2V1lFVF84eXZzMTlNS3JHVUw3NjVwdDE1VU9iRVBYemtTZjJaY0NqRmhRaWlCTkR6SnE1TVgtQmk2VVVyWmFxS2t0UlpzcmtPd1lwVW9FUFN0NVRjV29Ia21VN2gwRW4?oc=5",
-      "published_date": "2026-09-30T22:48:58+00:00"
-    },
-    {
-      "title": "Cancillería activó retorno de soldado Henry Camargo a Colombia mediante apoyo humanitario excepcional tras solicitud del presidente De La Espriella",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-activo-retorno-de-soldado-henry-camargo-a-colombia-mediante-apoyo-humanitario-excepcional-tras-solicitud-del-presidente-de-la-espriella-3590302",
-      "published_date": "2026-09-30T22:42:09+00:00"
-    },
-    {
-      "title": "Senate punts bill to permanently ban Chinese cars until after midterm elections",
-      "source": "The Independent UK",
-      "country": "China",
-      "url": "https://www.independent.co.uk/news/world/americas/chinese-united-states-donald-trump-elissa-slotkin-bernie-moreno-b3059390.html",
-      "published_date": "2026-09-30T22:15:40+00:00"
-    },
-    {
-      "title": "‘It was the first election where I could vote — and didn’t know the result in advance.’ Meet Russian-born Berlin politician Elizaveta Kapinos.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/09/30/it-was-the-first-election-where-i-could-vote-and-didn-t-know-the-result-in-advance-meet-russian-born-berlin-politician-elizaveta-kapinos",
-      "published_date": "2026-09-30T20:01:39+00:00"
-    },
-    {
-      "title": "Emergency power outages canceled in Kyiv, replaced with scheduled blackouts",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4169747-emergency-power-outages-canceled-in-kyiv-replaced-with-scheduled-blackouts.html",
-      "published_date": "2026-09-30T16:46:00+00:00"
-    },
-    {
-      "title": "Vyacheslav Volodin reelected speaker of the State Duma, Russia’s lower house, for third consecutive term",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/30/vyacheslav-volodin-reelected-speaker-of-the-state-duma-russia-s-lower-house-for-third-consecutive-term",
-      "published_date": "2026-09-30T16:38:53+00:00"
-    },
-    {
-      "title": "CEC has lifelong immunity for helping Modi govt. steal elections: Rahul",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/cec-has-lifelong-immunity-for-helping-modi-govt-steal-elections-rahul/article71529543.ece",
-      "published_date": "2026-09-30T16:14:39+00:00"
-    },
-    {
-      "title": "Emergency power outages introduced in Kyiv and three regions",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4169729-emergency-power-outages-introduced-in-kyiv-and-three-regions.html",
-      "published_date": "2026-09-30T15:57:00+00:00"
-    },
-    {
-      "title": "‘Plínio Trump’ channels President Donald Trump as protest candidate in Brazil election",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/plinio-trump-brazil-joke-candidates-barack-obama-b3059195.html",
-      "published_date": "2026-09-30T15:55:52+00:00"
-    },
-    {
-      "title": "Russian opposition party Yabloko’s leader urges Interior Ministry to investigate alleged torture of political scientist Alexander Kynev",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/09/30/russian-opposition-party-yabloko-s-leader-urges-interior-ministry-to-investigate-alleged-torture-of-political-scientist-alexander-kynev",
-      "published_date": "2026-09-30T15:45:41+00:00"
     }
   ]
 }
