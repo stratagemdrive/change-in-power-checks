@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-16T01:01:06.504127+00:00",
-    "story_count": 408,
+    "last_updated": "2026-10-16T15:18:53.737116+00:00",
+    "story_count": 406,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Regime change in India happens through elections, seeking it not wrong: Congress on Rajnath Singh’s remarks",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/opposition-is-to-oppose-expose-depose-congress-pranab-reminder-to-rajnath-singh/article71591779.ece",
+      "published_date": "2026-10-16T15:03:42+00:00"
+    },
+    {
+      "title": "Azerbaijan opens criminal case over calls for coup, declares Turkish columnist wanted",
+      "source": "OC Media Caucasus",
+      "country": "Azerbaijan",
+      "url": "https://oc-media.org/azerbaijan-opens-criminal-case-over-calls-for-coup-declares-turkish-columnist-wanted/",
+      "published_date": "2026-10-16T14:08:42+00:00"
+    },
+    {
+      "title": "Israel picks between 'secular democracy or theocracy' in election, chess master Garry Kasparov says",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-911910",
+      "published_date": "2026-10-16T13:27:27+00:00"
+    },
+    {
+      "title": "2027: Tinubu afraid to face Nigerians, has no business seeking re-election — ADC campaign",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/2027-tinubu-afraid-to-face-nigerians-has-no-business-seeking-re-election-adc-campaign-2/",
+      "published_date": "2026-10-16T13:16:08+00:00"
+    },
+    {
+      "title": "Presidente Kast aterriza en Bolivia y rompe una pausa histórica de 71 años",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-aterriza-a-bolivia-y-rompe-una-pausa-historica-de-71-anos/",
+      "published_date": "2026-10-16T12:32:36+00:00"
+    },
+    {
+      "title": "Somalia sets date for May presidential election amid ongoing Islamist insurgency",
+      "source": "RFI English",
+      "country": "Somalia",
+      "url": "https://www.rfi.fr/en/africa/20261016-somalia-sets-date-for-may-presidential-election-amid-ongoing-islamist-insurgency",
+      "published_date": "2026-10-16T09:53:55+00:00"
+    },
+    {
+      "title": "18 countries, including Pakistan, condemn inauguration of Colombian embassy in Jerusalem",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2037582/18-countries-including-pakistan-condemn-inauguration-of-colombian-embassy-in-jerusalem",
+      "published_date": "2026-10-16T09:44:32+00:00"
+    },
+    {
+      "title": "Prashant Bhushan says anti-CEC protest now a ‘fight for regime change’, BJP hits back with 'conspiracy' charge",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/prashant-bhushans-regime-change-remark-gets-stern-response-from-bjp-using-nations-youth-as-pawns-101792134148133.html",
+      "published_date": "2026-10-16T07:57:00+00:00"
+    },
+    {
+      "title": "‘They want to break us so they can own us’: Canadian PM warns of US threat ahead of Alberta vote",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/carney-alberta-referendum-canada-us-b3067900.html",
+      "published_date": "2026-10-16T07:47:30+00:00"
+    },
+    {
+      "title": "Exclusive Brethren head denies knowing church members were volunteering for Liberal party during 2025 election",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb",
+      "published_date": "2026-10-16T06:58:24+00:00"
+    },
+    {
+      "title": "Alberta separation referendum: Carney reaches out to Indo-Canadians citing stronger India ties",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/alberta-separation-referendum-carney-reaches-out-to-indo-canadians-citing-stronger-india-ties-101792128448148.html",
+      "published_date": "2026-10-16T05:27:27+00:00"
+    },
+    {
+      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS01NlM0UEFqaXlCNTlIbFk4QkZKeEJlQ29Scmg3NlBpaEVoN2FtUlJaVlc5MWlETl9sWEZ3R2xaTV9aNUxsdjUwd3djSm9oSm9PYnBWVlNJeXQ5U1JtTHJNclNxYkhlUXdfSktIeE9nSzBCYTRwRGU2MGczLU9faU5oNXF0NzBSV0tnRm9Fek03Q0tlVVF1ZURzVUthUjJKRnk3Q29B?oc=5",
+      "published_date": "2026-10-16T05:14:49+00:00"
+    },
+    {
+      "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+      "source": "Deutsche Welle English",
+      "country": "Canada",
+      "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-16T04:24:00+00:00"
+    },
+    {
+      "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+      "source": "The Guardian World",
+      "country": "Yemen",
+      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+      "published_date": "2026-10-16T04:00:50+00:00"
+    },
     {
       "title": "Are student protests being manipulated ahead of France's presidential election?",
       "source": "BBC World",
@@ -2802,118 +2900,6 @@
       "country": "Brazil",
       "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
       "published_date": "2026-10-02T15:17:39+00:00"
-    },
-    {
-      "title": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
-      "published_date": "2026-10-02T15:06:54+00:00"
-    },
-    {
-      "title": "Putin to step up attacks on Ukraine as US elections approach — Zelensky",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4170464-putin-to-step-up-attacks-on-ukraine-as-us-elections-approach-zelensky.html",
-      "published_date": "2026-10-02T14:35:00+00:00"
-    },
-    {
-      "title": "Supreme Court allows Ofer Cassif, Ra'am, Joint List to run in 26th Knesset election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-910410",
-      "published_date": "2026-10-02T14:06:26+00:00"
-    },
-    {
-      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief? - Al Jazeera",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmxMRkR2REV5SFBqNjdkWmpKRUNxTk9qMFlDekxxMWllQ01JMGIwN3hIQ21DdnZ3T3RZdTB1d1N1OUE2cTNhYjdzRVBuWFc2VmlUN19tWnV6WFlDdDNPRjRGNmU2Tkd6aE5yODRJS0Y4bFJDR0lYSW12WTFwVlBaS3VNWHMtRWR6akYxc2d0TFJMRnVqdzg0OWdfMVBCMnRvOGfSAacBQVVfeXFMUGc5dVhNc3lDR3dmQUtHNUVMRTdjWUxVYVE2cUpXdWxrNEpWWml2dGF3eHNDRnZvMjdueVFvTk9kbnNmTXNiNTNKQXQ4WXRqNG8wTFRaRlhPZzlOcmFuNTRoM1VpblFSR1o2R0Q2aWlwaU1TOV9rV2xRN2VXM2t6anFUOEt3aWpaRHJ4dkQzbHRXUWw4VlU5YkVrUmRCd1lsdEVxTU9zTEk?oc=5",
-      "published_date": "2026-10-02T13:54:05+00:00"
-    },
-    {
-      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
-      "published_date": "2026-10-02T13:50:06+00:00"
-    },
-    {
-      "title": "The Forces Shaping Brazil’s Election",
-      "source": "Foreign Policy",
-      "country": "Brazil",
-      "url": "https://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/",
-      "published_date": "2026-10-02T12:00:38+00:00"
-    },
-    {
-      "title": "What's real and what's fake? How AI is impacting Brazil's election race",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-      "published_date": "2026-10-02T11:34:37+00:00"
-    },
-    {
-      "title": "Brazil's election: Lula or Bolsonaro Jr?",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr",
-      "published_date": "2026-10-02T11:04:22+00:00"
-    },
-    {
-      "title": "Israel’s top court backs barring Palestinian politician from election over article",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-top-court-backs-barring-palestinian-politician-election-over",
-      "published_date": "2026-10-02T10:50:44+00:00"
-    },
-    {
-      "title": "Myanmar junta bombs villages in flood-hit Tanintharyi Region",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-villages-in-flood-hit-tanintharyi-region/",
-      "published_date": "2026-10-02T10:06:33+00:00"
-    },
-    {
-      "title": "Russia sentences founder of exile news outlet Astra to seven years in absentia. Her lawyers say she was convicted of violating ‘foreign agent’ regulations despite never being designated one.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/02/russia-sentences-founder-of-exile-news-outlet-astra-to-seven-years-in-absentia-her-lawyers-say-she-was-convicted-of-violating-foreign-agent-regulations-despite-never-being-designated-one",
-      "published_date": "2026-10-02T07:40:11+00:00"
-    },
-    {
-      "title": "Indonesian cabinet reshuffle: how Prabowo is looking to restore credibility amid criticism",
-      "source": "South China Morning Post",
-      "country": "Indonesia",
-      "url": "https://www.scmp.com/week-asia/politics/article/3369530/indonesian-cabinet-reshuffle-how-prabowo-looking-restore-credibility-amid-criticism?utm_source=rss_feed",
-      "published_date": "2026-10-02T05:56:49+00:00"
-    },
-    {
-      "title": "Arab-Israeli politician withdraws from October election after Supreme Court signals disqualification",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2034211/arab-israeli-politician-withdraws-from-october-election-after-supreme-court-signals-disqualification",
-      "published_date": "2026-10-02T05:46:18+00:00"
-    },
-    {
-      "title": "India's Cockroach Janata Party, student groups to protest, demand poll chief's resignation",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2034218/indias-cockroach-janata-party-student-groups-to-protest-demand-poll-chiefs-resignation",
-      "published_date": "2026-10-02T05:43:44+00:00"
-    },
-    {
-      "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
-      "published_date": "2026-10-02T04:00:10+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente fue recibido por Emmanuel Macron en el Palacio del Elíseo",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
-      "published_date": "2026-10-02T01:49:19+00:00"
     }
   ]
 }
