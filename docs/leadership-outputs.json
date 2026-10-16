@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-15T15:35:52.344258+00:00",
-    "story_count": 409,
+    "last_updated": "2026-10-16T01:01:06.504127+00:00",
+    "story_count": 408,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "source": "BBC World",
+      "country": "France",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-15T23:25:06+00:00"
+    },
+    {
+      "title": "Conceden la extradición del “marcador” de la banda que ejecutó el atentado mortal contra el precandidato a presidente de Colombia Miguel Uribe Turbay",
+      "source": "La Nacion Argentina",
+      "country": "Colombia",
+      "url": "https://www.lanacion.com.ar/seguridad/conceden-la-extradicion-del-marcador-de-la-banda-que-ejecuto-el-atentado-mortal-contra-el-nid15102026/",
+      "published_date": "2026-10-15T22:16:36+00:00"
+    },
+    {
+      "title": "WATCH: Israel ‘very close’ to creating conditions for regime change in Iran, Netanyahu adviser says",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/article-911874",
+      "published_date": "2026-10-15T21:24:27+00:00"
+    },
+    {
+      "title": "Benjamín Netanyahu elogió al presidente Abelardo De La Espriella tras inauguración de embajada de Colombia en Israel: 'Una gran valentía y visión'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
+      "published_date": "2026-10-15T20:17:27+00:00"
+    },
+    {
+      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
+      "published_date": "2026-10-15T20:07:58+00:00"
+    },
+    {
+      "title": "Somalia says it will hold elections in 2027",
+      "source": "Al Jazeera English",
+      "country": "Somalia",
+      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
+      "published_date": "2026-10-15T20:04:02+00:00"
+    },
+    {
+      "title": "Tinubu orders security chiefs to rescue abductees, guarantee safe elections",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-orders-security-chiefs-to-rescue-abductees-guarantee-safe-elections/",
+      "published_date": "2026-10-15T19:47:19+00:00"
+    },
+    {
+      "title": "Carney stumps for unity as Alberta referendum approaches",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/alberta/article-carney-unity-alberta-referendum-secession-independence/",
+      "published_date": "2026-10-15T18:43:56+00:00"
+    },
+    {
+      "title": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
+      "source": "France 24 English",
+      "country": "Palestine",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
+      "published_date": "2026-10-15T16:17:23+00:00"
+    },
+    {
+      "title": "Russian prosecutors withdraw asset-seizure lawsuit against Timur Turlov, the new president of the International Chess Federation",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/15/russian-prosecutors-withdraw-asset-seizure-lawsuit-against-timur-turlov-the-new-president-of-the-international-chess-federation",
+      "published_date": "2026-10-15T16:04:56+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
       "source": "La Nacion Argentina",
@@ -2844,83 +2914,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
       "published_date": "2026-10-02T01:49:19+00:00"
-    },
-    {
-      "title": "Abelardo De La Espriella encabezó el Relevo de Guardia de la Casa de Nariño, un acto protocolario sin presencia de un jefe de Estado desde 2019",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-encabezo-el-relevo-de-guardia-de-la-casa-de-narino-un-acto-protocolario-sin-presencia-de-un-jefe-de-estado-desde-3590575",
-      "published_date": "2026-10-01T22:53:43+00:00"
-    },
-    {
-      "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting - The Guardian",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjQxQTUxSE1zaWUtRzYzVnBGamNzSUdTZkg1NW0weHJMTUdMcjA1RXR4SFNidERULUxqeVRrLTJjY0x3SDNnaFRnaW04NjcyWnFUdm9nUmN6dnpQaFVnTU5VMFZXVGZTTGowS2hTeXd3QzdFRzBmLXJ6TktSNnBsWUZMeFJNUFVQTTdjXzBOcUlGMXpZVjlDX0hxQURzZXZyS3FrOXFn?oc=5",
-      "published_date": "2026-10-01T22:36:00+00:00"
-    },
-    {
-      "title": "Israel’s Herzog calls British sanctions a ‘grave mistake,’ accuses UK of election interference - Politico",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXV6U20xdnNrT0ZzX0JUdVNrLXBwbE1SbDJBSUw1NXpUZW82dG01eGZQR0s4dmlMWHQzWmZ1UHN1SFdDallUUUpwRmFsek1yZkhiTVhpVEMyWW1fMDl4bWFvd1pBVjd4b1dLaGZFRFM4MzJxajZkNnI3SjhOSjNwc1JUT2ZCT1dvc01PZTVQcVVrajZUTnlz?oc=5",
-      "published_date": "2026-10-01T21:15:00+00:00"
-    },
-    {
-      "title": "Modi Faces Protest Threat Over Election Commission Scandal",
-      "source": "Foreign Policy",
-      "country": "India",
-      "url": "https://foreignpolicy.com/2026/10/01/india-modi-protest-election-commission-cockroach-movement/",
-      "published_date": "2026-10-01T20:53:46+00:00"
-    },
-    {
-      "title": "Quién es Zhou Hongxu, el alto funcionario de seguridad de Xi Jinping que quedó al descubierto tras gira del presidente chino a EE.UU.",
-      "source": "La Tercera Chile",
-      "country": "China",
-      "url": "https://www.latercera.com/mundo/noticia/quien-es-zhou-hongxu-el-alto-funcionario-de-seguridad-de-xi-jinping-que-quedo-al-descubierto-tras-gira-del-presidente-chino-a-eeuu/",
-      "published_date": "2026-10-01T19:00:00+00:00"
-    },
-    {
-      "title": "Israel Election 2026: What does Yair Golan’s Democrats party stand for?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-910100",
-      "published_date": "2026-10-01T18:50:47+00:00"
-    },
-    {
-      "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
-      "source": "The Guardian World",
-      "country": "France",
-      "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
-      "published_date": "2026-10-01T17:52:16+00:00"
-    },
-    {
-      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmJlZnlCYjNVVVluSXBXWEI1ajF6NzlNNnJ1dzJQYWxhV0UxU0ZVdmZQZmYtN1RtbGVjOUFwY1BtRWRScVVmeng5RXg1aVV4YkdTR0Nkek9xWlBvV3FvSWJJeWJGak5FVGQ1Qm5lRE4tWVF3ZVJ3dEtKQ0Y0VS1xbVdXdnV1NWVoekdlSE9SaFFKRVJfUHowYWJpWFBfdzVBek5lRzdxanhBZEVwTEHSAbMBQVVfeXFMTmRnUExoU0VJNHhiUEU2MEUwSDRBVnFNMS1LeDZhNno1c1RvX1A0NjlRSlprTDVVeDhtYWd2WEp3Vk1FYVlaaDJSS3FPTE9mUDlRaUR0YXp2cVVjd25CdDUwQzB2cG1Na3E3U1drQ3FwbW1HOWw0YnJybFdXQm5fZFotUVNJUUNTTU1IV09WR1pZRlFqV2dUT2taTUloR081amMxbHFVcTI0XzcyaEptX09RUDQ?oc=5",
-      "published_date": "2026-10-01T17:17:37+00:00"
-    },
-    {
-      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss",
-      "published_date": "2026-10-01T17:09:27+00:00"
-    },
-    {
-      "title": "2027: Atiku vows to end election rigging in Nigeria, strengthen INEC independence",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/913857-2027-atiku-vows-to-end-election-rigging-in-nigeria-strengthen-inec-independence.html",
-      "published_date": "2026-10-01T16:48:02+00:00"
-    },
-    {
-      "title": "Coup de boule Materazzi, «équipe de fou», retour au Stade de France : les vérités de Zidane avant le choc face à l’Italie",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/coup-de-boule-materazzi-equipe-de-fou-retour-au-stade-de-france-les-verites-de-zidane-avant-le-choc-face-a-l-italie-20261001",
-      "published_date": "2026-10-01T16:39:56+00:00"
     }
   ]
 }
