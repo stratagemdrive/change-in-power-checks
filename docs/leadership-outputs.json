@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-17T01:02:01.338507+00:00",
-    "story_count": 398,
+    "last_updated": "2026-10-17T14:09:47.044414+00:00",
+    "story_count": 402,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Investors bank on Tinubu’s re-election, continuity of reforms — Oyedele",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/investors-bank-on-tinubus-re-election-continuity-of-reforms-oyedele/",
+      "published_date": "2026-10-17T12:48:48+00:00"
+    },
+    {
+      "title": "Azov Regiment denies Russian claims of capturing three settlements near Dobropillia",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4175428-azov-regiment-denies-russian-claims-of-capturing-three-settlements-near-dobropillia.html",
+      "published_date": "2026-10-17T11:58:00+00:00"
+    },
+    {
+      "title": "Brett Robinson, presidente de World Rugby: “La candidatura al Mundial de Chile, Argentina, Uruguay y Brasil es muy fuerte”",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/el-deportivo/noticia/brett-robinson-presidente-de-world-rugby-la-candidatura-al-mundial-de-chile-argentina-uruguay-y-brasil-es-muy-fuerte/",
+      "published_date": "2026-10-17T09:00:01+00:00"
+    },
+    {
+      "title": "2027: Support groups back Tinubu’s re-election, APC candidates in Kwara",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-support-groups-back-tinubus-re-election-apc-candidates-in-kwara/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "Now-ousted US general warned of defense munition shortage months before Iran war - report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/international/article-911953",
+      "published_date": "2026-10-17T07:17:19+00:00"
+    },
+    {
+      "title": "Milei y Rubio abordan comercio, inversiones y seguridad horas después de que el presidente argentino dejara EE.UU.",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/mundo/noticia/milei-y-rubio-abordan-comercio-inversiones-y-seguridad-horas-despues-de-que-el-presidente-argentino-dejara-eeuu/",
+      "published_date": "2026-10-17T04:11:31+00:00"
+    },
+    {
+      "title": "Shunned in the West, Ye hands Indonesia a rare mega-tour coup",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371180/shunned-west-ye-hands-indonesia-rare-mega-tour-coup?utm_source=rss_feed",
+      "published_date": "2026-10-17T04:00:09+00:00"
+    },
+    {
+      "title": "Russia is using an army of bots to push fake U.S. election videos",
+      "source": "Japan Times",
+      "country": "Russia",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/world/russia-disinformation-bots-us-midterms/",
+      "published_date": "2026-10-17T03:20:00+00:00"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T02:33:09+00:00"
+    },
     {
       "title": "Ex-Shin Bet chief warns Netanyahu could deliberately escalate tensions ahead of elections",
       "source": "Jerusalem Post",
@@ -81,6 +144,13 @@
       "published_date": "2026-10-16T23:35:48+00:00"
     },
     {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report - Al Jazeera",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb09tNHpiRm02LTRUVlpHWkRVTEN1REItNzhPYUlfb0NJUzB4bllnaEhzZ19JRDIyd3RWYlpFcVVjRWMwMUZXUmdham1NZzBXRlJRM09Sck90X2FJXzJxTXM2SWxoWElxaUdVWHllSkphdnRwN01DWHN2bXFBeGdRdHVVMTVCajRmbWZscWJWYTExbWFoX2UzUnA4eUQwbHZSdjgzbncwOXhOR1Y5ZUdWXzVqZFNKZ9IBuwFBVV95cUxNOE9JNWQyZHhaRWtZeWlZQVNJVXlqODBKSnZmc0c3d2RSM1BpS3lmaVJqLURoelB5NXEzZGo1NUtLcllEV0NELVlld0NpeHBaa0k0cVdHYzZUdmF3NXJabVppUkNQcEpDUWpKM3VIeGRNRGJsclJOaW81RDFwLURyd0V3cEFRV3BIR1o5V3FNV3ZFbE5SbklXVTZSQzZaOFBQdWJqbVJWUy16WTg2ZmZpcU5CN21BZzVJOFJj?oc=5",
+      "published_date": "2026-10-16T21:11:49+00:00"
+    },
+    {
       "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
       "source": "Al Jazeera English",
       "country": "Brazil",
@@ -100,6 +170,13 @@
       "country": "Iran",
       "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
       "published_date": "2026-10-16T18:21:43+00:00"
+    },
+    {
+      "title": "Kast concreta histórica visita oficial a Bolivia y presidente Paz compromete viaje de Estado a Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/las-primeras-horas-de-la-visita-express-de-kast-a-bolivia/",
+      "published_date": "2026-10-16T16:30:32+00:00"
     },
     {
       "title": "Madagascar marks one year since uprising as Russia’s influence grows",
@@ -204,7 +281,7 @@
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS01NlM0UEFqaXlCNTlIbFk4QkZKeEJlQ29Scmg3NlBpaEVoN2FtUlJaVlc5MWlETl9sWEZ3R2xaTV9aNUxsdjUwd3djSm9oSm9PYnBWVlNJeXQ5U1JtTHJNclNxYkhlUXdfSktIeE9nSzBCYTRwRGU2MGczLU9faU5oNXF0NzBSV0tnRm9Fek03Q0tlVVF1ZURzVUthUjJKRnk3Q29B?oc=5",
-      "published_date": "2026-10-16T05:14:49+00:00"
+      "published_date": "2026-10-16T04:54:00+00:00"
     },
     {
       "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
@@ -2795,55 +2872,6 @@
       "country": "Israel",
       "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
       "published_date": "2026-10-03T14:06:47+00:00"
-    },
-    {
-      "title": "Why has Brazil accused the US of election interference?",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T13:52:13+00:00"
-    },
-    {
-      "title": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910449",
-      "published_date": "2026-10-03T11:35:24+00:00"
-    },
-    {
-      "title": "Morocco's first female head of government: Symbol or real reform?",
-      "source": "Deutsche Welle English",
-      "country": "Morocco",
-      "url": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-03T08:10:00+00:00"
-    },
-    {
-      "title": "Latvia holds election as concerns over Russia, inflation dominate",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/europe/article/3369655/latvia-holds-election-concerns-over-russia-inflation-dominate?utm_source=rss_feed",
-      "published_date": "2026-10-03T07:46:17+00:00"
-    },
-    {
-      "title": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
-      "published_date": "2026-10-03T07:00:57+00:00"
-    },
-    {
-      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-      "published_date": "2026-10-03T07:00:35+00:00"
-    },
-    {
-      "title": "Brazil's big political rematch: What to know about the Brazilian election",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-      "published_date": "2026-10-03T02:57:07+00:00"
     }
   ]
 }
