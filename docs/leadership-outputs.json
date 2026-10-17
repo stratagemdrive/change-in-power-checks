@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-16T15:18:53.737116+00:00",
-    "story_count": 406,
+    "last_updated": "2026-10-17T01:02:01.338507+00:00",
+    "story_count": 398,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Ex-Shin Bet chief warns Netanyahu could deliberately escalate tensions ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-911944",
+      "published_date": "2026-10-17T01:58:18+00:00"
+    },
+    {
+      "title": "Presidente Kast por dichos de Poduje contra Milei: “Lamentamos las expresiones y esto no se va a volver a repetir”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-por-dichos-de-poduje-contra-milei-lamentamos-las-expresiones-y-esto-no-se-va-a-volver-a-repetir/",
+      "published_date": "2026-10-16T23:53:13+00:00"
+    },
+    {
+      "title": "Yemen government forces claim Houthi drone operating team captured",
+      "source": "Middle East Eye",
+      "country": "Yemen",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-government-forces-claim-houthi-drone-operating-team-captured",
+      "published_date": "2026-10-16T23:35:48+00:00"
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+      "published_date": "2026-10-16T21:08:50+00:00"
+    },
+    {
+      "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
+      "published_date": "2026-10-16T20:28:08+00:00"
+    },
+    {
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-10-16T18:21:43+00:00"
+    },
+    {
+      "title": "Madagascar marks one year since uprising as Russia’s influence grows",
+      "source": "RFI English",
+      "country": "Russia",
+      "url": "https://www.rfi.fr/en/africa/20261016-madagascar-marks-one-year-since-uprising-as-russia-s-influence-grows",
+      "published_date": "2026-10-16T16:02:39+00:00"
+    },
     {
       "title": "Regime change in India happens through elections, seeking it not wrong: Congress on Rajnath Singh’s remarks",
       "source": "The Hindu Politics",
@@ -93,6 +142,20 @@
       "country": "Chile",
       "url": "https://www.latercera.com/politica/noticia/presidente-kast-aterriza-a-bolivia-y-rompe-una-pausa-historica-de-71-anos/",
       "published_date": "2026-10-16T12:32:36+00:00"
+    },
+    {
+      "title": "See the Amazon rainforest wildfires that have politicians pointing fingers amid Brazil presidential elections",
+      "source": "CBC News World",
+      "country": "Brazil",
+      "url": "https://www.cbc.ca/news/world/amazon-wildfires-photos-brazil-election-9.7383383?cmp=rss",
+      "published_date": "2026-10-16T11:45:37+00:00"
+    },
+    {
+      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzJ1bGRTOVRwQ2hfU1A0X3lnZm1wcnI3Tnhuc1Z2OTVtSWVHR180S29HMWZGV1NpWHNlc1JRY3pxWUNjc1l6M0RoYW92ODJWVTZVNTFVTVhQMTlsUFZTOU1Oemluajk3Q3NsZ1VEOXJ4c3RiVkRyYnFYUGUtWVNDdy1OSQ?oc=5",
+      "published_date": "2026-10-16T09:56:26+00:00"
     },
     {
       "title": "Somalia sets date for May presidential election amid ongoing Islamist insurgency",
@@ -2781,125 +2844,6 @@
       "country": "Brazil",
       "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
       "published_date": "2026-10-03T02:57:07+00:00"
-    },
-    {
-      "title": "US and Australia suspend diplomatic operations in Brazil before election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-      "published_date": "2026-10-03T00:46:10+00:00"
-    },
-    {
-      "title": "Presidente De La Espriella habla con Samuel Adrián, creador del documental 'Colombia: fábrica de niños trans', tras su detención",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-habla-con-samuel-adrian-creador-del-documental-colombia-fabrica-de-ninos-trans-tras-su-detencion-3590842",
-      "published_date": "2026-10-02T21:53:13+00:00"
-    },
-    {
-      "title": "US and Australia suspend consular services in Brazil ahead of election citing security concerns",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazil-police-australia-rio-de-janeiro-donald-trump-b3060676.html",
-      "published_date": "2026-10-02T21:16:57+00:00"
-    },
-    {
-      "title": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
-      "published_date": "2026-10-02T20:40:14+00:00"
-    },
-    {
-      "title": "France-Italie : en vidéo, le sublime coup franc d’Olise et l’égalisation de la Squadra Azzura sur une énorme faute française",
-      "source": "Le Figaro France",
-      "country": "France",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-italie-en-video-le-sublime-coup-franc-d-olise-face-a-la-squadra-azzura-20261002",
-      "published_date": "2026-10-02T20:39:21+00:00"
-    },
-    {
-      "title": "Arab party leader forced to withdraw from Israeli elections - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRoNk5vajB0b1M5VTZEZkRlVmFZU1hQZDlQR1FlU1BOc0cwUWxJa3p6bE1LZjZFSnU0cURNSUVBNS1QS0RuTlZmZkY1TjRvUVN5OExSOWp6RVJMdTN6THJGSnhneVQ4eVg3dGdKcmhZWW9xNWt1QWxOMWhjaTg2UjhOZ1RrMFA1TG4ycXZPa1JWNlRaUkxkY1pGdkhNSm1CS0HSAacBQVVfeXFMUDF1NlpFYU9iODVMVVlIWlBZNnRSc1B2ZUh5bGpOVUNaLXRKczlnMGVYSDRKLWhJR21NbFpJQV9RNkZ3c1dSbm03RjM2Z1hObTNNQmptNlJrNXVUNjEwWTRvOGVJbzZMTzhGLWgxdHVoeTFjTVdic29ZS1Q2OVZlYnRySmFsUGFmMnV5cXJzUW5qYVQtMlVoeThGekd5T2FxUEJ3ZU9EeFk?oc=5",
-      "published_date": "2026-10-02T19:13:56+00:00"
-    },
-    {
-      "title": "Arab party leader withdraws from Israeli elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-      "published_date": "2026-10-02T19:10:23+00:00"
-    },
-    {
-      "title": "Russian-speaking Latvians who back Ukraine and value their language are heading into an election without an obvious political home",
-      "source": "Meduza EN",
-      "country": "Ukraine",
-      "url": "https://meduza.io/en/feature/2026/10/02/russian-speaking-latvians-who-back-ukraine-and-value-their-language-are-heading-into-an-election-without-an-obvious-political-home",
-      "published_date": "2026-10-02T19:06:24+00:00"
-    },
-    {
-      "title": "Russian-speaking Latvians who back Ukraine and value their language are heading into an election without an obvious political home - Meduza",
-      "source": "Google News World",
-      "country": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSEFpSFljdnFMa3hhcGhXdU1ZZlVmQUJ4VVpIOUUyOFlnUDNjS1NHMTZjMXl4UERQQ2dQbG14YzlDMHg2RzFSamcxLURkZUg5ZkMzTE1TVFBqaFpQQkJMOV9xVmhoS1dNenFtWU5pSkNsNmJKd0lidVFKdFhQZmJCNUR0OUdTWVA4NGdjQm15VW1PQ1daWFhfYUZiVGtDbjJqSllXYmZ3bzAtQU9jMHpnNC02ZWRzdTN0MERRRGdKQ1JWZEVjWnV3cWVzSnp6LTUtYlAwRUE4S1ZIU3dxaFFKM29BWFUwZ2FSbG9Gc21FcWUtdXNLM09oRXhZQWhXcHfSAYQCQVVfeXFMTWN3TnZVM0tLNHVnampGUXpkT0JpQkltVEllTTh6aFR4VUdRcWlZdHpIckxXbUgxY0c0Y0N5Y2RrcS1OUjRLNUhXWjRabWQxazIycHVCRGF4VHZZTzZMNGN1VjlodTJpS2xQMkZyWExWM1NGOVdNWkRjN0JaRkVzdUpvSVhPelBISzU2TDdkVFdKNEswNzFqRTZQWGxoZzhkZ2pQTVBwNGpzZmxJczlCNDJsdGRBaHBJb3c4MTQzUVNRLVVuam56YUJyZ1FIbEd2eDJ1cUFLNDcyRUl3V19kUGk2VkVlLTVHaGRsVDB1Y3BHbmd6SlFqWktrMzBnVWcyTllqQXo?oc=5",
-      "published_date": "2026-10-02T19:06:00+00:00"
-    },
-    {
-      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-      "source": "Al Jazeera English",
-      "country": "Sudan",
-      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-      "published_date": "2026-10-02T18:51:54+00:00"
-    },
-    {
-      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-      "published_date": "2026-10-02T18:18:42+00:00"
-    },
-    {
-      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-      "published_date": "2026-10-02T18:11:37+00:00"
-    },
-    {
-      "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-      "published_date": "2026-10-02T17:30:06+00:00"
-    },
-    {
-      "title": "What’s at Stake in Brazil’s Election",
-      "source": "Foreign Policy",
-      "country": "Brazil",
-      "url": "https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
-      "published_date": "2026-10-02T17:09:19+00:00"
-    },
-    {
-      "title": "Russian supermarket workers say they were fired over a viral reel about post-election grocery price hikes",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/02/russian-supermarket-workers-say-they-were-fired-over-a-viral-reel-about-post-election-grocery-price-hikes",
-      "published_date": "2026-10-02T17:03:38+00:00"
-    },
-    {
-      "title": "Presidente do PT vê suspeita de interferência dos EUA em eleições e critica fechamento de embaixadas",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/edinho-ve-suspeita-de-interferencia-dos-eua-em-eleicoes-e-critica-fechamento-de-embaixadas.shtml",
-      "published_date": "2026-10-02T16:05:00+00:00"
-    },
-    {
-      "title": "Brazil: The craze for candidate merch ahead of elections",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
-      "published_date": "2026-10-02T15:17:39+00:00"
     }
   ]
 }
