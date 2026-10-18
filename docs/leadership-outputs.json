@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-17T14:09:47.044414+00:00",
-    "story_count": 402,
+    "last_updated": "2026-10-18T00:39:14.224411+00:00",
+    "story_count": 393,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "INDIA bloc leaders in Tamil Nadu stage protest against SIR, seek CEC’s resignation",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-leaders-in-tamil-nadu-stage-protest-against-sir-seek-cecs-resignation/article71588097.ece",
+      "published_date": "2026-10-17T23:39:31+00:00"
+    },
+    {
+      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+      "published_date": "2026-10-17T19:04:00+00:00"
+    },
+    {
+      "title": "Aliados avaliam que Lula se comportou como presidente em vez de candidato em sabatina na Globo",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-avaliam-que-lula-se-comportou-como-presidente-em-vez-de-candidato-em-sabatina-na-globo.shtml",
+      "published_date": "2026-10-17T17:15:00+00:00"
+    },
+    {
+      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+      "published_date": "2026-10-17T15:45:53+00:00"
+    },
+    {
+      "title": "Russian forces execute captured Ukrainian soldiers in Huliaipole sector",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4175472-russian-forces-execute-captured-ukrainian-soldiers-in-huliaipole-sector.html",
+      "published_date": "2026-10-17T15:21:00+00:00"
+    },
     {
       "title": "Investors bank on Tinubu’s re-election, continuity of reforms — Oyedele",
       "source": "Vanguard Nigeria",
@@ -86,6 +121,13 @@
       "country": "Nigeria",
       "url": "https://punchng.com/2027-support-groups-back-tinubus-re-election-apc-candidates-in-kwara/?utm_source=rss.punchng.com&utm_medium=web",
       "published_date": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "France PM says around 1,200 arrested, 150 police officers injured amid nationwide day of protests",
+      "source": "CBC News World",
+      "country": "France",
+      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148?cmp=rss",
+      "published_date": "2026-10-17T08:46:51+00:00"
     },
     {
       "title": "Now-ousted US general warned of defense munition shortage months before Iran war - report",
@@ -2767,111 +2809,6 @@
       "country": "Brazil",
       "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-10-04T01:26:00+00:00"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
-      "published_date": "2026-10-04T00:07:12+00:00"
-    },
-    {
-      "title": "Latvia’s Andris Kulbergs wins big in election shadowed by Russia",
-      "source": "South China Morning Post",
-      "country": "Russia",
-      "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
-      "published_date": "2026-10-03T23:11:44+00:00"
-    },
-    {
-      "title": "For some Brazilians, this election is a vote on Trump",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
-      "published_date": "2026-10-03T21:57:36+00:00"
-    },
-    {
-      "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
-      "published_date": "2026-10-03T20:58:30+00:00"
-    },
-    {
-      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
-      "published_date": "2026-10-03T20:16:01+00:00"
-    },
-    {
-      "title": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSGxyQm1rZmxHTkxxUDFQaFk4STRKanRWcnhUazBiRlU4RENPOEQwYjQzaERjQzZJSldUcmNiYVVjNEVUOVRfOUhTeDdJYll1dVNOUUd4TjhudG9sM2ZRUnV2VXlOX2pOOUZtZ1F3?oc=5",
-      "published_date": "2026-10-03T19:07:14+00:00"
-    },
-    {
-      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-      "source": "Al Jazeera English",
-      "country": "Algeria",
-      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
-      "published_date": "2026-10-03T18:03:08+00:00"
-    },
-    {
-      "title": "Efforts underway to repatriate remains of 3 Pakistanis killed while recovering hijacked tanker from Somali pirates: PMO",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2034504/efforts-underway-to-repatriate-remains-of-3-pakistanis-killed-while-recovering-hijacked-tanker-from-somali-pirates-pmo",
-      "published_date": "2026-10-03T15:45:01+00:00"
-    },
-    {
-      "title": "Israel's top court allows Arab parties to run in election - DW.com",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTJLS3pfNTVaNDZHU3I4djBYb0lXTW5vX01XTjRMdlFSQzJ2N2RFb2g0WHFGeC1ZdVl6dHg3RFVTdGluYXIwWXhlazQ0czZNSlpOTnNLZGZCbkV5TWxYUWtNV0xVTF9aeTF4cXAwaEp2aXktcW5VZ2NoeEVfajBpN1dpaXFGckYy0gGIAUFVX3lxTFBKZEpsOUdSLU03UFE5S0VYMWpyMHNWV1BCZkozZTB5ZnpxZjFhTWNJalNMMGlJc1ljVUJMWnhRMHh3X2tSTHE3UUNTQ19VOURPTWtMLUZXcklaSGI5Q1ZZbzhsY1ZZWlYzQlpOcUhTUHFCSDJFR3FjZ0xhWEN1MDdrWHJkeTcyQmk?oc=5",
-      "published_date": "2026-10-03T15:20:46+00:00"
-    },
-    {
-      "title": "Sreelekha’s ‘resignation’ exposes BJP’s internal troubles in Keralam, says Govindan",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/sreelekhas-resignation-exposes-bjps-internal-troubles-in-keralam-says-govindan/article71541138.ece",
-      "published_date": "2026-10-03T14:38:35+00:00"
-    },
-    {
-      "title": "Support Tinubu’s re-election, NDDC director urges Niger Delta youths",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/support-tinubus-re-election-nddc-director-urges-niger-delta-youths/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-03T14:28:01+00:00"
-    },
-    {
-      "title": "What to know about Brazil’s 2026 presidential election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-03T14:23:55+00:00"
-    },
-    {
-      "title": "Oyebanji urges Muslims to back Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/oyebanji-urges-muslims-to-back-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-03T14:19:05+00:00"
-    },
-    {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVmdTRMc043eU9jM3d1cmFrRFlhWldCVzBzV1lLcEtqVU80WE5lUk5LVWlfVHd4Tnk0QUFtNEFkY0V0cUROdGlKOG9UZldTQ2dJNjVQdzVpOTlDOUFZOHI4Q1pzbGlfc1NjM2c3cFBjYnJWZGF4SUtkZXBXbHZ1WGlLT2JqN2JXb0tfYklOdzV3WGdvRlVDTnl6SXh1aUdRYlFOWnZYSVBrOVJob0hxU3RIc9IBuAFBVV95cUxNUGhZM0h1aUsyUWFuOUZOOURQLW1KZTVRTHY3NS1xR3ZLTVNxY1h3S2FqWEtIclZkSlJmMElaVG13M2pLVl8zZWROWU1Kd3dSaVZJN2dOTVNBUW5oal9mNEF0azFiWjI4T3BRNGsyaTZjWkNQU1hVRjdHb0VNcXhRMHdFUTlYOE1ZZUhBbC1pNWtrUGtXbWVhcjVZNVUzTnpWc05ZY2U1QzZHR1hkSG5TMnE1c21pRkRo?oc=5",
-      "published_date": "2026-10-03T14:10:43+00:00"
-    },
-    {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-      "published_date": "2026-10-03T14:06:47+00:00"
     }
   ]
 }
