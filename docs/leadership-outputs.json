@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-18T14:24:43.957705+00:00",
-    "story_count": 380,
+    "last_updated": "2026-10-19T00:47:07.861376+00:00",
+    "story_count": 374,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,146 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Polymarket bets favor Eisenkot over Netanyahu ahead of Israeli election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912111",
+      "published_date": "2026-10-19T03:26:44+00:00"
+    },
+    {
+      "title": "Let Oyebanji govern, Tinubu cautions succession hopefuls",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/let-oyebanji-govern-tinubu-cautions-succession-hopefuls/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-19T00:08:42+00:00"
+    },
+    {
+      "title": "Histórica visita del Presidente Kast a Bolivia",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/editorial/noticia/historica-visita-del-presidente-kast-a-bolivia/",
+      "published_date": "2026-10-18T23:30:00+00:00"
+    },
+    {
+      "title": "HURIWA tackles Oyedele over Tinubu’s re-election prospects",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/huriwa-tackles-oyedele-over-tinubus-re-election-prospects/",
+      "published_date": "2026-10-18T20:24:47+00:00"
+    },
+    {
+      "title": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli",
+      "published_date": "2026-10-18T17:36:21+00:00"
+    },
+    {
+      "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
+      "published_date": "2026-10-18T17:32:51+00:00"
+    },
+    {
+      "title": "Trump otorga su apoyo formal al “primer ministro guerrero” Netanyahu para las elecciones israelíes",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/trump-otorga-su-apoyo-formal-al-primer-ministro-guerrero-netanyahu-para-las-elecciones-israelies/",
+      "published_date": "2026-10-18T17:30:56+00:00"
+    },
+    {
+      "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
+      "published_date": "2026-10-18T17:04:13+00:00"
+    },
+    {
+      "title": "Zelensky: Ukrainian forces have liberated more territory since start of fall than Russia has captured",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4175697-zelensky-ukrainian-forces-have-liberated-more-territory-since-start-of-fall-than-russia-has-captured.html",
+      "published_date": "2026-10-18T16:59:00+00:00"
+    },
+    {
+      "title": "Trump endorses ally Netanyahu in upcoming Israeli election: 'Strong, Brave, and Brilliant'",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-netanyahu-israel-election-truth-social-b3068824.html",
+      "published_date": "2026-10-18T16:49:32+00:00"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israeli election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2038051/trump-endorses-netanyahu-in-israeli-election",
+      "published_date": "2026-10-18T16:44:41+00:00"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "published_date": "2026-10-18T16:36:26+00:00"
+    },
+    {
+      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "published_date": "2026-10-18T16:25:00+00:00"
+    },
+    {
+      "title": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli-election",
+      "published_date": "2026-10-18T16:00:07+00:00"
+    },
+    {
+      "title": "Netanyahu thanks Trump for 'tremendous support' before Israel elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-thanks-trump-tremendous-support-israel-elections",
+      "published_date": "2026-10-18T15:33:21+00:00"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israel's upcoming election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-endorses-netanyahu-israels-upcoming-election",
+      "published_date": "2026-10-18T15:27:42+00:00"
+    },
+    {
+      "title": "Expresidente Álvaro Uribe se reunió con Florentino Pérez, presidente del Real Madrid: acordaron ayudas para víctimas del terremoto en Colombia",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/exmandatario-alvaro-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-acordaron-ayudas-para-victimas-del-terremoto-en-colombia-3594411",
+      "published_date": "2026-10-18T15:23:50+00:00"
+    },
+    {
+      "title": "Criteria: aprobación de Presidente Kast llega a 28% y desaprobación anota un 60%",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-llega-a-28-y-desaprobacion-anota-un-60/",
+      "published_date": "2026-10-18T14:56:37+00:00"
+    },
+    {
+      "title": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
+      "source": "Sky News World",
+      "country": "Israel",
+      "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+      "published_date": "2026-10-18T14:50:00+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro reúne apoiadores na Paulista em manifestação e fala que o país está 'sem presidente'",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-se-reunem-na-paulista-para-manifestacao.shtml",
+      "published_date": "2026-10-18T14:24:00+00:00"
+    },
     {
       "title": "Why have France’s school protests become a wider political crisis?",
       "source": "Al Jazeera English",
@@ -190,6 +330,13 @@
       "source": "BBC World",
       "country": "Brazil",
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T02:33:09+00:00"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms - BBC",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wRkxqN0RKSWtmVk8wMHRDcER0RUQyNDJMS2dDMDJVbV81X3VFenRwSVdOY0wyd19pVGNPWjJQbUsyQTBhMnZIOGhFZi1IN2ZwMHVmY0JVYy1Lc0k?oc=5",
       "published_date": "2026-10-17T02:33:09+00:00"
     },
     {
@@ -2529,195 +2676,6 @@
       "country": "Brazil",
       "url": "https://news.sky.com/story/bolsonaro-and-lula-to-compete-in-brazilian-presidential-run-off-after-tight-vote-13595195",
       "published_date": "2026-10-05T00:54:00+00:00"
-    },
-    {
-      "title": "Election panel orders Netanyahu to remove 'election propaganda' videos",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-panel-orders-netanyahu-remove-election-propaganda-videos",
-      "published_date": "2026-10-05T00:30:16+00:00"
-    },
-    {
-      "title": "Brazil election: Bolsonaro and Lula head to runoff",
-      "source": "Deutsche Welle English",
-      "country": "Brazil",
-      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-05T00:27:00+00:00"
-    },
-    {
-      "title": "Brazil presidential election 2026: first-round live results",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-      "published_date": "2026-10-05T00:24:55+00:00"
-    },
-    {
-      "title": "Elections in Brazil: Bolsonaro wins, not enough to avoid runoff against Lula",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/latin-america/elections-in-brazil-bolsonaro-wins-not-enough-to-avoid-runoff-against-lula",
-      "published_date": "2026-10-05T00:22:32+00:00"
-    },
-    {
-      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "published_date": "2026-10-05T00:17:35+00:00"
-    },
-    {
-      "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
-      "published_date": "2026-10-05T00:16:52+00:00"
-    },
-    {
-      "title": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-      "published_date": "2026-10-05T00:16:05+00:00"
-    },
-    {
-      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
-      "source": "Jerusalem Post",
-      "country": "Brazil",
-      "url": "https://www.jpost.com/international/article-910588",
-      "published_date": "2026-10-04T23:39:55+00:00"
-    },
-    {
-      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
-      "published_date": "2026-10-04T22:42:48+00:00"
-    },
-    {
-      "title": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-polls-close-bolsonaro-b3061216.html",
-      "published_date": "2026-10-04T22:18:16+00:00"
-    },
-    {
-      "title": "Brazil's election could shift its ties with the U.S. and China",
-      "source": "NPR World",
-      "country": "China",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
-      "published_date": "2026-10-04T21:53:15+00:00"
-    },
-    {
-      "title": "Brazil braces for results of election battle between Lula and Bolsonaro",
-      "source": "Vanguard Nigeria",
-      "country": "Brazil",
-      "url": "https://www.vanguardngr.com/2026/10/brazil-braces-for-results-of-election-battle-between-lula-and-bolsonaro/",
-      "published_date": "2026-10-04T20:56:51+00:00"
-    },
-    {
-      "title": "Lula and Bolsonaro head to run-off in Brazil's presidential election",
-      "source": "CBC News World",
-      "country": "Brazil",
-      "url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047?cmp=rss",
-      "published_date": "2026-10-04T20:26:14+00:00"
-    },
-    {
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T20:14:49+00:00"
-    },
-    {
-      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
-      "published_date": "2026-10-04T20:00:05+00:00"
-    },
-    {
-      "title": "US to send additional forces to Israel for potential escalation as both countries elections near",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/middle-east/article-910572",
-      "published_date": "2026-10-04T19:29:24+00:00"
-    },
-    {
-      "title": "Israeli opposition leader calls for Jordanian-Israeli control over West Bank",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-calls-jordanian-israeli-control-over-west-bank",
-      "published_date": "2026-10-04T18:58:48+00:00"
-    },
-    {
-      "title": "Serb nationalist credits Trump, Putin after declaring his party's victory in Bosnian election",
-      "source": "CBC News World",
-      "country": "Russia",
-      "url": "https://www.cbc.ca/news/world/bosnia-election-serb-nationalist-9.7368979?cmp=rss",
-      "published_date": "2026-10-04T18:54:43+00:00"
-    },
-    {
-      "title": "Iranian oil minister steps down",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-minister-steps-down",
-      "published_date": "2026-10-04T18:14:41+00:00"
-    },
-    {
-      "title": "Brazil heads to run-off between Lula and pro-Trump Senator Flavio Bolsonaro",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
-      "published_date": "2026-10-04T17:48:51+00:00"
-    },
-    {
-      "title": "2027: Adewale Ayuba backs Tinubu’s re-election, gives reason",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/914454-2027-adewale-ayuba-backs-tinubus-re-election-gives-reason.html",
-      "published_date": "2026-10-04T17:47:36+00:00"
-    },
-    {
-      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-      "published_date": "2026-10-04T16:38:55+00:00"
-    },
-    {
-      "title": "Thiruvananthapuram Corporation’s BJP councillor R. Sreelekha does a U-turn after resignation bid",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporations-bjp-councillor-r-sreelekha-does-a-u-turn-after-resignation-bid/article71544298.ece",
-      "published_date": "2026-10-04T15:34:16+00:00"
-    },
-    {
-      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-04T15:05:37+00:00"
-    },
-    {
-      "title": "2027: North-central APC set to hold rally for Tinubu’s re-election",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/regional/north-central/914395-2027-north-central-apc-set-to-hold-rally-for-tinubus-re-election.html",
-      "published_date": "2026-10-04T15:01:20+00:00"
-    },
-    {
-      "title": "Brazilians vote in first round of presidential election",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/04/polling-stations-open-in-brazil-for-some-160-million-voters",
-      "published_date": "2026-10-04T14:32:06+00:00"
-    },
-    {
-      "title": "Protests intensify in India over demands for election chief to quit - Reuters",
-      "source": "Google News World",
-      "country": "India",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5",
-      "published_date": "2026-10-04T14:25:13+00:00"
     }
   ]
 }
