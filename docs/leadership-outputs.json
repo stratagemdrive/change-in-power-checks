@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-19T00:47:07.861376+00:00",
-    "story_count": 374,
+    "last_updated": "2026-10-19T17:26:48.693270+00:00",
+    "story_count": 376,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,188 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Right 'sounds alarm' over Gantz withdrawal as Left consolidates ahead of elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912178",
+      "published_date": "2026-10-19T17:55:54+00:00"
+    },
+    {
+      "title": "European Jewish leaders warn Knesset election could trigger new EU sanctions, surge in antisemitism",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-912176",
+      "published_date": "2026-10-19T17:39:26+00:00"
+    },
+    {
+      "title": "'La justicia le dará a Benedetti lo que se merece': presidente De La Espriella sobre presuntas exigencias del gobierno Petro a exparamilitares",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-justicia-le-dara-a-benedetti-lo-que-se-merece-presidente-de-la-espriella-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594606",
+      "published_date": "2026-10-19T16:10:30+00:00"
+    },
+    {
+      "title": "What does Alberta's referendum on separation from Canada mean?",
+      "source": "Dawn Pakistan",
+      "country": "Canada",
+      "url": "https://www.dawn.com/news/2038319/what-does-albertas-referendum-on-separation-from-canada-mean",
+      "published_date": "2026-10-19T15:55:45+00:00"
+    },
+    {
+      "title": "Donald Trump, presidente de EE.UU.: “Lamentablemente, los carteles controlan México; se lo dije a Sheinbaum y no está contenta”",
+      "source": "La Nacion Argentina",
+      "country": "Mexico",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/donald-trump-presidente-de-eeuu-lamentablemente-los-carteles-controlan-mexico-se-lo-dije-a-sheinbaum-nid19102026/",
+      "published_date": "2026-10-19T15:55:00+00:00"
+    },
+    {
+      "title": "Benny Gantz pulls out of election race, eight days before Israelis head to the polls",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912167",
+      "published_date": "2026-10-19T15:47:02+00:00"
+    },
+    {
+      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+      "source": "The Guardian World",
+      "country": "Yemen",
+      "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "published_date": "2026-10-19T15:25:56+00:00"
+    },
+    {
+      "title": "Canada: Alberta votes on holding independence referendum",
+      "source": "Deutsche Welle English",
+      "country": "Canada",
+      "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-19T15:09:00+00:00"
+    },
+    {
+      "title": "Brazil elections: Lula da Silva and Flávio Bolsonaro face off in debate",
+      "source": "Buenos Aires Herald",
+      "country": "Brazil",
+      "url": "https://buenosairesherald.com/world/brazil-elections-lula-da-silva-and-flavio-bolsonaro-face-off-in-debate",
+      "published_date": "2026-10-19T14:29:05+00:00"
+    },
+    {
+      "title": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election",
+      "published_date": "2026-10-19T14:20:25+00:00"
+    },
+    {
+      "title": "Election présidentielle au Brésil : Meta a vingt-quatre heures pour prouver que la plateforme réserve le même traitement à Lula et à Flavio Bolsonaro",
+      "source": "Le Monde France",
+      "country": "Brazil",
+      "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-meta-a-24-heures-pour-prouver-que-la-plate-forme-reserve-le-meme-traitement-a-lula-et-flavio-bolsonaro_6797534_3210.html",
+      "published_date": "2026-10-19T13:59:31+00:00"
+    },
+    {
+      "title": "IDF restricts soldiers' leave, increases its numbers ahead of Knesset elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912157",
+      "published_date": "2026-10-19T13:50:02+00:00"
+    },
+    {
+      "title": "Rubilar cuestiona diseño político del gobierno y apunta a falta de vocero: “Esto lo está pagando caro el Presidente Kast”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/rubilar-cuestiona-diseno-politico-del-gobierno-y-apunta-a-falta-de-vocero-esto-lo-esta-pagando-caro-el-presidente-kast/",
+      "published_date": "2026-10-19T13:44:45+00:00"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : près de 8 milliards de dollars de dégâts pour la seule année en cours, selon le premier ministre ukrainien",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-pres-de-8-milliards-de-dollars-de-degats-pour-la-seule-annee-en-cours-selon-le-premier-ministre-ukrainien_6796922_3210.html",
+      "published_date": "2026-10-19T13:15:56+00:00"
+    },
+    {
+      "title": "Presidente del PPD: “Chile hoy día está más polarizado que 2019, Chile hoy día está más dividido”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-del-ppd-chile-hoy-dia-esta-mas-polarizado-que-2019-chile-hoy-dia-esta-mas-dividido/",
+      "published_date": "2026-10-19T13:00:58+00:00"
+    },
+    {
+      "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
+      "published_date": "2026-10-19T12:51:21+00:00"
+    },
+    {
+      "title": "REPLAY: French PM speaks after crisis meeting",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting",
+      "published_date": "2026-10-19T12:21:24+00:00"
+    },
+    {
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T11:41:24+00:00"
+    },
+    {
+      "title": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff",
+      "published_date": "2026-10-19T10:52:37+00:00"
+    },
+    {
+      "title": "Myanmar migrant remittances now junta’s largest foreign currency source",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-migrant-remittances-now-juntas-largest-foreign-currency-source/",
+      "published_date": "2026-10-19T10:51:22+00:00"
+    },
+    {
+      "title": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff",
+      "published_date": "2026-10-19T09:21:10+00:00"
+    },
+    {
+      "title": "Russian government reshuffle sees finance minister and three other officials tapped for deputy prime minister posts",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/19/russian-government-reshuffle-sees-finance-minister-and-three-other-officials-tapped-for-deputy-prime-minister-posts",
+      "published_date": "2026-10-19T08:51:27+00:00"
+    },
+    {
+      "title": "Putin Approves Major Government Cabinet Reshuffle",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
+      "published_date": "2026-10-19T08:44:00+00:00"
+    },
+    {
+      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+      "source": "Deutsche Welle English",
+      "country": "Israel",
+      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-19T08:26:00+00:00"
+    },
+    {
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "published_date": "2026-10-19T05:35:39+00:00"
+    },
+    {
+      "title": "Lula and Bolsonaro trade barbs in fiery Brazil run-off debate",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/americas/article/3371343/lula-and-bolsonaro-trade-barbs-fiery-brazil-run-debate?utm_source=rss_feed",
+      "published_date": "2026-10-19T04:09:43+00:00"
+    },
     {
       "title": "Polymarket bets favor Eisenkot over Netanyahu ahead of Israeli election",
       "source": "Jerusalem Post",
@@ -212,6 +394,13 @@
       "country": "Iran",
       "url": "https://www.jpost.com/middle-east/iran-news/article-912028",
       "published_date": "2026-10-18T12:24:47+00:00"
+    },
+    {
+      "title": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports - Reuters",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGI0cE1DeTdnOWdhX2lHY08tdWpob3JyNEt5d2ZrbDVyeUZ5U1dGQzFnS1YxTTl6d2lzWVdlX0V6U0x0NkRMS29rM2dGNE1MWF9wd2JlMi0teXM2M2x1Y1Zoc1liWXFULVNraU1XT3ZlSm1Ta29sanVIUDNpVFZPUTRLMzN0d2hrVkhQQUNkcEk2dm1YZzdFemZPNy1kNEplZV8ta09mTTVrRlF3Sm9NVS0zaUdOblFaZEV6Y0NZRHdqM3VKUUZuUGs0bnNiYTA?oc=5",
+      "published_date": "2026-10-18T09:32:10+00:00"
     },
     {
       "title": "The Future of the Amazon Rainforest Could Depend on Brazil's Election - The New York Times",
@@ -2501,181 +2690,6 @@
       "country": "Canada",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369837/quebec-votes-provincial-election-separatist-surge-poses-test-canadas-pm-carney?utm_source=rss_feed",
       "published_date": "2026-10-05T18:22:16+00:00"
-    },
-    {
-      "title": "Apuração de Flávio Bolsonaro teve louvor, funk e gritos de 'presidente'",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apuracao-de-flavio-bolsonaro-teve-louvor-funk-e-gritos-de-presidente.shtml",
-      "published_date": "2026-10-05T16:33:00+00:00"
-    },
-    {
-      "title": "An activist challenged Russian officials after they blocked his protest against election fraud. Now he’s been jailed on drug charges and accused of ‘involvement in a Ukrainian armed group.’",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/05/an-activist-challenged-russian-officials-after-they-blocked-his-anti-fraud-rally-now-he-s-been-jailed-on-drug-charges",
-      "published_date": "2026-10-05T16:32:04+00:00"
-    },
-    {
-      "title": "CIA Report Warns Israel Could Head Toward Civil War, Total Collapse - Drop Site News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ2JwMENmaDg0TUFMTFJoNlBOMVA1U0IyOXFCVzY5NnFTVnlyVjlTUGZRcFlfWl9FS0RJWTBUMHgtTm9KVGk3aWxqNTAzdmVEZElSRXozOWRZTWdINjVidV9MNUxGYjVCemVESWpfWWUwYVo2d1E?oc=5",
-      "published_date": "2026-10-05T16:30:47+00:00"
-    },
-    {
-      "title": "Lula “acorralado” por la “avalancha” del bolsonarismo: El complejo escenario para el presidente brasileño de cara al balotaje",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/lula-acorralado-por-la-avalancha-del-bolsonarismo-el-complejo-escenario-para-el-presidente-brasileno-de-cara-al-balotaje/",
-      "published_date": "2026-10-05T16:30:00+00:00"
-    },
-    {
-      "title": "São Paulo stock exchange surges after Flávio Bolsonaro election result",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/05/sao-paulo-stock-exchange-surges-after-flavio-bolsonaro-election-result",
-      "published_date": "2026-10-05T16:24:59+00:00"
-    },
-    {
-      "title": "Putin unleashes 'General Armageddon' after years in exile over Wagner coup - the-sun.com",
-      "source": "Google News World",
-      "country": "Russia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0E5azQyT2hkUE0zOGRiLVV4OTh4RmkyaW9QTTRMWjFjUnc1TzN3c3REWXFadHlJYnA0Q0puQXdybEZUd0VhUEtFT243OHVLakhRUjJwd0VBek9CbjNWTXpBaGdJcURpQUFFQ3ZvaHBLRWFGdHhqaWJNX1ZoRFV4Q2RTQQ?oc=5",
-      "published_date": "2026-10-05T16:22:58+00:00"
-    },
-    {
-      "title": "Israeli settlers race to reshape West Bank as election nears - The Washington Post",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMklnQ3AtQnFqMWRHLTR1WFptSDgtd3E1YnMwclVDQ2U3ZG0yem42eG0zU3dQOEt4cDRUNTVTUmZqOThmOEc0UVpaZ3BHYTZKZElkbUdGRUc1cE1ZLURkRVpqakZFU25aQzlHaVlQbmQ3ZkUwZkRqTmpDQklZSEVuVGhUX1FxMFhBTnZrb1hNeVpwTFJhODNXbFBobkVVS1BqOVZxNFdn?oc=5",
-      "published_date": "2026-10-05T15:49:41+00:00"
-    },
-    {
-      "title": "Brazil 2026 elections: Bolsonaro’s party sweeps Senate and state elections",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/brazil-2026-elections-bolsonaros-party-sweeps-senate-and-state-elections",
-      "published_date": "2026-10-05T15:29:19+00:00"
-    },
-    {
-      "title": "Israeli election déjà vu - Jewish Insider",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEd0X1MwVHhvM2NGSE5xaEg4dm8wVUtoaTRvWDZRRnZ5REwydjJxLWJZektNbWFGMTBJeGZSQmRMTjg1cjFwaFdwX0tjRlR6RktocEx2TlRRWnZlN2FpZDBtcG02NzdMTlQxOHUyeGpKeVdxZXdnMHp6aGlySEg1Tm5FbjdHUlVXNDZYclNCSGFWM0hE?oc=5",
-      "published_date": "2026-10-05T15:26:46+00:00"
-    },
-    {
-      "title": "102 HoR members meet in Benghazi without Speaker Saleh – 98 approve change of leadership election procedure",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/10/102-hor-members-meet-in-benghazi-without-speaker-saleh-98-approve-change-of-leadership-election-procedure/",
-      "published_date": "2026-10-05T14:36:00+00:00"
-    },
-    {
-      "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
-      "published_date": "2026-10-05T14:16:14+00:00"
-    },
-    {
-      "title": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
-      "published_date": "2026-10-05T12:52:32+00:00"
-    },
-    {
-      "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
-      "published_date": "2026-10-05T12:34:30+00:00"
-    },
-    {
-      "title": "STF vê risco concreto de impeachment de ministros e quer buscar 'PL moderado' para evitar afastamentos",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/stf-ve-risco-concreto-de-impeachment-de-ministros-e-quer-buscar-pl-moderado-para-evitar-afastamentos.shtml",
-      "published_date": "2026-10-05T11:12:00+00:00"
-    },
-    {
-      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-      "published_date": "2026-10-05T11:07:09+00:00"
-    },
-    {
-      "title": "Brazil-China ties in focus as Bolsonaro gets election edge over Lula",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3369805/brazil-china-ties-focus-bolsonaro-gets-election-edge-over-lula?utm_source=rss_feed",
-      "published_date": "2026-10-05T09:46:21+00:00"
-    },
-    {
-      "title": "Azerbaijani ruling party abolishes term limits for Aliyev as its chair",
-      "source": "OC Media Caucasus",
-      "country": "Azerbaijan",
-      "url": "https://oc-media.org/azerbaijani-ruling-party-abolishes-term-limits-for-aliyev-as-its-chair/",
-      "published_date": "2026-10-05T09:41:07+00:00"
-    },
-    {
-      "title": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election",
-      "published_date": "2026-10-05T09:01:38+00:00"
-    },
-    {
-      "title": "Brazil’s presidential election is going to a run-off after boost for right-wing Bolsonaro. What happens next?",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazillian-election-bolsonaro-lula-result-b3061352.html",
-      "published_date": "2026-10-05T08:25:28+00:00"
-    },
-    {
-      "title": "Brazil heads to runoff as Bolsonaro leads Lula in first round of presidential election",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-results-bolsonaro-lula-b3061216.html",
-      "published_date": "2026-10-05T06:04:36+00:00"
-    },
-    {
-      "title": "Rajya Sabha election: BJP expected to announce Uttar Pradesh nominees today",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-election-bjp-expected-to-announce-uttar-pradesh-nominees-today-101791179119878.html",
-      "published_date": "2026-10-05T05:45:19+00:00"
-    },
-    {
-      "title": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil runoff",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/news/2026/10/05/world/brazil-lula-bolsonaro-narrow-election/",
-      "published_date": "2026-10-05T05:36:00+00:00"
-    },
-    {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T04:51:24+00:00"
-    },
-    {
-      "title": "Trump mistakes Brazil for India, says 125 million voted today in 'India's Presidential Election'",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/trump-mistakes-brazil-for-india-says-125-million-voted-today-in-india-presidential-election-101791172300909.html",
-      "published_date": "2026-10-05T04:05:55+00:00"
-    },
-    {
-      "title": "Bolsonaro and Lula to compete in Brazilian presidential run-off",
-      "source": "Sky News World",
-      "country": "Brazil",
-      "url": "https://news.sky.com/story/bolsonaro-and-lula-to-compete-in-brazilian-presidential-run-off-after-tight-vote-13595195",
-      "published_date": "2026-10-05T00:54:00+00:00"
     }
   ]
 }
