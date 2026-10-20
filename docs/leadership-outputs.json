@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-20T01:32:34.240615+00:00",
-    "story_count": 376,
+    "last_updated": "2026-10-20T15:40:08.976000+00:00",
+    "story_count": 383,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,7 +60,175 @@
   },
   "stories": [
     {
-      "title": "Hegseth, Netanyahu meet in unannounced visit days before Israeli elections - report",
+      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+      "source": "Al Jazeera English",
+      "country": "Canada",
+      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+      "published_date": "2026-10-20T14:42:47+00:00"
+    },
+    {
+      "title": "What if No One Wins the Israeli Election?",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/",
+      "published_date": "2026-10-20T14:30:16+00:00"
+    },
+    {
+      "title": "Milei travels to Spain to back far-right ahead of elections",
+      "source": "Buenos Aires Herald",
+      "country": "Argentina",
+      "url": "https://buenosairesherald.com/politics/milei-travels-to-spain-to-back-far-right-ahead-of-elections",
+      "published_date": "2026-10-20T14:14:40+00:00"
+    },
+    {
+      "title": "Iran says Iraq will expel exiled Kurdish opposition members",
+      "source": "The Punch Nigeria",
+      "country": "Iran",
+      "url": "https://punchng.com/iran-says-iraq-will-expel-exiled-kurdish-opposition-members/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-20T14:04:13+00:00"
+    },
+    {
+      "title": "Budanov denies Russian claims of capturing Dobropillia",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4176367-budanov-denies-russian-claims-of-capturing-dobropillia.html",
+      "published_date": "2026-10-20T13:59:00+00:00"
+    },
+    {
+      "title": "Uttar Pradesh elections: Samajwadi Party to release election manifesto on November 26",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-elections-samajwadi-party-to-release-election-manifesto-on-november-26/article71603514.ece",
+      "published_date": "2026-10-20T13:51:44+00:00"
+    },
+    {
+      "title": "‘I don't recognise the country I grew up in anymore’: Some Israelis tempted by exile",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261020-i-don-t-recognise-the-country-i-grew-up-in-anymore-some-israelis-are-tempted-by-exile",
+      "published_date": "2026-10-20T13:07:27+00:00"
+    },
+    {
+      "title": "Karnataka BJP State chief B.Y. Vijayendra predicts internal rebellion in ruling Congress",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bjp-state-chief-by-vijayendra-predicts-internal-rebellion-in-ruling-congress/article71604039.ece",
+      "published_date": "2026-10-20T12:11:09+00:00"
+    },
+    {
+      "title": "'They returned in coffins': Families of slain hostages call on Netanyahu to drop election slogan",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912265",
+      "published_date": "2026-10-20T11:40:58+00:00"
+    },
+    {
+      "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
+      "source": "Japan Times",
+      "country": "France",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/europe-far-right-preelection-gains/",
+      "published_date": "2026-10-20T11:17:00+00:00"
+    },
+    {
+      "title": "Alberta vota por seguir formando parte de Canadá, una victoria para el primer ministro Carney",
+      "source": "La Tercera Chile",
+      "country": "Canada",
+      "url": "https://www.latercera.com/mundo/noticia/alberta-vota-por-seguir-formando-parte-de-canada-una-victoria-para-el-primer-ministro-carney/",
+      "published_date": "2026-10-20T11:07:35+00:00"
+    },
+    {
+      "title": "In their own words: Israeli politicians’ extreme speech surges ahead of elections - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUtJWmRSYTB4VThFV2V2Wnpmc0ttcTlyNlNuM1hYZGFFTjlrSTFlTVpnMThVejRFcDBwWUk4QXFtUURONEV6VjBxci1WYjh0VHdjOHpmVlJ5YUllZVhVY2RXSWVGMWJuQVBRY1hldTNlNzY0M1ZZVW9uUk8tM3Z1RXhfb3JkQkR4WF9PNEh5T2JyWElqVXF6TEUxb1dBakUxQ1hJU3VVTUVyS1o3clpVTDNWTGxwNXc?oc=5",
+      "published_date": "2026-10-20T10:33:00+00:00"
+    },
+    {
+      "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
+      "source": "Dawn Pakistan",
+      "country": "France",
+      "url": "https://www.dawn.com/news/2038498/as-france-erupts-europes-far-right-gains-from-fuel-price-anger-ahead-of-elections",
+      "published_date": "2026-10-20T09:04:49+00:00"
+    },
+    {
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published_date": "2026-10-20T09:02:43+00:00"
+    },
+    {
+      "title": "The Overseas X Factor That Could Swing Israel’s Election - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJOOUpEX3VuMEZHa3pkc3Y4elJ4b0tUUnk2SldVT2pVdUZmelUwNDZtRDVZMk9TSzNyTmJYb0hReEJPUnZiRDR6T0JTRU93eUt5ekxjbkh5cXZtNnZvWWZvblpsUEREdldCc2EwZXNWVGFXNXNUbGNXbDBpX015Qg?oc=5",
+      "published_date": "2026-10-20T09:00:31+00:00"
+    },
+    {
+      "title": "Alberta rejects plan for referendum on independence from Canada",
+      "source": "RFI English",
+      "country": "Canada",
+      "url": "https://www.rfi.fr/en/international/20261020-alberta-rejects-plan-for-referendum-on-independence-from-canada",
+      "published_date": "2026-10-20T08:58:31+00:00"
+    },
+    {
+      "title": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/vance-declines-to-endorse-netanyahus-reelection-bid-breaking-with-trump/",
+      "published_date": "2026-10-20T07:59:59+00:00"
+    },
+    {
+      "title": "Referendum: Carney: Einwohner von Alberta wollen Teil Kanadas bleiben",
+      "source": "FAZ Germany",
+      "country": "Canada",
+      "url": "https://www.faz.net/aktuell/politik/ausland/alberta-referendum-ueber-76-prozent-stimmen-fuer-verbleib-in-kanada-accg-201604098.html",
+      "published_date": "2026-10-20T07:52:06+00:00"
+    },
+    {
+      "title": "Oil-rich Alberta votes to remain part of Canada in historic referendum",
+      "source": "Sky News World",
+      "country": "Canada",
+      "url": "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218",
+      "published_date": "2026-10-20T06:41:00+00:00"
+    },
+    {
+      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
+      "source": "Euronews",
+      "country": "Canada",
+      "url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum",
+      "published_date": "2026-10-20T06:36:28+00:00"
+    },
+    {
+      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "source": "NPR World",
+      "country": "Canada",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+      "published_date": "2026-10-20T06:02:40+00:00"
+    },
+    {
+      "title": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+      "source": "The Guardian World",
+      "country": "Myanmar",
+      "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+      "published_date": "2026-10-20T05:07:00+00:00"
+    },
+    {
+      "title": "Mohan Bhagwat says forces trying to destabilise India: ‘Regime change doesn’t change circumstances’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/rss-chief-mohan-bhagwat-says-evil-forces-want-to-dismantle-india-regime-change-will-never-happen-vijayadashmi-delhi-protests-101792470403676.html",
+      "published_date": "2026-10-20T04:28:07+00:00"
+    },
+    {
+      "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
+      "published_date": "2026-10-20T02:06:36+00:00"
+    },
+    {
+      "title": "Netanyahu, Hegseth hold covert meeting at Israel's Ovda air base days before Israel's election",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912217",
@@ -72,13 +240,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
       "published_date": "2026-10-20T01:00:00+00:00"
-    },
-    {
-      "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
-      "published_date": "2026-10-19T23:48:54+00:00"
     },
     {
       "title": "Benedetti le respondió al presidente Abelardo De La Espriella por sus declaraciones sobre presuntas exigencias del gobierno Petro a exparamilitares",
@@ -2578,118 +2739,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/no-party-sought-meeting-before-4pm-ec-on-india-bloc-uproar-against-gyanesh-kumar-rahul-gandhi-priyanka-gandhi-akashvani-bhavan-in-delhi-cec-protest-101791300694946.html",
       "published_date": "2026-10-06T15:35:01+00:00"
-    },
-    {
-      "title": "Se eleito, Flávio Bolsonaro poderia perdoar Jair a tempo de ex-presidente subir a rampa com filho? Entenda",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/se-eleito-flavio-bolsonaro-poderia-perdoar-jair-a-tempo-de-ex-presidente-subir-a-rampa-com-filho-entenda.shtml",
-      "published_date": "2026-10-06T15:00:00+00:00"
-    },
-    {
-      "title": "AfD candidate elected speaker of German regional parliament for first time",
-      "source": "BBC World",
-      "country": "Germany",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T14:44:03+00:00"
-    },
-    {
-      "title": "AfD candidate elected speaker of German regional parliament for first time - BBC",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waGVxSGFhNDJ0YU1VcTZNN3hVaUVwRlI3ZFZkTTc3bUQ3d0djV3pseEU5dS11S2dVbVYtVjh1elY0ZzFacWI5SlE3ZVBjNDB0OGhZVzJqT055YWs?oc=5",
-      "published_date": "2026-10-06T14:44:03+00:00"
-    },
-    {
-      "title": "India opposition parties rally for election chief’s exit over voter list changes",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/video/20261006-india-opposition-parties-rally-for-election-chief-s-exit-over-voter-list-changes",
-      "published_date": "2026-10-06T14:06:37+00:00"
-    },
-    {
-      "title": "India opposition lawmakers detained over protest against election chief",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3369942/india-opposition-lawmakers-detained-over-protest-against-election-chief?utm_source=rss_feed",
-      "published_date": "2026-10-06T12:01:02+00:00"
-    },
-    {
-      "title": "25 years of Narendra Modi as head of state: From Gujarat to the Centre and the global stage",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/25-years-of-narendra-modi-as-head-of-state-from-gujarat-to-the-centre-and-the-global-stage-101791287302846.html",
-      "published_date": "2026-10-06T11:57:42+00:00"
-    },
-    {
-      "title": "Presidente Kast promulga ley que aumenta el plazo de flagrancia de 12 a 24 horas para policías",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-promulga-ley-que-aumenta-el-plazo-de-flagrancia-de-12-a-24-horas-para-policias/",
-      "published_date": "2026-10-06T11:48:26+00:00"
-    },
-    {
-      "title": "Quebec separatist party wins provincial election in test of Canada's unity",
-      "source": "RFI English",
-      "country": "Canada",
-      "url": "https://www.rfi.fr/en/international/20261006-quebec-separatist-party-wins-provincial-election-in-test-of-canada-s-unity",
-      "published_date": "2026-10-06T11:35:27+00:00"
-    },
-    {
-      "title": "French far-right presidential candidate Marine Le Pen's main budget proposals - Reuters",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXZKbnJ5WkRxOHFtVkl3dDU0aTRXUXp4Z2JOUU85RmhuV2VmUnl2dnBBR19NSmRQejdpekdhbjN4cTg1NnJuVDdqLXVzSU9wT3RIUEMwWDNhMm9tT1J0NGQ1SUlLN0NPX2Q1VVVPQl9TbEd3Wm9vSzdYQV9rNEFZdERadk5LNFNUUmR6Szl6c0xpaHdLbGZGTnRKbi12UXg2N2ZUWmJDemR3UVEtdFZQSlJBa3RjY2YxYkVURm9KTEJkeFU?oc=5",
-      "published_date": "2026-10-06T11:11:43+00:00"
-    },
-    {
-      "title": "Indian opposition MPs detained in protest against election chief",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T10:05:22+00:00"
-    },
-    {
-      "title": "India opposition leader Rahul Gandhi briefly detained during protest seeking election chief’s resignation",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2035136/india-opposition-leader-rahul-gandhi-briefly-detained-during-protest-seeking-election-chiefs-resignation",
-      "published_date": "2026-10-06T07:29:02+00:00"
-    },
-    {
-      "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-      "published_date": "2026-10-06T07:00:05+00:00"
-    },
-    {
-      "title": "‘Did Rahul and Sonia Gandhi win elections through vote chori’: BJP as poll process row intensifies",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/did-rahul-and-sonia-gandhi-win-elections-through-vote-chori-bjp-as-poll-process-row-intensifies-101791266052956.html",
-      "published_date": "2026-10-06T06:26:28+00:00"
-    },
-    {
-      "title": "Board of Peace ‘not stepping back’ from Gaza plan ahead of Israeli elections - report",
-      "source": "Jerusalem Post",
-      "country": "Palestine",
-      "url": "https://www.jpost.com/israel-news/article-910728",
-      "published_date": "2026-10-06T02:56:50+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente apuntó contra los “zurdos empobrecedores” y llamó a darle “brillo” al continente",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-celebro-el-resultado-en-brasil-y-dijo-que-el-nid05102026/",
-      "published_date": "2026-10-06T01:30:00+00:00"
-    },
-    {
-      "title": "FlyDubai hijacking turns into flash point in Israeli election",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/world/politics/flydubai-hijacking-israeli-election/",
-      "published_date": "2026-10-06T01:30:00+00:00"
     }
   ]
 }
