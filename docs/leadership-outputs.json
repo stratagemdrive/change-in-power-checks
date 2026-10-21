@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-21T01:17:42.243240+00:00",
-    "story_count": 384,
+    "last_updated": "2026-10-21T15:56:50.992022+00:00",
+    "story_count": 385,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Bank of Israel holds interest rates steady a week before election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/business-and-innovation/article-912432",
+      "published_date": "2026-10-21T16:10:48+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+      "published_date": "2026-10-21T15:38:23+00:00"
+    },
+    {
+      "title": "Grand Paris Express : un nouveau contretemps technique rend improbable une inauguration de la ligne 18 en 2026",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/grand-paris-express-un-nouveau-contretemps-technique-rend-improbable-une-inauguration-de-la-ligne-18-en-2026_6798280_3234.html",
+      "published_date": "2026-10-21T15:20:53+00:00"
+    },
+    {
+      "title": "Toppling Iran government only way to end threat – Netanyahu",
+      "source": "Vanguard Nigeria",
+      "country": "Iran",
+      "url": "https://www.vanguardngr.com/2026/10/toppling-iran-government-only-way-to-end-threat-netanyahu/",
+      "published_date": "2026-10-21T15:19:37+00:00"
+    },
+    {
+      "title": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
+      "source": "Euronews",
+      "country": "Nigeria",
+      "url": "https://www.euronews.com/2026/10/21/african-health-ministers-to-hold-ebola-crisis-talks-as-nigeria-confirms-first-case",
+      "published_date": "2026-10-21T15:18:59+00:00"
+    },
+    {
+      "title": "Russia frees retired US teacher jailed for four years after being captured in Ukraine",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-stephen-hubbard-release-jail-putin-b3070591.html",
+      "published_date": "2026-10-21T13:28:37+00:00"
+    },
+    {
+      "title": "Why Palestinians Hope Israelis Will Oust Netanyahu in Pivotal Election - The New York Times",
+      "source": "Google News World",
+      "country": "Palestine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW9uREM3YVpDM1BIdThnV1NXR3dNWHViUEprRHN6ZmJmUVNMcWt0TllLb2dST3lzVUxfY0c4Z09wZ3VOc0xxZElsRXFLWFBkQmFzRWo4QWVDYmFzejlGUmwxNTBZbnk4R3l6VXE4bXRQcjlwT0g0eDVLMFVNVmVGQ2ZpSVM4WE16V2d0TjU5bkstY252WkEwTXN6cFY5ZHJq?oc=5",
+      "published_date": "2026-10-21T13:10:32+00:00"
+    },
+    {
+      "title": "Macron takes aim at Trump for using France riots for election gain",
+      "source": "Dawn Pakistan",
+      "country": "France",
+      "url": "https://www.dawn.com/news/2038773/macron-takes-aim-at-trump-for-using-france-riots-for-election-gain",
+      "published_date": "2026-10-21T11:53:15+00:00"
+    },
+    {
+      "title": "The Banking Scandal Upending Brazil’s Election",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/10/21/brazil-election-lula-bolsonaro-banco-master-supreme-court-moraes/",
+      "published_date": "2026-10-21T11:00:39+00:00"
+    },
+    {
+      "title": "Armenian opposition candidates  arrested on bribery charges ahead of local elections",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenian-opposition-candidates-arrested-on-bribery-charges-ahead-of-local-elections/",
+      "published_date": "2026-10-21T10:07:37+00:00"
+    },
+    {
+      "title": "Azov dismisses Russian claim of capturing Dobropillia",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4176639-azov-dismisses-russian-claim-of-capturing-dobropillia.html",
+      "published_date": "2026-10-21T09:28:00+00:00"
+    },
+    {
+      "title": "Vance says he is 'not getting involved' in Israeli elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-he-not-getting-involved-israeli-elections",
+      "published_date": "2026-10-21T06:14:01+00:00"
+    },
+    {
+      "title": "France turns page on Code Noir as Parliament approves symbolic repeal",
+      "source": "RFI English",
+      "country": "France",
+      "url": "https://www.rfi.fr/en/france/20261021-france-turns-page-on-code-noir-as-parliament-approves-symbolic-repeal",
+      "published_date": "2026-10-21T06:04:31+00:00"
+    },
     {
       "title": "PDP, APGA, Accord backing Tinubu’s reelection bid – APC chair",
       "source": "The Punch Nigeria",
@@ -107,6 +198,13 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
       "published_date": "2026-10-20T18:41:19+00:00"
+    },
+    {
+      "title": "Eastern Libya parliament approves maritime deal with Turkey, drawing Greek rejection - Reuters",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNpNHR3ZzZNNnVsTXE1c1N1RDVPdHFvRjBrRWJiQTltVlRmNlM3VzdkX1dEZmNhcW5rRFI4QzJvUjJXdU9XVWlVQklGLUV4LWc2S2VGczdPanlEb09Vb1hJakM5Z2pfRl9YOVZqNGtmVDFveXZscGhaLXpoRlF5WEUwLWVWSGwzU3JvSmJXb3djX3R6dmRfaGRKclNtRDQ4Smd2TUQ0eG43WEQzZXo1SmNRTmFkdE1JYnNoeGFwMXNlLTlrNGc?oc=5",
+      "published_date": "2026-10-20T17:45:19+00:00"
     },
     {
       "title": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
@@ -2655,97 +2753,6 @@
       "country": "Germany",
       "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
       "published_date": "2026-10-07T16:12:29+00:00"
-    },
-    {
-      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
-      "published_date": "2026-10-07T15:03:26+00:00"
-    },
-    {
-      "title": "Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election",
-      "published_date": "2026-10-07T14:23:22+00:00"
-    },
-    {
-      "title": "The Anthony Kila affair: How fake titles captured a university and what it says about Nigeria, By Austin Aigbe",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/opinion/915228-the-anthony-kila-affair-how-fake-titles-captured-a-university-and-what-it-says-about-nigeria-by-austin-aigbe.html",
-      "published_date": "2026-10-07T14:21:53+00:00"
-    },
-    {
-      "title": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for 2nd day",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2035427/rahul-gandhi-indian-opposition-lawmakers-detained-over-election-chief-protest-for-2nd-day",
-      "published_date": "2026-10-07T13:44:02+00:00"
-    },
-    {
-      "title": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
-      "source": "Euronews",
-      "country": "Iran",
-      "url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
-      "published_date": "2026-10-07T13:27:42+00:00"
-    },
-    {
-      "title": "Beijing’s Docuseries on Myanmar Scams Implicates Junta But Glosses Chinese Financing",
-      "source": "Irrawaddy Myanmar",
-      "country": "Myanmar",
-      "url": "https://www.irrawaddy.com/news/burma/beijings-docuseries-on-myanmar-scams-implicates-junta-but-glosses-chinese-financing.html",
-      "published_date": "2026-10-07T13:19:03+00:00"
-    },
-    {
-      "title": "PPP stalwart Farooq Naek resigns from Judicial Commission of Pakistan",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2035413/ppp-stalwart-farooq-naek-resigns-from-judicial-commission-of-pakistan",
-      "published_date": "2026-10-07T12:43:18+00:00"
-    },
-    {
-      "title": "Myanmar junta says bid to arrest exiled journalists and opponents through Interpol has failed",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-says-bid-to-arrest-exiled-journalists-and-opponents-through-interpol-has-failed/",
-      "published_date": "2026-10-07T11:07:10+00:00"
-    },
-    {
-      "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election - Axios",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWml0TTIxb0hNWGRaeW5uZldrVmpMMFJJYWRQaWZHMnc1bkVrTkQ1OWFhcktUa3Q0N2wtRjcwWHNjT0pLaloteTdYeTh0bWRHTUFHZXBvSm5aa0NRck1fYnR0NDQ0eU5MT1JteU85enZ5dWtEa1k5aWk4UDZQdkNZc09qMlk?oc=5",
-      "published_date": "2026-10-07T09:24:08+00:00"
-    },
-    {
-      "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/07/netanyahu-oct-7-warning-israel-election-polls",
-      "published_date": "2026-10-07T09:00:55+00:00"
-    },
-    {
-      "title": "Myanmar junta leader to visit Malaysia after migrant returns begin",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-malaysia-after-migrant-returns-begin/",
-      "published_date": "2026-10-07T05:20:56+00:00"
-    },
-    {
-      "title": "PM Modi slams Opposition's ‘tendency to divide society on lines of vote’; says solution must be for everyone",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-marks-25-years-in-public-service-says-the-capital-he-has-earned-belongs-to-the-nation-101791349838935.html",
-      "published_date": "2026-10-07T05:12:41+00:00"
-    },
-    {
-      "title": "Rahul Gandhi leads opposition protest, calls for Election Commissioner to step down",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-leads-opposition-protest-calls-for-election-commissioner-to-step-down-101791329769925.html",
-      "published_date": "2026-10-07T01:23:39+00:00"
     }
   ]
 }
