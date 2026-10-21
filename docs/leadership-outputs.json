@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-20T15:40:08.976000+00:00",
-    "story_count": 383,
+    "last_updated": "2026-10-21T01:17:42.243240+00:00",
+    "story_count": 384,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,97 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "PDP, APGA, Accord backing Tinubu’s reelection bid – APC chair",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/pdp-apga-accord-backing-tinubus-reelection-bid-apc-chair/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-21T01:36:44+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+      "published_date": "2026-10-21T01:03:23+00:00"
+    },
+    {
+      "title": "How far will Netanyahu go to win Israel's elections?",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-far-will-netanyahu-go-win-israels-elections",
+      "published_date": "2026-10-20T23:35:35+00:00"
+    },
+    {
+      "title": "2027: Tompolo deploys 52 vehicles in Ondo, Gombe for Tinubu’s re-election, inaugurates coordinators",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/918665-2027-tompolo-deploys-52-vehicles-in-ondo-gombe-for-tinubus-re-election-inaugurates-coordinators.html",
+      "published_date": "2026-10-20T20:04:23+00:00"
+    },
+    {
+      "title": "Carney hails Alberta’s rejection of separation, but other referendum questions muddy the waters",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-alberta-separation-referendum-results-immigration-constitution/",
+      "published_date": "2026-10-20T19:51:26+00:00"
+    },
+    {
+      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
+      "source": "Al Jazeera English",
+      "country": "Peru",
+      "url": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
+      "published_date": "2026-10-20T18:53:51+00:00"
+    },
+    {
+      "title": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+      "published_date": "2026-10-20T18:41:19+00:00"
+    },
+    {
+      "title": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw?oc=5",
+      "published_date": "2026-10-20T17:01:47+00:00"
+    },
+    {
+      "title": "Russia’s Anti-War Theater Artists Search for a New Stage in Exile",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/10/20/russias-anti-war-theater-artists-search-for-a-new-stage-in-exile-a94007",
+      "published_date": "2026-10-20T16:32:00+00:00"
+    },
+    {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "source": "The Guardian World",
+      "country": "Canada",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published_date": "2026-10-20T16:24:05+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "published_date": "2026-10-20T15:41:44+00:00"
+    },
+    {
+      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-20T15:12:00+00:00"
+    },
+    {
+      "title": "No Canada-U.S. trade deal expected before American midterm elections: sources",
+      "source": "CBC News World",
+      "country": "Canada",
+      "url": "https://www.cbc.ca/news/politics/carney-trump-trade-deal-midterms-9.7387484?cmp=rss",
+      "published_date": "2026-10-20T15:01:56+00:00"
+    },
     {
       "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
       "source": "Al Jazeera English",
@@ -151,14 +242,7 @@
       "published_date": "2026-10-20T09:04:49+00:00"
     },
     {
-      "title": "Alberta voters reject plan for referendum to leave Canada",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "published_date": "2026-10-20T09:02:43+00:00"
-    },
-    {
-      "title": "The Overseas X Factor That Could Swing Israel’s Election - The New York Times",
+      "title": "What Could Swing Israel’s Election? Thousands Living in the U.S. - The New York Times",
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJOOUpEX3VuMEZHa3pkc3Y4elJ4b0tUUnk2SldVT2pVdUZmelUwNDZtRDVZMk9TSzNyTmJYb0hReEJPUnZiRDR6T0JTRU93eUt5ekxjbkh5cXZtNnZvWWZvblpsUEREdldCc2EwZXNWVGFXNXNUbGNXbDBpX015Qg?oc=5",
@@ -2662,83 +2746,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-leads-opposition-protest-calls-for-election-commissioner-to-step-down-101791329769925.html",
       "published_date": "2026-10-07T01:23:39+00:00"
-    },
-    {
-      "title": "Palestinian Authority says Israel blocked election officials from Jerusalem, Gaza",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-says-israel-blocked-election-officials-jerusalem",
-      "published_date": "2026-10-06T21:32:46+00:00"
-    },
-    {
-      "title": "About 76% voter turnout in Nagaon Lok Sabha bypoll",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/assam/about-76-voter-turnout-in-nagaon-lok-sabha-bypoll/article71552134.ece",
-      "published_date": "2026-10-06T21:32:17+00:00"
-    },
-    {
-      "title": "Libya’s parliament speaker ousted after 12 years",
-      "source": "Vanguard Nigeria",
-      "country": "Libya",
-      "url": "https://www.vanguardngr.com/2026/10/libyas-parliament-speaker-ousted-after-12-years/",
-      "published_date": "2026-10-06T21:12:49+00:00"
-    },
-    {
-      "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
-      "published_date": "2026-10-06T20:44:12+00:00"
-    },
-    {
-      "title": "Netanyahu: Hamas will try to influence election with terror attacks, Israel is prepared",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-910823",
-      "published_date": "2026-10-06T18:48:52+00:00"
-    },
-    {
-      "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election - The New York Times",
-      "source": "Google News World",
-      "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0x4djRHclZucTBZaDNyYTl2bGNBbEwwWTduME12SkhCUEpvZ0pWZFRfZ056QWlGbVp3enREYWZqY2dncFYzZHI1Yk1nUWM0bS11cnRBUWJYeGRpTFJ0cjJLbTFNcHNDbGxPMzB2MHh0cVpvVHpmeEJ1Z0puTnRRZGNuLVNYUXV4QU9QaTZRZnVRRFlGYWRr?oc=5",
-      "published_date": "2026-10-06T17:37:07+00:00"
-    },
-    {
-      "title": "SP decides not a field a third candidate for the Rajya Sabha election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/sp-decides-not-a-field-a-third-candidate-for-the-rajya-sabha-election/article71552400.ece",
-      "published_date": "2026-10-06T17:23:06+00:00"
-    },
-    {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "source": "BBC World",
-      "country": "Canada",
-      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T16:51:59+00:00"
-    },
-    {
-      "title": "AfD struggles to form government in Germany despite landmark election victory",
-      "source": "Jerusalem Post",
-      "country": "Germany",
-      "url": "https://www.jpost.com/international/article-910806",
-      "published_date": "2026-10-06T16:48:42+00:00"
-    },
-    {
-      "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
-      "source": "The Guardian World",
-      "country": "Iran",
-      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-      "published_date": "2026-10-06T16:40:45+00:00"
-    },
-    {
-      "title": "'No party sought meeting till 4 pm': EC on INDIA bloc sit-in against CEC Gyanesh Kumar",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/no-party-sought-meeting-before-4pm-ec-on-india-bloc-uproar-against-gyanesh-kumar-rahul-gandhi-priyanka-gandhi-akashvani-bhavan-in-delhi-cec-protest-101791300694946.html",
-      "published_date": "2026-10-06T15:35:01+00:00"
     }
   ]
 }
