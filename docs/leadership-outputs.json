@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-22T01:14:01.382829+00:00",
-    "story_count": 385,
+    "last_updated": "2026-10-22T15:54:20.147843+00:00",
+    "story_count": 390,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+      "published_date": "2026-10-22T15:18:44+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro sinaliza a presidente do Flamengo dar solução a bets e clubes após proibição de Lula",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/flavio-bolsonaro-sinaliza-a-presidente-do-flamengo-dar-solucao-a-bets-e-clubes-apos-proibicao-de-lula.shtml",
+      "published_date": "2026-10-22T15:00:00+00:00"
+    },
+    {
+      "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+      "published_date": "2026-10-22T14:55:59+00:00"
+    },
+    {
+      "title": "Is Iran ready for another major US attack after midterm elections?",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-22T14:16:00+00:00"
+    },
+    {
+      "title": "Russian war veteran appointed mayor through Kremlin program ousted after raising corruption allegations",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/22/russian-war-veteran-appointed-mayor-through-kremlin-program-ousted-after-raising-corruption-allegations",
+      "published_date": "2026-10-22T13:02:17+00:00"
+    },
+    {
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "source": "NPR World",
+      "country": "Iran",
+      "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "published_date": "2026-10-22T11:28:24+00:00"
+    },
+    {
+      "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
+      "source": "France 24 English",
+      "country": "China",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261022-dalai-lama-appointed-by-china-is-going-to-be-a-fake-one-exiled-former-tibetan-leader-says",
+      "published_date": "2026-10-22T10:22:48+00:00"
+    },
+    {
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T09:27:10+00:00"
+    },
+    {
+      "title": "Russian forces spreading false claims of capturing settlements in Zaporizhzhia region – military",
+      "source": "Ukrinform",
+      "country": "Russia",
+      "url": "https://www.ukrinform.net/rubric-ato/4176997-russian-forces-spreading-false-claims-of-capturing-settlements-in-zaporizhzhia-region-military.html",
+      "published_date": "2026-10-22T08:48:00+00:00"
+    },
+    {
+      "title": "Six women killed by Myanmar junta airstrike in Budalin",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/six-women-killed-by-myanmar-junta-airstrike-in-budalin/",
+      "published_date": "2026-10-22T07:50:57+00:00"
+    },
+    {
+      "title": "Bypoll to Madhya Pradesh Rajya Sabha seat vacated by L Murugan on November 12: Election Commission",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bypoll-to-rajya-sabha-seat-vacated-by-l-murugan-on-november-12-election-commission-101792650098908.html",
+      "published_date": "2026-10-22T06:25:47+00:00"
+    },
+    {
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T05:30:22+00:00"
+    },
+    {
+      "title": "Israel’s election may change its leader, but not Iran war policy",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/10/22/world/israel-election-iran-war-policy/",
+      "published_date": "2026-10-22T05:00:00+00:00"
+    },
+    {
+      "title": "Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference",
+      "source": "CBC News World",
+      "country": "Canada",
+      "url": "https://www.cbc.ca/news/canada/canadians-caught-up-in-trump-crackdown-on-noncitizen-voting-midterms-9.7390326?cmp=rss",
+      "published_date": "2026-10-22T04:00:00+00:00"
+    },
+    {
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "source": "BBC World",
+      "country": "Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T03:05:28+00:00"
+    },
+    {
+      "title": "A look at the major candidates in Israel’s election Tuesday - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ?oc=5",
+      "published_date": "2026-10-22T01:18:00+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
       "source": "La Nacion Argentina",
@@ -179,13 +291,6 @@
       "published_date": "2026-10-21T11:53:15+00:00"
     },
     {
-      "title": "A look at the major candidates in Israel’s election next week - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ?oc=5",
-      "published_date": "2026-10-21T11:08:00+00:00"
-    },
-    {
       "title": "The Banking Scandal Upending Brazil’s Election",
       "source": "Foreign Policy",
       "country": "Brazil",
@@ -205,6 +310,13 @@
       "country": "Russia",
       "url": "https://www.ukrinform.net/rubric-ato/4176639-azov-dismisses-russian-claim-of-capturing-dobropillia.html",
       "published_date": "2026-10-21T09:28:00+00:00"
+    },
+    {
+      "title": "Battle over Meta’s alleged Bolsonaro bias intensifies days before Brazil presidential runoff - The Guardian",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXlyeFJreUhzRC1mTWlFQ0NlbURUMXE0azVoTE5sSEduU0lhVEozZzgxNnNNdTZfRmtqenliZXRmUGxBM29BY1lZYjdqOXA3U1hhWDZkN0RtUjFZazdkN21NM3E1RHpEWElyTUtrZ1JMSjJlVzNGbGJqVHV5V05NWEk4WF8zaUEwLVU5MXp4S3lnVUpPcDlFSktLSFBTb0dVRlhCWWVBRzVFX2RWaEtnNm9wOHV1UUhmampzNEpsTjFOZXZzcTJrVWlfOA?oc=5",
+      "published_date": "2026-10-21T08:48:00+00:00"
     },
     {
       "title": "Vance says he is 'not getting involved' in Israeli elections",
@@ -2676,83 +2788,6 @@
       "country": "Brazil",
       "url": "https://www.latercera.com/mundo/noticia/flavio-bolsonaro-propone-que-los-familiares-cercanos-del-presidente-no-puedan-presentarse-a-las-elecciones/",
       "published_date": "2026-10-08T16:01:38+00:00"
-    },
-    {
-      "title": "Indian opposition protest police action against lawmakers, push for poll chief's resignation",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2035712/indian-opposition-protest-police-action-against-lawmakers-push-for-poll-chiefs-resignation",
-      "published_date": "2026-10-08T15:33:38+00:00"
-    },
-    {
-      "title": "London voters go to polls for Holborn and St Pancras by-election",
-      "source": "Al Jazeera English",
-      "country": "United Kingdom",
-      "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
-      "published_date": "2026-10-08T15:19:46+00:00"
-    },
-    {
-      "title": "Spain must reverse Sánchez's anti-Israel policies after snap election, Vox lawmaker says",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/international/article-911056",
-      "published_date": "2026-10-08T14:53:48+00:00"
-    },
-    {
-      "title": "Le Premier ministre britannique en visite à Berlin pour évoquer la sécurité",
-      "source": "France 24 FR",
-      "country": "Germany",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261008-le-premier-ministre-britannique-en-visite-%C3%A0-berlin-pour-%C3%A9voquer-la-s%C3%A9curit%C3%A9",
-      "published_date": "2026-10-08T13:44:02+00:00"
-    },
-    {
-      "title": "Marcos says Philippines ‘resigned’ to managing South China Sea dispute",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/week-asia/politics/article/3370202/marcos-says-philippines-resigned-managing-south-china-sea-dispute?utm_source=rss_feed",
-      "published_date": "2026-10-08T10:46:12+00:00"
-    },
-    {
-      "title": "Iranian press review: 80m barrels behind oil minister’s resignation",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-80-million-barrels-behind-oil-ministers-resignation",
-      "published_date": "2026-10-08T10:22:24+00:00"
-    },
-    {
-      "title": "Belarus loans debated by Myanmar’s junta-controlled parliament",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/belarus-loans-debated-by-myanmars-junta-controlled-parliament/",
-      "published_date": "2026-10-08T10:14:41+00:00"
-    },
-    {
-      "title": "Ousted Venezuelan president Nicolás Maduro, wife Celia Flores charged with torture in new indictment",
-      "source": "CBC News World",
-      "country": "Venezuela",
-      "url": "https://www.cbc.ca/news/world/livestory/maduro-flores-charges-venezuela-us-9.7373745?cmp=rss",
-      "published_date": "2026-10-08T10:04:14+00:00"
-    },
-    {
-      "title": "Myanmar junta leader says will take back migrants from Malaysia ‘as soon as possible’",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-says-will-take-back-migrants-from-malaysia-as-soon-as-possible/",
-      "published_date": "2026-10-08T09:29:59+00:00"
-    },
-    {
-      "title": "South Sudan's road to elections remains uncertain",
-      "source": "Deutsche Welle English",
-      "country": "Sudan",
-      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-08T04:20:00+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
-      "published_date": "2026-10-08T01:40:00+00:00"
     }
   ]
 }
