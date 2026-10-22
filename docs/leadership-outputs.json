@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-21T15:56:50.992022+00:00",
+    "last_updated": "2026-10-22T01:14:01.382829+00:00",
     "story_count": 385,
     "fields": {
       "title": "Headline in English",
@@ -60,18 +60,81 @@
   },
   "stories": [
     {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+      "published_date": "2026-10-22T00:43:20+00:00"
+    },
+    {
+      "title": "US accuses Canada of election interference ahead of midterms",
+      "source": "Al Jazeera English",
+      "country": "Canada",
+      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-10-21T23:52:21+00:00"
+    },
+    {
+      "title": "The only candidate from Russia’s Komi region to call for peace in last month’s parliamentary elections has been detained on suspicion of ‘justifying terrorism’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/21/the-only-candidate-from-russia-s-komi-region-to-call-for-peace-in-last-month-s-parliamentary-elections-has-been-detained-on-suspicion-of-justifying-terrorism",
+      "published_date": "2026-10-21T20:30:40+00:00"
+    },
+    {
+      "title": "U.S. embassy accuses Canadian politicians of election meddling",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/article-us-embassy-hoekstra-trump-election-meddling/",
+      "published_date": "2026-10-21T19:57:47+00:00"
+    },
+    {
+      "title": "Why Netanyahu is making the Iranian regime’s overthrow a personal promise - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-912452",
+      "published_date": "2026-10-21T19:07:43+00:00"
+    },
+    {
+      "title": "Netanyahu threatens regime change in Iran",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-threatens-regime-change-iran",
+      "published_date": "2026-10-21T18:49:19+00:00"
+    },
+    {
+      "title": "Russian-born Kazakhstani billionaire Timur Turlov is the new president of world chess. His election has divided Ukrainian officials, and Russia has abruptly dropped its case against him.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/10/21/russian-born-kazakhstani-billionaire-timur-turlov-is-the-new-president-of-world-chess-his-election-has-divided-ukrainian-officials-and-russia-has-abruptly-dropped-its-case-against-him",
+      "published_date": "2026-10-21T18:34:58+00:00"
+    },
+    {
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-21T18:22:28+00:00"
+    },
+    {
+      "title": "Former Tory election candidate suspended over contract killing claims",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+      "published_date": "2026-10-21T18:13:55+00:00"
+    },
+    {
+      "title": "Russian lawmakers approve four new deputy prime ministers and a transport minister in Mikhail Mishustin’s Cabinet reshuffle",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/21/russian-lawmakers-approve-four-new-deputy-prime-ministers-and-a-transport-minister-in-mikhail-mishustin-s-cabinet-reshuffle",
+      "published_date": "2026-10-21T17:05:04+00:00"
+    },
+    {
       "title": "Bank of Israel holds interest rates steady a week before election",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/business-and-innovation/article-912432",
       "published_date": "2026-10-21T16:10:48+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
-      "published_date": "2026-10-21T15:38:23+00:00"
     },
     {
       "title": "Grand Paris Express : un nouveau contretemps technique rend improbable une inauguration de la ligne 18 en 2026",
@@ -114,6 +177,13 @@
       "country": "France",
       "url": "https://www.dawn.com/news/2038773/macron-takes-aim-at-trump-for-using-france-riots-for-election-gain",
       "published_date": "2026-10-21T11:53:15+00:00"
+    },
+    {
+      "title": "A look at the major candidates in Israel’s election next week - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ?oc=5",
+      "published_date": "2026-10-21T11:08:00+00:00"
     },
     {
       "title": "The Banking Scandal Upending Brazil’s Election",
@@ -202,7 +272,7 @@
     {
       "title": "Eastern Libya parliament approves maritime deal with Turkey, drawing Greek rejection - Reuters",
       "source": "Google News World",
-      "country": "Turkey",
+      "country": "Libya",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNpNHR3ZzZNNnVsTXE1c1N1RDVPdHFvRjBrRWJiQTltVlRmNlM3VzdkX1dEZmNhcW5rRFI4QzJvUjJXdU9XVWlVQklGLUV4LWc2S2VGczdPanlEb09Vb1hJakM5Z2pfRl9YOVZqNGtmVDFveXZscGhaLXpoRlF5WEUwLWVWSGwzU3JvSmJXb3djX3R6dmRfaGRKclNtRDQ4Smd2TUQ0eG43WEQzZXo1SmNRTmFkdE1JYnNoeGFwMXNlLTlrNGc?oc=5",
       "published_date": "2026-10-20T17:45:19+00:00"
     },
@@ -2683,76 +2753,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
       "published_date": "2026-10-08T01:40:00+00:00"
-    },
-    {
-      "title": "Israel marks three years since October 7 attack ahead of elections",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
-      "published_date": "2026-10-07T21:50:07+00:00"
-    },
-    {
-      "title": "Abe Memorial Corridor honoring Shinzo Abe, India-Japan ties inaugurated in Varanasi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece",
-      "published_date": "2026-10-07T20:21:13+00:00"
-    },
-    {
-      "title": "Emergency power outages implemented in some regions of Ukraine",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-economy/4172107-emergency-power-outages-implemented-in-some-regions-of-ukraine.html",
-      "published_date": "2026-10-07T19:56:00+00:00"
-    },
-    {
-      "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-      "source": "Al Jazeera English",
-      "country": "India",
-      "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
-      "published_date": "2026-10-07T19:40:07+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-      "published_date": "2026-10-07T19:23:30+00:00"
-    },
-    {
-      "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
-      "published_date": "2026-10-07T18:28:02+00:00"
-    },
-    {
-      "title": "Gyanesh Kumar has become an ‘instrument’ of Modi to win elections: Revanth Reddy",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/telangana/gyanesh-kumar-has-become-an-instrument-of-modi-to-win-elections-revanth-reddy/article71556925.ece",
-      "published_date": "2026-10-07T17:12:33+00:00"
-    },
-    {
-      "title": "2027: 61% of Nigerians fear election violence, 84% willing to vote — Yiaga Africa",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/2027-61-of-nigerians-fear-election-violence-84-willing-to-vote-yiaga-africa/",
-      "published_date": "2026-10-07T16:55:40+00:00"
-    },
-    {
-      "title": "Walter Rioja y caso “narco-maderas” en Bolivia: “El presidente Kast tiene que venir y dar una solución a esto”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/mundo/noticia/walter-rioja-y-caso-narco-maderas-en-bolivia-el-presidente-kast-tiene-que-venir-y-dar-una-solucion-a-esto/",
-      "published_date": "2026-10-07T16:32:55+00:00"
-    },
-    {
-      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
-      "source": "Al Jazeera English",
-      "country": "Germany",
-      "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
-      "published_date": "2026-10-07T16:12:29+00:00"
     }
   ]
 }
