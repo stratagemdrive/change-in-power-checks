@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-22T15:54:20.147843+00:00",
-    "story_count": 390,
+    "last_updated": "2026-10-23T01:14:18.935284+00:00",
+    "story_count": 389,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,74 @@
   },
   "stories": [
     {
-      "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+      "title": "Venezuelans call for elections in first national protest in nearly two years",
+      "source": "Jerusalem Post",
+      "country": "Venezuela",
+      "url": "https://www.jpost.com/international/article-912635",
+      "published_date": "2026-10-23T02:20:57+00:00"
+    },
+    {
+      "title": "Oyetola, Oyebamiji absent as Adeleke inaugurates Tinubu campaign council",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/oyetola-oyebamiji-absent-as-adeleke-inaugurates-tinubu-campaign-council/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-23T01:01:36+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Los indicadores no evolucionan como esperábamos”, dijo el Presidente",
       "source": "La Nacion Argentina",
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-      "published_date": "2026-10-22T15:18:44+00:00"
+      "published_date": "2026-10-23T01:00:09+00:00"
+    },
+    {
+      "title": "Netanyahu Calls on Israel to Overthrow Iranian Regime",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-iran-regime-us-strikes-war/",
+      "published_date": "2026-10-22T20:16:32+00:00"
+    },
+    {
+      "title": "Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTdvcmZkQV9FV1JVRjU1WWJCNzB3VHplUy1vc1hQaVJxa2tHbjItWTRfNlVNSEZ6clZmaGxiMGp4bFVQcm5PcVZQVDFwb0ctbWxJSHdaV0x5TjV3QjhQYWFaSzZVU0txN1ZLVTJsanFkbnVJUHVtdEowWTYyQWQ0LU56TkFNTUxpRVE?oc=5",
+      "published_date": "2026-10-22T18:32:32+00:00"
+    },
+    {
+      "title": "Back to the Bolsonaros? Brazil presidential run-off goes down to the wire",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire",
+      "published_date": "2026-10-22T18:18:23+00:00"
+    },
+    {
+      "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
+      "published_date": "2026-10-22T16:36:26+00:00"
+    },
+    {
+      "title": "Peace absent from Israel's 2026 elections as West Bank tensions continue to rise -analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912582",
+      "published_date": "2026-10-22T16:19:44+00:00"
+    },
+    {
+      "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+      "source": "Axios World",
+      "country": "Canada",
+      "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
+      "published_date": "2026-10-22T15:45:24+00:00"
+    },
+    {
+      "title": "Election présidentielle au Brésil : « Chaque victoire de l’extrême droite à l’étranger banalise cette perspective chez nous », alertent des responsables politiques de gauche en France",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html",
+      "published_date": "2026-10-22T15:00:07+00:00"
     },
     {
       "title": "Flávio Bolsonaro sinaliza a presidente do Flamengo dar solução a bets e clubes após proibição de Lula",
@@ -97,9 +160,23 @@
     {
       "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
       "source": "NPR World",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
       "published_date": "2026-10-22T11:28:24+00:00"
+    },
+    {
+      "title": "With five days until elections, Netanyahu shifts strategies to courting right-wing votes - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912518",
+      "published_date": "2026-10-22T11:17:15+00:00"
+    },
+    {
+      "title": "Israel Election 2026: How many votes will parties need to cross electoral threshold? - explainer",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912517",
+      "published_date": "2026-10-22T10:36:31+00:00"
     },
     {
       "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
@@ -146,7 +223,7 @@
     {
       "title": "Israel’s election may change its leader, but not Iran war policy",
       "source": "Japan Times",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://www.japantimes.co.jp/news/2026/10/22/world/israel-election-iran-war-policy/",
       "published_date": "2026-10-22T05:00:00+00:00"
     },
@@ -2704,90 +2781,6 @@
       "country": "Argentina",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-volvio-a-llamar-ladron-a-lula-dias-despues-del-nid08102026/",
       "published_date": "2026-10-09T02:08:39+00:00"
-    },
-    {
-      "title": "Trump says U.S. won’t attack Iran before midterm elections",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/10/09/world/no-iran-attack-midterms/",
-      "published_date": "2026-10-09T00:24:00+00:00"
-    },
-    {
-      "title": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election - PBS",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDd0N1p4ckRpSHN0bFlmVFN3WWt4aUczWDZiS004dlFzSnNTeFEzcGdwUGhXOEdmakh4SXU3Z2w0WkpBSjJPRWV3TW5QNlBwdWd5Q081NjlYd1c1cEJPR0RpQUh3dUVrSVQ0VkNGTDE2UWZsN0JabDRkWW9BMUJCSXZVeXdnN0pBMnZuZUZyaURjcm8xU3NJWmlENDhzMFhTdDhUR0hn?oc=5",
-      "published_date": "2026-10-08T22:35:31+00:00"
-    },
-    {
-      "title": "Trump rules out new Iran attack before US midterm elections",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/10/trump-rules-out-new-iran-attack-before-us-midterm-elections/",
-      "published_date": "2026-10-08T22:05:40+00:00"
-    },
-    {
-      "title": "Akhilesh dares CM Yogi to contest from Ayodhya in assembly election",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-dares-cm-yogi-to-contest-from-ayodhya-in-assembly-election/article71560356.ece",
-      "published_date": "2026-10-08T19:39:42+00:00"
-    },
-    {
-      "title": "INDIA bloc leaders submit memorandum to Bihar Governor, demand CEC removal and re-election in State",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-submit-memorandum-to-bihar-governor-demand-cec-removal-and-re-election-in-state/article71559445.ece",
-      "published_date": "2026-10-08T19:01:37+00:00"
-    },
-    {
-      "title": "Opposition plans march to Rashtrapati Bhavan to seek CEC Gyanesh Kumar’s resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/opposition-plans-march-to-rashtrapati-bhavan-to-seek-cec-gyanesh-kumar-resignation-amid-eci-dissent-row-jantar-mantar-rahul-gandhi-101791485720431.html",
-      "published_date": "2026-10-08T18:55:19+00:00"
-    },
-    {
-      "title": "Suplente de Moro se filia ao PL e número de senadores pró impeachment de ministros do STF chega a 50",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/suplente-de-moro-se-filia-ao-pl-e-numero-de-senadores-pro-impeachment-de-ministros-do-stf-chega-a-50.shtml",
-      "published_date": "2026-10-08T18:44:00+00:00"
-    },
-    {
-      "title": "Trump says US will not attack Iran before November’s midterm elections",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370235/trump-says-us-will-not-attack-iran-novembers-midterm-elections?utm_source=rss_feed",
-      "published_date": "2026-10-08T17:39:11+00:00"
-    },
-    {
-      "title": "‘A complete sham’: European Parliament condemns Russia’s September elections and refuses to recognize its new lower house as legitimate",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/08/a-complete-sham-european-parliament-condemns-russia-s-september-elections-and-refuses-to-recognize-its-new-lower-house-as-legitimate",
-      "published_date": "2026-10-08T17:29:06+00:00"
-    },
-    {
-      "title": "As elections near, how are French political parties reacting to student protests?",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20261008-as-elections-near-how-are-french-political-parties-reacting-to-student-protests",
-      "published_date": "2026-10-08T17:08:20+00:00"
-    },
-    {
-      "title": "No US attack on Iran before midterm elections, Trump says",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-attack-iran-midterm-elections-trump-says",
-      "published_date": "2026-10-08T16:49:56+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro propone que los familiares cercanos del presidente no puedan presentarse a las elecciones",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/flavio-bolsonaro-propone-que-los-familiares-cercanos-del-presidente-no-puedan-presentarse-a-las-elecciones/",
-      "published_date": "2026-10-08T16:01:38+00:00"
     }
   ]
 }
