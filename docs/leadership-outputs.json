@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-23T01:14:18.935284+00:00",
-    "story_count": 389,
+    "last_updated": "2026-10-23T15:46:11.293593+00:00",
+    "story_count": 394,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,144 @@
   },
   "stories": [
     {
+      "title": "Yair Lapid: The upcoming election is about what we want Israel to be - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-912425",
+      "published_date": "2026-10-23T16:51:31+00:00"
+    },
+    {
+      "title": "How will the Israeli election work and when will the result be announced?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-netanyahu-middle-east-gaza-lebanon-iran-b3072110.html",
+      "published_date": "2026-10-23T15:23:49+00:00"
+    },
+    {
+      "title": "For weeks, deepfake celebrities have been telling Americans not to vote for Democrats in the midterm elections. U.S. intelligence says Russia is behind it.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/10/23/for-weeks-deepfake-celebrities-have-been-telling-americans-not-to-vote-for-democrats-in-the-midterm-elections-u-s-intelligence-says-russia-is-behind-it",
+      "published_date": "2026-10-23T15:02:38+00:00"
+    },
+    {
+      "title": "Bundespräsident: Wie Söder und Wüst Merz in die Zange nehmen",
+      "source": "FAZ Germany",
+      "country": "Germany",
+      "url": "https://www.faz.net/aktuell/politik/inland/soeder-und-wuest-nehmen-merz-in-der-bundespraesidentenfrage-in-die-zange-201615637.html",
+      "published_date": "2026-10-23T15:00:18+00:00"
+    },
+    {
+      "title": "What to know as Brazil prepares for tense presidential run-off",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
+      "published_date": "2026-10-23T14:56:05+00:00"
+    },
+    {
+      "title": "Asaduddin Owaisi seeks special Parliament session on Chinese intrusions in Arunachal",
+      "source": "The Hindu Politics",
+      "country": "China",
+      "url": "https://www.thehindu.com/news/national/telangana/asaduddin-owaisi-seeks-special-parliament-session-on-chinese-intrusions-in-arunachal/article71616761.ece",
+      "published_date": "2026-10-23T14:44:49+00:00"
+    },
+    {
+      "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
+      "published_date": "2026-10-23T14:32:07+00:00"
+    },
+    {
+      "title": "PC sube la presión y exige al Presidente Kast renuncia del ministro Rabat por rebajas de condenas de delitos sexuales",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/pc-sube-la-presion-y-exige-al-presidente-kast-renuncia-del-ministro-rabat-por-rebajas-de-condenas-de-delitos-sexuales/",
+      "published_date": "2026-10-23T14:20:39+00:00"
+    },
+    {
+      "title": "2027: Adeleke backs Accord lawmaker candidates despite Tinubu re-election coalition",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-adeleke-backs-accord-lawmaker-candidates-despite-tinubu-re-election-coalition/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-23T13:45:00+00:00"
+    },
+    {
+      "title": "How Israel’s election is further excluding Palestinian citizens from politics",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/opinion/israels-election-deepens-political-exclusion-its-palestinian-citizens",
+      "published_date": "2026-10-23T13:31:40+00:00"
+    },
+    {
+      "title": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
+      "published_date": "2026-10-23T12:45:49+00:00"
+    },
+    {
+      "title": "Myanmar charity worker who built a lifeline for the poor loses it all after military coup",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-charity-worker-who-built-a-lifeline-for-the-poor-loses-it-all-after-military-coup/",
+      "published_date": "2026-10-23T10:29:41+00:00"
+    },
+    {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "published_date": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "title": "Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTdvcmZkQV9FV1JVRjU1WWJCNzB3VHplUy1vc1hQaVJxa2tHbjItWTRfNlVNSEZ6clZmaGxiMGp4bFVQcm5PcVZQVDFwb0ctbWxJSHdaV0x5TjV3QjhQYWFaSzZVU0txN1ZLVTJsanFkbnVJUHVtdEowWTYyQWQ0LU56TkFNTUxpRVE?oc=5",
+      "published_date": "2026-10-23T08:48:57+00:00"
+    },
+    {
+      "title": "Billionaire Brazilian brothers emerge as Bolsonaro’s foes in presidential runoff",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/10/23/world/politics/billionaire-brazilian-brothers-runoff/",
+      "published_date": "2026-10-23T08:46:00+00:00"
+    },
+    {
+      "title": "Venezuelans call for elections in first national protest in nearly two years",
+      "source": "Japan Times",
+      "country": "Venezuela",
+      "url": "https://www.japantimes.co.jp/news/2026/10/23/world/politics/venezuela-election-call-protest/",
+      "published_date": "2026-10-23T04:59:00+00:00"
+    },
+    {
+      "title": "No bots: Japan drafts rules for social media platforms ahead of local elections",
+      "source": "South China Morning Post",
+      "country": "Japan",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
+      "published_date": "2026-10-23T04:48:55+00:00"
+    },
+    {
+      "title": "Procedures to be followed if fresh impeachment motion against CEC filed: Lok Sabha Speaker Om Birla",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/procedures-to-be-followed-if-fresh-cec-impeachment-motion-filed-ls-speaker-101792696470027.html",
+      "published_date": "2026-10-23T02:23:30+00:00"
+    },
+    {
       "title": "Venezuelans call for elections in first national protest in nearly two years",
       "source": "Jerusalem Post",
       "country": "Venezuela",
       "url": "https://www.jpost.com/international/article-912635",
       "published_date": "2026-10-23T02:20:57+00:00"
+    },
+    {
+      "title": "Brazil’s election and the battle for the Amazon – podcast",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "published_date": "2026-10-23T02:00:56+00:00"
     },
     {
       "title": "Oyetola, Oyebamiji absent as Adeleke inaugurates Tinubu campaign council",
@@ -81,18 +214,11 @@
       "published_date": "2026-10-23T01:00:09+00:00"
     },
     {
-      "title": "Netanyahu Calls on Israel to Overthrow Iranian Regime",
+      "title": "Netanyahu Vows to Overthrow Iranian Regime",
       "source": "Foreign Policy",
       "country": "Israel",
       "url": "https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-iran-regime-us-strikes-war/",
       "published_date": "2026-10-22T20:16:32+00:00"
-    },
-    {
-      "title": "Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTdvcmZkQV9FV1JVRjU1WWJCNzB3VHplUy1vc1hQaVJxa2tHbjItWTRfNlVNSEZ6clZmaGxiMGp4bFVQcm5PcVZQVDFwb0ctbWxJSHdaV0x5TjV3QjhQYWFaSzZVU0txN1ZLVTJsanFkbnVJUHVtdEowWTYyQWQ0LU56TkFNTUxpRVE?oc=5",
-      "published_date": "2026-10-22T18:32:32+00:00"
     },
     {
       "title": "Back to the Bolsonaros? Brazil presidential run-off goes down to the wire",
@@ -2690,97 +2816,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-aseguro-que-realizaron-119-extradiciones-en-los-primeros-meses-de-su-gobierno-colombia-no-sera-refugio-de-delincuentes-3592535",
       "published_date": "2026-10-09T16:32:34+00:00"
-    },
-    {
-      "title": "Nikolai Rybakov, chairman of Russian opposition party Yabloko, fined 1,000 rubles for writing ‘For Peace’ on his ballot",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/09/nikolai-rybakov-chairman-of-russian-opposition-party-yabloko-fined-1-000-rubles-for-writing-for-peace-on-his-ballot",
-      "published_date": "2026-10-09T15:36:13+00:00"
-    },
-    {
-      "title": "Rahul Gandhi-led INDIA bloc MPs meet President Murmu, present 4-point memo seeking CEC Gyanesh Kumar's resignation",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-bloc-leaders-meet-president-murmu-over-vote-chori-seek-cec-gyanesh-kumar-s-resignation-rahul-gandhi-101791556089738.html",
-      "published_date": "2026-10-09T15:24:57+00:00"
-    },
-    {
-      "title": "Palestinian Authority Says Elections Are to Be Postponed - The New York Times",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0FpQjRRbEJnR0VoMHZkSUJOdlh3TUhvVnl2MWk3MGRKUUllQVJreUVBV1AxMU5QUXluY3BWX2Qya3UtZjR1N2dtRnVNcTdXOWo0V0hZV0llcnlvVkZPUjdFX0JpbVA1RzZzWm9CR3F0Z2M3WGxUc2hVa1hWZG1ZVUFFZG5MTU9GZEJaRkdlNlZMams3QnB3SkFQdTIxZ0hMVDhjRTQxMXl3eW51?oc=5",
-      "published_date": "2026-10-09T14:58:45+00:00"
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkEtZVhNMkYyQnRxOTVDaHlnMWQtWmF4UndHZHdlSXlzNUVTT0FudnhHU2xDMkNkOC1UVlBzZ21rd2tiTWp3eFJudDVsOXZDWEw1bFNTNk4zQWgyUmhwMjJVVzFhOGdzaG50TGFJaDU5Y3RPMl9TMTJ6UEJXR29Wa2I2emtHLTVKSFdSTWpUOEl2QktYTGRJWFBWY25UTHpManRMaVhTWmNTTjjSAbABQVVfeXFMUGNiY1V1N1dUMmdDbnh2Qi1STXNHZGw2QUlKLV9MY3YtYzRhQVRDSk0waVotMDBhNjFzckdPTEtiZTJ6enU5c0dNd0ZfakgzZ19Tb0l5SHh0Z0hPaWU5bnFrMktKLXNPX08wWVV3ZS1nMjF0WE5qN1pDMzBCMEpUc1NDZ2ppMGpOTlJkTGI0QU9ibU5EOHhjQWRjNzgwSi13cGpvbWQtaTBGdENSVE12Qmg?oc=5",
-      "published_date": "2026-10-09T14:08:58+00:00"
-    },
-    {
-      "title": "Presidente do PT diz que suposto depoimento de Vorcaro sobre filme de Lula tem viés político",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/em-audio-a-militancia-presidente-do-pt-diz-que-depoimento-de-vorcaro-sobre-filme-de-lula-tem-vies-politico.shtml",
-      "published_date": "2026-10-09T13:10:00+00:00"
-    },
-    {
-      "title": "India protests grow over Election Commission mistrust",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20261009-india-protests-grow-over-election-commission-mistrust",
-      "published_date": "2026-10-09T13:08:49+00:00"
-    },
-    {
-      "title": "Presidente de Chile decreta estado de catástrofe en zona este de Santiago arrasada por torrente",
-      "source": "El Nacional Venezuela",
-      "country": "Chile",
-      "url": "https://www.elnacional.com/2026/10/presidente-de-chile-decreta-estado-de-catastrofe-en-zona-este-de-santiago-arrasada-por-torrente-de-agua/",
-      "published_date": "2026-10-09T12:39:00+00:00"
-    },
-    {
-      "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
-      "source": "Deutsche Welle English",
-      "country": "India",
-      "url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-09T12:23:00+00:00"
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
-      "source": "Google News World",
-      "country": "United Kingdom",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkEtZVhNMkYyQnRxOTVDaHlnMWQtWmF4UndHZHdlSXlzNUVTT0FudnhHU2xDMkNkOC1UVlBzZ21rd2tiTWp3eFJudDVsOXZDWEw1bFNTNk4zQWgyUmhwMjJVVzFhOGdzaG50TGFJaDU5Y3RPMl9TMTJ6UEJXR29Wa2I2emtHLTVKSFdSTWpUOEl2QktYTGRJWFBWY25UTHpManRMaVhTWmNTTjg?oc=5",
-      "published_date": "2026-10-09T10:59:50+00:00"
-    },
-    {
-      "title": "India deploys thousands of police ahead of election protest",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2035898/india-deploys-thousands-of-police-ahead-of-election-protest",
-      "published_date": "2026-10-09T07:46:41+00:00"
-    },
-    {
-      "title": "West Bengal by-elections result highlights: BJP wins in Rejinagar and Nandigram with huge margins",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/west-bengal-byelection-bypolls-counting-result-live-updates-rejinagar-nandiram-bjp-tmc-mamata-banerjee-101791519539113.html",
-      "published_date": "2026-10-09T05:30:04+00:00"
-    },
-    {
-      "title": "Zamir says return to war with Iran may postpone Israel election as Pentagon prepares plans - report",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-911125",
-      "published_date": "2026-10-09T02:10:37+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-volvio-a-llamar-ladron-a-lula-dias-despues-del-nid08102026/",
-      "published_date": "2026-10-09T02:08:39+00:00"
     }
   ]
 }
