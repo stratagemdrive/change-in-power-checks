@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-24T14:22:09.162361+00:00",
-    "story_count": 405,
+    "last_updated": "2026-10-25T00:49:35.612871+00:00",
+    "story_count": 404,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,18 +60,151 @@
   },
   "stories": [
     {
-      "title": "Au congrès du RN à Orléans, Jordan Bardella, seul candidat à sa succession, est réélu président du parti avec 98,98 % des voix",
-      "source": "Le Monde France",
+      "title": "Thousands rally in Tel Aviv against Netanyahu ahead of elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-rally-against-netanyahu-ahead-elections",
+      "published_date": "2026-10-25T00:14:25+00:00"
+    },
+    {
+      "title": "2027 elections: Nigerian journalists should collaborate",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-elections-nigerian-journalists-should-collaborate/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-25T00:05:09+00:00"
+    },
+    {
+      "title": "El primer ministro británico y el presidente de Chile hablaron sobre Malvinas",
+      "source": "La Nacion Argentina",
+      "country": "Chile",
+      "url": "https://www.lanacion.com.ar/politica/el-primer-ministro-britanico-y-el-presidente-de-chile-hablaron-sobre-malvinas-nid24102026/",
+      "published_date": "2026-10-24T23:53:22+00:00"
+    },
+    {
+      "title": "Trump prepares for Iran escalation after U.S. and Israeli elections",
+      "source": "Japan Times",
+      "country": "Iran",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/iran-us-midterm-elections-war/",
+      "published_date": "2026-10-24T23:00:00+00:00"
+    },
+    {
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-24T22:08:47+00:00"
+    },
+    {
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "published_date": "2026-10-24T21:39:29+00:00"
+    },
+    {
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "published_date": "2026-10-24T21:10:23+00:00"
+    },
+    {
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "published_date": "2026-10-24T20:37:02+00:00"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDJ1SGFoTUhVdlBmTFRuTFc2eEJiMlBKc3RiWmdpQVlWZzZOTEppNkpweDlxbEJfQm5hbUdfRFB2eTN1MlZEMk1wcGxJMWtyc1NYYW5VV1p3b0RaVDh4SlpnUC13T0Fna0ZRSUpnRlBOWDd2NHVDTEZtbzM4cXd2RU1QZVVHNTVXWnd2enphaUR3NkJoQ0x1c3J3SWdjc3FLRmhNYWY3aXFhNXFKbjFxUUhNSdIBuAFBVV95cUxNMVE4bWlIamtEdEtYR2R6YnR0VW9zOGRZb0lhaURxbUNiMEhzTVVTX0VTMU9Bdmd3TkZRQThuR001Tm5za1VZLTB2dkNRb05kNWFteWZfSkhFMXB5el9sY09IVmg5NjlvRnFNS3ZhcWhaRWhRT3Iwa1VVWVZqODNOeng0amxiSldFb1daOEpGWlVNWFVKaUNMNlAxRWZwM294djdDUHFsbG9oY3lPRXJUNFJlWTBlVGhh?oc=5",
+      "published_date": "2026-10-24T19:15:46+00:00"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "published_date": "2026-10-24T19:11:48+00:00"
+    },
+    {
+      "title": "“Witkoff should step down” says Ukraine Committee Chief",
+      "source": "France 24 English",
+      "country": "Ukraine",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+      "published_date": "2026-10-24T18:37:05+00:00"
+    },
+    {
+      "title": "Iran judiciary says chief holds rare meeting with supreme leader",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
+      "published_date": "2026-10-24T18:28:59+00:00"
+    },
+    {
+      "title": "Trump's advisers optimistic of working with Netanyahu's rivals if he loses next election - report",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-912711",
+      "published_date": "2026-10-24T18:09:11+00:00"
+    },
+    {
+      "title": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
+      "published_date": "2026-10-24T17:54:38+00:00"
+    },
+    {
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him? - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTJNaE03MDRCSmxDV1hyWWNOZ3d0VzdXaFNFZ1B6a0JuSlFFQ2hJTzdSY3FPaW9jdWxpWXNjUW9wSjJ2dXFnN3RwR0pQU1pCWEJaNU44WTRURFhJX2E0X2Y4TGxnaE1vTUplQS1wY2RnalBpbGpfREdKS1pyWlM0NTVqT1YyQUo2QWZpT3RwOTExNXI2UjNfT2FtNEFHUXBXaEU4Zml6ZTNDZTlwZVBucTVpcU5DU2hyWlE?oc=5",
+      "published_date": "2026-10-24T17:45:16+00:00"
+    },
+    {
+      "title": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
+      "source": "Euronews",
       "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
-      "published_date": "2026-10-24T14:06:15+00:00"
+      "url": "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race",
+      "published_date": "2026-10-24T17:19:15+00:00"
+    },
+    {
+      "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece",
+      "published_date": "2026-10-24T17:00:40+00:00"
+    },
+    {
+      "title": "Three days before election, Netanyahu warns Iran is preparing to destroy Israel - Ynetnews",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTkRuQUliVVZBYU5kYU5EeElZNEZPMFZFSU4zeUp6MmNwRUFnRV9xb0RZQVFQOEFpLURVVjhHZ2JJVlk1eDhvX01KX2RuMTI5UWRPUHNuaw?oc=5",
+      "published_date": "2026-10-24T16:38:12+00:00"
+    },
+    {
+      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+      "published_date": "2026-10-24T15:36:38+00:00"
     },
     {
       "title": "The heir to Jair: Flavio Bolsonaro battles to reclaim father’s rule of Brazil in razor-tight election",
       "source": "The Independent UK",
       "country": "Brazil",
       "url": "https://www.independent.co.uk/news/world/americas/who-is-flavio-bolsonaro-lula-brazil-elections-b3071434.html",
-      "published_date": "2026-10-24T13:48:14+00:00"
+      "published_date": "2026-10-24T15:02:31+00:00"
+    },
+    {
+      "title": "Au congrès du RN à Orléans, Jordan Bardella, seul candidat à sa succession, est réélu président du parti avec 98,98 % des voix",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
+      "published_date": "2026-10-24T14:06:15+00:00"
     },
     {
       "title": "Presidente Kast sostiene llamada telefónica con primer ministro británico y diálogo deriva en Malvinas",
@@ -130,11 +263,18 @@
       "published_date": "2026-10-24T09:41:56+00:00"
     },
     {
+      "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend?",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss",
+      "published_date": "2026-10-24T08:00:00+00:00"
+    },
+    {
       "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect - AP News",
       "source": "Google News World",
       "country": "Japan",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
-      "published_date": "2026-10-24T07:37:00+00:00"
+      "published_date": "2026-10-24T07:57:17+00:00"
     },
     {
       "title": "Debt: Moody's spares France, \"a brief respite\", not a \"vote of confidence\"",
@@ -163,6 +303,13 @@
       "country": "Brazil",
       "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-24T05:05:44+00:00"
+    },
+    {
+      "title": "Who is Gadi Eisenkot, Netanyahu’s main challenger in Israel’s elections? - CNN",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGRvNWRNOWZDWHhZUFZxaTNPZ3d6VXhYXzlMTG01aGdsdWQwTlU0VXp2cEtsbm9rNGJQNnp1UmFUdW1KeVh1Yk8tT1hJWmRodFI0UnVNMEh5YnoxMXh3elZuVEdwR254RlNQcVF5dmU4TW9MUTkwNWxxcUFzMmRBVUhZV05CU1hlWjYyWThNbw?oc=5",
+      "published_date": "2026-10-24T05:01:15+00:00"
     },
     {
       "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
@@ -2739,160 +2886,6 @@
       "country": "India",
       "url": "https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed",
       "published_date": "2026-10-11T05:19:50+00:00"
-    },
-    {
-      "title": "En Inde, le premier ministre Narendra Modi répond par la force, alors qu’il est défié par la jeunesse",
-      "source": "Le Monde France",
-      "country": "India",
-      "url": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
-      "published_date": "2026-10-11T00:11:41+00:00"
-    },
-    {
-      "title": "India detains thousands, locks down Delhi to foil election chief protest",
-      "source": "Japan Times",
-      "country": "India",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/politics/cockroach-members-detained/",
-      "published_date": "2026-10-10T23:45:00+00:00"
-    },
-    {
-      "title": "Trump apunta contra Zelensky y consolida su acercamiento a Moscú: “Es hora de un nuevo presidente”",
-      "source": "La Nacion Argentina",
-      "country": "Ukraine",
-      "url": "https://www.lanacion.com.ar/el-mundo/trump-apunta-contra-zelensky-y-consolida-su-acercamiento-a-moscu-es-hora-de-un-nuevo-presidente-nid10102026/",
-      "published_date": "2026-10-10T20:57:57+00:00"
-    },
-    {
-      "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-      "published_date": "2026-10-10T20:42:55+00:00"
-    },
-    {
-      "title": "Trump says Ukraine needs new president after Zelenskyy condemns Russia fuel deal",
-      "source": "Euronews",
-      "country": "Russia",
-      "url": "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal",
-      "published_date": "2026-10-10T19:38:05+00:00"
-    },
-    {
-      "title": "Trump says Ukraine needs a new president who will agree to end the war",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "published_date": "2026-10-10T19:32:37+00:00"
-    },
-    {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T19:28:28+00:00"
-    },
-    {
-      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-      "source": "BBC World",
-      "country": "Ukraine",
-      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T19:25:03+00:00"
-    },
-    {
-      "title": "Israel’s election is a choice between sanity and political survival - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-911080",
-      "published_date": "2026-10-10T18:53:49+00:00"
-    },
-    {
-      "title": "Trump tears into Zelensky: ‘Time for Ukraine to get a new president’",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-zelensky-ukraine-russia-putin-war-refineries-b3064647.html",
-      "published_date": "2026-10-10T18:53:28+00:00"
-    },
-    {
-      "title": "Trump calls for new president in Ukraine",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-      "published_date": "2026-10-10T18:50:23+00:00"
-    },
-    {
-      "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
-      "source": "South China Morning Post",
-      "country": "Ukraine",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
-      "published_date": "2026-10-10T18:31:07+00:00"
-    },
-    {
-      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year - AP News",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2M3dUc4WTQ4Q3IyNDY2bVg2ejJuZkR3NTlGdWluNzBpZmRtbFpPMlBFckpoVkZRMnViT2taZWp3UXl4MnhzSXkwY0t3UzhkckowUEN3NkRKWXlwbmYtN1RjUFZNTURROEVJc24xckxqb2VLVFktcG9ZcDNIRlJuVzhaWDJpeEMtaU9SdUh0UlVad29N?oc=5",
-      "published_date": "2026-10-10T18:19:00+00:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Trump calls for Zelensky to be ousted after striking Putin diesel deal",
-      "source": "The Independent UK",
-      "country": "Russia",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-strikes-bus-attack-b3063864.html",
-      "published_date": "2026-10-10T18:01:55+00:00"
-    },
-    {
-      "title": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
-      "published_date": "2026-10-10T17:39:46+00:00"
-    },
-    {
-      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
-      "published_date": "2026-10-10T16:31:01+00:00"
-    },
-    {
-      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
-      "published_date": "2026-10-10T16:09:13+00:00"
-    },
-    {
-      "title": "India detains thousands, locks down Delhi to foil election chief protest",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
-      "published_date": "2026-10-10T15:54:28+00:00"
-    },
-    {
-      "title": "BJP discrediting opposition for raising questions over Election Commission: Ashok Gehlot",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/bjp-discrediting-opposition-for-raising-questions-over-election-commission-ashok-gehlot/article71569089.ece",
-      "published_date": "2026-10-10T15:46:06+00:00"
-    },
-    {
-      "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
-      "published_date": "2026-10-10T15:37:28+00:00"
-    },
-    {
-      "title": "Palestinian leader Abbas postpones elections to September 2027",
-      "source": "South China Morning Post",
-      "country": "Palestine",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3370455/palestinian-leader-abbas-postpones-elections-september-2027?utm_source=rss_feed",
-      "published_date": "2026-10-10T15:09:00+00:00"
-    },
-    {
-      "title": "Abbas postpones Palestinian legislative elections to September 2027",
-      "source": "Al Jazeera English",
-      "country": "Palestine",
-      "url": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
-      "published_date": "2026-10-10T14:18:09+00:00"
     }
   ]
 }
