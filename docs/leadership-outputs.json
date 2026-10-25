@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-25T00:49:35.612871+00:00",
-    "story_count": 404,
+    "last_updated": "2026-10-25T14:54:08.548144+00:00",
+    "story_count": 413,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,216 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Netanyahu shares AI-generated image of nuclear explosion in Tel Aviv, two days before election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912797",
+      "published_date": "2026-10-25T15:55:34+00:00"
+    },
+    {
+      "title": "How will the Israeli election work and when will the result be announced?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-netanyahu-middle-east-gaza-lebanon-iran-b3072110.html",
+      "published_date": "2026-10-25T14:43:43+00:00"
+    },
+    {
+      "title": "Brazilians head to the polls to vote in tense  Lula vs Bolsonaro runoff election",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-lula-bolsonaro-trump-b3072964.html",
+      "published_date": "2026-10-25T14:42:28+00:00"
+    },
+    {
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "published_date": "2026-10-25T14:41:17+00:00"
+    },
+    {
+      "title": "Presidential runoff under way in Brazil",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
+      "published_date": "2026-10-25T13:52:44+00:00"
+    },
+    {
+      "title": "Le Pen leads polls with up to 38% six months before election",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+      "published_date": "2026-10-25T13:51:14+00:00"
+    },
+    {
+      "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
+      "source": "France 24 English",
+      "country": "Indonesia",
+      "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
+      "published_date": "2026-10-25T12:48:31+00:00"
+    },
+    {
+      "title": "Israel votes in first election since 7 October attacks and Gaza war – could Netanyahu lose power?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/tv/news/israel-elections-gaza-west-bank-netanyahu-eisenkot-b3072827.html",
+      "published_date": "2026-10-25T12:47:45+00:00"
+    },
+    {
+      "title": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+      "published_date": "2026-10-25T12:46:02+00:00"
+    },
+    {
+      "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+      "published_date": "2026-10-25T12:01:34+00:00"
+    },
+    {
+      "title": "Polls open in Brazil presidential runoff",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
+      "published_date": "2026-10-25T11:40:38+00:00"
+    },
+    {
+      "title": "Israel: Demonstrators rally against government ahead of election",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
+      "published_date": "2026-10-25T11:38:01+00:00"
+    },
+    {
+      "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+      "published_date": "2026-10-25T11:21:13+00:00"
+    },
+    {
+      "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
+      "published_date": "2026-10-25T11:18:55+00:00"
+    },
+    {
+      "title": "Bulgaria votes for president in election dominated by Ukraine war and the economy",
+      "source": "Euronews",
+      "country": "Ukraine",
+      "url": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
+      "published_date": "2026-10-25T10:59:15+00:00"
+    },
+    {
+      "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
+      "published_date": "2026-10-25T10:33:58+00:00"
+    },
+    {
+      "title": "Israel braces for rainy Election Day, but can bad weather affect voter turnout?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912746",
+      "published_date": "2026-10-25T10:28:43+00:00"
+    },
+    {
+      "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger - Fox News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaERTVlQ2SEhXTU4xOUFEUFJCcUk0QzlNX1g0X1NCS2dOQ2RXUFB3ZGFZMHBIN2lsMXlyYUpxQVZoYmVTY2ZXUVFESEpGeWlVU2lOZ1B0Qmo1T0ZpWlI1Unk0ZmhmU0F1OUFjVnVqTEdONXR1NlAxSTZSMVpsTTQzQWUwRDBjZXozSTVmMDZRalhwUl9oQmh3aHg5RmZOUDFxVUtGMS02Z1BoOHdhNElyMHk2MDlxeGvSAbwBQVVfeXFMTldSb3FJWXJlUlVGckxjN1NvQS02WVZTSzk3ZlAzay1mT00tM3luZTBwbmZFbVBVaDNxY2pnV3dSRG9tbFkwV0c2TVMtaG9EOGpmQXBxc3FvSTBQZHdXbnFnVDRPSzRaTnd0VjZHdU9HR21kbjFkZzk1bVA3Uk93UlVhdFg3cldtSllwRG9lUElxQ29nT2tXWno2X3VIWFloaU1OaEhSUW9GaUhVdHpzdXI4ck5uNGZtLWRQclA?oc=5",
+      "published_date": "2026-10-25T10:00:15+00:00"
+    },
+    {
+      "title": "After Netanyahu meets police chief, Israel's elections head warns against vote interference",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912753",
+      "published_date": "2026-10-25T09:48:36+00:00"
+    },
+    {
+      "title": "Israeli elections poll tracker: Three scenarios that could play out as Netanyahu faces losing power",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-poll-tracker-netanyahu-b3071544.html",
+      "published_date": "2026-10-25T09:12:40+00:00"
+    },
+    {
+      "title": "The key players in Israel’s first election since October 7 attacks as Netanyahu fights for his political life",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-benjamin-netanyahu-gadi-eisenkot-b3069994.html",
+      "published_date": "2026-10-25T09:10:27+00:00"
+    },
+    {
+      "title": "Ernesto Ottone: “El Presidente debe transmitir seguridad, protección y esperanza. Y eso no ocurre con Kast”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/ernesto-ottone-el-presidente-debe-transmitir-seguridad-proteccion-y-esperanza-y-eso-no-ocurre-con-kast/",
+      "published_date": "2026-10-25T09:00:01+00:00"
+    },
+    {
+      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
+      "published_date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+      "title": "Indigenous communities worry Brazil’s election could hurt environment",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
+      "published_date": "2026-10-25T08:54:47+00:00"
+    },
+    {
+      "title": "Israeli military conducts massive West Bank operation, days before Israel election",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss",
+      "published_date": "2026-10-25T08:31:01+00:00"
+    },
+    {
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-25T07:19:00+00:00"
+    },
+    {
+      "title": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
+      "published_date": "2026-10-25T06:05:34+00:00"
+    },
+    {
+      "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "published_date": "2026-10-25T06:00:54+00:00"
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T05:15:52+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader directs judiciary to pursue US-Israeli war reparations",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-directs-judiciary-pursue-us-israeli-war-reparations",
+      "published_date": "2026-10-25T04:50:24+00:00"
+    },
     {
       "title": "Thousands rally in Tel Aviv against Netanyahu ahead of elections",
       "source": "Middle East Eye",
@@ -415,13 +625,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/opinion/article-912425",
       "published_date": "2026-10-23T16:51:31+00:00"
-    },
-    {
-      "title": "How will the Israeli election work and when will the result be announced?",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-netanyahu-middle-east-gaza-lebanon-iran-b3072110.html",
-      "published_date": "2026-10-23T15:23:49+00:00"
     },
     {
       "title": "For weeks, deepfake celebrities have been telling Americans not to vote for Democrats in the midterm elections. U.S. intelligence says Russia is behind it.",
@@ -2746,146 +2949,6 @@
       "country": "Chile",
       "url": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-anota-un-27-y-su-desaprobacion-se-ubica-en-el-64/",
       "published_date": "2026-10-11T15:08:34+00:00"
-    },
-    {
-      "title": "India's 'cockroach' leaders vow to keep up election protests",
-      "source": "France 24 English",
-      "country": "India",
-      "url": "https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests",
-      "published_date": "2026-10-11T14:40:27+00:00"
-    },
-    {
-      "title": "Russian forces attack energy facility in Kyiv, emergency power cuts hit four districts",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4173291-russian-forces-attack-energy-facility-in-kyiv-emergency-power-cuts-hit-four-districts.html",
-      "published_date": "2026-10-11T14:38:00+00:00"
-    },
-    {
-      "title": "'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u",
-      "published_date": "2026-10-11T14:19:57+00:00"
-    },
-    {
-      "title": "Pakistan imposes emergency in stronghold of jailed ex-PM Imran Khan",
-      "source": "South China Morning Post",
-      "country": "Pakistan",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
-      "published_date": "2026-10-11T13:53:51+00:00"
-    },
-    {
-      "title": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
-      "source": "Sky News World",
-      "country": "Pakistan",
-      "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
-      "published_date": "2026-10-11T13:48:00+00:00"
-    },
-    {
-      "title": "Brazil 2026 elections: Polls have Bolsonaro up in the runoff. Can Lula still win?",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/brazil-2026-elections-polls-have-bolsonaro-up-in-the-runoff-can-lula-still-win",
-      "published_date": "2026-10-11T13:38:34+00:00"
-    },
-    {
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "published_date": "2026-10-11T13:29:31+00:00"
-    },
-    {
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "published_date": "2026-10-11T13:28:58+00:00"
-    },
-    {
-      "title": "Trump and Iran both say US Midterm Elections not a factor in peace talks - Fox News",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWk3NHpFellMTnZLVmdDd1JRdGVvdWlYNjFvSDBTN2FlRm5zV0dQT1ktaVNxbC1fTThkeUZJMVR6Y1c4dU1pZjI4RUNYN2FyRVRHcUhiY2VYbjZncFh3cUFkYWNYc1c2anhER09rSUEzRWRDUUwyUWduRkN1RGdvYWNMY3lxWU9vRXlZSGhR?oc=5",
-      "published_date": "2026-10-11T13:14:09+00:00"
-    },
-    {
-      "title": "Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
-      "published_date": "2026-10-11T13:12:09+00:00"
-    },
-    {
-      "title": "Abbas delays Palestinian elections again, making more than two decades without vote - Fox News",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlgtdkg0TG1UV1lVTVQxQlluZW9VU3liNXZheWxXbEpHTl9vOVJqV1Ezek9JdVNIbVlXN29EZC1aTjB6TXFBak9JQ3hma2s4am9nTWI2dEdrQkloMG5wdjRXeC1QeHpkOFR3WGFrR2gwZ2ZRV2d1UXR0NzRXMFVzS2s3UWNvWEFZTy1iZGhlSEZSRzBRSldwMHJ4dFlUU2V2a3hGM1FERzVNZGhLcGhXQ0FR0gG3AUFVX3lxTE9pMmJvWEg2TEFUU0RmMy16ZDFuLTRYV0xpSlBWSnNobllEbzZYLVdzQkxBSkwzUUJic0NjRVlvQk1HSGlWRHlmRjA4VG9vaFU3RGpUZUJRV1o5bWpKNnVWaGhDREZ3YlFBSVpyNWFjdkdfMXQ4V3ZELUNVeXJIT090Y2xiZWtWS2p4QjZzdmVmd3ZWblRQQjJLTDRPWWZfSF9UdHczQkV3QzJhZFhJRnowVmh0clpBdw?oc=5",
-      "published_date": "2026-10-11T12:22:06+00:00"
-    },
-    {
-      "title": "Trump tears into Zelensky: ‘Time for Ukraine to get a new president’",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-zelensky-putin-russia-ukraine-oil-refineries-b3065186.html",
-      "published_date": "2026-10-11T11:06:00+00:00"
-    },
-    {
-      "title": "Trump says Ukraine needs new president who will agree to end war",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
-      "published_date": "2026-10-11T10:28:56+00:00"
-    },
-    {
-      "title": "2027: North-central state governors endorse Tinubu for re-election",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/916099-2027-north-central-state-governors-endorse-tinubu-for-re-election.html",
-      "published_date": "2026-10-11T09:05:25+00:00"
-    },
-    {
-      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-      "source": "The Guardian World",
-      "country": "Panama",
-      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
-      "published_date": "2026-10-11T06:56:08+00:00"
-    },
-    {
-      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities - The Guardian",
-      "source": "Google News World",
-      "country": "Panama",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdndVRGtJUWRIaGNvcjlLN0J4aDdtU0swaW8xVk0wYlRaQk54Ym83d0FrYUNIeE5QUWExSHlwSUpaOHdUT2VRNWJDbFdFRXVVck5XdHhxc2RRX050NDNfdnBuaUpxUFNTUV9TcFNWRlhvaGtQNWdTNG1wUG8wQUlZNUFSdXp1VUx6?oc=5",
-      "published_date": "2026-10-11T06:56:00+00:00"
-    },
-    {
-      "title": "Teen revolt or revolution? The student protests threatening France's presidential race",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race",
-      "published_date": "2026-10-11T06:00:35+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella define la hoja de ruta a seguir para la participación de Colombia en el Consejo de Seguridad de la ONU",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-define-la-hoja-de-ruta-a-seguir-para-la-participacion-de-colombia-en-el-consejo-de-seguridad-de-la-onu-3592849",
-      "published_date": "2026-10-11T05:32:48+00:00"
-    },
-    {
-      "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
-      "source": "CBC News World",
-      "country": "Panama",
-      "url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430?cmp=rss",
-      "published_date": "2026-10-11T05:20:14+00:00"
-    },
-    {
-      "title": "India’s cockroach party leaders freed as election chief protests mount",
-      "source": "South China Morning Post",
-      "country": "India",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed",
-      "published_date": "2026-10-11T05:19:50+00:00"
     }
   ]
 }
