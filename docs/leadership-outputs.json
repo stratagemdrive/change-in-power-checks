@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-27T01:51:59.143450+00:00",
-    "story_count": 491,
+    "last_updated": "2026-10-27T16:18:10.320477+00:00",
+    "story_count": 530,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,347 @@
   },
   "stories": [
     {
+      "title": "Likud officials sound alarm over voter apathy as Israel sees record-high election turnout",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913046",
+      "published_date": "2026-10-27T17:40:02+00:00"
+    },
+    {
+      "title": "How is the Western world reporting on Israel's 26th Knesset elections?",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913040",
+      "published_date": "2026-10-27T16:57:46+00:00"
+    },
+    {
+      "title": "Congress alleges hurdles to INDIA bloc’s proposed ‘public impeachment’ of CEC Gyanesh Kumar on October 30",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/congress-alleges-hurdles-to-india-blocs-proposed-public-impeachment-of-cec-gyanesh-kumar-on-october-30/article71632378.ece",
+      "published_date": "2026-10-27T16:05:52+00:00"
+    },
+    {
+      "title": "Brazilian police probe claims Flávio Bolsonaro fled to Argentina after election defeat",
+      "source": "Euronews",
+      "country": "Argentina",
+      "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
+      "published_date": "2026-10-27T16:03:31+00:00"
+    },
+    {
+      "title": "Israel Holds Critical Election, Trump Blasts Ruling Blocking DC Golf Course Alterations: Live Updates - HuffPost",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1naVFBQkZVTjhTSDRJVmtZMlhFNlZXX0pTOWhEUnhYQkw1d3JRZi1VVUkyRi1wU1BOeXVENTk1NHR0UmdORTliU2xMTF9NeVJMVDVFYjF2bzIyd2xwM2RMa1hSQ00xM0owZVIwOURKVVBjb2Uya0Rma0x30gF_QVVfeXFMT2IwYTJ5TG80Q0c1NmotYkJfNnplT0J0bV9rdXk5ZDZQcHFDcU5wRlo3c3pxYmFtQUt0cFNOSWxrMHNyOWNtUzAtaXVPMTU2RVlrU244VTJwM2V1ZE5BQUx2QkdxLXdoV2x0TFowTGFoaUh5aWxqR09keHFXbWZZdw?oc=5",
+      "published_date": "2026-10-27T16:00:00+00:00"
+    },
+    {
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "published_date": "2026-10-27T15:59:32+00:00"
+    },
+    {
+      "title": "Israel Election Live Updates: Record Voter Turnout as Netanyahu Faces Challenge Led by Eisenkot - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUTJ0MEpwV0JKTERtX2pIX0ktV2FvM3owbDV0TktEcVdwRThUQzRjbnZNRWR6aGNKRlhxdTNSdG1BRHlTR2VSTWpqLU5kcEZiaDBXcTE1NU80MnNGb044NngzQzRiSFYyc183bTdPdw?oc=5",
+      "published_date": "2026-10-27T15:56:00+00:00"
+    },
+    {
+      "title": "Elections législatives israéliennes : duel Netanyahu-Eisenkot pour le pouvoir",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-duel-netanyahu-eisenkot-pour-le-pouvoir",
+      "published_date": "2026-10-27T15:44:14+00:00"
+    },
+    {
+      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published_date": "2026-10-27T15:43:12+00:00"
+    },
+    {
+      "title": "🔴Live: Netanyahu's party asks to extend Israeli election hours amid record turnout",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+      "published_date": "2026-10-27T15:39:28+00:00"
+    },
+    {
+      "title": "Israel election turnout highest in 50 years as voting continues",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+      "published_date": "2026-10-27T15:20:48+00:00"
+    },
+    {
+      "title": "Israel votes in decisive election: What happens after polls close?",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
+      "published_date": "2026-10-27T14:55:49+00:00"
+    },
+    {
+      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+      "source": "NPR World",
+      "country": "Brazil",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "published_date": "2026-10-27T14:41:17+00:00"
+    },
+    {
+      "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis - CBS News",
+      "source": "Google News World",
+      "country": "Egypt",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0ktWWprVTV3bjlvb05YbXU5UU5DbHBXNWs4dmZzMFNab3BmSTQyejhwTk5jNmRZVDd4N3doRkdBU3BQTGU1SjBLOUFMc21xN21MSWRTVkdZV05QaS1fdUVoOHFScFp3NnotcTV3NHlfRW1iaGNDR1B3eGlvSkJDTEwwWUQ3ajNYVzhBQlZfMzN2TnVxOFh5aw?oc=5",
+      "published_date": "2026-10-27T14:02:00+00:00"
+    },
+    {
+      "title": "‘We bear the consequences’: Diaspora Jews fear fallout from Israel’s election - interview",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913031",
+      "published_date": "2026-10-27T14:01:39+00:00"
+    },
+    {
+      "title": "Israel election 2026 live: Betting markets predicting stunning Netanyahu defeat despite Trump’s backing",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-trump-iran-netanyahu-results-live-updates-b3074001.html",
+      "published_date": "2026-10-27T13:46:47+00:00"
+    },
+    {
+      "title": "Elections législatives israéliennes : Netanyahu à l'épreuve des urnes",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-netanyahu-%C3%A0-l-%C3%A9preuve-des-urnes",
+      "published_date": "2026-10-27T13:43:51+00:00"
+    },
+    {
+      "title": "Will elections in Israel change its Iran approach?",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-27T13:31:00+00:00"
+    },
+    {
+      "title": "Iranians brace for renewed attacks after Israeli, US elections",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
+      "published_date": "2026-10-27T13:23:32+00:00"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le premier ministre suédois rappelle que tout accord de paix doit être conclu selon les conditions de Kiev",
+      "source": "Le Monde France",
+      "country": "Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-des-coupures-d-electricite-dans-sept-oblasts-a-la-suite-d-attaques-russes-contre-les-infrastructures-energetiques_6799896_3210.html",
+      "published_date": "2026-10-27T13:18:11+00:00"
+    },
+    {
+      "title": "Knife-wielding man detained after approaching Democrats' Golan during Election Day tour in Tel Aviv",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913026",
+      "published_date": "2026-10-27T13:13:36+00:00"
+    },
+    {
+      "title": "Defeated Brazilian presidential candidate 'ordered to hand over passports'",
+      "source": "Sky News World",
+      "country": "Brazil",
+      "url": "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365",
+      "published_date": "2026-10-27T13:01:00+00:00"
+    },
+    {
+      "title": "Israeli election: A referendum on 'Bibi' Netanyahu?",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+      "published_date": "2026-10-27T12:52:40+00:00"
+    },
+    {
+      "title": "Mike Huckabee criticised for distinguishing between Israelis and 'Arabs' in elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mike-huckabee-criticised-distinguishing-between-israelis-and-arabs",
+      "published_date": "2026-10-27T12:38:49+00:00"
+    },
+    {
+      "title": "The silent war: As Israel chooses a new leader Gazans wait for life to begin again",
+      "source": "The Telegraph UK",
+      "country": "Israel",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/as-israel-chooses-new-leader-gazans-wait-for-life-to-begin/",
+      "published_date": "2026-10-27T12:00:00+00:00"
+    },
+    {
+      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+      "published_date": "2026-10-27T11:39:52+00:00"
+    },
+    {
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T11:11:33+00:00"
+    },
+    {
+      "title": "Netanyahu tipped for huge Israeli election loss as markets favour opposition leader Gadi Eisenkot",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-polls-netanyahu-gadi-eisenkot-b3074032.html",
+      "published_date": "2026-10-27T10:51:27+00:00"
+    },
+    {
+      "title": "Indonesia’s 4-nation defence pact: strategic coup or paper tiger?",
+      "source": "South China Morning Post",
+      "country": "Indonesia",
+      "url": "https://www.scmp.com/week-asia/politics/article/3372306/indonesias-4-nation-defence-pact-strategic-coup-or-paper-tiger",
+      "published_date": "2026-10-27T10:30:06+00:00"
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T10:17:36+00:00"
+    },
+    {
+      "title": "Win or lose, Netanyahu could remain in power for months after Israeli election as Iran tensions loom",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "https://www.euronews.com/2026/10/27/win-or-lose-netanyahu-could-remain-in-power-for-months-after-israeli-election-as-iran-tens",
+      "published_date": "2026-10-27T09:41:26+00:00"
+    },
+    {
+      "title": "When will the Israel election results be announced and is there an exit poll?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-exit-poll-results-time-b3074004.html",
+      "published_date": "2026-10-27T09:39:15+00:00"
+    },
+    {
+      "title": "Israel to give verdict on Netanyahu in pivotal election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2040163/israel-to-give-verdict-on-netanyahu-in-pivotal-election",
+      "published_date": "2026-10-27T09:34:16+00:00"
+    },
+    {
+      "title": "Israelis are voting in one of the country’s most critical elections",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/israelis-are-voting-in-one-of-the-countrys-most-critical-elections/",
+      "published_date": "2026-10-27T09:27:39+00:00"
+    },
+    {
+      "title": "Israel braces for an election each side warns could bring ruin",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
+      "published_date": "2026-10-27T09:20:04+00:00"
+    },
+    {
+      "title": "Israelis head to polls in first general election since 7 October attacks with no clear favourite",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
+      "published_date": "2026-10-27T09:12:16+00:00"
+    },
+    {
+      "title": "Chin forces resist Myanmar junta’s offensive in southern Chin",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/chin-forces-resist-myanmar-juntas-offensive-in-southern-chin/",
+      "published_date": "2026-10-27T08:33:27+00:00"
+    },
+    {
+      "title": "Likud said already preparing to allege election was ‘stolen’ if Netanyahu loses - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUks4YnRSTnYzZTkyWU92MzdJVmV0MHJ5Ym1RTDQ5cE9VUmtETkhzRnVVSm44TW81WGZlSTZocXJlNmplZE9pd3hNZjc5M0Ewbkx5MWMzbEI1M1BUQXdrT2dpT1VLWk9BNGNPUzUxdEQxbjdNeG9laXNWMmtKMmxkd0ZKa1VqdG1qU3VFUFlZWWxIWEFyLWkzenVkeWZwZmtTR1ZVN3RHSm9USDA50gGyAUFVX3lxTE9IcTBPdDF1RVJRTFlpVnQ3bm5nSHZhZ2ZqYmt2cFZZeUJIeFB4YVU1V3dOYnhPTDZHeVhBLU8wWUUwNU9QZFNyOVZ3R0xoazZoRXNycjVzWWFfM000d2FORmRKaC1fQlhUWDVROXRkRlRMc2x4TTZPcE5WTUh6c1o2cW10U2k0aW14Sm9ES28taGp1N1RWQ1VtZjRwYXlqY2p2TXZiY1VpdllRQlo4VnVrM1E?oc=5",
+      "published_date": "2026-10-27T07:40:24+00:00"
+    },
+    {
+      "title": "A pivotal election in Israel, and Netanyahu’s next test",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/10/27/a-pivotal-election-in-israel-and-netanyahus-next-test",
+      "published_date": "2026-10-27T07:25:13+00:00"
+    },
+    {
+      "title": "Israelis vote in tense election testing Netanyahu’s grip on power",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372273/israelis-vote-tense-election-testing-netanyahus-grip-power",
+      "published_date": "2026-10-27T07:00:49+00:00"
+    },
+    {
+      "title": "Election Day: A complete guide to Israel’s political parties and what they stand for",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912590",
+      "published_date": "2026-10-27T06:32:50+00:00"
+    },
+    {
+      "title": "Israelis shatter turnout records in election that will pass wartime judgment on Netanyahu",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-election-9.7397565?cmp=rss",
+      "published_date": "2026-10-27T06:16:11+00:00"
+    },
+    {
+      "title": "October 7 terror attacks loom large over Israel’s elections as Netanyahu fights for his future",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-netanyahu-october-7-attack-b3073877.html",
+      "published_date": "2026-10-27T06:06:25+00:00"
+    },
+    {
+      "title": "A quick guide to Israel's high-stakes election",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+      "published_date": "2026-10-27T04:54:30+00:00"
+    },
+    {
+      "title": "South Korean drama ‘Doctor X’ triggers fresh row over Gwangju Uprising depiction",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3372238/south-korean-drama-doctor-x-triggers-fresh-row-over-gwangju-uprising-depiction",
+      "published_date": "2026-10-27T04:02:07+00:00"
+    },
+    {
+      "title": "HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more",
+      "source": "Hindustan Times",
+      "country": "Brazil",
+      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-27-india-calls-for-veto-powers-for-unsc-members-trumps-brazil-election-rigged-claim-and-more-101793069018388.html",
+      "published_date": "2026-10-27T03:10:21+00:00"
+    },
+    {
+      "title": "Report: Zamir the only security chief to oppose pre-election military action against Iran - The Times of Israel",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2pPXzlNWGJEWWVaOGxZU2dNYWw5RDJUbnlIdVBFVk5Ia2ZLcFd2Y0cyaE81Vlotc3FaWFQ5SVRSM1FFTVFpSURDaW85TWkwNkxKV2NlaU5EcmhDUG52WnpDOGVtOUtSbGllNmpDZDcxYU44eTUzNm1HT2s2ZEFHQU12TmZ1a3QxajZwWmxaZGJ2d1FKMG55cVMydEIta2hJb01NNU1DdldjUlRRa3hDTmxwSUlvTjNRUTBV0gHAAUFVX3lxTE4wOG92VGNRS3BHVDhTWGVvaEpPTEluWXlwZHVtaEF5T1VOWjltTnpUYXk4enVmQ0ljZFdtSkw2NTdpTzhKdHIwYzVEejVCcy1qVW1MS1JVTG02ZTd1aGxMRFkxMVJVOFNscXRfeWtQRVdRNUFFZ1hDUlJPOHpRSnBaa185UlNhbHczNjBzQ1JpeVZfOTBwU0laeW52clJ6ZnlqaXlLSlJFUVBRNWZ4NEJubWpHSnNDcWg5VGRMOHFMaQ?oc=5",
+      "published_date": "2026-10-27T02:31:58+00:00"
+    },
+    {
       "title": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
       "source": "Jerusalem Post",
       "country": "Brazil",
       "url": "https://www.jpost.com/international/article-912985",
       "published_date": "2026-10-27T01:46:32+00:00"
+    },
+    {
+      "title": "MLC election results 2026 LIVE: Yogi's BJP wins 2 seats in UP, Akhilesh's SP ahead in 3 as counting continues",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-counting-votes-up-bihar-maharashtra-karnataka-bjp-congress-sp-eci-101793063321273.html",
+      "published_date": "2026-10-27T01:43:04+00:00"
     },
     {
       "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
@@ -81,18 +417,18 @@
       "published_date": "2026-10-27T00:59:00+00:00"
     },
     {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "source": "BBC World",
+      "country": "Venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T00:31:11+00:00"
+    },
+    {
       "title": "El Partido Liberal de Flávio Bolsonaro reconoce la reelección de Lula da Silva como presidente de Brasil",
       "source": "CiberCuba",
       "country": "Brazil",
       "url": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343910-partido-liberal-flavio-bolsonaro-reconoce-reeleccion",
       "published_date": "2026-10-27T00:18:00+00:00"
-    },
-    {
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "published_date": "2026-10-27T00:00:03+00:00"
     },
     {
       "title": "Bolsonaro says police demand passports after Brazil election defeat",
@@ -107,6 +443,20 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912979",
       "published_date": "2026-10-26T23:00:24+00:00"
+    },
+    {
+      "title": "Brazil elections: Did a WhatsApp channel help get Lula re-elected? - BBC",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMeVRmNlFvTWcxcGViS2o0NFZWOFMyWFM2eV9KZlEtdkM2WjVkSUk4dlhRSTIwU3d2X3d4Ni1CM2FmTDA5WFc4S0o5aFhxZV9TMmdPVG5xcG8?oc=5",
+      "published_date": "2026-10-26T22:15:39+00:00"
+    },
+    {
+      "title": "Trump allies fall in two elections as Netanyahu faces next test - Axios",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE5KdnJDMTdZV3B4bW5BVDFBcFoxUWN4OXlDQ2t3UmFlSkRqQ3lOZE9QR0dNMzkwYnJGNFdLaUFQVGtvOXAwcEJpaG44T3pfOWlEbXBEeWloV3dDS05fX0NWcU93UlNhbFZjSWltcnRfcGZQenVZbXZONGo2aGJCNTdqOGhzTUl3dU9CZmRqYw?oc=5",
+      "published_date": "2026-10-26T21:45:30+00:00"
     },
     {
       "title": "Trump says Brazil election looked 'rigged' without giving evidence",
@@ -135,13 +485,6 @@
       "country": "Israel",
       "url": "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel",
       "published_date": "2026-10-26T20:43:39+00:00"
-    },
-    {
-      "title": "Trump allies fall in two elections as Netanyahu faces next test - Axios",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE5KdnJDMTdZV3B4bW5BVDFBcFoxUWN4OXlDQ2t3UmFlSkRqQ3lOZE9QR0dNMzkwYnJGNFdLaUFQVGtvOXAwcEJpaG44T3pfOWlEbXBEeWloV3dDS05fX0NWcU93UlNhbFZjSWltcnRfcGZQenVZbXZONGo2aGJCNTdqOGhzTUl3dU9CZmRqYw?oc=5",
-      "published_date": "2026-10-26T20:33:25+00:00"
     },
     {
       "title": "Brazil's election ignites MAGA's midterm warnings",
@@ -186,6 +529,13 @@
       "published_date": "2026-10-26T19:30:00+00:00"
     },
     {
+      "title": "Netanyahu election win could spell early exit for IDF chief Zamir - Ynetnews",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTmVvdmVheTNVRG10YlI2eWtOb3l0aUsxN1paVUxEZHA3QjltWlFXZEdFM0o5VUlwV2hhRE9Ha2hzTk4xelFjREJFU3VxejhXLXV2S3B3?oc=5",
+      "published_date": "2026-10-26T19:22:34+00:00"
+    },
+    {
       "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
       "source": "The Guardian World",
       "country": "Iran",
@@ -212,6 +562,13 @@
       "country": "Brazil",
       "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
       "published_date": "2026-10-26T18:27:23+00:00"
+    },
+    {
+      "title": "A cartoonist takes Japan’s new imperial succession law to court over male-only heirs - AP News",
+      "source": "Google News World",
+      "country": "Japan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJwTzFoOGxkcG1KdWxZeEdOdE5CM1UzVFp4TWxBWTJlX2FVclhVb2pLNjR3ZnY1VlNGWWRBSWhDdE44Z0NfLTloUnR2MDM3d1NKSy1Uck43am1xb3RHV0xCaFdaS0FHNTFJT1JaZWxycDNoTFpPSEJSOUQwZ2liM2s5UFFFVmEzSkhtemRyWHU1TWxIeXl5Mg?oc=5",
+      "published_date": "2026-10-26T17:42:00+00:00"
     },
     {
       "title": "Brazil: What does Lula's re-election mean for the Amazon?",
@@ -576,6 +933,13 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-912866",
       "published_date": "2026-10-26T08:19:26+00:00"
+    },
+    {
+      "title": "Macron leads congratulations to Lula over election victory in Brazil",
+      "source": "RFI English",
+      "country": "Brazil",
+      "url": "https://www.rfi.fr/en/international/20261026-france-s-macron-leads-congratulations-for-bolsonaro-s-presidential-win-in-brazil",
+      "published_date": "2026-10-26T08:18:59+00:00"
     },
     {
       "title": "From rare earths to trade and the Global South: What Lula’s re-election in Brazil means for India",
@@ -3404,97 +3768,6 @@
       "country": "Russia",
       "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
       "published_date": "2026-10-13T16:23:21+00:00"
-    },
-    {
-      "title": "L. Murugan resigns from Ministry, Rajya Sabha seat, setting off buzz about a pre-Deepavali Cabinet reset",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/union-minister-l-murugan-resigns-wishes-to-return-to-tamil-nadu-to-strengthen-bjp-in-state/article71579815.ece",
-      "published_date": "2026-10-13T15:36:27+00:00"
-    },
-    {
-      "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
-      "published_date": "2026-10-13T15:15:45+00:00"
-    },
-    {
-      "title": "Russian Court Hands Exiled YouTuber Michael Nacke Combined 14-Year Sentence",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/10/13/russian-court-hands-exiled-youtuber-michael-nacke-combined-14-year-sentence-a93965",
-      "published_date": "2026-10-13T14:17:36+00:00"
-    },
-    {
-      "title": "Armenian opposition politicians defect to ruling party ahead of local elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-opposition-politicians-defect-to-ruling-party-ahead-of-local-elections/",
-      "published_date": "2026-10-13T13:56:23+00:00"
-    },
-    {
-      "title": "Canada, allies say they 'deeply regret' Palestinian elections being postponed",
-      "source": "CBC News World",
-      "country": "Canada",
-      "url": "https://www.cbc.ca/news/politics/canada-palestine-elections-9.7379044?cmp=rss",
-      "published_date": "2026-10-13T13:51:28+00:00"
-    },
-    {
-      "title": "L Murugan resigns as union minister, Rajya Sabha member: ‘Want to strengthen BJP in Tamil Nadu’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/l-murugan-resigns-as-union-minister-rajya-sabha-member-want-to-strengthen-bjp-in-tamil-nadu-pm-modi-101791894406846.html",
-      "published_date": "2026-10-13T12:33:07+00:00"
-    },
-    {
-      "title": "How do Israeli elections work? A guide to voting, Knesset seats, and coalitions - explainer",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-911522",
-      "published_date": "2026-10-13T10:35:21+00:00"
-    },
-    {
-      "title": "Six civilians killed in Myanmar junta airstrikes on monastery and villages in Sagaing",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/six-civilians-killed-in-myanmar-junta-airstrikes-on-monastery-and-villages-in-sagaing/",
-      "published_date": "2026-10-13T09:30:29+00:00"
-    },
-    {
-      "title": "Germany news: Left-leaning Berlin coalition talks break down - DW.com",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTltalZ1NXRqZmdOZ2ZZWHhnWXVja20yY2diT3FKX3NtbVZwTXQ0ZW4takJHX0NKbzIwRlhVWGo2VjR3ZzNSYXZQTFR6aVBvRXNwM2MxcGxTTVpOVFJfaTZqLXBCb1FyY21DbHJyaWZhU2pSMkdXRllvcUJfZWVVZVdnNU9nNF9KbGRVWmlHYlEzQVpseG5WeDJJWQ?oc=5",
-      "published_date": "2026-10-13T08:07:43+00:00"
-    },
-    {
-      "title": "India youth shift tactics as police clamp down on election protest",
-      "source": "Dawn Pakistan",
-      "country": "India",
-      "url": "https://www.dawn.com/news/2036839/india-youth-shift-tactics-as-police-clamp-down-on-election-protest",
-      "published_date": "2026-10-13T06:03:17+00:00"
-    },
-    {
-      "title": "India’s youth shift tactics as police clamp down on election protest",
-      "source": "Japan Times",
-      "country": "India",
-      "url": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/politics/india-youth-tactics/",
-      "published_date": "2026-10-13T04:21:00+00:00"
-    },
-    {
-      "title": "Canadians are still boycotting Las Vegas. The Sin City slump is now a major election issue",
-      "source": "CBC News World",
-      "country": "Canada",
-      "url": "https://www.cbc.ca/news/world/canadians-boycotting-las-vegas-election-issue-9.7375873?cmp=rss",
-      "published_date": "2026-10-13T04:00:00+00:00"
-    },
-    {
-      "title": "Trump says US midterm elections will not impact approach to war on Iran",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-midterm-elections-will-not-impact-approach-war-iran",
-      "published_date": "2026-10-13T01:51:10+00:00"
     }
   ]
 }
