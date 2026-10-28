@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-28T02:05:49.671686+00:00",
-    "story_count": 572,
+    "last_updated": "2026-10-28T17:05:15.958505+00:00",
+    "story_count": 614,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,7 +60,399 @@
   },
   "stories": [
     {
-      "title": "Israeli Arab political power rising with elections, challenging world’s assumptions - analysis",
+      "title": "Netanyahu's Likud alleges Arab parties 'stole' Israeli election, demands investigation",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913133",
+      "published_date": "2026-10-28T17:29:44+00:00"
+    },
+    {
+      "title": "Netanyahu set to remain caretaker prime minister after inconclusive Israeli election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2040402/netanyahu-set-to-remain-caretaker-prime-minister-after-inconclusive-israeli-election",
+      "published_date": "2026-10-28T16:57:49+00:00"
+    },
+    {
+      "title": "Israel election results signal political deadlock , raising three possible post-election scenarios",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913132",
+      "published_date": "2026-10-28T16:54:07+00:00"
+    },
+    {
+      "title": "Eisenkot or Netanyahu: No matter who forms government, democracy is dead",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/opinion/eisenkot-or-netanyahu-no-matter-who-forms-government-democracy-dead",
+      "published_date": "2026-10-28T16:50:07+00:00"
+    },
+    {
+      "title": "Trump says he saved Netanyahu from crushing election defeat - now, he wants influence - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913131",
+      "published_date": "2026-10-28T16:47:50+00:00"
+    },
+    {
+      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+      "published_date": "2026-10-28T16:45:25+00:00"
+    },
+    {
+      "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+      "published_date": "2026-10-28T16:44:00+00:00"
+    },
+    {
+      "title": "Bolsonaro, family arrive in US after election defeat",
+      "source": "The Punch Nigeria",
+      "country": "Brazil",
+      "url": "https://punchng.com/bolsonaro-family-arrive-in-us-after-election-defeat/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-28T16:43:29+00:00"
+    },
+    {
+      "title": "Israel election results live: Netanyahu says election ‘stolen’ by Arab parties in claim straight out of Trump playbook",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-results-live-netanyahu-eisenkot-palestine-exit-polls-b3074560.html",
+      "published_date": "2026-10-28T16:42:27+00:00"
+    },
+    {
+      "title": "Tras megaoperativo en Bogotá, presidente Abelardo De La Espriella encaró a 'Mailo', señalado de lanzar granada a un establecimiento en enero: 'Payaso'",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-megaoperativo-en-bogota-presidente-abelardo-de-la-espriella-encaro-a-mailo-senalado-de-lanzar-granada-a-un-establecimiento-en-enero-payaso-3596937",
+      "published_date": "2026-10-28T16:42:01+00:00"
+    },
+    {
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published_date": "2026-10-28T16:38:53+00:00"
+    },
+    {
+      "title": "Likud says Israeli election ‘stolen’ by Arab parties",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likud-says-israeli-election-stolen-arab-parties",
+      "published_date": "2026-10-28T16:28:50+00:00"
+    },
+    {
+      "title": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20261028-defeated-brazilian-presidential-candidate-flavio-bolsonaro-lands-in-miami",
+      "published_date": "2026-10-28T16:28:38+00:00"
+    },
+    {
+      "title": "Arab parties ‘have woken up’: Israel's uncertain election may deliver surprise kingmakers",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261028-arab-parties-have-woken-up-israel-uncertain-election-may-deliver-surprise-kingmakers",
+      "published_date": "2026-10-28T16:04:21+00:00"
+    },
+    {
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published_date": "2026-10-28T16:04:10+00:00"
+    },
+    {
+      "title": "Herzog urges Israeli leaders to keep open minds, avoid another election after deadlock",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913127",
+      "published_date": "2026-10-28T16:01:36+00:00"
+    },
+    {
+      "title": "Mutfwang, Yilwatda rally Plateau behind Tinubu’s reelection bid",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921074-mutfwang-yilwatda-rally-plateau-behind-tinubus-reelection-bid.html",
+      "published_date": "2026-10-28T15:52:33+00:00"
+    },
+    {
+      "title": "Netanyahu pulls ahead in Israeli election as rivals weigh deal with Arab parties",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/benjamin-netanyahu-israel-prime-minister-gadi-eisenkot-b3074942.html",
+      "published_date": "2026-10-28T15:41:07+00:00"
+    },
+    {
+      "title": "Balladares raya la cancha en RN por presión para sacar a Rabat: “Esa decisión le corresponde al Presidente y debemos respetarla”",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/politica/noticia/balladares-raya-la-cancha-en-rn-por-presion-para-sacar-a-rabat-esa-decision-le-corresponde-al-presidente-y-debemos-respetarla/",
+      "published_date": "2026-10-28T15:38:23+00:00"
+    },
+    {
+      "title": "Israeli election: Lebanon expects little change in Israeli policy",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
+      "published_date": "2026-10-28T15:36:07+00:00"
+    },
+    {
+      "title": "Elections, corruption scandals and assassination attempts: Netanyahu’s remarkable history of survival",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-election-assassination-corruption-b3074644.html",
+      "published_date": "2026-10-28T15:34:58+00:00"
+    },
+    {
+      "title": "Who won the Israel election? Live results as vote counts continue",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-live-results-b3074654.html",
+      "published_date": "2026-10-28T15:34:53+00:00"
+    },
+    {
+      "title": "Israel faces weeks of political wrangling after deadlocked election",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
+      "published_date": "2026-10-28T15:28:04+00:00"
+    },
+    {
+      "title": "Israel election: what we know so far",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+      "published_date": "2026-10-28T15:08:58+00:00"
+    },
+    {
+      "title": "Israel's 'AI election'",
+      "source": "Sky News World",
+      "country": "Israel",
+      "url": "https://news.sky.com/story/israels-ai-election-13604883",
+      "published_date": "2026-10-28T14:39:00+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after Brazil election defeat and corruption investigation",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/flavio-bolsonaro-arrives-miami-fled-brazil-family-b3074589.html",
+      "published_date": "2026-10-28T14:35:21+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-28T14:32:16+00:00"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T14:30:31+00:00"
+    },
+    {
+      "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
+      "published_date": "2026-10-28T14:30:17+00:00"
+    },
+    {
+      "title": "Israel's election result is messy - here's why",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T14:26:24+00:00"
+    },
+    {
+      "title": "Israel election results: Netanyahu bloc wins 53 seats, opposition holds 48, Arab parties skyrocket",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913122",
+      "published_date": "2026-10-28T14:21:07+00:00"
+    },
+    {
+      "title": "Defeated Brazilian presidential candidate Flavio Bolsonaro and his family land in Miami",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372478/defeated-brazilian-presidential-candidate-flavio-bolsonaro-and-his-family-land-miami",
+      "published_date": "2026-10-28T14:19:13+00:00"
+    },
+    {
+      "title": "HT Evening News Brief October 28: Netanyahu leads in Israel elections; India claims 22 killed in West Asia war since February",
+      "source": "Hindustan Times",
+      "country": "Israel",
+      "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-october-28-netanyahu-leads-in-israel-elections-india-claims-22-killed-in-west-asia-war-since-february-101793188024038.html",
+      "published_date": "2026-10-28T13:46:26+00:00"
+    },
+    {
+      "title": "Armenian Parliament approves Trump Route agreement",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/armenia-parliament-approves-trump-route-agreement/",
+      "published_date": "2026-10-28T13:40:22+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "published_date": "2026-10-28T13:39:01+00:00"
+    },
+    {
+      "title": "After taking a break to vote in elections, Israeli army resumes home demolitions and raids across West Bank",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/after-taking-break-vote-elections-israeli-army-resumes-home-demolitions",
+      "published_date": "2026-10-28T13:31:58+00:00"
+    },
+    {
+      "title": "Ukrainian forces deny Russian claims of capturing Barylivka in Sumy region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4179016-ukrainian-forces-deny-russian-claims-of-capturing-barylivka-in-sumy-region.html",
+      "published_date": "2026-10-28T13:31:00+00:00"
+    },
+    {
+      "title": "Senador Sanhueza critica llamados oficialistas a salida de Rabat: “No puedo estarle mandando mensajes al Presidente a través de la prensa”",
+      "source": "La Tercera Chile",
+      "country": "Morocco",
+      "url": "https://www.latercera.com/politica/noticia/senador-sanhueza-critica-llamados-oficialistas-a-salida-de-rabat-no-puedo-estarle-mandando-mensajes-al-presidente-a-traves-de-la-prensa/",
+      "published_date": "2026-10-28T13:24:15+00:00"
+    },
+    {
+      "title": "Israel exit polls show no clear winner in 2026 elections. What happens next?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-exit-polls-knesset-netanyahu-b3074572.html",
+      "published_date": "2026-10-28T12:55:49+00:00"
+    },
+    {
+      "title": "‘Grandpa’ Putin Humiliated as Raging Rebellion Exposes Weakness - The Daily Beast",
+      "source": "Google News World",
+      "country": "Russia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1JCeUdpTVF1RGtfUnlYRjFtQWdnZjNTb3JpeFlrOC1mS2ZrOUlHV0NlSU5VMnZ1SHMzUUFtbHpud1locVAyY1B2SFhpNXlwaXhWVlpJVGtvbWxGeFdEOGJqMTJGeUtsQ0NqZkx4NnN3NUJXNWFjWkFJRGREbllQN09kN3IzRXFaeWJ0NHZNZGNJZkh4dHc?oc=5",
+      "published_date": "2026-10-28T12:50:11+00:00"
+    },
+    {
+      "title": "'No clear winner' from Israeli election, expert says",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20261028-no-clear-winner-from-israeli-election-expert-says",
+      "published_date": "2026-10-28T12:49:36+00:00"
+    },
+    {
+      "title": "Disgraced Azerbaijani power broker Ramiz Mehdiyev sentenced over alleged coup plot",
+      "source": "OC Media Caucasus",
+      "country": "Azerbaijan",
+      "url": "https://oc-media.org/disgraced-azerbaijani-power-broker-ramiz-mehdiyev-sentenced-over-alleged-coup-plot/",
+      "published_date": "2026-10-28T12:47:25+00:00"
+    },
+    {
+      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+      "published_date": "2026-10-28T12:22:20+00:00"
+    },
+    {
+      "title": "Presidente Kast designa al general de aviación Máximo Venegas como nuevo Jefe del Estado Mayor Conjunto",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-designa-al-general-de-aviacion-maximo-venegas-raggio-como-nuevo-jefe-del-estado-mayor-conjunto/",
+      "published_date": "2026-10-28T12:05:05+00:00"
+    },
+    {
+      "title": "Israeli election: PM loses a significant number of seats since 2022 election",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261028-israeli-election-pm-loses-a-significant-number-of-seats-since-2022-election",
+      "published_date": "2026-10-28T11:56:00+00:00"
+    },
+    {
+      "title": "Israeli voters: hope and despair as election ballots are counted",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
+      "published_date": "2026-10-28T11:55:08+00:00"
+    },
+    {
+      "title": "Israeli election: As votes are counted, no clear winner emerges",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261028-israeli-election-as-votes-are-counted-no-clear-winner-emerges",
+      "published_date": "2026-10-28T11:32:07+00:00"
+    },
+    {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "published_date": "2026-10-28T11:28:55+00:00"
+    },
+    {
+      "title": "Ukrainian MP elected president of OSCE Parliamentary Assembly",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4178935-ukrainian-mp-elected-president-of-osce-parliamentary-assembly.html",
+      "published_date": "2026-10-28T10:31:00+00:00"
+    },
+    {
+      "title": "PTI decides to contest Islamabad local bodies elections on Dec 20",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2040424/pti-decides-to-contest-islamabad-local-bodies-elections-on-dec-20",
+      "published_date": "2026-10-28T09:51:20+00:00"
+    },
+    {
+      "title": "Partial results from Israel's contentious election show no clear winner",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
+      "published_date": "2026-10-28T08:46:47+00:00"
+    },
+    {
+      "title": "Brazil: Lula celebrates 81st birthday after re-election victory",
+      "source": "Euronews",
+      "country": "Brazil",
+      "url": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
+      "published_date": "2026-10-28T08:30:31+00:00"
+    },
+    {
+      "title": "Will elections in Israel change its Iran approach? - DW.com",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXhjVE1oWktfWUxyZm1LTGgwTGtkdGhmbUZQSTFUNjNnRlltSS1vNEJZTmpkbjZsT2s1UWFCdDhEVFlmWUtmQTR3Wk4wQXRsdDc1WHJHMk40RzJWWm11SFZoMWg2RjUtcnJPbkRpYzl0WEk4MGcwRHpFdm53RXNPMkVvUEdvVFVDR0HSAYoBQVVfeXFMTjZGNVhxQU54Wmx1ZlhreS1BZFh4dENLLUgzMFVLUDA3TWlMVzlvVWoyOGg5TWNUYjUxQUJOMDhzeG8wcVBURmczMFBKTXB5MU5BNG5jOHJZXzQ0MG1RcHdrTWVuc2NhZjE5ZUZoMDZndzdpMzZOOER4NmVGZ3B3dk1iVmdmSlUwUlBR?oc=5",
+      "published_date": "2026-10-28T06:39:50+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "published_date": "2026-10-28T06:36:14+00:00"
+    },
+    {
+      "title": "BJP wins 4 seats in UP MLC polls, SP makes gains ahead of 2027 assembly elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/uttar-pradesh-legislative-council-polls-bjp-wins-4-sp-1-ahead-on-4-seats-101793164275788.html",
+      "published_date": "2026-10-28T05:11:15+00:00"
+    },
+    {
+      "title": "ASEAN envoy visits Myanmar as junta seeks return to summits",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/asean-envoy-visits-myanmar-as-junta-seeks-return-to-summits/",
+      "published_date": "2026-10-28T05:10:48+00:00"
+    },
+    {
+      "title": "After elections, Israeli Arabs now have political power - will their leaders use it? - analysis",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/article-913073",
@@ -200,21 +592,21 @@
       "published_date": "2026-10-27T22:31:31+00:00"
     },
     {
-      "title": "Bennett's B'Yachad projected to win 12-13 seats in next Knesset, election exit polls predict",
+      "title": "Bennett's B'Yachad projected to win 12 seats in next Knesset, election polling data predicts",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-913067",
       "published_date": "2026-10-27T22:30:42+00:00"
     },
     {
-      "title": "Liberman's Yisrael Beytenu projected to win 7-8 seats in next Knesset, election exit polls predict",
+      "title": "Liberman's Yisrael Beytenu expected to win seven seats in next Knesset, election data shows",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-913065",
       "published_date": "2026-10-27T22:19:51+00:00"
     },
     {
-      "title": "Yair Golan's Democrats projected to win 9-10 Knesset seats in Israeli election, exit polls show",
+      "title": "Yair Golan's Democrats set to win eight Knesset seats in 2026 Israeli election",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-913064",
@@ -228,6 +620,13 @@
       "published_date": "2026-10-27T22:14:48+00:00"
     },
     {
+      "title": "Ben-Gvir, Smotrich's parties set to win combined 13 seats in 2026 Israeli election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912954",
+      "published_date": "2026-10-27T22:14:36+00:00"
+    },
+    {
       "title": "Shas, UTJ projected to win 12-15 seats in next Knesset, election exit polls predict",
       "source": "Jerusalem Post",
       "country": "Israel",
@@ -235,18 +634,11 @@
       "published_date": "2026-10-27T22:09:27+00:00"
     },
     {
-      "title": "Israel election exit polls: Netanyahu, Eisenkot deadlocked as both blocs fall short of majority",
+      "title": "Israel Election Night: How the exit polls, results unfolded amid political deadlock",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-913053",
       "published_date": "2026-10-27T22:06:58+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "published_date": "2026-10-27T22:03:00+00:00"
     },
     {
       "title": "Exit polls show no clear winner in Israeli elections. What happens next?",
@@ -267,6 +659,13 @@
       "source": "Sky News World",
       "country": "Brazil",
       "url": "https://news.sky.com/story/bolsonaro-and-family-to-be-granted-us-visas-after-election-loss-state-department-says-13604558",
+      "published_date": "2026-10-27T21:35:00+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in US after fleeing Brazil following election defeat",
+      "source": "Sky News World",
+      "country": "Brazil",
+      "url": "https://news.sky.com/story/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-following-election-defeat-13604558",
       "published_date": "2026-10-27T21:35:00+00:00"
     },
     {
@@ -291,7 +690,7 @@
       "published_date": "2026-10-27T20:56:23+00:00"
     },
     {
-      "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
       "source": "NPR World",
       "country": "Israel",
       "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
@@ -594,7 +993,7 @@
     {
       "title": "Will elections in Israel change its Iran approach?",
       "source": "Deutsche Welle English",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-10-27T13:31:00+00:00"
     },
@@ -772,6 +1171,13 @@
       "country": "Israel",
       "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-netanyahu-october-7-attack-b3073877.html",
       "published_date": "2026-10-27T06:06:25+00:00"
+    },
+    {
+      "title": "The Civil War in France - CounterPunch.org",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82d1FQaS1YeHg0X0RnVlIxLS1UM2lVR09vVjJBNjd5ZDB1ZHktaFllMGhPd0lYUnlraXNmaDhqWHNqd3NnUTBRQXJVMVF2SnNCeVFfcDZSczhLOXk3VEVCRlRHRTk2NHBtYi1lRHNNanA3UQ?oc=5",
+      "published_date": "2026-10-27T06:01:49+00:00"
     },
     {
       "title": "A quick guide to Israel's high-stakes election",
@@ -3950,118 +4356,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml",
       "published_date": "2026-10-14T18:25:00+00:00"
-    },
-    {
-      "title": "VIDEO: Adeleke dances at APC inauguration after declaring support for Tinubu’s re-election",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/video-adeleke-dances-at-apc-inauguration-after-declaring-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-14T16:37:33+00:00"
-    },
-    {
-      "title": "2027: ‘We’ll dance back to Aso Rock’ —  Adeleke vows to lead movement for Tinubu’s re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/2027-well-dance-back-to-aso-rock-adeleke-vows-to-lead-movement-for-tinubus-re-election/",
-      "published_date": "2026-10-14T15:36:08+00:00"
-    },
-    {
-      "title": "Complete first tenure before seeking re-election, Anglican bishop tells Tinubu",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/complete-first-tenure-before-seeking-re-election-anglican-bishop-tells-tinubu/",
-      "published_date": "2026-10-14T15:12:05+00:00"
-    },
-    {
-      "title": "This Is Israel’s Haredi Election",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/10/14/israel-election-haredi-ultra-orthodox-religion-military-conscription/",
-      "published_date": "2026-10-14T14:41:40+00:00"
-    },
-    {
-      "title": "2027: Men have failed Nigeria – Presidential candidate",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/gender/917043-2027-men-have-failed-nigeria-presidential-candidate.html",
-      "published_date": "2026-10-14T14:40:40+00:00"
-    },
-    {
-      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
-      "source": "Al Jazeera English",
-      "country": "Colombia",
-      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
-      "published_date": "2026-10-14T14:08:45+00:00"
-    },
-    {
-      "title": "Colombia inaugurates new embassy in Jerusalem in reversal from previous break with Israel",
-      "source": "Jerusalem Post",
-      "country": "Colombia",
-      "url": "https://www.jpost.com/israel-news/article-911671",
-      "published_date": "2026-10-14T13:53:42+00:00"
-    },
-    {
-      "title": "Georgian opposition leader Japaridze detained at Turkish airport",
-      "source": "OC Media Caucasus",
-      "country": "Turkey",
-      "url": "https://oc-media.org/georgian-opposition-leader-japaridze-detained-at-turkish-airport/",
-      "published_date": "2026-10-14T11:55:28+00:00"
-    },
-    {
-      "title": "Colombia opens embassy in West Jerusalem as new president embraces Israel",
-      "source": "Middle East Eye",
-      "country": "Colombia",
-      "url": "https://www.middleeasteye.net/news/colombia-opens-embassy-west-jerusalem-new-president-embraces-israel",
-      "published_date": "2026-10-14T11:42:49+00:00"
-    },
-    {
-      "title": "Japan farm minister submits resignation in first scandal blow for PM Takaichi",
-      "source": "South China Morning Post",
-      "country": "Japan",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3370891/japan-farm-minister-submits-resignation-first-scandal-blow-pm-takaichi?utm_source=rss_feed",
-      "published_date": "2026-10-14T10:53:04+00:00"
-    },
-    {
-      "title": "Three killed in Magway Region as Myanmar junta forces continue push into Rakhine",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/three-killed-in-magway-region-as-myanmar-junta-forces-continue-push-into-rakhine/",
-      "published_date": "2026-10-14T10:34:16+00:00"
-    },
-    {
-      "title": "Why did the Palestinian Authority postpone elections - again?",
-      "source": "Middle East Eye",
-      "country": "Palestine",
-      "url": "https://www.middleeasteye.net/news/why-did-palestinian-authority-postpone-elections-again",
-      "published_date": "2026-10-14T07:30:13+00:00"
-    },
-    {
-      "title": "Netanyahu pressed Trump to resume Iran war before elections, report says",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-pressed-trump-resume-iran-war-elections-report-says",
-      "published_date": "2026-10-14T06:14:30+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras bloqueos en la avenida Circunvalar, en Bogotá: 'Estamos listos para defender a Colombia'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-bloqueos-en-la-avenida-circunvalar-en-bogota-estamos-listos-para-defender-a-colombia-3593344",
-      "published_date": "2026-10-14T03:56:44+00:00"
-    },
-    {
-      "title": "Netanyahu, Eisenkot blocs struggle to secure majority, raising fears of another election deadlock",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-911622",
-      "published_date": "2026-10-14T03:42:00+00:00"
-    },
-    {
-      "title": "Murugan’s resignation letter: Praise for Modi’s Tamil outreach, from Sitharaman and Jaishankar to Thirukkural and Sengol",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/l-murugan-resign-union-cabinet-2029-lok-sabha-elections-tamil-nadu-bjp-news-narendra-modi-letter-101791946205036.html",
-      "published_date": "2026-10-14T02:55:49+00:00"
     }
   ]
 }
