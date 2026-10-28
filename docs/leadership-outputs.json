@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-27T16:18:10.320477+00:00",
-    "story_count": 530,
+    "last_updated": "2026-10-28T02:05:49.671686+00:00",
+    "story_count": 572,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,396 @@
   },
   "stories": [
     {
+      "title": "Israeli Arab political power rising with elections, challenging world’s assumptions - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-913073",
+      "published_date": "2026-10-28T02:38:19+00:00"
+    },
+    {
+      "title": "Special counsel launches inspection of local election ballots stored at Seoul handball arena",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261028/special-counsel-launches-inspection-of-local-election-ballots-stored-at-seoul-handball-arena?utm_source=rss",
+      "published_date": "2026-10-28T01:57:02+00:00"
+    },
+    {
+      "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+      "published_date": "2026-10-28T01:46:09+00:00"
+    },
+    {
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published_date": "2026-10-28T01:39:35+00:00"
+    },
+    {
+      "title": "At least 94,000 votes counted in Israeli elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-94000-votes-counted-israeli-elections",
+      "published_date": "2026-10-28T01:09:01+00:00"
+    },
+    {
+      "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "published_date": "2026-10-28T00:43:56+00:00"
+    },
+    {
+      "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "published_date": "2026-10-28T00:43:02+00:00"
+    },
+    {
+      "title": "Israel election 2026 results live: Exit polls suggest deadlock with Eisenkot’s bloc just ahead of Netanyahu",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-2026-results-netanyahu-trump-iran-live-updates-b3074404.html",
+      "published_date": "2026-10-28T00:43:02+00:00"
+    },
+    {
+      "title": "Netanyahu’s fate in balance after historic Israeli election with no bloc on course for majority",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/benjamin-netanyahu-defeat-israel-b3074050.html",
+      "published_date": "2026-10-28T00:39:36+00:00"
+    },
+    {
+      "title": "U.S. to give visa to Brazilian election loser Bolsonaro",
+      "source": "Japan Times",
+      "country": "Brazil",
+      "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/us-visa-brazil-election-bolsonaro/",
+      "published_date": "2026-10-28T00:32:00+00:00"
+    },
+    {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T00:04:29+00:00"
+    },
+    {
+      "title": "Eisenkot says Israel has chosen change, wants to form government",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-says-israel-has-chosen-change-wants-form-government",
+      "published_date": "2026-10-27T23:35:16+00:00"
+    },
+    {
+      "title": "Official vote count under way in Israeli election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-vote-count-under-way-israeli-election",
+      "published_date": "2026-10-27T23:21:06+00:00"
+    },
+    {
+      "title": "Smotrich says he ‘won’t let’ Palestinian citizens celebrate election gains",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-says-he-wont-let-palestinian-citizens-celebrate-election-gains",
+      "published_date": "2026-10-27T23:17:31+00:00"
+    },
+    {
+      "title": "Lieberman calls on Netanyahu to step down",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lieberman-calls-netanyahu-step-down",
+      "published_date": "2026-10-27T23:10:11+00:00"
+    },
+    {
+      "title": "No clear mandate projected in Israel election: What’s next?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "published_date": "2026-10-27T23:06:47+00:00"
+    },
+    {
+      "title": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+      "published_date": "2026-10-27T22:58:53+00:00"
+    },
+    {
+      "title": "Eisenkot declares victory as bloc takes lead over Netanyahu's, despite election deadlock",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913070",
+      "published_date": "2026-10-27T22:48:34+00:00"
+    },
+    {
+      "title": "Netanyahu or Eisenkot? Israel's election leaves Herzog with an impossible choice - comment",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913069",
+      "published_date": "2026-10-27T22:48:24+00:00"
+    },
+    {
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "published_date": "2026-10-27T22:31:31+00:00"
+    },
+    {
+      "title": "Bennett's B'Yachad projected to win 12-13 seats in next Knesset, election exit polls predict",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913067",
+      "published_date": "2026-10-27T22:30:42+00:00"
+    },
+    {
+      "title": "Liberman's Yisrael Beytenu projected to win 7-8 seats in next Knesset, election exit polls predict",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913065",
+      "published_date": "2026-10-27T22:19:51+00:00"
+    },
+    {
+      "title": "Yair Golan's Democrats projected to win 9-10 Knesset seats in Israeli election, exit polls show",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913064",
+      "published_date": "2026-10-27T22:18:15+00:00"
+    },
+    {
+      "title": "Brazil’s Flavio Bolsonaro flees to US after election loss",
+      "source": "Vanguard Nigeria",
+      "country": "Brazil",
+      "url": "https://www.vanguardngr.com/2026/10/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/",
+      "published_date": "2026-10-27T22:14:48+00:00"
+    },
+    {
+      "title": "Shas, UTJ projected to win 12-15 seats in next Knesset, election exit polls predict",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-912827",
+      "published_date": "2026-10-27T22:09:27+00:00"
+    },
+    {
+      "title": "Israel election exit polls: Netanyahu, Eisenkot deadlocked as both blocs fall short of majority",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913053",
+      "published_date": "2026-10-27T22:06:58+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "published_date": "2026-10-27T22:03:00+00:00"
+    },
+    {
+      "title": "Exit polls show no clear winner in Israeli elections. What happens next?",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-exit-poll-results-time-b3074004.html",
+      "published_date": "2026-10-27T21:58:48+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "published_date": "2026-10-27T21:47:34+00:00"
+    },
+    {
+      "title": "Bolsonaro and family to be granted US visas after election loss",
+      "source": "Sky News World",
+      "country": "Brazil",
+      "url": "https://news.sky.com/story/bolsonaro-and-family-to-be-granted-us-visas-after-election-loss-state-department-says-13604558",
+      "published_date": "2026-10-27T21:35:00+00:00"
+    },
+    {
+      "title": "Bibi's moment of truth: Israel votes in first general election since October 7",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
+      "published_date": "2026-10-27T21:26:10+00:00"
+    },
+    {
+      "title": "Decoding Israel’s Election Results",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-likud-eisenkot-yashar-hamas-gaza-war/",
+      "published_date": "2026-10-27T21:19:59+00:00"
+    },
+    {
+      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+      "published_date": "2026-10-27T20:56:23+00:00"
+    },
+    {
+      "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+      "published_date": "2026-10-27T20:45:39+00:00"
+    },
+    {
+      "title": "Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted",
+      "source": "Foreign Policy",
+      "country": "Israel",
+      "url": "https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-eisenkot-palestinians-gaza/",
+      "published_date": "2026-10-27T20:39:45+00:00"
+    },
+    {
+      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+      "source": "Al Jazeera English",
+      "country": "Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+      "published_date": "2026-10-27T20:34:44+00:00"
+    },
+    {
+      "title": "Israeli opposition leader says Netanyahu has suffered ‘crushing defeat’",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-says-netanyahu-has-suffered-crushing-defeat",
+      "published_date": "2026-10-27T20:31:10+00:00"
+    },
+    {
+      "title": "Israel’s opposition vows to replace Netanyahu, but election yields no clear winner",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372354/israel-exit-polls-show-election-deadlock-netanyahus-fate-balance",
+      "published_date": "2026-10-27T20:26:06+00:00"
+    },
+    {
+      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+      "published_date": "2026-10-27T20:18:18+00:00"
+    },
+    {
+      "title": "Exit polls suggest no clear victor in Israeli election",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
+      "published_date": "2026-10-27T20:10:40+00:00"
+    },
+    {
+      "title": "Israeli exit polls indicate deadlock in Tuesday's election",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-exit-polls-indicate-deadlock-tuesdays-election",
+      "published_date": "2026-10-27T20:02:43+00:00"
+    },
+    {
+      "title": "Israel’s election committee plans to announce official results by Wednesday evening",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-committee-plans-announce-official-results-wednesday",
+      "published_date": "2026-10-27T19:48:06+00:00"
+    },
+    {
+      "title": "Israel election results live: Netanyahu, Eisenkot blocs tied in exit polls",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+      "published_date": "2026-10-27T19:28:12+00:00"
+    },
+    {
+      "title": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
+      "published_date": "2026-10-27T18:59:43+00:00"
+    },
+    {
+      "title": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+      "source": "Euronews",
+      "country": "Saudi Arabia",
+      "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
+      "published_date": "2026-10-27T18:57:06+00:00"
+    },
+    {
+      "title": "Russian electronics billionaire Dmitry Alekseyev publicly defends jailed election expert Alexander Kynev, denouncing his detention conditions",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/27/russian-electronics-billionaire-dmitry-alekseyev-publicly-defends-jailed-election-expert-alexander-kynev-denouncing-his-detention-conditions",
+      "published_date": "2026-10-27T18:40:12+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro headed to the US after losing Brazil election, sources say - report",
+      "source": "Jerusalem Post",
+      "country": "Brazil",
+      "url": "https://www.jpost.com/international/article-913056",
+      "published_date": "2026-10-27T18:39:29+00:00"
+    },
+    {
+      "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+      "published_date": "2026-10-27T18:34:19+00:00"
+    },
+    {
+      "title": "Likud rep. accuses CEC of ignoring instances of voter fraud in favor of high voter turnout",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913049",
+      "published_date": "2026-10-27T17:52:33+00:00"
+    },
+    {
+      "title": "INDIA bloc leaders to hold ‘public impeachment of CEC’ at Kharge's Delhi residence on October 30",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-bloc-leaders-to-hold-public-impeachment-of-cec-at-kharges-delhi-residence-on-october-30-101793116383425.html",
+      "published_date": "2026-10-27T17:48:51+00:00"
+    },
+    {
+      "title": "CEC denies Likud's request to extend Israeli election voting time past 10 p.m.",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913050",
+      "published_date": "2026-10-27T17:47:41+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro leaves Brazil for US after shock election loss to Lula",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/americas/article/3372350/brazil-wonders-where-earth-flavio-bolsonaro",
+      "published_date": "2026-10-27T17:41:44+00:00"
+    },
+    {
       "title": "Likud officials sound alarm over voter apathy as Israel sees record-high election turnout",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-913046",
       "published_date": "2026-10-27T17:40:02+00:00"
+    },
+    {
+      "title": "Bihar MLC election results: BJP’s Narendra Prasad Singh wins Tirhut Teachers’ seat",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bihar-mlc-election-results-bjp-s-narendra-prasad-singh-wins-tirhut-teachers-seat-101793116074516.html",
+      "published_date": "2026-10-27T17:30:35+00:00"
+    },
+    {
+      "title": "Flavio Bolsonaro disappears as Brazilian police cancel his passports after shock election defeat",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/flavio-bolsonaro-brazil-lula-b3074361.html",
+      "published_date": "2026-10-27T17:08:28+00:00"
+    },
+    {
+      "title": "Israelis vote in a tense election: What's at stake?",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+      "published_date": "2026-10-27T16:59:06+00:00"
     },
     {
       "title": "How is the Western world reporting on Israel's 26th Knesset elections?",
@@ -74,6 +459,13 @@
       "published_date": "2026-10-27T16:57:46+00:00"
     },
     {
+      "title": "Israel elections: voter turnout reaches 55% by 4pm local time",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+      "published_date": "2026-10-27T16:52:33+00:00"
+    },
+    {
       "title": "Congress alleges hurdles to INDIA bloc’s proposed ‘public impeachment’ of CEC Gyanesh Kumar on October 30",
       "source": "The Hindu Politics",
       "country": "India",
@@ -81,9 +473,9 @@
       "published_date": "2026-10-27T16:05:52+00:00"
     },
     {
-      "title": "Brazilian police probe claims Flávio Bolsonaro fled to Argentina after election defeat",
+      "title": "Flávio Bolsonaro reportedly leaves Brazil for US after election defeat",
       "source": "Euronews",
-      "country": "Argentina",
+      "country": "Brazil",
       "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
       "published_date": "2026-10-27T16:03:31+00:00"
     },
@@ -116,11 +508,18 @@
       "published_date": "2026-10-27T15:44:14+00:00"
     },
     {
-      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published_date": "2026-10-27T15:43:12+00:00"
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "source": "BBC World",
+      "country": "Sudan",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T15:41:46+00:00"
+    },
+    {
+      "title": "West warns of famine risk in Sudan as civil war grinds on - BBC",
+      "source": "Google News World",
+      "country": "Sudan",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1leUwzQk1hNjlWNjdGWkwwamVMQlJZTjZTTmF2eFRxQWU5QmpRaFpRWHR6eHZ3NHFabjZkLVpxMWZ6eWZVME4tS1JqZUJnMXhiS3NUdEJWaS10SzQ?oc=5",
+      "published_date": "2026-10-27T15:41:46+00:00"
     },
     {
       "title": "🔴Live: Netanyahu's party asks to extend Israeli election hours amid record turnout",
@@ -137,6 +536,13 @@
       "published_date": "2026-10-27T15:20:48+00:00"
     },
     {
+      "title": "Liberal Party deputy says Bolsonaro on route to US in ‘exile’",
+      "source": "Buenos Aires Herald",
+      "country": "Canada",
+      "url": "https://buenosairesherald.com/world/flavio-bolsonaro-suspected-of-being-in-argentina-en-route-to-the-us-media-reports",
+      "published_date": "2026-10-27T15:02:00+00:00"
+    },
+    {
       "title": "Israel votes in decisive election: What happens after polls close?",
       "source": "France 24 English",
       "country": "Israel",
@@ -144,11 +550,18 @@
       "published_date": "2026-10-27T14:55:49+00:00"
     },
     {
-      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
       "source": "NPR World",
       "country": "Brazil",
       "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
       "published_date": "2026-10-27T14:41:17+00:00"
+    },
+    {
+      "title": "Brazil's Flávio Bolsonaro headed to the U.S. after losing election, sources say",
+      "source": "CBC News World",
+      "country": "Brazil",
+      "url": "https://www.cbc.ca/news/world/brazil-bolsonaro-us-election-loss-9.7398364?cmp=rss",
+      "published_date": "2026-10-27T14:35:58+00:00"
     },
     {
       "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis - CBS News",
@@ -277,13 +690,6 @@
       "published_date": "2026-10-27T09:41:26+00:00"
     },
     {
-      "title": "When will the Israel election results be announced and is there an exit poll?",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-exit-poll-results-time-b3074004.html",
-      "published_date": "2026-10-27T09:39:15+00:00"
-    },
-    {
       "title": "Israel to give verdict on Netanyahu in pivotal election",
       "source": "Dawn Pakistan",
       "country": "Israel",
@@ -317,6 +723,13 @@
       "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/chin-forces-resist-myanmar-juntas-offensive-in-southern-chin/",
       "published_date": "2026-10-27T08:33:27+00:00"
+    },
+    {
+      "title": "In Photos: Israel's political leaders cast their ballots in 26th Knesset election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913003",
+      "published_date": "2026-10-27T08:22:45+00:00"
     },
     {
       "title": "Likud said already preparing to allege election was ‘stolen’ if Netanyahu loses - The Times of Israel",
@@ -382,13 +795,6 @@
       "published_date": "2026-10-27T03:10:21+00:00"
     },
     {
-      "title": "Report: Zamir the only security chief to oppose pre-election military action against Iran - The Times of Israel",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2pPXzlNWGJEWWVaOGxZU2dNYWw5RDJUbnlIdVBFVk5Ia2ZLcFd2Y0cyaE81Vlotc3FaWFQ5SVRSM1FFTVFpSURDaW85TWkwNkxKV2NlaU5EcmhDUG52WnpDOGVtOUtSbGllNmpDZDcxYU44eTUzNm1HT2s2ZEFHQU12TmZ1a3QxajZwWmxaZGJ2d1FKMG55cVMydEIta2hJb01NNU1DdldjUlRRa3hDTmxwSUlvTjNRUTBV0gHAAUFVX3lxTE4wOG92VGNRS3BHVDhTWGVvaEpPTEluWXlwZHVtaEF5T1VOWjltTnpUYXk4enVmQ0ljZFdtSkw2NTdpTzhKdHIwYzVEejVCcy1qVW1MS1JVTG02ZTd1aGxMRFkxMVJVOFNscXRfeWtQRVdRNUFFZ1hDUlJPOHpRSnBaa185UlNhbHczNjBzQ1JpeVZfOTBwU0laeW52clJ6ZnlqaXlLSlJFUVBRNWZ4NEJubWpHSnNDcWg5VGRMOHFMaQ?oc=5",
-      "published_date": "2026-10-27T02:31:58+00:00"
-    },
-    {
       "title": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
       "source": "Jerusalem Post",
       "country": "Brazil",
@@ -445,18 +851,25 @@
       "published_date": "2026-10-26T23:00:24+00:00"
     },
     {
+      "title": "Report: Zamir the only security chief to oppose pre-election military action against Iran - The Times of Israel",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2pPXzlNWGJEWWVaOGxZU2dNYWw5RDJUbnlIdVBFVk5Ia2ZLcFd2Y0cyaE81Vlotc3FaWFQ5SVRSM1FFTVFpSURDaW85TWkwNkxKV2NlaU5EcmhDUG52WnpDOGVtOUtSbGllNmpDZDcxYU44eTUzNm1HT2s2ZEFHQU12TmZ1a3QxajZwWmxaZGJ2d1FKMG55cVMydEIta2hJb01NNU1DdldjUlRRa3hDTmxwSUlvTjNRUTBV0gHAAUFVX3lxTE4wOG92VGNRS3BHVDhTWGVvaEpPTEluWXlwZHVtaEF5T1VOWjltTnpUYXk4enVmQ0ljZFdtSkw2NTdpTzhKdHIwYzVEejVCcy1qVW1MS1JVTG02ZTd1aGxMRFkxMVJVOFNscXRfeWtQRVdRNUFFZ1hDUlJPOHpRSnBaa185UlNhbHczNjBzQ1JpeVZfOTBwU0laeW52clJ6ZnlqaXlLSlJFUVBRNWZ4NEJubWpHSnNDcWg5VGRMOHFMaQ?oc=5",
+      "published_date": "2026-10-26T22:41:00+00:00"
+    },
+    {
+      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal - The New York Times",
+      "source": "Google News World",
+      "country": "Mexico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjJIelFVaGFBRHhIRTd2T1lWVlQxV29fQWxxLTZLX25WQ0ZxbktyLWF2LXFFRGlMQXdldjlFMUZlSHBteFBpQXN1Y1psTC1aT05aMzhGLVVWMmYzYmUtYzh3S0lXV3hlS3U0eVRhSkp5WW5zaFY3VjhGSGFoNVRoMFY3NjRLWDZjeEhQRDhoREg?oc=5",
+      "published_date": "2026-10-26T22:33:20+00:00"
+    },
+    {
       "title": "Brazil elections: Did a WhatsApp channel help get Lula re-elected? - BBC",
       "source": "Google News World",
       "country": "Brazil",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMeVRmNlFvTWcxcGViS2o0NFZWOFMyWFM2eV9KZlEtdkM2WjVkSUk4dlhRSTIwU3d2X3d4Ni1CM2FmTDA5WFc4S0o5aFhxZV9TMmdPVG5xcG8?oc=5",
       "published_date": "2026-10-26T22:15:39+00:00"
-    },
-    {
-      "title": "Trump allies fall in two elections as Netanyahu faces next test - Axios",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE5KdnJDMTdZV3B4bW5BVDFBcFoxUWN4OXlDQ2t3UmFlSkRqQ3lOZE9QR0dNMzkwYnJGNFdLaUFQVGtvOXAwcEJpaG44T3pfOWlEbXBEeWloV3dDS05fX0NWcU93UlNhbFZjSWltcnRfcGZQenVZbXZONGo2aGJCNTdqOGhzTUl3dU9CZmRqYw?oc=5",
-      "published_date": "2026-10-26T21:45:30+00:00"
     },
     {
       "title": "Trump says Brazil election looked 'rigged' without giving evidence",
@@ -485,6 +898,13 @@
       "country": "Israel",
       "url": "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel",
       "published_date": "2026-10-26T20:43:39+00:00"
+    },
+    {
+      "title": "Trump allies fall in two elections as Netanyahu faces next test - Axios",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE5KdnJDMTdZV3B4bW5BVDFBcFoxUWN4OXlDQ2t3UmFlSkRqQ3lOZE9QR0dNMzkwYnJGNFdLaUFQVGtvOXAwcEJpaG44T3pfOWlEbXBEeWloV3dDS05fX0NWcU93UlNhbFZjSWltcnRfcGZQenVZbXZONGo2aGJCNTdqOGhzTUl3dU9CZmRqYw?oc=5",
+      "published_date": "2026-10-26T20:33:25+00:00"
     },
     {
       "title": "Brazil's election ignites MAGA's midterm warnings",
@@ -3642,132 +4062,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/l-murugan-resign-union-cabinet-2029-lok-sabha-elections-tamil-nadu-bjp-news-narendra-modi-letter-101791946205036.html",
       "published_date": "2026-10-14T02:55:49+00:00"
-    },
-    {
-      "title": "‘Why APGA adopted Tinubu for 2027 presidential election’",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/why-apga-adopted-tinubu-for-2027-presidential-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-14T00:43:19+00:00"
-    },
-    {
-      "title": "Uñac se lanzó como precandidato a presidente del peronismo con un spot: “Hay mucho desánimo en la sociedad”",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/unac-se-lanzo-como-precandidato-a-presidente-con-un-spot-nid13102026/",
-      "published_date": "2026-10-14T00:10:10+00:00"
-    },
-    {
-      "title": "Kast apuesta a fortalecer relación bilateral con primera visita oficial de un presidente chileno a La Paz en más de 70 años",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/mundo/noticia/kast-apuesta-a-fortalecer-relacion-bilateral-con-primera-visita-oficial-de-un-presidente-chileno-a-la-paz-en-mas-de-70-anos/",
-      "published_date": "2026-10-13T23:54:34+00:00"
-    },
-    {
-      "title": "Tarcísio tinha expectativa de ser candidato a presidente, diz Flávio Bolsonaro",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-tinha-expectativa-de-ser-candidato-a-presidente-diz-flavio-bolsonaro.shtml",
-      "published_date": "2026-10-13T23:50:00+00:00"
-    },
-    {
-      "title": "Netanyahu, Trump discussed possibility of renewing strikes against Iran before elections - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-news/article-911609",
-      "published_date": "2026-10-13T21:47:43+00:00"
-    },
-    {
-      "title": "Politics Insider: Canada, allies push Palestinian Authority to hold elections ‘without further delay’",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-canada-allies-push-palestinian-authority-to-hold/",
-      "published_date": "2026-10-13T21:42:02+00:00"
-    },
-    {
-      "title": "Wike defends cross-party coalition for Tinubu’s re-election",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/more-news/916929-wike-defends-cross-party-coalition-for-tinubus-re-election.html",
-      "published_date": "2026-10-13T21:01:40+00:00"
-    },
-    {
-      "title": "The Libyan-Chinese Joint Chamber is inaugurated in Tripoli",
-      "source": "Libya Herald",
-      "country": "Libya",
-      "url": "https://libyaherald.com/2026/10/the-libyan-chinese-joint-chamber-is-inaugurated-in-tripoli/",
-      "published_date": "2026-10-13T20:26:00+00:00"
-    },
-    {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "source": "Al Jazeera English",
-      "country": "Yemen",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "published_date": "2026-10-13T19:33:11+00:00"
-    },
-    {
-      "title": "In blow to Netanyahu, Trump again stops short of endorsing candidate in Israeli election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911600",
-      "published_date": "2026-10-13T19:31:06+00:00"
-    },
-    {
-      "title": "Presidente Kast designa al general Leonardo Romanini como nuevo comandante en jefe de la FACh",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-designa-al-general-leonardo-romanini-como-nuevo-comandante-en-jefe-de-la-fach/",
-      "published_date": "2026-10-13T18:52:24+00:00"
-    },
-    {
-      "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
-      "source": "Axios World",
-      "country": "Iran",
-      "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
-      "published_date": "2026-10-13T18:43:01+00:00"
-    },
-    {
-      "title": "BJP demands resignation of Chief Minister, Leader of Opposition and 137 MLAs",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/kerala/bjp-demands-resignation-of-chief-minister-leader-of-opposition-and-137-mlas/article71579610.ece",
-      "published_date": "2026-10-13T18:07:46+00:00"
-    },
-    {
-      "title": "PTI's Ali Zafar terms governor's rule in KP 'political crisis disguised as security solution'; ministers defend move",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2036912/ptis-ali-zafar-terms-governors-rule-in-kp-political-crisis-disguised-as-security-solution-ministers-defend-move",
-      "published_date": "2026-10-13T18:03:59+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-      "published_date": "2026-10-13T17:40:00+00:00"
-    },
-    {
-      "title": "Moreira por dichos de embajador de EE.UU.: “Este problema tiene que solucionarlo el Presidente Kast con el secretario de Estado, Marco Rubio”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/moreira-por-dichos-de-embajador-de-eeuu-este-problema-tiene-que-solucionarlo-el-presidente-kast-con-el-secretario-de-estado-marco-rubio/",
-      "published_date": "2026-10-13T16:44:45+00:00"
-    },
-    {
-      "title": "Canada, allies press Palestinian Authority to reverse decision on postponing elections",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-canada-allies-press-palestinian-authority-to-reverse-decision-on/",
-      "published_date": "2026-10-13T16:33:31+00:00"
-    },
-    {
-      "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – as it happened",
-      "source": "The Guardian World",
-      "country": "Russia",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-      "published_date": "2026-10-13T16:23:21+00:00"
     }
   ]
 }
