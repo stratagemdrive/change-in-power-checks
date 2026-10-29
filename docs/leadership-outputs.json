@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-29T02:09:14.105342+00:00",
-    "story_count": 647,
+    "last_updated": "2026-10-29T17:25:07.325475+00:00",
+    "story_count": 675,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,328 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran targeted Israeli election, US midterms with cyber, recruitment plans – report",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913265",
+      "published_date": "2026-10-29T18:01:58+00:00"
+    },
+    {
+      "title": "2027: Oyebanji, Tompolo mobilise Ekiti voters for Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-oyebanji-tompolo-mobilise-ekiti-voters-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-10-29T17:59:23+00:00"
+    },
+    {
+      "title": "Eisenkot accuses Netanyahu of attempting to delegitimize election results",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913268",
+      "published_date": "2026-10-29T17:56:00+00:00"
+    },
+    {
+      "title": "Eisenkot warns Netanyahu is working to 'delegitimise' Israel's election results",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-working-delegitimise-israel-election-results",
+      "published_date": "2026-10-29T17:04:01+00:00"
+    },
+    {
+      "title": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published_date": "2026-10-29T17:03:15+00:00"
+    },
+    {
+      "title": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
+      "published_date": "2026-10-29T16:13:39+00:00"
+    },
+    {
+      "title": "The five issues that determine the Middle East's view of Israel's elections - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/article-913245",
+      "published_date": "2026-10-29T16:10:42+00:00"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T15:47:20+00:00"
+    },
+    {
+      "title": "Moscow Judge Sentences Exiled Libertarian Mikhail Svetov to One Year in Prison",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/10/29/moscow-judge-sentences-exiled-libertarian-mikhail-svetov-to-one-year-in-prison-a94125",
+      "published_date": "2026-10-29T15:44:45+00:00"
+    },
+    {
+      "title": "Trump says Brazil election was ‘a disgrace’",
+      "source": "Vanguard Nigeria",
+      "country": "Brazil",
+      "url": "https://www.vanguardngr.com/2026/10/trump-says-brazil-election-was-a-disgrace/",
+      "published_date": "2026-10-29T15:44:02+00:00"
+    },
+    {
+      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+      "published_date": "2026-10-29T15:35:53+00:00"
+    },
+    {
+      "title": "Israeli press review: Netanyahu moved to undermine Palestinian vote on election day",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israeli-press-review-netanyahu-moved-undermine-palestinian-vote-election-day",
+      "published_date": "2026-10-29T15:19:47+00:00"
+    },
+    {
+      "title": "Netanyahu’s Likud claims Palestinians ‘stole’ elections as Qatar denies meddling",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-likud-claims-palestinians-stole-elections-qatar-denies",
+      "published_date": "2026-10-29T15:06:45+00:00"
+    },
+    {
+      "title": "Far-right Zehut party leader calls for Israel to annul election results",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/far-right-zehut-party-leader-calls-israel-annul-election-results",
+      "published_date": "2026-10-29T15:02:42+00:00"
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "source": "BBC World",
+      "country": "Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T14:58:28+00:00"
+    },
+    {
+      "title": "Podcast | Pashinyan just won in June — why is he calling for snap elections?",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/podcast-pashinyan-just-won-in-june-why-is-he-calling-for-snap-elections/",
+      "published_date": "2026-10-29T14:53:40+00:00"
+    },
+    {
+      "title": "¿Por qué un 77% considera que el desempeño del Presidente Kast es peor de lo que se esperaba?",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/por-que-un-77-considera-que-el-desempeno-del-presidente-kast-es-peor-de-lo-que-se-esperaba/",
+      "published_date": "2026-10-29T14:51:00+00:00"
+    },
+    {
+      "title": "Diputada Charpentier critica posibles apoyos oficialistas a una AC a Rabat: “No se abandona al Presidente por ejecutar la Constitución”",
+      "source": "La Tercera Chile",
+      "country": "Morocco",
+      "url": "https://www.latercera.com/politica/noticia/diputada-charpentier-critica-posibles-apoyos-oficialistas-a-una-ac-a-rabat-no-se-abandona-al-presidente-por-ejecutar-la-constitucion/",
+      "published_date": "2026-10-29T13:56:20+00:00"
+    },
+    {
+      "title": "Israel’s election will inevitably impact Gaza for Palestinians who have no vote",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/israels-election-will-inevitably-impact-gaza-for-palestinians-who-have-no-vote/",
+      "published_date": "2026-10-29T13:54:47+00:00"
+    },
+    {
+      "title": "Netanyahu falls short of majority as Israel faces three possible paths to a new government - Fox News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTh5ekJQQmMxNEpySXJkWmlJNjljb3VTendQakktN3BwYnRRTERMb3NPUnVoNjJyalNtOHBscUpMWHBKUndiM2tfU0xhY0lZcHBoSnFkb3l4b2pRakhQMkxWdUt0b0w1aTVBVzkxU3VjUGVjTnR3dUlra3RYdWtCbVY0TVdWNHo4NXUySXNOYm1FU3E3QTNheXh2aXFFVjFoOVNScFVraDlQa19qcGlnS0RJN2owckJiXzZhVNIBwgFBVV95cUxPM1MwMEJGcjQycE9yTmhqTUpkeXpLREJlazVmOXBuWmRKQW9SM0Z1ZGc4UGdjLTlwcXNNcnZ2cS1KemVHUnJrNmh6Y3pRRVd6RV9XaHNmWnNNS3l2TXJfU1ZSOVFLamgxSGNkSWU1SUVCQ0pwT1FjdWhjcndGaUlDYW5qOC1XaGd3WmV6ZXhSb3NTVEhaWjJMWmNtX0tweEowWXd6U0NONlVVNmhyWFpoSmpaeTBCVW5ybUc0M2xrTWNnQQ?oc=5",
+      "published_date": "2026-10-29T13:47:49+00:00"
+    },
+    {
+      "title": "Final Israeli election results are almost in. Netanyahu hasn’t won – but he hasn’t lost either",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/final-israeli-election-results-are-almost-in-netanyahu-hasnt-won-but-he-hasnt-lost-either/",
+      "published_date": "2026-10-29T13:40:54+00:00"
+    },
+    {
+      "title": "Netanyahu claims Palestinians ‘stole’ elections as Qatar slams 'ridiculous and dangerous' allegations",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/qatar-rejects-ridiculous-israels-likud-claims-election-interference",
+      "published_date": "2026-10-29T13:37:05+00:00"
+    },
+    {
+      "title": "Trump criticized over 'highly unusual' posts about Canadian provincial election wins",
+      "source": "The Independent UK",
+      "country": "Canada",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-provincial-election-mark-carney-b3075127.html",
+      "published_date": "2026-10-29T13:35:16+00:00"
+    },
+    {
+      "title": "Netanyahu’s party claims election ‘stolen’ by ‘foreign entities’ - Financial Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORW5PYnM3US05TWhGYi02bGNTZkNoS3NHNmUyQmNYNnc1WGdnTW04LWRVLW9WUWJuTnh0c2ZOTDdJWElmeFIwMkRndUdHWFFjN0RHREx3NS1FN3Y2T2pUdmFJeHF6cldrRWtlNXhqWkRDTm4xWXUzeTliRzlLaGVCWVJ5aEw?oc=5",
+      "published_date": "2026-10-29T13:17:13+00:00"
+    },
+    {
+      "title": "Israelis await final election results as difficult choices lie ahead",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261029-israelis-await-final-election-results-as-difficult-choices-lie-ahead",
+      "published_date": "2026-10-29T12:59:18+00:00"
+    },
+    {
+      "title": "Ukraine's parliament calls on world not to recognize Russia's State Duma 'elections'",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179376-ukraines-parliament-calls-on-world-not-to-recognize-russias-state-duma-elections.html",
+      "published_date": "2026-10-29T12:59:00+00:00"
+    },
+    {
+      "title": "Qatar denies interference in Israeli elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-interference-israeli-elections",
+      "published_date": "2026-10-29T12:58:13+00:00"
+    },
+    {
+      "title": "South Korean prosecutors press for death sentence in Yoon martial law case",
+      "source": "Al Jazeera English",
+      "country": "South Korea",
+      "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss",
+      "published_date": "2026-10-29T12:36:43+00:00"
+    },
+    {
+      "title": "Israeli man, 94, dies shortly after casting vote for Netanyahu’s opponent in historic election",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-vote-election-benjamin-netanyahu-gadi-eisenkot-b3075580.html",
+      "published_date": "2026-10-29T12:07:55+00:00"
+    },
+    {
+      "title": "Can Lula’s re-election unlock Mercosur markets for Southeast Asia?",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/week-asia/economics/article/3372589/can-lulas-re-election-unlock-mercosur-markets-southeast-asia",
+      "published_date": "2026-10-29T12:00:06+00:00"
+    },
+    {
+      "title": "Trump says he will look at helping Netanyahu after Israeli prime minister claims election ‘stolen’",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/donald-trump-israel-election-government-b3075400.html",
+      "published_date": "2026-10-29T11:27:22+00:00"
+    },
+    {
+      "title": "Israel: protesters demand Arab-Jewish unity government after election",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election",
+      "published_date": "2026-10-29T11:20:33+00:00"
+    },
+    {
+      "title": "US midterm elections could determine Ukraine’s future, Zelensky warns",
+      "source": "The Independent UK",
+      "country": "Ukraine",
+      "url": "https://www.independent.co.uk/news/world/europe/zelensky-ukraine-war-us-midterms-trump-b3075428.html",
+      "published_date": "2026-10-29T11:05:39+00:00"
+    },
+    {
+      "title": "The political fallout of Bolsonaro's exodus after Brazilian election defeat",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/brazil-elections-us-bolsonaro-lula-donald-trump-b3075513.html",
+      "published_date": "2026-10-29T10:42:57+00:00"
+    },
+    {
+      "title": "Ra'am's Abbas rejects election interference claims, denies Qatari links 'unlike Netanyahu'",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913196",
+      "published_date": "2026-10-29T10:41:02+00:00"
+    },
+    {
+      "title": "Shin Bet probes suspected Qatari, Turkish funding to boost Arab turnout in Israeli election",
+      "source": "Jerusalem Post",
+      "country": "Turkey",
+      "url": "https://www.jpost.com/israel-election-2026/article-913187",
+      "published_date": "2026-10-29T09:29:32+00:00"
+    },
+    {
+      "title": "Elections, corruption scandals and assassination attempts: Netanyahu’s remarkable history of survival",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-israel-election-results-assassination-corruption-b3075452.html",
+      "published_date": "2026-10-29T09:25:59+00:00"
+    },
+    {
+      "title": "Myanmar junta launches arson spree in Sagaing after colonel’s killing",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-arson-spree-in-sagaing-after-colonels-killing/",
+      "published_date": "2026-10-29T09:18:00+00:00"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T09:06:48+00:00"
+    },
+    {
+      "title": "South Korean prosecutor seeks death penalty for Yoon over martial law",
+      "source": "South China Morning Post",
+      "country": "South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3372576/south-korean-prosecutor-seeks-death-penalty-yoon-over-martial-law",
+      "published_date": "2026-10-29T08:43:41+00:00"
+    },
+    {
+      "title": "Myanmar junta columns suffer heavy losses in Sagaing as resistance attacks intensify",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-columns-suffer-heavy-losses-in-sagaing-as-resistance-attacks-intensify/",
+      "published_date": "2026-10-29T08:13:41+00:00"
+    },
+    {
+      "title": "South Korean prosecutor seeks death penalty for ex-President Yoon over martial law debacle - AP News",
+      "source": "Google News World",
+      "country": "South Korea",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWJma2ppNVR3MnY4aVU2aFBPeWhheHdGcHNfQXJPOXkxXzRaMHAxYmo3dUVkbWVBUVhsRmFGQnRzaURuN3hFT05YeC1aNzZqLUdoa041cFZhNzZxd0xNOVBnbnlIUUpTQnZCcFgwbFBLSnZUcWEtLW1rcDdiVGFKRnFIQjB3V0s5M21ieVFud3FPY0QzVzVmNGIzNWw?oc=5",
+      "published_date": "2026-10-29T07:47:32+00:00"
+    },
+    {
+      "title": "MLC election result 2026 LIVE: BJP wins 9 of 23 seats in Uttar Pradesh, Bihar, Karnataka MLC polls; SP bags 5 in UP",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-congress-bjp-up-bihar-maharashtra-karnataka-winners-list-winning-seats-latest-101793250963733.html",
+      "published_date": "2026-10-29T06:06:02+00:00"
+    },
+    {
+      "title": "Israelis await final election results as Netanyahu's bloc holds slight edge",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-election-9.7400701?cmp=rss",
+      "published_date": "2026-10-29T05:10:33+00:00"
+    },
+    {
+      "title": "Myanmar official breaks down at UN as he urges world to ‘end our suffering’ under junta",
+      "source": "The Independent UK",
+      "country": "Myanmar",
+      "url": "https://www.independent.co.uk/tv/news/myanmar-un-speech-diplomat-junta-suffering-b3075336.html",
+      "published_date": "2026-10-29T05:00:27+00:00"
+    },
+    {
+      "title": "Four scenarios that could play out after Israel’s election as Netanyahu tries to cling onto power",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-results-who-won-netanyahu-coalition-b3075329.html",
+      "published_date": "2026-10-29T04:17:53+00:00"
+    },
     {
       "title": "Petistas veem Flávio tentar sabotar relação Lula-Trump e se enfraquecer ao se proclamar presidente",
       "source": "Folha de S Paulo",
@@ -221,18 +543,18 @@
       "published_date": "2026-10-28T20:32:29+00:00"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T20:24:39+00:00"
-    },
-    {
       "title": "How do Israeli election results impact timing of possible new Iran war? - analysis",
       "source": "Jerusalem Post",
       "country": "Iran",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
       "published_date": "2026-10-28T20:12:04+00:00"
+    },
+    {
+      "title": "BJP suffers setback in bastions in UP MLC polls, SP gets boost ahead of 2027 assembly elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bjp-suffers-setback-in-bastions-in-uttar-prades-up-mlc-polls-samajwadi-party-sp-gets-boost-ahead-of-2027-assembly-elections-101793217980515.html",
+      "published_date": "2026-10-28T20:06:19+00:00"
     },
     {
       "title": "What's at stake for Trump in Israel's deadlocked election?",
@@ -331,13 +653,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/bihar-mlc-elections-bjp-wins-2-leads-on-1-jdu-rjd-jsp-win-1-seat-each-independents-2-101793207161923.html",
       "published_date": "2026-10-28T17:38:46+00:00"
-    },
-    {
-      "title": "Trump criticized over 'highly unusual' posts about Canadian provincial election wins",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-provincial-election-mark-carney-b3075127.html",
-      "published_date": "2026-10-28T17:32:31+00:00"
     },
     {
       "title": "Netanyahu's Likud alleges Arab parties 'stole' Israeli election, demands investigation",
@@ -541,13 +856,6 @@
       "country": "Brazil",
       "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
       "published_date": "2026-10-28T14:32:16+00:00"
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T14:30:31+00:00"
     },
     {
       "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
@@ -4475,118 +4783,6 @@
       "country": "Canada",
       "url": "https://www.theglobeandmail.com/canada/alberta/article-carney-unity-alberta-referendum-secession-independence/",
       "published_date": "2026-10-15T18:43:56+00:00"
-    },
-    {
-      "title": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
-      "source": "France 24 English",
-      "country": "Palestine",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
-      "published_date": "2026-10-15T16:17:23+00:00"
-    },
-    {
-      "title": "Russian prosecutors withdraw asset-seizure lawsuit against Timur Turlov, the new president of the International Chess Federation",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/15/russian-prosecutors-withdraw-asset-seizure-lawsuit-against-timur-turlov-the-new-president-of-the-international-chess-federation",
-      "published_date": "2026-10-15T16:04:56+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
-      "published_date": "2026-10-15T15:06:52+00:00"
-    },
-    {
-      "title": "Valdemar minimiza efeito do fim da 6x1 para Lula e diz que só atende eleitores do presidente",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/valdemar-minimiza-efeito-do-fim-da-6x1-para-lula-e-diz-que-so-atende-eleitores-do-presidente.shtml",
-      "published_date": "2026-10-15T14:45:00+00:00"
-    },
-    {
-      "title": "Gobierno del presidente De La Espriella atribuye a la administración Petro la ejecución más baja del acuerdo de paz: apenas el 4,66 %",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-del-presidente-de-la-espriella-atribuye-a-la-administracion-petro-la-ejecucion-mas-baja-del-acuerdo-de-paz-4-3593712",
-      "published_date": "2026-10-15T14:26:34+00:00"
-    },
-    {
-      "title": "Presidente Kast nombra a directora nacional de Aeropuertos a partir de nómina del Consejo de Alta Dirección Pública",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-nombra-a-directora-nacional-de-aeropuertos-a-partir-de-nomina-del-consejo-de-alta-direccion-publica/",
-      "published_date": "2026-10-15T13:59:57+00:00"
-    },
-    {
-      "title": "Palestinians fear violent olive harvest ahead of Israeli elections",
-      "source": "Dawn Pakistan",
-      "country": "Palestine",
-      "url": "https://www.dawn.com/news/2037356/palestinians-fear-violent-olive-harvest-ahead-of-israeli-elections",
-      "published_date": "2026-10-15T11:38:52+00:00"
-    },
-    {
-      "title": "Marine Le Pen sends message to EU before latest French election bid",
-      "source": "The Independent UK",
-      "country": "France",
-      "url": "https://www.independent.co.uk/news/world/europe/marine-le-pen-trial-of-strength-eu-france-presidential-election-bid-b3067360.html",
-      "published_date": "2026-10-15T11:18:32+00:00"
-    },
-    {
-      "title": "EU leaders clash over trillion-euro budget as fears grow over French election fallout",
-      "source": "South China Morning Post",
-      "country": "France",
-      "url": "https://www.scmp.com/news/world/europe/article/3371036/eu-leaders-clash-over-trillion-euro-budget-fears-grow-over-french-election-fallout?utm_source=rss_feed",
-      "published_date": "2026-10-15T10:42:26+00:00"
-    },
-    {
-      "title": "At least 8 civilians killed by Myanmar junta airstrikes near Mon-Karen border",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/at-least-8-civilians-killed-by-myanmar-junta-airstrikes-near-mon-karen-border/",
-      "published_date": "2026-10-15T10:40:33+00:00"
-    },
-    {
-      "title": "Israel: Netanyahu and Eisenkot clash over Palestinian statehood ahead of elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/israel-netanyahu-and-eisenkot-clash-over-palestinian-statehood-ahead-elections",
-      "published_date": "2026-10-15T10:07:30+00:00"
-    },
-    {
-      "title": "Brazil's elections matter for the planet. This is why",
-      "source": "Deutsche Welle English",
-      "country": "Brazil",
-      "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-15T09:52:00+00:00"
-    },
-    {
-      "title": "Israel’s 2026 election: Who are the main leaders and where do they stand on the key issues?",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/explainers/election-israel-gaza-netanyahu-eisenkot-policy-draft",
-      "published_date": "2026-10-15T09:41:13+00:00"
-    },
-    {
-      "title": "KIO/KIA rejects Myanmar junta’s offer of peace talks",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/kio-kia-rejects-myanmar-juntas-offer-of-peace-talks/",
-      "published_date": "2026-10-15T08:10:25+00:00"
-    },
-    {
-      "title": "BJP says ‘objective is regime change’ after Neha Bora's remarks on Bangladesh's Gen Z movement sparks row",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/neha-bora-bangladesh-gen-z-remark-triggers-row-bjp-says-objective-is-regime-change-amid-delhi-protests-cec-eci-sir-row-101792044968642.html",
-      "published_date": "2026-10-15T06:56:43+00:00"
-    },
-    {
-      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-      "published_date": "2026-10-15T02:45:42+00:00"
     }
   ]
 }
