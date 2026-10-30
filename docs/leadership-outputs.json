@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-30T02:23:35.529810+00:00",
-    "story_count": 688,
+    "last_updated": "2026-10-30T17:03:27.157389+00:00",
+    "story_count": 699,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,207 @@
   },
   "stories": [
     {
+      "title": "Israel: Tibi urges Eisenkot to show 'courage' and form minority government with Palestinians",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israel-tibi-urges-eisenkot-show-courage-and-form-minority-government-palestinians",
+      "published_date": "2026-10-30T16:27:57+00:00"
+    },
+    {
+      "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
+      "published_date": "2026-10-30T15:34:03+00:00"
+    },
+    {
+      "title": "Yuli Edelstein: Israel's election results show why a national unity government is needed - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-913222",
+      "published_date": "2026-10-30T15:32:55+00:00"
+    },
+    {
+      "title": "Explainer | Could Armenia have a snap election as soon as next year?",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/explainer-could-armenia-have-a-snap-election-as-soon-as-next-year/",
+      "published_date": "2026-10-30T15:27:33+00:00"
+    },
+    {
+      "title": "2027: Atiku’s son unveils plan for Tinubu’s re-election",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/10/2027-atikus-son-unveils-plan-for-tinubus-re-election/",
+      "published_date": "2026-10-30T15:26:29+00:00"
+    },
+    {
+      "title": "Israel's election ends in deadlock as final results show no clear winner",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner",
+      "published_date": "2026-10-30T15:24:24+00:00"
+    },
+    {
+      "title": "An Arab political earthquake reshapes Israeli elections",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/an-arab-political-earthquake-reshapes-israeli-elections/",
+      "published_date": "2026-10-30T15:13:52+00:00"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T15:09:29+00:00"
+    },
+    {
+      "title": "What next as Netanyahu's party claims Israel's election was stolen? - CBS News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVhJbXZZRElZdVFLaTBIRUQ3SzJqZVhmeEs1TDRFcDQzSEtPYjV2ZFEyVVY1WXBoamY5SEVpQ1Y1eW5JeEw1Ym1JNUctSXJkWUFwUzBrdkxhYnlaemhQTnpzamlhMDZ3b3RpYTJWd2JpSXVnR3hnVXVXYVRJSTZ4SWZCOGpCMHB6R0dYTWZDc1VhSWk3LTl3Z0NiTQ?oc=5",
+      "published_date": "2026-10-30T14:39:20+00:00"
+    },
+    {
+      "title": "2027: PDP says party’s presidential candidate still in race despite backing Tinubu",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/921578-2027-pdp-says-partys-presidential-candidate-still-in-race-despite-backing-tinubu.html",
+      "published_date": "2026-10-30T14:29:17+00:00"
+    },
+    {
+      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "source": "The Guardian World",
+      "country": "Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "published_date": "2026-10-30T14:08:41+00:00"
+    },
+    {
+      "title": "Trump: US-Iran war will 'get wrapped up soon,' speaking ahead of midterm elections",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913344",
+      "published_date": "2026-10-30T14:03:12+00:00"
+    },
+    {
+      "title": "Netanyahu survived Israel's election - but a political reckoning may only be beginning",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
+      "published_date": "2026-10-30T13:30:04+00:00"
+    },
+    {
+      "title": "Sudan RSF commander defects from Hemedti’s forces",
+      "source": "Al Jazeera English",
+      "country": "Sudan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
+      "published_date": "2026-10-30T12:55:10+00:00"
+    },
+    {
+      "title": "Venezuela’s Exiled Opposition Leader Comes Home",
+      "source": "Foreign Policy",
+      "country": "Venezuela",
+      "url": "https://foreignpolicy.com/2026/10/30/venezuela-machado-elections-us-rubio-rodriguez-oil/",
+      "published_date": "2026-10-30T12:00:01+00:00"
+    },
+    {
+      "title": "Pashinyan threatens to metaphorically ‘break arms and legs’ of election fraudsters",
+      "source": "OC Media Caucasus",
+      "country": "Armenia",
+      "url": "https://oc-media.org/pashinyan-threatens-to-metaphorically-break-arms-and-legs-of-election-fraudsters/",
+      "published_date": "2026-10-30T11:49:49+00:00"
+    },
+    {
+      "title": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israeli-voter-bribery-probe-limited-and-unlikely-affect-election-results-shin-bet-sources-say",
+      "published_date": "2026-10-30T11:29:11+00:00"
+    },
+    {
+      "title": "Germany takes cautious approach on Israeli election results",
+      "source": "Deutsche Welle English",
+      "country": "Germany",
+      "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-10-30T11:26:00+00:00"
+    },
+    {
+      "title": "Myanmar junta bombs religious ceremony; kills own POWs in Chin State",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-religious-ceremony-kills-own-pows-in-chin-state/",
+      "published_date": "2026-10-30T11:22:46+00:00"
+    },
+    {
+      "title": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/-uk-miliband-determined-sanction-settlements-regardless-israeli-election-outcome",
+      "published_date": "2026-10-30T11:00:23+00:00"
+    },
+    {
+      "title": "Netanyahu's bloc finishes ahead in Israel election, but well short of majority",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2040919/netanyahus-bloc-finishes-ahead-in-israel-election-but-well-short-of-majority",
+      "published_date": "2026-10-30T10:53:06+00:00"
+    },
+    {
+      "title": "French presidential candidate Édouard Philippe designated 'assisted witness' in embezzlement case",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/2026/10/30/french-presidential-candidate-edouard-philippe-designated-assisted-witness-in-embezzlement",
+      "published_date": "2026-10-30T09:54:09+00:00"
+    },
+    {
+      "title": "PM Modi attacks opponents, says govt didn’t let burden of fertiliser prices fall on farmers",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-attacks-opponents-says-govt-didn-t-let-burden-of-fertiliser-prices-fall-on-farmers-101793351404520.html",
+      "published_date": "2026-10-30T09:10:04+00:00"
+    },
+    {
+      "title": "Politburo promotion, Lula victory, US midterm elections",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/plus/news/china/politics/article/3372719/politburo-promotion-lula-victory-us-midterm-elections",
+      "published_date": "2026-10-30T09:00:31+00:00"
+    },
+    {
+      "title": "INDIA bloc meet highlights: Opposition postpones ‘public impeachment’ of CEC to Saturday over bad weather, rain in Delhi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-bloc-meeting-live-updates-congress-rahul-gandhi-kharge-priyanka-gyanesh-kumar-public-impeachment-cec-protest-cjp-101793337630696.html",
+      "published_date": "2026-10-30T06:04:12+00:00"
+    },
+    {
+      "title": "HT Morning Brief Oct 30: Delhi air quality improves after rain, Netanyahu’s party falls short of majority in Israel elections",
+      "source": "Hindustan Times",
+      "country": "Israel",
+      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-20-delhi-air-quality-improves-after-overnight-rain-netanyahu-party-falls-short-of-majority-in-israel-elections-101793333009109.html",
+      "published_date": "2026-10-30T04:51:51+00:00"
+    },
+    {
+      "title": "Venezuela’s Rodríguez vows to hold election as Machado asks when",
+      "source": "Japan Times",
+      "country": "Venezuela",
+      "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/venezuela-election-poser/",
+      "published_date": "2026-10-30T04:06:00+00:00"
+    },
+    {
       "title": "Eisenkot warns Netanyahu is attempting to deligitmise the elections",
       "source": "Middle East Eye",
       "country": "Israel",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-attempting-deligitmise-elections",
       "published_date": "2026-10-30T01:48:31+00:00"
+    },
+    {
+      "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFNrbUIxRWJ4RWpMVThaZ3ZGcWg1dUphMHM5VEdla0pmanNZTk1ILWpOcDdBM3VzWTQwWEplTUQ4ZnRIc3pEYkhOTEFiSklJaXZXb3Nra00wM1I2S095eVJfUVowcGNwU2FsbVp3QXJCM294ZDgxNURPRzlMazh5M3ZqQWJ2YTE1WTFzX1NB?oc=5",
+      "published_date": "2026-10-29T23:37:35+00:00"
     },
     {
       "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
@@ -116,6 +312,13 @@
       "published_date": "2026-10-29T21:13:42+00:00"
     },
     {
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "source": "BBC World",
+      "country": "Venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T21:05:03+00:00"
+    },
+    {
       "title": "Israel election result shows no overall majority as vote count complete - Al Jazeera",
       "source": "Google News World",
       "country": "Israel",
@@ -130,11 +333,11 @@
       "published_date": "2026-10-29T20:22:04+00:00"
     },
     {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T20:21:54+00:00"
+      "title": "Left-wing Berlin mayor candidate’s private Hamas remarks complicate coalition talks - POLITICO.eu",
+      "source": "Google News World",
+      "country": "Germany",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3VaNDBpbHdCclEyODgyeXR6cmNvbFlMc0JYOWJMcG1XZ3RQalp2TWNzZjBaaVR0Sllzcl9vUzU2elBQWS1naWZQMklvNW5uRWc1MmpOMzNNaThTcUVNT0NFbVVza3JIZlFNcVNhczdtWGlIUDZOQy1EeUQ4eTE1Vk96VmpoYXc1eV9NTFlnVTBjNk1EaE1USlpMUkY?oc=5",
+      "published_date": "2026-10-29T19:29:00+00:00"
     },
     {
       "title": "Israel election results: Netanyahu's Likud biggest party in Israel after all votes counted",
@@ -4748,132 +4951,6 @@
       "country": "Iran",
       "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
       "published_date": "2026-10-16T18:21:43+00:00"
-    },
-    {
-      "title": "Kast concreta histórica visita oficial a Bolivia y presidente Paz compromete viaje de Estado a Chile",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/las-primeras-horas-de-la-visita-express-de-kast-a-bolivia/",
-      "published_date": "2026-10-16T16:30:32+00:00"
-    },
-    {
-      "title": "Madagascar marks one year since uprising as Russia’s influence grows",
-      "source": "RFI English",
-      "country": "Russia",
-      "url": "https://www.rfi.fr/en/africa/20261016-madagascar-marks-one-year-since-uprising-as-russia-s-influence-grows",
-      "published_date": "2026-10-16T16:02:39+00:00"
-    },
-    {
-      "title": "Regime change in India happens through elections, seeking it not wrong: Congress on Rajnath Singh’s remarks",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/opposition-is-to-oppose-expose-depose-congress-pranab-reminder-to-rajnath-singh/article71591779.ece",
-      "published_date": "2026-10-16T15:03:42+00:00"
-    },
-    {
-      "title": "Azerbaijan opens criminal case over calls for coup, declares Turkish columnist wanted",
-      "source": "OC Media Caucasus",
-      "country": "Azerbaijan",
-      "url": "https://oc-media.org/azerbaijan-opens-criminal-case-over-calls-for-coup-declares-turkish-columnist-wanted/",
-      "published_date": "2026-10-16T14:08:42+00:00"
-    },
-    {
-      "title": "Israel picks between 'secular democracy or theocracy' in election, chess master Garry Kasparov says",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-911910",
-      "published_date": "2026-10-16T13:27:27+00:00"
-    },
-    {
-      "title": "2027: Tinubu afraid to face Nigerians, has no business seeking re-election — ADC campaign",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/2027-tinubu-afraid-to-face-nigerians-has-no-business-seeking-re-election-adc-campaign-2/",
-      "published_date": "2026-10-16T13:16:08+00:00"
-    },
-    {
-      "title": "Presidente Kast aterriza en Bolivia y rompe una pausa histórica de 71 años",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-aterriza-a-bolivia-y-rompe-una-pausa-historica-de-71-anos/",
-      "published_date": "2026-10-16T12:32:36+00:00"
-    },
-    {
-      "title": "See the Amazon rainforest wildfires that have politicians pointing fingers amid Brazil presidential elections",
-      "source": "CBC News World",
-      "country": "Brazil",
-      "url": "https://www.cbc.ca/news/world/amazon-wildfires-photos-brazil-election-9.7383383?cmp=rss",
-      "published_date": "2026-10-16T11:45:37+00:00"
-    },
-    {
-      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzJ1bGRTOVRwQ2hfU1A0X3lnZm1wcnI3Tnhuc1Z2OTVtSWVHR180S29HMWZGV1NpWHNlc1JRY3pxWUNjc1l6M0RoYW92ODJWVTZVNTFVTVhQMTlsUFZTOU1Oemluajk3Q3NsZ1VEOXJ4c3RiVkRyYnFYUGUtWVNDdy1OSQ?oc=5",
-      "published_date": "2026-10-16T09:56:26+00:00"
-    },
-    {
-      "title": "Somalia sets date for May presidential election amid ongoing Islamist insurgency",
-      "source": "RFI English",
-      "country": "Somalia",
-      "url": "https://www.rfi.fr/en/africa/20261016-somalia-sets-date-for-may-presidential-election-amid-ongoing-islamist-insurgency",
-      "published_date": "2026-10-16T09:53:55+00:00"
-    },
-    {
-      "title": "18 countries, including Pakistan, condemn inauguration of Colombian embassy in Jerusalem",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2037582/18-countries-including-pakistan-condemn-inauguration-of-colombian-embassy-in-jerusalem",
-      "published_date": "2026-10-16T09:44:32+00:00"
-    },
-    {
-      "title": "Prashant Bhushan says anti-CEC protest now a ‘fight for regime change’, BJP hits back with 'conspiracy' charge",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/prashant-bhushans-regime-change-remark-gets-stern-response-from-bjp-using-nations-youth-as-pawns-101792134148133.html",
-      "published_date": "2026-10-16T07:57:00+00:00"
-    },
-    {
-      "title": "‘They want to break us so they can own us’: Canadian PM warns of US threat ahead of Alberta vote",
-      "source": "The Independent UK",
-      "country": "Canada",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/carney-alberta-referendum-canada-us-b3067900.html",
-      "published_date": "2026-10-16T07:47:30+00:00"
-    },
-    {
-      "title": "Exclusive Brethren head denies knowing church members were volunteering for Liberal party during 2025 election",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb",
-      "published_date": "2026-10-16T06:58:24+00:00"
-    },
-    {
-      "title": "Alberta separation referendum: Carney reaches out to Indo-Canadians citing stronger India ties",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/alberta-separation-referendum-carney-reaches-out-to-indo-canadians-citing-stronger-india-ties-101792128448148.html",
-      "published_date": "2026-10-16T05:27:27+00:00"
-    },
-    {
-      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS01NlM0UEFqaXlCNTlIbFk4QkZKeEJlQ29Scmg3NlBpaEVoN2FtUlJaVlc5MWlETl9sWEZ3R2xaTV9aNUxsdjUwd3djSm9oSm9PYnBWVlNJeXQ5U1JtTHJNclNxYkhlUXdfSktIeE9nSzBCYTRwRGU2MGczLU9faU5oNXF0NzBSV0tnRm9Fek03Q0tlVVF1ZURzVUthUjJKRnk3Q29B?oc=5",
-      "published_date": "2026-10-16T04:54:00+00:00"
-    },
-    {
-      "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
-      "source": "Deutsche Welle English",
-      "country": "Canada",
-      "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-16T04:24:00+00:00"
-    },
-    {
-      "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-      "source": "The Guardian World",
-      "country": "Yemen",
-      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "published_date": "2026-10-16T04:00:50+00:00"
     }
   ]
 }
