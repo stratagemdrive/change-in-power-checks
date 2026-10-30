@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-29T17:25:07.325475+00:00",
-    "story_count": 675,
+    "last_updated": "2026-10-30T02:23:35.529810+00:00",
+    "story_count": 688,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Eisenkot warns Netanyahu is attempting to deligitmise the elections",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-attempting-deligitmise-elections",
+      "published_date": "2026-10-30T01:48:31+00:00"
+    },
+    {
+      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
+      "published_date": "2026-10-29T23:32:33+00:00"
+    },
+    {
+      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
+      "published_date": "2026-10-29T23:24:00+00:00"
+    },
+    {
+      "title": "Detienen a mujer de 22 años por presuntas amenazas de muerte contra el Presidente Kast en redes sociales",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/detienen-a-mujer-de-22-anos-por-presuntas-amenazas-de-muerte-contra-el-presidente-kast-en-redes-sociales/",
+      "published_date": "2026-10-29T22:29:42+00:00"
+    },
+    {
+      "title": "Broken promises or new elections? Netanyahu, Eisenkot face coalition dilemma",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913296",
+      "published_date": "2026-10-29T21:46:57+00:00"
+    },
+    {
+      "title": "Brazil’s Flavio Bolsonaro mocked at home after self-exile to US",
+      "source": "South China Morning Post",
+      "country": "Brazil",
+      "url": "https://www.scmp.com/news/world/americas/article/3372641/brazils-flavio-bolsonaro-mocked-home-after-self-exile-us",
+      "published_date": "2026-10-29T21:42:06+00:00"
+    },
+    {
+      "title": "The portraits of dead friends are coming off the walls. After 29 years, Russia’s independent Novaya Gazeta newspaper is being forced out of its Moscow newsroom.",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/10/30/the-portraits-of-dead-friends-are-coming-off-the-walls-after-29-years-russia-s-independent-novaya-gazeta-newspaper-is-being-forced-out-of-its-moscow-newsroom",
+      "published_date": "2026-10-29T21:14:12+00:00"
+    },
+    {
+      "title": "Bolsonaro ally blames ChatGPT for now-deleted 'president-elect of Brazil' claim - Reuters",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFnNFUyVW1scnk2Ni02NDdLa0xabkpPUC1rZUpVUG8xYXhlNUg5a19jSENoYk5ldl94ZXNNV0tfYXJjWGFaVU5zamlUNHlqU2NwU0VyR2dJVWVuakI0cG9vQy1RLWlnbmNfdGNyMzdSVUk2UDNFaDBPcUloWGxZa0k0b0lEakpGaFdvb3VxRFowR3N4enZGbGJrNFNaYmptUE92cjNTckNTMVhSY1pHUXVLY0tySDBpMktEbVVJeHhwVzJCLTFITA?oc=5",
+      "published_date": "2026-10-29T21:13:42+00:00"
+    },
+    {
+      "title": "Israel election result shows no overall majority as vote count complete - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlRKcmM0b2Q5Q3I3YS1KejlBOUVUNGtpZ3k0NG0wRG1uZHlKWktycWtnd1JQLUh2dG1LWWxaTVJMRTZFTDB3OXpXaVVVQlBXQm1YUzFPeU16b2dQdDVjcU1yRWdzOXV5V0lqNVo2X0pNVFlYXzE2eEFrU3U3bEdwT1JnRmRHMlRrTW4tMDhvcVJIdHVqZEFOMjNmVXpNMWVrajhJNlRGcWh3SHljTVVHWG1EVdIBuAFBVV95cUxNTFNTejBtc3J6M1Q2aVJrVWpLSTBrNWo5RlFLUVh1a05kbFh0YUZRTTUwXzA5Wlh6WGlYUXNBbEVFVHAzMGd4c2JSSmpzZW1sdGkySThWb29DeDVteGpGbUJsMEtjTEEzY3pvMDZWSWJZQ2dITGkzUFdQWkhFR1lOZTd2TERVOW5XN1JHa0dHdWtwcEhQc3pTOENabXZESExtZnhIVy1DNFEwTlZtSm5YSWJya3lMdUZE?oc=5",
+      "published_date": "2026-10-29T20:29:43+00:00"
+    },
+    {
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "published_date": "2026-10-29T20:22:04+00:00"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T20:21:54+00:00"
+    },
+    {
+      "title": "Israel election results: Netanyahu's Likud biggest party in Israel after all votes counted",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913237",
+      "published_date": "2026-10-29T19:25:31+00:00"
+    },
+    {
+      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+      "source": "Al Jazeera English",
+      "country": "Brazil",
+      "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+      "published_date": "2026-10-29T19:21:19+00:00"
+    },
+    {
+      "title": "2027: Tompolo, Oyebanji task Ekiti voters on landslide win for Tinubu, unveil 25 vehicles",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/921387-2027-tompolo-oyebanji-task-ekiti-voters-on-landslide-win-for-tinubu-unveil-25-vehicles.html",
+      "published_date": "2026-10-29T18:54:38+00:00"
+    },
+    {
+      "title": "In South Africa, municipal elections collide with solidarity for Gaza",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/news/in-south-africa-municipal-elections-collide-with-solidarity-for-gaza",
+      "published_date": "2026-10-29T18:36:22+00:00"
+    },
     {
       "title": "Iran targeted Israeli election, US midterms with cyber, recruitment plans – report",
       "source": "Jerusalem Post",
@@ -81,18 +186,46 @@
       "published_date": "2026-10-29T17:56:00+00:00"
     },
     {
+      "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published_date": "2026-10-29T17:49:57+00:00"
+    },
+    {
+      "title": "Modi'in Mayor Haim Bibas calls for Netanyahu-Eisenkot unity government, warns against new elections",
+      "source": "Jerusalem Post",
+      "country": "India",
+      "url": "https://www.jpost.com/israel-election-2026/article-913264",
+      "published_date": "2026-10-29T17:48:36+00:00"
+    },
+    {
+      "title": "After losing his majority, Netanyahu tries to delegitimize election results",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+      "published_date": "2026-10-29T17:46:19+00:00"
+    },
+    {
+      "title": "Lessons for the BJP from Uttar Pradesh MLC election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/lessons-for-the-bjp-from-uttar-pradesh-mlc-election/article71640197.ece",
+      "published_date": "2026-10-29T17:40:47+00:00"
+    },
+    {
+      "title": "Biden officials who resigned over Gaza call on US presidential candidates not to hire Israel enablers",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/biden-officials-who-resigned-over-gaza-call-us-presidential-candidates-not-hire-israel",
+      "published_date": "2026-10-29T17:27:40+00:00"
+    },
+    {
       "title": "Eisenkot warns Netanyahu is working to 'delegitimise' Israel's election results",
       "source": "Middle East Eye",
       "country": "Israel",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-working-delegitimise-israel-election-results",
       "published_date": "2026-10-29T17:04:01+00:00"
-    },
-    {
-      "title": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published_date": "2026-10-29T17:03:15+00:00"
     },
     {
       "title": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
@@ -177,6 +310,13 @@
       "country": "Chile",
       "url": "https://www.latercera.com/videos/noticia/por-que-un-77-considera-que-el-desempeno-del-presidente-kast-es-peor-de-lo-que-se-esperaba/",
       "published_date": "2026-10-29T14:51:00+00:00"
+    },
+    {
+      "title": "Netanyahu's party amplifies unproven claims that Arab-led parties have ‘stolen' Israel's election",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-election-9.7400701?cmp=rss",
+      "published_date": "2026-10-29T14:05:52+00:00"
     },
     {
       "title": "Diputada Charpentier critica posibles apoyos oficialistas a una AC a Rabat: “No se abandona al Presidente por ejecutar la Constitución”",
@@ -347,6 +487,13 @@
       "published_date": "2026-10-29T08:13:41+00:00"
     },
     {
+      "title": "Iran’s plot to disrupt US midterms and meddle in Israel election - The Telegraph",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlZZNFBJRHRyc1h6Y0hpZnUzSTVqVUJTSDlYM3FwYk9mQTFMemtPY0t4ZWt3cmdGYjlPNXBlZ01hMWVrUVRKSUlPaFVZbE5KUDR5ZW9HemUtaU96MzVxTHBBQ203Rmh0M1RxcEx6eG1ISGptY3RpRWVCSmxVbEItUEtWdXhoYTAzQkd0UThsMFgyNG1HMkN6eA?oc=5",
+      "published_date": "2026-10-29T08:00:00+00:00"
+    },
+    {
       "title": "South Korean prosecutor seeks death penalty for ex-President Yoon over martial law debacle - AP News",
       "source": "Google News World",
       "country": "South Korea",
@@ -354,18 +501,11 @@
       "published_date": "2026-10-29T07:47:32+00:00"
     },
     {
-      "title": "MLC election result 2026 LIVE: BJP wins 9 of 23 seats in Uttar Pradesh, Bihar, Karnataka MLC polls; SP bags 5 in UP",
+      "title": "MLC election result 2026: BJP wins 9 of 23 seats in Uttar Pradesh, Bihar, Karnataka MLC polls; SP bags 5 in UP",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-congress-bjp-up-bihar-maharashtra-karnataka-winners-list-winning-seats-latest-101793250963733.html",
       "published_date": "2026-10-29T06:06:02+00:00"
-    },
-    {
-      "title": "Israelis await final election results as Netanyahu's bloc holds slight edge",
-      "source": "CBC News World",
-      "country": "Israel",
-      "url": "https://www.cbc.ca/news/world/israel-election-9.7400701?cmp=rss",
-      "published_date": "2026-10-29T05:10:33+00:00"
     },
     {
       "title": "Myanmar official breaks down at UN as he urges world to ‘end our suffering’ under junta",
@@ -527,6 +667,13 @@
       "country": "Morocco",
       "url": "https://www.latercera.com/politica/noticia/presidente-de-la-camara-llama-a-reconsiderar-ac-contra-ministro-rabat-hay-que-pensar-si-esto-ayuda-en-algo-a-las-victimas/",
       "published_date": "2026-10-28T20:52:20+00:00"
+    },
+    {
+      "title": "UNSMIL continues London meetings towards holding Libyan presidential and legislative elections",
+      "source": "Libya Herald",
+      "country": "United Kingdom",
+      "url": "https://libyaherald.com/2026/10/unsmil-continues-london-meetings-towards-holding-libyan-presidential-and-legislative-elections/",
+      "published_date": "2026-10-28T20:42:00+00:00"
     },
     {
       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
@@ -4727,62 +4874,6 @@
       "country": "Yemen",
       "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
       "published_date": "2026-10-16T04:00:50+00:00"
-    },
-    {
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "source": "BBC World",
-      "country": "France",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T23:25:06+00:00"
-    },
-    {
-      "title": "Conceden la extradición del “marcador” de la banda que ejecutó el atentado mortal contra el precandidato a presidente de Colombia Miguel Uribe Turbay",
-      "source": "La Nacion Argentina",
-      "country": "Colombia",
-      "url": "https://www.lanacion.com.ar/seguridad/conceden-la-extradicion-del-marcador-de-la-banda-que-ejecuto-el-atentado-mortal-contra-el-nid15102026/",
-      "published_date": "2026-10-15T22:16:36+00:00"
-    },
-    {
-      "title": "WATCH: Israel ‘very close’ to creating conditions for regime change in Iran, Netanyahu adviser says",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/article-911874",
-      "published_date": "2026-10-15T21:24:27+00:00"
-    },
-    {
-      "title": "Benjamín Netanyahu elogió al presidente Abelardo De La Espriella tras inauguración de embajada de Colombia en Israel: 'Una gran valentía y visión'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
-      "published_date": "2026-10-15T20:17:27+00:00"
-    },
-    {
-      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
-      "published_date": "2026-10-15T20:07:58+00:00"
-    },
-    {
-      "title": "Somalia says it will hold elections in 2027",
-      "source": "Al Jazeera English",
-      "country": "Somalia",
-      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-      "published_date": "2026-10-15T20:04:02+00:00"
-    },
-    {
-      "title": "Tinubu orders security chiefs to rescue abductees, guarantee safe elections",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/tinubu-orders-security-chiefs-to-rescue-abductees-guarantee-safe-elections/",
-      "published_date": "2026-10-15T19:47:19+00:00"
-    },
-    {
-      "title": "Carney stumps for unity as Alberta referendum approaches",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-carney-unity-alberta-referendum-secession-independence/",
-      "published_date": "2026-10-15T18:43:56+00:00"
     }
   ]
 }
