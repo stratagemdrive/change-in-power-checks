@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-31T02:02:22.805019+00:00",
-    "story_count": 698,
+    "last_updated": "2026-10-31T16:03:05.846575+00:00",
+    "story_count": 700,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,111 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+      "published_date": "2026-10-31T15:09:38+00:00"
+    },
+    {
+      "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack - Axios",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklRbXFqZnZtWHlsU2NLNVdnY2l5ZXlHQzZtYmFiMWFWOWlPbzFVME1YU092WjV5RjlRLWdzanVfOG1nbUpsUWxuT1hLeGRLZ0dQZmlOOGNveklydEdmWkVzRE82eDdpQ2VzRUhYZmFHSjNmWm5VV3hzaEZ5VkxlWGE0dEt0aW8?oc=5",
+      "published_date": "2026-10-31T14:30:30+00:00"
+    },
+    {
+      "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+      "source": "Axios World",
+      "country": "Iran",
+      "url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+      "published_date": "2026-10-31T14:27:22+00:00"
+    },
+    {
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - The New York Times",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5",
+      "published_date": "2026-10-31T14:22:20+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader warns US, Israel against war",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+      "published_date": "2026-10-31T14:16:26+00:00"
+    },
+    {
+      "title": "Like father, like son: How Flavio Bolsonaro followed Jair’s footsteps fleeing election defeat for the US",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/flavio-bolsonaro-jair-election-defeat-lula-florida-b3075857.html",
+      "published_date": "2026-10-31T13:32:26+00:00"
+    },
+    {
+      "title": "What are the possible scenarios after Israel’s elections?",
+      "source": "Egypt Independent",
+      "country": "Israel",
+      "url": "https://www.egyptindependent.com/what-are-the-possible-scenarios-after-israels-elections/",
+      "published_date": "2026-10-31T13:29:25+00:00"
+    },
+    {
+      "title": "Below the threshold: Elkin, Sukkot, Radman among those left out of 26th Knesset after election",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913391",
+      "published_date": "2026-10-31T13:13:50+00:00"
+    },
+    {
+      "title": "Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2041187/irans-supreme-leader-warns-us-israel-of-unrestricted-geographical-response-to-new-attacks",
+      "published_date": "2026-10-31T12:09:29+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader warns US, Israel against new attacks",
+      "source": "Vanguard Nigeria",
+      "country": "Israel",
+      "url": "https://www.vanguardngr.com/2026/10/irans-supreme-leader-warns-us-israel-against-new-attacks/",
+      "published_date": "2026-10-31T11:57:59+00:00"
+    },
+    {
+      "title": "Kharge accuses CEC Gyanesh Kumar of 'treason', levels 6 charges during INDIA bloc's mock impeachment",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/kharge-accuses-cec-gyanesh-kumar-of-treason-levels-6-charges-during-india-blocs-mock-impeachment-101793445136961.html",
+      "published_date": "2026-10-31T11:35:31+00:00"
+    },
+    {
+      "title": "Hardeep Puri files nomination for Rajya Sabha by-election from Madhya Pradesh",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/hardeep-puri-files-nomination-for-rajya-sabha-by-election-from-madhya-pradesh-l-murugan-bjp-101793441368577.html",
+      "published_date": "2026-10-31T10:22:55+00:00"
+    },
+    {
+      "title": "Netanyahu survives the election, but Eisenkot holds key to replacing him - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913382",
+      "published_date": "2026-10-31T09:22:40+00:00"
+    },
+    {
+      "title": "Kharge to move motion, ex-LS speaker Meira Kumar to preside over INDIA bloc's mock impeachment of CEC Gyanesh Kumar",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-bloc-mock-impeachment-cec-gyanesh-kumar-mallikarjun-kharge-to-move-motion-meira-kumar-to-preside-rahul-gandhi-concluding-remarks-101793427380287.html",
+      "published_date": "2026-10-31T08:14:21+00:00"
+    },
+    {
+      "title": "Opposition bloc considers reviving direct elections without dissolving Knesset to end stalemate",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913379",
+      "published_date": "2026-10-31T08:05:48+00:00"
+    },
     {
       "title": "Cristián Monckeberg arremete contra Carlos Larraín por exigir lealtad a Kast: “Le hizo la vida imposible al Presidente Piñera”",
       "source": "La Tercera Chile",
@@ -270,6 +375,13 @@
       "published_date": "2026-10-30T06:04:12+00:00"
     },
     {
+      "title": "Netanyahu alleges stolen election as he seeks political survival amid uncertainty - The Washington Post",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnRJTGF6azN5ZXhTaUZKazRnSUVBb2FoVzJldXJTdEQ2MzVxNjZsYndaNWYzb3hROFI4QUUxZlk3SkEybnVjTUpZOS1hbzVUd1dlNkNyQXMtNTkxeVBVLXMzVGk5RVh5TEJMT1MxVVh0S2xwTzduc1YxZjkwemtnWVIyTjFQc05HaTFKbHVLQXo2NnZTTWVnc05QcFFCLWJzUVYwVWNfU0pqY3F6d1Z1ellVVjNnOEZNdU9mdkcyRE5Ic25aTGc?oc=5",
+      "published_date": "2026-10-30T05:35:54+00:00"
+    },
+    {
       "title": "HT Morning Brief Oct 30: Delhi air quality improves after rain, Netanyahu’s party falls short of majority in Israel elections",
       "source": "Hindustan Times",
       "country": "Israel",
@@ -295,7 +407,7 @@
       "source": "Google News World",
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFNrbUIxRWJ4RWpMVThaZ3ZGcWg1dUphMHM5VEdla0pmanNZTk1ILWpOcDdBM3VzWTQwWEplTUQ4ZnRIc3pEYkhOTEFiSklJaXZXb3Nra00wM1I2S095eVJfUVowcGNwU2FsbVp3QXJCM294ZDgxNURPRzlMazh5M3ZqQWJ2YTE1WTFzX1NB?oc=5",
-      "published_date": "2026-10-29T23:37:35+00:00"
+      "published_date": "2026-10-29T23:37:36+00:00"
     },
     {
       "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
@@ -4846,104 +4958,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-avaliam-que-lula-se-comportou-como-presidente-em-vez-de-candidato-em-sabatina-na-globo.shtml",
       "published_date": "2026-10-17T17:15:00+00:00"
-    },
-    {
-      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
-      "published_date": "2026-10-17T15:45:53+00:00"
-    },
-    {
-      "title": "Russian forces execute captured Ukrainian soldiers in Huliaipole sector",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4175472-russian-forces-execute-captured-ukrainian-soldiers-in-huliaipole-sector.html",
-      "published_date": "2026-10-17T15:21:00+00:00"
-    },
-    {
-      "title": "Investors bank on Tinubu’s re-election, continuity of reforms — Oyedele",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/investors-bank-on-tinubus-re-election-continuity-of-reforms-oyedele/",
-      "published_date": "2026-10-17T12:48:48+00:00"
-    },
-    {
-      "title": "Azov Regiment denies Russian claims of capturing three settlements near Dobropillia",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4175428-azov-regiment-denies-russian-claims-of-capturing-three-settlements-near-dobropillia.html",
-      "published_date": "2026-10-17T11:58:00+00:00"
-    },
-    {
-      "title": "Brett Robinson, presidente de World Rugby: “La candidatura al Mundial de Chile, Argentina, Uruguay y Brasil es muy fuerte”",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/el-deportivo/noticia/brett-robinson-presidente-de-world-rugby-la-candidatura-al-mundial-de-chile-argentina-uruguay-y-brasil-es-muy-fuerte/",
-      "published_date": "2026-10-17T09:00:01+00:00"
-    },
-    {
-      "title": "2027: Support groups back Tinubu’s re-election, APC candidates in Kwara",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-support-groups-back-tinubus-re-election-apc-candidates-in-kwara/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-17T09:00:00+00:00"
-    },
-    {
-      "title": "France PM says around 1,200 arrested, 150 police officers injured amid nationwide day of protests",
-      "source": "CBC News World",
-      "country": "France",
-      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148?cmp=rss",
-      "published_date": "2026-10-17T08:46:51+00:00"
-    },
-    {
-      "title": "Now-ousted US general warned of defense munition shortage months before Iran war - report",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/international/article-911953",
-      "published_date": "2026-10-17T07:17:19+00:00"
-    },
-    {
-      "title": "Milei y Rubio abordan comercio, inversiones y seguridad horas después de que el presidente argentino dejara EE.UU.",
-      "source": "La Tercera Chile",
-      "country": "Argentina",
-      "url": "https://www.latercera.com/mundo/noticia/milei-y-rubio-abordan-comercio-inversiones-y-seguridad-horas-despues-de-que-el-presidente-argentino-dejara-eeuu/",
-      "published_date": "2026-10-17T04:11:31+00:00"
-    },
-    {
-      "title": "Shunned in the West, Ye hands Indonesia a rare mega-tour coup",
-      "source": "South China Morning Post",
-      "country": "Indonesia",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371180/shunned-west-ye-hands-indonesia-rare-mega-tour-coup?utm_source=rss_feed",
-      "published_date": "2026-10-17T04:00:09+00:00"
-    },
-    {
-      "title": "Russia is using an army of bots to push fake U.S. election videos",
-      "source": "Japan Times",
-      "country": "Russia",
-      "url": "https://www.japantimes.co.jp/news/2026/10/17/world/russia-disinformation-bots-us-midterms/",
-      "published_date": "2026-10-17T03:20:00+00:00"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T02:33:09+00:00"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms - BBC",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wRkxqN0RKSWtmVk8wMHRDcER0RUQyNDJMS2dDMDJVbV81X3VFenRwSVdOY0wyd19pVGNPWjJQbUsyQTBhMnZIOGhFZi1IN2ZwMHVmY0JVYy1Lc0k?oc=5",
-      "published_date": "2026-10-17T02:33:09+00:00"
-    },
-    {
-      "title": "Ex-Shin Bet chief warns Netanyahu could deliberately escalate tensions ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-911944",
-      "published_date": "2026-10-17T01:58:18+00:00"
     }
   ]
 }
