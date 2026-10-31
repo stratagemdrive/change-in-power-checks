@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-30T17:03:27.157389+00:00",
-    "story_count": 699,
+    "last_updated": "2026-10-31T02:02:22.805019+00:00",
+    "story_count": 698,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Cristián Monckeberg arremete contra Carlos Larraín por exigir lealtad a Kast: “Le hizo la vida imposible al Presidente Piñera”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/cristian-monckeberg-arremete-contra-carlos-larrain-por-exigir-lealtad-a-kast-le-hizo-la-vida-imposible-al-presidente-pinera/",
+      "published_date": "2026-10-31T01:24:04+00:00"
+    },
+    {
+      "title": "Liberals jump ahead of Tories in fundraising as by-election calls loom",
+      "source": "Globe and Mail Politics",
+      "country": "United Kingdom",
+      "url": "https://www.theglobeandmail.com/politics/article-liberal-conservative-fundraising-by-elections-carney-poilievre/",
+      "published_date": "2026-10-31T00:19:03+00:00"
+    },
+    {
+      "title": "Partido Republicano agradece gestión de Luis Silva tras su salida del gobierno y expresa apoyo a las decisiones del Presidente Kast",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/partido-republicano-agradece-gestion-de-luis-silva-tras-su-salida-del-gobierno-y-expresa-apoyo-a-las-decisiones-del-presidente-kast/",
+      "published_date": "2026-10-30T23:44:17+00:00"
+    },
+    {
+      "title": "November 1 rally will reflect public anger over Election Commission, says Rahul Gandhi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/november-1-rally-will-reflect-public-anger-over-election-commission-says-rahul-gandhi-101793386050178.html",
+      "published_date": "2026-10-30T18:47:29+00:00"
+    },
+    {
+      "title": "“Netanyahu n’a pas gagné, il a perdu, et de loin”, dit l’ex-Premier ministre israélien Ehud Barak",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261030-netanyahu-n-a-pas-gagn%C3%A9-il-a-perdu-et-de-loin-dit-l-ex-premier-ministre-isra%C3%A9lien-ehud-barak",
+      "published_date": "2026-10-30T17:03:35+00:00"
+    },
     {
       "title": "Israel: Tibi urges Eisenkot to show 'courage' and form minority government with Palestinians",
       "source": "Middle East Eye",
@@ -4909,48 +4944,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-911944",
       "published_date": "2026-10-17T01:58:18+00:00"
-    },
-    {
-      "title": "Presidente Kast por dichos de Poduje contra Milei: “Lamentamos las expresiones y esto no se va a volver a repetir”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-por-dichos-de-poduje-contra-milei-lamentamos-las-expresiones-y-esto-no-se-va-a-volver-a-repetir/",
-      "published_date": "2026-10-16T23:53:13+00:00"
-    },
-    {
-      "title": "Yemen government forces claim Houthi drone operating team captured",
-      "source": "Middle East Eye",
-      "country": "Yemen",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-government-forces-claim-houthi-drone-operating-team-captured",
-      "published_date": "2026-10-16T23:35:48+00:00"
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report - Al Jazeera",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb09tNHpiRm02LTRUVlpHWkRVTEN1REItNzhPYUlfb0NJUzB4bllnaEhzZ19JRDIyd3RWYlpFcVVjRWMwMUZXUmdham1NZzBXRlJRM09Sck90X2FJXzJxTXM2SWxoWElxaUdVWHllSkphdnRwN01DWHN2bXFBeGdRdHVVMTVCajRmbWZscWJWYTExbWFoX2UzUnA4eUQwbHZSdjgzbncwOXhOR1Y5ZUdWXzVqZFNKZ9IBuwFBVV95cUxNOE9JNWQyZHhaRWtZeWlZQVNJVXlqODBKSnZmc0c3d2RSM1BpS3lmaVJqLURoelB5NXEzZGo1NUtLcllEV0NELVlld0NpeHBaa0k0cVdHYzZUdmF3NXJabVppUkNQcEpDUWpKM3VIeGRNRGJsclJOaW81RDFwLURyd0V3cEFRV3BIR1o5V3FNV3ZFbE5SbklXVTZSQzZaOFBQdWJqbVJWUy16WTg2ZmZpcU5CN21BZzVJOFJj?oc=5",
-      "published_date": "2026-10-16T21:11:49+00:00"
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-      "published_date": "2026-10-16T21:08:50+00:00"
-    },
-    {
-      "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
-      "published_date": "2026-10-16T20:28:08+00:00"
-    },
-    {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "source": "Al Jazeera English",
-      "country": "Iran",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-16T18:21:43+00:00"
     }
   ]
 }
