@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-01T01:49:47.586487+00:00",
-    "story_count": 705,
+    "last_updated": "2026-11-01T17:06:32.498539+00:00",
+    "story_count": 706,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,137 @@
   },
   "stories": [
     {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "title": "Criteria: desaprobación del Presidente Kast llega a 65% y aprobación se ubica en 25%",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/criteria-desaprobacion-del-presidente-kast-llega-a-65-y-aprobacion-se-ubica-en-25/",
+      "published_date": "2026-11-01T15:30:09+00:00"
+    },
+    {
+      "title": "Joint List MK investigated on suspicion of receiving Qatari funding during Israel's 2026 elections",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-913469",
+      "published_date": "2026-11-01T14:46:37+00:00"
+    },
+    {
+      "title": "Photos: Thousands join India’s opposition rally against election chief",
+      "source": "Al Jazeera English",
+      "country": "India",
+      "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+      "published_date": "2026-11-01T14:46:03+00:00"
+    },
+    {
+      "title": "PDP, NDC members defect to APC as ‘Tinubu Must Stay’ spreads to Jigawa",
+      "source": "Vanguard Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.vanguardngr.com/2026/11/pdp-ndc-members-defect-to-apc-as-tinubu-must-stay-spreads-to-jigawa/",
+      "published_date": "2026-11-01T14:34:09+00:00"
+    },
+    {
+      "title": "Israel election: When will government be formed, who will lead it? - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2xLdVlqTFd2SXdOeWpyZ3ZWMkhTTWc0emM3MHRzNGMxdXAwZDBqWVBYU0lSbnFPSXlWOGFoYzZQa0o0SmdMQWNEb0NpQjhHMjJ4aE9IZWlZd3dMMjYxWndWRXJiMEhBTHRPX25ZVGR5c3p4TEhEUGtrYTdoSUlRZUFfNkIwak93RkRER0pNaVV2WUNZRktGVHNzbjBBSUpUYWg2ZEVzMNIBrAFBVV95cUxQM0VrcXVxbE1WVDNCMW13SFdzeTZUN2cxOGFGSW5oMjY0c3Z5VDFKWHBBOFFzcFEyd05fNldkWHV6RWJfZ2w5WHoyLWZ4NlFISFlScjlTTmtIRExjNFcyWXNjTDFyVmRINThqRVhuSnBkejYtTDdFcS1VTHdkOG5mYXhWYVZOQ0pva2RwVDZVSlRvcWNtbDV2cHhCNGdNWXlsMm1zdEZjS0ZZaGpP?oc=5",
+      "published_date": "2026-11-01T14:25:38+00:00"
+    },
+    {
+      "title": "Israel election: When will government be formed, who will lead it?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+      "published_date": "2026-11-01T14:16:14+00:00"
+    },
+    {
+      "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+      "source": "Euronews",
+      "country": "Iran",
+      "url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+      "published_date": "2026-11-01T12:10:19+00:00"
+    },
+    {
+      "title": "Russia’s Independent Journalism Will Survive in Exile, Gershkovich Says at Inaugural Derk Sauer Lecture",
+      "source": "Moscow Times",
+      "country": "Russia",
+      "url": "https://www.themoscowtimes.com/2026/11/01/russias-independent-journalism-will-survive-in-exile-gershkovich-says-at-inaugural-derk-sauer-lecture-a94145",
+      "published_date": "2026-11-01T12:04:57+00:00"
+    },
+    {
+      "title": "‘Modi jayega’: Kharge reiterates remarks on PM at INDIA bloc rally, alleges BJP govt formed on ‘stolen mandate’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-jayega-kharge-reiterates-remarks-on-pm-at-india-bloc-rally-claims-bjp-govt-formed-on-stolen-mandate-101793530006635.html",
+      "published_date": "2026-11-01T11:24:41+00:00"
+    },
+    {
+      "title": "The week in pictures: Lula's victory, Israeli elections and Spain train crash",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/europe/20261101-the-week-in-pictures-lula-s-victory-israeli-elections-and-spain-train-crash",
+      "published_date": "2026-11-01T11:14:42+00:00"
+    },
+    {
+      "title": "'Your turn to become PM won't come': Amit Shah takes potshots at Rahul Gandhi amid INDIA bloc protest",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/your-turn-to-become-pm-wont-come-amit-shah-takes-potshots-at-rahul-gandhi-amid-india-bloc-protest-101793527766545.html",
+      "published_date": "2026-11-01T10:41:29+00:00"
+    },
+    {
+      "title": "Indian opposition unites to demand Modi electoral chief’s resignation",
+      "source": "South China Morning Post",
+      "country": "India",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation",
+      "published_date": "2026-11-01T10:13:07+00:00"
+    },
+    {
+      "title": "Trump welcomes Flavio Bolsonaro after losing Brazil elections: 'Stay here as long as he ​wants'",
+      "source": "The Independent UK",
+      "country": "Brazil",
+      "url": "https://www.independent.co.uk/news/world/americas/trump-flavio-bolsonaro-america-brazil-b3077031.html",
+      "published_date": "2026-11-01T09:08:25+00:00"
+    },
+    {
+      "title": "Meghalaya minister resigns days after 11 of 12 party MLAs join BJP, CM Conrad Sangma's party",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/meghalaya-minister-metbah-lyngdoh-resigns-days-after-udp-party-11-of-12-mlas-join-bjp-cm-conrad-k-sangma-party-npp-101793519351281.html",
+      "published_date": "2026-11-01T08:30:09+00:00"
+    },
+    {
+      "title": "Donald Trump loses allies after elections in Serbia and Brazil - DW.com",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV4U0NwMVZKWllGQ1h1UmNJMTJTMk1MVWxWWDlGeEhlSnI1bVF5X2kwWUZyaE82cmpXeEhfTmZ3TThEcS0yMWJvRlhuZ2NtdktMSHY5T3prTHg1NENxQVZtS3luXzN6T3dybVpKQmFKM0dTMjg4eW40UkFZaEpvVEJOSU03QWxzX2NTZzZaOGdVc0RvczFPUzBHTdIBmwFBVV95cUxPaUE4OFh0aU9YallUUnl6V09vYkhpX1VPYUI2SFRQM2REUGY3N0JRYnR6RUx4TVgxQlJ6bUdDY0RpRGVQS1l2YlZTMDVMSk9hamtKV3Nib1NpUV9wQ1Z3R2d3T0lRUW5TM3BjR1BUWWVES2ZUcHR0dFhPX2xGdWZnZXlMeXNvRldlRXB4NW4yVkZha24tNGhaN0FTaw?oc=5",
+      "published_date": "2026-11-01T08:15:06+00:00"
+    },
+    {
+      "title": "Donald Trump loses allies after elections in Serbia and Brazil",
+      "source": "Deutsche Welle English",
+      "country": "Brazil",
+      "url": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-01T08:11:00+00:00"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
       "source": "BBC World",
       "country": "India",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-01T00:12:07+00:00"
+      "published_date": "2026-11-01T07:00:55+00:00"
+    },
+    {
+      "title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
+      "source": "France 24 English",
+      "country": "India",
+      "url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+      "published_date": "2026-11-01T06:24:17+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma traslado masivo de 33 presos desde San Andrés hacia Bogotá: dio detalles del operativo",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-traslado-masivo-de-33-presos-desde-san-andres-hacia-bogota-dio-detalles-del-operativo-3597786",
+      "published_date": "2026-11-01T03:42:02+00:00"
     },
     {
       "title": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil",
@@ -4874,125 +5000,6 @@
       "country": "Israel",
       "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
       "published_date": "2026-10-18T17:04:13+00:00"
-    },
-    {
-      "title": "Zelensky: Ukrainian forces have liberated more territory since start of fall than Russia has captured",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4175697-zelensky-ukrainian-forces-have-liberated-more-territory-since-start-of-fall-than-russia-has-captured.html",
-      "published_date": "2026-10-18T16:59:00+00:00"
-    },
-    {
-      "title": "Trump endorses ally Netanyahu in upcoming Israeli election: 'Strong, Brave, and Brilliant'",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-netanyahu-israel-election-truth-social-b3068824.html",
-      "published_date": "2026-10-18T16:49:32+00:00"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israeli election",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2038051/trump-endorses-netanyahu-in-israeli-election",
-      "published_date": "2026-10-18T16:44:41+00:00"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "published_date": "2026-10-18T16:36:26+00:00"
-    },
-    {
-      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
-      "published_date": "2026-10-18T16:25:00+00:00"
-    },
-    {
-      "title": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli-election",
-      "published_date": "2026-10-18T16:00:07+00:00"
-    },
-    {
-      "title": "Netanyahu thanks Trump for 'tremendous support' before Israel elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-thanks-trump-tremendous-support-israel-elections",
-      "published_date": "2026-10-18T15:33:21+00:00"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israel's upcoming election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-endorses-netanyahu-israels-upcoming-election",
-      "published_date": "2026-10-18T15:27:42+00:00"
-    },
-    {
-      "title": "Expresidente Álvaro Uribe se reunió con Florentino Pérez, presidente del Real Madrid: acordaron ayudas para víctimas del terremoto en Colombia",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/exmandatario-alvaro-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-acordaron-ayudas-para-victimas-del-terremoto-en-colombia-3594411",
-      "published_date": "2026-10-18T15:23:50+00:00"
-    },
-    {
-      "title": "Criteria: aprobación de Presidente Kast llega a 28% y desaprobación anota un 60%",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-llega-a-28-y-desaprobacion-anota-un-60/",
-      "published_date": "2026-10-18T14:56:37+00:00"
-    },
-    {
-      "title": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
-      "source": "Sky News World",
-      "country": "Israel",
-      "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
-      "published_date": "2026-10-18T14:50:00+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro reúne apoiadores na Paulista em manifestação e fala que o país está 'sem presidente'",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-se-reunem-na-paulista-para-manifestacao.shtml",
-      "published_date": "2026-10-18T14:24:00+00:00"
-    },
-    {
-      "title": "Why have France’s school protests become a wider political crisis?",
-      "source": "Al Jazeera English",
-      "country": "France",
-      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
-      "published_date": "2026-10-18T13:48:04+00:00"
-    },
-    {
-      "title": "Iran's parliament approves Mehrdad Akhlaghi as defense minister after predecessor killed by Israel",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912028",
-      "published_date": "2026-10-18T12:24:47+00:00"
-    },
-    {
-      "title": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports - Reuters",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGI0cE1DeTdnOWdhX2lHY08tdWpob3JyNEt5d2ZrbDVyeUZ5U1dGQzFnS1YxTTl6d2lzWVdlX0V6U0x0NkRMS29rM2dGNE1MWF9wd2JlMi0teXM2M2x1Y1Zoc1liWXFULVNraU1XT3ZlSm1Ta29sanVIUDNpVFZPUTRLMzN0d2hrVkhQQUNkcEk2dm1YZzdFemZPNy1kNEplZV8ta09mTTVrRlF3Sm9NVS0zaUdOblFaZEV6Y0NZRHdqM3VKUUZuUGs0bnNiYTA?oc=5",
-      "published_date": "2026-10-18T09:32:10+00:00"
-    },
-    {
-      "title": "The Future of the Amazon Rainforest Could Depend on Brazil's Election - The New York Times",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkdUeXdyMV9IM0lSTWdCb045bUhiak1ncllUNXFZWUNWUWZodVFpMnpUZGNFZTRPZ0xEZWpJZnk0VGh5djE0c01pMzRVSkpNM3laMjVVWmF2MGdSQTlLN0h2WnNVamNjQkg4WVZkWVMxdUt6T3pzY1FpYlJORkdMUjNRb2RFcDltQzAxaTdiRUFscTRyV1FPeHptY19Jc3BvOFNkR2hn?oc=5",
-      "published_date": "2026-10-18T05:00:00+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml",
-      "published_date": "2026-10-18T02:00:00+00:00"
     }
   ]
 }
