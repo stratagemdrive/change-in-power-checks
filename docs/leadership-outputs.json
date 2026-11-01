@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-10-31T16:03:05.846575+00:00",
-    "story_count": 700,
+    "last_updated": "2026-11-01T01:49:47.586487+00:00",
+    "story_count": 705,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,60 @@
   },
   "stories": [
     {
-      "title": "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "source": "BBC World",
+      "country": "India",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-01T00:12:07+00:00"
+    },
+    {
+      "title": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil",
+      "source": "La Nacion Argentina",
+      "country": "Brazil",
+      "url": "https://www.lanacion.com.ar/politica/tras-la-derrota-y-huida-de-flavio-bolsonaro-el-presidente-milei-quedo-sin-socios-en-brasil-nid31102026/",
+      "published_date": "2026-10-31T23:20:42+00:00"
+    },
+    {
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "published_date": "2026-10-31T20:24:58+00:00"
+    },
+    {
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - The New York Times",
+      "source": "Google News World",
+      "country": "Iran",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5",
+      "published_date": "2026-10-31T20:04:18+00:00"
+    },
+    {
+      "title": "Opposition holds ‘impeachment’ of CEC Gyanesh Kumar; BJP terms it ‘drama’",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/opposition-public-impeachment-cec-chief-election-commissioner-gyanesh-kumar-sir-special-intensive-revision-bjp-rahul-gandhi-congress-101793474370501.html",
+      "published_date": "2026-10-31T19:19:30+00:00"
+    },
+    {
+      "title": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-bloc-holds-symbolic-public-impeachment-of-cec-gyanesh-kumar-on-six-charges/article71650457.ece",
+      "published_date": "2026-10-31T18:37:13+00:00"
+    },
+    {
+      "title": "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | HIGHLIGHTS",
       "source": "The Hindu Politics",
       "country": "India",
       "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
-      "published_date": "2026-10-31T15:09:38+00:00"
+      "published_date": "2026-10-31T16:56:08+00:00"
+    },
+    {
+      "title": "India opposition parties hold mock impeachment of poll chief",
+      "source": "Dawn Pakistan",
+      "country": "India",
+      "url": "https://www.dawn.com/news/2041212/india-opposition-parties-hold-mock-impeachment-of-poll-chief",
+      "published_date": "2026-10-31T16:21:58+00:00"
     },
     {
       "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack - Axios",
@@ -79,13 +128,6 @@
       "country": "Iran",
       "url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
       "published_date": "2026-10-31T14:27:22+00:00"
-    },
-    {
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - The New York Times",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5",
-      "published_date": "2026-10-31T14:22:20+00:00"
     },
     {
       "title": "Iran’s supreme leader warns US, Israel against war",
@@ -165,6 +207,13 @@
       "published_date": "2026-10-31T08:05:48+00:00"
     },
     {
+      "title": "Anti-SIR protest: 'Not going to let Gyanesh Kumar escape,' says Rahul Gandhi at mock Parliament impeachment event",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-public-impeachment-rahul-gandhi-cec-gyanesh-kumar-cjp-dipke-bora-chalo-dilli-march-news-101793418660900.html",
+      "published_date": "2026-10-31T04:49:10+00:00"
+    },
+    {
       "title": "Cristián Monckeberg arremete contra Carlos Larraín por exigir lealtad a Kast: “Le hizo la vida imposible al Presidente Piñera”",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -205,6 +254,13 @@
       "country": "Israel",
       "url": "https://www.middleeasteye.net/news/israel-tibi-urges-eisenkot-show-courage-and-form-minority-government-palestinians",
       "published_date": "2026-10-30T16:27:57+00:00"
+    },
+    {
+      "title": "Mossad joins Shin Bet probe into alleged Qatar election interference - report - The Jerusalem Post",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bDVGXzN3SzlvajVpVEt2cXhqaWlWVW83Um8xTlZNbzBfU1pqQTBXRHRuQ3dNN1h4bjNPbU1mVVRhNlJJeGlNSmZVdkxIcmpSV3dRelFJWThubnp1elZqM1dUWkJUaDgz?oc=5",
+      "published_date": "2026-10-30T16:22:55+00:00"
     },
     {
       "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
@@ -4937,27 +4993,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml",
       "published_date": "2026-10-18T02:00:00+00:00"
-    },
-    {
-      "title": "INDIA bloc leaders in Tamil Nadu stage protest against SIR, seek CEC’s resignation",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-leaders-in-tamil-nadu-stage-protest-against-sir-seek-cecs-resignation/article71588097.ece",
-      "published_date": "2026-10-17T23:39:31+00:00"
-    },
-    {
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "source": "Al Jazeera English",
-      "country": "Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-      "published_date": "2026-10-17T19:04:00+00:00"
-    },
-    {
-      "title": "Aliados avaliam que Lula se comportou como presidente em vez de candidato em sabatina na Globo",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-avaliam-que-lula-se-comportou-como-presidente-em-vez-de-candidato-em-sabatina-na-globo.shtml",
-      "published_date": "2026-10-17T17:15:00+00:00"
     }
   ]
 }
