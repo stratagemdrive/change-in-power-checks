@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-01T17:06:32.498539+00:00",
+    "last_updated": "2026-11-02T02:06:23.044311+00:00",
     "story_count": 706,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+      "published_date": "2026-11-02T01:12:23+00:00"
+    },
+    {
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "published_date": "2026-11-02T00:29:16+00:00"
+    },
+    {
+      "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote - Politico",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9TZXk3dG55dWJ3eGVTcFo5S3VVanNpRDFhT2hoWFZqSGJaQnlLaGZ3MHljVGVCOHNsZzZqSGdzXzl4WnNfLXJuRVVXOXdUM1hTWVF4bk85aEg4Unc2NzlOSDJJQUdJcURDdlNnUUJCT25TR3hXcDEzVFdHQkpYOHVvQXB6cVVQZ2xFTDFsYjEzaHFTSkg5UllBTmcydWJqWUR3RFNFcUppd3hwSklqZnE5RlA1dWJENDJNQ0s5UnNiTVV6TG11cG1aMUZxQQ?oc=5",
+      "published_date": "2026-11-01T23:17:00+00:00"
+    },
+    {
+      "title": "Libyan-Italian Chamber of Commerce inaugurates its office at Misrata Free Zone",
+      "source": "Libya Herald",
+      "country": "Libya",
+      "url": "https://libyaherald.com/2026/11/libyan-italian-chamber-of-commerce-inaugurates-its-office-at-misrata-free-zone/",
+      "published_date": "2026-11-01T22:17:00+00:00"
+    },
+    {
+      "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
+      "published_date": "2026-11-01T21:51:36+00:00"
+    },
+    {
+      "title": "Israel’s election chief says results valid after Netanyahu claims vote ‘stolen’",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-chief-says-results-valid-after-netanyahu-claims-vote",
+      "published_date": "2026-11-01T18:28:05+00:00"
+    },
+    {
+      "title": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election - NBC News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPak5HczFEUE1vRVhLT09jWVpUMVNIVHdkMUVCYmpJWTFmdXpGLVA1TktkdmJJOWpTbXlXSGJaYWkzdEIzZ0ZIMTRXZWplSjc3Y1BtNGMtc3R2YmFXM2JZaTFOaEM4NS1RNWZ0ajk2QnJ0aVVSOUtXRWhEa1V4aTFOYTRETlBGM2JSSWJfajlhRE53cnZw?oc=5",
+      "published_date": "2026-11-01T16:26:04+00:00"
+    },
     {
       "title": "Criteria: desaprobación del Presidente Kast llega a 65% y aprobación se ubica en 25%",
       "source": "La Tercera Chile",
@@ -151,18 +200,18 @@
       "published_date": "2026-11-01T09:08:25+00:00"
     },
     {
+      "title": "Donald Trump loses allies after elections in Serbia and Brazil - DW.com",
+      "source": "Google News World",
+      "country": "Brazil",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV4U0NwMVZKWllGQ1h1UmNJMTJTMk1MVWxWWDlGeEhlSnI1bVF5X2kwWUZyaE82cmpXeEhfTmZ3TThEcS0yMWJvRlhuZ2NtdktMSHY5T3prTHg1NENxQVZtS3luXzN6T3dybVpKQmFKM0dTMjg4eW40UkFZaEpvVEJOSU03QWxzX2NTZzZaOGdVc0RvczFPUzBHTdIBmwFBVV95cUxPaUE4OFh0aU9YallUUnl6V09vYkhpX1VPYUI2SFRQM2REUGY3N0JRYnR6RUx4TVgxQlJ6bUdDY0RpRGVQS1l2YlZTMDVMSk9hamtKV3Nib1NpUV9wQ1Z3R2d3T0lRUW5TM3BjR1BUWWVES2ZUcHR0dFhPX2xGdWZnZXlMeXNvRldlRXB4NW4yVkZha24tNGhaN0FTaw?oc=5",
+      "published_date": "2026-11-01T08:34:52+00:00"
+    },
+    {
       "title": "Meghalaya minister resigns days after 11 of 12 party MLAs join BJP, CM Conrad Sangma's party",
       "source": "Hindustan Times",
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/meghalaya-minister-metbah-lyngdoh-resigns-days-after-udp-party-11-of-12-mlas-join-bjp-cm-conrad-k-sangma-party-npp-101793519351281.html",
       "published_date": "2026-11-01T08:30:09+00:00"
-    },
-    {
-      "title": "Donald Trump loses allies after elections in Serbia and Brazil - DW.com",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV4U0NwMVZKWllGQ1h1UmNJMTJTMk1MVWxWWDlGeEhlSnI1bVF5X2kwWUZyaE82cmpXeEhfTmZ3TThEcS0yMWJvRlhuZ2NtdktMSHY5T3prTHg1NENxQVZtS3luXzN6T3dybVpKQmFKM0dTMjg4eW40UkFZaEpvVEJOSU03QWxzX2NTZzZaOGdVc0RvczFPUzBHTdIBmwFBVV95cUxPaUE4OFh0aU9YallUUnl6V09vYkhpX1VPYUI2SFRQM2REUGY3N0JRYnR6RUx4TVgxQlJ6bUdDY0RpRGVQS1l2YlZTMDVMSk9hamtKV3Nib1NpUV9wQ1Z3R2d3T0lRUW5TM3BjR1BUWWVES2ZUcHR0dFhPX2xGdWZnZXlMeXNvRldlRXB4NW4yVkZha24tNGhaN0FTaw?oc=5",
-      "published_date": "2026-11-01T08:15:06+00:00"
     },
     {
       "title": "Donald Trump loses allies after elections in Serbia and Brazil",
@@ -4951,55 +5000,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/israel-election-2026/article-912111",
       "published_date": "2026-10-19T03:26:44+00:00"
-    },
-    {
-      "title": "Let Oyebanji govern, Tinubu cautions succession hopefuls",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/let-oyebanji-govern-tinubu-cautions-succession-hopefuls/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-19T00:08:42+00:00"
-    },
-    {
-      "title": "Histórica visita del Presidente Kast a Bolivia",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/editorial/noticia/historica-visita-del-presidente-kast-a-bolivia/",
-      "published_date": "2026-10-18T23:30:00+00:00"
-    },
-    {
-      "title": "HURIWA tackles Oyedele over Tinubu’s re-election prospects",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/huriwa-tackles-oyedele-over-tinubus-re-election-prospects/",
-      "published_date": "2026-10-18T20:24:47+00:00"
-    },
-    {
-      "title": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli",
-      "published_date": "2026-10-18T17:36:21+00:00"
-    },
-    {
-      "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
-      "published_date": "2026-10-18T17:32:51+00:00"
-    },
-    {
-      "title": "Trump otorga su apoyo formal al “primer ministro guerrero” Netanyahu para las elecciones israelíes",
-      "source": "La Tercera Chile",
-      "country": "Israel",
-      "url": "https://www.latercera.com/mundo/noticia/trump-otorga-su-apoyo-formal-al-primer-ministro-guerrero-netanyahu-para-las-elecciones-israelies/",
-      "published_date": "2026-10-18T17:30:56+00:00"
-    },
-    {
-      "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
-      "published_date": "2026-10-18T17:04:13+00:00"
     }
   ]
 }
