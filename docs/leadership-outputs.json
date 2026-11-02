@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-02T02:06:23.044311+00:00",
-    "story_count": 706,
+    "last_updated": "2026-11-02T20:44:26.384701+00:00",
+    "story_count": 691,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,118 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+      "published_date": "2026-11-02T20:05:09+00:00"
+    },
+    {
+      "title": "After Israel’s election: What’s next?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "published_date": "2026-11-02T18:32:59+00:00"
+    },
+    {
+      "title": "Why the US midterms are the election that matters to Israel most - opinion",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/opinion/article-913605",
+      "published_date": "2026-11-02T18:07:45+00:00"
+    },
+    {
+      "title": "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/clean-energy-investments-helped-india-soften-west-asia-crisis-impact-pm-modi/article71657883.ece",
+      "published_date": "2026-11-02T17:56:10+00:00"
+    },
+    {
+      "title": "Three AAP leaders join BJP ahead of Punjab Assembly election",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece",
+      "published_date": "2026-11-02T17:31:06+00:00"
+    },
+    {
+      "title": "Amit Shah challenges Rahul Gandhi to debate 'vote chori' in special Parliament session",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/amit-shah-challenges-rahul-gandhi-to-debate-vote-chori-in-special-parliament-session-101793633795907.html",
+      "published_date": "2026-11-02T17:00:23+00:00"
+    },
+    {
+      "title": "Netanyahu lost his majority in parliament. Now he claims elections were stolen - CNN",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzFGMkNHTDBwaW5NRjR2R0xiYzNVd1ZMejBfSUZVLUNnUXgzdHlQQmp0Q0hmSTBTcDdTUVl4eHB6SjAzTGFNX0ZhMEJsM2M2RzJEd3FmRjFVdERaTWFhZXBGb2xiM203Y1oyemgtallVdTlDWm1ZbV80Z2RNNDR6SlpTbmlfUkk?oc=5",
+      "published_date": "2026-11-02T16:42:53+00:00"
+    },
+    {
+      "title": "Israel's president begins process of coalition government negotiations",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261102-israel-s-president-begins-process-of-coalition-government-negotiations",
+      "published_date": "2026-11-02T15:57:00+00:00"
+    },
+    {
+      "title": "What might Trump have planned for Iran following the midterm election?",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-02T15:41:00+00:00"
+    },
+    {
+      "title": "Lula’s Succession Race Starts Now",
+      "source": "Foreign Policy",
+      "country": "Brazil",
+      "url": "https://foreignpolicy.com/2026/11/02/brazil-election-lula-age-workers-party-fonteles/",
+      "published_date": "2026-11-02T15:26:23+00:00"
+    },
+    {
+      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+      "published_date": "2026-11-02T15:00:08+00:00"
+    },
+    {
+      "title": "Iran's supreme leader gave government 'certain authorities' over talks, president says",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-gave-government-certain-authorities-over-talks",
+      "published_date": "2026-11-02T14:20:06+00:00"
+    },
+    {
+      "title": "Myanmar junta attacks kill 12, including infant, across 4 Rakhine townships",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-kill-12-including-infant-across-4-rakhine-townships/",
+      "published_date": "2026-11-02T10:46:57+00:00"
+    },
+    {
+      "title": "Bulgaria set to elect its first female president as Russia-friendly Iliana Yotova wins runoff",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/11/02/bulgaria-set-to-elect-its-first-female-president-as-russia-friendly-iliana-yotova-wins-runoff",
+      "published_date": "2026-11-02T09:40:51+00:00"
+    },
+    {
+      "title": "Big blow to AAP as three MLAs join BJP ahead of 2027 Punjab Assembly elections",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/big-blow-to-aap-as-three-mlas-resign-join-bjp-ahead-of-2027-assembly-polls-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-prata-101793599396364.html",
+      "published_date": "2026-11-02T06:16:54+00:00"
+    },
+    {
+      "title": "Bennett, Golan pledge to back Eisenkot for PM, as bloc mulls which coalition to seek - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1d4NHhHQ2FWMWZucTJpR0VlZjBtLVBuaF9iWFRaR0c5Y1ZYRnFETThtaU5JYURtLW5qZjMxcFQxSTQ4Q2RadkRST0EzVEh6T1JJbXBtOUlGZ21RdlFBN082a0ZUR1l1MzBnR0FtV2lFYWFYRUpUb1RnaHBlWXJBdVNHZWlxcGZoN0JUWEdjQUNWRVpuaFliZ2thNVo4R29Zd3gyNU9iM0YzZXA4WW5FU0lR0gG3AUFVX3lxTE02bG1OOUZmRU5kSHdrOWNUTm5EWmt1ajQ1ZlV2M0I3LXZtaTFHY05XR2FCeEdfS1loRGRNUVVBdlpxTmdPWXdKVjN1Qzd6c1dZbEcza0pMQmZrSDFjUlpHOHlnUTNPWG9Ma3BmLTh4N2t4ZUM2b2dqaS14aTZReTRCZUM5RG1yaEVnek5tTW83R1RHbVFteWwtWng5bUotakpoMFQzRWdxOGV1YVlsbDlna0tzZDdhbw?oc=5",
+      "published_date": "2026-11-02T04:24:06+00:00"
+    },
     {
       "title": "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally",
       "source": "The Hindu Politics",
@@ -4783,223 +4895,6 @@
       "country": "Colombia",
       "url": "https://www.eltiempo.com/politica/partidos-politicos/benedetti-le-respondio-al-presidente-abelardo-de-la-espriella-por-sus-declaraciones-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594685",
       "published_date": "2026-10-19T21:32:15+00:00"
-    },
-    {
-      "title": "In Israel, Election Day Is Just the Beginning of the Story",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/10/19/israel-election-netanyahu-polls-parties-coalition/",
-      "published_date": "2026-10-19T19:56:05+00:00"
-    },
-    {
-      "title": "Presidente Kast aprueba conformación del Alto Mando de Carabineros para el año de su centenario",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-aprueba-conformacion-del-alto-mando-de-carabineros-para-el-ano-de-su-centenario/",
-      "published_date": "2026-10-19T17:59:02+00:00"
-    },
-    {
-      "title": "Right 'sounds alarm' over Gantz withdrawal as Left consolidates ahead of elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912178",
-      "published_date": "2026-10-19T17:55:54+00:00"
-    },
-    {
-      "title": "European Jewish leaders warn Knesset election could trigger new EU sanctions, surge in antisemitism",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-912176",
-      "published_date": "2026-10-19T17:39:26+00:00"
-    },
-    {
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "source": "The Guardian World",
-      "country": "Yemen",
-      "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "published_date": "2026-10-19T17:15:23+00:00"
-    },
-    {
-      "title": "'La justicia le dará a Benedetti lo que se merece': presidente De La Espriella sobre presuntas exigencias del gobierno Petro a exparamilitares",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-justicia-le-dara-a-benedetti-lo-que-se-merece-presidente-de-la-espriella-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594606",
-      "published_date": "2026-10-19T16:10:30+00:00"
-    },
-    {
-      "title": "What does Alberta's referendum on separation from Canada mean?",
-      "source": "Dawn Pakistan",
-      "country": "Canada",
-      "url": "https://www.dawn.com/news/2038319/what-does-albertas-referendum-on-separation-from-canada-mean",
-      "published_date": "2026-10-19T15:55:45+00:00"
-    },
-    {
-      "title": "Donald Trump, presidente de EE.UU.: “Lamentablemente, los carteles controlan México; se lo dije a Sheinbaum y no está contenta”",
-      "source": "La Nacion Argentina",
-      "country": "Mexico",
-      "url": "https://www.lanacion.com.ar/estados-unidos/washington/donald-trump-presidente-de-eeuu-lamentablemente-los-carteles-controlan-mexico-se-lo-dije-a-sheinbaum-nid19102026/",
-      "published_date": "2026-10-19T15:55:00+00:00"
-    },
-    {
-      "title": "Benny Gantz pulls out of election race, eight days before Israelis head to the polls",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912167",
-      "published_date": "2026-10-19T15:47:02+00:00"
-    },
-    {
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited - The Guardian",
-      "source": "Google News World",
-      "country": "Yemen",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkJSbjJvNXlfZno4WTB1WThtaVBPamI4NU1aanB4TVdGUUtVUzNIX2xObWVuQ1FxZkY0TDVkUlpqRE1sZDRvVFpZMVdidWRRcWpFYXFaZUxrV2JFbklqczBzYk0xRkRoR0t0MEh3LVduQ0lQX3RKQV90bzF1bGhRZEE2aDZHQV9vS1JmNjVMWTF4VS1fZWN4NGxlVmJaeTNqWUREMUs5S3h2bTRMTkgzYWRET2NSTGM?oc=5",
-      "published_date": "2026-10-19T15:25:00+00:00"
-    },
-    {
-      "title": "Canada: Alberta votes on holding independence referendum",
-      "source": "Deutsche Welle English",
-      "country": "Canada",
-      "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-19T15:09:00+00:00"
-    },
-    {
-      "title": "Brazil elections: Lula da Silva and Flávio Bolsonaro face off in debate",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/brazil-elections-lula-da-silva-and-flavio-bolsonaro-face-off-in-debate",
-      "published_date": "2026-10-19T14:29:05+00:00"
-    },
-    {
-      "title": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election",
-      "published_date": "2026-10-19T14:20:25+00:00"
-    },
-    {
-      "title": "Election présidentielle au Brésil : Meta a vingt-quatre heures pour prouver que la plateforme réserve le même traitement à Lula et à Flavio Bolsonaro",
-      "source": "Le Monde France",
-      "country": "Brazil",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-meta-a-24-heures-pour-prouver-que-la-plate-forme-reserve-le-meme-traitement-a-lula-et-flavio-bolsonaro_6797534_3210.html",
-      "published_date": "2026-10-19T13:59:31+00:00"
-    },
-    {
-      "title": "IDF restricts soldiers' leave, increases its numbers ahead of Knesset elections",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912157",
-      "published_date": "2026-10-19T13:50:02+00:00"
-    },
-    {
-      "title": "Rubilar cuestiona diseño político del gobierno y apunta a falta de vocero: “Esto lo está pagando caro el Presidente Kast”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/rubilar-cuestiona-diseno-politico-del-gobierno-y-apunta-a-falta-de-vocero-esto-lo-esta-pagando-caro-el-presidente-kast/",
-      "published_date": "2026-10-19T13:44:45+00:00"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : près de 8 milliards de dollars de dégâts pour la seule année en cours, selon le premier ministre ukrainien",
-      "source": "Le Monde France",
-      "country": "Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-pres-de-8-milliards-de-dollars-de-degats-pour-la-seule-annee-en-cours-selon-le-premier-ministre-ukrainien_6796922_3210.html",
-      "published_date": "2026-10-19T13:15:56+00:00"
-    },
-    {
-      "title": "Presidente del PPD: “Chile hoy día está más polarizado que 2019, Chile hoy día está más dividido”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-del-ppd-chile-hoy-dia-esta-mas-polarizado-que-2019-chile-hoy-dia-esta-mas-dividido/",
-      "published_date": "2026-10-19T13:00:58+00:00"
-    },
-    {
-      "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
-      "published_date": "2026-10-19T12:51:21+00:00"
-    },
-    {
-      "title": "REPLAY: French PM speaks after crisis meeting",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting",
-      "published_date": "2026-10-19T12:21:24+00:00"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T11:41:24+00:00"
-    },
-    {
-      "title": "Arab voter turnout could make or break Netanyahu in Israeli election - Reuters",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWlScDFIcENiRk5OaDRHRHNzNjlrdnNxM0VobjJKbWhKcWpfaTNvM2J5U256QV9ZNEY3bGpMWUxhZ29idThSajljTXlpUnZ3Mmp2SmZEVE9hVURJTGxmMkNwUWpZMk85VWFxMGJpcWZEa2dRTVg5WHdNeGZLT1QyOU5CaXpUUnZIOG5MZVF2TUZtREJHSkpYTU13NlZmNGdBRk8yTGhvUWpUQThjUzBCRHA5Nms4Q2RqT0k4?oc=5",
-      "published_date": "2026-10-19T11:11:44+00:00"
-    },
-    {
-      "title": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff",
-      "published_date": "2026-10-19T10:52:37+00:00"
-    },
-    {
-      "title": "Myanmar migrant remittances now junta’s largest foreign currency source",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-migrant-remittances-now-juntas-largest-foreign-currency-source/",
-      "published_date": "2026-10-19T10:51:22+00:00"
-    },
-    {
-      "title": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff",
-      "published_date": "2026-10-19T09:21:10+00:00"
-    },
-    {
-      "title": "Russian government reshuffle sees finance minister and three other officials tapped for deputy prime minister posts",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/19/russian-government-reshuffle-sees-finance-minister-and-three-other-officials-tapped-for-deputy-prime-minister-posts",
-      "published_date": "2026-10-19T08:51:27+00:00"
-    },
-    {
-      "title": "Putin Approves Major Government Cabinet Reshuffle",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
-      "published_date": "2026-10-19T08:44:00+00:00"
-    },
-    {
-      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "source": "Deutsche Welle English",
-      "country": "Israel",
-      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-19T08:26:00+00:00"
-    },
-    {
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "source": "NPR World",
-      "country": "Israel",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "published_date": "2026-10-19T05:35:39+00:00"
-    },
-    {
-      "title": "Lula and Bolsonaro trade barbs in fiery Brazil run-off debate",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3371343/lula-and-bolsonaro-trade-barbs-fiery-brazil-run-debate?utm_source=rss_feed",
-      "published_date": "2026-10-19T04:09:43+00:00"
-    },
-    {
-      "title": "Polymarket bets favor Eisenkot over Netanyahu ahead of Israeli election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912111",
-      "published_date": "2026-10-19T03:26:44+00:00"
     }
   ]
 }
