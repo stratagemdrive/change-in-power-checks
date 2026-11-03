@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-02T20:44:26.384701+00:00",
-    "story_count": 691,
+    "last_updated": "2026-11-03T03:56:32.938617+00:00",
+    "story_count": 694,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,55 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "US strikes Iran ahead of midterm elections",
+      "source": "BBC World",
+      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T03:39:08+00:00"
+    },
+    {
+      "title": "RN cuestiona “conducción política” del gobierno por rebaja de penas y pide revisar responsabilidades de asesores del Presidente Kast",
+      "source": "La Tercera Chile",
+      "country": "France",
+      "url": "https://www.latercera.com/politica/noticia/rn-cuestiona-conduccion-politica-del-gobierno-por-rebaja-de-penas-y-pide-revisar-responsabilidades-de-asesores-del-presidente-kast/",
+      "published_date": "2026-11-03T03:02:59+00:00"
+    },
+    {
+      "title": "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
+      "source": "The Hindu Politics",
+      "country": "India",
+      "url": "https://www.thehindu.com/news/national/clean-energy-investments-helped-india-soften-west-asia-crisis-impact-pm-modi/article71657883.ece",
+      "published_date": "2026-11-03T01:00:02+00:00"
+    },
+    {
+      "title": "'Show courage' and end Netanyahu's government, Tibi urges Israeli opposition leader",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/show-courage-and-end-netanyahus-government-tibi-urges-israeli-opposition",
+      "published_date": "2026-11-03T00:43:06+00:00"
+    },
+    {
+      "title": "Javiera Rodríguez: “Para hablar de lealtad hay que recordar quiénes se tomaron una foto con el Presidente Kast e hicieron campaña por él”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/javiera-rodriguez-para-hablar-de-lealtad-hay-que-recordar-quienes-se-tomaron-una-foto-con-el-presidente-kast-e-hicieron-campana-por-el/",
+      "published_date": "2026-11-03T00:30:00+00:00"
+    },
+    {
+      "title": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+      "source": "South China Morning Post",
+      "country": "Iran",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373046/netanyahu-pressing-trump-attack-iran-after-us-midterm-elections-officials-say",
+      "published_date": "2026-11-02T22:16:52+00:00"
+    },
+    {
+      "title": "2027: Wike mobilises grassroots support for Tinubu’s re-election in FCT",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/more-news/922245-2027-wike-mobilises-grassroots-support-for-tinubus-re-election-in-fct.html",
+      "published_date": "2026-11-02T20:40:19+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
       "source": "La Nacion Argentina",
@@ -79,13 +128,6 @@
       "country": "Israel",
       "url": "https://www.jpost.com/opinion/article-913605",
       "published_date": "2026-11-02T18:07:45+00:00"
-    },
-    {
-      "title": "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/clean-energy-investments-helped-india-soften-west-asia-crisis-impact-pm-modi/article71657883.ece",
-      "published_date": "2026-11-02T17:56:10+00:00"
     },
     {
       "title": "Three AAP leaders join BJP ahead of Punjab Assembly election",
@@ -142,6 +184,13 @@
       "country": "Iran",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-gave-government-certain-authorities-over-talks",
       "published_date": "2026-11-02T14:20:06+00:00"
+    },
+    {
+      "title": "Liberman backs Eisenkot for PM, but rules out minority government with Arab support - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHZLdVBhNms1WElGV1h2VnNlek8tZV9MbW8yeUxCckw4ckg3S3FiS3dMQ0VTVVhsMHJWaG5kRnJSbUVNU18zNGp4VmxiT2kwR1NvRTFSTEUtMVdJSzFSX0NhcWRJc2JkQ2o1enVkNDNGMHRoZ09rWDFzYXhIWnIxN095S0I4bnZFakhaNDJ6anB0Qk01akp4S1FZM19JVURMWGJWRDBwSXMyXzhFZ21HTWwtVFNld9IBuwFBVV95cUxNN1VCemI5ajhBYnJSZE1obVRDVDc0SVN1WFZub2F2Vm13eHRSdWNKMXFNVjBUWkFPdHRrQ3ROcnU2SzdOMDFtdmt2QUluQkY2NjNsR2ZuZFdmS1g0aUtrMS1ILUdmVF8xNlEtd2J4VXJlMng0NHBsZ3VNMGZMQjVfVjQteFB2UWdnQnFIUkZsOGhMc3NDX3lCMEtha2QzelRLa3hRc19mcUx2QVk2UWg3NnBqVHlvaFhQWndJ?oc=5",
+      "published_date": "2026-11-02T14:10:00+00:00"
     },
     {
       "title": "Myanmar junta attacks kill 12, including infant, across 4 Rakhine townships",
@@ -4867,34 +4916,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/rss-chief-mohan-bhagwat-says-evil-forces-want-to-dismantle-india-regime-change-will-never-happen-vijayadashmi-delhi-protests-101792470403676.html",
       "published_date": "2026-10-20T04:28:07+00:00"
-    },
-    {
-      "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
-      "published_date": "2026-10-20T02:06:36+00:00"
-    },
-    {
-      "title": "Netanyahu, Hegseth hold covert meeting at Israel's Ovda air base days before Israel's election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912217",
-      "published_date": "2026-10-20T01:48:47+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: “Con el viejo modelo, hoy hubiéramos volado por los aires”, dijo el Presidente",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-      "published_date": "2026-10-20T01:00:00+00:00"
-    },
-    {
-      "title": "Benedetti le respondió al presidente Abelardo De La Espriella por sus declaraciones sobre presuntas exigencias del gobierno Petro a exparamilitares",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/benedetti-le-respondio-al-presidente-abelardo-de-la-espriella-por-sus-declaraciones-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594685",
-      "published_date": "2026-10-19T21:32:15+00:00"
     }
   ]
 }
