@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-03T03:56:32.938617+00:00",
-    "story_count": 694,
+    "last_updated": "2026-11-03T18:19:43.302470+00:00",
+    "story_count": 676,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,81 @@
   },
   "stories": [
     {
-      "title": "US strikes Iran ahead of midterm elections",
+      "title": "St. Petersburg court orders exiled journalist Alexander Nevzorov and his family evicted from their former home",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/11/03/st-petersburg-court-orders-exiled-journalist-alexander-nevzorov-and-his-family-evicted-from-their-former-home",
+      "published_date": "2026-11-03T17:39:10+00:00"
+    },
+    {
+      "title": "Brazil keeps a close eye on US midterm elections",
+      "source": "France 24 English",
+      "country": "Brazil",
+      "url": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
+      "published_date": "2026-11-03T16:36:07+00:00"
+    },
+    {
+      "title": "Com aval de Lula, presidente do PT atua para expulsar grupo apelidado de 'centrão' do partido",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-aval-de-lula-presidente-do-pt-atua-para-expulsar-grupo-apelidado-de-centrao-do-partido.shtml",
+      "published_date": "2026-11-03T16:00:00+00:00"
+    },
+    {
+      "title": "How an election defeat triggered a carnival of racism against Palestinians",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/opinion/how-election-defeat-triggered-carnival-racism-against-palestinians",
+      "published_date": "2026-11-03T15:26:45+00:00"
+    },
+    {
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-03T14:26:00+00:00"
+    },
+    {
+      "title": "India witnessed fall in extreme poverty, transformation in urban transport infra over 12 years: PM Modi",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/india-witnessed-fall-in-extreme-poverty-transformation-in-urban-transport-infra-over-12-years-pm-modi-101793708761204.html",
+      "published_date": "2026-11-03T13:35:11+00:00"
+    },
+    {
+      "title": "Can US midterm election really change Trump's Iran policy?",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-03T12:55:00+00:00"
+    },
+    {
+      "title": "Israel’s election shows its democracy is a sham, but the West can’t stop buying the lie",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/opinion/israels-election-shows-its-democracy-sham-west-cant-stop-buying-lie",
+      "published_date": "2026-11-03T12:34:42+00:00"
+    },
+    {
+      "title": "French elections could derail EU enlargement, Croatian PM tells Euronews",
+      "source": "Euronews",
+      "country": "France",
+      "url": "https://www.euronews.com/2026/11/03/french-elections-could-derail-eu-enlargement-croatian-pm-tells-euronews",
+      "published_date": "2026-11-03T12:20:32+00:00"
+    },
+    {
+      "title": "US strikes Iranian island ahead of midterm elections",
       "source": "BBC World",
       "country": "Iran",
       "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T03:39:08+00:00"
+      "published_date": "2026-11-03T11:33:33+00:00"
+    },
+    {
+      "title": "National Conference MP Aga Ruhullah resigns from Srinagar Lok Sabha seat",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/national-conference-mp-aga-syed-ruhullah-mehdi-resigns-from-srinagar-lok-sabha-seat-at-massive-public-rally-budgam-nc-omar-farooq-abdullah-101793698296898.html",
+      "published_date": "2026-11-03T09:41:06+00:00"
     },
     {
       "title": "RN cuestiona “conducción política” del gobierno por rebaja de penas y pide revisar responsabilidades de asesores del Presidente Kast",
@@ -162,6 +232,13 @@
       "source": "Deutsche Welle English",
       "country": "Iran",
       "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-02T15:41:00+00:00"
+    },
+    {
+      "title": "8 ways the US midterm election could affect Donald Trump's Iran policy",
+      "source": "Deutsche Welle English",
+      "country": "Iran",
+      "url": "https://www.dw.com/en/8-ways-the-us-midterm-election-could-affect-donald-trump-s-iran-policy/a-79831816?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-11-02T15:41:00+00:00"
     },
     {
@@ -4713,209 +4790,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
       "published_date": "2026-10-20T18:41:19+00:00"
-    },
-    {
-      "title": "Eastern Libya parliament approves maritime deal with Turkey, drawing Greek rejection - Reuters",
-      "source": "Google News World",
-      "country": "Libya",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNpNHR3ZzZNNnVsTXE1c1N1RDVPdHFvRjBrRWJiQTltVlRmNlM3VzdkX1dEZmNhcW5rRFI4QzJvUjJXdU9XVWlVQklGLUV4LWc2S2VGczdPanlEb09Vb1hJakM5Z2pfRl9YOVZqNGtmVDFveXZscGhaLXpoRlF5WEUwLWVWSGwzU3JvSmJXb3djX3R6dmRfaGRKclNtRDQ4Smd2TUQ0eG43WEQzZXo1SmNRTmFkdE1JYnNoeGFwMXNlLTlrNGc?oc=5",
-      "published_date": "2026-10-20T17:45:19+00:00"
-    },
-    {
-      "title": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw?oc=5",
-      "published_date": "2026-10-20T17:01:47+00:00"
-    },
-    {
-      "title": "Russia’s Anti-War Theater Artists Search for a New Stage in Exile",
-      "source": "Moscow Times",
-      "country": "Russia",
-      "url": "https://www.themoscowtimes.com/2026/10/20/russias-anti-war-theater-artists-search-for-a-new-stage-in-exile-a94007",
-      "published_date": "2026-10-20T16:32:00+00:00"
-    },
-    {
-      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-      "source": "The Guardian World",
-      "country": "Canada",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "published_date": "2026-10-20T16:24:05+00:00"
-    },
-    {
-      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
-      "published_date": "2026-10-20T15:41:44+00:00"
-    },
-    {
-      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
-      "source": "Deutsche Welle English",
-      "country": "Brazil",
-      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-20T15:12:00+00:00"
-    },
-    {
-      "title": "No Canada-U.S. trade deal expected before American midterm elections: sources",
-      "source": "CBC News World",
-      "country": "Canada",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-trade-deal-midterms-9.7387484?cmp=rss",
-      "published_date": "2026-10-20T15:01:56+00:00"
-    },
-    {
-      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
-      "source": "Al Jazeera English",
-      "country": "Canada",
-      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
-      "published_date": "2026-10-20T14:42:47+00:00"
-    },
-    {
-      "title": "What if No One Wins the Israeli Election?",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/",
-      "published_date": "2026-10-20T14:30:16+00:00"
-    },
-    {
-      "title": "Milei travels to Spain to back far-right ahead of elections",
-      "source": "Buenos Aires Herald",
-      "country": "Argentina",
-      "url": "https://buenosairesherald.com/politics/milei-travels-to-spain-to-back-far-right-ahead-of-elections",
-      "published_date": "2026-10-20T14:14:40+00:00"
-    },
-    {
-      "title": "Iran says Iraq will expel exiled Kurdish opposition members",
-      "source": "The Punch Nigeria",
-      "country": "Iran",
-      "url": "https://punchng.com/iran-says-iraq-will-expel-exiled-kurdish-opposition-members/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-20T14:04:13+00:00"
-    },
-    {
-      "title": "Budanov denies Russian claims of capturing Dobropillia",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4176367-budanov-denies-russian-claims-of-capturing-dobropillia.html",
-      "published_date": "2026-10-20T13:59:00+00:00"
-    },
-    {
-      "title": "Uttar Pradesh elections: Samajwadi Party to release election manifesto on November 26",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-elections-samajwadi-party-to-release-election-manifesto-on-november-26/article71603514.ece",
-      "published_date": "2026-10-20T13:51:44+00:00"
-    },
-    {
-      "title": "‘I don't recognise the country I grew up in anymore’: Some Israelis tempted by exile",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/middle-east/20261020-i-don-t-recognise-the-country-i-grew-up-in-anymore-some-israelis-are-tempted-by-exile",
-      "published_date": "2026-10-20T13:07:27+00:00"
-    },
-    {
-      "title": "Karnataka BJP State chief B.Y. Vijayendra predicts internal rebellion in ruling Congress",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bjp-state-chief-by-vijayendra-predicts-internal-rebellion-in-ruling-congress/article71604039.ece",
-      "published_date": "2026-10-20T12:11:09+00:00"
-    },
-    {
-      "title": "'They returned in coffins': Families of slain hostages call on Netanyahu to drop election slogan",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912265",
-      "published_date": "2026-10-20T11:40:58+00:00"
-    },
-    {
-      "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
-      "source": "Japan Times",
-      "country": "France",
-      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/europe-far-right-preelection-gains/",
-      "published_date": "2026-10-20T11:17:00+00:00"
-    },
-    {
-      "title": "Alberta vota por seguir formando parte de Canadá, una victoria para el primer ministro Carney",
-      "source": "La Tercera Chile",
-      "country": "Canada",
-      "url": "https://www.latercera.com/mundo/noticia/alberta-vota-por-seguir-formando-parte-de-canada-una-victoria-para-el-primer-ministro-carney/",
-      "published_date": "2026-10-20T11:07:35+00:00"
-    },
-    {
-      "title": "In their own words: Israeli politicians’ extreme speech surges ahead of elections - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUtJWmRSYTB4VThFV2V2Wnpmc0ttcTlyNlNuM1hYZGFFTjlrSTFlTVpnMThVejRFcDBwWUk4QXFtUURONEV6VjBxci1WYjh0VHdjOHpmVlJ5YUllZVhVY2RXSWVGMWJuQVBRY1hldTNlNzY0M1ZZVW9uUk8tM3Z1RXhfb3JkQkR4WF9PNEh5T2JyWElqVXF6TEUxb1dBakUxQ1hJU3VVTUVyS1o3clpVTDNWTGxwNXc?oc=5",
-      "published_date": "2026-10-20T10:33:00+00:00"
-    },
-    {
-      "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
-      "source": "Dawn Pakistan",
-      "country": "France",
-      "url": "https://www.dawn.com/news/2038498/as-france-erupts-europes-far-right-gains-from-fuel-price-anger-ahead-of-elections",
-      "published_date": "2026-10-20T09:04:49+00:00"
-    },
-    {
-      "title": "What Could Swing Israel’s Election? Thousands Living in the U.S. - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJOOUpEX3VuMEZHa3pkc3Y4elJ4b0tUUnk2SldVT2pVdUZmelUwNDZtRDVZMk9TSzNyTmJYb0hReEJPUnZiRDR6T0JTRU93eUt5ekxjbkh5cXZtNnZvWWZvblpsUEREdldCc2EwZXNWVGFXNXNUbGNXbDBpX015Qg?oc=5",
-      "published_date": "2026-10-20T09:00:31+00:00"
-    },
-    {
-      "title": "Alberta rejects plan for referendum on independence from Canada",
-      "source": "RFI English",
-      "country": "Canada",
-      "url": "https://www.rfi.fr/en/international/20261020-alberta-rejects-plan-for-referendum-on-independence-from-canada",
-      "published_date": "2026-10-20T08:58:31+00:00"
-    },
-    {
-      "title": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump",
-      "source": "Egypt Independent",
-      "country": "Israel",
-      "url": "https://www.egyptindependent.com/vance-declines-to-endorse-netanyahus-reelection-bid-breaking-with-trump/",
-      "published_date": "2026-10-20T07:59:59+00:00"
-    },
-    {
-      "title": "Referendum: Carney: Einwohner von Alberta wollen Teil Kanadas bleiben",
-      "source": "FAZ Germany",
-      "country": "Canada",
-      "url": "https://www.faz.net/aktuell/politik/ausland/alberta-referendum-ueber-76-prozent-stimmen-fuer-verbleib-in-kanada-accg-201604098.html",
-      "published_date": "2026-10-20T07:52:06+00:00"
-    },
-    {
-      "title": "Oil-rich Alberta votes to remain part of Canada in historic referendum",
-      "source": "Sky News World",
-      "country": "Canada",
-      "url": "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218",
-      "published_date": "2026-10-20T06:41:00+00:00"
-    },
-    {
-      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
-      "source": "Euronews",
-      "country": "Canada",
-      "url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum",
-      "published_date": "2026-10-20T06:36:28+00:00"
-    },
-    {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "source": "NPR World",
-      "country": "Canada",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-      "published_date": "2026-10-20T06:02:40+00:00"
-    },
-    {
-      "title": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
-      "source": "The Guardian World",
-      "country": "Myanmar",
-      "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
-      "published_date": "2026-10-20T05:07:00+00:00"
-    },
-    {
-      "title": "Mohan Bhagwat says forces trying to destabilise India: ‘Regime change doesn’t change circumstances’",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/rss-chief-mohan-bhagwat-says-evil-forces-want-to-dismantle-india-regime-change-will-never-happen-vijayadashmi-delhi-protests-101792470403676.html",
-      "published_date": "2026-10-20T04:28:07+00:00"
     }
   ]
 }
