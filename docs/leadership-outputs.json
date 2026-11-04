@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-04T02:59:18.950057+00:00",
-    "story_count": 678,
+    "last_updated": "2026-11-04T18:34:26.997570+00:00",
+    "story_count": 689,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,202 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Iran strikes Kurdish region of Iraq following US midterm elections - analysis",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/article-913854",
+      "published_date": "2026-11-04T19:00:42+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+      "published_date": "2026-11-04T18:20:00+00:00"
+    },
+    {
+      "title": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "published_date": "2026-11-04T18:01:35+00:00"
+    },
+    {
+      "title": "Israel president urges compromise after divisive election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2042120/israel-president-urges-compromise-after-divisive-election",
+      "published_date": "2026-11-04T17:30:40+00:00"
+    },
+    {
+      "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+      "source": "The Guardian World",
+      "country": "Iran",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+      "published_date": "2026-11-04T17:15:33+00:00"
+    },
+    {
+      "title": "Palestinian citizens of Israel face intimidation after election success",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+      "published_date": "2026-11-04T17:14:21+00:00"
+    },
+    {
+      "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+      "source": "France 24 English",
+      "country": "Iran",
+      "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+      "published_date": "2026-11-04T16:50:06+00:00"
+    },
+    {
+      "title": "US election results fuel Israeli opposition's push to remove Netanyahu",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-election-results-fuel-israeli-oppositions-push-remove-netanyahu",
+      "published_date": "2026-11-04T16:32:30+00:00"
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T16:18:21+00:00"
+    },
+    {
+      "title": "Israel's president to begin consultations with parties after election deadlock - BBC",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
+      "published_date": "2026-11-04T15:45:45+00:00"
+    },
+    {
+      "title": "El poderoso banquero Jamie Dimon, presidente de JP Morgan, visitará Chile a mediados de mes",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/pulso/noticia/el-poderoso-banquero-jamie-dimon-presidente-de-jp-morgan-visitara-chile-a-mediados-de-mes/",
+      "published_date": "2026-11-04T15:28:22+00:00"
+    },
+    {
+      "title": "US election results fuel Israeli opposition's push to remove Netanyahu",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/us-election-results-fuel-israeli-opposition-push-remove-netanyahu",
+      "published_date": "2026-11-04T15:24:20+00:00"
+    },
+    {
+      "title": "Iran supreme leader says midterms results will not reverse US’ “hostility” towards Tehran",
+      "source": "Egypt Independent",
+      "country": "Iran",
+      "url": "https://www.egyptindependent.com/iran-supreme-leader-says-midterms-results-will-not-reverse-us-hostility-towards-tehran/",
+      "published_date": "2026-11-04T14:07:59+00:00"
+    },
+    {
+      "title": "‘We sincerely hope Trump will continue his peacemaking efforts,’ Kremlin says of US midterm election results",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/11/04/we-sincerely-hope-trump-will-continue-his-peacemaking-efforts-kremlin-says-of-us-midterm-election-results",
+      "published_date": "2026-11-04T13:34:41+00:00"
+    },
+    {
+      "title": "Iran supreme leader says those expecting US policy shift 'seriously mistaken'",
+      "source": "Dawn Pakistan",
+      "country": "Iran",
+      "url": "https://www.dawn.com/news/2042092/iran-supreme-leader-says-those-expecting-us-policy-shift-seriously-mistaken",
+      "published_date": "2026-11-04T13:27:13+00:00"
+    },
+    {
+      "title": "Iran's strategic patience in negotiation with Trump pays off after US midterm election - analysis",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913812",
+      "published_date": "2026-11-04T12:29:53+00:00"
+    },
+    {
+      "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+      "published_date": "2026-11-04T12:19:18+00:00"
+    },
+    {
+      "title": "Ukrainian Caucus co-chair in U.S. Congress Marcy Kaptur reelected to another term",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4181357-ukrainian-caucus-cochair-in-us-congress-marcy-kaptur-reelected-to-another-term.html",
+      "published_date": "2026-11-04T12:18:00+00:00"
+    },
+    {
+      "title": "Presidente de Rangers: “Hasta Juventus fue descendida, pero en Chile parece cuestionable exigir que se cumpla el reglamento”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/el-deportivo/noticia/presidente-de-rangers-juventus-fue-descendida-pero-en-chile-parece-cuestionable-exigir-que-se-cumpla-el-reglamento/",
+      "published_date": "2026-11-04T12:05:25+00:00"
+    },
+    {
+      "title": "What consequences for Israel as Democrats win the US midterm elections?",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections",
+      "published_date": "2026-11-04T11:32:43+00:00"
+    },
+    {
+      "title": "Exames do presidente Lula estão dentro da normalidade, diz boletim",
+      "source": "Agencia Brasil",
+      "country": "Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/exames-do-presidente-lula-estao-dentro-da-normalidade-diz-boletim",
+      "published_date": "2026-11-04T11:27:00+00:00"
+    },
+    {
+      "title": "Israeli president accepts certified election results after commission denies voter fraud",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/israel-election-fraud-netanyahu-herzog-9.7408670?cmp=rss",
+      "published_date": "2026-11-04T09:58:05+00:00"
+    },
+    {
+      "title": "Presidente Kast se reunió con el Papa León XIV en el Vaticano",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-se-reunio-con-el-papa-leon-xiv-en-el-vaticano/",
+      "published_date": "2026-11-04T09:29:20+00:00"
+    },
+    {
+      "title": "Blow for Netanyahu as Israeli election body rejects claims of Arab party fraud",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373260/blow-netanyahu-israeli-election-body-rejects-claims-arab-party-fraud",
+      "published_date": "2026-11-04T09:24:54+00:00"
+    },
+    {
+      "title": "Two Myanmar resistance fighters defect to junta at Myaing frontline",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/two-myanmar-resistance-fighters-defect-to-junta-at-myaing-frontline/",
+      "published_date": "2026-11-04T09:04:17+00:00"
+    },
+    {
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "source": "Deutsche Welle English",
+      "country": "Ukraine",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
+      "published_date": "2026-11-04T08:52:00+00:00"
+    },
+    {
+      "title": "Israel election commission rejects Netanyahu charges of fraud",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2042064/israel-election-commission-rejects-netanyahu-charges-of-fraud",
+      "published_date": "2026-11-04T08:27:43+00:00"
+    },
+    {
+      "title": "Pakistan's Maliha Ali topples Russia's Drozdova at MMA world championships",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2042024/pakistans-maliha-ali-topples-russias-drozdova-at-mma-world-championships",
+      "published_date": "2026-11-04T07:05:18+00:00"
+    },
     {
       "title": "Appeals court to rule on ex-President Yoon's high-stakes election law case",
       "source": "Korea Times",
@@ -83,7 +279,7 @@
     {
       "title": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
       "source": "Foreign Policy",
-      "country": "Iran",
+      "country": "Israel",
       "url": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/",
       "published_date": "2026-11-03T23:02:31+00:00"
     },
@@ -149,13 +345,6 @@
       "country": "Palestine",
       "url": "https://www.middleeasteye.net/opinion/how-election-defeat-triggered-carnival-racism-against-palestinians",
       "published_date": "2026-11-03T15:26:45+00:00"
-    },
-    {
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "source": "Deutsche Welle English",
-      "country": "Iran",
-      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-11-03T14:26:00+00:00"
     },
     {
       "title": "India witnessed fall in extreme poverty, transformation in urban transport infra over 12 years: PM Modi",
@@ -4692,118 +4881,6 @@
       "country": "Russia",
       "url": "https://meduza.io/en/feature/2026/10/21/russian-born-kazakhstani-billionaire-timur-turlov-is-the-new-president-of-world-chess-his-election-has-divided-ukrainian-officials-and-russia-has-abruptly-dropped-its-case-against-him",
       "published_date": "2026-10-21T18:34:58+00:00"
-    },
-    {
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "source": "BBC World",
-      "country": "India",
-      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T18:22:28+00:00"
-    },
-    {
-      "title": "Former Tory election candidate suspended over contract killing claims",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
-      "published_date": "2026-10-21T18:13:55+00:00"
-    },
-    {
-      "title": "Russian lawmakers approve four new deputy prime ministers and a transport minister in Mikhail Mishustin’s Cabinet reshuffle",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/21/russian-lawmakers-approve-four-new-deputy-prime-ministers-and-a-transport-minister-in-mikhail-mishustin-s-cabinet-reshuffle",
-      "published_date": "2026-10-21T17:05:04+00:00"
-    },
-    {
-      "title": "Bank of Israel holds interest rates steady a week before election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/business-and-innovation/article-912432",
-      "published_date": "2026-10-21T16:10:48+00:00"
-    },
-    {
-      "title": "Grand Paris Express : un nouveau contretemps technique rend improbable une inauguration de la ligne 18 en 2026",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/21/grand-paris-express-un-nouveau-contretemps-technique-rend-improbable-une-inauguration-de-la-ligne-18-en-2026_6798280_3234.html",
-      "published_date": "2026-10-21T15:20:53+00:00"
-    },
-    {
-      "title": "Toppling Iran government only way to end threat – Netanyahu",
-      "source": "Vanguard Nigeria",
-      "country": "Iran",
-      "url": "https://www.vanguardngr.com/2026/10/toppling-iran-government-only-way-to-end-threat-netanyahu/",
-      "published_date": "2026-10-21T15:19:37+00:00"
-    },
-    {
-      "title": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
-      "source": "Euronews",
-      "country": "Nigeria",
-      "url": "https://www.euronews.com/2026/10/21/african-health-ministers-to-hold-ebola-crisis-talks-as-nigeria-confirms-first-case",
-      "published_date": "2026-10-21T15:18:59+00:00"
-    },
-    {
-      "title": "Russia frees retired US teacher jailed for four years after being captured in Ukraine",
-      "source": "The Independent UK",
-      "country": "Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-stephen-hubbard-release-jail-putin-b3070591.html",
-      "published_date": "2026-10-21T13:28:37+00:00"
-    },
-    {
-      "title": "Why Palestinians Hope Israelis Will Oust Netanyahu in Pivotal Election - The New York Times",
-      "source": "Google News World",
-      "country": "Palestine",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW9uREM3YVpDM1BIdThnV1NXR3dNWHViUEprRHN6ZmJmUVNMcWt0TllLb2dST3lzVUxfY0c4Z09wZ3VOc0xxZElsRXFLWFBkQmFzRWo4QWVDYmFzejlGUmwxNTBZbnk4R3l6VXE4bXRQcjlwT0g0eDVLMFVNVmVGQ2ZpSVM4WE16V2d0TjU5bkstY252WkEwTXN6cFY5ZHJq?oc=5",
-      "published_date": "2026-10-21T13:10:32+00:00"
-    },
-    {
-      "title": "Macron takes aim at Trump for using France riots for election gain",
-      "source": "Dawn Pakistan",
-      "country": "France",
-      "url": "https://www.dawn.com/news/2038773/macron-takes-aim-at-trump-for-using-france-riots-for-election-gain",
-      "published_date": "2026-10-21T11:53:15+00:00"
-    },
-    {
-      "title": "The Banking Scandal Upending Brazil’s Election",
-      "source": "Foreign Policy",
-      "country": "Brazil",
-      "url": "https://foreignpolicy.com/2026/10/21/brazil-election-lula-bolsonaro-banco-master-supreme-court-moraes/",
-      "published_date": "2026-10-21T11:00:39+00:00"
-    },
-    {
-      "title": "Armenian opposition candidates  arrested on bribery charges ahead of local elections",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/armenian-opposition-candidates-arrested-on-bribery-charges-ahead-of-local-elections/",
-      "published_date": "2026-10-21T10:07:37+00:00"
-    },
-    {
-      "title": "Azov dismisses Russian claim of capturing Dobropillia",
-      "source": "Ukrinform",
-      "country": "Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4176639-azov-dismisses-russian-claim-of-capturing-dobropillia.html",
-      "published_date": "2026-10-21T09:28:00+00:00"
-    },
-    {
-      "title": "Battle over Meta’s alleged Bolsonaro bias intensifies days before Brazil presidential runoff - The Guardian",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXlyeFJreUhzRC1mTWlFQ0NlbURUMXE0azVoTE5sSEduU0lhVEozZzgxNnNNdTZfRmtqenliZXRmUGxBM29BY1lZYjdqOXA3U1hhWDZkN0RtUjFZazdkN21NM3E1RHpEWElyTUtrZ1JMSjJlVzNGbGJqVHV5V05NWEk4WF8zaUEwLVU5MXp4S3lnVUpPcDlFSktLSFBTb0dVRlhCWWVBRzVFX2RWaEtnNm9wOHV1UUhmampzNEpsTjFOZXZzcTJrVWlfOA?oc=5",
-      "published_date": "2026-10-21T08:48:00+00:00"
-    },
-    {
-      "title": "Vance says he is 'not getting involved' in Israeli elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-he-not-getting-involved-israeli-elections",
-      "published_date": "2026-10-21T06:14:01+00:00"
-    },
-    {
-      "title": "France turns page on Code Noir as Parliament approves symbolic repeal",
-      "source": "RFI English",
-      "country": "France",
-      "url": "https://www.rfi.fr/en/france/20261021-france-turns-page-on-code-noir-as-parliament-approves-symbolic-repeal",
-      "published_date": "2026-10-21T06:04:31+00:00"
     }
   ]
 }
