@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-03T18:19:43.302470+00:00",
-    "story_count": 676,
+    "last_updated": "2026-11-04T02:59:18.950057+00:00",
+    "story_count": 678,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,69 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Appeals court to rule on ex-President Yoon's high-stakes election law case",
+      "source": "Korea Times",
+      "country": "South Korea",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261104/appeals-court-to-rule-on-ex-president-yoons-high-stakes-election-law-case?utm_source=rss",
+      "published_date": "2026-11-04T02:52:02+00:00"
+    },
+    {
+      "title": "Hyunseung Lee on Kim Jong Un death rumors and North Korea’s succession",
+      "source": "NK News",
+      "country": "North Korea",
+      "url": "https://www.nknews.org/2026/11/hyunseung-lee-on-kim-jong-un-death-rumors-and-north-koreas-succession/",
+      "published_date": "2026-11-04T02:50:19+00:00"
+    },
+    {
+      "title": "2027: ‘Tomorrow is Here’ group rallies Nsukka voters for Mbah, Tinubu’s re-election",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/promoted/922557-2027-tomorrow-is-here-group-rallies-nsukka-voters-for-mbah-tinubus-re-election.html",
+      "published_date": "2026-11-03T23:11:05+00:00"
+    },
+    {
+      "title": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
+      "source": "Foreign Policy",
+      "country": "Iran",
+      "url": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/",
+      "published_date": "2026-11-03T23:02:31+00:00"
+    },
+    {
+      "title": "2027: Tinubu’s performance enough for his re-election, says education minister Tunji Alausa",
+      "source": "Premium Times Nigeria",
+      "country": "Nigeria",
+      "url": "https://www.premiumtimesng.com/news/top-news/922554-2027-tinubus-performance-enough-for-his-re-election-says-education-minister-tunji-alausa.html",
+      "published_date": "2026-11-03T22:53:12+00:00"
+    },
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "source": "Al Jazeera English",
+      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "published_date": "2026-11-03T21:43:19+00:00"
+    },
+    {
+      "title": "Opinion: How an election defeat triggered a carnival of racism against Palestinians",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-election-defeat-triggered-carnival-racism-against",
+      "published_date": "2026-11-03T20:54:40+00:00"
+    },
+    {
+      "title": "The New Yorker profiles Andrey Zvyagintsev, the exiled Russian director of the Cannes Grand Prix-winning film ‘Minotaur’",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/feature/2026/11/03/the-new-yorker-profiles-andrey-zvyagintsev-the-exiled-russian-director-of-the-cannes-grand-prix-winning-film-minotaur",
+      "published_date": "2026-11-03T19:13:56+00:00"
+    },
+    {
+      "title": "Russian strikes trigger emergency power outages in several Ukrainian regions, cutting water supply across Kyiv",
+      "source": "Meduza EN",
+      "country": "Russia",
+      "url": "https://meduza.io/en/news/2026/11/03/russian-strikes-trigger-emergency-power-outages-in-several-ukrainian-regions-cutting-water-supply-across-kyiv",
+      "published_date": "2026-11-03T18:28:02+00:00"
+    },
     {
       "title": "St. Petersburg court orders exiled journalist Alexander Nevzorov and his family evicted from their former home",
       "source": "Meduza EN",
@@ -4741,55 +4804,6 @@
       "country": "France",
       "url": "https://www.rfi.fr/en/france/20261021-france-turns-page-on-code-noir-as-parliament-approves-symbolic-repeal",
       "published_date": "2026-10-21T06:04:31+00:00"
-    },
-    {
-      "title": "PDP, APGA, Accord backing Tinubu’s reelection bid – APC chair",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/pdp-apga-accord-backing-tinubus-reelection-bid-apc-chair/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-21T01:36:44+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
-      "published_date": "2026-10-21T01:03:23+00:00"
-    },
-    {
-      "title": "How far will Netanyahu go to win Israel's elections?",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-far-will-netanyahu-go-win-israels-elections",
-      "published_date": "2026-10-20T23:35:35+00:00"
-    },
-    {
-      "title": "2027: Tompolo deploys 52 vehicles in Ondo, Gombe for Tinubu’s re-election, inaugurates coordinators",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/918665-2027-tompolo-deploys-52-vehicles-in-ondo-gombe-for-tinubus-re-election-inaugurates-coordinators.html",
-      "published_date": "2026-10-20T20:04:23+00:00"
-    },
-    {
-      "title": "Carney hails Alberta’s rejection of separation, but other referendum questions muddy the waters",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-alberta-separation-referendum-results-immigration-constitution/",
-      "published_date": "2026-10-20T19:51:26+00:00"
-    },
-    {
-      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
-      "source": "Al Jazeera English",
-      "country": "Peru",
-      "url": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
-      "published_date": "2026-10-20T18:53:51+00:00"
-    },
-    {
-      "title": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
-      "published_date": "2026-10-20T18:41:19+00:00"
     }
   ]
 }
