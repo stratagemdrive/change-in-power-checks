@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-04T18:34:26.997570+00:00",
-    "story_count": 689,
+    "last_updated": "2026-11-05T03:05:36.499512+00:00",
+    "story_count": 693,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,76 @@
   },
   "stories": [
     {
+      "title": "2027: Obasanjo’s son backs Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-obasanjos-son-backs-tinubus-re-election-2/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-11-05T03:12:42+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+      "published_date": "2026-11-05T02:13:44+00:00"
+    },
+    {
+      "title": "Israel’s election commission rejects Netanyahu claims of voting fraud - The Guardian",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3QwdjV0RU9FejhJUm9tRjZNNGVobHZKaGhONTFISjFOUUNqaDV0c2E1SEwwY0NpSGtCanNFUFRQc1BOeWQyMWx1emJvWkdxM0w3dlJHckpQeU4tOUhJS0lHZGV6RG1rUU5ZZXh2X19fSFJRaTJBU2M5UkxCRTFpWUJ3d3dGTWpNYjlaUEs1TWU2NDJYMkZlWGdKNG1nSDRqaW5rRVNTWnVQMjBlVVlZ?oc=5",
+      "published_date": "2026-11-05T00:17:00+00:00"
+    },
+    {
+      "title": "Canadian reaction to the Democrats' big miderm election win",
+      "source": "Globe and Mail Politics",
+      "country": "Canada",
+      "url": "https://www.theglobeandmail.com/canada/video-canadian-reaction-to-the-democrats-big-miderm-election-win/",
+      "published_date": "2026-11-04T23:42:58+00:00"
+    },
+    {
+      "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
+      "published_date": "2026-11-04T21:26:53+00:00"
+    },
+    {
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "source": "Al Jazeera English",
+      "country": "Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "published_date": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "Israel president urges compromise after divisive election",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2042120/israel-president-urges-compromise-after-divisive-election",
+      "published_date": "2026-11-04T20:44:32+00:00"
+    },
+    {
+      "title": "Presidente Kast participa en la inauguración de la XXX Cumbre Iberoamericana en Madrid",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/presidente-kast-participa-en-la-inauguracion-de-la-xxx-cumbre-iberoamericana-en-madrid/",
+      "published_date": "2026-11-04T20:26:21+00:00"
+    },
+    {
+      "title": "How Israel lost four elections in less than two weeks - analysis",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/article-913860",
+      "published_date": "2026-11-04T20:14:58+00:00"
+    },
+    {
+      "title": "Ukraine hopes to maintain strong bipartisan support in U.S. Congress after midterm elections – diplomat",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-polytics/4181548-ukraine-hopes-to-maintain-strong-bipartisan-support-in-us-congress-after-midterm-elections-diplomat.html",
+      "published_date": "2026-11-04T20:10:00+00:00"
+    },
+    {
       "title": "Iran strikes Kurdish region of Iraq following US midterm elections - analysis",
       "source": "Jerusalem Post",
       "country": "Iran",
@@ -67,11 +137,25 @@
       "published_date": "2026-11-04T19:00:42+00:00"
     },
     {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-      "published_date": "2026-11-04T18:20:00+00:00"
+      "title": "Hasta no ser recibidos por el Presidente Kast: la condición de los diputados RN para juntarse con el vocero Arenas",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/hasta-no-ser-recibidos-por-el-presidente-kast-la-condicion-de-rn-para-juntarse-con-el-vocero-arenas/",
+      "published_date": "2026-11-04T19:00:00+00:00"
+    },
+    {
+      "title": "Trump admits Iran war caused election losses but ‘we had to do it’",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-admits-iran-war-caused-election-losses-we-had-do-it",
+      "published_date": "2026-11-04T18:53:41+00:00"
+    },
+    {
+      "title": "Election Commission of India to launch major voter enrolment drive in UP on Nov 12",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/election-commission-of-india-to-launch-major-voter-enrolment-drive-in-up-on-nov-12-101793816350397.html",
+      "published_date": "2026-11-04T18:19:09+00:00"
     },
     {
       "title": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
@@ -79,13 +163,6 @@
       "country": "Iran",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
       "published_date": "2026-11-04T18:01:35+00:00"
-    },
-    {
-      "title": "Israel president urges compromise after divisive election",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2042120/israel-president-urges-compromise-after-divisive-election",
-      "published_date": "2026-11-04T17:30:40+00:00"
     },
     {
       "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
@@ -165,6 +242,13 @@
       "published_date": "2026-11-04T13:27:13+00:00"
     },
     {
+      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExqQVYtWnZwSWJ3YlNnRkJtc2ZjNGdESmEyX0hrZW1jVl96OTZXM1Z3SzI2MFNjSEtzQzduc2dBN1FDTVlTZ0w0eVdfYXprVkNScGJhQnBLWWNPajNWeFRVRjFZWGpJU1d2bVlnZXd6NHI0c1AxMWhmbWZwbU5oNG1EaXM1Wjl0SktlZE5rUXlDZzZpVG1PTlZaTkI1NHQ2Qmc?oc=5",
+      "published_date": "2026-11-04T13:18:58+00:00"
+    },
+    {
       "title": "Iran's strategic patience in negotiation with Trump pays off after US midterm election - analysis",
       "source": "Jerusalem Post",
       "country": "Iran",
@@ -237,7 +321,7 @@
     {
       "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
       "source": "Deutsche Welle English",
-      "country": "Ukraine",
+      "country": "Iran",
       "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
       "published_date": "2026-11-04T08:52:00+00:00"
     },
@@ -4825,62 +4909,6 @@
       "country": "Canada",
       "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T03:05:28+00:00"
-    },
-    {
-      "title": "A look at the major candidates in Israel’s election Tuesday - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ?oc=5",
-      "published_date": "2026-10-22T01:18:00+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
-      "published_date": "2026-10-22T00:43:20+00:00"
-    },
-    {
-      "title": "US accuses Canada of election interference ahead of midterms",
-      "source": "Al Jazeera English",
-      "country": "Canada",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-      "published_date": "2026-10-21T23:52:21+00:00"
-    },
-    {
-      "title": "The only candidate from Russia’s Komi region to call for peace in last month’s parliamentary elections has been detained on suspicion of ‘justifying terrorism’",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/21/the-only-candidate-from-russia-s-komi-region-to-call-for-peace-in-last-month-s-parliamentary-elections-has-been-detained-on-suspicion-of-justifying-terrorism",
-      "published_date": "2026-10-21T20:30:40+00:00"
-    },
-    {
-      "title": "U.S. embassy accuses Canadian politicians of election meddling",
-      "source": "Globe and Mail Politics",
-      "country": "Canada",
-      "url": "https://www.theglobeandmail.com/canada/article-us-embassy-hoekstra-trump-election-meddling/",
-      "published_date": "2026-10-21T19:57:47+00:00"
-    },
-    {
-      "title": "Why Netanyahu is making the Iranian regime’s overthrow a personal promise - analysis",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-912452",
-      "published_date": "2026-10-21T19:07:43+00:00"
-    },
-    {
-      "title": "Netanyahu threatens regime change in Iran",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-threatens-regime-change-iran",
-      "published_date": "2026-10-21T18:49:19+00:00"
-    },
-    {
-      "title": "Russian-born Kazakhstani billionaire Timur Turlov is the new president of world chess. His election has divided Ukrainian officials, and Russia has abruptly dropped its case against him.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/10/21/russian-born-kazakhstani-billionaire-timur-turlov-is-the-new-president-of-world-chess-his-election-has-divided-ukrainian-officials-and-russia-has-abruptly-dropped-its-case-against-him",
-      "published_date": "2026-10-21T18:34:58+00:00"
     }
   ]
 }
