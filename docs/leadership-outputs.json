@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-05T18:36:58.559496+00:00",
-    "story_count": 694,
+    "last_updated": "2026-11-06T03:06:11.324487+00:00",
+    "story_count": 697,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,60 @@
   },
   "stories": [
     {
+      "title": "Wike tackles ASUU over UniAbuja land, backs Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/wike-tackles-asuu-over-uniabuja-land-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-11-06T02:15:40+00:00"
+    },
+    {
+      "title": "Senado de Paraguay comienza juicio político contra el presidente Santiago Peña",
+      "source": "Efecto Cocuyo Venezuela",
+      "country": "Chile",
+      "url": "https://efectococuyo.com/destacado-3/comienza-en-el-senado-de-paraguay-el-juicio-politico-contra-santiago-pena/",
+      "published_date": "2026-11-06T01:17:59+00:00"
+    },
+    {
       "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
       "source": "La Nacion Argentina",
       "country": "Chile",
       "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
-      "published_date": "2026-11-05T18:21:43+00:00"
+      "published_date": "2026-11-06T00:02:14+00:00"
+    },
+    {
+      "title": "Após Lula planejar diálogo com empresários, centrais sindicais pedem encontro com o presidente",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-lula-planejar-dialogo-com-empresarios-centrais-sindicais-pedem-encontro-com-o-presidente.shtml",
+      "published_date": "2026-11-05T23:06:00+00:00"
+    },
+    {
+      "title": "America’s Election Has Prompted Some Surprising Moves in Israel That Might Oust Netanyahu - Slate Magazine",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUY0TTZaQm16a203UDVGVWtkQVZ1dmZnTkpwSFJGUW5ES2tNNURlY0FYOTJ5V3Z4emhTSkg3dEVudlE4UkdPTFVRZDZyM3B1VFpmUHVESnZsQVhHajJsWWllRnZQM05SMTlMaXJPekVWa2ZCekpMb2J1OUdwMnBnZ1E5ZUQ0dWkxNVF6QUptT2NnWG9UWHRncC1Id1lXNFlHYlBfZG1XQ2lRVmJBRWJzODM4amc?oc=5",
+      "published_date": "2026-11-05T22:32:00+00:00"
+    },
+    {
+      "title": "Nigeria court bars opposition candidate two months before election",
+      "source": "France 24 English",
+      "country": "Nigeria",
+      "url": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+      "published_date": "2026-11-05T21:22:18+00:00"
+    },
+    {
+      "title": "Israel president says to announce Sunday who will form new government",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-president-says-announce-sunday-who-will-form-new-government",
+      "published_date": "2026-11-05T21:17:09+00:00"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se refiere al escándalo de Deyci Jiménez y Gustavo Petro: ¿qué dijo?",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-refiere-al-escandalo-de-deyci-jimenez-y-gustavo-petro-que-dijo-3598796",
+      "published_date": "2026-11-05T20:45:00+00:00"
     },
     {
       "title": "El ascenso y la caída de Santiago Peña, el presidente al que su padrino político terminó dándole la espalda",
@@ -88,7 +137,7 @@
       "published_date": "2026-11-05T18:15:00+00:00"
     },
     {
-      "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+      "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
       "source": "The Guardian World",
       "country": "Israel",
       "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
@@ -191,6 +240,13 @@
       "country": "Israel",
       "url": "https://www.middleeasteye.net/news/jd-vance-blames-iran-war-and-support-israel-failure-us-mid-term-elections",
       "published_date": "2026-11-05T11:14:03+00:00"
+    },
+    {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout - The New York Times",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOF9SUEYwQjRQcl9SaWpFcVpSSVRib3Fqd1lDVGdtcHU4eUcyc1IxZS10ZkVEMzhxOGEyRE52R0o1dmhhaGF6b05NVURXX3lvaE5DNXJfUi01TWFGT1VfRXkyU0tDbnIycGpTazRqOTV2N29MSTdReHJ5alREN1N6enc3emFuOFJsOG5Pc2FLVURpZw?oc=5",
+      "published_date": "2026-11-05T11:04:18+00:00"
     },
     {
       "title": "Nigeria’s ‘godfathers’ pull the strings ahead of elections",
@@ -401,6 +457,13 @@
       "country": "Israel",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExqQVYtWnZwSWJ3YlNnRkJtc2ZjNGdESmEyX0hrZW1jVl96OTZXM1Z3SzI2MFNjSEtzQzduc2dBN1FDTVlTZ0w0eVdfYXprVkNScGJhQnBLWWNPajNWeFRVRjFZWGpJU1d2bVlnZXd6NHI0c1AxMWhmbWZwbU5oNG1EaXM1Wjl0SktlZE5rUXlDZzZpVG1PTlZaTkI1NHQ2Qmc?oc=5",
       "published_date": "2026-11-04T13:18:58+00:00"
+    },
+    {
+      "title": "Israel’s president accepts certified election results in a blow to Netanyahu's claim of vote fraud - CTV News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanJwUUZJc1RvaTh4S3VsMmVMZHRuai1tb3pvcnZMaWltVUJXdlRtaEFidXRJVTZtZVpHbGVKZFdVbm9oUzFYSnZ0Y3ZmLVRIN3UxRGJIZFI1VTZmMUxjc0VfYUF6c3pzUUlQVE1sNDJtLUtHcTVBNXRKUXF4RFR1Y1FQN05oVUFDUjFRYmJDNnM2ZlJOTDdfVmlLd29DUzg2eXJiaFA4NXVPWFZUQm03WnIyOC1kOXd2RFk1MFFKdU16bXc1eWNPQXNxbUNNQ2c?oc=5",
+      "published_date": "2026-11-04T12:46:26+00:00"
     },
     {
       "title": "Iran's strategic patience in negotiation with Trump pays off after US midterm election - analysis",
@@ -4874,48 +4937,6 @@
       "country": "Japan",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
       "published_date": "2026-10-23T04:48:55+00:00"
-    },
-    {
-      "title": "Procedures to be followed if fresh impeachment motion against CEC filed: Lok Sabha Speaker Om Birla",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/procedures-to-be-followed-if-fresh-cec-impeachment-motion-filed-ls-speaker-101792696470027.html",
-      "published_date": "2026-10-23T02:23:30+00:00"
-    },
-    {
-      "title": "Venezuelans call for elections in first national protest in nearly two years",
-      "source": "Jerusalem Post",
-      "country": "Venezuela",
-      "url": "https://www.jpost.com/international/article-912635",
-      "published_date": "2026-10-23T02:20:57+00:00"
-    },
-    {
-      "title": "Brazil’s election and the battle for the Amazon – podcast",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
-      "published_date": "2026-10-23T02:00:56+00:00"
-    },
-    {
-      "title": "Oyetola, Oyebamiji absent as Adeleke inaugurates Tinubu campaign council",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/oyetola-oyebamiji-absent-as-adeleke-inaugurates-tinubu-campaign-council/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-23T01:01:36+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: “Los indicadores no evolucionan como esperábamos”, dijo el Presidente",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-      "published_date": "2026-10-23T01:00:09+00:00"
-    },
-    {
-      "title": "Netanyahu Vows to Overthrow Iranian Regime",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-iran-regime-us-strikes-war/",
-      "published_date": "2026-10-22T20:16:32+00:00"
     }
   ]
 }
