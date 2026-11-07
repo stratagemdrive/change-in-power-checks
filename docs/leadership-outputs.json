@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-06T17:55:39.308230+00:00",
-    "story_count": 699,
+    "last_updated": "2026-11-07T02:36:11.026288+00:00",
+    "story_count": 700,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Senador eleito, presidente da Alesp tenta emplacar novato como sucessor e gera racha no PL",
+      "source": "Folha de S Paulo",
+      "country": "Brazil",
+      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-eleito-presidente-da-alesp-tenta-emplacar-novato-como-sucessor-e-gera-racha-no-pl.shtml",
+      "published_date": "2026-11-07T02:00:00+00:00"
+    },
+    {
+      "title": "Harmeet Dhillon, who led anti-Israel campus protest crackdown, resigns",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/harmeet-dhillon-who-led-anti-israel-campus-protest-crackdown-resigns",
+      "published_date": "2026-11-07T00:44:46+00:00"
+    },
+    {
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "source": "Al Jazeera English",
+      "country": "Chile",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "published_date": "2026-11-07T00:31:41+00:00"
+    },
+    {
+      "title": "Pedro Alliana jura como presidente de Paraguay tras la destitución de Santiago Peña",
+      "source": "El Nacional Venezuela",
+      "country": "Chile",
+      "url": "https://www.elnacional.com/2026/11/pedro-alliana-jura-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena/",
+      "published_date": "2026-11-06T23:42:05+00:00"
+    },
+    {
+      "title": "Fiscalía de Paraguay ordena detención del destituido presidente Santiago Peña: Policía lo deja con arresto domiciliario",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/mundo/noticia/fiscalia-de-paraguay-ordena-detencion-del-destituido-presidente-santiago-pena/",
+      "published_date": "2026-11-06T23:32:57+00:00"
+    },
+    {
+      "title": "Santiago Peña es destituido por el Congreso paraguayo: se convierte en el segundo presidente del país cesado por juicio político",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/mundo/noticia/santiago-pena-es-destituido-por-el-congreso-paraguayo-se-convierte-en-el-segundo-presidente-del-pais-cesado-por-juicio-politico/",
+      "published_date": "2026-11-06T22:24:00+00:00"
+    },
+    {
+      "title": "¿Jefe de la Misión o Presidente de Chile?",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/opinion/noticia/jefe-de-la-mision-o-presidente-de-chile/",
+      "published_date": "2026-11-06T21:58:00+00:00"
+    },
+    {
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "published_date": "2026-11-06T20:42:51+00:00"
+    },
+    {
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election - NPR",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNURJVzhrOEgxNkI0bVVDZXNtazNIUlJPcHFJQkVDZmFnN3FjMGJ3UE9NUUhFV1pJWkJ5NS1FczJ4dy13a1JkdHh0YXRCbVBzTUwxOXkyT1lFblBvU2VoTXNNRHBKYVhfMTZiZFBGN0U3TnlIbTkwOC1fWXlvSXEyeWZxSUlQT1JKOGEw?oc=5",
+      "published_date": "2026-11-06T20:42:51+00:00"
+    },
+    {
+      "title": "Presidente Kast aprueba el Alto Mando 2027 de la Fuerza Aérea de Chile",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/presidente-kast-aprueba-el-alto-mando-2027-de-la-fuerza-aerea-de-chile/",
+      "published_date": "2026-11-06T20:23:19+00:00"
+    },
     {
       "title": "Think you understand Israel's election? Here are 10 things the world may have missed - opinion",
       "source": "Jerusalem Post",
@@ -4888,69 +4958,6 @@
       "country": "Iran",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-netanyahu-threats-betray-desperation-aide-irans-supreme-leader",
       "published_date": "2026-10-24T04:00:32+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro (PL): 'O presidente Bolsonaro passou o Bolsa Família para, no mínimo, R$ 600'",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml#post467570",
-      "published_date": "2026-10-24T01:48:00+00:00"
-    },
-    {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "source": "BBC World",
-      "country": "Canada",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-sobreseyo-al-presidente-y-a-karina-milei-en-el-caso-libra-nid23102026/",
-      "published_date": "2026-10-23T21:59:51+00:00"
-    },
-    {
-      "title": "Israel’s election campaign lacks substance, fresh leadership, and vision - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-912574",
-      "published_date": "2026-10-23T20:17:38+00:00"
-    },
-    {
-      "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
-      "source": "South China Morning Post",
-      "country": "Canada",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-      "published_date": "2026-10-23T20:04:15+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronuncia sobre la extradición de alias Mocho Olmedo a Estados Unidos: 'Colombia no es refugio de criminales'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncia-sobre-la-extradicion-de-alias-mocho-olmedo-a-estados-unidos-colombia-no-es-refugio-de-criminales-3595855",
-      "published_date": "2026-10-23T19:57:35+00:00"
-    },
-    {
-      "title": "Meduza’s sources say prosecution of popular Russian Communist was planned before his election defeat",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/feature/2026/10/23/meduza-s-sources-say-prosecution-of-popular-russian-communist-was-planned-before-his-election-defeat",
-      "published_date": "2026-10-23T18:40:58+00:00"
-    },
-    {
-      "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
-      "published_date": "2026-10-23T18:26:35+00:00"
-    },
-    {
-      "title": "Russia designates Maxim Kurnikov, editor-in-chief of exiled news outlet Ekho, a ‘foreign agent’",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/23/russia-designates-maxim-kurnikov-editor-in-chief-of-exiled-news-outlet-ekho-a-foreign-agent",
-      "published_date": "2026-10-23T18:04:25+00:00"
     }
   ]
 }
