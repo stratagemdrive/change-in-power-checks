@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-07T02:36:11.026288+00:00",
-    "story_count": 700,
+    "last_updated": "2026-11-07T16:51:18.281499+00:00",
+    "story_count": 694,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,90 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Kast felicita a Pedro Alliana tras asumir presidencia de Paraguay: “Mucho éxito, Presidente”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/nacional/noticia/kast-felicita-a-pedro-alliana-tras-asumir-presidencia-de-paraguay-mucho-exito-presidente/",
+      "published_date": "2026-11-07T16:14:43+00:00"
+    },
+    {
+      "title": "Lula da Silva expresó su respaldo al nuevo presidente de Paraguay y propuso fortalecer la agenda bilateral",
+      "source": "El Nacional Venezuela",
+      "country": "Brazil",
+      "url": "https://www.elnacional.com/2026/11/lula-da-silva-expreso-su-respaldo-al-nuevo-presidente-de-paraguay-y-propuso-fortalecer-la-agenda-bilateral/",
+      "published_date": "2026-11-07T16:06:37+00:00"
+    },
+    {
+      "title": "Tinubu condoles with Niger junta leader over father’s death",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/tinubu-condoles-with-niger-junta-leader-over-fathers-death/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-11-07T16:03:32+00:00"
+    },
+    {
+      "title": "2027: Your future depends on election, collect your PVCs, Tinubu tells youths",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-your-future-depends-on-election-collect-your-pvcs-tinubu-tells-youths/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-11-07T16:00:50+00:00"
+    },
+    {
+      "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+      "published_date": "2026-11-07T14:44:24+00:00"
+    },
+    {
+      "title": "Presidente Kast participa en inauguración de la Teletón 2026: “Tanta falta que hace unirnos en Chile”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/videos/noticia/presidente-kast-participa-en-inauguracion-de-la-teleton-2026-tanta-falta-que-hace-unirnos-en-chile/",
+      "published_date": "2026-11-07T14:24:24+00:00"
+    },
+    {
+      "title": "China vows ‘zero tolerance’ for election meddling ahead of 21st party congress",
+      "source": "South China Morning Post",
+      "country": "China",
+      "url": "https://www.scmp.com/news/china/politics/article/3373658/chinas-communist-party-vows-zero-tolerance-election-meddling-ahead-key-congress",
+      "published_date": "2026-11-07T13:23:30+00:00"
+    },
+    {
+      "title": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/news/netanyahu-and-mossad-chief-planned-attack-iran-israeli-election-says-report",
+      "published_date": "2026-11-07T12:38:24+00:00"
+    },
+    {
+      "title": "Israel coalition talks gain momentum",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+      "published_date": "2026-11-07T12:12:06+00:00"
+    },
+    {
+      "title": "Emergency power cuts introduced in Kyiv region",
+      "source": "Ukrinform",
+      "country": "Ukraine",
+      "url": "https://www.ukrinform.net/rubric-economy/4182422-emergency-power-cuts-introduced-in-kyiv-region.html",
+      "published_date": "2026-11-07T12:03:00+00:00"
+    },
+    {
+      "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+      "published_date": "2026-11-07T10:44:34+00:00"
+    },
+    {
+      "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+      "source": "Euronews",
+      "country": "Chile",
+      "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+      "published_date": "2026-11-07T10:36:19+00:00"
+    },
     {
       "title": "Senador eleito, presidente da Alesp tenta emplacar novato como sucessor e gera racha no PL",
       "source": "Folha de S Paulo",
@@ -193,6 +277,13 @@
       "published_date": "2026-11-06T14:47:31+00:00"
     },
     {
+      "title": "Somalia’s top court rules president’s term extension is unlawful, deepening power struggle - AP News",
+      "source": "Google News World",
+      "country": "Somalia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFdheGZ0VTRnbEF1amtDUzFJZjRfM3haT0I5Yk1RMEJSR3FBMlRmVExzTHNjeG1RVFpXVXBKTTExUFcxQ2ZLQVpod2s3YkFGSWNDb0Y2OEJNdkw0SDlUQUsyQnlaNm9DUF80UTRraDc3RG90MGpMSEtCOGllN2tUZEFSTGpUckpTeUdhNE5YR1ZEOWxadHJUZzBPRVhrdDRhZ2NraGhnNThZcm1YbkxIa3lZS0E3dWxSV1Q4Sg?oc=5",
+      "published_date": "2026-11-06T14:14:00+00:00"
+    },
+    {
       "title": "Qué se sabe del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
       "source": "La Tercera Chile",
       "country": "Chile",
@@ -249,6 +340,13 @@
       "published_date": "2026-11-06T09:30:50+00:00"
     },
     {
+      "title": "Turkey moves closer to Saudi troop deployment as parliament approves Mecca defence pact - Middle East Eye",
+      "source": "Google News World",
+      "country": "Turkey",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUd0MEk2cUdmWnRTckJERVpPRVJBMEQ3LXJXRk5VNGE4LVlBNUR0SzFyZGJmTVRFQm9kM1lDWEpXNHZLZUxjejlSeW55YU0ydVhGeUd6V0ZQQnJCUGtoT2Z1Z1dFXzZ4VWVITHFBaDJReFI3VV9jX3dkX21aSm1CRkpuSXRWTWd5aFk2Zi10Sm1rclZ1dkg0cjhBTTBEaVpxb0VFdXhyMUZmSUM5aDRuMHBPMFJhWGc?oc=5",
+      "published_date": "2026-11-06T09:30:00+00:00"
+    },
+    {
       "title": "Uncertainty over Nigeria vote after court bars opposition leader from running",
       "source": "RFI English",
       "country": "Nigeria",
@@ -275,6 +373,13 @@
       "country": "Saudi Arabia",
       "url": "https://www.dawn.com/news/2042575/turkish-parliament-approves-makkah-defence-pact-with-pakistan-saudi-arabia",
       "published_date": "2026-11-06T07:01:09+00:00"
+    },
+    {
+      "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate - Reuters",
+      "source": "Google News World",
+      "country": "China",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
+      "published_date": "2026-11-06T03:04:00+00:00"
     },
     {
       "title": "Wike tackles ASUU over UniAbuja land, backs Tinubu’s re-election",
@@ -4811,153 +4916,6 @@
       "country": "India",
       "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece",
       "published_date": "2026-10-24T17:00:40+00:00"
-    },
-    {
-      "title": "Three days before election, Netanyahu warns Iran is preparing to destroy Israel - Ynetnews",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTkRuQUliVVZBYU5kYU5EeElZNEZPMFZFSU4zeUp6MmNwRUFnRV9xb0RZQVFQOEFpLURVVjhHZ2JJVlk1eDhvX01KX2RuMTI5UWRPUHNuaw?oc=5",
-      "published_date": "2026-10-24T16:38:12+00:00"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-      "published_date": "2026-10-24T15:36:38+00:00"
-    },
-    {
-      "title": "The heir to Jair: Flavio Bolsonaro battles to reclaim father’s rule of Brazil in razor-tight election",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/who-is-flavio-bolsonaro-lula-brazil-elections-b3071434.html",
-      "published_date": "2026-10-24T15:02:31+00:00"
-    },
-    {
-      "title": "Au congrès du RN à Orléans, Jordan Bardella, seul candidat à sa succession, est réélu président du parti avec 98,98 % des voix",
-      "source": "Le Monde France",
-      "country": "France",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
-      "published_date": "2026-10-24T14:06:15+00:00"
-    },
-    {
-      "title": "Presidente Kast sostiene llamada telefónica con primer ministro británico y diálogo deriva en Malvinas",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/presidente-kast-sostiene-llamada-telefonica-con-primer-ministro-britanico-y-dialogo-deriva-en-malvinas/",
-      "published_date": "2026-10-24T13:45:16+00:00"
-    },
-    {
-      "title": "The first vote | Revisiting India’s first general election: 1951–52",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/infographics/2026-10-24/india-first-general-election-1951-52/index.html",
-      "published_date": "2026-10-24T13:37:22+00:00"
-    },
-    {
-      "title": "Ukrainian, Romanian PMs discuss defense, energy, logistics",
-      "source": "Ukrinform",
-      "country": "Ukraine",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177806-ukrainian-romanian-pms-discuss-defense-energy-logistics.html",
-      "published_date": "2026-10-24T13:08:00+00:00"
-    },
-    {
-      "title": "Brazil’s economic challenges after the Lula–Bolsonaro runoff",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/brazils-economic-challenges-after-the-lula-bolsonaro-runoff",
-      "published_date": "2026-10-24T12:58:42+00:00"
-    },
-    {
-      "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
-      "published_date": "2026-10-24T12:56:30+00:00"
-    },
-    {
-      "title": "Young Israeli voters lean right, as election puts Netanyahu to the test",
-      "source": "RFI English",
-      "country": "Israel",
-      "url": "https://www.rfi.fr/en/international/20261024-young-israeli-voters-lean-right-as-election-puts-netanyahu-to-the-test",
-      "published_date": "2026-10-24T11:45:55+00:00"
-    },
-    {
-      "title": "Israeli green card holder charged with illegal voting in 2024 US presidential election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/international/article-912684",
-      "published_date": "2026-10-24T10:15:45+00:00"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
-      "published_date": "2026-10-24T09:41:56+00:00"
-    },
-    {
-      "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend?",
-      "source": "CBC News World",
-      "country": "Israel",
-      "url": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss",
-      "published_date": "2026-10-24T08:00:00+00:00"
-    },
-    {
-      "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect - AP News",
-      "source": "Google News World",
-      "country": "Japan",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
-      "published_date": "2026-10-24T07:57:17+00:00"
-    },
-    {
-      "title": "Debt: Moody's spares France, \"a brief respite\", not a \"vote of confidence\"",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence",
-      "published_date": "2026-10-24T07:21:15+00:00"
-    },
-    {
-      "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
-      "published_date": "2026-10-24T06:39:30+00:00"
-    },
-    {
-      "title": "Bolsonaro and Lula clash on living costs and graft in final Brazil election debate",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/world/politics/brazil-final-election-debate/",
-      "published_date": "2026-10-24T05:08:00+00:00"
-    },
-    {
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T05:05:44+00:00"
-    },
-    {
-      "title": "Who is Gadi Eisenkot, Netanyahu’s main challenger in Israel’s elections? - CNN",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGRvNWRNOWZDWHhZUFZxaTNPZ3d6VXhYXzlMTG01aGdsdWQwTlU0VXp2cEtsbm9rNGJQNnp1UmFUdW1KeVh1Yk8tT1hJWmRodFI0UnVNMEh5YnoxMXh3elZuVEdwR254RlNQcVF5dmU4TW9MUTkwNWxxcUFzMmRBVUhZV05CU1hlWjYyWThNbw?oc=5",
-      "published_date": "2026-10-24T05:01:15+00:00"
-    },
-    {
-      "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-      "published_date": "2026-10-24T04:30:10+00:00"
-    },
-    {
-      "title": "Trump, Netanyahu threats betray 'desperation', aide to Iran's supreme leader says",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-netanyahu-threats-betray-desperation-aide-irans-supreme-leader",
-      "published_date": "2026-10-24T04:00:32+00:00"
     }
   ]
 }
