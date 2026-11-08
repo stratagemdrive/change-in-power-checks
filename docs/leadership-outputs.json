@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-08T02:05:21.667762+00:00",
-    "story_count": 694,
+    "last_updated": "2026-11-08T17:00:57.259053+00:00",
+    "story_count": 667,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "A-G Baharav-Miara says no evidence foreign interference could have changed Knesset election results",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
+      "published_date": "2026-11-08T18:08:48+00:00"
+    },
+    {
+      "title": "Criteria: aprobación del Presidente Kast se ubica en 24% y desaprobación alcanza un 67%",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/criteria-aprobacion-del-presidente-kast-baja-al-24-y-desaprobacion-se-alza-a-67/",
+      "published_date": "2026-11-08T15:42:15+00:00"
+    },
+    {
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "published_date": "2026-11-08T14:26:14+00:00"
+    },
+    {
+      "title": "Nine former PMs join King Charles at Remembrance Sunday service in London",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+      "published_date": "2026-11-08T13:05:13+00:00"
+    },
+    {
+      "title": "Ex-army chief Eisenkot given first chance to form government in Israel",
+      "source": "RFI English",
+      "country": "Israel",
+      "url": "https://www.rfi.fr/en/international/20261108-ex-army-chief-eisenkot-given-first-chance-to-form-government-in-israel",
+      "published_date": "2026-11-08T12:45:40+00:00"
+    },
+    {
+      "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914189",
+      "published_date": "2026-11-08T12:18:19+00:00"
+    },
+    {
+      "title": "Elections israéliennes : Benjamin Netanyahu est-il hors-jeu ?",
+      "source": "France 24 FR",
+      "country": "Israel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-isra%C3%ABl-benjamin-netanyahu-hors-jeu",
+      "published_date": "2026-11-08T10:02:00+00:00"
+    },
+    {
+      "title": "Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections",
+      "source": "Euronews",
+      "country": "Israel",
+      "url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+      "published_date": "2026-11-08T08:51:38+00:00"
+    },
+    {
+      "title": "Israel’s president picks Netanyahu rival Gadi Eisenkot to form government",
+      "source": "The Independent UK",
+      "country": "Israel",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html",
+      "published_date": "2026-11-08T08:47:03+00:00"
+    },
+    {
+      "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
+      "published_date": "2026-11-08T05:49:00+00:00"
+    },
     {
       "title": "'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
       "source": "Middle East Eye",
@@ -142,13 +212,6 @@
       "country": "France",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
       "published_date": "2026-11-07T19:58:43+00:00"
-    },
-    {
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "published_date": "2026-11-07T19:49:39+00:00"
     },
     {
       "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
@@ -4664,258 +4727,6 @@
       "country": "Venezuela",
       "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692",
       "published_date": "2026-10-25T17:03:00+00:00"
-    },
-    {
-      "title": "María Corina Machado back in Venezuela after 10 months in exile",
-      "source": "Euronews",
-      "country": "Venezuela",
-      "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
-      "published_date": "2026-10-25T16:54:12+00:00"
-    },
-    {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "source": "NPR World",
-      "country": "Venezuela",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "published_date": "2026-10-25T16:18:41+00:00"
-    },
-    {
-      "title": "Netanyahu shares AI-generated image of nuclear explosion in Tel Aviv, two days before election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912797",
-      "published_date": "2026-10-25T15:55:34+00:00"
-    },
-    {
-      "title": "Criteria: aprobación de Presidente Kast marca un 27% y su desaprobación alcanza un 64%",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-marca-un-27-y-su-desaprobacion-alcanza-un-64/",
-      "published_date": "2026-10-25T15:44:30+00:00"
-    },
-    {
-      "title": "How will the Israeli election work and when will the result be announced?",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-netanyahu-middle-east-gaza-lebanon-iran-b3072110.html",
-      "published_date": "2026-10-25T14:43:43+00:00"
-    },
-    {
-      "title": "Brazilians head to the polls to vote in tense  Lula vs Bolsonaro runoff election",
-      "source": "The Independent UK",
-      "country": "Brazil",
-      "url": "https://www.independent.co.uk/news/world/americas/brazil-election-lula-bolsonaro-trump-b3072964.html",
-      "published_date": "2026-10-25T14:42:28+00:00"
-    },
-    {
-      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-      "published_date": "2026-10-25T14:41:17+00:00"
-    },
-    {
-      "title": "Presidential runoff under way in Brazil",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
-      "published_date": "2026-10-25T13:52:44+00:00"
-    },
-    {
-      "title": "Le Pen leads polls with up to 38% six months before election",
-      "source": "France 24 English",
-      "country": "France",
-      "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-      "published_date": "2026-10-25T13:51:14+00:00"
-    },
-    {
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power - CBS News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
-      "published_date": "2026-10-25T13:27:00+00:00"
-    },
-    {
-      "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-      "source": "France 24 English",
-      "country": "Indonesia",
-      "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
-      "published_date": "2026-10-25T12:48:31+00:00"
-    },
-    {
-      "title": "Israel votes in first election since 7 October attacks and Gaza war – could Netanyahu lose power?",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/tv/news/israel-elections-gaza-west-bank-netanyahu-eisenkot-b3072827.html",
-      "published_date": "2026-10-25T12:47:45+00:00"
-    },
-    {
-      "title": "Luiz Inacio Lula da Silva wins reelection in Brazil after defeating Flavio Bolsonaro",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "published_date": "2026-10-25T12:46:02+00:00"
-    },
-    {
-      "title": "Venezuela's opposition leader Machado returns after months in exile",
-      "source": "CBC News World",
-      "country": "Venezuela",
-      "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss",
-      "published_date": "2026-10-25T12:38:13+00:00"
-    },
-    {
-      "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-      "published_date": "2026-10-25T12:01:34+00:00"
-    },
-    {
-      "title": "Polls open in Brazil presidential runoff",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
-      "published_date": "2026-10-25T11:40:38+00:00"
-    },
-    {
-      "title": "Israel: Demonstrators rally against government ahead of election",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-      "published_date": "2026-10-25T11:38:01+00:00"
-    },
-    {
-      "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
-      "source": "Euronews",
-      "country": "Israel",
-      "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
-      "published_date": "2026-10-25T11:21:13+00:00"
-    },
-    {
-      "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
-      "published_date": "2026-10-25T11:18:55+00:00"
-    },
-    {
-      "title": "Bulgaria votes for president in election dominated by Ukraine war and the economy",
-      "source": "Euronews",
-      "country": "Ukraine",
-      "url": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
-      "published_date": "2026-10-25T10:59:15+00:00"
-    },
-    {
-      "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
-      "published_date": "2026-10-25T10:33:58+00:00"
-    },
-    {
-      "title": "Israel braces for rainy Election Day, but can bad weather affect voter turnout?",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912746",
-      "published_date": "2026-10-25T10:28:43+00:00"
-    },
-    {
-      "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger - Fox News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaERTVlQ2SEhXTU4xOUFEUFJCcUk0QzlNX1g0X1NCS2dOQ2RXUFB3ZGFZMHBIN2lsMXlyYUpxQVZoYmVTY2ZXUVFESEpGeWlVU2lOZ1B0Qmo1T0ZpWlI1Unk0ZmhmU0F1OUFjVnVqTEdONXR1NlAxSTZSMVpsTTQzQWUwRDBjZXozSTVmMDZRalhwUl9oQmh3aHg5RmZOUDFxVUtGMS02Z1BoOHdhNElyMHk2MDlxeGvSAbwBQVVfeXFMTldSb3FJWXJlUlVGckxjN1NvQS02WVZTSzk3ZlAzay1mT00tM3luZTBwbmZFbVBVaDNxY2pnV3dSRG9tbFkwV0c2TVMtaG9EOGpmQXBxc3FvSTBQZHdXbnFnVDRPSzRaTnd0VjZHdU9HR21kbjFkZzk1bVA3Uk93UlVhdFg3cldtSllwRG9lUElxQ29nT2tXWno2X3VIWFloaU1OaEhSUW9GaUhVdHpzdXI4ck5uNGZtLWRQclA?oc=5",
-      "published_date": "2026-10-25T10:00:15+00:00"
-    },
-    {
-      "title": "After Netanyahu meets police chief, Israel's elections head warns against vote interference",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-912753",
-      "published_date": "2026-10-25T09:48:36+00:00"
-    },
-    {
-      "title": "Israeli elections poll tracker: Three scenarios that could play out as Netanyahu faces losing power",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-poll-tracker-netanyahu-b3071544.html",
-      "published_date": "2026-10-25T09:12:40+00:00"
-    },
-    {
-      "title": "The key players in Israel’s first election since October 7 attacks as Netanyahu fights for his political life",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-benjamin-netanyahu-gadi-eisenkot-b3069994.html",
-      "published_date": "2026-10-25T09:10:27+00:00"
-    },
-    {
-      "title": "Ernesto Ottone: “El Presidente debe transmitir seguridad, protección y esperanza. Y eso no ocurre con Kast”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/politica/noticia/ernesto-ottone-el-presidente-debe-transmitir-seguridad-proteccion-y-esperanza-y-eso-no-ocurre-con-kast/",
-      "published_date": "2026-10-25T09:00:01+00:00"
-    },
-    {
-      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
-      "published_date": "2026-10-25T09:00:00+00:00"
-    },
-    {
-      "title": "Indigenous communities worry Brazil’s election could hurt environment",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
-      "published_date": "2026-10-25T08:54:47+00:00"
-    },
-    {
-      "title": "Israeli military conducts massive West Bank operation, days before Israel election",
-      "source": "CBC News World",
-      "country": "Israel",
-      "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss",
-      "published_date": "2026-10-25T08:31:01+00:00"
-    },
-    {
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00"
-    },
-    {
-      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-      "source": "Deutsche Welle English",
-      "country": "Ukraine",
-      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-25T07:19:00+00:00"
-    },
-    {
-      "title": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
-      "published_date": "2026-10-25T06:05:34+00:00"
-    },
-    {
-      "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-      "published_date": "2026-10-25T06:00:54+00:00"
-    },
-    {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T05:15:52+00:00"
-    },
-    {
-      "title": "Iran’s supreme leader directs judiciary to pursue US-Israeli war reparations",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-directs-judiciary-pursue-us-israeli-war-reparations",
-      "published_date": "2026-10-25T04:50:24+00:00"
     }
   ]
 }
