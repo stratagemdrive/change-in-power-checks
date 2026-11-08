@@ -47,7 +47,7 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-07T16:51:18.281499+00:00",
+    "last_updated": "2026-11-08T02:05:21.667762+00:00",
     "story_count": 694,
     "fields": {
       "title": "Headline in English",
@@ -59,6 +59,104 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
+      "source": "Middle East Eye",
+      "country": "Iran",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/you-lost-war-and-election-irans-rezaei-warns-us-devastating-response",
+      "published_date": "2026-11-08T01:07:13+00:00"
+    },
+    {
+      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+      "source": "Japan Times",
+      "country": "Israel",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/israel-president-gadi-eisenkot-government/",
+      "published_date": "2026-11-07T23:07:00+00:00"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "source": "BBC World",
+      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T22:19:59+00:00"
+    },
+    {
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "published_date": "2026-11-07T22:12:09+00:00"
+    },
+    {
+      "title": "Cancillería de Venezuela saludó a Pedro Alliana por su asunción como presidente de Paraguay",
+      "source": "El Nacional Venezuela",
+      "country": "Venezuela",
+      "url": "https://www.elnacional.com/2026/11/venezuela-saludo-a-pedro-alliana-por-su-asuncion-como-presidente-de-paraguay/",
+      "published_date": "2026-11-07T21:17:00+00:00"
+    },
+    {
+      "title": "Israeli president picks Netanyahu's rival Gadi Eisenkot to try to form government",
+      "source": "Dawn Pakistan",
+      "country": "Israel",
+      "url": "https://www.dawn.com/news/2042866/israeli-president-picks-netanyahus-rival-gadi-eisenkot-to-try-to-form-government",
+      "published_date": "2026-11-07T21:07:14+00:00"
+    },
+    {
+      "title": "Mélenchon promises action against Israeli annexation if elected President",
+      "source": "Al Jazeera English",
+      "country": "France",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "published_date": "2026-11-07T20:53:47+00:00"
+    },
+    {
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "source": "NPR World",
+      "country": "Israel",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "published_date": "2026-11-07T20:18:18+00:00"
+    },
+    {
+      "title": "Israel's president picks Eisenkot over Netanyahu to try to form new government",
+      "source": "Middle East Eye",
+      "country": "Israel",
+      "url": "https://www.middleeasteye.net/news/israels-president-picks-eisenkot-over-netanyahu-try-form-new-government",
+      "published_date": "2026-11-07T20:13:00+00:00"
+    },
+    {
+      "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
+      "source": "Sky News World",
+      "country": "Israel",
+      "url": "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540",
+      "published_date": "2026-11-07T20:10:00+00:00"
+    },
+    {
+      "title": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
+      "source": "South China Morning Post",
+      "country": "Israel",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu",
+      "published_date": "2026-11-07T20:05:19+00:00"
+    },
+    {
+      "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+      "source": "France 24 English",
+      "country": "France",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+      "published_date": "2026-11-07T19:58:43+00:00"
+    },
+    {
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "published_date": "2026-11-07T19:49:39+00:00"
+    },
+    {
+      "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+      "published_date": "2026-11-07T19:37:14+00:00"
+    },
     {
       "title": "Kast felicita a Pedro Alliana tras asumir presidencia de Paraguay: “Mucho éxito, Presidente”",
       "source": "La Tercera Chile",
@@ -88,7 +186,14 @@
       "published_date": "2026-11-07T16:00:50+00:00"
     },
     {
-      "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+      "title": "Israel's president asks Gadi Eisenkot, Netanyahu's rival, to form new government",
+      "source": "CBC News World",
+      "country": "Israel",
+      "url": "https://www.cbc.ca/news/world/gadi-eisenkot-form-government-israel-9.7413714?cmp=rss",
+      "published_date": "2026-11-07T14:46:03+00:00"
+    },
+    {
+      "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
       "source": "France 24 English",
       "country": "France",
       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
@@ -130,6 +235,13 @@
       "published_date": "2026-11-07T12:03:00+00:00"
     },
     {
+      "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins - Al Jazeera",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWNHY3pfMUhjUjZKeVhEeFRteUxXX1pvd0N1bjlBZVVsYUVSLUoyZktvZFZObzVBYzFGTV9mMDROcUg5MHNvbXZ2dlNTa1NkNENGRVRXdWNLNzF2RlVvcW1BVDd3eE9Dd1NYcm5JOU9WNldITzAzbExDcnQ2cXRWQ1JwQ3RnRzQwUkp4OWROZ0pOVHBPSDZQNGVYNVk5c0o5UFdfakhOazZQVm02TWRiSE5SZHJhQdIBuwFBVV95cUxPMHR5cE1JUGE1QnBINTlMbDg3LW1GX2FrV1VkLVF2bXBTcDRFaTRULS1LUlhSQ2o3VGgzU3lPaDN5ek5wZV8wMUwyVlh4ZVR4WjdfR1lId09xQlNhdllMb3ViRU01WE9HblJSbkZQVUhkNGh3c1RTVk41aXplaWwxWGxWRWNOTkVMZXRYNkdpZ3JsVmRjU2ctTVktclFLdktFeGhPYmhucnY4ajlSRTNKeVlpalhpcXdxaGVF?oc=5",
+      "published_date": "2026-11-07T11:20:57+00:00"
+    },
+    {
       "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
       "source": "France 24 English",
       "country": "France",
@@ -149,6 +261,13 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-eleito-presidente-da-alesp-tenta-emplacar-novato-como-sucessor-e-gera-racha-no-pl.shtml",
       "published_date": "2026-11-07T02:00:00+00:00"
+    },
+    {
+      "title": "Report: Both election interference probes involving Arab parties falling apart - The Times of Israel",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVVWRVlSM0cxR2J4ZzhScC1QcDhscEZpT1RUMGpFZWJXSE0zYmNpYlNENGx4V0MwNFNwNmN3NnlVWWRmbWxFN2o3N2N2N2FVcHZiSUVLMmZnak1iR0RRbnVSRzNWVjRvSjgtdUlVbTV4T1dWYUJzczhHRmhHdjZRMy1sWGxTV1NJZERUaDNNbTBZMmF2UExJcW9pSUl6bjBfc1ZwRUp5eWJtWjBVQW9JV1JR0gG3AUFVX3lxTFAzdW04RldRQksybnpPRFBqV1dYQjVNTXAtSlZTYWc2R29SNjB4MWlZMmZPYkExRVNaSjVGVlJlMGo2VUE5THg3MWlMdUM2TnNZOXIybzRHRGd6OVI1ekpKaXlsQzA4UW9LNVd6Q3lYaU41NG12SXpzMS1XbEpsMmh2Z1NMak96Tmowdk1lWFJUN3hQak9ER01QVXlOQUZZLVI2RFZFZ0RteG5KaHhMZHQ1c09VNjFyVQ?oc=5",
+      "published_date": "2026-11-07T01:48:00+00:00"
     },
     {
       "title": "Harmeet Dhillon, who led anti-Israel campus protest crackdown, resigns",
@@ -4797,125 +4916,6 @@
       "country": "Iran",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-directs-judiciary-pursue-us-israeli-war-reparations",
       "published_date": "2026-10-25T04:50:24+00:00"
-    },
-    {
-      "title": "Thousands rally in Tel Aviv against Netanyahu ahead of elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-rally-against-netanyahu-ahead-elections",
-      "published_date": "2026-10-25T00:14:25+00:00"
-    },
-    {
-      "title": "2027 elections: Nigerian journalists should collaborate",
-      "source": "The Punch Nigeria",
-      "country": "Nigeria",
-      "url": "https://punchng.com/2027-elections-nigerian-journalists-should-collaborate/?utm_source=rss.punchng.com&utm_medium=web",
-      "published_date": "2026-10-25T00:05:09+00:00"
-    },
-    {
-      "title": "El primer ministro británico y el presidente de Chile hablaron sobre Malvinas",
-      "source": "La Nacion Argentina",
-      "country": "Chile",
-      "url": "https://www.lanacion.com.ar/politica/el-primer-ministro-britanico-y-el-presidente-de-chile-hablaron-sobre-malvinas-nid24102026/",
-      "published_date": "2026-10-24T23:53:22+00:00"
-    },
-    {
-      "title": "Trump prepares for Iran escalation after U.S. and Israeli elections",
-      "source": "Japan Times",
-      "country": "Iran",
-      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/iran-us-midterm-elections-war/",
-      "published_date": "2026-10-24T23:00:00+00:00"
-    },
-    {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "source": "BBC World",
-      "country": "Brazil",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T22:08:47+00:00"
-    },
-    {
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-      "published_date": "2026-10-24T21:39:29+00:00"
-    },
-    {
-      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "published_date": "2026-10-24T21:10:23+00:00"
-    },
-    {
-      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-      "published_date": "2026-10-24T20:37:02+00:00"
-    },
-    {
-      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDJ1SGFoTUhVdlBmTFRuTFc2eEJiMlBKc3RiWmdpQVlWZzZOTEppNkpweDlxbEJfQm5hbUdfRFB2eTN1MlZEMk1wcGxJMWtyc1NYYW5VV1p3b0RaVDh4SlpnUC13T0Fna0ZRSUpnRlBOWDd2NHVDTEZtbzM4cXd2RU1QZVVHNTVXWnd2enphaUR3NkJoQ0x1c3J3SWdjc3FLRmhNYWY3aXFhNXFKbjFxUUhNSdIBuAFBVV95cUxNMVE4bWlIamtEdEtYR2R6YnR0VW9zOGRZb0lhaURxbUNiMEhzTVVTX0VTMU9Bdmd3TkZRQThuR001Tm5za1VZLTB2dkNRb05kNWFteWZfSkhFMXB5el9sY09IVmg5NjlvRnFNS3ZhcWhaRWhRT3Iwa1VVWVZqODNOeng0amxiSldFb1daOEpGWlVNWFVKaUNMNlAxRWZwM294djdDUHFsbG9oY3lPRXJUNFJlWTBlVGhh?oc=5",
-      "published_date": "2026-10-24T19:15:46+00:00"
-    },
-    {
-      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "published_date": "2026-10-24T19:11:48+00:00"
-    },
-    {
-      "title": "“Witkoff should step down” says Ukraine Committee Chief",
-      "source": "France 24 English",
-      "country": "Ukraine",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
-      "published_date": "2026-10-24T18:37:05+00:00"
-    },
-    {
-      "title": "Iran judiciary says chief holds rare meeting with supreme leader",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
-      "published_date": "2026-10-24T18:28:59+00:00"
-    },
-    {
-      "title": "Trump's advisers optimistic of working with Netanyahu's rivals if he loses next election - report",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/article-912711",
-      "published_date": "2026-10-24T18:09:11+00:00"
-    },
-    {
-      "title": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
-      "published_date": "2026-10-24T17:54:38+00:00"
-    },
-    {
-      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him? - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTJNaE03MDRCSmxDV1hyWWNOZ3d0VzdXaFNFZ1B6a0JuSlFFQ2hJTzdSY3FPaW9jdWxpWXNjUW9wSjJ2dXFnN3RwR0pQU1pCWEJaNU44WTRURFhJX2E0X2Y4TGxnaE1vTUplQS1wY2RnalBpbGpfREdKS1pyWlM0NTVqT1YyQUo2QWZpT3RwOTExNXI2UjNfT2FtNEFHUXBXaEU4Zml6ZTNDZTlwZVBucTVpcU5DU2hyWlE?oc=5",
-      "published_date": "2026-10-24T17:45:16+00:00"
-    },
-    {
-      "title": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race",
-      "published_date": "2026-10-24T17:19:15+00:00"
-    },
-    {
-      "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
-      "source": "The Hindu Politics",
-      "country": "India",
-      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece",
-      "published_date": "2026-10-24T17:00:40+00:00"
     }
   ]
 }
