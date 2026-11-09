@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-08T17:00:57.259053+00:00",
-    "story_count": 667,
+    "last_updated": "2026-11-09T02:22:55.840486+00:00",
+    "story_count": 638,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,11 +60,67 @@
   },
   "stories": [
     {
+      "title": "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-flooding-brings-gazas-civil-defence-declare-maximum-state",
+      "published_date": "2026-11-09T02:08:15+00:00"
+    },
+    {
+      "title": "ANC election losses could weaken South Africa's anti-Israel stance",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/international/article-914271",
+      "published_date": "2026-11-08T22:39:21+00:00"
+    },
+    {
+      "title": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+      "source": "France 24 English",
+      "country": "Israel",
+      "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
+      "published_date": "2026-11-08T21:10:13+00:00"
+    },
+    {
+      "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call - Axios",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92VE5LN1lvY2ZtM09UVm5TOVZnbU9taE1hVkE5TjQyenJQOVZzaFJ6RWV5S0NwLUlwajRBbTQ3SHh2T0w0VXZtQl9mYTZEd1YxTU52bm9TZTAxYXMwdDVkVWdFbHI4UV9qZVJuQW9MY3N6VjcxQ2ZxWk5RMVBGSVE?oc=5",
+      "published_date": "2026-11-08T18:13:48+00:00"
+    },
+    {
       "title": "A-G Baharav-Miara says no evidence foreign interference could have changed Knesset election results",
       "source": "Jerusalem Post",
       "country": "Israel",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
       "published_date": "2026-11-08T18:08:48+00:00"
+    },
+    {
+      "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+      "source": "Axios World",
+      "country": "Israel",
+      "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan",
+      "published_date": "2026-11-08T17:59:28+00:00"
+    },
+    {
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "source": "The Guardian World",
+      "country": "Israel",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "published_date": "2026-11-08T17:53:59+00:00"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "published_date": "2026-11-08T17:11:52+00:00"
+    },
+    {
+      "title": "Anti-Druze incitement doubles after Israeli elections, pushed by stolen vote conspiracists - report",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-election-2026/article-914218",
+      "published_date": "2026-11-08T16:55:17+00:00"
     },
     {
       "title": "Criteria: aprobación del Presidente Kast se ubica en 24% y desaprobación alcanza un 67%",
@@ -4468,265 +4524,6 @@
       "country": "Brazil",
       "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/25/6567-acompanhe-ao-vivo-o-segundo-turno-entre-flavio-bolsonaro-e-lula-nas-eleicoes-de-2026.shtml#post467949",
       "published_date": "2026-10-26T02:39:00+00:00"
-    },
-    {
-      "title": "Lula é o segundo presidente há mais tempo no cargo no Brasil; veja top 10",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-o-segundo-presidente-ha-mais-tempo-no-cargo-no-brasil-veja-top-10.shtml",
-      "published_date": "2026-10-26T02:15:00+00:00"
-    },
-    {
-      "title": "Lula amplia recorde e será presidente mais velho da história, terminando 4º mandato aos 85",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-amplia-recorde-e-sera-presidente-mais-velho-da-historia-terminando-4o-mandato-aos-85.shtml",
-      "published_date": "2026-10-26T02:14:00+00:00"
-    },
-    {
-      "title": "Lula beats Bolsonaro to win Brazil presidential election",
-      "source": "Axios World",
-      "country": "Brazil",
-      "url": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
-      "published_date": "2026-10-26T02:04:55+00:00"
-    },
-    {
-      "title": "Brazil's Lula reelected to a historic fourth term in runoff vote",
-      "source": "Jerusalem Post",
-      "country": "Brazil",
-      "url": "https://www.jpost.com/international/article-912848",
-      "published_date": "2026-10-26T01:54:39+00:00"
-    },
-    {
-      "title": "Presidente do TSE liga para Lula para parabenizar reeleição",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-tse-liga-para-lula-para-parabenizar-reeleicao",
-      "published_date": "2026-10-26T01:39:00+00:00"
-    },
-    {
-      "title": "Netanyahu warns Iran against 'disrupting' Israeli elections",
-      "source": "Middle East Eye",
-      "country": "Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-iran-against-disrupting-israeli-elections",
-      "published_date": "2026-10-26T00:50:01+00:00"
-    },
-    {
-      "title": "Resultados de las Elecciones en Brasil: Lula da Silva ganó el balotaje y es el nuevo presidente de Brasil",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-y-las-ultimas-noticias-del-balotaje-voto-nid25102026/",
-      "published_date": "2026-10-26T00:43:46+00:00"
-    },
-    {
-      "title": "Lula logra una remontada inédita sobre Bolsonaro tras un balotaje con polémica y será presidente de Brasil por cuarta vez",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/lula-logra-la-remontada-tras-un-balotaje-envuelto-en-polemica-y-sera-presidente-de-brasil-por-cuarta-nid25102026/",
-      "published_date": "2026-10-26T00:37:03+00:00"
-    },
-    {
-      "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
-      "published_date": "2026-10-26T00:30:22+00:00"
-    },
-    {
-      "title": "Justice, fairness, peace and Nigeria’s 2027 election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/justice-fairness-peace-and-nigerias-2027-election/",
-      "published_date": "2026-10-26T00:29:36+00:00"
-    },
-    {
-      "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-      "published_date": "2026-10-26T00:23:59+00:00"
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-26T00:16:29+00:00"
-    },
-    {
-      "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-      "published_date": "2026-10-26T00:15:36+00:00"
-    },
-    {
-      "title": "President Luiz Inácio ‘Lula’ da Silva wins surprise reelection in Brazil",
-      "source": "Buenos Aires Herald",
-      "country": "Brazil",
-      "url": "https://buenosairesherald.com/world/president-luiz-inacio-lula-da-silva-wins-surprise-reelection-in-brazil",
-      "published_date": "2026-10-26T00:12:51+00:00"
-    },
-    {
-      "title": "Lula é reeleito presidente do Brasil em virada histórica",
-      "source": "Agencia Brasil",
-      "country": "Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica",
-      "published_date": "2026-10-26T00:11:00+00:00"
-    },
-    {
-      "title": "Trump reiterates endorsement of Netanyahu in Israeli elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-endorsement-netanyahu-israeli-elections",
-      "published_date": "2026-10-25T23:47:13+00:00"
-    },
-    {
-      "title": "Venezuela’s opposition leader Machado returns after months in exile",
-      "source": "Al Jazeera English",
-      "country": "Venezuela",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
-      "published_date": "2026-10-25T23:23:25+00:00"
-    },
-    {
-      "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
-      "source": "Axios World",
-      "country": "Israel",
-      "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
-      "published_date": "2026-10-25T23:15:08+00:00"
-    },
-    {
-      "title": "Lula da Silva es reelegido presidente de Brasil al imponerse a Flávio Bolsonaro en el balotaje",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/10/lula-da-silva-es-reelegido-presidente-de-brasil-al-imponerse-a-flavio-bolsonaro-en-el-balotaje/",
-      "published_date": "2026-10-25T23:04:04+00:00"
-    },
-    {
-      "title": "Israel to close occupied West Bank crossings over election",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-close-occupied-west-bank-crossings-over-election",
-      "published_date": "2026-10-25T22:19:18+00:00"
-    },
-    {
-      "title": "Lula re-elected president in Brazil, electoral authority says",
-      "source": "Sky News World",
-      "country": "Brazil",
-      "url": "https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818",
-      "published_date": "2026-10-25T22:13:00+00:00"
-    },
-    {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T22:11:13+00:00"
-    },
-    {
-      "title": "Why Israel's election is one of the most important in its history",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T22:05:30+00:00"
-    },
-    {
-      "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
-      "source": "NPR World",
-      "country": "Brazil",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
-      "published_date": "2026-10-25T21:22:43+00:00"
-    },
-    {
-      "title": "Brazil’s election left hanging as judge extends vote after polls close, sparking chaos",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3372096/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours",
-      "published_date": "2026-10-25T21:18:45+00:00"
-    },
-    {
-      "title": "Israel Police uncover, remove X accounts accused attempting to influence election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912811",
-      "published_date": "2026-10-25T21:01:47+00:00"
-    },
-    {
-      "title": "Trump critic Lula narrowly wins re-election in Brazil's presidential vote",
-      "source": "CBC News World",
-      "country": "Brazil",
-      "url": "https://www.cbc.ca/news/world/lula-brazil-reelection-9.7395695?cmp=rss",
-      "published_date": "2026-10-25T20:30:30+00:00"
-    },
-    {
-      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-      "published_date": "2026-10-25T20:00:04+00:00"
-    },
-    {
-      "title": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-      "source": "The Independent UK",
-      "country": "Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html",
-      "published_date": "2026-10-25T19:56:33+00:00"
-    },
-    {
-      "title": "Venezuela opposition leader Machado returns home after fraught year in exile",
-      "source": "South China Morning Post",
-      "country": "Venezuela",
-      "url": "https://www.scmp.com/news/world/americas/article/3372094/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-exile",
-      "published_date": "2026-10-25T19:31:04+00:00"
-    },
-    {
-      "title": "Israel presses ahead with West Bank operation as election approaches - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmFVbFU1aUF5RktLU21EaTk5alRrTVpDS3dUcEswWXBfVFl1M0pPNDdIV0lMeXpSMWVSQjY3S0wxNW9ZMV9rV0VKaFM5T1VfMEpQY1l4UU9MVk9xZFg2WGJTaTlBSUdkS0pPVDllOEN0LXBNQkFTOGlhSmRPbV83bHd2dVYyUkF5TDYxRGpHTmtnaG5Tb2tzN3hvakgwNWc?oc=5",
-      "published_date": "2026-10-25T19:27:00+00:00"
-    },
-    {
-      "title": "Brazil election: President Lula and his rival Bolsonaro have cast their votes in deciding round - DW.com",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlNlX3hMQnNCZ0R2aVZJd0dhUmhoRF9YSDNFMlFOV3A1dXJPSHYyMXpwZTJQamtVTWd5aUZDc002OC1ReExrRGdLZXF4NDlVQlFfbm5tTWx2SWZxNHpFUWNXWU0wcnpJdlI3bzJhZWNMYXQ4VmZrZlVlQ3VMNEJscUVMNFhfZ01HYTgteVBqTW9POExhSVE?oc=5",
-      "published_date": "2026-10-25T19:09:57+00:00"
-    },
-    {
-      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-      "source": "Al Jazeera English",
-      "country": "Venezuela",
-      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-      "published_date": "2026-10-25T18:55:39+00:00"
-    },
-    {
-      "title": "US and Israel elections: New leaders, same policies?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-      "published_date": "2026-10-25T17:53:23+00:00"
-    },
-    {
-      "title": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
-      "source": "South China Morning Post",
-      "country": "Iran",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
-      "published_date": "2026-10-25T17:29:00+00:00"
-    },
-    {
-      "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-      "source": "France 24 English",
-      "country": "Venezuela",
-      "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
-      "published_date": "2026-10-25T17:10:11+00:00"
-    },
-    {
-      "title": "Exiled opposition leader announces shock return to Venezuela",
-      "source": "Sky News World",
-      "country": "Venezuela",
-      "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692",
-      "published_date": "2026-10-25T17:03:00+00:00"
     }
   ]
 }
