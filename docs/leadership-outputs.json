@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-09T21:24:11.898569+00:00",
-    "story_count": 573,
+    "last_updated": "2026-11-10T04:32:43.961833+00:00",
+    "story_count": 564,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -60,6 +60,34 @@
   },
   "stories": [
     {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "source": "Al Jazeera English",
+      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+      "published_date": "2026-11-10T01:59:59+00:00"
+    },
+    {
+      "title": "Junta de Paz para Gaza pide a Israel que permita la entrada de más ayuda humanitaria ante el invierno",
+      "source": "La Tercera Chile",
+      "country": "Israel",
+      "url": "https://www.latercera.com/mundo/noticia/junta-de-paz-para-gaza-pide-a-israel-que-permita-la-entrada-de-mas-ayuda-humanitaria-ante-el-invierno/",
+      "published_date": "2026-11-10T01:16:19+00:00"
+    },
+    {
+      "title": "Ley de Presupuesto: Quiroz critica nivel del debate entre diputados y recibe llamado de atención del presidente de la Cámara",
+      "source": "La Tercera Chile",
+      "country": "Argentina",
+      "url": "https://www.latercera.com/politica/noticia/ley-de-presupuesto-quiroz-critica-nivel-del-debate-entre-diputados-y-recibe-llamado-de-atencion-del-presidente-de-la-camara/",
+      "published_date": "2026-11-09T23:42:55+00:00"
+    },
+    {
+      "title": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
+      "source": "Le Monde France",
+      "country": "Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
+      "published_date": "2026-11-09T23:26:10+00:00"
+    },
+    {
       "title": "Incoming MKs prepare for 26th Knesset ahead of swearing-in ceremony in orientation day",
       "source": "Jerusalem Post",
       "country": "Israel",
@@ -67,11 +95,25 @@
       "published_date": "2026-11-09T21:58:47+00:00"
     },
     {
-      "title": "Hegseth calls Iran war necessary and waves off expected impeachment push",
+      "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+      "source": "Le Monde France",
+      "country": "France",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
+      "published_date": "2026-11-09T21:26:21+00:00"
+    },
+    {
+      "title": "Pentagon chief Hegseth faces impeachment test over Iran war",
       "source": "South China Morning Post",
       "country": "Iran",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push",
       "published_date": "2026-11-09T19:34:12+00:00"
+    },
+    {
+      "title": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen - AP News",
+      "source": "Google News World",
+      "country": "France",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2ZG0ydHlpdXgxNGEtQlBTLXFGaHZNYVNFQ1JoS3FSZXBOaW1BbWFlTW1JSmlRb3RpdGRDaXRNVkljcEFKMkVaR2h4YkZsTEo3VkRhYVNOU1hETWZUeVQxbzBqT28tNTU5aF9ncWpKQXUxMEZ6TTBqTnV0bkY0Q1gwbDU1ZDJfU3BtQXB3T0paZXFxaWtRWTlHV3JnNFg2WUUxcg?oc=5",
+      "published_date": "2026-11-09T19:07:00+00:00"
     },
     {
       "title": "Brazil’s Lula heads to Cop31 on first trip since re-election",
@@ -144,11 +186,11 @@
       "published_date": "2026-11-09T09:16:42+00:00"
     },
     {
-      "title": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen - AP News",
+      "title": "Le Pen and Melenchon ahead in 2027 French presidential race, poll shows - Reuters",
       "source": "Google News World",
       "country": "France",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2ZG0ydHlpdXgxNGEtQlBTLXFGaHZNYVNFQ1JoS3FSZXBOaW1BbWFlTW1JSmlRb3RpdGRDaXRNVkljcEFKMkVaR2h4YkZsTEo3VkRhYVNOU1hETWZUeVQxbzBqT28tNTU5aF9ncWpKQXUxMEZ6TTBqTnV0bkY0Q1gwbDU1ZDJfU3BtQXB3T0paZXFxaWtRWTlHV3JnNFg2WUUxcg?oc=5",
-      "published_date": "2026-11-09T05:47:32+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmpVSHREZHRBQm03SDNnTUYydDB1UHJQRThqb1NwT0ZDYTdyRFZnSWpkNlZ3NnNhb0hOMUxYYUNsb2dCUFlwdl8zSklMNGN3SDdiQXZqTTZCeDVsb2JiVUI4bk9CODY3S3g2U2MzUWtvSllwZW01ZkxsdVBNZHpOVHk5R3hWU0dfQ0Y5ZU1JXzJUUnUzUVBFVDZNNnA4dFc2T3JuRlJBM3c?oc=5",
+      "published_date": "2026-11-09T07:46:00+00:00"
     },
     {
       "title": "China’s torpedo tech, defects at Hong Kong MTR station: 5 weekend reads you missed",
@@ -3964,111 +4006,6 @@
       "country": "Israel",
       "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
       "published_date": "2026-10-27T04:54:30+00:00"
-    },
-    {
-      "title": "South Korean drama ‘Doctor X’ triggers fresh row over Gwangju Uprising depiction",
-      "source": "South China Morning Post",
-      "country": "South Korea",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3372238/south-korean-drama-doctor-x-triggers-fresh-row-over-gwangju-uprising-depiction",
-      "published_date": "2026-10-27T04:02:07+00:00"
-    },
-    {
-      "title": "HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more",
-      "source": "Hindustan Times",
-      "country": "Brazil",
-      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-27-india-calls-for-veto-powers-for-unsc-members-trumps-brazil-election-rigged-claim-and-more-101793069018388.html",
-      "published_date": "2026-10-27T03:10:21+00:00"
-    },
-    {
-      "title": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
-      "source": "Jerusalem Post",
-      "country": "Brazil",
-      "url": "https://www.jpost.com/international/article-912985",
-      "published_date": "2026-10-27T01:46:32+00:00"
-    },
-    {
-      "title": "MLC election results 2026 LIVE: Yogi's BJP wins 2 seats in UP, Akhilesh's SP ahead in 3 as counting continues",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-counting-votes-up-bihar-maharashtra-karnataka-bjp-congress-sp-eci-101793063321273.html",
-      "published_date": "2026-10-27T01:43:04+00:00"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
-      "published_date": "2026-10-27T01:00:00+00:00"
-    },
-    {
-      "title": "Trump says Brazil election looked ‘rigged,’ defeated Bolsonaro’s party recognizes Lula win",
-      "source": "Japan Times",
-      "country": "Brazil",
-      "url": "https://www.japantimes.co.jp/news/2026/10/27/world/politics/bolsonaro-party-lula-win/",
-      "published_date": "2026-10-27T00:59:00+00:00"
-    },
-    {
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "source": "BBC World",
-      "country": "Venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T00:31:11+00:00"
-    },
-    {
-      "title": "El Partido Liberal de Flávio Bolsonaro reconoce la reelección de Lula da Silva como presidente de Brasil",
-      "source": "CiberCuba",
-      "country": "Brazil",
-      "url": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343910-partido-liberal-flavio-bolsonaro-reconoce-reeleccion",
-      "published_date": "2026-10-27T00:18:00+00:00"
-    },
-    {
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "published_date": "2026-10-26T23:53:45+00:00"
-    },
-    {
-      "title": "'Complete fabrication': Netanyahu, Katz deny plans to fire IDF chief Zamir ahead of election",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912979",
-      "published_date": "2026-10-26T23:00:24+00:00"
-    },
-    {
-      "title": "Report: Zamir the only security chief to oppose pre-election military action against Iran - The Times of Israel",
-      "source": "Google News World",
-      "country": "Iran",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2pPXzlNWGJEWWVaOGxZU2dNYWw5RDJUbnlIdVBFVk5Ia2ZLcFd2Y0cyaE81Vlotc3FaWFQ5SVRSM1FFTVFpSURDaW85TWkwNkxKV2NlaU5EcmhDUG52WnpDOGVtOUtSbGllNmpDZDcxYU44eTUzNm1HT2s2ZEFHQU12TmZ1a3QxajZwWmxaZGJ2d1FKMG55cVMydEIta2hJb01NNU1DdldjUlRRa3hDTmxwSUlvTjNRUTBV0gHAAUFVX3lxTE4wOG92VGNRS3BHVDhTWGVvaEpPTEluWXlwZHVtaEF5T1VOWjltTnpUYXk4enVmQ0ljZFdtSkw2NTdpTzhKdHIwYzVEejVCcy1qVW1MS1JVTG02ZTd1aGxMRFkxMVJVOFNscXRfeWtQRVdRNUFFZ1hDUlJPOHpRSnBaa185UlNhbHczNjBzQ1JpeVZfOTBwU0laeW52clJ6ZnlqaXlLSlJFUVBRNWZ4NEJubWpHSnNDcWg5VGRMOHFMaQ?oc=5",
-      "published_date": "2026-10-26T22:41:00+00:00"
-    },
-    {
-      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal - The New York Times",
-      "source": "Google News World",
-      "country": "Mexico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjJIelFVaGFBRHhIRTd2T1lWVlQxV29fQWxxLTZLX25WQ0ZxbktyLWF2LXFFRGlMQXdldjlFMUZlSHBteFBpQXN1Y1psTC1aT05aMzhGLVVWMmYzYmUtYzh3S0lXV3hlS3U0eVRhSkp5WW5zaFY3VjhGSGFoNVRoMFY3NjRLWDZjeEhQRDhoREg?oc=5",
-      "published_date": "2026-10-26T22:33:20+00:00"
-    },
-    {
-      "title": "Brazil elections: Did a WhatsApp channel help get Lula re-elected? - BBC",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMeVRmNlFvTWcxcGViS2o0NFZWOFMyWFM2eV9KZlEtdkM2WjVkSUk4dlhRSTIwU3d2X3d4Ni1CM2FmTDA5WFc4S0o5aFhxZV9TMmdPVG5xcG8?oc=5",
-      "published_date": "2026-10-26T22:15:39+00:00"
-    },
-    {
-      "title": "Trump says Brazil election looked 'rigged' without giving evidence",
-      "source": "Euronews",
-      "country": "Brazil",
-      "url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
-      "published_date": "2026-10-26T21:37:22+00:00"
-    },
-    {
-      "title": "Trump claims Brazil election ‘rigged’ as Bolsonaro’s party acknowledges result",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3372220/brazils-flavio-bolsonaro-says-he-will-lead-opposition-lula-government",
-      "published_date": "2026-10-26T21:34:03+00:00"
     }
   ]
 }
