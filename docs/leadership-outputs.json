@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-11T18:28:02.856246+00:00",
-    "story_count": 447,
+    "last_updated": "2026-11-12T03:37:18.993040+00:00",
+    "story_count": 417,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,41 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Indonesian VP resigns over education qualification row",
+      "source": "Al Jazeera English",
+      "country": "Indonesia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "published_date": "2026-11-12T02:22:48+00:00"
+    },
+    {
+      "title": "Indonesia’s vice president has resigned, aide says, stoking political uncertainty",
+      "source": "Japan Times",
+      "country": "Indonesia",
+      "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/indonesia-vice-president-resigned/",
+      "published_date": "2026-11-12T00:59:00+00:00"
+    },
+    {
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "source": "BBC World",
+      "country": "Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T00:36:11+00:00"
+    },
+    {
+      "title": "Eisenkot warns Netanyahu against military action in Iran until new government is formed",
+      "source": "Jerusalem Post",
+      "country": "Iran",
+      "url": "https://www.jpost.com/israel-election-2026/article-914622",
+      "published_date": "2026-11-11T21:12:36+00:00"
+    },
+    {
+      "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+      "published_date": "2026-11-11T19:32:07+00:00"
+    },
     {
       "title": "Evening recap: Tinubu rewards Flamingos, court declares Bala ADC’s resignation letter fake, other stories",
       "source": "The Punch Nigeria",
@@ -102,11 +137,11 @@
       "published_date": "2026-11-11T16:08:22+00:00"
     },
     {
-      "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
-      "source": "Dawn Pakistan",
-      "country": "Pakistan",
-      "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
-      "published_date": "2026-11-11T15:52:59+00:00"
+      "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election - AP News",
+      "source": "Google News World",
+      "country": "El Salvador",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUVaQWRhWlJPQlJNLTl6bURuRnRWUnZiMlZSVmc1RGpuZ19xZXk0ak55WmlFejJQSE1DSHNwYzFSNDlrclJPc1JCWmp2R05uVWdyUGpYd2o0N1JyelREampYTjZyN0RlSF90NjhkY0ZNWnhfdTAtLWhSX1Z3RkkyNHQ3TmNwS25HZUhTWVN1TS1CbF90RW5LNGpPMGdjU0R3VW81YmFuYk5ITU44bDZkanQ4elU5amFHcDJOdnY4RmlIelhjODZfM0lnY2o?oc=5",
+      "published_date": "2026-11-11T15:18:00+00:00"
     },
     {
       "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
@@ -198,6 +233,13 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/htmorningnewsbriefnovember11petehegsethimpeachmentbidpersiangulfdelhiaqimaatrubhumitrailer-101794366821135.html",
       "published_date": "2026-11-11T03:30:22+00:00"
+    },
+    {
+      "title": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel’s new parliament is sworn in - NBC News",
+      "source": "Google News World",
+      "country": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1pwamowLTNQNERPRUUyTzRWWGxYVGo1MnRlYjl0UGR3OEhtclpFSXRmRjc1YThpTUJJcWlVWHVJVnVNajQ5dHJCd08tTXdtQW5Ya3YtODVhUVVvLVE2SUYxLXpUOW5QVWFZVVU0UHFfTWoydGh2MG93NlFBTUt2Mjk2VXVHYkc5b0NJOGdZR21hZTFOWVFSY0xWcVJ0bWZ4MHZ6el9QRmJWalZaOGdya1B5cmRwNDJvTkE?oc=5",
+      "published_date": "2026-11-11T02:48:00+00:00"
     },
     {
       "title": "Awaiting report on Waris Punjab de’s separatist link claims: Election Commission of India",
@@ -2935,258 +2977,6 @@
       "country": "Israel",
       "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-results-who-won-netanyahu-coalition-b3075329.html",
       "published_date": "2026-10-29T04:17:53+00:00"
-    },
-    {
-      "title": "Petistas veem Flávio tentar sabotar relação Lula-Trump e se enfraquecer ao se proclamar presidente",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/petistas-veem-flavio-tentar-sabotar-relacao-lula-trump-e-se-enfraquecer-ao-se-proclamar-presidente.shtml",
-      "published_date": "2026-10-29T02:00:00+00:00"
-    },
-    {
-      "title": "Israeli president Herzog warns against repeating elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-president-herzog-warns-against-repeating-elections",
-      "published_date": "2026-10-29T01:50:42+00:00"
-    },
-    {
-      "title": "Moraes autoriza presidente do PL a visitar Bolsonaro após derrota e fuga de Flávio",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/moraes-autoriza-presidente-do-pl-a-visitar-bolsonaro-apos-derrota-e-fuga-de-flavio.shtml",
-      "published_date": "2026-10-29T01:44:00+00:00"
-    },
-    {
-      "title": "Brasil: El presidente del TSE defiende la “absoluta normalidad” de las elecciones frente a las denuncias de Flávio Bolsonaro",
-      "source": "La Tercera Chile",
-      "country": "Brazil",
-      "url": "https://www.latercera.com/mundo/noticia/brasil-el-presidente-del-tse-defiende-la-absoluta-normalidad-de-las-elecciones-frente-a-las-denuncias-de-flavio-bolsonaro/",
-      "published_date": "2026-10-29T00:42:44+00:00"
-    },
-    {
-      "title": "Israelis rally for Jewish-Arab government after election gains",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-      "published_date": "2026-10-29T00:34:24+00:00"
-    },
-    {
-      "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published_date": "2026-10-29T00:24:12+00:00"
-    },
-    {
-      "title": "Un escudo equivocado y “líder” en vez de “verdadero presidente”: los llamativos cambios que hizo Flavio Bolsonaro en su comunicado",
-      "source": "La Nacion Argentina",
-      "country": "Brazil",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-escudo-equivocado-y-lider-en-vez-de-verdadero-presidente-los-llamativos-cambios-que-hizo-flavio-nid28102026/",
-      "published_date": "2026-10-29T00:14:33+00:00"
-    },
-    {
-      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-      "published_date": "2026-10-29T00:01:07+00:00"
-    },
-    {
-      "title": "Four scenarios that could play out after Israel’s election as Netanyahu tries to cling onto power",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-results-netanyahu-scenarios-b3075222.html",
-      "published_date": "2026-10-28T23:37:01+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro borra su proclama como \"presidente electo\" y se rebaja a \"líder de Brasil\"",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/10/flavio-bolsonaro-borra-su-proclama-como-presidente-electo-y-se-rebaja-a-lider-de-brasil/",
-      "published_date": "2026-10-28T23:11:05+00:00"
-    },
-    {
-      "title": "Por séptima vez: reeligieron a Diego Cifarelli como presidente de la Federación Argentina de la Industria Molinera",
-      "source": "La Nacion Argentina",
-      "country": "Argentina",
-      "url": "https://www.lanacion.com.ar/economia/campo/por-septima-vez-reeligieron-a-diego-cifarelli-como-presidente-de-la-federacion-argentina-de-la-nid28102026/",
-      "published_date": "2026-10-28T23:00:23+00:00"
-    },
-    {
-      "title": "Netanyahu claims stolen election amid failure to secure victory - Politico",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnl1anZfdTRiTzU4RHZ6alZhQ3FEVGdQcUE4dzlvTGdEeTBUbVZBcE45UHYwUWpaVXh5aTFvUlYwVGNaTjB1dWhKNThMcXZldlZzN2duWXVJXzUtdUU1YmVMa0NZWFI3eFRZanVEOGd1V1F1b05CZHFUOGtfWXp0cnhUTldSQVNSal81d3VFZEhlOGc?oc=5",
-      "published_date": "2026-10-28T22:51:00+00:00"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia la necesidad de militarizar algunas zonas de Bogotá en medio de consejo de seguridad: 'Control militar'",
-      "source": "El Tiempo Colombia",
-      "country": "Colombia",
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
-      "published_date": "2026-10-28T22:48:44+00:00"
-    },
-    {
-      "title": "Israel election results live: Trump ‘hasn’t decided’ whether to intervene in coalition talks, says US",
-      "source": "The Independent UK",
-      "country": "Israel",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-election-results-live-netanyahu-eisenkot-palestine-exit-polls-b3074560.html",
-      "published_date": "2026-10-28T22:45:08+00:00"
-    },
-    {
-      "title": "Carta golpista de Flávio Bolsonaro remete à autoproclamação de líder venezuelano como presidente",
-      "source": "Folha de S Paulo",
-      "country": "Brazil",
-      "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-golpista-de-flavio-bolsonaro-remete-a-autoproclamacao-de-lider-venezuelano-como-presidente.shtml",
-      "published_date": "2026-10-28T22:39:00+00:00"
-    },
-    {
-      "title": "Flávio Bolsonaro se proclama \"verdadero presidente electo\" de Brasil desde EE UU y denuncia fraude electoral",
-      "source": "El Nacional Venezuela",
-      "country": "Brazil",
-      "url": "https://www.elnacional.com/2026/10/flavio-bolsonaro-se-proclama-verdadero-presidente-electo-de-brasil-desde-ee-uu-y-denuncia-fraude-electoral/",
-      "published_date": "2026-10-28T22:26:18+00:00"
-    },
-    {
-      "title": "What’s at stake for Trump in Israel’s deadlocked election?",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/10/29/world/politics/trump-israel-deadlock-election/",
-      "published_date": "2026-10-28T22:19:00+00:00"
-    },
-    {
-      "title": "Israel election results: Netanyahu bloc holds lead with double envelopes to be counted overnight",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-913164",
-      "published_date": "2026-10-28T22:17:43+00:00"
-    },
-    {
-      "title": "Israel’s election gives survivor Netanyahu a path to keep power",
-      "source": "Japan Times",
-      "country": "Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/10/29/world/politics/israel-election-netanyahu-power/",
-      "published_date": "2026-10-28T22:15:00+00:00"
-    },
-    {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T20:53:02+00:00"
-    },
-    {
-      "title": "Presidente de la Cámara llama a reconsiderar AC contra ministro Rabat: “Hay que pensar si esto ayuda en algo a las víctimas”",
-      "source": "La Tercera Chile",
-      "country": "Morocco",
-      "url": "https://www.latercera.com/politica/noticia/presidente-de-la-camara-llama-a-reconsiderar-ac-contra-ministro-rabat-hay-que-pensar-si-esto-ayuda-en-algo-a-las-victimas/",
-      "published_date": "2026-10-28T20:52:20+00:00"
-    },
-    {
-      "title": "UNSMIL continues London meetings towards holding Libyan presidential and legislative elections",
-      "source": "Libya Herald",
-      "country": "United Kingdom",
-      "url": "https://libyaherald.com/2026/10/unsmil-continues-london-meetings-towards-holding-libyan-presidential-and-legislative-elections/",
-      "published_date": "2026-10-28T20:42:00+00:00"
-    },
-    {
-      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
-      "published_date": "2026-10-28T20:38:01+00:00"
-    },
-    {
-      "title": "Historic gains for Arab-majority parties in Israeli election",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
-      "published_date": "2026-10-28T20:32:29+00:00"
-    },
-    {
-      "title": "How do Israeli election results impact timing of possible new Iran war? - analysis",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
-      "published_date": "2026-10-28T20:12:04+00:00"
-    },
-    {
-      "title": "BJP suffers setback in bastions in UP MLC polls, SP gets boost ahead of 2027 assembly elections",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/bjp-suffers-setback-in-bastions-in-uttar-prades-up-mlc-polls-samajwadi-party-sp-gets-boost-ahead-of-2027-assembly-elections-101793217980515.html",
-      "published_date": "2026-10-28T20:06:19+00:00"
-    },
-    {
-      "title": "What's at stake for Trump in Israel's deadlocked election?",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2040495/whats-at-stake-for-trump-in-israels-deadlocked-election",
-      "published_date": "2026-10-28T20:00:48+00:00"
-    },
-    {
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian World",
-      "country": "Israel",
-      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published_date": "2026-10-28T19:58:27+00:00"
-    },
-    {
-      "title": "“Porque vivir lejos nunca debe significar quedar atrás”: alcaldes de zonas extremas del sur envían carta a Presidente Kast",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/porque-vivir-lejos-nunca-debe-significar-quedar-atras-alcaldes-de-zonas-extremas-del-sur-envian-carta-a-presidente-kast/",
-      "published_date": "2026-10-28T19:48:11+00:00"
-    },
-    {
-      "title": "Flavio Bolsonaro insists he is 'leader of Brazil' despite losing election run-off",
-      "source": "Sky News World",
-      "country": "Brazil",
-      "url": "https://news.sky.com/story/flavio-bolsonaro-insists-he-is-leader-of-brazil-despite-losing-election-run-off-13605006",
-      "published_date": "2026-10-28T19:48:00+00:00"
-    },
-    {
-      "title": "Bolsonaro flees Brazil for US after election defeat",
-      "source": "France 24 English",
-      "country": "Brazil",
-      "url": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
-      "published_date": "2026-10-28T19:44:17+00:00"
-    },
-    {
-      "title": "Netanyahu set to remain caretaker prime minister after inconclusive Israeli election",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2040402/netanyahu-set-to-remain-caretaker-prime-minister-after-inconclusive-israeli-election",
-      "published_date": "2026-10-28T19:42:08+00:00"
-    },
-    {
-      "title": "Which way will Israel break? Netanyahu still in it after election night surprises",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
-      "published_date": "2026-10-28T19:34:30+00:00"
-    },
-    {
-      "title": "In Deadlocked Israeli Election, Netanyahu Has Upper Hand",
-      "source": "Foreign Policy",
-      "country": "Israel",
-      "url": "https://foreignpolicy.com/2026/10/28/netanyahu-election-eisenkot-israel-palestinians-trump/",
-      "published_date": "2026-10-28T19:20:20+00:00"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "published_date": "2026-10-28T19:03:03+00:00"
-    },
-    {
-      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "published_date": "2026-10-28T18:31:33+00:00"
     }
   ]
 }
