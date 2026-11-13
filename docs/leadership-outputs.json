@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-13T03:11:15.919610+00:00",
-    "story_count": 370,
+    "last_updated": "2026-11-13T18:28:38.117888+00:00",
+    "story_count": 351,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,76 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "2027: Tompolo, Zamfara gov rally support for Tinubu’s re-election",
+      "source": "The Punch Nigeria",
+      "country": "Nigeria",
+      "url": "https://punchng.com/2027-tompolo-zamfara-gov-rally-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "published_date": "2026-11-13T19:17:07+00:00"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: “Lo único que le faltaba al país eran reglas claras”, dijo el Presidente ante empresas",
+      "source": "La Nacion Argentina",
+      "country": "Argentina",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/",
+      "published_date": "2026-11-13T18:10:00+00:00"
+    },
+    {
+      "title": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
+      "source": "France 24 English",
+      "country": "Myanmar",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
+      "published_date": "2026-11-13T16:41:45+00:00"
+    },
+    {
+      "title": "Art against erasure: A Palestinian sculptor and a Lebanese painter on war, exile and memory",
+      "source": "Middle East Eye",
+      "country": "Palestine",
+      "url": "https://www.middleeasteye.net/discover/art-against-erasure-palestinian-sculptor-lebanese-painter-war-exile-memory",
+      "published_date": "2026-11-13T15:42:23+00:00"
+    },
+    {
+      "title": "IHC suspends local government elections in Islamabad",
+      "source": "Dawn Pakistan",
+      "country": "Pakistan",
+      "url": "https://www.dawn.com/news/2044288/ihc-suspends-local-government-elections-in-islamabad",
+      "published_date": "2026-11-13T14:43:44+00:00"
+    },
+    {
+      "title": "Por falta de avances en indultos, Naveillán dice que el Presidente no se parece al candidato Kast: “Son dos personas distintas”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/por-falta-de-avances-en-indultos-naveillan-dice-que-el-presidente-no-se-parece-al-candidato-kast-son-dos-personas-distintas/",
+      "published_date": "2026-11-13T14:17:52+00:00"
+    },
+    {
+      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+      "source": "Al Jazeera English",
+      "country": "France",
+      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
+      "published_date": "2026-11-13T12:57:08+00:00"
+    },
+    {
+      "title": "Modi inaugurates new section of Bengaluru Metro, takes operational length over 100 km",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/modi-inaugurates-new-section-of-bengaluru-metro-takes-operational-length-over-100-km-101794567407243.html",
+      "published_date": "2026-11-13T10:56:46+00:00"
+    },
+    {
+      "title": "Myanmar junta airstrike kills two university students in historic Rakhine town",
+      "source": "Myanmar Now",
+      "country": "Myanmar",
+      "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-two-university-students-in-historic-rakhine-town/",
+      "published_date": "2026-11-13T10:26:18+00:00"
+    },
+    {
+      "title": "Bengaluru to have India's second-largest Metro network as Pink Line set for inauguration: Key details",
+      "source": "Hindustan Times",
+      "country": "India",
+      "url": "https://www.hindustantimes.com/india-news/bengalurus-pink-line-to-connect-bannerghatta-road-to-electronic-city-corridor-details-metro-narendra-modi-101794548671778.html",
+      "published_date": "2026-11-13T06:16:44+00:00"
+    },
     {
       "title": "Extremely regrettable, negatively affects India’s reputation: IOC on IOA election disputes",
       "source": "Indian Express",
@@ -114,6 +184,13 @@
       "country": "Israel",
       "url": "https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election",
       "published_date": "2026-11-12T18:32:12+00:00"
+    },
+    {
+      "title": "Miriam Peretz: If Yashar forms a government with an Arab party, my son will leave Knesset",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914727",
+      "published_date": "2026-11-12T16:00:18+00:00"
     },
     {
       "title": "Kaiser defiende gira de Kast a Asia pese a flanco abierto por camioneros: “La presencia del Presidente aquí no es necesaria”",
@@ -2438,216 +2515,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/november-1-rally-will-reflect-public-anger-over-election-commission-says-rahul-gandhi-101793386050178.html",
       "published_date": "2026-10-30T18:47:29+00:00"
-    },
-    {
-      "title": "“Netanyahu n’a pas gagné, il a perdu, et de loin”, dit l’ex-Premier ministre israélien Ehud Barak",
-      "source": "France 24 FR",
-      "country": "Israel",
-      "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261030-netanyahu-n-a-pas-gagn%C3%A9-il-a-perdu-et-de-loin-dit-l-ex-premier-ministre-isra%C3%A9lien-ehud-barak",
-      "published_date": "2026-10-30T17:03:35+00:00"
-    },
-    {
-      "title": "Israel: Tibi urges Eisenkot to show 'courage' and form minority government with Palestinians",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/israel-tibi-urges-eisenkot-show-courage-and-form-minority-government-palestinians",
-      "published_date": "2026-10-30T16:27:57+00:00"
-    },
-    {
-      "title": "Mossad joins Shin Bet probe into alleged Qatar election interference - report - The Jerusalem Post",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bDVGXzN3SzlvajVpVEt2cXhqaWlWVW83Um8xTlZNbzBfU1pqQTBXRHRuQ3dNN1h4bjNPbU1mVVRhNlJJeGlNSmZVdkxIcmpSV3dRelFJWThubnp1elZqM1dUWkJUaDgz?oc=5",
-      "published_date": "2026-10-30T16:22:55+00:00"
-    },
-    {
-      "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
-      "published_date": "2026-10-30T15:34:03+00:00"
-    },
-    {
-      "title": "Yuli Edelstein: Israel's election results show why a national unity government is needed - opinion",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/opinion/article-913222",
-      "published_date": "2026-10-30T15:32:55+00:00"
-    },
-    {
-      "title": "Explainer | Could Armenia have a snap election as soon as next year?",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/explainer-could-armenia-have-a-snap-election-as-soon-as-next-year/",
-      "published_date": "2026-10-30T15:27:33+00:00"
-    },
-    {
-      "title": "2027: Atiku’s son unveils plan for Tinubu’s re-election",
-      "source": "Vanguard Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.vanguardngr.com/2026/10/2027-atikus-son-unveils-plan-for-tinubus-re-election/",
-      "published_date": "2026-10-30T15:26:29+00:00"
-    },
-    {
-      "title": "Israel's election ends in deadlock as final results show no clear winner",
-      "source": "France 24 English",
-      "country": "Israel",
-      "url": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner",
-      "published_date": "2026-10-30T15:24:24+00:00"
-    },
-    {
-      "title": "An Arab political earthquake reshapes Israeli elections",
-      "source": "Egypt Independent",
-      "country": "Israel",
-      "url": "https://www.egyptindependent.com/an-arab-political-earthquake-reshapes-israeli-elections/",
-      "published_date": "2026-10-30T15:13:52+00:00"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "source": "BBC World",
-      "country": "Israel",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T15:09:29+00:00"
-    },
-    {
-      "title": "What next as Netanyahu's party claims Israel's election was stolen? - CBS News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVhJbXZZRElZdVFLaTBIRUQ3SzJqZVhmeEs1TDRFcDQzSEtPYjV2ZFEyVVY1WXBoamY5SEVpQ1Y1eW5JeEw1Ym1JNUctSXJkWUFwUzBrdkxhYnlaemhQTnpzamlhMDZ3b3RpYTJWd2JpSXVnR3hnVXVXYVRJSTZ4SWZCOGpCMHB6R0dYTWZDc1VhSWk3LTl3Z0NiTQ?oc=5",
-      "published_date": "2026-10-30T14:39:20+00:00"
-    },
-    {
-      "title": "2027: PDP says party’s presidential candidate still in race despite backing Tinubu",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/news/top-news/921578-2027-pdp-says-partys-presidential-candidate-still-in-race-despite-backing-tinubu.html",
-      "published_date": "2026-10-30T14:29:17+00:00"
-    },
-    {
-      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-      "source": "The Guardian World",
-      "country": "Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-      "published_date": "2026-10-30T14:08:41+00:00"
-    },
-    {
-      "title": "Trump: US-Iran war will 'get wrapped up soon,' speaking ahead of midterm elections",
-      "source": "Jerusalem Post",
-      "country": "Iran",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913344",
-      "published_date": "2026-10-30T14:03:12+00:00"
-    },
-    {
-      "title": "Netanyahu survived Israel's election - but a political reckoning may only be beginning",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
-      "published_date": "2026-10-30T13:30:04+00:00"
-    },
-    {
-      "title": "Sudan RSF commander defects from Hemedti’s forces",
-      "source": "Al Jazeera English",
-      "country": "Sudan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
-      "published_date": "2026-10-30T12:55:10+00:00"
-    },
-    {
-      "title": "Venezuela’s Exiled Opposition Leader Comes Home",
-      "source": "Foreign Policy",
-      "country": "Venezuela",
-      "url": "https://foreignpolicy.com/2026/10/30/venezuela-machado-elections-us-rubio-rodriguez-oil/",
-      "published_date": "2026-10-30T12:00:01+00:00"
-    },
-    {
-      "title": "Pashinyan threatens to metaphorically ‘break arms and legs’ of election fraudsters",
-      "source": "OC Media Caucasus",
-      "country": "Armenia",
-      "url": "https://oc-media.org/pashinyan-threatens-to-metaphorically-break-arms-and-legs-of-election-fraudsters/",
-      "published_date": "2026-10-30T11:49:49+00:00"
-    },
-    {
-      "title": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/israeli-voter-bribery-probe-limited-and-unlikely-affect-election-results-shin-bet-sources-say",
-      "published_date": "2026-10-30T11:29:11+00:00"
-    },
-    {
-      "title": "Germany takes cautious approach on Israeli election results",
-      "source": "Deutsche Welle English",
-      "country": "Germany",
-      "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
-      "published_date": "2026-10-30T11:26:00+00:00"
-    },
-    {
-      "title": "Myanmar junta bombs religious ceremony; kills own POWs in Chin State",
-      "source": "Myanmar Now",
-      "country": "Myanmar",
-      "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-religious-ceremony-kills-own-pows-in-chin-state/",
-      "published_date": "2026-10-30T11:22:46+00:00"
-    },
-    {
-      "title": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/news/-uk-miliband-determined-sanction-settlements-regardless-israeli-election-outcome",
-      "published_date": "2026-10-30T11:00:23+00:00"
-    },
-    {
-      "title": "Netanyahu's bloc finishes ahead in Israel election, but well short of majority",
-      "source": "Dawn Pakistan",
-      "country": "Israel",
-      "url": "https://www.dawn.com/news/2040919/netanyahus-bloc-finishes-ahead-in-israel-election-but-well-short-of-majority",
-      "published_date": "2026-10-30T10:53:06+00:00"
-    },
-    {
-      "title": "French presidential candidate Édouard Philippe designated 'assisted witness' in embezzlement case",
-      "source": "Euronews",
-      "country": "France",
-      "url": "https://www.euronews.com/2026/10/30/french-presidential-candidate-edouard-philippe-designated-assisted-witness-in-embezzlement",
-      "published_date": "2026-10-30T09:54:09+00:00"
-    },
-    {
-      "title": "PM Modi attacks opponents, says govt didn’t let burden of fertiliser prices fall on farmers",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/modi-attacks-opponents-says-govt-didn-t-let-burden-of-fertiliser-prices-fall-on-farmers-101793351404520.html",
-      "published_date": "2026-10-30T09:10:04+00:00"
-    },
-    {
-      "title": "Politburo promotion, Lula victory, US midterm elections",
-      "source": "South China Morning Post",
-      "country": "China",
-      "url": "https://www.scmp.com/plus/news/china/politics/article/3372719/politburo-promotion-lula-victory-us-midterm-elections",
-      "published_date": "2026-10-30T09:00:31+00:00"
-    },
-    {
-      "title": "INDIA bloc meet highlights: Opposition postpones ‘public impeachment’ of CEC to Saturday over bad weather, rain in Delhi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/india-bloc-meeting-live-updates-congress-rahul-gandhi-kharge-priyanka-gyanesh-kumar-public-impeachment-cec-protest-cjp-101793337630696.html",
-      "published_date": "2026-10-30T06:04:12+00:00"
-    },
-    {
-      "title": "Netanyahu alleges stolen election as he seeks political survival amid uncertainty - The Washington Post",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnRJTGF6azN5ZXhTaUZKazRnSUVBb2FoVzJldXJTdEQ2MzVxNjZsYndaNWYzb3hROFI4QUUxZlk3SkEybnVjTUpZOS1hbzVUd1dlNkNyQXMtNTkxeVBVLXMzVGk5RVh5TEJMT1MxVVh0S2xwTzduc1YxZjkwemtnWVIyTjFQc05HaTFKbHVLQXo2NnZTTWVnc05QcFFCLWJzUVYwVWNfU0pqY3F6d1Z1ellVVjNnOEZNdU9mdkcyRE5Ic25aTGc?oc=5",
-      "published_date": "2026-10-30T05:35:54+00:00"
-    },
-    {
-      "title": "HT Morning Brief Oct 30: Delhi air quality improves after rain, Netanyahu’s party falls short of majority in Israel elections",
-      "source": "Hindustan Times",
-      "country": "Israel",
-      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-20-delhi-air-quality-improves-after-overnight-rain-netanyahu-party-falls-short-of-majority-in-israel-elections-101793333009109.html",
-      "published_date": "2026-10-30T04:51:51+00:00"
-    },
-    {
-      "title": "Venezuela’s Rodríguez vows to hold election as Machado asks when",
-      "source": "Japan Times",
-      "country": "Venezuela",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/venezuela-election-poser/",
-      "published_date": "2026-10-30T04:06:00+00:00"
     }
   ]
 }
