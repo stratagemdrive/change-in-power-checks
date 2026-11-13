@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-12T18:48:12.302104+00:00",
-    "story_count": 379,
+    "last_updated": "2026-11-13T03:11:15.919610+00:00",
+    "story_count": 370,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -59,6 +59,48 @@
     "agent_guidance": "Group stories by 'country' to triage. Signal threshold: 3+ independent sources on the same event within 48 hours = major change. Established 2026 baselines (do not re-flag as new): Iran — Mojtaba Khamenei appointed Supreme Leader March 8 2026 after assassination of Ali Khamenei Feb 28; Venezuela — Maduro captured by US forces Jan 3 2026, interim president Delcy Rodriguez in place; Myanmar — junta chief Min Aung Hlaing nominated civilian president March 30 2026, new army chief Ye Win Oo; Denmark — inconclusive election March 24 2026, Frederiksen caretaker PM, coalition talks ongoing, Moderates are kingmakers; Canada — PM Mark Carney minority Liberal government since April 2025."
   },
   "stories": [
+    {
+      "title": "Extremely regrettable, negatively affects India’s reputation: IOC on IOA election disputes",
+      "source": "Indian Express",
+      "country": "India",
+      "url": "https://indianexpress.com/article/sports/india-reputation-negative-effect-ioc-ioa-election-disputes-10961110/",
+      "published_date": "2026-11-13T02:54:11+00:00"
+    },
+    {
+      "title": "Trump moots toppling Cuba authorities before leaving office",
+      "source": "Al Jazeera English",
+      "country": "Cuba",
+      "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+      "published_date": "2026-11-13T02:33:28+00:00"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital deadliest since election",
+      "source": "Japan Times",
+      "country": "Israel",
+      "url": "https://www.japantimes.co.jp/news/2026/11/13/world/israel-gaza-post-election-strike/",
+      "published_date": "2026-11-13T02:24:00+00:00"
+    },
+    {
+      "title": "#ElFiltro: presidente Abelardo De La Espriella no anunció un acuerdo con Ueno Bank de Paraguay y Santiago Peña en Colombia; publicación es un montaje",
+      "source": "El Tiempo Colombia",
+      "country": "Colombia",
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-presidente-abelardo-de-la-espriella-no-anuncio-un-acuerdo-con-ueno-bank-de-paraguay-y-santiago-pena-en-colombia-publicacion-es-un-montaje-3600612",
+      "published_date": "2026-11-12T23:36:21+00:00"
+    },
+    {
+      "title": "Jeffries calls for ‘dramatic change’ in US military aid to Israel after Democrats' election victory",
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "url": "https://www.jpost.com/american-politics/article-914766",
+      "published_date": "2026-11-12T20:35:17+00:00"
+    },
+    {
+      "title": "Álvaro Ramis, presidente de Voluntad para Chile: “Si pudiéramos llevar entre 70 y 80 candidatos a alcalde, estaremos cumpliendo”",
+      "source": "La Tercera Chile",
+      "country": "Chile",
+      "url": "https://www.latercera.com/politica/noticia/alvaro-ramis-presidente-de-voluntad-por-chile-lo-principal-es-disputar-los-gores-hay-que-dar-continuidad-a-la-gestion-de-mundaca/",
+      "published_date": "2026-11-12T19:00:00+00:00"
+    },
     {
       "title": "Javier Milei y sus medidas, EN VIVO: “Argentina, faro de luz de Occidente”, dijo el Presidente tras la visita de León XIV",
       "source": "La Nacion Argentina",
@@ -95,6 +137,13 @@
       "published_date": "2026-11-12T14:22:50+00:00"
     },
     {
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned - NPR",
+      "source": "Google News World",
+      "country": "Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0Z1aFNoajI5YVNka3ZZVWZIRlNkZG1xclFBOVVjVlpGamV2b2xfeThReV96NkJ3V3dJN3I0TTNKQ19PS2lGQUU1amVsZmdpMThOSVpMYkFaWlF6OGY4OUloajVJeGJJNnpuMm9BU2k4WERRcFV5OXczN1lfVzJuVHIwRHItV3NuYmdVUU1JNXJYU1NzQzFVa2g4eTlsMEZwNWFpTC1mbU5NWEI5VFpaVDVlLUdIRHQzUW5aRWMxTXA?oc=5",
+      "published_date": "2026-11-12T14:22:50+00:00"
+    },
+    {
       "title": "AAP announces second list of 31 candidates for Punjab Assembly elections",
       "source": "Hindustan Times",
       "country": "India",
@@ -111,7 +160,7 @@
     {
       "title": "Is Myanmar’s military junta losing patience with China?",
       "source": "Myanmar Now",
-      "country": "China",
+      "country": "Myanmar",
       "url": "https://myanmar-now.org/en/news/is-myanmars-military-junta-losing-patience-with-china/",
       "published_date": "2026-11-12T09:42:19+00:00"
     },
@@ -2599,118 +2648,6 @@
       "country": "Venezuela",
       "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/venezuela-election-poser/",
       "published_date": "2026-10-30T04:06:00+00:00"
-    },
-    {
-      "title": "Eisenkot warns Netanyahu is attempting to deligitmise the elections",
-      "source": "Middle East Eye",
-      "country": "Israel",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-attempting-deligitmise-elections",
-      "published_date": "2026-10-30T01:48:31+00:00"
-    },
-    {
-      "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election - The New York Times",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFNrbUIxRWJ4RWpMVThaZ3ZGcWg1dUphMHM5VEdla0pmanNZTk1ILWpOcDdBM3VzWTQwWEplTUQ4ZnRIc3pEYkhOTEFiSklJaXZXb3Nra00wM1I2S095eVJfUVowcGNwU2FsbVp3QXJCM294ZDgxNURPRzlMazh5M3ZqQWJ2YTE1WTFzX1NB?oc=5",
-      "published_date": "2026-10-29T23:37:36+00:00"
-    },
-    {
-      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
-      "source": "South China Morning Post",
-      "country": "Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
-      "published_date": "2026-10-29T23:32:33+00:00"
-    },
-    {
-      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
-      "published_date": "2026-10-29T23:24:00+00:00"
-    },
-    {
-      "title": "Detienen a mujer de 22 años por presuntas amenazas de muerte contra el Presidente Kast en redes sociales",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/detienen-a-mujer-de-22-anos-por-presuntas-amenazas-de-muerte-contra-el-presidente-kast-en-redes-sociales/",
-      "published_date": "2026-10-29T22:29:42+00:00"
-    },
-    {
-      "title": "Broken promises or new elections? Netanyahu, Eisenkot face coalition dilemma",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-913296",
-      "published_date": "2026-10-29T21:46:57+00:00"
-    },
-    {
-      "title": "Brazil’s Flavio Bolsonaro mocked at home after self-exile to US",
-      "source": "South China Morning Post",
-      "country": "Brazil",
-      "url": "https://www.scmp.com/news/world/americas/article/3372641/brazils-flavio-bolsonaro-mocked-home-after-self-exile-us",
-      "published_date": "2026-10-29T21:42:06+00:00"
-    },
-    {
-      "title": "The portraits of dead friends are coming off the walls. After 29 years, Russia’s independent Novaya Gazeta newspaper is being forced out of its Moscow newsroom.",
-      "source": "Meduza EN",
-      "country": "Russia",
-      "url": "https://meduza.io/en/news/2026/10/30/the-portraits-of-dead-friends-are-coming-off-the-walls-after-29-years-russia-s-independent-novaya-gazeta-newspaper-is-being-forced-out-of-its-moscow-newsroom",
-      "published_date": "2026-10-29T21:14:12+00:00"
-    },
-    {
-      "title": "Bolsonaro ally blames ChatGPT for now-deleted 'president-elect of Brazil' claim - Reuters",
-      "source": "Google News World",
-      "country": "Brazil",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFnNFUyVW1scnk2Ni02NDdLa0xabkpPUC1rZUpVUG8xYXhlNUg5a19jSENoYk5ldl94ZXNNV0tfYXJjWGFaVU5zamlUNHlqU2NwU0VyR2dJVWVuakI0cG9vQy1RLWlnbmNfdGNyMzdSVUk2UDNFaDBPcUloWGxZa0k0b0lEakpGaFdvb3VxRFowR3N4enZGbGJrNFNaYmptUE92cjNTckNTMVhSY1pHUXVLY0tySDBpMktEbVVJeHhwVzJCLTFITA?oc=5",
-      "published_date": "2026-10-29T21:13:42+00:00"
-    },
-    {
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
-      "source": "BBC World",
-      "country": "Venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T21:05:03+00:00"
-    },
-    {
-      "title": "Israel election result shows no overall majority as vote count complete - Al Jazeera",
-      "source": "Google News World",
-      "country": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlRKcmM0b2Q5Q3I3YS1KejlBOUVUNGtpZ3k0NG0wRG1uZHlKWktycWtnd1JQLUh2dG1LWWxaTVJMRTZFTDB3OXpXaVVVQlBXQm1YUzFPeU16b2dQdDVjcU1yRWdzOXV5V0lqNVo2X0pNVFlYXzE2eEFrU3U3bEdwT1JnRmRHMlRrTW4tMDhvcVJIdHVqZEFOMjNmVXpNMWVrajhJNlRGcWh3SHljTVVHWG1EVdIBuAFBVV95cUxNTFNTejBtc3J6M1Q2aVJrVWpLSTBrNWo5RlFLUVh1a05kbFh0YUZRTTUwXzA5Wlh6WGlYUXNBbEVFVHAzMGd4c2JSSmpzZW1sdGkySThWb29DeDVteGpGbUJsMEtjTEEzY3pvMDZWSWJZQ2dITGkzUFdQWkhFR1lOZTd2TERVOW5XN1JHa0dHdWtwcEhQc3pTOENabXZESExtZnhIVy1DNFEwTlZtSm5YSWJya3lMdUZE?oc=5",
-      "published_date": "2026-10-29T20:29:43+00:00"
-    },
-    {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "source": "Al Jazeera English",
-      "country": "Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-      "published_date": "2026-10-29T20:22:04+00:00"
-    },
-    {
-      "title": "Left-wing Berlin mayor candidate’s private Hamas remarks complicate coalition talks - POLITICO.eu",
-      "source": "Google News World",
-      "country": "Germany",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3VaNDBpbHdCclEyODgyeXR6cmNvbFlMc0JYOWJMcG1XZ3RQalp2TWNzZjBaaVR0Sllzcl9vUzU2elBQWS1naWZQMklvNW5uRWc1MmpOMzNNaThTcUVNT0NFbVVza3JIZlFNcVNhczdtWGlIUDZOQy1EeUQ4eTE1Vk96VmpoYXc1eV9NTFlnVTBjNk1EaE1USlpMUkY?oc=5",
-      "published_date": "2026-10-29T19:29:00+00:00"
-    },
-    {
-      "title": "Israel election results: Netanyahu's Likud biggest party in Israel after all votes counted",
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "url": "https://www.jpost.com/israel-election-2026/article-913237",
-      "published_date": "2026-10-29T19:25:31+00:00"
-    },
-    {
-      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "source": "Al Jazeera English",
-      "country": "Brazil",
-      "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-      "published_date": "2026-10-29T19:21:19+00:00"
-    },
-    {
-      "title": "2027: Tompolo, Oyebanji task Ekiti voters on landslide win for Tinubu, unveil 25 vehicles",
-      "source": "Premium Times Nigeria",
-      "country": "Nigeria",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/921387-2027-tompolo-oyebanji-task-ekiti-voters-on-landslide-win-for-tinubu-unveil-25-vehicles.html",
-      "published_date": "2026-10-29T18:54:38+00:00"
     }
   ]
 }
