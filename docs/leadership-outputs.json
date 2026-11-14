@@ -47,8 +47,8 @@
       "Vietnam",
       "Yemen"
     ],
-    "last_updated": "2026-11-13T18:28:38.117888+00:00",
-    "story_count": 351,
+    "last_updated": "2026-11-14T02:55:54.676701+00:00",
+    "story_count": 347,
     "fields": {
       "title": "Headline in English",
       "source": "Name of the news outlet",
@@ -237,7 +237,7 @@
     {
       "title": "Is Myanmar’s military junta losing patience with China?",
       "source": "Myanmar Now",
-      "country": "Myanmar",
+      "country": "China",
       "url": "https://myanmar-now.org/en/news/is-myanmars-military-junta-losing-patience-with-china/",
       "published_date": "2026-11-12T09:42:19+00:00"
     },
@@ -2487,34 +2487,6 @@
       "country": "India",
       "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-public-impeachment-rahul-gandhi-cec-gyanesh-kumar-cjp-dipke-bora-chalo-dilli-march-news-101793418660900.html",
       "published_date": "2026-10-31T04:49:10+00:00"
-    },
-    {
-      "title": "Cristián Monckeberg arremete contra Carlos Larraín por exigir lealtad a Kast: “Le hizo la vida imposible al Presidente Piñera”",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/cristian-monckeberg-arremete-contra-carlos-larrain-por-exigir-lealtad-a-kast-le-hizo-la-vida-imposible-al-presidente-pinera/",
-      "published_date": "2026-10-31T01:24:04+00:00"
-    },
-    {
-      "title": "Liberals jump ahead of Tories in fundraising as by-election calls loom",
-      "source": "Globe and Mail Politics",
-      "country": "United Kingdom",
-      "url": "https://www.theglobeandmail.com/politics/article-liberal-conservative-fundraising-by-elections-carney-poilievre/",
-      "published_date": "2026-10-31T00:19:03+00:00"
-    },
-    {
-      "title": "Partido Republicano agradece gestión de Luis Silva tras su salida del gobierno y expresa apoyo a las decisiones del Presidente Kast",
-      "source": "La Tercera Chile",
-      "country": "Chile",
-      "url": "https://www.latercera.com/nacional/noticia/partido-republicano-agradece-gestion-de-luis-silva-tras-su-salida-del-gobierno-y-expresa-apoyo-a-las-decisiones-del-presidente-kast/",
-      "published_date": "2026-10-30T23:44:17+00:00"
-    },
-    {
-      "title": "November 1 rally will reflect public anger over Election Commission, says Rahul Gandhi",
-      "source": "Hindustan Times",
-      "country": "India",
-      "url": "https://www.hindustantimes.com/india-news/november-1-rally-will-reflect-public-anger-over-election-commission-says-rahul-gandhi-101793386050178.html",
-      "published_date": "2026-10-30T18:47:29+00:00"
     }
   ]
 }
